@@ -18,6 +18,11 @@ GETFILEINFO = 0x191680     # vaddr: criFs lookup by id, a1 = CPK id
 SAVEPTR = 0x8804000 + 0x2B75F0   # RAM: pointer to the save/work struct
 MODE = 0x8B851BC           # RAM: top-level mode (docs/re/engine.md)
 CARD = 0x8B8C218           # RAM: Card Select work (seg1 +0x87C90)
+SYSPTR = 0x8ABB698         # RAM: pointer to the system data (clear flag, gallery bitsets)
+EXTRA = 0x8B88EA8          # RAM: EXTRA work (seg1 +0x84920); +0x98 state, +0x9B page
+FIGHT = 0x8B89258          # RAM: fight work (seg1 +0x84CD0)
+DEFEATED = 0x8B8DC28       # RAM: unit whose defeat the game over shows (seg1 +0x896A0), first roster id works
+GAUGE_MAX = 0xE60         # full value of the skill gauge (+0x1068) and the charge gauge (+0x106E)
 
 
 class _Json:
@@ -115,6 +120,42 @@ class Game(psp.Run):
     def title(self):
         self.run(2700)   # logos and opening movie; mode 2 is set well before the menu takes input
 
+    def cleared(self):
+        """As after beating the game: on the title, adds the EXTRA row and makes New Game ask for Battle Setting."""
+        self.wr(self.rd32(SYSPTR) + 0xA3, b'\x02')
+
+    def unlock(self):
+        """Fill every gallery bitset (system data +0 to +0x47, +0x4A to +0xA2), so EXTRA shows all six pages."""
+        s = self.rd32(SYSPTR)
+        self.wr(s, b'\xff' * 0x48)
+        self.wr(s + 0x4A, b'\xff' * (0xA3 - 0x4A))
+
+    def to_extra(self):
+        """From the title screen: open EXTRA, the sixth title row."""
+        self.cleared(); self.unlock()
+        self.tap('circle', 6, 240)
+        for _ in range(5): self.tap('down', 6, 60)
+        self.tap('circle', 6, 240)
+
+    def skill(self):
+        """In a fight: fire the player's Charge skill; returns once it fired. Bypasses the Ace check, which the unit fails."""
+        pin = lambda: self.wr(FIGHT + 0x1068, struct.pack('<h', GAUGE_MAX))
+        self.fired = None
+        self.setflag(8, 4)   # the fight reads this before it looks at Square
+        self.hook(0x19330, lambda g, r: g.setreg('v0', 0xFFFFFFFF))   # result of the skill check, -1 allowed
+        self.hook(0x19844, lambda g, r: setattr(g, 'fired', g.f))     # Square released with the charge gauge full
+        for _ in range(4):
+            for _ in range(14):   # tutorial popups, two presses each, block the hold
+                pin(); self.tap('circle', 6, 30)
+            self.press({'square'})
+            for _ in range(6):
+                pin(); self.run(10)
+                self.wr(FIGHT + 0x106E, struct.pack('<H', GAUGE_MAX))
+            self.press(set())
+            self.run(4)
+            if self.fired: return True
+        return False
+
     def new_game(self):
         """GAME START from the title; the prologue scrolls on its own to about frame 8450, then loadStage(0)."""
         self.title(); self.tap('circle', 6, 120)
@@ -183,6 +224,7 @@ class Game(psp.Run):
 
     def outcome(self, v):
         """Field to a stage result: flag 0xA is read by mode 7 (2 game over, 3 next stage, 4 clear, 5 chapter, 8 credits)."""
+        if v == 2: self.wr(DEFEATED, struct.pack('<H', self.rd(self.save() + 0x169, 1)[0]))   # empty, the game over crashes in a draw
         self.setflag(0xA, v); self.wr32(MODE, 7)
 
     def tap(self, keys, hold=6, gap=30):

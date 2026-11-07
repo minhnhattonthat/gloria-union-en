@@ -14,14 +14,16 @@ from scenes import KEYS, scenes
 
 ROOT = 'work/qa/warp'
 WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000}   # kinds that may need mashing to the proof; the rest are there
-# stage scripts open before the fade in; a forced game over crashes in a draw about 200 frames in (docs/re/engine.md)
-SETTLE = {'stage': 480, 'game_over': 120}
+# stage scripts open before the fade in
+SETTLE = {'stage': 480, 'game_over': 900, 'skill_cutin': 270}   # the defeat line types out; the skill's card and motto are up about 270 frames after it fires
 
 
 def reached(g, proof):
-    kind, v, *rest = proof
+    kind, v, *rest = (*proof, None)
     if kind == 'file': return v in g.files
     if kind == 'mode': return g.mode() == v
+    if kind == 'fired': return g.fired
+    if kind == 'byte': return g.rd(v, 1)[0] == rest[0]
     return struct.unpack('<h', g.rd(g.save() + 0x1A0, 2))[0] == v and rest[0] in g.files
 
 
@@ -37,18 +39,21 @@ def go(name, iso, state_out=None):
     g.watch_files()
     try:
         if kind == 'outcome': g.warp(3)
-        elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy'): g.warp(arg)
+        elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy', 'skill'): g.warp(arg)
         if kind == 'boot': g.title(); g.tap('circle', 6, 240)
         elif kind == 'title': g.title(); g.tap('circle', 6, 240)
+        elif kind == 'cleared': g.title(); g.cleared(); g.tap('circle', 6, 240)
+        elif kind == 'extra': g.title(); g.to_extra()
         elif kind == 'mode': g.title(); g.wr32(gu.MODE, arg); g.tap('circle', 6, 120)
         else: g.new_game()
         if kind == 'select': g.to_select()
         elif kind == 'ready': g.to_ready()
-        elif kind in ('field', 'outcome', 'fight', 'enemy'): g.to_field()
+        elif kind in ('field', 'outcome', 'fight', 'enemy', 'skill'): g.to_field()
         if kind == 'fight': g.to_union()
-        if kind == 'enemy':
+        if kind in ('enemy', 'skill'):
             for _ in range(12):
                 if not g.end_turn(lambda g: g.mode() == 34): break
+        if kind == 'skill': g.skill()
         if kind == 'outcome': g.outcome(arg)
         press(g, KEYS.get(name, ()))
         ok = g.until(lambda g: reached(g, proof), WAITS[kind]) if kind in WAITS else g.until(lambda g: reached(g, proof), 300, None)

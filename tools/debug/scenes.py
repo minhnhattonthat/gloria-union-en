@@ -3,10 +3,11 @@
 Kinds: boot (no input), newgame (GAME START), stage (warp to a stage number), mode (force a mode as the title exits),
 title (title menu; KEYS picks the row), select (stage's Character Select), ready (stage's Ready screen), field (first player
 turn of a stage), fight (stage 1's first Union), enemy (end turns until an enemy-phase fight), outcome (field, then flag
-0xA = argument: docs/re/engine.md).
+0xA = argument: docs/re/engine.md), skill (enemy, then fire a skill), cleared (title with the clear flag set), extra (EXTRA,
+everything unlocked).
 KEYS[name] are buttons pressed once there, 'wait N' to wait.
-proof: ('file', id) the game opened that CPK id, ('mode', n) the top-level mode is n, or ('stage', n, script) save+0x1A0 is n
-and the script opened.
+proof: ('file', id) the game opened that CPK id, ('mode', n) the top-level mode is n, ('stage', n, script) save+0x1A0 is n
+and the script opened, ('byte', addr, v) RAM byte, or ('fired',) the skill fired.
 """
 import struct
 
@@ -29,6 +30,9 @@ def stages():
     return out
 
 
+EXTRA = 0x8B88EA8         # RAM: EXTRA work, +0x9B is the open page, row + 1 (table at rodata 0x289680)
+EXTRA_PAGES = ['scenario', 'character', 'card', 'item', 'music', 'audio_drama']
+
 KEYS = {'card_select': ('down', 'circle'), 'card_data': ('down', 'circle', 'wait 120', 'down', 'right', 'triangle'),
         'card_victory': ('down', 'circle', 'wait 120', 'ltrigger'), 'char_status': ('triangle',), 'equip_tab': ('left',),
         'item_tab': ('right',), 'char_caution': ('cross',), 'pre_map': ('rtrigger',), 'unit_status': ('rtrigger', 'cross', 'triangle'),
@@ -36,6 +40,9 @@ KEYS = {'card_select': ('down', 'circle'), 'card_data': ('down', 'circle', 'wait
         'fight': ('circle',), 'skill_gauge': ('wait 600', *['circle'] * 12)}
 for i, r in enumerate(MENU_ROWS, 1): KEYS[f'menu_{r}'] = ('ltrigger', *['down'] * i, 'circle')
 for i, r in enumerate(TITLE_ROWS, 1): KEYS[f'title_{r}'] = (*['down'] * i, 'circle')
+for i, r in enumerate(EXTRA_PAGES): KEYS[f'extra_{r}'] = (*['down'] * i, 'wait 30', 'circle')
+KEYS['battle_setting'] = ('circle',)
+KEYS['game_over_title'] = ('wait 900', 'down', 'circle', 'wait 300')
 
 
 def scenes():
@@ -69,6 +76,12 @@ def scenes():
     s['battle_result'] = ('fight', UNION_STAGE, ('mode', 35))
     s['skill_gauge'] = ('enemy', FIELD_STAGE, ('mode', 34))
     s['game_over'] = ('outcome', 2, ('file', 1758))
+    s['game_over_title'] = ('outcome', 2, ('mode', 2))
     s['stage_clear'] = ('outcome', 4, ('file', 1704))
     for r in TITLE_ROWS: s[f'title_{r}'] = ('title', None, ('mode', 2))
+    s['skill_cutin'] = ('skill', FIELD_STAGE, ('fired',))
+    s['battle_setting'] = ('cleared', None, ('mode', 2))
+    s['extra_menu'] = ('extra', None, ('file', 2430))
+    for row, name in enumerate(EXTRA_PAGES):
+        s[f'extra_{name}'] = ('extra', None, ('byte', EXTRA + 0x9B, row + 1))
     return s
