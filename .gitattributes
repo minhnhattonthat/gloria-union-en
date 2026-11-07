@@ -10,3 +10,5 @@
 *.bps binary
 *.ips binary
 *.xdelta binary
+*.ttf binary
+*.otf binary

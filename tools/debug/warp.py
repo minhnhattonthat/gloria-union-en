@@ -34,10 +34,37 @@ def press(g, keys):
         else: g.tap(k, 6, 90)
 
 
-def go(name, iso, state_out=None):
+def log_text(g, path):
+    """Hook the text writer 0xA222C: one TSV row per (window, font, text) drawn, with the window's geometry
+    (docs/re/text.md, Text renderer). A typewriter window (t3 = 1) is logged at its first character."""
+    seen = set()
+    f = open(path, 'w', encoding='utf8')
+    f.write('win\tfont\tcol\trow\tx\ty\tbox_w\tbox_h\tspx\toffx\tcols\trows\tcell_w\tcell_h\ttext\n')
+
+    def hit(g, r):
+        if r['t3'] and (r['a1'] & 0xFFFF or r['a2'] & 0xFFFF): return
+        try:
+            raw = g.rd(r['t1'], 160).split(b'\0')[0]
+            key = (r['a0'], r['t0'], raw)
+            if key in seen: return
+            geo = struct.unpack('<8h', g.rd(r['a0'], 16))
+            cols, rows, cw, ch = struct.unpack('<4h', g.rd(r['a0'] + 0x18, 8))
+        except RuntimeError: return   # a pointer near the end of RAM
+        seen.add(key)
+        t = raw.decode('cp932', 'replace').replace('\x01', '\\n').replace('\t', ' ').replace('\n', '[0A]')
+        s16 = lambda v: struct.unpack('<h', struct.pack('<H', v & 0xFFFF))[0]
+        f.write(f'{r["a0"]:x}\t{r["t0"]}\t{s16(r["a1"])}\t{s16(r["a2"])}\t{geo[0]}\t{geo[1]}\t{geo[2]}\t{geo[3]}\t{geo[4]}\t{geo[6]}\t'
+                f'{cols}\t{rows}\t{cw}\t{ch}\t{t}\n')
+        f.flush()
+    g.hook(0xA222C, hit)
+    return f
+
+
+def go(name, iso, state_out=None, text_log=False):
     kind, arg, proof = scenes()[name]
     g = gu.Game(iso, f'{ROOT}/{name}')
     g.watch_files()
+    if text_log: log_text(g, f'{ROOT}/{name}/text.tsv')
     try:
         if kind == 'outcome': g.warp(3)
         elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy', 'skill'): g.warp(arg)
@@ -70,10 +97,11 @@ def go(name, iso, state_out=None):
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('scene', nargs='?'); ap.add_argument('--iso', default=gu.ORIG); ap.add_argument('--state-out')
+    ap.add_argument('--text-log', action='store_true', help='log every text the writer draws to <scene>/text.tsv')
     ap.add_argument('--all', action='store_true'); ap.add_argument('--jobs', type=int, default=4); ap.add_argument('--match', default='')
     a = ap.parse_args()
     if not a.all:
-        try: ok, info = go(a.scene, a.iso, a.state_out)
+        try: ok, info = go(a.scene, a.iso, a.state_out, a.text_log)
         except Exception as e: ok, info = False, f'crash {e!r}'
         print('ok' if ok else 'FAIL', a.scene, info)
         sys.exit(0 if ok else 1)
@@ -82,7 +110,7 @@ def main():
     while todo or running:
         while todo and len(running) < a.jobs:
             n = todo.pop(0)
-            running.append((n, subprocess.Popen([sys.executable, '-X', 'utf8', __file__, n, '--iso', a.iso], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)))
+            running.append((n, subprocess.Popen([sys.executable, '-X', 'utf8', __file__, n, '--iso', a.iso] + ['--text-log'] * a.text_log, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)))
         for r in running[:]:
             if r[1].poll() is not None:
                 line = r[1].stdout.read().strip().splitlines()[-1:] or ['FAIL no output']

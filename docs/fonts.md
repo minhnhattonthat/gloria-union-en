@@ -5,5 +5,4 @@ per file; a font with no known licence doesn't go into a release.
 
 | File | Source (URL, version) | Licence | Redistributable in a patch | Used for | Changes made |
 |---|---|---|---|---|---|
-| <fonts/vwf_8px.png> | <drawn for this project> | <MIT, same as repo> | yes | <dialogue VWF> | <-> |
-| <fonts/Title.ttf> | <url, v1.2> | <OFL 1.1> | <yes, as rendered glyphs> | <typeset.py title cards> | <-> |
+| `fonts/MPLUSRounded1c-ExtraBold.ttf` | github.com/google/fonts `ofl/mplusrounded1c` (main, fetched 2026-11-08); licence text `fonts/OFL-MPLUSRounded1c.txt` | OFL 1.1 | yes, as rendered glyphs (the TTF itself is not in the patch) | `tools/vwf.py`: ASCII 0x20-0x7F for engine fonts 1-3 (dialogue 20 px, small 14x16, name tags 24 px italic) | rendered at a cap height matching each game font, 1 px black outline, game palettes; font 3 sheared 0.2 for italic |

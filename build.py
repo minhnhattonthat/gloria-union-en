@@ -41,8 +41,36 @@ def rebuild(out, repl, files=None):
     iso9660.patch(str(ISO), str(out), {DNS: pgd.build(head, itoc.pack(plain, repl)), **(files or {})})
 
 
+EBOOT = "/PSP_GAME/SYSDIR/EBOOT.BIN"
+
+
+def build(out, mode="en", only=None, qa=None):
+    """VWF + text from script/ ('en': English where present; 'marker': every line marked, tools/insert.py).
+    qa: {entry id: text} overrides, for width tests."""
+    import insert
+    ins = insert.Inserter(mode, only, qa)
+    files = {EBOOT: ins.eboot()}
+    rebuild(out, ins.cpk(), files)
+    log = out.with_suffix(".writes.txt")
+    log.write_text("\n".join(ins.eb.log) + "\n", "utf8")
+    return out
+
+
 if __name__ == "__main__":
+    import argparse
     import subprocess
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--marker", action="store_true", help="every line as [id] + filler: build/gloria_marker.iso")
+    ap.add_argument("--only", nargs="*", help="id prefixes to change (e.g. s2034 e:2b); others stay original")
+    ap.add_argument("--plain", action="store_true", help="no edits at all: the identity build")
+    ap.add_argument("--qa", nargs="*", default=[], help="ID=TEXT overrides (\\n in TEXT is a line break)")
+    ap.add_argument("-o", "--out")
+    a = ap.parse_args()
     subprocess.check_call([sys.executable, "-X", "utf8", str(ROOT / "tools" / "check_rom.py")])
-    rebuild(OUT, {})
-    print(OUT)
+    out = Path(a.out) if a.out else ROOT / "build" / ("gloria_marker.iso" if a.marker else "gloria_en.iso")
+    if a.plain:
+        rebuild(out, {})
+    else:
+        qa = dict(x.split("=", 1) for x in a.qa)
+        build(out, "marker" if a.marker else "en", a.only, {k: v.replace("\\n", "\n") for k, v in qa.items()})
+    print(out)

@@ -27,6 +27,10 @@ def asm(src, vaddr):
     adds a nop after every jump unless told `.set noreorder`. Use named labels; `1f`/`1b` fail."""
     b, _ = _ks.asm('.set noreorder\n' + src, vaddr, as_bytes=True)
     assert b, 'keystone returned nothing'
+    # keystone sometimes (depending on earlier calls) turns `jal label` into a 3-instruction $gp call: one source line
+    # must give one instruction. Use `bal label` inside new code.
+    n = sum(1 for ln in src.replace(';', '\n').splitlines() if ln.strip() and not ln.strip().endswith(':') and not ln.strip().startswith('.'))
+    assert len(b) == 4 * n, f'keystone gave {len(b) // 4} instructions for {n} lines'
     return b
 
 

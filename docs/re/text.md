@@ -26,9 +26,9 @@ Text span: optional `02 00 <u16 voice id>` tag, cp932, NUL. The line counter at 
 
 **Speaker:** the last `eb 0b <side> <expr> <u16 char> ...` before a message. Ids 0-0x0E index the name table at 0x2C8748 (verified); higher ids follow the unit name pool at 0x2808F0 with team forms dropped (guess; a sample of lines per id reads right). 0x0F has 87 lines and no name. Ids of 0x1D and up stay `#<id>`. `who` in `script/` is translator context only, never inserted.
 
-**Growth plan:** code keeps its offsets. Append English after the trailer, rewrite each slot in `slots`. Tags stay with their text. Load buffer limit: unknown, check in phase 5; the largest original is 53,880 bytes (id 2057).
+**Insertion (`tools/insert.py`, `tests/test_insert.py`):** code keeps its offsets. The old text spans are zeroed and reused first-fit (longest text first), the rest is appended after the end; each slot in `slots` is rewritten. Tags stay with their text. Common subs grow the same way and id 3 is rebuilt through two FCT levels (`insert.fct_pack`, 16-byte alignment; no edits give the original). EBOOT: a string that fits its bytes stays, else it moves to the blob and its `w:` words / `i:` lui+lo pairs are rewritten (a lui shared by several lo's of one string is written once; the build asserts no lui is shared between strings and no lo is `ori`). Load buffer limit: the marker build (every script grown) played every stage warp: see status.
 
-**Team names (op 0x74):** in `script/` with `at` and `max` (4-20 bytes, 47 unique names). They sit inside code, so growing one shifts code and branches. Options for phase 5: hook 0x11C020 so the handler maps the old bytes to a new table (no code moves, recommended); fit in `max` (too tight for most); or move code (`vm.parse` finds the ops, but which u32 args are targets is not listed per op). **Open for phase 5.**
+**Team names (op 0x74):** in `script/` with `at` and `max` (4-20 bytes, 47 unique names). **Dead (read from the handler, phase 5):** 0x11C020 stores the return of `jal 0x11c018`, which is `jr ra; move v0, zero`, so the side's name pointer is always 0; the string only sets how far the script skips (strlen). The build writes English in place cut to `max`; no hook. Not checked at runtime.
 
 ## Text renderer (phase 5, verified: read breakpoint on a stage 3 message, hooks on the glyph setter)
 
@@ -42,7 +42,12 @@ All text goes through one **writer at 0xA222C** (205 callers). Args: a0 window, 
 - **Glyph setter 0xA20E4** (a0 window, a1 font, a2 glyph, a3 cell): u, v, uv size and texture from the font header; called only from 0xA2764, 0xA2828, 0xA2844.
 - **Sprite builder 0xA2FD0**: x = col * (cell w + win+8) + win+0 + win+C (at 0xA31A4-0xA31DC); y likewise with rows; sprite right edge = x + cell +4, so a narrower +4 and +10 crops a glyph.
 
-**VWF plan (phase 5, not built yet):** ASCII in VWF fonts goes straight to glyph `base[font] + c - 0x20`, drawn into the spare cells past each font's last glyph (no index change); the setter wrapper sets cell +4 = +10 = the glyph's advance, stores the pixel x (previous cell's x + width) in +0 and a flag bit (0x8000) in +1E; the builder uses +0 instead of the multiply when the flag is set; `setSize` gives VWF windows 3x the cols so a row holds ~45 characters. Strings move as single-byte ASCII.
+**VWF (built, `tools/vwf.py`, booted: stage 3 talk, tutorial, name tags):** the spare-cell plan was dropped: font A's last page is only 180 px tall (4 spare cells), so ASCII glyphs live in **three new PTX sheets in the EBOOT blob** (one per engine font 1-3), stored in their loaded form (byte 3 = 1, +0x18/+0x1C absolute, made so by R_MIPS_32 relocations). A cell's texture (+14) is just a pointer to a PTX header, so a glyph can come from any sheet. PTX +0x14 is `15 - log2 w, 15 - log2 h, 0x11, 0` (from 30k textures).
+- 0xA2648 `b 0xa26d4`: no ligatures. 0xA26FC `jal asc`: fonts 1-3 map ASCII c to glyph 0x8000 | c, other fonts go on to 0xA1FB8.
+- The 3 setter calls go to `wrap`: glyph & 0x8000 takes u, v, size and texture from our sheet and its width table (draw width, advance = draw width - 1: outlines overlap); other glyphs go through 0xA20E4 with advance = cell w + window spacing. Then cell +0 = pixel x: previous cell's x + its advance, or the grid x (col * (cell w + spacing)) when col is 0 or the previous cell is not VWF or has no texture, so fixed-column fields keep their original x. +1E: 0x8000 VWF, bits 8-14 advance. The writer's flag reset (0xA25B0) now keeps only bits 1-7.
+- Sprite builder 0xA31A4 `jal bstub`: with 0x8000, x = +0 + window x + offset; bit 0 (absolute) still wins. The re-layout helpers 0xA3D80/0xA3F54 sum cell +4, so they lay VWF cells out by width too.
+- setSize 0xA3C94 `jal cols3`: 3x columns for every window (col limit and memory; positions don't depend on cols).
+- Glyphs: `fonts/MPLUSRounded1c-ExtraBold.ttf` (docs/fonts.md), 1 px black outline, each font's own palette (key colour magenta: index 0 in A and B, 15 in C). Dialogue averages about 8 px a character: `vwf.line_px()` measures a line as the engine lays it out.
 
 ## EBOOT growth (`tools/eboot.py`, selftest: no edits gives the original)
 

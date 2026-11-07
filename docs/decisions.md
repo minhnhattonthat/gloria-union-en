@@ -14,3 +14,4 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 | D6 | 2026-11-07 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through every checkpoint. |
 | D7 | 2026-11-07 | Existing saves or states | provided, none | None provided; build the debug tool as usual. |
 | D8 | 2026-11-07 | Publishing | | Never run `gh release create`, never change repo visibility. The run ends at a built, verified release zip. |
+| D9 | 2026-11-08 | Dialogue box capacity (default under D4, not asked) | 3 lines x 288 px at cap 12 (~105 chars); 4 lines at a 16 px pitch with cap-10 glyphs (~170 chars); abbreviate | 4 lines, smaller glyphs: many 3-line Japanese lines need 110-130 English characters, and D4 puts engine work before cutting. Say if the larger 3-line text is preferred. |
