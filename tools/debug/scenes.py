@@ -42,6 +42,8 @@ for i, r in enumerate(MENU_ROWS, 1): KEYS[f'menu_{r}'] = ('ltrigger', *['down'] 
 for i, r in enumerate(TITLE_ROWS, 1): KEYS[f'title_{r}'] = (*['down'] * i, 'circle')
 for i, r in enumerate(EXTRA_PAGES): KEYS[f'extra_{r}'] = (*['down'] * i, 'wait 30', 'circle')
 KEYS['battle_setting'] = ('circle',)
+KEYS['menu_tutorial'] = ('tutorials', *KEYS['menu_tutorial'])
+KEYS['tutorial_play'] = (*KEYS['menu_tutorial'], 'wait 60', 'circle', 'wait 240', 'circle', 'wait 120')
 KEYS['game_over_title'] = ('wait 900', 'down', 'circle', 'wait 300')
 
 
@@ -71,6 +73,7 @@ def scenes():
                         ('menu_terrain_list', ('mode', 16)), ('menu_object_list', ('file', 1703)), ('menu_tutorial', ('mode', 16)),
                         ('menu_win_conditions', ('mode', 18)), ('menu_suspend', ('file', 2020))]:
         s[name] = ('field', FIELD_STAGE, proof)
+    s['tutorial_play'] = ('field', FIELD_STAGE, ('file', 2023))
     s['union'] = ('fight', UNION_STAGE, ('mode', 33))
     s['fight'] = ('fight', UNION_STAGE, ('mode', 34))
     s['battle_result'] = ('fight', UNION_STAGE, ('mode', 35))

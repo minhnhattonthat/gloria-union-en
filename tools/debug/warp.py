@@ -30,6 +30,7 @@ def reached(g, proof):
 def press(g, keys):
     for k in keys:
         if k.startswith('wait'): g.run(int(k.split()[1]))
+        elif k == 'tutorials': g.wr(g.save(), b'\xff' * 32)   # save +0 bitset: the map menu's Tutorial list shows the set ids
         else: g.tap(k, 6, 90)
 
 

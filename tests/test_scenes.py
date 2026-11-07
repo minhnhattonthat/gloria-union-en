@@ -8,6 +8,11 @@ import scenes  # noqa: E402
 
 
 @pytest.mark.skipif(not os.path.exists(scenes.ELF), reason='needs the dumped EBOOT')
+def test_keys_name_real_scenes():
+    assert set(scenes.KEYS) <= set(scenes.scenes())
+
+
+@pytest.mark.skipif(not os.path.exists(scenes.ELF), reason='needs the dumped EBOOT')
 def test_stage_table():
     st = scenes.stages()
     assert len(st) == scenes.STAGE_COUNT
