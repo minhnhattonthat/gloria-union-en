@@ -48,9 +48,23 @@ Ending letters: 0x114690 (id 1651), reached through function pointer 0x11DEF4 in
 
 Script ops: 256-entry handler table at 0x2EF748. Op 0xAB (`ab 09 <side> <u16 id> <x> <y>`) is the letter page, used by scripts 2080-2082 and some others. So stages 88-90 play the ending, and the letters come from warping there.
 
-## Pre-battle flow (open)
+## Battle flow (verified: every step is a scene in `tools/debug/scenes.py`)
 
-Stage 1: story, then Character Select (mode 20), Circle on a character goes to Card Select (mode 26). In Card Select: Down to a card row, Circle enters it (1/5, Total Move 12), Cross releases, Square returns to mode 20, Right from mode 20 opens the morale tab (mode 22). **Not found: the input that starts the battle.** Tried without effect: Start, Select, L, R, Circle on the rows, Down past the last row. Forcing mode 16 from mode 26 crashes. Leads: mode 16 is written at 0xD2B5C (mode 26 path) and 0xDF9E8 (mode 20 path, after a fade test at 0xDF990, `jal 0xDEF68`, `jal 0xDD04C`).
+Character Select (mode 20): Left equipment (21), Right items (22), Triangle status (29), R stage map (16), Cross on a Must Entry unit is the CAUTION box. Down then Circle: Card Select (26).
+
+Card Select work struct at RAM 0x8B8C218 (seg1 +0x87C90): +1 state, +2 scroll, +3 cursor row, +4 cursor index, +0xC cards needed, +0xD cards taken, +0x5C8 list order, +0x20 + n*0x18 records (byte 0 bit 0: selectable, bit 1: taken). **The battle starts by taking the last card**: when +0xD reaches +0xC the state goes 0x67, 0x68, then Ready (27). The screen says `2/5` and that means taken/needed. Stage 1 has only 6 selectable cards of 41, so most rows do nothing. Triangle: card data (28), L: win conditions (18), R: map (16).
+
+Ready (27, `戦闘準備OK?`), Circle: mode 7 runs the opening script, then the player turn is **mode 15**. Field: L map menu (mode 16; rows in order Turn End, Full Map, Unit List, Card List, Weapon List, Terrain List, Object List, Tutorial, Win Conditions (18), Suspend), R next unit, Cross then Triangle unit status (29), Circle takes a unit, D-pad walks it, Circle puts it down. Square with no unit in hand and an enemy adjacent (`Press □ for Union!`) opens the Union screen (33), Circle: Fight (34), result (35). Turn End goes to the enemy phase (still mode 15; its fights are modes 33-35 and need Circle), then the Tactics Card pick (32).
+
+Row 7 Tutorial did nothing on stage 3 (not looked into; the Option screen has a tutorial switch).
+
+Skills: the skill gauge is explained in-fight from stage 3 on, seen at 70% in `skill_gauge`. **No cut-in has been seen.** Every enemy-phase fight opens pairs from the cut-in range (308/309, 322/323, 330/331, 336/337, 342/343), so it preloads them. Leads: gauge reaching 100%, or a button during the fight (Circle does nothing visible). Not tried: Triangle, Square, Cross during a fight; finding the gauge in RAM.
+
+**Stage outcome:** mode 7 reads story flag 0xA (0x54E0.. at 0x40C0) and jumps through the table at 0x1CA468: 2 game over, 3 next stage, 4 stage clear, 5 next chapter, 8 credits. Mode 15 does not read it, so `gu.outcome(v)` sets the flag and forces mode 7. **A forced game over crashes about 200 frames in** (mode 11, null read at 0xA235C, a draw called from 0x3380), so `Retry` and `Return to Title` are drawn but not exercised. Likely cause, not proven: nothing set the defeated character at seg1 +0x896A0, which 0x12A188 reads when a1 is 0xFFFF. Ending turns does not lose the stage: 15 turns on stage 3 used no cards up.
+
+Title rows work in mode 2: LOAD DATA and CONTINUE are system dialogs, OPTION and DATA INSTALL are drawn there too.
+
+**EXTRA (open):** mode 4 is handler 0x13FDB8, state byte at +0x98, written from title states near 0x132C9C and 0x1330B8 and from 0x13437C (end of credits) and 0x86188 when flag 0x400 of 0x8ABA638 is set. Forcing mode 4 from the title crashes: its work struct has not been set up. 0xAB840 runs before the 0x86188 path and 0x1335A8 before the credits path; one of them may be the setup. Whether mode 4 is EXTRA at all is a guess from the credits returning there. Ship screens (modes 23-25, reached from 0xD2E78, 0xD2F2C, 0xD2FE4 inside mode 20) have no route either; they probably need a unit with a ship.
 
 ## Debug-log noise
 

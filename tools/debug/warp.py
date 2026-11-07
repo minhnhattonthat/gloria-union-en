@@ -5,19 +5,30 @@
 
 Each scene runs in its own process with a fresh memstick. Exit 1 if a scene was not reached.
 """
-import argparse, os, subprocess, sys, time
+import argparse, os, struct, subprocess, sys, time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gu
 from gu import psp
-from scenes import AFTER_CHAR_SELECT, scenes
+from scenes import KEYS, scenes
 
 ROOT = 'work/qa/warp'
+WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000}   # kinds that may need mashing to the proof; the rest are there
+# stage scripts open before the fade in; a forced game over crashes in a draw about 200 frames in (docs/re/engine.md)
+SETTLE = {'stage': 480, 'game_over': 120}
 
 
 def reached(g, proof):
-    kind, v = proof
-    return v in g.files if kind == 'file' else g.mode() == v
+    kind, v, *rest = proof
+    if kind == 'file': return v in g.files
+    if kind == 'mode': return g.mode() == v
+    return struct.unpack('<h', g.rd(g.save() + 0x1A0, 2))[0] == v and rest[0] in g.files
+
+
+def press(g, keys):
+    for k in keys:
+        if k.startswith('wait'): g.run(int(k.split()[1]))
+        else: g.tap(k, 6, 90)
 
 
 def go(name, iso, state_out=None):
@@ -25,18 +36,25 @@ def go(name, iso, state_out=None):
     g = gu.Game(iso, f'{ROOT}/{name}')
     g.watch_files()
     try:
-        if kind == 'stage': g.warp(arg)
-        if kind == 'boot': g.title()
-        elif kind == 'mode':
-            g.title(); g.wr32(gu.MODE, arg); g.tap('circle', 6, 120)
+        if kind == 'outcome': g.warp(3)
+        elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy'): g.warp(arg)
+        if kind == 'boot': g.title(); g.tap('circle', 6, 240)
+        elif kind == 'title': g.title(); g.tap('circle', 6, 240)
+        elif kind == 'mode': g.title(); g.wr32(gu.MODE, arg); g.tap('circle', 6, 120)
         else: g.new_game()
-        if name in AFTER_CHAR_SELECT:
-            g.until(lambda g: g.mode() == 20, 24000)
-            g.run(300)   # mode 20 is set before the screen fades in and takes input
-            for k in AFTER_CHAR_SELECT[name]: g.tap(k, 6, 90)
-        ok = g.until(lambda g: reached(g, proof), 24000 if kind == 'stage' else 9000)
-        g.run(180)   # past the fade-in, so the shot shows the scene
+        if kind == 'select': g.to_select()
+        elif kind == 'ready': g.to_ready()
+        elif kind in ('field', 'outcome', 'fight', 'enemy'): g.to_field()
+        if kind == 'fight': g.to_union()
+        if kind == 'enemy':
+            for _ in range(12):
+                if not g.end_turn(lambda g: g.mode() == 34): break
+        if kind == 'outcome': g.outcome(arg)
+        press(g, KEYS.get(name, ()))
+        ok = g.until(lambda g: reached(g, proof), WAITS[kind]) if kind in WAITS else g.until(lambda g: reached(g, proof), 300, None)
+        g.run(SETTLE.get(name, SETTLE.get(kind, 180)))   # past the fade-in, so the shot shows the scene
         g.shot('proof.png')
+        with open(f'{ROOT}/{name}/files.txt', 'w') as f: f.write(' '.join(map(str, g.files)))
         if state_out: g.save_state(state_out)
         return ok and not psp.blank(f'{ROOT}/{name}/proof.png'), f'mode {g.mode()} frame {g.f}'
     finally:

@@ -1,17 +1,22 @@
 """Scene list: name -> (kind, argument, proof). Reached and proved by tools/debug/warp.py.
 
-Kinds: boot (no input), newgame (GAME START), stage (warp to a stage number), mode (force a mode as the title exits).
-proof: ('file', id) the game opened that CPK id, or ('mode', n) the top-level mode reached n.
+Kinds: boot (no input), newgame (GAME START), stage (warp to a stage number), mode (force a mode as the title exits),
+title (title menu; KEYS picks the row), select (stage's Character Select), ready (stage's Ready screen), field (first player
+turn of a stage), fight (stage 1's first Union), enemy (end turns until an enemy-phase fight), outcome (field, then flag
+0xA = argument: docs/re/engine.md).
+KEYS[name] are buttons pressed once there, 'wait N' to wait.
+proof: ('file', id) the game opened that CPK id, ('mode', n) the top-level mode is n, or ('stage', n, script) save+0x1A0 is n
+and the script opened.
 """
 import struct
 
 ELF = 'work/re/eboot.elf'
 STAGE_TABLE = 0x2C7544    # 91 records of 0x1C bytes, docs/re/engine.md
 STAGE_COUNT = 91
-
-
-# after reaching mode 20, buttons that lead on to the scene's proof (mashing Circle stays on the Must Entry unit)
-AFTER_CHAR_SELECT = {'card_select': ('down', 'circle')}
+FIELD_STAGE = 3           # 1_02_AP: no tutorial and a short story, so the field is about a minute from boot
+UNION_STAGE = 1           # 1_01_AP: the only stage with a known route to an enemy
+MENU_ROWS = ['full_map', 'unit_list', 'card_list', 'weapon_list', 'terrain_list', 'object_list', 'tutorial', 'win_conditions', 'suspend']
+TITLE_ROWS = ['load_data', 'continue', 'option', 'data_install']
 
 
 def stages():
@@ -24,13 +29,22 @@ def stages():
     return out
 
 
+KEYS = {'card_select': ('down', 'circle'), 'card_data': ('down', 'circle', 'wait 120', 'down', 'right', 'triangle'),
+        'card_victory': ('down', 'circle', 'wait 120', 'ltrigger'), 'char_status': ('triangle',), 'equip_tab': ('left',),
+        'item_tab': ('right',), 'char_caution': ('cross',), 'pre_map': ('rtrigger',), 'unit_status': ('rtrigger', 'cross', 'triangle'),
+        'map_menu': ('ltrigger',), 'turn_end_ok': ('ltrigger', 'circle'), 'tactic_card': ('ltrigger', 'circle', 'circle'),
+        'fight': ('circle',), 'skill_gauge': ('wait 600', *['circle'] * 12)}
+for i, r in enumerate(MENU_ROWS, 1): KEYS[f'menu_{r}'] = ('ltrigger', *['down'] * i, 'circle')
+for i, r in enumerate(TITLE_ROWS, 1): KEYS[f'title_{r}'] = (*['down'] * i, 'circle')
+
+
 def scenes():
     s = {'title': ('boot', None, ('mode', 2)),
          'prologue': ('newgame', None, ('file', 2022)),
          'credits': ('mode', 39, ('file', 1992))}
     st = stages()
     for n, name, title, script in st:
-        s[f'stage_{name}'] = ('stage', n, ('file', script))
+        s[f'stage_{name}'] = ('stage', n, ('stage', n, script))
     # chapter cards play when a chapter's first stage loads: cards are 1582 + chapter - 1
     first = {}
     for n, name, *_ in st: first.setdefault(int(name[0]), n)
@@ -38,7 +52,23 @@ def scenes():
         s[f'card_ch{c}'] = ('stage', n, ('file', 1581 + c))
     s['scenario_select'] = ('stage', first[3], ('file', 2427))
     s['tutorial'] = ('stage', first[3], ('file', 2023))
-    s['character_select'] = ('stage', 1, ('mode', 20))
-    s['card_select'] = ('stage', 1, ('mode', 26))
     s['ending_letters'] = ('stage', 90, ('file', 1651))
+    for name, proof in [('character_select', ('mode', 20)), ('card_select', ('mode', 26)), ('card_data', ('mode', 28)),
+                        ('card_victory', ('mode', 18)), ('char_status', ('mode', 29)), ('equip_tab', ('mode', 21)),
+                        ('item_tab', ('mode', 22)), ('char_caution', ('mode', 20)), ('pre_map', ('mode', 16))]:
+        s[name] = ('select', 1, proof)
+    s['ready'] = ('ready', 1, ('mode', 27))
+    for name, proof in [('field', ('mode', 15)), ('unit_status', ('mode', 29)), ('map_menu', ('mode', 16)),
+                        ('turn_end_ok', ('mode', 16)), ('tactic_card', ('mode', 32)), ('menu_full_map', ('mode', 16)),
+                        ('menu_unit_list', ('file', 1757)), ('menu_card_list', ('file', 2426)), ('menu_weapon_list', ('mode', 16)),
+                        ('menu_terrain_list', ('mode', 16)), ('menu_object_list', ('file', 1703)), ('menu_tutorial', ('mode', 16)),
+                        ('menu_win_conditions', ('mode', 18)), ('menu_suspend', ('file', 2020))]:
+        s[name] = ('field', FIELD_STAGE, proof)
+    s['union'] = ('fight', UNION_STAGE, ('mode', 33))
+    s['fight'] = ('fight', UNION_STAGE, ('mode', 34))
+    s['battle_result'] = ('fight', UNION_STAGE, ('mode', 35))
+    s['skill_gauge'] = ('enemy', FIELD_STAGE, ('mode', 34))
+    s['game_over'] = ('outcome', 2, ('file', 1758))
+    s['stage_clear'] = ('outcome', 4, ('file', 1704))
+    for r in TITLE_ROWS: s[f'title_{r}'] = ('title', None, ('mode', 2))
     return s
