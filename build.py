@@ -34,11 +34,11 @@ def read_dns():
     return head, bytes(plain)
 
 
-def rebuild(out, repl):
-    """Write the ISO to `out`, with `repl` {CPK id: file bytes} replaced."""
+def rebuild(out, repl, files=None):
+    """Write the ISO to `out`, with `repl` {CPK id: file bytes} replaced, and `files` {ISO path: bytes} (EBOOT)."""
     head, plain = read_dns()
     out.parent.mkdir(exist_ok=True)
-    iso9660.patch(str(ISO), str(out), {DNS: pgd.build(head, itoc.pack(plain, repl))})
+    iso9660.patch(str(ISO), str(out), {DNS: pgd.build(head, itoc.pack(plain, repl)), **(files or {})})
 
 
 if __name__ == "__main__":

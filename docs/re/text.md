@@ -30,6 +30,24 @@ Text span: optional `02 00 <u16 voice id>` tag, cp932, NUL. The line counter at 
 
 **Team names (op 0x74):** in `script/` with `at` and `max` (4-20 bytes, 47 unique names). They sit inside code, so growing one shifts code and branches. Options for phase 5: hook 0x11C020 so the handler maps the old bytes to a new table (no code moves, recommended); fit in `max` (too tight for most); or move code (`vm.parse` finds the ops, but which u32 args are targets is not listed per op). **Open for phase 5.**
 
+## Text renderer (phase 5, verified: read breakpoint on a stage 3 message, hooks on the glyph setter)
+
+All text goes through one **writer at 0xA222C** (205 callers). Args: a0 window, a1 col, a2 row, a3 colour, t0 font (16+ = font - 16 with a colour from the table at RAM 0x8B910F0 + 12 * (font - 16) + 8), t1 text, t3 one-char mode (the typewriter at 0xA2900 calls it per character and keeps col/row at globals lui 6 +0x5CB8/+0x5CBA). Returns the text pointer.
+
+- **Windows** are grids of cells: +0/+2 x, y; +4/+6 box size; +8/+A extra spacing x/y; +C/+E offset; +14 cell array; +18/+1A cols, rows; +1C/+1E cell size from the table at 0x2BE4AA by font; +34 flags; +98 sprite list. `setSize(win, cols, rows)` at 0xA3C5C allocates cols * rows cells of 0x24 bytes and (rows + 5) * cols sprites of 0x20. Dialogue: font 1, 16 cols x 3 rows, cell 20x20, spacing -2, +2, box 288 px wide. Name tag: font 3, 15 cols, cell 24x24.
+- **Cell** (0x24): +0 col, +2 row, +4/+6 screen size, +8 colour (0 = empty), +C/+E u, v, +10/+12 uv size, +14 texture, +1E flags (bit 0: +0/+2 are absolute pixels; the writer clears it), +20 from the caller.
+- Text bytes: 00 end; 01 newline (row + 1, col 0); 02 `u16` voice; 03 `<b>` and 04 `<u16>` call an indexed string from the table at lui 9 -0x349C (push return); 20-7F ASCII; 80+ Shift-JIS pairs. No auto-wrap: a col past cols - 1 is not drawn.
+- **ASCII:** font 0 draws it from its own 8x8 sheet. Other fonts map it through the table at 0x2BE3E8 (0x20-0x7F to fullwidth: space to 0x8140, `\` to ￥) and look the code up (0xA1FB8). Before that, `!?`, `!!`, `Lv`, `r.` become glyphs 0x22, 0x23, 0x29, 0x2F (code at 0xA2648-0xA26C8): a VWF build must skip those checks.
+- Glyph 0 (0x8140, fullwidth space) skips the glyph setter (0xA274C, 0xA2810), so a space cell keeps colour but no texture.
+- **Glyph setter 0xA20E4** (a0 window, a1 font, a2 glyph, a3 cell): u, v, uv size and texture from the font header; called only from 0xA2764, 0xA2828, 0xA2844.
+- **Sprite builder 0xA2FD0**: x = col * (cell w + win+8) + win+0 + win+C (at 0xA31A4-0xA31DC); y likewise with rows; sprite right edge = x + cell +4, so a narrower +4 and +10 crops a glyph.
+
+**VWF plan (phase 5, not built yet):** ASCII in VWF fonts goes straight to glyph `base[font] + c - 0x20`, drawn into the spare cells past each font's last glyph (no index change); the setter wrapper sets cell +4 = +10 = the glyph's advance, stores the pixel x (previous cell's x + width) in +0 and a flag bit (0x8000) in +1E; the builder uses +0 instead of the multiply when the flag is set; `setSize` gives VWF windows 3x the cols so a row holds ~45 characters. Strings move as single-byte ASCII.
+
+## EBOOT growth (`tools/eboot.py`, selftest: no edits gives the original)
+
+Segment 1 is .bss only. The build gives it file bytes for all of .bss (zeros) and appends a blob (new code, strings, tables) at vaddr 0x3A0150; the relocation segment moves back. RAM = 0x8804000 + vaddr for both segments, so a pointer into the blob is its vaddr with address base 0, like any pointer into segment 0: moved strings need no new relocations, only new word values. New code reaches game functions by `jal` (the builder adds an R_MIPS_26 relocation) and blob data by `bal`. **PPSSPP applies the `.rel` sections, not the relocation segment**, so new entries extend both (`.rel.linkonce.d` is last). Booted: a 512 KB blob plus `setSize` routed through a blob stub reaches the stage 3 warp at the same frame as the original (`warp.py stage_1_02_AP`), and RAM shows both jumps relocated. keystone needs `.set noreorder` (else it adds a nop after every jump) and named labels.
+
 ## Common text: id 3 section 15 (nested FCT, 10 subs) (verified: all parse)
 
 All but 5 and 6 are VM code. Offsets in slots are relative to the sub's start. The "Holds" column comes from reading a sample of each sub.

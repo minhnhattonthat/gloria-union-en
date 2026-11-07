@@ -21,7 +21,17 @@
 | 5 | 0xAB2C0 | PTP, 2 pages: font C, small |
 | 6 | 0xD73A0 | index for C |
 
-The index holds no widths: glyphs sit in fixed cells, so spacing comes from code. SJIS code to glyph by lookup, so fullwidth Latin (0x8260..) can be redrawn or added; a VWF needs the EBOOT draw routine (phase 5, not found yet; `smlFontWrite` at 0x253774 is a debug path). Each font's Latin coverage is partial, so English needs new glyphs in all three.
+The index holds no widths: glyphs sit in fixed cells, so spacing comes from code. Each font's Latin coverage is partial, so English needs new glyphs in all three. The draw routine and the engine's font numbers are in `text.md` §Text renderer.
+
+**Index layout (verified at runtime, phase 5):** u32 byte count, u16 codes in glyph order with a 0 after each bucket, then a header `cols, rows, cell w, cell h, glyphs per page`, then u32 bucket starts. Buckets split at the codes in the table at EBOOT 0x2BE3CA (11 entries: 0x824F, 0x8260, 0x829F, 0x8340, 0x839F, 0x889F, ...); codes below 0x824F start at glyph 0. Within a bucket the scan is linear, so order is free (font A has `ＨＩｍ` at the end of its Latin bucket). Glyph n sits on page n / per-page at cell (n % cols, n / cols % rows).
+
+| Engine font | File | Cell (texture = screen) | Per page | Pages | Glyphs | Spare cells |
+|---|---|---|---|---|---|---|
+| 0 | built into the writer: ASCII 8x8 from one texture (`u = (c & 15) * 8`) | 8x8 | | | | |
+| 1 (dialogue) | font A, sub 1/2 | 20x20, 25x25 | 625 | 4 | 2096 | 404 |
+| 2 | font C, sub 5/6 | 14x16, 36x32 | 1152 | 2 | 1562 | 742 |
+| 3 (name tags) | font B, sub 3/4 | 24x24, 21x21 | 441 | 2 | 758 | 124 |
+| 4 | digits in the writer: glyph n at `(n % 10) * 12, (n / 10) * 12` | 12x12 | | | | |
 
 ## Graphics-text survey: static sweep done
 
