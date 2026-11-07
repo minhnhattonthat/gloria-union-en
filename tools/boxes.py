@@ -49,7 +49,7 @@ def scan(dirs):
     for d in dirs:
         for p in Path(d).glob('*/text.tsv'):
             for row in csv.DictReader(p.open(encoding='utf8'), delimiter='\t', quoting=csv.QUOTE_NONE):
-                m = re.match(r'\[([0-9a-z:]+)\]', row['text'] or '')
+                m = re.match(r'\[([0-9a-z:]+)[\] ]', row['text'] or '')   # marker or stress.py head "[id px]"
                 if not m or m.group(1) not in ids: continue
                 k = klass(row)
                 seen[ids[m.group(1)]].add(k)

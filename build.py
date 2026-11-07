@@ -64,8 +64,11 @@ if __name__ == "__main__":
     ap.add_argument("--only", nargs="*", help="id prefixes to change (e.g. s2034 e:2b); others stay original")
     ap.add_argument("--plain", action="store_true", help="no edits at all: the identity build")
     ap.add_argument("--qa", nargs="*", default=[], help="ID=TEXT overrides (\\n in TEXT is a line break)")
+    ap.add_argument("--qa-file", help="TSV of ID<tab>TEXT overrides, same escapes as --qa (tools/stress.py --fit)")
     ap.add_argument("-o", "--out")
     a = ap.parse_args()
+    if a.qa_file:
+        a.qa += [ln.replace("\t", "=", 1) for ln in Path(a.qa_file).read_text("utf8").splitlines() if ln]
     subprocess.check_call([sys.executable, "-X", "utf8", str(ROOT / "tools" / "check_rom.py")])
     out = Path(a.out) if a.out else ROOT / "build" / ("gloria_marker.iso" if a.marker else "gloria_en.iso")
     if a.plain:

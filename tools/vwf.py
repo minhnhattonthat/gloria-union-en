@@ -307,7 +307,9 @@ def advances(font):
 
 
 def line_px(s, font=1):
-    """Pixel width of one line of ASCII as the engine lays it out (start of the first glyph to the end of the last)."""
+    """Pixel width of one line of ASCII as the engine lays it out (start of the first glyph to the end of the last).
+    Fonts 0 and 4 have no VWF: a fixed cell per character (8 and 12 px, before any window spacing)."""
+    if font in (0, 4): return len(s) * (8 if font == 0 else 12)
     adv = advances(font)
     return sum(adv[ord(c) - 0x20] for c in s if 0x20 <= ord(c) < 0x80) + (1 if s else 0)
 

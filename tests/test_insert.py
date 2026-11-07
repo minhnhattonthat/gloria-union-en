@@ -74,7 +74,8 @@ def test_eboot_points_at_markers(marker):
     for p in (ROOT / 'script/eboot').glob('*.json'):
         for x in json.loads(p.read_text('utf8')):
             if x['status'] == 'data': continue   # untouched; some are pointer tables that decode, and their words move
-            want = from_text(insert.marker(x))
+            t = ins.text(x)   # the marker, a compact one, or None (original kept) for a format string's small buffer
+            want = from_text(x['jp'] if t is None else t)
             for s in x['slots']:
                 k, *a = s.split(':')
                 a = [int(y, 16) for y in a]
@@ -85,6 +86,20 @@ def test_eboot_points_at_markers(marker):
                 assert read(v) == want, (x['id'], s)
                 n += 1
     assert n > 10000
+
+
+def test_format_buffers(marker):
+    """No inserted format string outputs more bytes than its sprintf buffer holds (tbl/fmtbuf.tsv; the battle_result
+    crash: '%2d戦%2d勝' marker overflowed a 16-byte stack buffer)."""
+    ins = marker[0]
+    lim = insert.buf_limits()
+    assert len(lim) >= 9
+    for p in (ROOT / 'script/eboot').glob('*.json'):
+        for x in json.loads(p.read_text('utf8')):
+            t = ins.text(x)
+            if x['id'] in lim and t is not None: assert insert.fmt_bytes(t) <= lim[x['id']], x['id']
+    with pytest.raises(ValueError):
+        insert.Inserter('marker', qa={'e:1edc5c': '%2d wins and %2d losses'}).text({'id': 'e:1edc5c', 'jp': '%2d戦%2d勝', 'en': '', 'status': 'todo'})
 
 
 def test_vwf_widths():

@@ -79,6 +79,8 @@ Groups by address (names from reading a sample): `messages` skill refusals; `bar
 
 `status: data` marks 171 strings players never see: debug text (`メインスレッド一時停止`), binary that decodes, and a glyph list at 0x2537C0 (`NOT_TEXT` in `extract.py`; the glyph list's reader was not traced, so check it in phase 5). Debug and binary were picked by address from a listing of odd strings, not proved unreachable. Filters in `elf.text()`: half-width kana, a lone kanji plus a stray byte, runs of 0x01. Code pointing into the middle of a run is a struct base, not a string.
 
+**Format buffers (`tools/fmtbuf.py` -> `tbl/fmtbuf.tsv`; enforced by `insert.Inserter.text`, `tests/test_insert.py::test_format_buffers`):** some %-strings are `sprintf` (0x14E3B0) into stack buffers. `%2d戦%2d勝` (e:1edc5c, battle_result) goes to sp+0x130 with a local at sp+0x140: 15 bytes of output. Its marker made 20 and crashed the emulator at the result screen (found by bisecting `--only` prefixes with `tools/debug/markbisect.py`). The limit per string is the gap to the next $sp offset the function touches (heuristic: too small at worst; where the original's own output is longer, its length is used). A text over its limit fails the build; a marker over it becomes `[id]` + codes or stays Japanese. Not traced: `%sの士気が`/`%sの経験値は`/`%s隊` (no sprintf after the lo; another formatter), the save-dialog strings (`w:` slots, sceUtility buffers), and strcpy-style copies of plain strings.
+
 `id 1` holds `ＥＦ＿０１２＿ネクロゲート`-style labels in its EFCS block: development names of effects, not shown.
 
 ## Coverage (`tests/test_extract.py`, runs on every commit; 3 deliberate corruptions each made it fail)

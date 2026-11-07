@@ -45,6 +45,7 @@ class Game(psp.Run):
         super().__init__(psp.find_emu(None), iso, out, state, memstick=ms)
         self.ws.s.settimeout(120)
         self.hooks = {}
+        self.later = []
         self.base = self.ws.call('cpu.status')['us']   # psp.Run's clock base
         self.load = self.ws.call('hle.module.list')['modules'][-1]['address']   # the EBOOT module; 0x8804000
         self.f = 0
@@ -63,12 +64,17 @@ class Game(psp.Run):
         self.ws.call('cpu.setReg', name=name, value=v)
 
     def run(self, frames):
-        """Run FRAMES frames, calling hooks as breakpoints hit."""
+        """Run FRAMES frames, calling hooks as breakpoints hit and self.later (frame, fn) items when their frame comes."""
         self.f += frames
-        target = self.base + round(self.f * psp.FRAME_US)
         while True:
+            stop = min([x[0] for x in self.later] + [self.f])
+            target = self.base + round(stop * psp.FRAME_US)
             us = self.ws.call('cpu.status')['us']
-            if us >= target - 100: return
+            if us >= target - 100:
+                for item in [x for x in self.later if x[0] <= stop]:
+                    self.later.remove(item); item[1](self)
+                if stop < self.f: continue
+                return
             try: self.ws.call('cpu.runUntilTime', us=target)
             except RuntimeError: continue   # the clock moved past target after a state load
             ev = self.ws.wait('cpu.stepping')

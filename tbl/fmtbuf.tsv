@@ -1,0 +1,66 @@
+id	slot	call	buffer	max_bytes
+e:1ed9ac	i:40c90:40c9c	sprintf	sp+0x5c	5 (heuristic gave 3: original length)
+e:1ed9b4	i:414fc:4150c	sprintf	sp+0x18	15
+e:1edbd8	i:4aca4:4aca8			no sprintf after it
+e:1edc30	i:4acd0:4acd4	0xa1de0		no sprintf after it
+e:1edc5c	i:47860:4786c	sprintf	sp+0x130	15
+e:25e408	i:1035ec:1035f8	sprintf		a0 not on the stack
+e:25e638	w:2eda40			no lui/lo slot: not traced
+e:25e6b0	w:2eda4c			no lui/lo slot: not traced
+e:25e730	w:2eda58			no lui/lo slot: not traced
+e:25e798	w:2eda64			no lui/lo slot: not traced
+e:25e8e8	w:2eda88			no lui/lo slot: not traced
+e:25e8e8	w:2edadc			no lui/lo slot: not traced
+e:25e8e8	w:2edb54			no lui/lo slot: not traced
+e:25e8e8	w:2edc14			no lui/lo slot: not traced
+e:25e8e8	w:2edc5c			no lui/lo slot: not traced
+e:25e914	w:2eda94			no lui/lo slot: not traced
+e:25e914	w:2edbfc			no lui/lo slot: not traced
+e:25e974	w:2edaa0			no lui/lo slot: not traced
+e:25e974	w:2edb00			no lui/lo slot: not traced
+e:25e974	w:2edbc0			no lui/lo slot: not traced
+e:25e974	w:2edc08			no lui/lo slot: not traced
+e:25e9bc	w:2edaac			no lui/lo slot: not traced
+e:25ea14	w:2edab8			no lui/lo slot: not traced
+e:25ea64	w:2edac4			no lui/lo slot: not traced
+e:25eaa8	w:2edad0			no lui/lo slot: not traced
+e:25eaf4	w:2edae8			no lui/lo slot: not traced
+e:25eb84	w:2edaf4			no lui/lo slot: not traced
+e:25ec00	w:2edb0c			no lui/lo slot: not traced
+e:25ec74	w:2edb18			no lui/lo slot: not traced
+e:25ed04	w:2edb24			no lui/lo slot: not traced
+e:25ed04	w:2edb90			no lui/lo slot: not traced
+e:25ed04	w:2edc38			no lui/lo slot: not traced
+e:25ed94	w:2edb30			no lui/lo slot: not traced
+e:25ee24	w:2edb3c			no lui/lo slot: not traced
+e:25eeac	w:2edb48			no lui/lo slot: not traced
+e:25eeac	w:2edbb4			no lui/lo slot: not traced
+e:25eef0	w:2edb60			no lui/lo slot: not traced
+e:25eef0	w:2edbcc			no lui/lo slot: not traced
+e:25eef0	w:2edc68			no lui/lo slot: not traced
+e:25ef3c	w:2edb6c			no lui/lo slot: not traced
+e:25ef3c	w:2edc74			no lui/lo slot: not traced
+e:25ef80	w:2edb78			no lui/lo slot: not traced
+e:25eff4	w:2edb84			no lui/lo slot: not traced
+e:25f084	w:2edb9c			no lui/lo slot: not traced
+e:25f114	w:2edba8			no lui/lo slot: not traced
+e:25f114	w:2edbf0			no lui/lo slot: not traced
+e:25f114	w:2edc44			no lui/lo slot: not traced
+e:25f1d0	w:2edc20			no lui/lo slot: not traced
+e:25f220	w:2edc2c			no lui/lo slot: not traced
+e:25f294	w:2edc50			no lui/lo slot: not traced
+e:27f70c	w:2edd04			no lui/lo slot: not traced
+e:27f764	w:2edd10			no lui/lo slot: not traced
+e:27f7a4	w:2edd1c			no lui/lo slot: not traced
+e:27f854	w:2edd40			no lui/lo slot: not traced
+e:27f8a0	w:2edd4c			no lui/lo slot: not traced
+e:27f8f8	w:2edd58			no lui/lo slot: not traced
+e:27f940	w:2edd64			no lui/lo slot: not traced
+e:254048	i:bbae4:bbaf4	sprintf	sp+0x158	31
+e:254060	i:bbb44:bbb54	sprintf	sp+0x158	31
+e:254080	i:c12e4:c12e8	0xf3178		no sprintf after it
+e:258bd8	i:e7124:e7138	sprintf	sp+0x10	23
+e:258c04	i:e6964:e6974	sprintf	sp+0x10	31
+e:2896ac	i:13973c:139750	sprintf	sp+0x10	59
+e:2896c4	i:1397e8:1397f0	sprintf	sp+0x4c	59
+e:2896cc	i:139868:139878	sprintf	sp+0x4c	59

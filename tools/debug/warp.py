@@ -2,6 +2,7 @@
 
     python -X utf8 tools/debug/warp.py SCENE [--iso ISO] [--state-out F]
     python -X utf8 tools/debug/warp.py --all [--jobs 4] [--match stage_]      results in work/qa/warp/results.tsv
+    --text-log [--shots]: log every text drawn (<scene>/text.tsv), with a shot of each; --root DIR: output folder
 
 Each scene runs in its own process with a fresh memstick. Exit 1 if a scene was not reached.
 """
@@ -15,6 +16,7 @@ from scenes import KEYS, scenes
 ROOT = 'work/qa/warp'
 WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000}   # kinds that may need mashing to the proof; the rest are there
 # stage scripts open before the fade in
+SHOT_AFTER = 40   # frames from a text's first draw to its shot (log_text shots): past window fade-ins
 SETTLE = {'stage': 480, 'game_over': 900, 'skill_cutin': 270}   # the defeat line types out; the skill's card and motto are up about 270 frames after it fires
 
 
@@ -34,12 +36,22 @@ def press(g, keys):
         else: g.tap(k, 6, 90)
 
 
-def log_text(g, path):
+def log_text(g, path, shots=False):
     """Hook the text writer 0xA222C: one TSV row per (window, font, text) drawn, with the window's geometry
-    (docs/re/text.md, Text renderer). A typewriter window (t3 = 1) is logged at its first character."""
+    (docs/re/text.md, Text renderer). A typewriter window (t3 = 1) is logged at its first character.
+    shots: a shot SHOT_AFTER frames after a text is first drawn (t000.png, ...; shared by texts drawn meanwhile),
+    named in the row's last column, so every window met on a tour has a frame showing it (width gate)."""
     seen = set()
     f = open(path, 'w', encoding='utf8')
-    f.write('win\tfont\tcol\trow\tx\ty\tbox_w\tbox_h\tspx\toffx\tcols\trows\tcell_w\tcell_h\ttext\n')
+    f.write('win\tfont\tcol\trow\tx\ty\tbox_w\tbox_h\tspx\toffx\tcols\trows\tcell_w\tcell_h\ttext\tshot\n')
+    n = [0]
+
+    def shot_name(g):
+        if not shots: return ''
+        if g.later: return g.later[-1][2]
+        name = f't{n[0]:03d}.png'; n[0] += 1
+        g.later.append((g.frame() + SHOT_AFTER, lambda g: g.shot(name), name))
+        return name
 
     def hit(g, r):
         if r['t3'] and (r['a1'] & 0xFFFF or r['a2'] & 0xFFFF): return
@@ -54,7 +66,7 @@ def log_text(g, path):
         t = raw.decode('cp932', 'replace').replace('\x01', '\\n').replace('\t', ' ').replace('\n', '[0A]')
         s16 = lambda v: struct.unpack('<h', struct.pack('<H', v & 0xFFFF))[0]
         f.write(f'{r["a0"]:x}\t{r["t0"]}\t{s16(r["a1"])}\t{s16(r["a2"])}\t{geo[0]}\t{geo[1]}\t{geo[2]}\t{geo[3]}\t{geo[4]}\t{geo[6]}\t'
-                f'{cols}\t{rows}\t{cw}\t{ch}\t{t}\n')
+                f'{cols}\t{rows}\t{cw}\t{ch}\t{t}\t{shot_name(g)}\n')
         f.flush()
     g.hook(0xA222C, hit)
     return f
@@ -64,7 +76,7 @@ def go(name, iso, state_out=None, text_log=False):
     kind, arg, proof = scenes()[name]
     g = gu.Game(iso, f'{ROOT}/{name}')
     g.watch_files()
-    if text_log: log_text(g, f'{ROOT}/{name}/text.tsv')
+    if text_log: log_text(g, f'{ROOT}/{name}/text.tsv', text_log == 'shots')
     try:
         if kind == 'outcome': g.warp(3)
         elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy', 'skill'): g.warp(arg)
@@ -98,10 +110,14 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('scene', nargs='?'); ap.add_argument('--iso', default=gu.ORIG); ap.add_argument('--state-out')
     ap.add_argument('--text-log', action='store_true', help='log every text the writer draws to <scene>/text.tsv')
+    ap.add_argument('--shots', action='store_true', help='with --text-log: a shot of each new text (t000.png...)')
+    ap.add_argument('--root', default=ROOT, help=f'output folder (default {ROOT})')
     ap.add_argument('--all', action='store_true'); ap.add_argument('--jobs', type=int, default=4); ap.add_argument('--match', default='')
     a = ap.parse_args()
+    globals()['ROOT'] = a.root
+    flags = ['--root', a.root] + ['--text-log'] * a.text_log + ['--shots'] * a.shots
     if not a.all:
-        try: ok, info = go(a.scene, a.iso, a.state_out, a.text_log)
+        try: ok, info = go(a.scene, a.iso, a.state_out, a.text_log and ('shots' if a.shots else 'log'))
         except Exception as e: ok, info = False, f'crash {e!r}'
         print('ok' if ok else 'FAIL', a.scene, info)
         sys.exit(0 if ok else 1)
@@ -110,7 +126,7 @@ def main():
     while todo or running:
         while todo and len(running) < a.jobs:
             n = todo.pop(0)
-            running.append((n, subprocess.Popen([sys.executable, '-X', 'utf8', __file__, n, '--iso', a.iso] + ['--text-log'] * a.text_log, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)))
+            running.append((n, subprocess.Popen([sys.executable, '-X', 'utf8', __file__, n, '--iso', a.iso] + flags, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)))
         for r in running[:]:
             if r[1].poll() is not None:
                 line = r[1].stdout.read().strip().splitlines()[-1:] or ['FAIL no output']

@@ -37,6 +37,29 @@ def load(sub):
     return out
 
 
+def fmt_bytes(text):
+    """Widest output, in bytes, of a printf string: each code at its widest (%d 3 digits or its width, %s 0), the
+    rest as encoded."""
+    def w(code):
+        if code == '%%': return 1
+        n = int(re.match(r'%[-+ 0#]*(\d*)', code).group(1) or 0)
+        if code[-1] in 'di': return max(n, 3)   # shortcut: counts here are <= 999; a bigger value needs more
+        return 0 if code[-1] == 's' else max(n, 1)
+    return sum(w(c) for c in FMT.findall(text)) + len(from_text(FMT.sub('', text)))
+
+
+def buf_limits(_c={}):
+    """{entry id: max output bytes} for format strings sprintf'd into stack buffers (tbl/fmtbuf.tsv, tools/fmtbuf.py)."""
+    if 'l' not in _c:
+        p = ROOT / 'tbl' / 'fmtbuf.tsv'
+        rows = [r.split('\t') for r in p.read_text('utf8').splitlines()[1:]] if p.exists() else []
+        _c['l'] = {}
+        for r in rows:
+            m = re.match(r'\d+', r[4])
+            if m: _c['l'][r[0]] = min(int(m.group()), _c['l'].get(r[0], 1 << 30))
+    return _c['l']
+
+
 def short(eid):
     """Marker id: story s2032:00028 -> 2032:28, common c7:001a0 -> c7:1a0, EBOOT e:1ed94c -> 1ed94c."""
     k, _, off = eid.partition(':')
@@ -69,7 +92,18 @@ class Inserter:
         self.mode, self.only, self.qa = mode, only, qa or {}
 
     def text(self, e):
-        """New text for an entry, or None to leave it as it is."""
+        """New text for an entry, or None to leave it as it is. A format string that would overflow its sprintf
+        buffer fails the build; a marker that would is left out (the original stays)."""
+        t = self._text(e)
+        lim = buf_limits().get(e['id'])
+        if t is not None and lim is not None and fmt_bytes(t) > lim:
+            if self.mode == 'marker' and e['id'] not in self.qa and not e['en']:
+                t = f'[{short(e["id"])}]' + ''.join(FMT.findall(e['jp']))   # compact marker: id and codes
+                return t if fmt_bytes(t) <= lim else None
+            raise ValueError(f'{e["id"]}: {fmt_bytes(t)} bytes of output, buffer holds {lim} (tbl/fmtbuf.tsv): {t!r}')
+        return t
+
+    def _text(self, e):
         if e['id'] in self.qa:
             return self.qa[e['id']]
         if e['status'] == 'data':
