@@ -20,6 +20,8 @@ def parse(b, o=0):
     po, do = struct.unpack_from("<II", b, o + 0x18)
     if fmt not in (4, 5) or cf != 3 or not (2 <= n <= 256) or not (0 < w <= 1024 and 0 < h <= 1024):
         return None
+    if o + po + n * 4 > len(b) or o + do >= len(b):  # a stray "PTX@" in other data
+        return None
     return dict(off=o, lw=lw, lh=lh, w=w, used=used, h=h, fmt=fmt, sw=sw, n=n, po=o + po, do=o + do)
 
 
