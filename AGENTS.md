@@ -5,7 +5,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 Run `git config core.hooksPath tools/hooks` once per clone.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 build.py` -> build/gloria_en.iso (not written yet: phase 3; checks the dump against `rom.sha1` first)
+- Build:    `python -X utf8 build.py` -> build/gloria_en.iso (checks the dump against `rom.sha1` first; about a minute; no edits yet, so the output equals the dump: `tests/test_identity.py`)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/gloria_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 tools/debug/warp.py SCENE [--state-out F]`, `--all [--match stage_]` (PPSSPP has no Lua; scenes: `tools/debug/scenes.py`; shots in `work/qa/warp/`; never ask the user to play to a scene)

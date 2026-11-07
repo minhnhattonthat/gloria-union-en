@@ -1,7 +1,7 @@
 """PGD (PSP DNAS container, DATA.DNS) read and rewrite, ported from PPSSPP ext/libkirk/amctrl.c.
 
     python -X utf8 tools/pgd.py x IN OUT     # decrypt
-Library: parse(buf) -> Pgd; Pgd.decrypt(buf, off, size); Pgd.encrypt_bytes(plain, off)
+Library: parse(buf) -> Pgd; decrypt(p, f, off, size); build(head, plain) -> whole new PGD
 
 Only drm_type 1, key_index 1 is handled (mac type 1, cipher type 1): the one form in this game.
 """
@@ -19,6 +19,7 @@ LOC_CD4 = bytes.fromhex("E350ED1D910A1FD029BB1C3EF34077FB")
 LOC_CE4 = bytes.fromhex("135FA47CAB395BA476B8CCA98F3A0445")
 LOC_CF4 = bytes.fromhex("678D7FA32A9CA0D1508AD8385E4B017E")
 FKEY = bytes.fromhex("EDE25D2DBBF812E53C5C5932FAE3E243")  # dnas_key1A90, pgd_flag 2
+TAIL = bytes.fromhex("9803FD2884C59F4C33FF0000000000")  # the dump's junk between data_size and the 16-byte end; kept for identity
 
 
 def xor(a, b):
@@ -96,6 +97,27 @@ def decrypt(p, f, off, size):
     z = (off + size + 15) & ~15
     f.seek(p.data_offset + a)
     return cipher(f.read(z - a), p.key, (a >> 4) + 1)[off - a:off - a + size]
+
+
+def build(head, plain):
+    """A PGD holding `plain`, with the keys of the header `head`: new desc, data, block table and header MACs."""
+    p = parse(head)
+    pad = -len(plain) % 16
+    data = bytearray(len(plain) + pad)
+    data[:len(plain)] = plain
+    data[len(plain):] = TAIL[:pad]
+    step = 1 << 24
+    for off in range(0, len(data), step):
+        data[off:off + step] = cipher(bytes(data[off:off + step]), p.key, (off >> 4) + 1)
+    table = b"".join(mac_with(bytes(data[i:i + p.block_size]), p.vkey) for i in range(0, len(data), p.block_size))
+    desc = bytearray(p.desc)
+    struct.pack_into("<I", desc, 0x14, len(plain))
+    h = bytearray(head[:0x90])
+    h[0x30:0x60] = cipher(bytes(desc), xor(head[0x10:0x20], p.vkey), 1)
+    h[0x60:0x70] = mac_with(table, p.vkey)
+    h[0x70:0x80] = mac_with(bytes(h[:0x70]), p.vkey)
+    h[0x80:0x90] = mac_with(bytes(h[:0x80]), FKEY)
+    return bytes(h) + bytes(data) + table
 
 
 if __name__ == "__main__":

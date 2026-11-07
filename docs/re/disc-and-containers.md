@@ -17,7 +17,7 @@ Game: Gloria Union, ULJM05813, disc version 1.01, Sting/Atlus 2011. Dump SHA-1 i
 | 6576.. | | /PSP_GAME/SYSDIR/UPDATE/ | firmware update; never touch |
 | 57248 | 9150464 | /PSP_GAME/USRDIR/Movie/GloriaUnion.pmf | opening movie (no subtitles expected, logo is English; check in phase 8) |
 
-Free space: `iso9660.patch` appends a grown file at the end of the image and repoints the record, so DATA.DNS may grow.
+Free space: `iso9660.patch` appends a grown file at the end of the image and repoints the record, so DATA.DNS may grow (verified on PPSSPP: a 1038 MB image boots; a real UMD limit does not apply to an ISO on memory stick, not checked).
 
 ## EBOOT (verified: dumped decrypted with PPSSPP `DumpFileTypes = 7`, kept at `work/re/eboot.elf`)
 
@@ -27,11 +27,15 @@ Plain PRX: e_type 0xFFA0, MIPS, two PT_LOAD (text+rodata+data vaddr 0, filesz 0x
 
 `\0PGD`, key_index 1, drm_type 1 (mac type 1, cipher type 1). vkey is derived from the MAC at 0x70, so no game key is needed: `3765bf9b93374a501710646de3440021`. data_size 0x18EC5FB6, block 0x400, data offset 0x90, hash table after the data. The cipher is a seekable stream: `tools/pgd.py`. Ported from PPSSPP `ext/libkirk/amctrl.c`.
 
-The game opens `ms0:/PSP/SAVEDATA/ULJM05813GloriaUnion.Ins/DATA.DNS` when installed, else `disc0:/PSP_GAME/INSDIR/DATA.DNS` (strings at 0x25DAE4, 0x25DB18). **A player's old install wins over a patched disc: the README must say to delete it.** Phase 3 must rebuild the PGD with new block MACs and header MACs (guess: same vkey; re-encrypting with the original header must give the original bytes, make that the identity test).
+The game opens `ms0:/PSP/SAVEDATA/ULJM05813GloriaUnion.Ins/DATA.DNS` when installed, else `disc0:/PSP_GAME/INSDIR/DATA.DNS` (strings at 0x25DAE4, 0x25DB18). **A player's old install wins over a patched disc: the README must say to delete it.**
+
+Rebuild (verified: `pgd.build`, `tests/test_identity.py`, every byte of the original comes back): same vkey and key words 0x10-0x30; desc re-encrypted with the new data_size; data encrypted as a stream padded to 16; the table is one `mac_with(encrypted block, vkey)` per 0x400 (the last block as is, 0x3C0 here). 0x60 = MAC of the table, 0x70 = MAC of the first 0x70 bytes, both under vkey; 0x80 = MAC of the first 0x80 bytes under FKEY. The dump's 10 plain bytes between data_size and the 16-byte end are junk, kept in `pgd.TAIL`. Whether a real PSP checks the block table is not known; ours are correct either way, and a game that passes its own key still gets the same vkey.
 
 ## CPK (verified: `tests/test_formats.py`)
 
-CPKMC2.15.00, ITOC only (no names), 2965 files, id order, Align 2048, ContentOffset 0x6800. `tools/itoc.py` lists and expands; CRILAYLA on 1415 files (`itoc.unlayla`). Rebuild: `cpk.py rebuild` refuses ITOC-only CPKs, so phase 3 writes its own (ids keep their order; update DataL/DataH FileSize/ExtractSize, ContentSize, EnabledPackedSize, EnabledDataSize). CRC columns are absent (TocCrc None). A repacker may store edited files uncompressed: the reader takes FileSize == ExtractSize as plain (verified on the 1550 plain files; the game path for a formerly compressed id is a guess until booted).
+CPKMC2.15.00, ITOC only (no names), 2965 files, id order, Align 2048, ContentOffset 0x6800. `tools/itoc.py` lists and expands; CRILAYLA on 1415 files (`itoc.unlayla`). Rebuild: `itoc.pack(cpk, {id: bytes})`; `cpk.py rebuild` refuses ITOC-only CPKs. Ids keep their order and Align. ITOC rows: DataL (u16 id, size, extract) when both sizes are under 0x10000, else DataH (u16, u32, u32); each table sorted by id and padded to 8. ContentSize is the sum of aligned FileSizes, EnabledDataSize of FileSizes, EnabledPackedSize of ExtractSizes; the last file has no trailing pad. CRC columns are absent (TocCrc None). ITOC gap: 1896 free bytes before ContentOffset, 4 per file crossing into DataH; all 1415 compressed files stored plain still fit.
+
+Edited files go in plain (FileSize == ExtractSize). Verified by a boot: every CRILAYLA file stored expanded (DATA.DNS 487 MB, moved to the end of the ISO), with the plain ELF as EBOOT.BIN: smoke ok, 149/149 warp scenes, shots of 3 screens clean. So no CRILAYLA compressor is needed, at the cost of a larger image only.
 
 ## File map (by CPK id, magic of the expanded file)
 
