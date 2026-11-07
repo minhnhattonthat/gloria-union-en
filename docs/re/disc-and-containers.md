@@ -50,7 +50,8 @@ CPKMC2.15.00, ITOC only (no names), 2965 files, id order, Align 2048, ContentOff
 | 1759-1849 | 0x1E02 + zeros | 91 small tables, unexplored; no text |
 | 1926-1944 | PNG | 19 PNGs, see `graphics.md` |
 | 2032-2082 | size table | story scripts (`text.md`) |
-| 2083-2361 | VPD | 279 packs, 108 MB, of PTX pages |
+| 2083-2361 | VPD | 279 voice packs, 108 MB: u32 count at +4, then (id, offset) pairs of ADX; no images |
+| 2420-2434, 2579-2637 | FCT | ADX banks (every section is ADX), no images |
 | 2666-2964 | ADX (0x20) | voices (299 files) |
 
 FCT: `FCT\0`, u32 count, u32 header (0x10), pad; then (u32 offset, u32 size) per section, relative to the FCT's start; nests.

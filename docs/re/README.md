@@ -14,4 +14,4 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 |---|---|---|
 | disc-and-containers.md | ISO, EBOOT layout, PGD, CPK, file map by id | verified; PGD and CPK rebuild not written yet |
 | text.md | encoding, script records and references, common text, EBOOT strings, free space | script format verified; EBOOT slots and common-text tables partly guessed |
-| graphics.md | PTX, fonts, graphics-text survey | format verified; survey incomplete |
+| graphics.md | PTX, PTG, fonts, graphics-text survey | PTX and PTG read verified; PTA undecoded; PTG last-row defect open; static sweep done, tour pending |
