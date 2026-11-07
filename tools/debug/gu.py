@@ -14,7 +14,9 @@ import psp  # noqa: E402
 
 ORIG = 'rom/Gloria Union (Japan).iso'
 LOADSTAGE = 0xADC7C        # vaddr: void loadStage(stage, ?, ?)
+GETFILEINFO = 0x191680     # vaddr: criFs lookup by id, a1 = CPK id
 SAVEPTR = 0x8804000 + 0x2B75F0   # RAM: pointer to the save/work struct
+MODE = 0x8B851BC           # RAM: top-level mode (docs/re/engine.md)
 
 
 class _Json:
@@ -76,6 +78,22 @@ class Game(psp.Run):
 
     def wr32(self, addr, v): self.wr(addr, struct.pack('<I', v))
 
+    def watch_files(self):
+        """Record CPK ids as the game opens them, in self.files."""
+        self.files = []
+        self.hook(GETFILEINFO, lambda g, r: g.files.append(r['a1'] & 0xffff))
+
+    def until(self, pred, limit=3000, key='circle'):
+        """Mash KEY (None: just wait) until PRED(self) or LIMIT frames; returns whether PRED held."""
+        end = self.f + limit
+        while self.f < end:
+            if pred(self): return True
+            if key: self.tap(key, 6, 54)
+            else: self.run(30)
+        return pred(self)
+
+    def mode(self): return self.rd32(MODE)
+
     def save(self): return self.rd32(SAVEPTR)
 
     def setflag(self, i, v):
@@ -92,9 +110,12 @@ class Game(psp.Run):
             for i in range(17): g.setflag(0x21 + i, 1)
         self.hook(LOADSTAGE, ls)
 
+    def title(self):
+        self.run(2700)   # logos and opening movie; mode 2 is set well before the menu takes input
+
     def new_game(self):
-        """Cold boot to the end of the prologue is about 8500 frames; Start or Circle skips nothing in it."""
-        self.run(2700); self.tap('circle', 6, 120)
+        """GAME START from the title; the prologue scrolls on its own to about frame 8450, then loadStage(0)."""
+        self.title(); self.tap('circle', 6, 120)
 
     def tap(self, keys, hold=6, gap=30):
         self.press(set(keys.split('+'))); self.run(hold); self.press(set()); self.run(gap)

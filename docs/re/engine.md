@@ -46,6 +46,12 @@ Game over: 0x12A188 (loads 1758), called from the mode 7 handler at 0x41F8.
 
 Ending letters: 0x114690 (id 1651), reached through function pointer 0x11DEF4 in the table at 0x2EF9F4 (guess: script op table).
 
+Script ops: 256-entry handler table at 0x2EF748. Op 0xAB (`ab 09 <side> <u16 id> <x> <y>`) is the letter page, used by scripts 2080-2082 and some others. So stages 88-90 play the ending, and the letters come from warping there.
+
+## Pre-battle flow (open)
+
+Stage 1: story, then Character Select (mode 20), Circle on a character goes to Card Select (mode 26). In Card Select: Down to a card row, Circle enters it (1/5, Total Move 12), Cross releases, Square returns to mode 20, Right from mode 20 opens the morale tab (mode 22). **Not found: the input that starts the battle.** Tried without effect: Start, Select, L, R, Circle on the rows, Down past the last row. Forcing mode 16 from mode 26 crashes. Leads: mode 16 is written at 0xD2B5C (mode 26 path) and 0xDF9E8 (mode 20 path, after a fade test at 0xDF990, `jal 0xDEF68`, `jal 0xDD04C`).
+
 ## Debug-log noise
 
 The game prints Shift-JIS to the debug log. PPSSPP forwards it as a WebSocket `log` event that is not valid UTF-8, which kills `psp.py`'s reader: `tools/debug/gu.py` wraps it.

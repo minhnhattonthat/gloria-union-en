@@ -8,7 +8,7 @@ Run `git config core.hooksPath tools/hooks` once per clone.
 - Build:    `python -X utf8 build.py` -> build/gloria_en.iso (not written yet: phase 3; checks the dump against `rom.sha1` first)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/gloria_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke`
-- Warp:     PPSSPP has no Lua: `tools/debug/` (phase 2; scenes: `tools/debug/scenes.py`; never ask the user to play to a scene)
+- Warp:     `python -X utf8 tools/debug/warp.py SCENE [--state-out F]`, `--all [--match stage_]` (PPSSPP has no Lua; scenes: `tools/debug/scenes.py`; shots in `work/qa/warp/`; never ask the user to play to a scene)
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; not written yet: phase 9)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 - Unpack for RE: `python -X utf8 tools/pgd.py x work/iso/PSP_GAME/INSDIR/DATA.DNS work/re/data.bin`, `python -X utf8 tools/itoc.py x work/re/data.bin work/re/files`
