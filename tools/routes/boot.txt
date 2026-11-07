@@ -1,0 +1,6 @@
+# cold boot, sit past logos
+1800 -
+8 start
+300 -
+8 circle
+600 -
