@@ -28,11 +28,11 @@ def find_str(text):
 def jump_tables(a, b):
     for i in range(a // 4, b // 4):
         if 'jr $at' not in L[i]: continue
-        hi = re.search(r'lui \$at, (\S+)', L[i - 4]); lo = re.search(r'lw \$at, (\S+)\(\$at\)', L[i - 2])
+        hi = re.search(r'lui \$at, (\S+)', L[i - 3]); lo = re.search(r'lw \$at, (\S+)\(\$at\)', L[i - 1])
         if not hi or not lo: continue
         t = (int(hi[1], 16) << 16) + int(lo[1], 16)
         out = []
-        while len(out) < 300:
+        while len(out) < 300:   # a table ends at the first word that is not near the code that uses it
             v = struct.unpack_from('<I', d, t + OFF + len(out) * 4)[0]
             if not a - 0x8000 <= v < b + 0x8000: break
             out.append(f'{len(out):x}:{v:x}')
