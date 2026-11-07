@@ -1,0 +1,1869 @@
+[
+ {
+  "id": "e:24f00d",
+  "jp": "スキルゲージは満タンのままなので、\nすぐにチャージのやり直しができます。",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:24f328"
+  ]
+ },
+ {
+  "id": "e:24f055",
+  "jp": "【ＫｅｅｐＯｎスキル】\n□ボタンを押している間、\nずっと効果が続く種類のスキルです。",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:24f334"
+  ]
+ },
+ {
+  "id": "e:24f0a8",
+  "jp": "途中で□ボタンを離すか、\nゲージが尽きると、効果が終了します。",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:24f340"
+  ]
+ },
+ {
+  "id": "e:24f0e8",
+  "jp": "$",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:24f34c"
+  ],
+  "notes": "binary"
+ },
+ {
+  "id": "e:24f13c",
+  "jp": "$",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:24f38c"
+  ],
+  "notes": "binary"
+ },
+ {
+  "id": "e:24f1d8",
+  "jp": "$",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:24f3ec"
+  ],
+  "notes": "binary"
+ },
+ {
+  "id": "e:2522b8",
+  "jp": "ゴーレムを召喚する",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca28"
+  ]
+ },
+ {
+  "id": "e:2522cc",
+  "jp": "威力＝★★",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca2c",
+   "w:2bca38"
+  ]
+ },
+ {
+  "id": "e:2522d8",
+  "jp": "ウィッチ専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca30"
+  ]
+ },
+ {
+  "id": "e:2522e8",
+  "jp": "スケルトンを召喚する",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca34"
+  ]
+ },
+ {
+  "id": "e:252300",
+  "jp": "ローガン専用\n夜間限定",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca3c"
+  ]
+ },
+ {
+  "id": "e:252318",
+  "jp": "敵を石化状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca40"
+  ]
+ },
+ {
+  "id": "e:25232c",
+  "jp": "敵を冒毒状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca4c"
+  ]
+ },
+ {
+  "id": "e:252340",
+  "jp": "ローガン／スケルトン専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca54"
+  ]
+ },
+ {
+  "id": "e:25235c",
+  "jp": "暗黒攻撃でダメージ\n＋呪縛状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca58"
+  ]
+ },
+ {
+  "id": "e:252380",
+  "jp": "威力＝自ＴＥＣ＋１－敵ＧＥＮ\n自ＴＥＣ≧敵ＧＥＮで成功",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca5c",
+   "w:2bcaa4",
+   "w:2bcabc"
+  ]
+ },
+ {
+  "id": "e:2523b8",
+  "jp": "敵の装備アイテムを\n破壊する",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca64"
+  ]
+ },
+ {
+  "id": "e:2523d4",
+  "jp": "自ＴＥＣ≧敵ＧＥＮで成功\n成功時：敵の戦闘力が低下",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca68"
+  ]
+ },
+ {
+  "id": "e:252408",
+  "jp": "イシュト／チェイサー専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca6c"
+  ]
+ },
+ {
+  "id": "e:252424",
+  "jp": "敵の装備アイテムを\n盗み獲る",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca70"
+  ]
+ },
+ {
+  "id": "e:252440",
+  "jp": "ピンガー専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca78",
+   "w:2bcc64"
+  ]
+ },
+ {
+  "id": "e:252450",
+  "jp": "敵のヘッドを倒す",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca7c"
+  ]
+ },
+ {
+  "id": "e:252464",
+  "jp": "スナイパー専用\n夜間限定",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca84"
+  ]
+ },
+ {
+  "id": "e:25247c",
+  "jp": "敵のメンバー数を\n自分と同じにする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca88"
+  ]
+ },
+ {
+  "id": "e:2524a0",
+  "jp": "威力＝状況により変化",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca8c"
+  ]
+ },
+ {
+  "id": "e:2524b8",
+  "jp": "騎馬タイプのみ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca90"
+  ]
+ },
+ {
+  "id": "e:2524c8",
+  "jp": "発動中、ダメージを\n受けない",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bca94"
+  ]
+ },
+ {
+  "id": "e:2524e4",
+  "jp": "火炎攻撃でダメージ\n＋炎上状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcaa0"
+  ]
+ },
+ {
+  "id": "e:252508",
+  "jp": "冷気攻撃で敵に\nダメージを与える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcaac"
+  ]
+ },
+ {
+  "id": "e:252528",
+  "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcab0",
+   "w:2bcac8"
+  ]
+ },
+ {
+  "id": "e:252548",
+  "jp": "ウンディーネが使うと…",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcab4"
+  ]
+ },
+ {
+  "id": "e:252560",
+  "jp": "雷撃攻撃でダメージ\n＋麻痺状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcab8"
+  ]
+ },
+ {
+  "id": "e:252584",
+  "jp": "神聖攻撃で敵に\nダメージを与える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcac4"
+  ]
+ },
+ {
+  "id": "e:2525a4",
+  "jp": "発動中、ドラゴン系に\n相性☆で戦える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcad0"
+  ]
+ },
+ {
+  "id": "e:2525c8",
+  "jp": "メデューテ専用\n相手がドラゴン系",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcad8"
+  ]
+ },
+ {
+  "id": "e:2525e8",
+  "jp": "近辺の石化ユニットや\nオブジェクトを破壊",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcadc"
+  ]
+ },
+ {
+  "id": "e:252610",
+  "jp": "威力＝敵残存戦力の１／２\n破壊成功率＝１００％",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcae0"
+  ]
+ },
+ {
+  "id": "e:252640",
+  "jp": "ゴーレム専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcae4"
+  ]
+ },
+ {
+  "id": "e:252650",
+  "jp": "敵メンバーを裏切らせ\n自分の戦力にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcae8"
+  ]
+ },
+ {
+  "id": "e:252678",
+  "jp": "効力＝自ＴＥＣ、敵ＧＥＮ依存",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcaec"
+  ]
+ },
+ {
+  "id": "e:252698",
+  "jp": "相手が同サイズ／同性別",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcaf0"
+  ]
+ },
+ {
+  "id": "e:2526b0",
+  "jp": "敵のヘッド以外を\n全て倒す",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcaf4"
+  ]
+ },
+ {
+  "id": "e:2526cc",
+  "jp": "威力＝敵ヘッド以外に∞",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcaf8",
+   "w:2bcc00"
+  ]
+ },
+ {
+  "id": "e:2526e4",
+  "jp": "ヴァルキリー専用\nヘッドのみが残ったとき",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcafc"
+  ]
+ },
+ {
+  "id": "e:25270c",
+  "jp": "敵を一人残らず倒す",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb00"
+  ]
+ },
+ {
+  "id": "e:252720",
+  "jp": "威力＝∞",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb04"
+  ]
+ },
+ {
+  "id": "e:25272c",
+  "jp": "オルディーン専用\nヘッドのみが残ったとき",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb08"
+  ]
+ },
+ {
+  "id": "e:252754",
+  "jp": "倒れた自分のメンバー\nを復活させる",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb0c"
+  ]
+ },
+ {
+  "id": "e:252778",
+  "jp": "効力＝ＴＥＣ依存",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb10"
+  ]
+ },
+ {
+  "id": "e:25278c",
+  "jp": "ユニオン内の士気と\nステータス異常回復",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb18"
+  ]
+ },
+ {
+  "id": "e:2527b4",
+  "jp": "成功率＝１００％",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb1c"
+  ]
+ },
+ {
+  "id": "e:2527c8",
+  "jp": "女性ユニオンリーダーのみ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb20"
+  ]
+ },
+ {
+  "id": "e:2527e4",
+  "jp": "一定時間、\n敵を弱めるが…",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb24"
+  ]
+ },
+ {
+  "id": "e:252800",
+  "jp": "効果持続時間=７．７７sec",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb28"
+  ]
+ },
+ {
+  "id": "e:25281c",
+  "jp": "発動中、自分も敵も\nＬＵＫを力に換える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb30"
+  ]
+ },
+ {
+  "id": "e:252844",
+  "jp": "敵味方の地形を交換\n＋敵の命中率が低下",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb3c"
+  ]
+ },
+ {
+  "id": "e:25286c",
+  "jp": "効力＝同デュエル中ずっと",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb40",
+   "w:2bcc54"
+  ]
+ },
+ {
+  "id": "e:252888",
+  "jp": "発動中、敵のＡＴＫを\n１にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb48"
+  ]
+ },
+ {
+  "id": "e:2528a8",
+  "jp": "つたを自在に振るい\n敵にダメージを与える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb54"
+  ]
+ },
+ {
+  "id": "e:2528d0",
+  "jp": "威力＝自ＴＥＣ＋３－敵ＧＥＮ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb58",
+   "w:2bcc9c"
+  ]
+ },
+ {
+  "id": "e:2528f0",
+  "jp": "【地形スキル：森林】\n該当地形の敵に効果大",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb5c"
+  ]
+ },
+ {
+  "id": "e:25291c",
+  "jp": "吹きすさぶ砂嵐で\n敵にダメージを与える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb60"
+  ]
+ },
+ {
+  "id": "e:252944",
+  "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb64",
+   "w:2bcb70",
+   "w:2bcc6c",
+   "w:2bcc84"
+  ]
+ },
+ {
+  "id": "e:252964",
+  "jp": "【地形スキル：砂漠】\n該当地形の敵に効果大",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb68"
+  ]
+ },
+ {
+  "id": "e:252990",
+  "jp": "泥沼に引きずりこんで\n敵にダメージを与える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb6c"
+  ]
+ },
+ {
+  "id": "e:2529bc",
+  "jp": "【地形スキル：毒沼】\n該当地形の敵に効果大",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb74"
+  ]
+ },
+ {
+  "id": "e:2529e8",
+  "jp": "落石攻撃でダメージ\n＋鈍足状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb78"
+  ]
+ },
+ {
+  "id": "e:252a0c",
+  "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ\n自ＴＥＣ≧敵ＧＥＮで成功",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb7c"
+  ]
+ },
+ {
+  "id": "e:252a44",
+  "jp": "【地形スキル：荒野】\n該当地形の敵に効果大",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb80"
+  ]
+ },
+ {
+  "id": "e:252a70",
+  "jp": "ユニオン内の仲間への\n突撃と反撃をガード",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb84"
+  ]
+ },
+ {
+  "id": "e:252a98",
+  "jp": "効力＝１００％",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb88"
+  ]
+ },
+ {
+  "id": "e:252aa8",
+  "jp": "男性ユニオンリーダーのみ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb8c"
+  ]
+ },
+ {
+  "id": "e:252ac4",
+  "jp": "メンバーの命を犠牲に\n戦闘能力が格段に上昇",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb90"
+  ]
+ },
+ {
+  "id": "e:252af0",
+  "jp": "敵、味方のスキルゲージを破壊",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb94"
+  ]
+ },
+ {
+  "id": "e:252b10",
+  "jp": "ガルカーサ専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb98"
+  ]
+ },
+ {
+  "id": "e:252b20",
+  "jp": "倒れたメンバーも含め\nユニットを転生させる",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcb9c"
+  ]
+ },
+ {
+  "id": "e:252b50",
+  "jp": "ネシア専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcba4"
+  ]
+ },
+ {
+  "id": "e:252b5c",
+  "jp": "発動中、敵のゲージ／\nレイジレートを減少",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbb4"
+  ]
+ },
+ {
+  "id": "e:252b84",
+  "jp": "キーラ専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbbc"
+  ]
+ },
+ {
+  "id": "e:252b90",
+  "jp": "敵を昏睡状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbc0"
+  ]
+ },
+ {
+  "id": "e:252ba4",
+  "jp": "パメラ専用\n夜間限定",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbc8"
+  ]
+ },
+ {
+  "id": "e:252bb8",
+  "jp": "使用者の状態により\n与えるダメージが変化",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbcc"
+  ]
+ },
+ {
+  "id": "e:252be0",
+  "jp": "ガリオレッド専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbd4"
+  ]
+ },
+ {
+  "id": "e:252bf4",
+  "jp": "ユニオン内の男性のみ\nＡＴＫとＧＥＮが上昇",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbd8"
+  ]
+ },
+ {
+  "id": "e:252c20",
+  "jp": "効力＝同ターン内ずっと",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbdc",
+   "w:2bcbf4",
+   "w:2bcc90"
+  ]
+ },
+ {
+  "id": "e:252c38",
+  "jp": "バイフー専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbe0"
+  ]
+ },
+ {
+  "id": "e:252c48",
+  "jp": "狂風による攻撃で\nダメージ＋状態異常",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbe4"
+  ]
+ },
+ {
+  "id": "e:252c6c",
+  "jp": "威力＝自ＴＥＣ★－敵ＧＥＮ★",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbe8"
+  ]
+ },
+ {
+  "id": "e:252c8c",
+  "jp": "アジョー・グラフォー専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbec"
+  ]
+ },
+ {
+  "id": "e:252ca8",
+  "jp": "ユニオン内の仲間の\nＬＵＫが上昇",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbf0"
+  ]
+ },
+ {
+  "id": "e:252cc8",
+  "jp": "敵ヘッド以外を\n濁流の渦に飲み込む",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcbfc"
+  ]
+ },
+ {
+  "id": "e:252cec",
+  "jp": "ウィルが強い者のみ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc04",
+   "w:2bcc10",
+   "w:2bcc1c",
+   "w:2bcc28",
+   "w:2bcc34",
+   "w:2bcc40"
+  ]
+ },
+ {
+  "id": "e:252d00",
+  "jp": "地獄の業火でダメージ\n＋火傷状態にする",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc08"
+  ]
+ },
+ {
+  "id": "e:252d28",
+  "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n効力＝１００％",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc0c"
+  ]
+ },
+ {
+  "id": "e:252d54",
+  "jp": "大地神の怒りの槍で\nダメージ＋ＧＥＮ低下",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc14"
+  ]
+ },
+ {
+  "id": "e:252d7c",
+  "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n同ターン内ずっと",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc18",
+   "w:2bcc24"
+  ]
+ },
+ {
+  "id": "e:252dac",
+  "jp": "荒ぶる暴風に襲われ\nダメージ＋命中率低下",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc20"
+  ]
+ },
+ {
+  "id": "e:252dd4",
+  "jp": "敵のレイジレートを\n己の力に変えて放つ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc2c"
+  ]
+ },
+ {
+  "id": "e:252dfc",
+  "jp": "敵、味方のゲージを破壊",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc30"
+  ]
+ },
+ {
+  "id": "e:252e14",
+  "jp": "敵の全ユニットが消滅",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc38"
+  ]
+ },
+ {
+  "id": "e:252e2c",
+  "jp": "敵ダメージ＋２５％の\n確率で敵ヘッドを倒す",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc44"
+  ]
+ },
+ {
+  "id": "e:252e58",
+  "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ\n成功率＝２５％",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc48"
+  ]
+ },
+ {
+  "id": "e:252e84",
+  "jp": "エリーシャ専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc4c"
+  ]
+ },
+ {
+  "id": "e:252e94",
+  "jp": "分身が一つとなり、\n能力が飛躍的に向上",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc50"
+  ]
+ },
+ {
+  "id": "e:252ebc",
+  "jp": "ルルゥ専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc58"
+  ]
+ },
+ {
+  "id": "e:252ec8",
+  "jp": "戦闘中は操作不能　\n能力が飛躍的に向上",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc5c"
+  ]
+ },
+ {
+  "id": "e:252ef0",
+  "jp": "スキルゲージが破壊\nスキル使用後に昏睡",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc60"
+  ]
+ },
+ {
+  "id": "e:252f18",
+  "jp": "巨大な碇を射出し\n敵にダメージを与える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc68"
+  ]
+ },
+ {
+  "id": "e:252f40",
+  "jp": "ザザーランド専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc70"
+  ]
+ },
+ {
+  "id": "e:252f54",
+  "jp": "ヘッドが死亡し、\n部下が全員復活する",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc74"
+  ]
+ },
+ {
+  "id": "e:252f78",
+  "jp": "成功率＝１００%",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc78"
+  ]
+ },
+ {
+  "id": "e:252f88",
+  "jp": "ミネソタ専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc7c"
+  ]
+ },
+ {
+  "id": "e:252f98",
+  "jp": "隕石が降り注ぎ敵味方\nどちらかにダメージ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc80"
+  ]
+ },
+ {
+  "id": "e:252fc0",
+  "jp": "ロコモコ専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc88"
+  ]
+ },
+ {
+  "id": "e:252fd0",
+  "jp": "黄金の盾の力で\nスキルを無効化する",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc8c"
+  ]
+ },
+ {
+  "id": "e:252ff4",
+  "jp": "杖ユニットの女性のみ",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc94"
+  ]
+ },
+ {
+  "id": "e:25300c",
+  "jp": "時を止めて敵に突進し\n敵にダメージを与える",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcc98"
+  ]
+ },
+ {
+  "id": "e:253038",
+  "jp": "ラズベリー専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcca0"
+  ]
+ },
+ {
+  "id": "e:253048",
+  "jp": "相手の持つカードと\n同じスキル効果を発揮",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bcca4"
+  ]
+ },
+ {
+  "id": "e:253070",
+  "jp": "トレイシー専用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bccac"
+  ]
+ },
+ {
+  "id": "e:2537c0",
+  "jp": "　",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be628"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537c4",
+  "jp": "・",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be630"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537c8",
+  "jp": "：",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be638"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537cc",
+  "jp": "（",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be640"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537d0",
+  "jp": "）",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be648"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537d4",
+  "jp": "＋",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be650"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537d8",
+  "jp": "％",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be658"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537dc",
+  "jp": "０",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be660"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537e0",
+  "jp": "１",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be668"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537e4",
+  "jp": "２",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be670"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537e8",
+  "jp": "３",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be678"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537ec",
+  "jp": "４",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be680"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537f0",
+  "jp": "５",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be688"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537f4",
+  "jp": "６",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be690"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537f8",
+  "jp": "７",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be698"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:2537fc",
+  "jp": "８",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6a0"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253800",
+  "jp": "９",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6a8"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253804",
+  "jp": "Ａ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6b0"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253808",
+  "jp": "Ｂ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6b8"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:25380c",
+  "jp": "Ｃ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6c0"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253810",
+  "jp": "Ｄ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6c8"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253814",
+  "jp": "Ｅ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6d0"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253818",
+  "jp": "Ｆ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6d8"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:25381c",
+  "jp": "Ｇ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6e0"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253820",
+  "jp": "Ｋ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6e8"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253824",
+  "jp": "Ｌ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6f0"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253828",
+  "jp": "Ｍ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be6f8"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:25382c",
+  "jp": "Ｎ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be700"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253830",
+  "jp": "Ｏ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be708"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253834",
+  "jp": "Ｐ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be710"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253838",
+  "jp": "Ｓ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be718"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:25383c",
+  "jp": "Ｔ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be720"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253840",
+  "jp": "Ｕ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be728"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253844",
+  "jp": "Ｖ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be730"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253848",
+  "jp": "Ｗ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be738"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:25384c",
+  "jp": "Ｘ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be740"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253850",
+  "jp": "ｂ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be748"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253854",
+  "jp": "ｅ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be750"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253858",
+  "jp": "ｇ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be758"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:25385c",
+  "jp": "ｉ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be760"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253860",
+  "jp": "ｋ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be768"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253864",
+  "jp": "ｒ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be770"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253868",
+  "jp": "ｓ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be778"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:25386c",
+  "jp": "ｖ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be780"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253870",
+  "jp": "ｙ",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "w:2be788"
+  ],
+  "notes": "glyph list"
+ },
+ {
+  "id": "e:253874",
+  "jp": "０１２３４５６７８９　",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a36cc:a36e0"
+  ]
+ },
+ {
+  "id": "e:25390c",
+  "jp": "エフェクトテスト",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a9b38:a9b3c"
+  ]
+ },
+ {
+  "id": "e:253920",
+  "jp": "ＥＸＩデータ更新",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a9b44:a9b48"
+  ]
+ },
+ {
+  "id": "e:253934",
+  "jp": "背景更新",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a9b50:a9b54"
+  ]
+ },
+ {
+  "id": "e:253940",
+  "jp": "テクスチャ確認",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a9b5c:a9b60"
+  ]
+ },
+ {
+  "id": "e:253950",
+  "jp": "スケール出力",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a9b68:a9b6c"
+  ]
+ },
+ {
+  "id": "e:253960",
+  "jp": "スケール読み込み",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a9b74:a9b78"
+  ]
+ },
+ {
+  "id": "e:253974",
+  "jp": "ゲームを開始する",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:a9b80:a9b84"
+  ]
+ },
+ {
+  "id": "e:253a84",
+  "jp": "　－ＥＸＩデータ更新－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:aa6e4:aa6f4"
+  ]
+ },
+ {
+  "id": "e:253ae4",
+  "jp": "　　　－背景更新－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:aa7d4:aa7e4"
+  ]
+ },
+ {
+  "id": "e:253b40",
+  "jp": "　　－スケール出力－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:aa8e4:aa8f4"
+  ]
+ },
+ {
+  "id": "e:253ba0",
+  "jp": "　－スケール読み込み－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:aa9dc:aa9ec"
+  ]
+ },
+ {
+  "id": "e:253c00",
+  "jp": "本当にゲームを開始する場合は\n決定ボタンを押してください",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:aaad4:aaae4"
+  ]
+ },
+ {
+  "id": "e:253c38",
+  "jp": "データの更新中です\nメモリースティックを\n抜かないでください",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:aade4:aadf4"
+  ]
+ },
+ {
+  "id": "e:253c74",
+  "jp": "背景の更新中です\nメモリースティックを\n抜かないでください",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:aaed8:aaee8"
+  ]
+ },
+ {
+  "id": "e:253d4c",
+  "jp": "移動",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:b78f8:b7918"
+  ]
+ },
+ {
+  "id": "e:253d54",
+  "jp": "出撃",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:b7968:b7988"
+  ]
+ },
+ {
+  "id": "e:253d5c",
+  "jp": "砲撃",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:b7a0c:b7a30"
+  ]
+ },
+ {
+  "id": "e:253ee0",
+  "jp": "カードの選択",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c6954"
+  ]
+ },
+ {
+  "id": "e:253ef0",
+  "jp": "移動方法",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c695c"
+  ]
+ },
+ {
+  "id": "e:253efc",
+  "jp": "攻撃方法",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c6964"
+  ]
+ },
+ {
+  "id": "e:253f08",
+  "jp": "戦闘後の行動",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c696c"
+  ]
+ },
+ {
+  "id": "e:253f18",
+  "jp": "街を訪れてみよう",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c6974"
+  ]
+ },
+ {
+  "id": "e:253f2c",
+  "jp": "フォーメーション",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c697c"
+  ]
+ },
+ {
+  "id": "e:253f40",
+  "jp": "リンク展開",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c6984"
+  ]
+ },
+ {
+  "id": "e:253f4c",
+  "jp": "武器相性～基礎編",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c698c"
+  ]
+ },
+ {
+  "id": "e:253f60",
+  "jp": "武器相性～特殊編",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c6994"
+  ]
+ },
+ {
+  "id": "e:253f74",
+  "jp": "スキルを使うには",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c699c"
+  ]
+ },
+ {
+  "id": "e:253f88",
+  "jp": "遺跡カードの説明",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c69a4"
+  ]
+ },
+ {
+  "id": "e:253f9c",
+  "jp": "船（キャラクター選択）の利用",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c69ac"
+  ]
+ },
+ {
+  "id": "e:253fbc",
+  "jp": "船（バトル）の説明",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c69b4"
+  ]
+ },
+ {
+  "id": "e:253fd0",
+  "jp": "ミッションの選択",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c69bc"
+  ]
+ },
+ {
+  "id": "e:253fe4",
+  "jp": "砲台",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c69c4"
+  ]
+ },
+ {
+  "id": "e:253fec",
+  "jp": "投石器",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c69cc"
+  ]
+ },
+ {
+  "id": "e:253ff4",
+  "jp": "天候の説明",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2c69d4"
+  ]
+ }
+]

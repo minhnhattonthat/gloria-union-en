@@ -1,0 +1,61 @@
+[
+ {
+  "id": "e:1ca384",
+  "jp": "メインスレッド一時停止[0A]",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "i:1184:118c"
+  ],
+  "notes": "debug"
+ },
+ {
+  "id": "e:1ca39c",
+  "jp": "キャッシュ開放に向けての処理＋edRAMの開放[0A]",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "i:1190:1198"
+  ],
+  "notes": "debug"
+ },
+ {
+  "id": "e:1ca3e8",
+  "jp": "メインスレッド復帰[0A]",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "i:120c:1214"
+  ],
+  "notes": "debug"
+ },
+ {
+  "id": "e:1ca468",
+  "jp": "廣",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "i:4188:4190"
+  ],
+  "notes": "binary"
+ },
+ {
+  "id": "e:1ca4c8",
+  "jp": "カードがありません",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:7d90:7db4"
+  ]
+ },
+ {
+  "id": "e:1dcb28",
+  "jp": "\n",
+  "en": "",
+  "status": "data",
+  "slots": [
+   "i:1b8d4:1b8dc"
+  ],
+  "notes": "binary"
+ }
+]

@@ -12,6 +12,7 @@ Run `git config core.hooksPath tools/hooks` once per clone.
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; not written yet: phase 9)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 - Unpack for RE: `python -X utf8 tools/pgd.py x work/iso/PSP_GAME/INSDIR/DATA.DNS work/re/data.bin`, `python -X utf8 tools/itoc.py x work/re/data.bin work/re/files`
+- Extract: `python -X utf8 tools/extract.py` -> `script/` (refuses if it exists; formats: `docs/re/text.md`; `tests/test_extract.py`)
 
 ## Paths
 - Original ROM: `rom/Gloria Union (Japan).iso` (gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Emulator: PPSSPPHeadless QA fork (`fetch_emu.py ppsspp-headless`, qa-1, one install per machine in `%LOCALAPPDATA%\translate-retro-game\ppsspp-headless\`); windowed PPSSPP v1.20.4 in `tools/ppsspp/` (github.com/hrydgard/ppsspp/releases, gitignored) for the EBOOT dump and for people. Savestates: `work/states/`.

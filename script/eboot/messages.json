@@ -1,0 +1,830 @@
+[
+ {
+  "id": "e:1ed150",
+  "jp": "リーダーがエースでないので、\nスキルは使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb824"
+  ]
+ },
+ {
+  "id": "e:1ed184",
+  "jp": "ゲージが破壊されているので、\nスキルは使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb828"
+  ]
+ },
+ {
+  "id": "e:1ed1b8",
+  "jp": "このスキルは重複して使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb82c"
+  ]
+ },
+ {
+  "id": "e:1ed1dc",
+  "jp": "ジェノサイド中は操作できません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb830"
+  ]
+ },
+ {
+  "id": "e:1ed200",
+  "jp": "このスキルはピンガー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb834"
+  ]
+ },
+ {
+  "id": "e:1ed220",
+  "jp": "このスキルはチェイサー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb838"
+  ]
+ },
+ {
+  "id": "e:1ed244",
+  "jp": "このスキルはヴァルキリー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb83c"
+  ]
+ },
+ {
+  "id": "e:1ed268",
+  "jp": "このスキルは騎馬タイプ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb840"
+  ]
+ },
+ {
+  "id": "e:1ed28c",
+  "jp": "このスキルはスナイパー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb844"
+  ]
+ },
+ {
+  "id": "e:1ed2b0",
+  "jp": "このスキルはガンナー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb848"
+  ]
+ },
+ {
+  "id": "e:1ed2d0",
+  "jp": "このスキルはウィッチ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb84c"
+  ]
+ },
+ {
+  "id": "e:1ed2f0",
+  "jp": "このスキルはスケルトン専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb850"
+  ]
+ },
+ {
+  "id": "e:1ed314",
+  "jp": "このスキルはゴーレム専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb854"
+  ]
+ },
+ {
+  "id": "e:1ed334",
+  "jp": "このスキルはガルカーサ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb858"
+  ]
+ },
+ {
+  "id": "e:1ed358",
+  "jp": "このスキルはローガン専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb85c"
+  ]
+ },
+ {
+  "id": "e:1ed378",
+  "jp": "このスキルはメデューテ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb860"
+  ]
+ },
+ {
+  "id": "e:1ed39c",
+  "jp": "このスキルはユニオンリーダー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb864"
+  ]
+ },
+ {
+  "id": "e:1ed3c4",
+  "jp": "このスキルは相手がドラゴン系でないと使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb868"
+  ]
+ },
+ {
+  "id": "e:1ed3f8",
+  "jp": "このスキルは、サイズと性別が\n相手と同じでないと使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb86c"
+  ]
+ },
+ {
+  "id": "e:1ed434",
+  "jp": "このスキルはパメラ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb870"
+  ]
+ },
+ {
+  "id": "e:1ed454",
+  "jp": "このスキルはキーラ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb874"
+  ]
+ },
+ {
+  "id": "e:1ed474",
+  "jp": "このスキルはバイフー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb878"
+  ]
+ },
+ {
+  "id": "e:1ed494",
+  "jp": "このスキルは女性ユニオンリーダー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb87c"
+  ]
+ },
+ {
+  "id": "e:1ed4c0",
+  "jp": "このスキルは男性ユニオンリーダー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb880"
+  ]
+ },
+ {
+  "id": "e:1ed4ec",
+  "jp": "このスキルは夜間専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb884"
+  ]
+ },
+ {
+  "id": "e:1ed508",
+  "jp": "このスキルは昼間専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb888"
+  ]
+ },
+ {
+  "id": "e:1ed524",
+  "jp": "このスキルはヘッド１人のとき以外、使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb88c"
+  ]
+ },
+ {
+  "id": "e:1ed554",
+  "jp": "ゲージが満タンにならないと、\nスキルは使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb890"
+  ]
+ },
+ {
+  "id": "e:1ed588",
+  "jp": "「スキル使用不可」により\nスキルを使用できません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb894"
+  ]
+ },
+ {
+  "id": "e:1ed5bc",
+  "jp": "ヘッドが戦闘不能なので\nスキルを使用できません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb898"
+  ]
+ },
+ {
+  "id": "e:1ed5ec",
+  "jp": "ヘッドが戦闘不能なので\n指示できません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb89c"
+  ]
+ },
+ {
+  "id": "e:1ed614",
+  "jp": "グロリア海賊団のユニットでないので\n指示できません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8a0"
+  ]
+ },
+ {
+  "id": "e:1ed648",
+  "jp": "このスキルはイシュト専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8a4"
+  ]
+ },
+ {
+  "id": "e:1ed668",
+  "jp": "このスキルはアシュレイ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8a8"
+  ]
+ },
+ {
+  "id": "e:1ed68c",
+  "jp": "このスキルはイシュトとアシュレイ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8ac"
+  ]
+ },
+ {
+  "id": "e:1ed6b8",
+  "jp": "このスキルはエリーシャ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8b0"
+  ]
+ },
+ {
+  "id": "e:1ed6dc",
+  "jp": "このスキルはルルゥ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8b4"
+  ]
+ },
+ {
+  "id": "e:1ed6fc",
+  "jp": "このスキルはザザーランド専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8b8"
+  ]
+ },
+ {
+  "id": "e:1ed720",
+  "jp": "このスキルはミネソタ・グレイ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8bc"
+  ]
+ },
+ {
+  "id": "e:1ed748",
+  "jp": "このスキルはロコモコ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8c0"
+  ]
+ },
+ {
+  "id": "e:1ed768",
+  "jp": "このスキルはラズベリー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8c4"
+  ]
+ },
+ {
+  "id": "e:1ed78c",
+  "jp": "このスキルはガリオレッド専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8c8"
+  ]
+ },
+ {
+  "id": "e:1ed7b0",
+  "jp": "このスキルはグロリア号がないと使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8cc"
+  ]
+ },
+ {
+  "id": "e:1ed7dc",
+  "jp": "このスキルはアジョー・グラフォー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8d0"
+  ]
+ },
+ {
+  "id": "e:1ed808",
+  "jp": "このスキルはイシュトとチェイサー専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8d4"
+  ]
+ },
+ {
+  "id": "e:1ed834",
+  "jp": "このスキルはイシュトとエンリエッタ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8d8"
+  ]
+ },
+ {
+  "id": "e:1ed864",
+  "jp": "このスキルは分身がいないと使えません！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8dc"
+  ]
+ },
+ {
+  "id": "e:1ed88c",
+  "jp": "このスキルは女性専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8e0"
+  ]
+ },
+ {
+  "id": "e:1ed8a8",
+  "jp": "このスキルは杖タイプ専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8e4"
+  ]
+ },
+ {
+  "id": "e:1ed8c8",
+  "jp": "このスキルはピンガー（通常）専用です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8e8"
+  ]
+ },
+ {
+  "id": "e:1ed8f0",
+  "jp": "このスキルはウィルが強い者のみ使用可能です！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:2bb8ec"
+  ]
+ },
+ {
+  "id": "e:1ed9a0",
+  "jp": "＋",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:40c1c:40c28"
+  ]
+ },
+ {
+  "id": "e:1ed9a4",
+  "jp": "－",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:40c3c:40c48"
+  ]
+ },
+ {
+  "id": "e:1ed9a8",
+  "jp": "　",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:40c38:40c5c"
+  ]
+ },
+ {
+  "id": "e:1ed9ac",
+  "jp": "%d％",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:40c90:40c9c"
+  ]
+ },
+ {
+  "id": "e:1ed9b4",
+  "jp": "%3d％",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:414fc:4150c"
+  ]
+ },
+ {
+  "id": "e:1edbd8",
+  "jp": "%sの士気が",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:4aca4:4aca8"
+  ]
+ },
+ {
+  "id": "e:1edbe4",
+  "jp": "ゼロになりました…",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:4acac:4acb4"
+  ]
+ },
+ {
+  "id": "e:1edbf8",
+  "jp": "「退却ペナルティなし」の効果で",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:4acb8:4acc0"
+  ]
+ },
+ {
+  "id": "e:1edc18",
+  "jp": "経験値は維持されます。",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:4acc4:4accc"
+  ]
+ },
+ {
+  "id": "e:1edc30",
+  "jp": "%sの経験値は",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:4acd0:4acd4"
+  ]
+ },
+ {
+  "id": "e:1edc40",
+  "jp": "リセットされました…",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:4ace0:4acf0"
+  ]
+ },
+ {
+  "id": "e:1edc5c",
+  "jp": "%2d戦%2d勝",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "i:47860:4786c"
+  ]
+ },
+ {
+  "id": "e:1eddc8",
+  "jp": "俺の剣は止らないぜ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1304"
+  ]
+ },
+ {
+  "id": "e:1edddd",
+  "jp": "こいつでどうだ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f130c"
+  ]
+ },
+ {
+  "id": "e:1eddee",
+  "jp": "俺の意思を見せてやる！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1314"
+  ]
+ },
+ {
+  "id": "e:1ede05",
+  "jp": "オラァ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f131c"
+  ]
+ },
+ {
+  "id": "e:1ede0e",
+  "jp": "アシュレイ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1324"
+  ]
+ },
+ {
+  "id": "e:1ede1b",
+  "jp": "目を覚ましてくれ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f132c"
+  ]
+ },
+ {
+  "id": "e:1ede2e",
+  "jp": "素早さで勝負！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1334"
+  ]
+ },
+ {
+  "id": "e:1ede3d",
+  "jp": "速攻で決めます！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f133c"
+  ]
+ },
+ {
+  "id": "e:1ede4e",
+  "jp": "ボクはアンタを許さない！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1344"
+  ]
+ },
+ {
+  "id": "e:1ede67",
+  "jp": "行きますよルルゥ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f134c"
+  ]
+ },
+ {
+  "id": "e:1ede7a",
+  "jp": "兄貴！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1354"
+  ]
+ },
+ {
+  "id": "e:1ede81",
+  "jp": "私だって戦えるよ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f135c"
+  ]
+ },
+ {
+  "id": "e:1ede94",
+  "jp": "一気に終わらせよう！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1364"
+  ]
+ },
+ {
+  "id": "e:1edea9",
+  "jp": "似すぎててやりづらいよ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f136c"
+  ]
+ },
+ {
+  "id": "e:1edec2",
+  "jp": "行くよ、イシュト！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1374"
+  ]
+ },
+ {
+  "id": "e:1eded5",
+  "jp": "楽しい宴の始まりだぁ～！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f137c"
+  ]
+ },
+ {
+  "id": "e:1edeee",
+  "jp": "最初から本気でいくぜ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1384"
+  ]
+ },
+ {
+  "id": "e:1edf05",
+  "jp": "楽しくなるぜ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f138c"
+  ]
+ },
+ {
+  "id": "e:1edf14",
+  "jp": "こいつはちょっとばかし痛ぇぞ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f1394"
+  ]
+ },
+ {
+  "id": "e:1edf33",
+  "jp": "まずは挨拶程度だ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f139c"
+  ]
+ },
+ {
+  "id": "e:1edf46",
+  "jp": "覚悟しなさい！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13a4"
+  ]
+ },
+ {
+  "id": "e:1edf55",
+  "jp": "一発で終わらせるわ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13ac"
+  ]
+ },
+ {
+  "id": "e:1edf6a",
+  "jp": "いくらお母さん相手でも……！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13b4"
+  ]
+ },
+ {
+  "id": "e:1edf87",
+  "jp": "手加減しないわよ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13bc"
+  ]
+ },
+ {
+  "id": "e:1edf9a",
+  "jp": "アンタにだけは負けないわ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13c4"
+  ]
+ },
+ {
+  "id": "e:1edfb5",
+  "jp": "講義の時間だ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13cc"
+  ]
+ },
+ {
+  "id": "e:1edfc4",
+  "jp": "ロコモコちゃん、いきます！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13d4"
+  ]
+ },
+ {
+  "id": "e:1edfdf",
+  "jp": "行くっす！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13dc"
+  ]
+ },
+ {
+  "id": "e:1edfea",
+  "jp": "黄泉の国に帰るっすよ！",
+  "en": "",
+  "status": "todo",
+  "slots": [
+   "w:1f13e4"
+  ]
+ }
+]

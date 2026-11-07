@@ -1,47 +1,75 @@
 # Text
 
-Encoding everywhere: **Shift-JIS (cp932)** (verified: every extracted run reads as Japanese sentences). No table needed for extraction. Line break in text: byte `0x01` (scripts, common text). EBOOT strings use `\n` and printf codes (`%d`, `%s`; count and order must stay).
+Encoding everywhere: **Shift-JIS (cp932)**. No table needed for extraction. Line break: byte `0x01`, shown as a newline in `script/`. EBOOT strings can also hold a real `\n`, shown as `[0A]`, and printf codes (`%d`, `%s`; count and order must stay).
 
-## Story scripts: CPK ids 2032-2082 (51 files) (verified: `tools/vm.py` and the sweep below)
+`tools/extract.py` writes `script/`; `tests/test_extract.py` proves it (below). Counts: 19,538 entries, 19,367 to translate, 326,149 characters, 13,194 unique strings.
 
-Layout: u32 end_of_code; u32 entry points (count varies: read until a value is not an offset); then blocks of text and code **interleaved** in file order; at end_of_code a 0x14-byte trailer (`04 00 ...`).
+| Where | To translate | Unique | Characters | `script/` |
+|---|---|---|---|---|
+| Story scripts, ids 2032-2082 | 7,355 (180 team names) | 6,688 | 162,882 | `story/<id>.json` |
+| Common text, id 3 section 15 | 1,472 | 1,447 | 36,573 | `common/sub<n>.json` |
+| EBOOT | 10,540 (plus 171 not text) | 5,106 | 126,694 | `eboot/<group>.json` |
 
-- Text record: `02 00 <u16 id> <cp932> 00`, or a bare `<cp932> 00`. `id` runs up through a file; it is the voice line number (guess: voices are ids 2666+).
-- Code: `<op> <total length> <args>`. Exceptions: op 0x74 has `74 05 <side>` then an inline NUL-terminated team name; there are switch tables with raw u32 targets, so a linear walk needs more ops (see `vm.walk`, it stops on these; not needed for text work).
-- **Text reference: `46 07 <speaker u8> <u32 absolute file offset of the record>`.** 7136 records, 315,263 bytes of SJIS, all decode cleanly, zero bad starts (sweep over `b'F\x07'`).
-- **Next-page strings have no pointer.** A bare string directly after a referenced record is the next page, reached by the short forms `46 03 ..` / `46 05 ..` (guess from the op lengths; about 40 such strings seen; confirm in phase 5 with the marker build). Keep record order inside a block when re-emitting.
-- Inline team names (`イシュト海賊団`, `ベルガス一味`...): 68+ op 0x74 sites, shown on the battle intro. Rewriting one shifts code, so branches would need fixing; phase 4 option: repoint or keep the length (their bytes are 7 to 8 full-width chars, English must fit or the walker must be finished). Battle-intro strings may also be overridable. **Open question for phase 4.**
-- `90 90` filler bytes occur before some strings (0x2032:0xC12).
+## VM scripts (verified: `tools/vm.py` names every byte of all 51 files and of common subs 0-4, 7-9)
 
-**Plan for growth:** code keeps its offsets. Write English into a new text block appended after the trailer (keeping page order), rewrite each `46 07` offset, update the file size in the CPK. No code bytes move. Load buffer limit: unknown, check in phase 5 with a grown file; the largest original is 53,880 bytes (id 2057).
+Handler table at 0x2EF748. Instruction: `<op> <total length> <args>`, at most 40 bytes, so a second byte over 40 means text. Exceptions, read from the handlers:
 
-## Common text: id 3, section 15 (offset 0x450E90 in the expanded file, a nested FCT of 10 sections)
+- `74 05 <side> <name> 00`: the handler (0x11C020) ignores the 05, uses strlen, and stores a **pointer to the string in the script** in a per-side struct of 0x90 bytes in .bss. 180 sites, all in `story/`.
+- `52 02` + 5 u32 targets, `53 02` + 3 u32 targets: goto indexed by save byte +0x1A9, +0x1A4.
+- `06 02` is **return**, so anything may follow: 0x90 or 0x00 padding to a 4-aligned address, then sometimes a u32 target table (at least 2 entries).
 
-Pairs of offset table + strings, plus one script block.
+Text span: optional `02 00 <u16 voice id>` tag, cp932, NUL. The line counter at 0x119BD0 skips 4 bytes on 02 and treats 03-1F as 2-byte codes, but no script text holds any such code (every string decodes to printable text plus 0x01). 3,943 strings carry a tag. 0x90 pads between spans. Script 2042 has one tag with no text in front of a message at 0x7B5: a `pad` span.
 
-| Sub | Offset | Size | Holds |
+**Message: `46 07 00 <u32 offset of the text>`** (8,336 sites, sub-op 0). `46 05 02 <u16>` plays voice id + 0x823 (sub-op 2), `46 03 03` waits for it, `46 03 01` once. Earlier notes called these next-page forms: wrong, they are voice.
+
+**39 story strings and 5 common ones have no pointer** (`slots: []`). No u32 in any instruction or table holds their offset. They read as conditional NPC lines. Likely dead; the marker build decides. Translate them anyway. The earlier "next page" guess is dropped: nothing reads a string by adjacency as far as the handlers go, though the display path past 0x119E30 was not read to the end.
+
+**Speaker:** the last `eb 0b <side> <expr> <u16 char> ...` before a message. Ids 0-0x0E index the name table at 0x2C8748 (verified); higher ids follow the unit name pool at 0x2808F0 with team forms dropped (guess; a sample of lines per id reads right). 0x0F has 87 lines and no name. Ids of 0x1D and up stay `#<id>`. `who` in `script/` is translator context only, never inserted.
+
+**Growth plan:** code keeps its offsets. Append English after the trailer, rewrite each slot in `slots`. Tags stay with their text. Load buffer limit: unknown, check in phase 5; the largest original is 53,880 bytes (id 2057).
+
+**Team names (op 0x74):** in `script/` with `at` and `max` (4-20 bytes, 47 unique names). They sit inside code, so growing one shifts code and branches. Options for phase 5: hook 0x11C020 so the handler maps the old bytes to a new table (no code moves, recommended); fit in `max` (too tight for most); or move code (`vm.parse` finds the ops, but which u32 args are targets is not listed per op). **Open for phase 5.**
+
+## Common text: id 3 section 15 (nested FCT, 10 subs) (verified: all parse)
+
+All but 5 and 6 are VM code. Offsets in slots are relative to the sub's start. The "Holds" column comes from reading a sample of each sub.
+
+| Sub | Size | Holds | Entries |
 |---|---|---|---|
-| 0 | 0x60 | 0x26EA | offset table then strings (236 entries): game-over and defeat lines by character |
-| 1 | 0x2750 | 0x583 | u32 offsets + strings |
-| 2 | 0x2CE0 | 0x6A74 | u32 offsets + strings |
-| 3 | 0x9760 | 0x841 | u32 offsets + strings |
-| 4 | 0x9FB0 | 0x26C36 | u32 offsets + strings (largest; likely unit/card lines) |
-| 5, 6 | 0x30BF0, 0x30D50 | 0x160, 0x1B1 | bare strings |
-| 7 | 0x30F10 | 0x65C0 | code-like block with `90 90` filler (`de\0\0` magic) |
-| 8 | 0x374D0 | 0x1E321 | u32 offsets + strings |
-| 9 | 0x55800 | 0x275 | u32 offsets + strings |
+| 0 | 0x26EA | u32 table + code: defeat lines, one routine per character | 76 |
+| 1 | 0x583 | ballista and cannon crews | 13 |
+| 2 | 0x6A74 | item pick-up lines | 16 |
+| 3 | 0x841 | sleeping-crew lines | 33 |
+| 4 | 0x26C36 | code, no text | 0 |
+| 5, 6 | 0x160, 0x1B1 | bare strings: sleep and petrify remarks. **Reader not found** | 14, 17 |
+| 7 | 0x65C0 | story layout: u32 end, 0x90 fill, code; tutorial talk; a 23-entry offset table after end | 320 |
+| 8 | 0x1E321 | u32 table + code: item-use lines per character | 977 |
+| 9 | 0x275 | out-of-cards lines | 6 |
 
-Other id 3 sections 2 (0xD8020, 0x7EA8) and 17 (0x4B3010, 0x1588) are u32 tables; 8 and 9 are tables with no text. Exact semantics: phase 4.
+Other sections of id 3 have no text: the `textsweep.py` sentence test finds no run in id 3 outside section 15 (one-off check). Growing a sub means rebuilding two FCT levels, or hooking the loader: phase 5.
 
-## EBOOT strings
+## EBOOT (verified: test, every entry re-encodes in place and each `w:` slot holds its address)
 
-Japanese runs in .rodata from about 0x1E0000 to 0x25FFFF (file offsets; 0x1F0000-0x25FFFF holds ~9,500 hits), about 280 KB including noise. Skill messages, unit, item and skill names, descriptions. Earlier hits (below 0x1C0000) are code noise. .data holds no sentences, but its tables point into .rodata.
+Plain PRX; file offset = vaddr + 0xA0. `tools/elf.py` parses the three .rel sections: `R_MIPS_32` words (mostly (id, pointer) pairs at stride 8 in .rodata tables, read by eye on a sample of the tables) and `lui`/`lo` pairs in code, paired by register in reloc order. An entry in `script/eboot/` has every reference found in `slots`: `w:<word vaddr>` or `i:<lui vaddr>:<lo vaddr>`. 75 strings to translate have an `i:` slot. The test checks that each pair adds up to the address, not that the pair runs together: a `lui` reused across a branch could pair wrongly, so phase 5 confirms them when strings move.
 
-**Pointers (guess, verified only for the format):** the PRX is relocatable, so every absolute reference to a string is listed in the 0x700000A0 reloc sections (.rel.text 0x76F40 bytes, .rel.rodata 0x34720, .rel.data 0xC738): `lui`/`addiu` pairs and data words. Parse these in phase 4 to get each string's references; that is the slot list. Strings can then move into a new loaded region at the end of the image, with only the instruction or word changed (a plain ELF EBOOT runs on PPSSPP and CFW; phase 5 decides). Script text never goes through the EBOOT.
+Groups by address (names from reading a sample): `messages` skill refusals; `barks`, `barks2` battle lines by class and situation; `chants` skill incantations; `ui1-3`, `items`, `names`, `saves`; `data` is .data: stage hints, skill names, map names and descriptions, class names, biographies (these too are pointed at, not inline). Strings repeat a lot, each copy at its own address, so the batch tool must dedupe: 5,106 unique of 10,540.
+
+`status: data` marks 171 strings players never see: debug text (`メインスレッド一時停止`), binary that decodes, and a glyph list at 0x2537C0 (`NOT_TEXT` in `extract.py`; the glyph list's reader was not traced, so check it in phase 5). Debug and binary were picked by address from a listing of odd strings, not proved unreachable. Filters in `elf.text()`: half-width kana, a lone kanji plus a stray byte, runs of 0x01. Code pointing into the middle of a run is a struct base, not a string.
+
+`id 1` holds `ＥＦ＿０１２＿ネクロゲート`-style labels in its EFCS block: development names of effects, not shown.
+
+## Coverage (`tests/test_extract.py`, runs on every commit; 3 deliberate corruptions each made it fail)
+
+- Spans cover every byte of every script block.
+- Every text span re-encodes from `script/` to its exact bytes, tag included, and each slot holds the offset.
+- Every message op targets a text span.
+- No kana in op or table spans except op 0x74.
+- EBOOT: every cp932 run with 2+ kana or 3+ kanji in .rodata and .data is an entry, or one of 12 addresses read by eye as binary.
+- `extract.py` refuses to run over `script/`.
+
+**Other files** (`tools/textsweep.py`, one-off, every expanded CPK file except the text ids and audio, in cp932, UTF-8 and UTF-16LE): 43 hits, all cp932, none UTF. All are image or table bytes that decode by chance (PTG, FPD, PTP, PTX, the FCT pages 213-232), plus id 1's effect labels. So text is only in the story scripts, id 3 section 15 and the EBOOT. Text drawn as pictures is in `graphics.md`.
 
 ## Free space
 
-- ISO: unlimited (append).
-- DATA.DNS: file grows; ok.
-- Script files: append after the trailer.
+- ISO: unlimited (append). DATA.DNS: file grows; ok. Script files: append after the trailer.
 - EBOOT: 0x48 file bytes spare at most; relocate strings into a new segment past .bss (phase 5). No slack verified.
