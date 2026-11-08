@@ -51,7 +51,7 @@ def build(out, mode="en", only=None, qa=None):
     import insert
     ins = insert.Inserter(mode, only, qa)
     files = {EBOOT: ins.eboot()}
-    rebuild(out, gfx.apply(ins.cpk()), files)
+    rebuild(out, ins.cpk(gfx.apply({})), files)
     log = out.with_suffix(".writes.txt")
     log.write_text("\n".join(ins.eb.log) + "\n", "utf8")
     return out

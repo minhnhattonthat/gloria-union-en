@@ -21,6 +21,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / 'tools'))
 import eboot as eb  # noqa: E402
+import gfx  # noqa: E402
 import vm  # noqa: E402
 import vwf  # noqa: E402
 from extract import ELF, FILES, SUBS, fct, from_text  # noqa: E402
@@ -154,6 +155,7 @@ class Inserter:
         d = elf_bytes or ELF.read_bytes()
         e = eb.Eboot(d)
         vwf.patch(e)
+        gfx.eboot(e)
         descs = item_descs(e)
         for entries in load('eboot').values():
             for x in entries:
@@ -241,14 +243,16 @@ class Inserter:
         b += bytes(-len(b) % 4)
         return bytes(b)
 
-    def cpk(self):
-        out = {}
+    def cpk(self, base=None):
+        """{file id: bytes} of every changed file; base: files already changed (gfx.apply: same-size texture writes,
+        so id 3's sections keep their offsets until the common scripts are repacked here)."""
+        out = dict(base or {})
         for name, entries in load('story').items():
             i = int(name)
-            b = (FILES / f'{i:05d}.bin').read_bytes()
+            b = out.get(i) or (FILES / f'{i:05d}.bin').read_bytes()
             nb = self.script(b, entries)
             if nb != b: out[i] = nb
-        top = (FILES / f'{SUBS[0]:05d}.bin').read_bytes()
+        top = out.get(SUBS[0]) or (FILES / f'{SUBS[0]:05d}.bin').read_bytes()
         sec = fct(top, SUBS[1])
         subs = {}
         for name, entries in load('common').items():

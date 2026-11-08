@@ -46,8 +46,24 @@ def bands(b, a):
     return out
 
 
+def section(b, a):
+    """(section bytes, asset with its offset in them) for an asset inside an FCT section of file b (id 3). The texture
+    is found by its PTP entry number, so it is found again after an earlier resize moved the section's entries."""
+    from extract import fct
+    orig = (FILES / f"{files(a)[0]:05d}.bin").read_bytes()
+    n, h = struct.unpack_from("<II", orig, 4)
+    start = struct.unpack_from("<I", orig, h + 8 * a["section"])[0]
+    old, s = fct(orig, a["section"]), bytearray(fct(bytes(b), a["section"]))
+    assert old[:4] == b"PTP\0", f"{a['name']}: section {a['section']} is not a PTP"
+    ents = list(struct.unpack_from(f"<{struct.unpack_from('<I', old, 4)[0]}I", old, 0x10))
+    i = ents.index(a["off"] - start)
+    return s, dict(a, section=None, off=struct.unpack_from("<I", s, 0x10 + 4 * i)[0])
+
+
 def palette(b, a):
     """The palette the redraw may use (n x 4 ints)."""
+    if a["section"] is not None:
+        return palette(*section(b, a))
     if a["kind"] == "ptx":
         t = ptx.parse(b, a["off"])
         return np.frombuffer(bytes(b), np.uint8, t["n"] * 4, t["po"]).reshape(-1, 4).astype(int)
@@ -58,6 +74,8 @@ def palette(b, a):
 
 
 def read(b, a):
+    if a["section"] is not None:
+        return read(*section(b, a))
     if a["kind"] == "stack":
         return np.vstack([ptx.decode(bytes(b), t) for _, t in bands(b, a)])
     return ptx.decode(bytes(b), ptx.parse(b, a["off"])) if a["kind"] == "ptx" else ptx.ptg(bytes(b), a["off"])
@@ -74,6 +92,12 @@ def fit(b, a, img):
 
 def write(b, a, img):
     """Write the RGBA array img (palette colours only) into bytearray b; fail if it can't be shown exactly."""
+    if a["section"] is not None:   # write into the section, then re-lay the FCT (later sections move, as in insert.cpk)
+        from insert import fct_pack
+        s, inner = section(b, a)
+        write(s, inner, img)
+        b[:] = fct_pack(bytes(b), {a["section"]: bytes(s)})
+        return
     if a["kind"] == "stack":
         for y, t in bands(b, a):
             out = ptx.encode(b, t, img[y:y + t["h"]])
@@ -95,10 +119,16 @@ def write(b, a, img):
             out = ptx.encode(block, t, p)
             block[t["do"]:t["do"] + len(out)] = out
         b[base:base + len(block)] = block
-    got = read(b, a)
-    if not np.array_equal(got[:img.shape[0], :img.shape[1]], img):
-        bad = np.argwhere((got[:img.shape[0], :img.shape[1]] != img).any(2))
+    bad = np.argwhere(~same(read(b, a), img))
+    if len(bad):
         raise ValueError(f"{a['name']}: {len(bad)} pixels can't be drawn (outside every sprite?), first {bad[0][::-1]}")
+
+
+def same(got, img):
+    """Pixel mask: got (a decoded texture, maybe padded) shows img; clear pixels match any clear pixel (a packed PTG
+    leaves the trimmed parts of each band undrawn)."""
+    got = got[:img.shape[0], :img.shape[1]]
+    return (got == img).all(2) | ((got[..., 3] == 0) & (img[..., 3] == 0))
 
 
 def files(a):
@@ -132,6 +162,9 @@ def quantize(img, pal):
     out = np.empty(a.shape, np.uint8)
     for y in range(a.shape[0]):   # row by row: h x w x n distances would be large for 480 x 272 x 256
         out[y] = pal[np.abs(a[y][:, None, :] - pal[None]).sum(2).argmin(1)]
+    clear = pal[pal[:, 3] == 0]
+    if len(clear):   # clear stays clear, whatever its RGB (a clear (0,0,0,0) is nearer a dark opaque entry)
+        out[a[..., 3] == 0] = clear[0]
     return out
 
 
@@ -487,14 +520,129 @@ def draw_okq(a, text, w=242):
     return np.array(im)
 
 
+# --- word sheets (id 3 menus: the game draws each word from a (u, v, w, h) table in the EBOOT) --------------------
+
+ELF = ROOT / "work" / "re" / "eboot.elf"
+
+
+def table_rects(vaddr, n):
+    """The n (u, v, w, h) s16 rects of an EBOOT table (segment 0 vaddr = file offset - 0xA0)."""
+    d = ELF.read_bytes()
+    return [list(struct.unpack_from("<4h", d, vaddr + 0xA0 + 8 * i)) for i in range(n)]
+
+
+def ink_colours(a):
+    """(fill, rim) of the old lettering: the commonest light and the commonest dark opaque colour."""
+    px = a[a[..., 3] == 255][:, :3].astype(int)
+    lum = px.sum(1)
+    def pick(m):
+        vals, counts = np.unique(px[m], axis=0, return_counts=True)
+        return tuple(int(v) for v in vals[counts.argmax()]) + (255,)
+    return pick(lum >= np.percentile(lum, 75)), pick(lum <= np.percentile(lum, 25))
+
+
+def draw_words(a, rects, words, size, stroke=1):
+    """Each word left-aligned in its rect, vertically centred. Rects that share a row (same v) are re-packed left to
+    right to the English widths; a word alone on its row may widen its rect to the texture edge. Returns (image,
+    new rects): build writes the rects into the EBOOT table (gfx.eboot)."""
+    fill, rim = ink_colours(a)
+    clear = tuple(int(v) for v in a[a[..., 3] == 0][0]) if (a[..., 3] == 0).any() else (255, 255, 255, 0)
+    out = a.copy()
+    for u, v, w, h in rects:
+        out[v:v + h, u:u + w] = clear
+    im = Image.fromarray(out)
+    rows = {}
+    for i, r in enumerate(rects):
+        rows.setdefault((r[1], r[3]), []).append(i)
+    new = [list(r) for r in rects]
+    tw = a.shape[1]
+    for (v, h), idx in rows.items():
+        u0 = min(rects[i][0] for i in idx)
+        room = tw - u0 if len(idx) > 1 else max(rects[idx[0]][2], tw - u0)
+        f_size, xs = size, 1.0
+        while True:   # one size for the whole row; squeeze to 0.8, then a smaller font
+            f = font("LiberationSans-Bold.ttf", f_size)
+            layers = [layer_text(words[i], f, fill, stroke, rim, xs, lines=True) for i in idx]
+            need = sum(lt.width for lt in layers) + (len(idx) - 1)
+            if need <= room and max(lt.height for lt in layers) <= h + 4:
+                break
+            if xs > 0.8:
+                xs = max(0.8, xs * room / need - 0.01)
+            else:
+                f_size, xs = f_size - 1, 1.0
+            assert f_size >= 9, f"{words[idx[0]]!r}: no room on row v={v}"
+        u = u0
+        for i, lt in zip(idx, layers):
+            w = lt.width if len(idx) > 1 else max(rects[i][2], lt.width)
+            new[i] = [u, v, w, h]
+            crop = lt.crop((0, max(0, (lt.height - h) // 2), lt.width, max(0, (lt.height - h) // 2) + min(h, lt.height)))
+            im.alpha_composite(crop, (u, v + max(0, (h - crop.height) // 2)))
+            u += lt.width + 1
+    res = np.array(im)
+    res[res[..., 3] == 0] = clear
+    return res, new
+
+
+def eboot(e):
+    """insert.py: write each word sheet's new rects (gfx/NAME.rects) into its EBOOT table."""
+    for name, a in ASSETS.items():
+        p = GFX / f"{name}.rects"
+        if not a.get("table") or not p.exists():
+            continue
+        vaddr, n = a["table"]
+        rects = [[int(x) for x in ln.split()] for ln in p.read_text("utf8").split("\n") if ln.strip()]
+        assert len(rects) == n, f"{p}: {len(rects)} rects, table has {n}"
+        old = ELF.read_bytes()[vaddr + 0xA0:vaddr + 0xA0 + 8 * n]
+        e.put(vaddr, b"".join(struct.pack("<4h", *r) for r in rects), expect=old, by=f"gfx {name}")
+
+
+def draw_label(a, text, face, size, keep=0, dark_fill=True, shear=0.0, stroke=2, wmax=0):
+    """A one-line label (id 3 PTGs): the old lettering right of column `keep` (an icon left of it stays) cleared, the
+    English in the old ink colours, left-aligned, vertically centred, squeezed (to 0.75, then a smaller font) to fit.
+    wmax: the canvas may widen to that (a resize asset; the game centres a PTG on its w)."""
+    light, dark = ink_colours(a[:, keep:])
+    fill, rim = (dark, light) if dark_fill else (light, dark)
+    clear = (0, 0, 0, 0)   # quantize maps it to the palette's clear entry
+    h = a.shape[0]
+    while True:
+        f = font(face, size)
+        lt = layer_text(text, f, fill, stroke, rim, 1.0, shear, lines=True)
+        room = max(a.shape[1], min(wmax, lt.width + keep + 3)) - keep - 2
+        xs = min(1.0, room / lt.width)
+        if xs >= 0.75 and lt.height <= h + 2:
+            break
+        size -= 1
+    if xs < 1:
+        lt = layer_text(text, f, fill, stroke, rim, xs, shear, lines=True)
+    cw = room + keep + 2
+    out = np.zeros((h, cw + cw % 2, 4), np.uint8)
+    out[:, :keep] = a[:, :keep]
+    im = Image.fromarray(out)
+    im.alpha_composite(lt.crop((0, max(0, (lt.height - h) // 2), lt.width, max(0, (lt.height - h) // 2) + h)),
+                       (keep + 1, max(0, (h - lt.height) // 2)))
+    res = np.array(im)
+    res[res[..., 3] == 0] = clear
+    return res
+
+
 # --- registry ---------------------------------------------------------------------------------------------------
 
 ASSETS = {}
 
 
-def asset(name, file, kind, off, rect, draw, resize=False):
-    """resize (ptg only): the redraw may have another w x h than the original; write() repacks the sprites to it."""
-    ASSETS[name] = dict(name=name, file=file, kind=kind, off=off, rect=rect, draw=draw, resize=resize)
+def asset(name, file, kind, off, rect, draw, resize=False, table=None, section=None):
+    """resize (ptg only): the redraw may have another w x h than the original; write() repacks the sprites to it.
+    table (vaddr, n): an EBOOT rect table the draw function re-lays out (it returns (image, rects)).
+    section: the FCT section (a PTP) of file id 3 holding the texture; off stays the offset in the whole file. Needed
+    for a resize there (the section grows; insert.cpk re-lays id 3 the same way for the common scripts)."""
+    assert not (resize and file == 3 and section is None), "a resize in id 3 needs its section"
+    ASSETS[name] = dict(name=name, file=file, kind=kind, off=off, rect=rect, draw=draw, resize=resize, table=table,
+                        section=section)
+
+
+def words(name, file, off, w, h, table, keys, size):
+    asset(name, file, "ptx", off, (0, 0, w, h),
+          lambda a, t: draw_words(a, table_rects(*table), [t[k] for k in keys], size), table=table)
 
 
 for _n in range(1, 8):
@@ -515,6 +663,15 @@ for _f in range(26, 66):
 asset("ok_resume", 2020, "ptx", 0x20, (0, 0, 242, 38), lambda a, t: draw_okq(a, t["ok_resume"]))
 asset("ok_suspend", 2020, "ptx", 0x1580, (0, 0, 242, 38), lambda a, t: draw_okq(a, t["ok_suspend"]))
 asset("credits", 1992, "stack", [0x1640 + 0xE060 * i for i in range(9)], (0, 0, CRED_W, 4159), draw_credits)
+MAP_MENU = ["menu_end_turn", "menu_full_map", "menu_unit_list", "menu_card_list", "menu_weapons", "menu_terrain",
+            "menu_objects", "menu_tutorial", "menu_conditions", "menu_suspend"]
+words("map_menu_hi", 3, 0x16db60, 256, 114, (0x2f3638, 10), MAP_MENU, 16)   # the highlighted row
+words("map_menu", 3, 0x171ac0, 160, 170, (0x2f3688, 10), MAP_MENU, 16)
+for _n, _o, _kw in (("ok_battle", 0x36f4c0, dict(face="LiberationSerif-Bold.ttf", size=34)),
+                    ("ok_end_turn", 0x3708a0, dict(face="LiberationSans-BoldItalic.ttf", size=30, dark_fill=False)),
+                    ("card_select", 0x3924e0, dict(face="LiberationSans-Bold.ttf", size=24, keep=24, wmax=220))):   # drawn from its left edge: Time/Weather starts ~225 px right of it
+    asset(_n, 3, "ptg", _o, (0, 0, 512, 512), lambda a, t, n=_n, kw=_kw: draw_label(a, t[n], **kw), resize=True,
+          section=14)
 
 
 def gen(names=None):
@@ -526,7 +683,11 @@ def gen(names=None):
         orig = read(b, a)
         for i in files(a)[1:]:
             assert np.array_equal(read((FILES / f"{i:05d}.bin").read_bytes(), a), orig), f"{name}: {i} differs"
-        new = fit(b, a, a["draw"](orig, t))
+        new = a["draw"](orig, t)
+        if a["table"]:
+            new, rects = new
+            (GFX / f"{name}.rects").write_text("".join(" ".join(map(str, r)) + "\n" for r in rects), "utf8")
+        new = fit(b, a, new)
         if new.shape == orig.shape:
             x, y, w, h = a["rect"]
             keep = np.ones(orig.shape[:2], bool)

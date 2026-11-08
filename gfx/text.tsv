@@ -148,3 +148,16 @@ team62	海の犬進撃！	Sea Dogs Advance!
 team63	悪霊軍団進撃！	Evil Spirit Army Advances!
 team64	ナンパ男進撃！	Flirt Advances!
 team65	スケルトン進撃！	Skeletons Advance!
+menu_end_turn	ターン終了	End Turn
+menu_full_map	全体マップ	Full Map
+menu_unit_list	ユニットリスト	Unit List
+menu_card_list	カードリスト	Card List
+menu_weapons	武器タイプ一覧	Weapon Types
+menu_terrain	地形一覧	Terrain List
+menu_objects	オブジェクト一覧	Object List
+menu_tutorial	チュートリアル	Tutorial
+menu_conditions	勝敗条件	Victory Conditions
+menu_suspend	中断セーブ	Suspend Game
+ok_battle	戦闘準備OK?	Ready for Battle?
+ok_end_turn	ターン終了OK?	End Turn?
+card_select	タクティクスカード選択	Choose a Tactics Card
