@@ -2,8 +2,8 @@
  {
   "id": "s2044:00028",
   "jp": "おなかすいた。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm hungry.",
+  "status": "done",
   "slots": [
    "0x1973"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2044:0003b",
   "jp": "まずいですねぇ、このままじゃ\nクリスタルを探せませんよ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is bad. At this rate we can't search for\nthe Crystal.",
+  "status": "done",
   "slots": [
    "0x198c"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2044:00077",
   "jp": "なぁ、本当にここにあるのか？\nルルゥの食料。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, is Ruru's food really here?",
+  "status": "done",
   "slots": [
    "0x19a2"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2044:000a7",
   "jp": "この島は古代ユーフォリア時代から\n変わらぬ歴史を歩んでいると聞く。",
-  "en": "",
-  "status": "todo",
+  "en": "I hear this island has walked an unchanging\nhistory since the age of ancient Euforia.",
+  "status": "done",
   "slots": [
    "0x19b8"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2044:000ed",
   "jp": "んで、その中心にある町の中には、\n古代ユーフォリアの遺産が\n大量に保管されてるんだと。",
-  "en": "",
-  "status": "todo",
+  "en": "And the town at its center is said to store a\nwhole lotta relics of ancient Euforia.",
+  "status": "done",
   "slots": [
    "0x19ce"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2044:00146",
   "jp": "古代ユーフォリアの遺産！？\nもしかしたら、シンフォニアが\n見つかるかも！",
-  "en": "",
-  "status": "todo",
+  "en": "Relics of ancient Euforia!? Maybe we can find\nSymphonia!",
+  "status": "done",
   "slots": [
    "0x1a28"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2044:00191",
   "jp": "……まさか、それを盗もうってん\nじゃないだろうなぁ？",
-  "en": "",
-  "status": "todo",
+  "en": "...You're not plannin' to steal 'em, are ya?",
+  "status": "done",
   "slots": [
    "0x1a48"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2044:001c9",
   "jp": "む？　盗みは感心しないぞ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? I don't approve of theft, you know.",
+  "status": "done",
   "slots": [
    "0x1a70"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2044:001e8",
   "jp": "だよなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Right!?",
+  "status": "done",
   "slots": [
    "0x1a85"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2044:001f7",
   "jp": "ほんのちょっぴりの罪悪感と\nルルゥの笑顔とクリスタル。\nどっちを選ぶ気だ？",
-  "en": "",
-  "status": "todo",
+  "en": "A teeny bit of guilt, or Ruru's smile and a\nCrystal. Which are you gonna pick?",
+  "status": "done",
   "slots": [
    "0x1aa5"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2044:00244",
   "jp": "ヌググ、悪魔めぇ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Nnngh, you devil...",
+  "status": "done",
   "slots": [
    "0x1acc"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2044:0025f",
   "jp": "おなかすいた～あああん！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm hungryyy, waaaaah!",
+  "status": "done",
   "slots": [
    "0x1ae5"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2044:0027c",
   "jp": "なんだかこっちまで\nお腹が空きそうっす。",
-  "en": "",
-  "status": "todo",
+  "en": "It's kinda making me hungry too, sir.",
+  "status": "done",
   "slots": [
    "0x1b0d"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2044:002a8",
   "jp": "……ん？　ちょっと待って！？\n町が、町が襲われているわ！",
-  "en": "",
-  "status": "todo",
+  "en": "...Hm? Wait a minute!? The town... the town\nis under attack!",
+  "status": "done",
   "slots": [
    "0x1b29"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2044:002e4",
   "jp": "オラ！　早くこの島にある宝物庫の\n場所を教えやがれ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Hey! Tell us where the treasury on this\nisland is, now!!",
+  "status": "done",
   "slots": [
    "0x1cea"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2044:0031e",
   "jp": "ヒイィィ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Eeeeek!!",
+  "status": "done",
   "slots": [
    "0x1d07"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2044:0032f",
   "jp": "黒い牙！？\n宝物庫というと、目的は遺跡の欠片\nでしょうか。マズイですね。",
-  "en": "",
-  "status": "todo",
+  "en": "The Black Fang!? If it's the treasury, they\nmust be after the ruin shards. This is bad.",
+  "status": "done",
   "slots": [
    "0x1d22"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2044:0037a",
   "jp": "なんと横暴な……！",
-  "en": "",
-  "status": "todo",
+  "en": "How tyrannical...!",
+  "status": "done",
   "slots": [
    "0x1d4a"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2044:00391",
   "jp": "町の人を助けたいけど。\nそうしたら遺跡の欠片が\n奪われるかもしれない……。",
-  "en": "",
-  "status": "todo",
+  "en": "I wanna save the townsfolk. But if we do,\nthe ruin shards might get stolen...",
+  "status": "done",
   "slots": [
    "0x1d6a"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2044:003de",
   "jp": "遺跡の欠片をとれば住人の被害が\n多く出るか……。先よりもよほど\n大きな選択となってしまったな。",
-  "en": "",
-  "status": "todo",
+  "en": "And if we take the ruin shards, many of the\ntownsfolk will be hurt... This has become a\nfar bigger choice than before.",
+  "status": "done",
   "slots": [
    "0x1d83"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2044:0043f",
   "jp": "……イシュト、お前が決めろ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Ishut, you decide.",
+  "status": "done",
   "slots": [
    "0x1db1"
   ],

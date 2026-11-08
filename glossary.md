@@ -15,7 +15,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - Punctuation map: 「」 -> "...", 『』 -> '...', ・・・ -> ..., ！？ -> !?, <more>.
 - Voices (grow this as the story is translated):
   - Ishut: brash, loud, good-hearted; べらんめぇ (ぜ/ねぇ/てめぇ): "ya", "ain't", "damn", short boasts.
-  - Pinger: Ishut's henchman, polite (ですよ/ますね) but dry and snarky; calls Ishut 兄貴 = "Boss".
+  - Pinger: Ishut's henchman, a cat-beastman GIRL (獣人の娘, in love with Ishut; she/her), uses ボク, polite (ですよ/ますね) but dry and snarky; calls Ishut 兄貴 = "Boss".
   - Velgas: Ishut's old rival from the same hometown, rough bounty hunter, swaggering.
   - Ruru: sweet, simple girl ("Okay!", "Ishut!"); switches to a stilted machine voice for scans and refuelling
     ("High-energy reading from...", "Commencing replenishment.").

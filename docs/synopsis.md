@@ -4,7 +4,7 @@ Story scripts run in file order `script/story/2032.json` on (batches b026-b071);
 b072-b082) hold tutorial and shared talk.
 
 ## Chapter 1 (2032-2037, translated session 8)
-- **2032:** Ishut (brash small-time pirate, homemade "ship" = a raft) and his cat-beastman henchman Pinger (polite,
+- **2032:** Ishut (brash small-time pirate, homemade "ship" = a raft) and his cat-beastman henchman Pinger (a girl, she/her, secretly in love with him; polite,
   snarky, ボク, にゃ) hunt the legendary Crystal, a legacy of ancient Euforia. Rival Velgas (same hometown, bounty
   hunter, sworn to beat Ishut) shows a wanted poster: the Empire has put a huge bounty on Ishut for no reason he
   knows. After the fight a capsule falls from the sky onto the beach: Ruru, a girl who "guides the holder of the Key

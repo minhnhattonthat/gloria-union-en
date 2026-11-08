@@ -519,8 +519,8 @@
  {
   "id": "s2042:0088e",
   "jp": "許せないよ……早く崖下に行こう！",
-  "en": "",
-  "status": "todo",
+  "en": "Unforgivable... Let's hurry to the bottom of\nthe cliff!",
+  "status": "done",
   "slots": [
    "0x3c5e"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2042:008b3",
   "jp": "えぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Right!",
+  "status": "done",
   "slots": [
    "0x3c8a"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2042:008be",
   "jp": "ちょ、ちょっと……。",
-  "en": "",
-  "status": "todo",
+  "en": "H-hey, wait...",
+  "status": "done",
   "slots": [
    "0x3ca3"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2042:008d7",
   "jp": "まぁまぁ付いて来たら、\nわかりますから。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, now, just come along and you'll\nunderstand.",
+  "status": "done",
   "slots": [
    "0x3cc1"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2042:00903",
   "jp": "川の外かよぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "So I'm out of the hoop?",
+  "status": "done",
   "slots": [
    "0x3cd7"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2042:00916",
   "jp": "蚊帳です。これ以上アホなこと\n言わないで下さい。可愛すぎて\n抱き枕にしそうです。ハァハァ。",
-  "en": "",
-  "status": "todo",
+  "en": "Out of the LOOP. Please don't say anything\ndumber than that. You're too cute, I'll turn\nyou into my body pillow. *pant pant*",
+  "status": "done",
   "slots": [
    "0x3cf2"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2042:00973",
   "jp": "勘弁してくれ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Gimme a break...",
+  "status": "done",
   "slots": [
    "0x3d08"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2042:0098c",
   "jp": "あの人だって、やりたくて\nやっているわけではないのよ。\n村を守るために、必死なだけで……",
-  "en": "",
-  "status": "todo",
+  "en": "That man isn't doing this because he wants\nto. He's just desperate to protect the\nvillage...",
+  "status": "done",
   "slots": [
    "0x2160",
    "0x4c27"
@@ -607,8 +607,8 @@
  {
   "id": "s2042:009e3",
   "jp": "生贄の儀式を行っては、生贄と\nなった子達の事を思って泣いて\nいるのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Every time he holds a sacrifice ritual, he\ncries, thinking of the children who were\nsacrificed.",
+  "status": "done",
   "slots": [
    "0x2167",
    "0x4c2e"
@@ -618,8 +618,8 @@
  {
   "id": "s2042:00a28",
   "jp": "アナタ達も、あの人のことを\nわかってあげてね？",
-  "en": "",
-  "status": "todo",
+  "en": "Please try to understand him too, won't\nyou?",
+  "status": "done",
   "slots": [
    "0x216e",
    "0x4c35"
@@ -629,8 +629,8 @@
  {
   "id": "s2042:00a56",
   "jp": "全ては、あの預言者が来てから。",
-  "en": "",
-  "status": "todo",
+  "en": "It all started when that prophet came.",
+  "status": "done",
   "slots": [
    "0x2186",
    "0x4c4d"
@@ -640,8 +640,8 @@
  {
   "id": "s2042:00a75",
   "jp": "こんなことになるのだったら、\nいっそみんな、津波にのまれて\nしまえばよかった……うぅ。",
-  "en": "",
-  "status": "todo",
+  "en": "If it was going to come to this, it would have\nbeen better if the tidal wave had just\nswallowed us all... Sob.",
+  "status": "done",
   "slots": [
    "0x218d",
    "0x4c54"
@@ -651,8 +651,8 @@
  {
   "id": "s2042:00aca",
   "jp": "放せ！　俺は、俺はあの娘を助けに\n行くんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Let go! I'm... I'm going to save her!",
+  "status": "done",
   "slots": [
    "0x222d",
    "0x4cf4"
@@ -662,8 +662,8 @@
  {
   "id": "s2042:00af6",
   "jp": "告白するつもりだったんだ！\n結婚しようって！\n一緒に暮らそうって！",
-  "en": "",
-  "status": "todo",
+  "en": "I was going to tell her how I felt! Ask her to\nmarry me! Ask her to live with me!",
+  "status": "done",
   "slots": [
    "0x2234",
    "0x4cfb"
@@ -673,8 +673,8 @@
  {
   "id": "s2042:00b37",
   "jp": "なのに……チクショウ……！\nチクショウ！",
-  "en": "",
-  "status": "todo",
+  "en": "And now... damn it...! Damn it!",
+  "status": "done",
   "slots": [
    "0x223b",
    "0x4d02"
@@ -684,8 +684,8 @@
  {
   "id": "s2042:00b5f",
   "jp": "なぁ、アンタ。コレで、あの娘を\n助けてくれないか……？\nたった一人の、愛する人なんだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, you. Could you use this to save her...?\nShe's the only one I've ever loved.",
+  "status": "done",
   "slots": [
    "0x2294",
    "0x4d5b"
@@ -695,8 +695,8 @@
  {
   "id": "s2042:00bb6",
   "jp": "頼む……！",
-  "en": "",
-  "status": "todo",
+  "en": "Please...!",
+  "status": "done",
   "slots": [
    "0x229b",
    "0x4d62"
@@ -706,8 +706,8 @@
  {
   "id": "s2042:00bc1",
   "jp": "全部アイツのせいだ……！\nアイツさえ来なければ……！\nクソォ……！",
-  "en": "",
-  "status": "todo",
+  "en": "It's all his fault...! If only he'd never\ncome...! Damn it...!",
+  "status": "done",
   "slots": [
    "0x22b3",
    "0x4d7a"
@@ -717,8 +717,8 @@
  {
   "id": "s2042:00c02",
   "jp": "放せ！　俺は、俺はあの娘を助けに\n行くんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Let go! I'm... I'm going to save her!",
+  "status": "done",
   "slots": [
    "0x22d6",
    "0x4d9d"
@@ -728,8 +728,8 @@
  {
   "id": "s2042:00c2e",
   "jp": "告白するつもりだったんだ！\n結婚しようって！\n一緒に暮らそうって！",
-  "en": "",
-  "status": "todo",
+  "en": "I was going to tell her how I felt! Ask her to\nmarry me! Ask her to live with me!",
+  "status": "done",
   "slots": [
    "0x22dd",
    "0x4da4"
@@ -739,8 +739,8 @@
  {
   "id": "s2042:00c6f",
   "jp": "なのに……チクショウ……！\nチクショウ！",
-  "en": "",
-  "status": "todo",
+  "en": "And now... damn it...! Damn it!",
+  "status": "done",
   "slots": [
    "0x22e4",
    "0x4dab"
@@ -750,8 +750,8 @@
  {
   "id": "s2042:00c97",
   "jp": "なんだよ……なにみてんだよ。\nお前ら、よそ者か？",
-  "en": "",
-  "status": "todo",
+  "en": "What... what're you lookin' at? You\noutsiders?",
+  "status": "done",
   "slots": [
    "0x22eb",
    "0x4db2"
@@ -761,8 +761,8 @@
  {
   "id": "s2042:00cc7",
   "jp": "出てけ！　この村から、島から！\nもうよそ者はうんざりなんだよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Get out! Out of this village, off this island!\nI'm sick of outsiders!",
+  "status": "done",
   "slots": [
    "0x22f2",
    "0x4db9"
@@ -772,8 +772,8 @@
  {
   "id": "s2042:00d05",
   "jp": "あのよそ者が来た途端これだ……\nアイツは、死神だったんだ……！\nでなきゃ……こんな……。",
-  "en": "",
-  "status": "todo",
+  "en": "The moment that outsider came, this\nhappened... He was a god of death...!\nOtherwise... how could this...",
+  "status": "done",
   "slots": [
    "0x230d",
    "0x4dd4"
@@ -783,8 +783,8 @@
  {
   "id": "s2042:00d5c",
   "jp": "ね、ねぇ。虫かごあげるから、\nそのトラップの道具くれない？",
-  "en": "",
-  "status": "todo",
+  "en": "H-hey. I'll give you a bug cage if you give me\nthat trap thingy, okay?",
+  "status": "done",
   "slots": [
    "0x23a1",
    "0x4e68"
@@ -794,8 +794,8 @@
  {
   "id": "s2042:00d96",
   "jp": "え？　いいの？　やったー！\nこれで大きな虫が捕まえられるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Really? Yay! Now I can catch big bugs!",
+  "status": "done",
   "slots": [
    "0x23a8",
    "0x4e6f"
@@ -805,8 +805,8 @@
  {
   "id": "s2042:00dd2",
   "jp": "よかったぁ。ありがとう！\n捕まえたら見せてあげるね？",
-  "en": "",
-  "status": "todo",
+  "en": "Yay. Thank you! I'll show you when I catch\none, okay?",
+  "status": "done",
   "slots": [
    "0x2417",
    "0x4ede"
@@ -816,8 +816,8 @@
  {
   "id": "s2042:00e06",
   "jp": "みてみて！　こんなに大きいの\n捕まえたんだぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Look, look! I caught a really big one!",
+  "status": "done",
   "slots": [
    "0x2437",
    "0x4efe"
@@ -827,8 +827,8 @@
  {
   "id": "s2042:00e34",
   "jp": "そういえばねぇ。\n最近、インバット島に\n珍しいちょうちょがいるらしいよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, by the way. I heard there's a rare\nbutterfly on Inbat Island lately!",
+  "status": "done",
   "slots": [
    "0x243e",
    "0x4f05"
@@ -838,8 +838,8 @@
  {
   "id": "s2042:00e7b",
   "jp": "取りに行ってみたいなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "I wanna go catch it...",
+  "status": "done",
   "slots": [
    "0x2445",
    "0x4f0c"
@@ -849,8 +849,8 @@
  {
   "id": "s2042:00e94",
   "jp": "誰か、大きな虫が引っかかるような\n道具持ってる人いないかなぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Doesn't anybody have something that could\ncatch a big bug...?",
+  "status": "done",
   "slots": [
    "0x245d",
    "0x4f24"
@@ -860,8 +860,8 @@
  {
   "id": "s2042:00ed6",
   "jp": "インバット島に珍しいちょうちょが\nいるらしいから。",
-  "en": "",
-  "status": "todo",
+  "en": "I heard there's a rare butterfly on Inbat\nIsland.",
+  "status": "done",
   "slots": [
    "0x2464",
    "0x4f2b"
@@ -871,8 +871,8 @@
  {
   "id": "s2042:00f08",
   "jp": "それを取りに行こうと思ったんだ\nけどなぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I was thinking of going to catch it, but...",
+  "status": "done",
   "slots": [
    "0x246b",
    "0x4f32"
@@ -882,8 +882,8 @@
  {
   "id": "s2042:00f36",
   "jp": "この島、生贄の儀式が習慣らしいな\n意味のない事を……。",
-  "en": "",
-  "status": "todo",
+  "en": "This island makes sacrifice rituals a custom,\nit seems. How pointless...",
+  "status": "done",
   "slots": [
    "0x24ff",
    "0x4fc6"
@@ -893,8 +893,8 @@
  {
   "id": "s2042:00f6c",
   "jp": "津波は、海底で起こる地震によって\n引き起こされるものだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Tidal waves are caused by earthquakes on\nthe sea floor.",
+  "status": "done",
   "slots": [
    "0x2506",
    "0x4fcd"
@@ -904,8 +904,8 @@
  {
   "id": "s2042:00fa4",
   "jp": "生贄を出すなど、無意味の極み。\n……しかし、おかしいな。\n海底で起きた地震などあったか？",
-  "en": "",
-  "status": "todo",
+  "en": "Offering sacrifices is the height of\npointlessness. ...Still, it's odd. Was there\nany undersea quake?",
+  "status": "done",
   "slots": [
    "0x250d",
    "0x4fd4"
@@ -915,8 +915,8 @@
  {
   "id": "s2042:00ffb",
   "jp": "すまないな、つまらない話に\nつき合わせて。これはその侘びだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry for making you listen to my boring\ntalk. Here's something to make up for it.",
+  "status": "done",
   "slots": [
    "0x257c",
    "0x5043"
@@ -926,8 +926,8 @@
  {
   "id": "s2042:01037",
   "jp": "この生贄の儀式、なにか裏がある。\n止めるつもりならば、探してみては\nどうだ？",
-  "en": "",
-  "status": "todo",
+  "en": "There's something behind this sacrifice\nritual. If you mean to stop it, why not look\ninto it?",
+  "status": "done",
   "slots": [
    "0x2594",
    "0x505b"
@@ -937,8 +937,8 @@
  {
   "id": "s2042:01082",
   "jp": "生贄の儀式が行われたのは\nつい最近よ。",
-  "en": "",
-  "status": "todo",
+  "en": "The sacrifice rituals only began recently.",
+  "status": "done",
   "slots": [
    "0x2620"
   ],
@@ -947,8 +947,8 @@
  {
   "id": "s2042:010a8",
   "jp": "突然島に“預言者”を名乗る男が\n現れてね。",
-  "en": "",
-  "status": "todo",
+  "en": "A man calling himself a \"prophet\" suddenly\nappeared on the island.",
+  "status": "done",
   "slots": [
    "0x2627"
   ],
@@ -957,8 +957,8 @@
  {
   "id": "s2042:010d2",
   "jp": "近々この島に津波が訪れる。\n助かりたければ生贄を差し出す事だ\nって言ったの。",
-  "en": "",
-  "status": "todo",
+  "en": "He said a tidal wave would soon hit this\nisland, and if we wanted to be saved, we\nshould offer a sacrifice.",
+  "status": "done",
   "slots": [
    "0x262e"
   ],
@@ -967,8 +967,8 @@
  {
   "id": "s2042:0111d",
   "jp": "私も娘が一人いるんだけど。\n不安で仕方がないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "I have a daughter too. I can't stop worrying.",
+  "status": "done",
   "slots": [
    "0x2635"
   ],
@@ -977,8 +977,8 @@
  {
   "id": "s2042:0114d",
   "jp": "その預言者の男？\nそれなら、アッチのほうにいる\nはずよ。",
-  "en": "",
-  "status": "todo",
+  "en": "That prophet man? He should be over that\nway.",
+  "status": "done",
   "slots": [
    "0x263c"
   ],
@@ -987,8 +987,8 @@
  {
   "id": "s2042:01184",
   "jp": "あの人が預言者です！",
-  "en": "",
-  "status": "todo",
+  "en": "That man is the prophet!",
+  "status": "done",
   "slots": [
    "0x50e7"
   ],
@@ -997,8 +997,8 @@
  {
   "id": "s2042:01199",
   "jp": "ま、まさか、黒い牙だった\nなんて……！",
-  "en": "",
-  "status": "todo",
+  "en": "T-to think he was with the Black Fang...!",
+  "status": "done",
   "slots": [
    "0x50ee"
   ],
@@ -1007,8 +1007,8 @@
  {
   "id": "s2042:011bf",
   "jp": "そ、それは……！\nす、すいません！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-that's...! Ex-excuse me!",
+  "status": "done",
   "slots": [
    "0x5182"
   ],
@@ -1017,8 +1017,8 @@
  {
   "id": "s2042:011e1",
   "jp": "その素材……私に譲って\nくれませんか？\n悪いようにはしません、絶対に！",
-  "en": "",
-  "status": "todo",
+  "en": "That material... would you let me have it?\nI'll make it worth your while, I swear!",
+  "status": "done",
   "slots": [
    "0x5189"
   ],
@@ -1027,15 +1027,15 @@
  {
   "id": "s2042:01226",
   "jp": "いいのですか？\nあ、ありがとうございます！\nでは、少々お待ちを……！",
-  "en": "",
-  "status": "todo",
+  "en": "Really? Th-thank you very much! Then\nplease wait just a moment...!",
+  "status": "done",
   "slots": []
  },
  {
   "id": "s2042:01269",
   "jp": "出来た……出来ましたよ。\n最高のデキです！\n……どうぞ、使ってください。",
-  "en": "",
-  "status": "todo",
+  "en": "It's done... It's done! My finest work yet!\n...Here, please use it.",
+  "status": "done",
   "slots": [
    "0x5201"
   ],
@@ -1044,8 +1044,8 @@
  {
   "id": "s2042:012b0",
   "jp": "差し上げます。\n私は、これで親父を見返せる事が\nわかっただけで、満足ですから。",
-  "en": "",
-  "status": "todo",
+  "en": "It's yours. Just knowing I can show up my old\nman is enough for me.",
+  "status": "done",
   "slots": [
    "0x5208"
   ],
@@ -1054,8 +1054,8 @@
  {
   "id": "s2042:012fd",
   "jp": "ありがとうございました！",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you so much!",
+  "status": "done",
   "slots": [
    "0x520f"
   ],
@@ -1064,8 +1064,8 @@
  {
   "id": "s2042:01316",
   "jp": "私の親父は、伝説の鍛冶師と\n言われていまして。",
-  "en": "",
-  "status": "todo",
+  "en": "My father is said to be a legendary\nblacksmith.",
+  "status": "done",
   "slots": [
    "0x5232"
   ],
@@ -1074,8 +1074,8 @@
  {
   "id": "s2042:01344",
   "jp": "私の目標であり、憧れなんですよ。\nまぁ、もう何年も顔を会わせては\nいませんけどね。ハハ。",
-  "en": "",
-  "status": "todo",
+  "en": "He's my goal, and my idol. Well, I haven't\nseen him in years, though. Haha.",
+  "status": "done",
   "slots": [
    "0x5239"
   ],
@@ -1084,8 +1084,8 @@
  {
   "id": "s2042:0139b",
   "jp": "クソッ！　これじゃ、親父には\n到底追いつけない……！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it! At this rate, I'll never catch up to\nmy old man...!",
+  "status": "done",
   "slots": [
    "0x5251"
   ],
@@ -1094,8 +1094,8 @@
  {
   "id": "s2042:013cf",
   "jp": "もっと、硬い金属があれば……！\nそれさえあれば……！",
-  "en": "",
-  "status": "todo",
+  "en": "If only I had a harder metal...! If I just had\nthat...!",
+  "status": "done",
   "slots": [
    "0x5258"
   ],
@@ -1104,8 +1104,8 @@
  {
   "id": "s2042:01403",
   "jp": "お？　なんかこの岩壁、おかしいぞ",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? Somethin's weird about this rock wall.",
+  "status": "done",
   "slots": [
    "0x52f9"
   ],
@@ -1114,8 +1114,8 @@
  {
   "id": "s2042:01424",
   "jp": "化石が出てきやがった！\nな、なんだこの生き物……。\nあとでグレイに見てもらうか……。",
-  "en": "",
-  "status": "todo",
+  "en": "A fossil came out! Wh-what kinda critter is\nthis... Guess I'll have Gray take a look\nlater...",
+  "status": "done",
   "slots": [
    "0x534f"
   ],
@@ -1124,8 +1124,8 @@
  {
   "id": "s2042:01477",
   "jp": "この岩、ちょっと他の所と比べると\nもろいですね。",
-  "en": "",
-  "status": "todo",
+  "en": "This rock is a bit more brittle than the rest.",
+  "status": "done",
   "slots": [
    "0x53a2"
   ],
@@ -1134,8 +1134,8 @@
  {
   "id": "s2042:014a7",
   "jp": "これ……化石、ですか？\nうーん、ボクにはよくわからない\nものですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Is this... a fossil? Hmm, it's beyond me.",
+  "status": "done",
   "slots": [
    "0x53ed"
   ],
@@ -1144,8 +1144,8 @@
  {
   "id": "s2042:014ea",
   "jp": "む、ここの岩。他の岩と違う\nウィルを発してる。\nなにかあるかも……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm, this rock is giving off different Will from\nthe other rocks. There might be something\nhere...",
+  "status": "done",
   "slots": [
    "0x5439"
   ],
@@ -1154,8 +1154,8 @@
  {
   "id": "s2042:0152d",
   "jp": "骨！？　魚の頭みたいだけど……。\nどんな魚かはわからないや。",
-  "en": "",
-  "status": "todo",
+  "en": "Bones!? They look like a fish head... I can't\ntell what kind of fish, though.",
+  "status": "done",
   "slots": [
    "0x5484"
   ],
@@ -1164,8 +1164,8 @@
  {
   "id": "s2042:01569",
   "jp": "ん？　この岩だけ微妙に色が違う。\nなにかありそうね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Only this rock is a slightly different\ncolor. Looks like something's here...",
+  "status": "done",
   "slots": [
    "0x54d0"
   ],
@@ -1174,8 +1174,8 @@
  {
   "id": "s2042:015a1",
   "jp": "これ、化石じゃない！\nあたしったら、考古学者の才能\nあるのかしら……。",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't this a fossil!? Maybe I've got a talent\nfor archaeology...",
+  "status": "done",
   "slots": [
    "0x551b"
   ],
@@ -1184,8 +1184,8 @@
  {
   "id": "s2042:015e6",
   "jp": "お？　この岩壁、何かある気が\nするぜ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? I got a feelin' there's somethin' in this\nrock wall...",
+  "status": "done",
   "slots": [
    "0x556e"
   ],
@@ -1194,8 +1194,8 @@
  {
   "id": "s2042:01610",
   "jp": "ホラな！\n俺の言った通りだったじゃねぇか！",
-  "en": "",
-  "status": "todo",
+  "en": "See! Just like I said!",
+  "status": "done",
   "slots": [
    "0x55c4"
   ],
@@ -1204,8 +1204,8 @@
  {
   "id": "s2042:0163a",
   "jp": "この岩壁、見ているだけで何故か\n考古学者の血が騒いでくる……。\nどれどれ。",
-  "en": "",
-  "status": "todo",
+  "en": "Just looking at this rock wall stirs my\narchaeologist's blood, for some reason...\nLet's see.",
+  "status": "done",
   "slots": [
    "0x561e"
   ],
@@ -1214,8 +1214,8 @@
  {
   "id": "s2042:01683",
   "jp": "こ、これは……シーラカンス\nじゃないか！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-why, this is... a coelacanth!",
+  "status": "done",
   "slots": [
    "0x5674"
   ],
@@ -1224,8 +1224,8 @@
  {
   "id": "s2042:016ab",
   "jp": "ここまで形が完璧なのは初めて\n見るな……今度学会で発表して\nみるか……。",
-  "en": "",
-  "status": "todo",
+  "en": "I've never seen one so perfectly preserved...\nPerhaps I'll present it at the next\nconference...",
+  "status": "done",
   "slots": [
    "0x567b"
   ],
@@ -1234,8 +1234,8 @@
  {
   "id": "s2042:016f2",
   "jp": "ありゃりゃ？　岩の中になにか\nあるみたい……。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Looks like there's something in the\nrock...",
+  "status": "done",
   "slots": [
    "0x56ce"
   ],
@@ -1244,8 +1244,8 @@
  {
   "id": "s2042:01720",
   "jp": "うわぁ、おっきいお魚の骨だぁ。\nこんなに大きなの、ロコモコ、\n食べきれるかなぁ？",
-  "en": "",
-  "status": "todo",
+  "en": "Wow, a big fish bone. Can Locomoco eat one\nthis big all by herself?",
+  "status": "done",
   "slots": [
    "0x5719"
   ],
@@ -1254,8 +1254,8 @@
  {
   "id": "s2042:0176f",
   "jp": "こういう所を見てると、なんだか\n化石でも掘り出せそうな気が\nしてくるっすよね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Looking at a place like this, I kinda feel like\nI could dig up a fossil or something, sir...",
+  "status": "done",
   "slots": [
    "0x5765"
   ],
@@ -1264,8 +1264,8 @@
  {
   "id": "s2042:017c0",
   "jp": "うわ！　ほ、本当にでてきたっす！\n……転職しようかな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! O-one really came out, sir! ...Maybe I\nshould change careers...",
+  "status": "done",
   "slots": [
    "0x57b0"
   ],
@@ -1274,8 +1274,8 @@
  {
   "id": "s2042:017fa",
   "jp": "む、いかん、どうやら戦闘中に槍で\n岩肌を傷つけてしまったようだ。\n……ん？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm, oh no, it seems I scratched the rock\nface with my spear during the battle. ...Hm?",
+  "status": "done",
   "slots": [
    "0x57fc"
   ],
@@ -1284,8 +1284,8 @@
  {
   "id": "s2042:01843",
   "jp": "これは、シーラカンスの骨か。\nなぜこんな所にあるのだろうか。\n……傷がついてなくてよかった。",
-  "en": "",
-  "status": "todo",
+  "en": "Is this a coelacanth's bone? Why would it be\nhere? ...Good thing it isn't scratched.",
+  "status": "done",
   "slots": [
    "0x5847"
   ],
@@ -1294,8 +1294,8 @@
  {
   "id": "s2042:0189e",
   "jp": "お！　いいところに。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh! Perfect timing.",
+  "status": "done",
   "slots": [
    "0x26d6",
    "0x58e9"
@@ -1305,8 +1305,8 @@
  {
   "id": "s2042:018b3",
   "jp": "美味そ～！　さっそく食べようぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Looks tasty! Let's eat it right now!",
+  "status": "done",
   "slots": [
    "0x2721",
    "0x5934"
@@ -1316,8 +1316,8 @@
  {
   "id": "s2042:018d4",
   "jp": "おぉ～こんな所に大地の恵みが。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, a gift from the earth, right here.",
+  "status": "done",
   "slots": [
    "0x276d",
    "0x5980"
@@ -1327,8 +1327,8 @@
  {
   "id": "s2042:018f3",
   "jp": "採れたて新鮮ですね！",
-  "en": "",
-  "status": "todo",
+  "en": "Freshly picked!",
+  "status": "done",
   "slots": [
    "0x27b8",
    "0x59cb"
@@ -1338,8 +1338,8 @@
  {
   "id": "s2042:01908",
   "jp": "あ、あれはー！！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-that's...!!",
+  "status": "done",
   "slots": [
    "0x2804",
    "0x5a17"
@@ -1349,8 +1349,8 @@
  {
   "id": "s2042:01919",
   "jp": "やったぁ！　\nお腹空いてたんだよねぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yay! I was so hungry!",
+  "status": "done",
   "slots": [
    "0x284f",
    "0x5a62"
@@ -1360,8 +1360,8 @@
  {
   "id": "s2042:0193f",
   "jp": "お、いいところに！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, perfect timing!",
+  "status": "done",
   "slots": [
    "0x289b",
    "0x5aae"
@@ -1371,8 +1371,8 @@
  {
   "id": "s2042:01952",
   "jp": "これを食べて体力回復よ！",
-  "en": "",
-  "status": "todo",
+  "en": "Let's eat this and get our strength back!",
+  "status": "done",
   "slots": [
    "0x28e6",
    "0x5af9"
@@ -1382,8 +1382,8 @@
  {
   "id": "s2042:0196b",
   "jp": "お、いいもん見つけたぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, found somethin' good!",
+  "status": "done",
   "slots": [
    "0x2932",
    "0x5b45"
@@ -1393,8 +1393,8 @@
  {
   "id": "s2042:01984",
   "jp": "これでまた暴れられるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now I can cut loose again!",
+  "status": "done",
   "slots": [
    "0x297d",
    "0x5b90"
@@ -1404,8 +1404,8 @@
  {
   "id": "s2042:0199d",
   "jp": "む、この木は……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm, this tree is...",
+  "status": "done",
   "slots": [
    "0x29d0",
    "0x5be3"
@@ -1415,8 +1415,8 @@
  {
   "id": "s2042:019b0",
   "jp": "やはりバナナンの木だったか。\nこれは中々運がいいぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "A Bananan Tree after all. What good\nfortune!",
+  "status": "done",
   "slots": [
    "0x2a26",
    "0x5c39"
@@ -1426,8 +1426,8 @@
  {
   "id": "s2042:019e4",
   "jp": "あ、バナナンの木だ！\nえへへ～、いっただき～！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, a Bananan Tree! Ehehe, don't mind if I do!",
+  "status": "done",
   "slots": [
    "0x2a79",
    "0x5c8c"
@@ -1437,8 +1437,8 @@
  {
   "id": "s2042:01a12",
   "jp": "早く食べたいなぁ～。",
-  "en": "",
-  "status": "todo",
+  "en": "I wanna eat it already!",
+  "status": "done",
   "slots": [
    "0x2ac4",
    "0x5cd7"
@@ -1448,8 +1448,8 @@
  {
   "id": "s2042:01a27",
   "jp": "お、いいものを見つけたっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, I found something good, sir!",
+  "status": "done",
   "slots": [
    "0x2b10",
    "0x5d23"
@@ -1459,8 +1459,8 @@
  {
   "id": "s2042:01a44",
   "jp": "おやつにでも食べるっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll have it as a snack, sir.",
+  "status": "done",
   "slots": [
    "0x2b5b",
    "0x5d6e"
@@ -1470,8 +1470,8 @@
  {
   "id": "s2042:01a5f",
   "jp": "これは……いただいておこう。",
-  "en": "",
-  "status": "todo",
+  "en": "This... I'll take.",
+  "status": "done",
   "slots": [
    "0x2ba7",
    "0x5dba"
@@ -1481,8 +1481,8 @@
  {
   "id": "s2042:01a7c",
   "jp": "腹が減っては戦はできない\nからな。",
-  "en": "",
-  "status": "todo",
+  "en": "One cannot fight on an empty stomach.",
+  "status": "done",
   "slots": [
    "0x2bf2",
    "0x5e05"
@@ -1492,8 +1492,8 @@
  {
   "id": "s2042:04554",
   "jp": "き、貴様らは、グロリア海賊団！\nどうしてこんなところに！",
-  "en": "",
-  "status": "todo",
+  "en": "Y-you're the Gloria Pirates! What are you\ndoing here!?",
+  "status": "done",
   "slots": [
    "0x4aa1"
   ],
@@ -1503,8 +1503,8 @@
  {
   "id": "s2042:04590",
   "jp": "すごい！　ここまで典型的な黒幕は\n初めてみたよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wow! Locomoco's never seen such a\ntextbook mastermind before!",
+  "status": "done",
   "slots": [
    "0x4ad2"
   ],
@@ -1514,8 +1514,8 @@
  {
   "id": "s2042:045c4",
   "jp": "答える必要はねぇ。\n大人しく捕まりな！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't need to tell ya. Just come quietly!",
+  "status": "done",
   "slots": [
    "0x4af7"
   ],
@@ -1525,8 +1525,8 @@
  {
   "id": "s2042:045ee",
   "jp": "テメェは黒い牙！\nこんな所で何してやがる！",
-  "en": "",
-  "status": "todo",
+  "en": "You're the Black Fang! What are you doin'\nhere!?",
+  "status": "done",
   "slots": [
    "0x4b10"
   ],
@@ -1536,8 +1536,8 @@
  {
   "id": "s2042:0461c",
   "jp": "影でこんなこともしてたなんて、\n見下げた連中ね。",
-  "en": "",
-  "status": "todo",
+  "en": "To think they were doing this behind the\nscenes... Despicable.",
+  "status": "done",
   "slots": [
    "0x4b2e"
   ],
@@ -1547,8 +1547,8 @@
  {
   "id": "s2042:04650",
   "jp": "今だ！　撃てええぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now! Fiiire!",
+  "status": "done",
   "slots": [
    "0x6043"
   ],
@@ -1558,8 +1558,8 @@
  {
   "id": "s2042:04669",
   "jp": "砲撃だと！？",
-  "en": "",
-  "status": "todo",
+  "en": "Cannon fire!?",
+  "status": "done",
   "slots": [
    "0x608f"
   ],
@@ -1569,8 +1569,8 @@
  {
   "id": "s2042:0467a",
   "jp": "あの島からのようですね……。\n注意しましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "It seems to be coming from that island...\nLet's be careful!",
+  "status": "done",
   "slots": [
    "0x60ad"
   ],
@@ -1580,8 +1580,8 @@
  {
   "id": "s2042:046ac",
   "jp": "つ、強ェ……こんな奴らに、\n勝てっこ、ねぇ……ガクッ。",
-  "en": "",
-  "status": "todo",
+  "en": "Th-they're strong... No way we can beat...\nguys like these... *thud*",
+  "status": "done",
   "slots": [
    "0x61f6"
   ],
@@ -1591,8 +1591,8 @@
  {
   "id": "s2042:046e6",
   "jp": "よぉし、後はコイツを村に連れて\n行って真相を話させれば、解決ね。",
-  "en": "",
-  "status": "todo",
+  "en": "Alright, now we just take this guy to the\nvillage and make him tell the truth, and it's\nsolved.",
+  "status": "done",
   "slots": [
    "0x696e"
   ],
@@ -1602,8 +1602,8 @@
  {
   "id": "s2042:0472a",
   "jp": "なぁ、俺、まだ蚊帳の外なの？\nいい加減泣きそうなんだけど。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, am I still out of the loop? I'm about to\ncry here.",
+  "status": "done",
   "slots": [
    "0x6987"
   ],
@@ -1613,8 +1613,8 @@
  {
   "id": "s2042:04768",
   "jp": "村の人に嘘ついて、生贄の奴を影で\n売ってたんだよ。わざわざウィルの\n力で津波を起こしてまでな。",
-  "en": "",
-  "status": "todo",
+  "en": "He lied to the villagers and sold off the\nsacrifices on the side. He even used the\npower of Will to make the tidal waves.",
+  "status": "done",
   "slots": [
    "0x69a0"
   ],
@@ -1624,8 +1624,8 @@
  {
   "id": "s2042:047c9",
   "jp": "な、なにー！？　ゆ、ゆるせん！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-whaaat!? Th-that's unforgivable!",
+  "status": "done",
   "slots": [
    "0x69b9"
   ],
@@ -1635,8 +1635,8 @@
  {
   "id": "s2042:047ec",
   "jp": "兄貴、遅すぎです。",
-  "en": "",
-  "status": "todo",
+  "en": "Boss, you're way too late.",
+  "status": "done",
   "slots": [
    "0x69d2"
   ],
