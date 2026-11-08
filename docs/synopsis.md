@@ -34,3 +34,15 @@ b072-b082) hold tutorial and shared talk.
   skeleton Pirate King of centuries ago revived by an unknown "benefactor"; he escapes into the swamp; she joins.
   Pirate King Kidd's gravestone talks. 
 - **2042:** An island sacrifices to the sea god because of a recent "prophecy"; the prophet is under the cliff.
+  He is Black Fang: he raised the tidal waves with Will and sold the sacrifices. Running gag: Ishut is always
+  "out of the loop".
+
+## Chapter 3 (2043-2046, translated session 9)
+- **2043:** Pirate haven full of Black Fang vassal crews. Fiebee, Undine knight of Chantier (once the City of Fair
+  Waters, now slurred as the "Rotting Sea City"; at war with Lukia for centuries since its queen refused Lukia's
+  proposal), fought them as a Black Fang contractor for supplies; cheated, she joins.
+- **2044:** Ruru starves without Will minerals; at an ancient-Euforia town Ishut chooses saving the townsfolk from
+  the Black Fang over the treasury's ruin shards; Ruru eats later anyway. The Manta = guardian of Euforia's sea.
+- **2045:** Bordolese Island (everything, coffins too, kept in barrels; skeletons in them). Anne loses a treasure
+  race to Elisha and runs off ("a woman can go back on her word").
+- **2046:** The Sea Dogs "protect sea creatures" by killing Sea Goblins (who hoard treasure) for their loot.
