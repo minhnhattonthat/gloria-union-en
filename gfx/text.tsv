@@ -311,3 +311,40 @@ obj_fortress	城砦	Fortress
 obj_item	アイテム	Item
 obj_ship	船	Ship
 obj_target	目標地点	Target Point
+pop_morale_damage	士気ダメージ	Morale Damage
+pop_morale_restored	士気回復	Morale Restored
+pop_ailment_cured	ステータス異常回復	Ailment Cured
+pop_drowsy	睡魔が・・・	Drowsy...
+pop_all_up	全能力アップ！	All Stats Up!
+pop_gen_up	Gen.アップ！	Gen. Up!
+pop_atk_up	Atk.アップ！	Atk. Up!
+pop_tec_up	Tec.アップ！	Tec. Up!
+pop_luk_up	Luk.アップ！	Luk. Up!
+pop_gen_down	Gen.ダウン…	Gen. Down...
+pop_atk_down	Atk.ダウン…	Atk. Down...
+pop_tec_down	Tec.ダウン…	Tec. Down...
+pop_luk_down	Luk.ダウン…	Luk. Down...
+pop_rise_again	再起！	Rise Again!
+leg_ally	…味方ユニット	Ally Unit
+leg_enemy	…敵ユニット	Enemy Unit
+leg_strong	☆…得意	Strong
+leg_normal	○…普通	Normal
+leg_weak	△…苦手	Weak
+leg_impassable	×…移動不可	Impassable
+leg_pass_only	→…通行のみ可	Pass Only
+leg_advantage	○…有利	Advantage
+leg_even	ー…互角	Even
+leg_disadvantage	×…不利	Disadvantage
+chip_snow_road	雪道	Snow Road
+chip_snowfield	雪原	Snow Field
+chip_deck	船上	On Deck
+obj_treasure	財宝	Treasure
+obj_goal	目標	Target
+wpn_sword	剣	Sword
+wpn_spear	槍	Spear
+wpn_axe	斧	Axe
+wpn_gun	銃	Gun
+wpn_staff	杖	Staff
+wpn_club	塊	Club
+wpn_scythe	鎌	Scythe
+wpn_harp	琴	Harp

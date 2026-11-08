@@ -654,10 +654,10 @@ def draw_sheet(a, rects, redraw, size, h=16, face="LiberationSans-Bold.ttf", str
     return out, [[*place[tuple(r)], pieces[tuple(r)].shape[1], pieces[tuple(r)].shape[0]] for r in rects]
 
 
-def _word(text, face, size, ink, stroke, h, wmax):
-    """One word piece h px high, at most wmax px wide: squeezed to 0.75 (font shrunk down to 9 px if need be), else
+def _word(text, face, size, ink, stroke, h, wmax, smin=9):
+    """One word piece h px high, at most wmax px wide: squeezed to 0.75 (font shrunk down to smin px if need be), else
     its two halves (split at a space) stacked in a smaller font."""
-    for s in range(size, 8, -1):
+    for s in range(size, smin - 1, -1):
         lt = layer_text(text, font(face, s), ink[0], stroke, ink[1], lines=True)
         if wmax / (lt.width - 2) >= 0.75:
             break
@@ -683,7 +683,7 @@ def _word(text, face, size, ink, stroke, h, wmax):
     return np.array(lt.crop((1, top, lt.width - 1, top + h)))
 
 
-def draw_pack(a, rects, redraw, size, face="LiberationSans-Bold.ttf", stroke=1, wmax=999):
+def draw_pack(a, rects, redraw, size, face="LiberationSans-Bold.ttf", stroke=1, wmax=999, smin=9):
     """Words too wide for their cells: rect i in redraw ({i: English}) is cleared and its English (one font size for
     all, shrunk until every word fits, the old rect height, at most wmax ({i: px} or px) wide: _word) placed in the first free spot
     of the sheet, longest first. Free = clear pixels outside every kept rect of the table. Returns (image, new rects)
@@ -704,7 +704,8 @@ def draw_pack(a, rects, redraw, size, face="LiberationSans-Bold.ttf", stroke=1, 
                 used[v:v + h, u:u + w] = True
         layers = {}
         for i, t in redraw.items():
-            layers[i] = _word(t, face, size, inks[i], stroke, rects[i][3], wmax.get(i, 999) if isinstance(wmax, dict) else wmax)
+            layers[i] = _word(t, face, size, inks[i], stroke, rects[i][3],
+                              wmax.get(i, 999) if isinstance(wmax, dict) else wmax, smin)
         new, ok = [list(r) for r in rects], True
         for i in sorted(layers, key=lambda i: -layers[i].shape[1]):
             h, w = layers[i].shape[:2]
@@ -719,7 +720,7 @@ def draw_pack(a, rects, redraw, size, face="LiberationSans-Bold.ttf", stroke=1, 
         if ok:
             break
         size -= 1
-        assert size >= 9, "pack: no room"
+        assert size >= smin, "pack: no room"
     im = Image.fromarray(out)
     for i, p in layers.items():
         im.alpha_composite(Image.fromarray(p), tuple(new[i][:2]))
@@ -1245,6 +1246,149 @@ for _i, _o in enumerate(plate_offsets()):
     _jp = PLATES_BIG[_i] if _big else PLATES_SMALL[_j] if _j < len(PLATES_SMALL) else "孤高の海賊"
     asset(f"plate{_i:03d}", 3, "ptg", _o, (0, 0, 512, 512), lambda a, t, jp=_jp, big=_big: draw_plate(a, jp, big),
           resize=True, section=4)
+
+
+# --- status popups (id 3 section 16: 250x40 PTGs, white italic, right-aligned over the unit) ---------------------
+
+POPUPS = ["pop_morale_damage", "pop_morale_restored", "pop_ailment_cured", "pop_drowsy", "pop_all_up", "pop_gen_up",
+          "pop_atk_up", "pop_tec_up", "pop_luk_up", "pop_gen_down", "pop_atk_down", "pop_tec_down", "pop_luk_down",
+          "pop_rise_again"]   # PTP entries in file order from 0x4a6960
+
+
+def draw_popup(a, text):
+    """White bold italic with a black rim and a 2 px black drop shadow, right-aligned at the old ink's right edge
+    (x 248) on the same 250x40 canvas, squeezed (to 0.75, then a smaller font) to fit."""
+    h, w = a.shape[:2]
+    size = 32
+    while True:
+        f = font("LiberationSans-BoldItalic.ttf", size)
+        lt = layer_text(text, f, (255, 255, 255, 255), 2, (1, 1, 1, 255))
+        xs = min(1.0, (w - 6) / lt.width)
+        if xs >= 0.75 and lt.height + 2 <= h + 4:
+            break
+        size -= 1
+    if xs < 1:
+        lt = layer_text(text, f, (255, 255, 255, 255), 2, (1, 1, 1, 255), xs)
+    shadow = Image.new("RGBA", lt.size, (1, 1, 1, 255))
+    shadow.putalpha(lt.split()[3])
+    im = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    x, y = w - 2 - lt.width, (h - 2 - lt.height) // 2
+    im.alpha_composite(shadow, (x + 2, y + 2))
+    im.alpha_composite(lt, (x, y))
+    return np.array(im)
+
+
+for _k, _o in zip(POPUPS, (0x4a6960, 0x4a76b0, 0x4a81f0, 0x4a9600, 0x4aa0d0, 0x4ab100, 0x4abf60, 0x4acd80, 0x4adb80,
+                           0x4ae9b0, 0x4af960, 0x4b08d0, 0x4b1840, 0x4b27c0)):
+    asset(_k, 3, "ptg", _o, (0, 0, 250, 40), lambda a, t, k=_k: draw_popup(a, t[k]), resize=True, section=16)
+
+
+# --- legend panels (id 3 section 14 PTGs on a see-through white panel: symbol + "…" kept, word redrawn) -----------
+
+PANEL = (255, 255, 255, 230)
+PILL = (156, 24, 205, 255)
+
+
+def draw_legend(a, rows, back, t):
+    """rows: (y0, y1, text key, ink); the word right of the "…" (x 41-124) cleared to the panel and redrawn there.
+    back: the y of the purple "(X) 戻る" pill's text rows, or None: 戻る (x 49-71) is cleared by copying the pill's
+    clean column x 100 across x 46-104, then "Back" in white with a purple rim."""
+    out = a.copy()
+    for y0, y1, _, _ in rows:
+        out[y0:y1 + 1, 39:125] = PANEL   # the word's ink starts at x 39-40, the "…" ends at 38
+    for y0, y1, k, ink in rows:
+        out = draw_fixed(out, [((42, y0, 82, y1 - y0 + 1), t[k], True)], 15, stroke=0, ink=(PANEL, ink), clear=False)
+    if back is not None:
+        out[back - 6:back + 17, 46:105] = out[back - 6:back + 17, 100:101]
+        out = draw_fixed(out, [((49, back, 54, 11), t["btn_back"], False)], 12, ink=((255, 255, 255, 255), PILL),
+                         clear=False)
+    return out
+
+
+asset("legend_units", 3, "ptg", 0x400c40, (0, 0, 129, 72),
+      lambda a, t: draw_legend(a, [(22, 38, "leg_ally", (52, 65, 165, 255)), (49, 65, "leg_enemy", (205, 63, 63, 255))],
+                               None, t), section=14)
+asset("legend_terrain", 3, "ptg", 0x401e20, (0, 0, 129, 128),
+      lambda a, t: draw_legend(a, [(y, y + 17, k, (2, 2, 2, 255)) for y, k in
+                                   ((1, "leg_strong"), (23, "leg_normal"), (44, "leg_weak"), (65, "leg_impassable"),
+                                    (86, "leg_pass_only"))], 113, t), section=14)
+asset("legend_odds", 3, "ptg", 0x4040d0, (0, 0, 129, 88),
+      lambda a, t: draw_legend(a, [(y, y + 17, k, (3, 3, 3, 255)) for y, k in
+                                   ((2, "leg_advantage"), (23, "leg_even"), (44, "leg_disadvantage"))], 71, t), section=14)
+
+
+# --- snow terrain chips (id 3 section 14: big 73x48, small 37x24; white serif kanji with a black rim, bottom left) --
+
+def draw_chip(a, text, big, b3=None):
+    """The kanji cleared (big: the same pixels of 0x400080, the same tile art without a label; small: inpainted, no
+    clean copy exists), then the English bottom-left in two lines, white serif with a black rim."""
+    out = a.copy()
+    if big:
+        out[14:48, 3:52] = ptx.ptg((FILES / "00003.bin").read_bytes(), 0x400080)[14:48, 3:52]
+    else:
+        box = np.zeros(a.shape[:2], bool)
+        box[2:24, 1:27] = True
+        px = a[..., :3].astype(int)
+        mask = box & (a[..., 3] > 0) & ((px.min(2) > 170) | (px.max(2) < 60))
+        out = inpaint(out, grow(mask, 1))
+    size, x0, rim = (13, 3, 2) if big else (8, 1, 1)
+    f = font("LiberationSerif-Bold.ttf" if big else "LiberationSans-Bold.ttf", size)   # serif blurs at 8 px
+    lines = text.split(" ", 1) if " " in text else [text]
+    im = Image.fromarray(out)
+    y = a.shape[0] - 2 - len(lines) * (size - 1) - rim
+    for ln in lines:
+        lt = layer_text(ln, f, (255, 255, 255, 255), rim, (0, 0, 0, 255), min(1.0, (a.shape[1] - x0) / (f.getlength(ln) + 6)),
+                        lines=True)
+        im.alpha_composite(lt, (x0, y - 2 - f.getbbox("Hgy" + ln, stroke_width=rim)[1] + f.getbbox("H")[1]))
+        y += size - 1
+    return np.array(im)
+
+
+for _n, _o, _big, _k in (("chip_snow_road", 0x3f9a20, True, "chip_snow_road"),
+                         ("chip_snowfield", 0x3fa5f0, True, "chip_snowfield"),
+                         ("chip_snow_road_s", 0x44e910, False, "chip_snow_road"),
+                         ("chip_snowfield_s", 0x44ed90, False, "chip_snowfield"),
+                         ("chip_deck_s", 0x44fa10, False, "chip_deck")):
+    asset(_n, 3, "ptg", _o, (0, 0, 73, 48), lambda a, t, k=_k, big=_big: draw_chip(a, t[k], big), resize=True,
+          section=14)   # resize: the English reaches pixels the trimmed atlas has no sprite for
+
+
+# --- terrain / object / weapon words (id 3 PTX +3e8e70: full map legend, weapon list rows) -------------------------
+
+GLYPH_WORDS = {0: "ter_road", 1: "ter_bridge", 2: "ter_plains", 3: "ter_wasteland", 4: "ter_forest", 5: "ter_desert",
+               6: "ter_swamp", 7: "ter_waterside", 8: "ter_ice", 9: "ter_village", 10: "ter_city", 11: "ter_fortress",
+               14: "ter_alley", 15: "ter_street", 16: "obj_ship", 18: "ter_beach", 19: "ter_ruins", 20: "ter_sea",
+               23: "obj_catapult", 24: "obj_cannon", 26: "obj_gate_open", 27: "obj_gate_closed", 28: "obj_fence",
+               32: "obj_treasure", 34: "obj_goal"}   # table 0x2c6a02 x36; 12-13 blank cells, 35 "?" kept
+WEAPONS = ["wpn_sword", "wpn_spear", "wpn_axe", "wpn_gun", "wpn_staff", "wpn_club", "wpn_scythe", None, "wpn_harp"]
+
+
+def draw_pack_shared(a, rects, redraw, size, **kw):
+    """draw_pack where several table entries share one rect: the first entry with a word stands for all of them (one
+    piece), the others get its new rect."""
+    first = {}
+    for i, r in enumerate(rects):
+        first.setdefault(tuple(r), i)
+    rep = {i: first[tuple(rects[i])] for i in range(len(rects))}
+    words = {rep[i]: t for i, t in redraw.items()}
+    dummy = [r if rep[i] == i or rep[i] not in words else (0, 0, 0, 0) for i, r in enumerate(rects)]
+    img, new = draw_pack(a, dummy, words, size, **kw)
+    return img, [new[rep[i]] if rep[i] in words else new[i] for i in range(len(rects))]
+
+
+def draw_glyph_words(a, t):
+    rects = table_rects(0x2c6a02, 36) + table_rects(0x2c6b4a, 9)
+    a = a.copy()
+    a[:, 72:] = 0   # header +used = 72: x 72-95 is unused storage (palette 0, black), free for the longer words
+    split = {"Wasteland": "Waste- land", "Waterside": "Water- side"}   # two hyphenated lines: one line won't fit 26 px
+    redraw = {i: split.get(t[k], t[k]) for i, k in GLYPH_WORDS.items()}
+    redraw.update({36 + i: t[k] for i, k in enumerate(WEAPONS) if k})
+    # full map legend: a word sits between two swatches ~26 px apart; weapon list: 24 px before the portraits
+    return draw_pack_shared(a, rects, redraw, 9, wmax={i: 24 if i >= 36 else 26 for i in redraw}, smin=7)
+
+
+asset("glyph_words", 3, "ptx", 0x3e8e70, (0, 0, 96, 272), draw_glyph_words, table=[(0x2c6a02, 36), (0x2c6b4a, 9)],
+      section=14)
 
 
 def gen(names=None):

@@ -34,7 +34,7 @@ def test_redraw_in_rect_and_writes_back(name):
     n = len(b)
     gfx.write(b, a, new)   # raises if a colour isn't in the palette or a pixel can't be drawn
     assert len(b) == n or a["resize"]
-    assert (gfx.read(bytes(b), a)[:new.shape[0], :new.shape[1]] == new).all()
+    assert gfx.same(gfx.read(bytes(b), a), new).all()   # clear matches any clear: a PTG's unsprited parts read 0
     old = (gfx.FILES / f"{gfx.files(a)[0]:05d}.bin").read_bytes()
     if a["resize"] and old[:4] == b"PTP\0":   # the PTP's other entries moved intact
         cnt = struct.unpack_from("<I", old, 4)[0]
