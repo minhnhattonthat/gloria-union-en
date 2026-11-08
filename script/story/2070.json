@@ -813,8 +813,8 @@
  {
   "id": "s2070:01034",
   "jp": "私は考古学者をしているのだが、\n如何せん足が悪くてね。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm an archaeologist, but I'm afraid my legs\nare bad.",
+  "status": "done",
   "slots": [
    "0x4a60"
   ],
@@ -823,8 +823,8 @@
  {
   "id": "s2070:0106a",
   "jp": "名誉教授とは名ばかりの\n老いぼれになってしまったよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm a professor emeritus in name only. Just\nan old man now.",
+  "status": "done",
   "slots": [
    "0x4a67"
   ],
@@ -833,8 +833,8 @@
  {
   "id": "s2070:0109e",
   "jp": "とは言っても、考古学を辞めた\nわけじゃない！",
-  "en": "",
-  "status": "todo",
+  "en": "That said, I haven't given up archaeology!",
+  "status": "done",
   "slots": [
    "0x4a6e"
   ],
@@ -843,8 +843,8 @@
  {
   "id": "s2070:010ca",
   "jp": "この場に遺跡の欠片があれば、\nすぐにでも研究を始めるさ！\nモチロン礼はしよう。",
-  "en": "",
-  "status": "todo",
+  "en": "If I had a ruin shard here, I'd start my\nresearch right away! I'll reward you, of\ncourse.",
+  "status": "done",
   "slots": [
    "0x4a75"
   ],
@@ -853,8 +853,8 @@
  {
   "id": "s2070:01117",
   "jp": "どうだ？　私に遺跡の欠片を\n提供してみないか？",
-  "en": "",
-  "status": "todo",
+  "en": "How about it? Would you provide me with a\nruin shard?",
+  "status": "done",
   "slots": [
    "0x4a7c"
   ],
@@ -863,8 +863,8 @@
  {
   "id": "s2070:01145",
   "jp": "おぉ、交換してくれるのか。\nならば、礼を支払おう。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, you'll trade with me? Then let me pay\nyou your reward.",
+  "status": "done",
   "slots": [
    "0x4a83"
   ],
@@ -873,8 +873,8 @@
  {
   "id": "s2070:01177",
   "jp": "提供数に応じた礼だ。\n等価交換は取引の基本だろ？",
-  "en": "",
-  "status": "todo",
+  "en": "A reward to match how many you provide.\nEqual exchange is the basis of any deal, isn't\nit?",
+  "status": "done",
   "slots": [
    "0x4d60"
   ],
@@ -883,8 +883,8 @@
  {
   "id": "s2070:011a7",
   "jp": "またどこかで遺跡の欠片を\n拾ったら、ここまで持ってきて\nくれ。",
-  "en": "",
-  "status": "todo",
+  "en": "If you pick up another ruin shard somewhere,\nbring it here.",
+  "status": "done",
   "slots": [
    "0x4d78"
   ],
@@ -893,8 +893,8 @@
  {
   "id": "s2070:011e4",
   "jp": "私は考古学者をしているのだが、\n如何せん足が悪くてね。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm an archaeologist, but I'm afraid my legs\nare bad.",
+  "status": "done",
   "slots": [
    "0x5aaa"
   ],
@@ -903,8 +903,8 @@
  {
   "id": "s2070:0121a",
   "jp": "名誉教授とは名ばかりの\n老いぼれになってしまったよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm a professor emeritus in name only. Just\nan old man now.",
+  "status": "done",
   "slots": [
    "0x5ab1"
   ],
@@ -913,8 +913,8 @@
  {
   "id": "s2070:0124e",
   "jp": "何か私を奮い立たせるものが\nあればいいんだがなぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "If only there were something to fire me up...",
+  "status": "done",
   "slots": [
    "0x5ab8"
   ],
@@ -923,8 +923,8 @@
  {
   "id": "s2070:01284",
   "jp": "ここは、エルマーレ広場。\n世界で一番美しい土地と\nいわれているんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is Elmare Square. They say it's the\nmost beautiful place in the world.",
+  "status": "done",
   "slots": [
    "0x1cb4",
    "0x5bae"
@@ -934,8 +934,8 @@
  {
   "id": "s2070:012c7",
   "jp": "いつか、このような美しい土地が\n世界を埋め尽くす事を、僕達は\n願っているんだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "We pray that one day, beautiful lands like\nthis will fill the whole world.",
+  "status": "done",
   "slots": [
    "0x1cbb",
    "0x5bb5"
@@ -945,8 +945,8 @@
  {
   "id": "s2070:01316",
   "jp": "戦争は、ただ空しいだけだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "War is nothing but empty.",
+  "status": "done",
   "slots": [
    "0x1cd3",
    "0x5bcd"
@@ -956,8 +956,8 @@
  {
   "id": "s2070:01333",
   "jp": "こうして美しい“守るべきもの”を\n破壊していくということだからね。",
-  "en": "",
-  "status": "todo",
+  "en": "Because it means destroying beautiful\n\"things worth protecting\" like this.",
+  "status": "done",
   "slots": [
    "0x1cda",
    "0x5bd4"
@@ -967,8 +967,8 @@
  {
   "id": "s2070:01375",
   "jp": "綺麗な所ね。\nみんな笑顔で……まるで、\n戦争なんて起こってないみたい。",
-  "en": "",
-  "status": "todo",
+  "en": "What a pretty place. Everyone's smiling...\nIt's as if there were no war at all.",
+  "status": "done",
   "slots": [
    "0x1c53",
    "0x5b4d"
@@ -978,8 +978,8 @@
  {
   "id": "s2070:013ba",
   "jp": "これが、お母さんが望んでいる\n景色なのかしらね？",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder if this is the view Mother wishes\nfor?",
+  "status": "done",
   "slots": [
    "0x1c65",
    "0x5b5f"
@@ -989,8 +989,8 @@
  {
   "id": "s2070:013ea",
   "jp": "なんで争うのかしらね……？\nみんな、目指す先は同じなのに。",
-  "en": "",
-  "status": "todo",
+  "en": "Why do people fight, I wonder...? They're all\naiming for the same thing.",
+  "status": "done",
   "slots": [
    "0x1c6c",
    "0x5b66"
@@ -1000,8 +1000,8 @@
  {
   "id": "s2070:03888",
   "jp": "戦闘配置に着け。\nエルマーレ連合国総裁。\nエンリエッタ……ここで討つ。",
-  "en": "",
-  "status": "todo",
+  "en": "Battle stations. President of the Elmare\nFederation. Enryetta... we strike her down\nhere.",
+  "status": "done",
   "slots": [
    "0x488c"
   ],
@@ -1011,8 +1011,8 @@
  {
   "id": "s2070:038d1",
   "jp": "親父……いいの？",
-  "en": "",
-  "status": "todo",
+  "en": "Dad... are you sure?",
+  "status": "done",
   "slots": [
    "0x48aa"
   ],
@@ -1022,8 +1022,8 @@
  {
   "id": "s2070:038e6",
   "jp": "お前こそ、いいのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Are you sure, yourself?",
+  "status": "done",
   "slots": [
    "0x48c5"
   ],
@@ -1033,8 +1033,8 @@
  {
   "id": "s2070:038ff",
   "jp": "あたしの親は、親父だけよ。\nお母さんに感謝はすれど、\n特別な情は感じないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "My only parent is Dad. I'm grateful to\nMother, but I don't feel anything special for\nher.",
+  "status": "done",
   "slots": [
    "0x48e0"
   ],
@@ -1044,8 +1044,8 @@
  {
   "id": "s2070:0394e",
   "jp": "そうかい……ヘッ。\n俺なんかより、お前の方が\nよっぽど強いな、コリャ。",
-  "en": "",
-  "status": "todo",
+  "en": "That so... Heh. You're a lot stronger than\nme, y'know that?",
+  "status": "done",
   "slots": [
    "0x48fe"
   ],
@@ -1055,8 +1055,8 @@
  {
   "id": "s2070:03997",
   "jp": "未だにアイツへの気持ちが\n変わってないなんて。\nキミも大概だな。",
-  "en": "",
-  "status": "todo",
+  "en": "Your feelings for him still ain't changed.\nYou're somethin' else too.",
+  "status": "done",
   "slots": [
    "0x600f"
   ],
@@ -1066,8 +1066,8 @@
  {
   "id": "s2070:039da",
   "jp": "髭を生やした天使が導いてくれた\n愛なのよ？\n変えたくても変わらないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's a love an angel with a beard guided me\nto, you know? Even if I wanted to change it,\nit won't change.",
+  "status": "done",
   "slots": [
    "0x6028"
   ],
@@ -1077,8 +1077,8 @@
  {
   "id": "s2070:03a23",
   "jp": "ハッハッハ！\nそうかい！　そいつぁ天使冥利に\n尽きるってなもんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hahaha! That so! Then that's an angel's\ngreatest honour!",
+  "status": "done",
   "slots": [
    "0x6042"
   ],
@@ -1088,8 +1088,8 @@
  {
   "id": "s2070:03a68",
   "jp": "できれば親父と三人で話でもした\nかったけど。\n残念だわ……。",
-  "en": "",
-  "status": "todo",
+  "en": "If I could, I'd have liked the three of us, with\nDad, to sit down and talk. It's a shame...",
+  "status": "done",
   "slots": [
    "0x5f13"
   ],
@@ -1099,8 +1099,8 @@
  {
   "id": "s2070:03aa7",
   "jp": "いきなり出てきて母親面する\nつもりもないわ……。\nさぁ、アナタの意思を見せてみて。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't intend to show up out of nowhere and\nact like your mother... Now, show me your\nwill.",
+  "status": "done",
   "slots": [
    "0x5f2c"
   ],
@@ -1110,8 +1110,8 @@
  {
   "id": "s2070:03afc",
   "jp": "ここまで目的が一緒なのに、\nまだ戦わなきゃいけないのか。",
-  "en": "",
-  "status": "todo",
+  "en": "We want the same things this much, and we\nstill gotta fight?",
+  "status": "done",
   "slots": [
    "0x5c94"
   ],
@@ -1120,8 +1120,8 @@
  {
   "id": "s2070:03b34",
   "jp": "意思とは人の心か……ムズイな。",
-  "en": "",
-  "status": "todo",
+  "en": "So will means a person's heart... That's\ntough.",
+  "status": "done",
   "slots": [
    "0x5c9e"
   ],
@@ -1130,8 +1130,8 @@
  {
   "id": "s2070:03b53",
   "jp": "わかりませんね……どうして\nそこまで、一人でやろうと\nするんですか。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't get it... Why do you go so far to do it\nall alone?",
+  "status": "done",
   "slots": [
    "0x5d64"
   ],
@@ -1140,8 +1140,8 @@
  {
   "id": "s2070:03b96",
   "jp": "わかりません……。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't get it...",
+  "status": "done",
   "slots": [
    "0x5d6e"
   ],
@@ -1150,8 +1150,8 @@
  {
   "id": "s2070:03ba9",
   "jp": "アナタは、とても綺麗なウィルを\nしているのに、とても歪んでる。",
-  "en": "",
-  "status": "todo",
+  "en": "You have such a beautiful Will, but it's so\nwarped.",
+  "status": "done",
   "slots": [
    "0x5e34"
   ],
@@ -1160,8 +1160,8 @@
  {
   "id": "s2070:03be7",
   "jp": "悲しいよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "It's sad...",
+  "status": "done",
   "slots": [
    "0x5e3e"
   ],
@@ -1170,8 +1170,8 @@
  {
   "id": "s2070:03bf6",
   "jp": "人の歴史は戦いの歴史、か……。\n先人達も、よく言ったものだな。",
-  "en": "",
-  "status": "todo",
+  "en": "The history of mankind is a history of war,\nhm... Our forebears put it well.",
+  "status": "done",
   "slots": [
    "0x6116"
   ],
@@ -1180,8 +1180,8 @@
  {
   "id": "s2070:03c34",
   "jp": "この戦いで、その言葉も偽りに\nなればいいのだが……。",
-  "en": "",
-  "status": "todo",
+  "en": "I only hope this battle makes those words a\nlie...",
+  "status": "done",
   "slots": [
    "0x6120"
   ],
@@ -1190,8 +1190,8 @@
  {
   "id": "s2070:03c68",
   "jp": "エンリエッタさん……。\nとっても一途できれいなウィル。",
-  "en": "",
-  "status": "todo",
+  "en": "Enryetta-san... Such a pure, devoted Will.",
+  "status": "done",
   "slots": [
    "0x61ed"
   ],
@@ -1200,8 +1200,8 @@
  {
   "id": "s2070:03c9e",
   "jp": "初めてだなぁ。\nこんなに、戦いたくない人と\n戦うなんて……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is a first... Fighting someone Locomoco\nreally doesn't want to fight...",
+  "status": "done",
   "slots": [
    "0x6202"
   ],
@@ -1210,8 +1210,8 @@
  {
   "id": "s2070:03cd9",
   "jp": "こんな人でも、死んだら結局\n罪人課に行ってしまうんすよね……",
-  "en": "",
-  "status": "todo",
+  "en": "Even someone like her ends up at the Sinners\nSection when she dies, sir...",
+  "status": "done",
   "slots": [
    "0x62cf"
   ],
@@ -1220,8 +1220,8 @@
  {
   "id": "s2070:03d15",
   "jp": "課長は、いつもこんな気持ちで\n仕事をしてるんすかねぇ……？",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder if my section chief always feels\nlike this at work...?",
+  "status": "done",
   "slots": [
    "0x62d9"
   ],
@@ -1230,8 +1230,8 @@
  {
   "id": "s2070:03d4f",
   "jp": "この人を見ていると、ジゼル様が\nあそこまで信頼していた理由が\nわかる気がするな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Looking at her, I think I understand why\nGiselle-sama trusted her so...",
+  "status": "done",
   "slots": [
    "0x63a6"
   ],
@@ -1240,8 +1240,8 @@
  {
   "id": "s2070:03da2",
   "jp": "クッ、やり辛いな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, this is hard...",
+  "status": "done",
   "slots": [
    "0x63bb"
   ],
@@ -1250,8 +1250,8 @@
  {
   "id": "s2070:03db9",
   "jp": "アナタを見ていると、自分の意思が\n揺らぐのがわかりますよ。\n正義とはなんなのか、とね。",
-  "en": "",
-  "status": "todo",
+  "en": "Looking at you, I can feel my own will\nwavering. Wondering what justice even is.",
+  "status": "done",
   "slots": [
    "0x6488"
   ],
@@ -1260,8 +1260,8 @@
  {
   "id": "s2070:03e0e",
   "jp": "これが、エルマーレ連合国総統の\nカリスマ。というものでしょうか。",
-  "en": "",
-  "status": "todo",
+  "en": "Is this what they call the charisma of the\nElmare Federation's President?",
+  "status": "done",
   "slots": [
    "0x6492"
   ],
@@ -1270,8 +1270,8 @@
  {
   "id": "s2070:03e4e",
   "jp": "望まぬ戦いが時に訪れる\nというのは、騎士学校の頃に\n学んだが……。",
-  "en": "",
-  "status": "todo",
+  "en": "I learned in knight school that unwanted\nbattles come at times, but...",
+  "status": "done",
   "slots": [
    "0x655f"
   ],
@@ -1280,8 +1280,8 @@
  {
   "id": "s2070:03e8f",
   "jp": "これは、予想以上にツライ……！",
-  "en": "",
-  "status": "todo",
+  "en": "This is harder than I expected...!",
+  "status": "done",
   "slots": [
    "0x6574"
   ],
@@ -1290,8 +1290,8 @@
  {
   "id": "s2070:03eae",
   "jp": "まったく、メンドクサイわねぇ。\n人間関係って。",
-  "en": "",
-  "status": "todo",
+  "en": "Honestly, what a pain. Relationships.",
+  "status": "done",
   "slots": [
    "0x6648"
   ],
@@ -1300,8 +1300,8 @@
  {
   "id": "s2070:03edc",
   "jp": "これだから嫌いなのよ。\n国とか、組織って……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is why I hate them. Countries,\norganisations...",
+  "status": "done",
   "slots": [
    "0x665d"
   ],
@@ -1310,8 +1310,8 @@
  {
   "id": "s2070:03f0a",
   "jp": "難しいわよねぇ。\n人の上に立つってこと。",
-  "en": "",
-  "status": "todo",
+  "en": "It's hard, isn't it? Standing above other\npeople.",
+  "status": "done",
   "slots": [
    "0x672a"
   ],
@@ -1320,8 +1320,8 @@
  {
   "id": "s2070:03f32",
   "jp": "私にはとてもできないんだわさ。\nりっぱりっぱぁ～",
-  "en": "",
-  "status": "todo",
+  "en": "I could never do it, dontcha know. Bravo,\nbravooo~",
+  "status": "done",
   "slots": [
    "0x6734"
   ],
@@ -1330,8 +1330,8 @@
  {
   "id": "s2070:03f62",
   "jp": "もう終わりにしましょう。\nこの悲しい詩は、ここで\nフィナーレですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Let us end it now. This sad song reaches its\nfinale here.",
+  "status": "done",
   "slots": [
    "0x6801"
   ],
@@ -1340,8 +1340,8 @@
  {
   "id": "s2070:03fa5",
   "jp": "アナタの詩は、私がしっかりと\n後世に歌い継ぎますわ。",
-  "en": "",
-  "status": "todo",
+  "en": "I shall make sure your song is sung on for\ngenerations to come.",
+  "status": "done",
   "slots": [
    "0x6816"
   ],
@@ -1350,8 +1350,8 @@
  {
   "id": "s2070:03fd9",
   "jp": "私は、ただひたすらに\n平和が欲しかった……。",
-  "en": "",
-  "status": "todo",
+  "en": "All I ever wanted... was peace...",
+  "status": "done",
   "slots": [
    "0x72f4"
   ],
@@ -1361,8 +1361,8 @@
  {
   "id": "s2070:04009",
   "jp": "愛する人を止めたかった……。\nそれだけだった……。",
-  "en": "",
-  "status": "todo",
+  "en": "I wanted to stop the man I love... That was\nall...",
+  "status": "done",
   "slots": [
    "0x72fe"
   ],
@@ -1372,8 +1372,8 @@
  {
   "id": "s2070:0403f",
   "jp": "それだけのために、私は反皇国を\n謳った……。",
-  "en": "",
-  "status": "todo",
+  "en": "Just for that, I raised the anti-Imperial\nbanner...",
+  "status": "done",
   "slots": [
    "0x7308"
   ],
@@ -1383,8 +1383,8 @@
  {
   "id": "s2070:0406f",
   "jp": "戦って、犠牲が増えるうちに、\n考えは変わった……。",
-  "en": "",
-  "status": "todo",
+  "en": "As I fought, and the sacrifices grew, my\nthinking changed...",
+  "status": "done",
   "slots": [
    "0x7312"
   ],
@@ -1394,8 +1394,8 @@
  {
   "id": "s2070:040a5",
   "jp": "平和の為なら、犠牲は厭わない。\n犠牲を、無駄にはしない……。\n戦う理由が……変わった。",
-  "en": "",
-  "status": "todo",
+  "en": "For peace, I would not shrink from sacrifice. I\nwould not let sacrifice be in vain... My\nreason to fight... changed.",
+  "status": "done",
   "slots": [
    "0x731c"
   ],
@@ -1405,8 +1405,8 @@
  {
   "id": "s2070:040fe",
   "jp": "そして、気づいたわ……。\n私も、犠牲者なんだ。って。",
-  "en": "",
-  "status": "todo",
+  "en": "And then I realised... I'm a victim too.",
+  "status": "done",
   "slots": [
    "0x7326"
   ],
@@ -1416,8 +1416,8 @@
  {
   "id": "s2070:04136",
   "jp": "エリー……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ellie...!",
+  "status": "done",
   "slots": [
    "0x733f"
   ],
@@ -1427,8 +1427,8 @@
  {
   "id": "s2070:04147",
   "jp": "その呼び方、懐かしいわね……。\nザジ……アナタは、変わらないわね\n……本当に、あの頃のまま。",
-  "en": "",
-  "status": "todo",
+  "en": "That name takes me back... Zazzy... you\nhaven't changed... Really, just as you were\nback then.",
+  "status": "done",
   "slots": [
    "0x7358"
   ],
@@ -1438,8 +1438,8 @@
  {
   "id": "s2070:041a6",
   "jp": "俺は、愛してるからな。\nあの頃を……あの頃の俺達を。",
-  "en": "",
-  "status": "todo",
+  "en": "'Cause I love it. Those days... us, back in\nthose days.",
+  "status": "done",
   "slots": [
    "0x7371"
   ],
@@ -1449,8 +1449,8 @@
  {
   "id": "s2070:041de",
   "jp": "アナタは、思い出も愛せるのね……\nフフ、羨ましいわ。",
-  "en": "",
-  "status": "todo",
+  "en": "You can love your memories too... Heh, I\nenvy you.",
+  "status": "done",
   "slots": [
    "0x738a"
   ],
@@ -1460,8 +1460,8 @@
  {
   "id": "s2070:04216",
   "jp": "お母さん……。",
-  "en": "",
-  "status": "todo",
+  "en": "Mother...",
+  "status": "done",
   "slots": [
    "0x73a3"
   ],
@@ -1471,8 +1471,8 @@
  {
   "id": "s2070:04229",
   "jp": "エリーシャ……アナタには、悪い\n事しかしてあげられなかったわね。\n……ごめんなさい。",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha... All I could ever do for you was\nwrong... I'm sorry.",
+  "status": "done",
   "slots": [
    "0x73bc"
   ],
@@ -1482,8 +1482,8 @@
  {
   "id": "s2070:04280",
   "jp": "会えただけでも嬉しかったわ……。\nありがとう、お母さん。",
-  "en": "",
-  "status": "todo",
+  "en": "Just getting to meet you made me happy...\nThank you, Mother.",
+  "status": "done",
   "slots": [
    "0x73d5"
   ],
@@ -1493,8 +1493,8 @@
  {
   "id": "s2070:042bc",
   "jp": "エリーシャ……。私のようには、\nならないで……でも、時々でいい\nから、私を思い出してね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha... Don't become like me... But now and\nthen, just sometimes, remember me...",
+  "status": "done",
   "slots": [
    "0x73ee"
   ],
@@ -1504,8 +1504,8 @@
  {
   "id": "s2070:0431b",
   "jp": "うん……。思い出すよ。\nだから忘れないように、もう一度、\nあたしの名前を呼んで……。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah... I'll remember. So I won't forget, say\nmy name one more time...",
+  "status": "done",
   "slots": [
    "0x7407"
   ],
@@ -1515,8 +1515,8 @@
  {
   "id": "s2070:04372",
   "jp": "エリーシャ。\n愛していますよ、エリーシャ。\n世界に、平和を……エリーシャ。",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha. I love you, Elisha. Peace... to the\nworld... Elisha.",
+  "status": "done",
   "slots": [
    "0x7420"
   ],
@@ -1526,8 +1526,8 @@
  {
   "id": "s2070:043bf",
   "jp": "エリー……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ellie...",
+  "status": "done",
   "slots": [
    "0x74ba"
   ],
@@ -1537,8 +1537,8 @@
  {
   "id": "s2070:043d0",
   "jp": "お母さん……お母さんの意思。\nあたしがもらうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Mother... Your will. I'll take it.",
+  "status": "done",
   "slots": [
    "0x74d0"
   ],
@@ -1548,8 +1548,8 @@
  {
   "id": "s2070:04404",
   "jp": "イシュト……はい、これ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut... Here, take this.",
+  "status": "done",
   "slots": [
    "0x754e"
   ],
@@ -1559,8 +1559,8 @@
  {
   "id": "s2070:04421",
   "jp": "いいのか……？",
-  "en": "",
-  "status": "todo",
+  "en": "You sure...?",
+  "status": "done",
   "slots": [
    "0x7564"
   ],
@@ -1570,8 +1570,8 @@
  {
   "id": "s2070:04434",
   "jp": "あなたが使わなきゃ意味ないでしょ\n……それに、あたしは犠牲を出す気\nはないわ。皆で、終わらせましょう",
-  "en": "",
-  "status": "todo",
+  "en": "It's no use unless you use it... Besides, I\ndon't intend to make any sacrifices. Let's\nend this, all of us.",
+  "status": "done",
   "slots": [
    "0x757a"
   ],
@@ -1581,8 +1581,8 @@
  {
   "id": "s2070:0449b",
   "jp": "……わかった。受け取ろう。",
-  "en": "",
-  "status": "todo",
+  "en": "...Got it. I'll take it.",
+  "status": "done",
   "slots": [
    "0x7593"
   ],
@@ -1592,8 +1592,8 @@
  {
   "id": "s2070:044ba",
   "jp": "……ルルゥ、ガリオレッドは\nドコにいる。",
-  "en": "",
-  "status": "todo",
+  "en": "...Ruru, where's Gariored?",
+  "status": "done",
   "slots": [
    "0x75ac"
   ],
@@ -1603,8 +1603,8 @@
  {
   "id": "s2070:044e6",
   "jp": "アッチにガリオレッドのウィルを\n感じるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I feel Gariored's Will over there!",
+  "status": "done",
   "slots": [
    "0x75c5"
   ],
@@ -1614,8 +1614,8 @@
  {
   "id": "s2070:04514",
   "jp": "そうか……。\n待ってろよ、ガリオレッド……。",
-  "en": "",
-  "status": "todo",
+  "en": "I see... Just you wait, Gariored...",
+  "status": "done",
   "slots": [
    "0x75de"
   ],
@@ -1634,8 +1634,8 @@
  {
   "id": "s2070:014f3t",
   "jp": "ガリオレッド精鋭部隊",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored Elite Unit",
+  "status": "done",
   "at": "0x14f6",
   "max": 20,
   "who": "team name"
@@ -1661,8 +1661,8 @@
  {
   "id": "s2070:04677t",
   "jp": "エルマーレ連合国",
-  "en": "",
-  "status": "todo",
+  "en": "Elmare Forces",
+  "status": "done",
   "at": "0x467a",
   "max": 16,
   "who": "team name"

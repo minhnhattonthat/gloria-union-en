@@ -2,8 +2,8 @@
  {
   "id": "s2071:00028",
   "jp": "ハァ……ハァ……ハァ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hah... hah... hah...",
+  "status": "done",
   "slots": [
    "0x216f"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2071:00047",
   "jp": "大丈夫ですか？\nガリオレッド宰相。",
-  "en": "",
-  "status": "todo",
+  "en": "Are you all right, Chancellor Gariored?",
+  "status": "done",
   "slots": [
    "0x21fd"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2071:0006d",
   "jp": "私の事などいい！\nそれよりも、お前のことだ……。\nウィルの調子はどうだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Never mind me! More importantly, you... How\nis your Will?",
+  "status": "done",
   "slots": [
    "0x2213"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2071:000b8",
   "jp": "好調です。\n今までで一番ウィルが高まって\nいますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Excellent. My Will is the highest it has ever\nbeen.",
+  "status": "done",
   "slots": [
    "0x2229"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2071:000ef",
   "jp": "そうか……ククク。\nあと少しだ！　あと少しで……我が\nユーフォリア計画は成功するぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "I see... Heh heh heh. Just a little more! Just\na little more and... my Euforia Project will\nsucceed!",
+  "status": "done",
   "slots": [
    "0x223f"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2071:00146",
   "jp": "私が世界の王となり！\n真の平和が訪れるのだ！\n恐怖という、平和がなぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "I shall become king of the world! And true\npeace shall come! The peace called fear!!",
+  "status": "done",
   "slots": [
    "0x2254"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2071:00191",
   "jp": "そんな平和、いらねぇんだよ！",
-  "en": "",
-  "status": "todo",
+  "en": "We don't need that kinda peace!",
+  "status": "done",
   "slots": [
    "0x226c"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2071:001b2",
   "jp": "敵です……。",
-  "en": "",
-  "status": "todo",
+  "en": "Enemies...",
+  "status": "done",
   "slots": [
    "0x23e0"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2071:001c3",
   "jp": "グロリア海賊団……。\nエルマーレ連合国はどうした。",
-  "en": "",
-  "status": "todo",
+  "en": "The Gloria Pirates... What became of the\nElmare Federation?",
+  "status": "done",
   "slots": [
    "0x23f9"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2071:001f9",
   "jp": "エリーは……死んだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ellie's... dead.",
+  "status": "done",
   "slots": [
    "0x2412"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2071:00214",
   "jp": "そうか……。\nやはり、彼女の“犠牲”では、\n世界を平和にはできなかったのだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I see... So her \"sacrifice\" could not bring\npeace to the world after all.",
+  "status": "done",
   "slots": [
    "0x242b"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2071:00263",
   "jp": "できるさ……エリーの犠牲の上に\n立ち、俺達は、お前らを倒す。",
-  "en": "",
-  "status": "todo",
+  "en": "It can... We'll stand on Ellie's sacrifice and\nbeat you lot.",
+  "status": "done",
   "slots": [
    "0x2444"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2071:002a3",
   "jp": "貴様も、平和の為には犠牲が\n必要だとでもいうのか？",
-  "en": "",
-  "status": "todo",
+  "en": "So you too say sacrifice is needed for\npeace?",
+  "status": "done",
   "slots": [
    "0x245d"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2071:002d9",
   "jp": "んなこと言わねぇよ。\n俺は……俺のしたいことをやる。\nただそれだけだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I ain't sayin' that. I... do what I wanna do.\nThat's all.",
+  "status": "done",
   "slots": [
    "0x2476"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2071:00322",
   "jp": "何をしたくて、何をしたか。\nそうだよな、親父。",
-  "en": "",
-  "status": "todo",
+  "en": "What you wanted to do, and what you did.\nRight, Dad?",
+  "status": "done",
   "slots": [
    "0x248f"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2071:00354",
   "jp": "あぁ、それが“自由”\nそれこそが、海賊だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah. That's \"freedom\". That's what bein' a\npirate is.",
+  "status": "done",
   "slots": [
    "0x24a8"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2071:00382",
   "jp": "酷く曖昧で中途半端だな。\nそんなものに“力”は負けない。",
-  "en": "",
-  "status": "todo",
+  "en": "Terribly vague and half-baked. \"Power\" will\nnever lose to such a thing.",
+  "status": "done",
   "slots": [
    "0x24dd"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2071:003be",
   "jp": "ガリオレッド宰相、カードを\n渡してください。",
-  "en": "",
-  "status": "todo",
+  "en": "Chancellor Gariored, please give me the\ncard.",
+  "status": "done",
   "slots": [
    "0x24f6"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2071:003ee",
   "jp": "手筈通りに動け。\nわかったな？",
-  "en": "",
-  "status": "todo",
+  "en": "Move as planned. Understood?",
+  "status": "done",
   "slots": [
    "0x250f"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2071:00410",
   "jp": "ハイ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes.",
+  "status": "done",
   "slots": [
    "0x2528"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2071:0041b",
   "jp": "あ、あの人は！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-that's...!",
+  "status": "done",
   "slots": [
    "0x2541"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2071:0042e",
   "jp": "アシュレイ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey...!",
+  "status": "done",
   "slots": [
    "0x255a"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2071:00443",
   "jp": "……ガリオレッド宰相。\n加勢しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "...Chancellor Gariored. Shall I assist you?",
+  "status": "done",
   "slots": [
    "0x2573"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2071:0046d",
   "jp": "アシュレイ……アシュレイ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey... Ashrey!",
+  "status": "done",
   "slots": [
    "0x258c"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2071:0048c",
   "jp": "指示に変更はない。\n貴様の様な人形が、自分の考えで\n動こうとするな！",
-  "en": "",
-  "status": "todo",
+  "en": "Your orders have not changed. A puppet like\nyou does not act on its own ideas!",
+  "status": "done",
   "slots": [
    "0x25c8"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2071:004e2",
   "jp": "クソッ、待ちやがれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it, get back here!",
+  "status": "done",
   "slots": [
    "0x25fa"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2071:004fb",
   "jp": "急に張り切りだしたな。\nどうした？\nそんなに兄を殺したいのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Suddenly full of fight. What is it? Do you\nwant to kill your brother that badly?",
+  "status": "done",
   "slots": [
    "0x2613"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2071:0053c",
   "jp": "フン、恩知らずもいいところだな。\nキミを城から逃がしたのは、\n他ならぬアシュレイだというのに。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph, the height of ingratitude. When it\nwas none other than Ashrey who let you\nescape from the castle.",
+  "status": "done",
   "slots": [
    "0x261d"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2071:0059d",
   "jp": "なに……！",
-  "en": "",
-  "status": "todo",
+  "en": "What...!",
+  "status": "done",
   "slots": [
    "0x263d"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2071:005ac",
   "jp": "早く行け人形！\nまた壊されたいのか！",
-  "en": "",
-  "status": "todo",
+  "en": "Go, puppet! Do you want to be broken again!",
+  "status": "done",
   "slots": [
    "0x2769"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2071:005d4",
   "jp": "ッ！\n……わかりました。",
-  "en": "",
-  "status": "todo",
+  "en": "...! ...Understood.",
+  "status": "done",
   "slots": [
    "0x2782"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2071:005f0",
   "jp": "あ！　待ちやがれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah! Get back here!",
+  "status": "done",
   "slots": [
    "0x27d6"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2071:00607",
   "jp": "通りたければ私を倒してみろ。",
-  "en": "",
-  "status": "todo",
+  "en": "If you want through, try defeating me.",
+  "status": "done",
   "slots": [
    "0x27ef"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2071:00628",
   "jp": "ヘ、メギドを持ってない\nお前なんかにゃ負けねぇよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, I ain't losin' to you now that ya don't\nhave Megiddo.",
+  "status": "done",
   "slots": [
    "0x2808"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2071:0065e",
   "jp": "メギドがなくなったところで、\n私の力は変わらんよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Megiddo or not, my power remains the same.",
+  "status": "done",
   "slots": [
    "0x2821"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2071:00694",
   "jp": "お前は、覚えてるか？\n昔の、三人つるんでた時のこと。",
-  "en": "",
-  "status": "todo",
+  "en": "Do ya remember? Back when the three of us\nhung out?",
+  "status": "done",
   "slots": [
    "0x3963"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2071:006cc",
   "jp": "憶えているさ。\n穢れなき黄金の記憶だ。",
-  "en": "",
-  "status": "todo",
+  "en": "I remember. An untarnished golden memory.",
+  "status": "done",
   "slots": [
    "0x397c"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2071:006f6",
   "jp": "あんなことがなけりゃあ、\n今頃は行きつけの酒場で\n酒でも飲んでいたのかもな。",
-  "en": "",
-  "status": "todo",
+  "en": "If that hadn't happened, maybe we'd be\ndrinkin' at our usual bar right about now.",
+  "status": "done",
   "slots": [
    "0x3996"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2071:00745",
   "jp": "もしもの話は嫌いじゃないが、\n後悔は好きではない。\nだから、俺は後悔していないよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't mind talk of what-ifs, but I don't care\nfor regret. So I have no regrets.",
+  "status": "done",
   "slots": [
    "0x39af"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2071:0079a",
   "jp": "そうかい。\nなら、決着をつけようぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "That so. Then let's settle this.",
+  "status": "done",
   "slots": [
    "0x39c9"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2071:007c2",
   "jp": "あぁ……。\n昔の俺と思えば死ぬぞ。\n全力で来い！",
-  "en": "",
-  "status": "todo",
+  "en": "Yes... Think of me as I was back then and\nyou'll die. Come at me with everything!",
+  "status": "done",
   "slots": [
    "0x39e2"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2071:007f5",
   "jp": "１７年間思い続けたこの意思！\n貴様の様な若輩に、破れるものか！",
-  "en": "",
-  "status": "todo",
+  "en": "A will I've held for seventeen years! As if a\nyoungster like you could break it!",
+  "status": "done",
   "slots": [
    "0x353e"
   ],
@@ -474,8 +474,8 @@
  {
   "id": "s2071:00833",
   "jp": "意思の強さに年月は関係ねぇ！\n俺の意思はお前を超え！\nアシュレイを超え！",
-  "en": "",
-  "status": "todo",
+  "en": "The years got nothin' to do with how strong\na will is! My will's gonna surpass you! Surpass\nAshrey!",
+  "status": "done",
   "slots": [
    "0x3558"
   ],
@@ -484,8 +484,8 @@
  {
   "id": "s2071:0087a",
   "jp": "親父を超えるんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "And surpass Dad!",
+  "status": "done",
   "slots": [
    "0x3562"
   ],
@@ -494,8 +494,8 @@
  {
   "id": "s2071:0088d",
   "jp": "そんなに目をギラつかせて、\nどこが宰相っていうんですか……。",
-  "en": "",
-  "status": "todo",
+  "en": "With your eyes glaring like that, how are\nyou a chancellor...",
+  "status": "done",
   "slots": [
    "0x3636"
   ],
@@ -504,8 +504,8 @@
  {
   "id": "s2071:008c9",
   "jp": "宰相だったら、\n大人しく机にかじりついてて\nくださいよ。まったく。",
-  "en": "",
-  "status": "todo",
+  "en": "If you're a chancellor, then sit quietly glued\nto your desk. Honestly.",
+  "status": "done",
   "slots": [
    "0x3648"
   ],
@@ -514,8 +514,8 @@
  {
   "id": "s2071:0090a",
   "jp": "この人、闇のカードがなくても\n充分に強い……。",
-  "en": "",
-  "status": "todo",
+  "en": "He's strong enough even without the dark\ncard...",
+  "status": "done",
   "slots": [
    "0x371c"
   ],
@@ -524,8 +524,8 @@
  {
   "id": "s2071:00938",
   "jp": "って、気圧されちゃダメ……！\n私達だって成長したんだもん。\n負けられないよ！",
-  "en": "",
-  "status": "todo",
+  "en": "No, I can't let him overwhelm me...! We've\ngrown too. We can't lose!",
+  "status": "done",
   "slots": [
    "0x3731"
   ],
@@ -534,8 +534,8 @@
  {
   "id": "s2071:00983",
   "jp": "………。",
-  "en": "",
-  "status": "todo",
+  "en": ".........",
+  "status": "done",
   "slots": [
    "0x380c"
   ],
@@ -544,8 +544,8 @@
  {
   "id": "s2071:0098c",
   "jp": "フン、随分と覇気がないな。\n母が死んだ事がそんなに辛いか。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph, you've no spirit at all. Does your\nmother's death hurt that much?",
+  "status": "done",
   "slots": [
    "0x3825"
   ],
@@ -554,8 +554,8 @@
  {
   "id": "s2071:009c6",
   "jp": "そう、知らないのね。\n残念だわ……。",
-  "en": "",
-  "status": "todo",
+  "en": "So you don't know. What a shame...",
+  "status": "done",
   "slots": [
    "0x383f"
   ],
@@ -564,8 +564,8 @@
  {
   "id": "s2071:009ea",
   "jp": "ん？　どういうことだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? What do you mean...?",
+  "status": "done",
   "slots": [
    "0x3858"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2071:00a05",
   "jp": "ま、いいわ。\nこれで躊躇いは無くなった……。\nバイバイ、お父さん。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, whatever. Now I have no more\ndoubts... Bye-bye, Father.",
+  "status": "done",
   "slots": [
    "0x3872"
   ],
@@ -584,8 +584,8 @@
  {
   "id": "s2071:00a46",
   "jp": "力への執着。\nただひたすらに強さを求めた男か。\n恐ろしいものだな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Obsessed with power. A man who sought\nnothing but strength. Frightening...",
+  "status": "done",
   "slots": [
    "0x3abd"
   ],
@@ -594,8 +594,8 @@
  {
   "id": "s2071:00a8b",
   "jp": "何がこうまで、彼を変えて\nしまったというのか……！",
-  "en": "",
-  "status": "todo",
+  "en": "What could have changed him this much...!",
+  "status": "done",
   "slots": [
    "0x3ac7"
   ],
@@ -604,8 +604,8 @@
  {
   "id": "s2071:00abd",
   "jp": "大人の考える事って、わからないよ",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco doesn't understand what\ngrown-ups think.",
+  "status": "done",
   "slots": [
    "0x3b8d"
   ],
@@ -614,8 +614,8 @@
  {
   "id": "s2071:00ade",
   "jp": "こんなに自由な人達を、どうして\n支配なんてしようとするの？",
-  "en": "",
-  "status": "todo",
+  "en": "Why would you try to rule people who are so\nfree?",
+  "status": "done",
   "slots": [
    "0x3b97"
   ],
@@ -624,8 +624,8 @@
  {
   "id": "s2071:00b18",
   "jp": "ロコモコ、わかんないよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco doesn't get it...",
+  "status": "done",
   "slots": [
    "0x3ba1"
   ],
@@ -634,8 +634,8 @@
  {
   "id": "s2071:00b35",
   "jp": "アナタとの戦いも、\nこれで最後っすね。",
-  "en": "",
-  "status": "todo",
+  "en": "This is our last fight with you, sir.",
+  "status": "done",
   "slots": [
    "0x3c67"
   ],
@@ -644,8 +644,8 @@
  {
   "id": "s2071:00b5b",
   "jp": "ま、黄泉の国はいい所っすから、\n安心してくださいね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, the Land of the Dead is a nice place, so\ndon't worry, sir.",
+  "status": "done",
   "slots": [
    "0x3c71"
   ],
@@ -654,8 +654,8 @@
  {
   "id": "s2071:00b8f",
   "jp": "ルキア皇国の悪行もここまでだ！",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire's evil deeds end here!",
+  "status": "done",
   "slots": [
    "0x3d37"
   ],
@@ -664,8 +664,8 @@
  {
   "id": "s2071:00bae",
   "jp": "我が槍で貴様を穿ち！\nシャンティエとルキアの百年を\n終わらせてやる！",
-  "en": "",
-  "status": "todo",
+  "en": "My spear will pierce you! And end the\nhundred years between Chantier and Lukia!",
+  "status": "done",
   "slots": [
    "0x3d41"
   ],
@@ -674,8 +674,8 @@
  {
   "id": "s2071:00bf1",
   "jp": "ガガガ、ガンガグガ、グガグ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagaga, Gangaguga, Guguga!",
+  "status": "done",
   "slots": [
    "0x3e07"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2071:00c0e",
   "jp": "私の正義は私の中にある。\n私は私の正義の為、アナタを倒す！",
-  "en": "",
-  "status": "todo",
+  "en": "My justice lies within me. For my justice, I\nwill defeat you!",
+  "status": "done",
   "slots": [
    "0x3ed4"
   ],
@@ -694,8 +694,8 @@
  {
   "id": "s2071:00c48",
   "jp": "この世の理は所詮戦だ。\n勝った者が、正義なのだよ！",
-  "en": "",
-  "status": "todo",
+  "en": "The law of this world is war, in the end. The\nwinner is justice!",
+  "status": "done",
   "slots": [
    "0x3ee9"
   ],
@@ -704,8 +704,8 @@
  {
   "id": "s2071:00c7a",
   "jp": "裏切り者が。\n煩わしいが、私が引導を\n渡してやろう……！",
-  "en": "",
-  "status": "todo",
+  "en": "Traitor. Tiresome as it is, I shall put an end\nto you myself...!",
+  "status": "done",
   "slots": [
    "0x3fd3"
   ],
@@ -714,8 +714,8 @@
  {
   "id": "s2071:00cb1",
   "jp": "裏切りがなんだ！\n僕は本当に強くなる為に\nグロリア海賊団に入ったのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "So what if I'm a traitor! I joined the Gloria\nPirates to become truly strong!",
+  "status": "done",
   "slots": [
    "0x3fed"
   ],
@@ -724,8 +724,8 @@
  {
   "id": "s2071:00cf6",
   "jp": "僕は、負けない！",
-  "en": "",
-  "status": "todo",
+  "en": "I will not lose!",
+  "status": "done",
   "slots": [
    "0x3ff7"
   ],
@@ -734,8 +734,8 @@
  {
   "id": "s2071:00d07",
   "jp": "世界を支配なんて、つまらないわ。\nだって、それで全部終わっちゃう\nじゃない。",
-  "en": "",
-  "status": "todo",
+  "en": "Ruling the world sounds boring. I mean, then\nit's all over, isn't it?",
+  "status": "done",
   "slots": [
    "0x40cb"
   ],
@@ -744,8 +744,8 @@
  {
   "id": "s2071:00d52",
   "jp": "終わりが無いからこそ、\nこの世は楽しいってものよ？",
-  "en": "",
-  "status": "todo",
+  "en": "It's because there's no end that this world is\nfun, you know?",
+  "status": "done",
   "slots": [
    "0x40e0"
   ],
@@ -754,8 +754,8 @@
  {
   "id": "s2071:00d84",
   "jp": "結局、世界征服なんて企んでる奴は\nみんな死んじゃうのよ？",
-  "en": "",
-  "status": "todo",
+  "en": "In the end, anyone plotting to conquer the\nworld ends up dead, you know?",
+  "status": "done",
   "slots": [
    "0x41ad"
   ],
@@ -764,8 +764,8 @@
  {
   "id": "s2071:00dbc",
   "jp": "下手な変革なんて、この世界は\n必要ないんだわさ。\nアンタの行いは、無駄なんだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "This world doesn't need some botched\nrevolution, dontcha know. What you're doing\nis a waste, dontcha know.",
+  "status": "done",
   "slots": [
    "0x41b7"
   ],
@@ -774,8 +774,8 @@
  {
   "id": "s2071:00e0d",
   "jp": "私、悲しい詩は好きでは\nありませんの。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm not fond of sad songs.",
+  "status": "done",
   "slots": [
    "0x4292"
   ],
@@ -784,8 +784,8 @@
  {
   "id": "s2071:00e33",
   "jp": "ですから、\n終わらせていただきますわ！",
-  "en": "",
-  "status": "todo",
+  "en": "So allow me to end this!",
+  "status": "done",
   "slots": [
    "0x42a7"
   ],
@@ -794,8 +794,8 @@
  {
   "id": "s2071:00e59",
   "jp": "最終決戦！\nフハハ、拳が滾るぜぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "The final battle! Hahaha, my fists are\nburnin'!",
+  "status": "done",
   "slots": [
    "0x42f3"
   ],
@@ -804,8 +804,8 @@
  {
   "id": "s2071:00e7b",
   "jp": "喰らえや！\n俺の最高の一撃！",
-  "en": "",
-  "status": "todo",
+  "en": "Take this! My best shot!",
+  "status": "done",
   "slots": [
    "0x4308"
   ],
@@ -814,8 +814,8 @@
  {
   "id": "s2071:00e97",
   "jp": "グハッ……クッ。\nこのままでは体がもたない……。",
-  "en": "",
-  "status": "todo",
+  "en": "Guhah... Ngh. My body won't hold out like\nthis...",
+  "status": "done",
   "slots": [
    "0x4635"
   ],
@@ -825,8 +825,8 @@
  {
   "id": "s2071:00ecb",
   "jp": "しかし、時間は稼いだ……！\nこれなら……！",
-  "en": "",
-  "status": "todo",
+  "en": "But I've bought enough time...! With this...!",
+  "status": "done",
   "slots": [
    "0x463f"
   ],
@@ -836,8 +836,8 @@
  {
   "id": "s2071:00ef9",
   "jp": "な、なに、地震！？",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what, an earthquake!?",
+  "status": "done",
   "slots": [
    "0x4e94"
   ],
@@ -847,8 +847,8 @@
  {
   "id": "s2071:00f10",
   "jp": "すごい揺れです！\n立っていられません！",
-  "en": "",
-  "status": "todo",
+  "en": "It's shaking so hard! I can't stay on my feet!",
+  "status": "done",
   "slots": [
    "0x4ead"
   ],
@@ -858,8 +858,8 @@
  {
   "id": "s2071:00f3a",
   "jp": "な、何が起こったんだ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what's happening!?",
+  "status": "done",
   "slots": [
    "0x4ec6"
   ],
@@ -869,8 +869,8 @@
  {
   "id": "s2071:00f57",
   "jp": "間に合ったようだな……。",
-  "en": "",
-  "status": "todo",
+  "en": "It seems I made it in time...",
+  "status": "done",
   "slots": [
    "0x4ee4"
   ],
@@ -880,8 +880,8 @@
  {
   "id": "s2071:00f74",
   "jp": "ガリオレッド……お前、本当に。",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored... You really did it.",
+  "status": "done",
   "slots": [
    "0x4efd"
   ],
@@ -891,8 +891,8 @@
  {
   "id": "s2071:00f97",
   "jp": "なにコレ……とんでもなく大きな\nウィルが、海の中から出てくるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "What is this... A ridiculously huge Will is\ncoming up out of the sea!",
+  "status": "done",
   "slots": [
    "0x4f16"
   ],
@@ -913,8 +913,8 @@
  {
   "id": "s2071:00ff0",
   "jp": "ガリオレッド！\nお前、一体何をしたんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored! What the hell did you do!",
+  "status": "done",
   "slots": [
    "0x4f72"
   ],
@@ -924,8 +924,8 @@
  {
   "id": "s2071:0101c",
   "jp": "ユーフォリア計画とは……。\n封印された古代ユーフォリア王国を\n復活させるための計画だ。",
-  "en": "",
-  "status": "todo",
+  "en": "The Euforia Project is... a plan to revive the\nsealed ancient Kingdom of Euforia.",
+  "status": "done",
   "slots": [
    "0x4fa0"
   ],
@@ -935,8 +935,8 @@
  {
   "id": "s2071:01075",
   "jp": "そんな……\n皇国軍は、シンフォニアが目的\nだったんじゃないの！？",
-  "en": "",
-  "status": "todo",
+  "en": "No way... Wasn't the Imperial army after\nSymphonia!?",
+  "status": "done",
   "slots": [
    "0x4fb9"
   ],
@@ -946,8 +946,8 @@
  {
   "id": "s2071:010b8",
   "jp": "一つだけ教えてやる。\nシンフォニアの、真の目的だ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll tell you one thing. Symphonia's true\npurpose.",
+  "status": "done",
   "slots": [
    "0x4fd2"
   ],
@@ -957,8 +957,8 @@
  {
   "id": "s2071:010ee",
   "jp": "真の……目的……。",
-  "en": "",
-  "status": "todo",
+  "en": "Her true... purpose...",
+  "status": "done",
   "slots": [
    "0x4feb"
   ],
@@ -968,8 +968,8 @@
  {
   "id": "s2071:01105",
   "jp": "それは、古代ユーフォリア王国を\n蘇らせることだ。",
-  "en": "",
-  "status": "todo",
+  "en": "It is to bring the ancient Kingdom of Euforia\nback to life.",
+  "status": "done",
   "slots": [
    "0x5004"
   ],
@@ -990,8 +990,8 @@
  {
   "id": "s2071:01148",
   "jp": "蘇らせて、どうする気だ……！",
-  "en": "",
-  "status": "todo",
+  "en": "And what're ya gonna do once it's back...!",
+  "status": "done",
   "slots": [
    "0x5036"
   ],
@@ -1001,8 +1001,8 @@
  {
   "id": "s2071:01169",
   "jp": "ユーフォリアの絶対的、無敵の力！\nこの力で……私は世界の王となり！\n世界をこの手で自在に動かすのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Euforia's absolute, invincible power! With\nthis power... I shall become king of the\nworld! And move the world as I please with\nmy own hands!",
+  "status": "done",
   "slots": [
    "0x504f"
   ],
@@ -1012,8 +1012,8 @@
  {
   "id": "s2071:011d0",
   "jp": "世界の……王だと？\nそんな……そんなこと……\nさせるわけねぇだろ！",
-  "en": "",
-  "status": "todo",
+  "en": "King of the... world? Like... like hell I'm\nlettin' ya do that!",
+  "status": "done",
   "slots": [
    "0x507d"
   ],
@@ -1023,8 +1023,8 @@
  {
   "id": "s2071:01215",
   "jp": "そうだ。\nさせるわけにはいかない。",
-  "en": "",
-  "status": "todo",
+  "en": "Right. I can't allow that.",
+  "status": "done",
   "slots": [
    "0x5142"
   ],
@@ -1045,8 +1045,8 @@
  {
   "id": "s2071:0124c",
   "jp": "アシュレイ……貴様、計画は\nどうした！",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey... you, what about the plan!",
+  "status": "done",
   "slots": [
    "0x5174"
   ],
@@ -1056,8 +1056,8 @@
  {
   "id": "s2071:01276",
   "jp": "ユーフォリアの力は僕のモノだ。\nあの力で、僕は僕の意思を叶える！",
-  "en": "",
-  "status": "todo",
+  "en": "Euforia's power is mine. With that power, I\nwill make my will come true!",
+  "status": "done",
   "slots": [
    "0x518d"
   ],
@@ -1067,8 +1067,8 @@
  {
   "id": "s2071:012ba",
   "jp": "ヴォルカノン！",
-  "en": "",
-  "status": "todo",
+  "en": "Volcanon!",
+  "status": "done",
   "slots": [
    "0x5197"
   ],
@@ -1078,8 +1078,8 @@
  {
   "id": "s2071:012cd",
   "jp": "何ッ、グアアァァァ！！",
-  "en": "",
-  "status": "todo",
+  "en": "What!? Guaaaaah!!",
+  "status": "done",
   "slots": [
    "0x5212"
   ],
@@ -1089,8 +1089,8 @@
  {
   "id": "s2071:012e8",
   "jp": "ガリオレッド！",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored!",
+  "status": "done",
   "slots": [
    "0x522b"
   ],
@@ -1100,8 +1100,8 @@
  {
   "id": "s2071:012fb",
   "jp": "この炎、ブラックモアの時にも\nみた、あの……。",
-  "en": "",
-  "status": "todo",
+  "en": "These flames... I saw them that time with\nBlackmore, the same...",
+  "status": "done",
   "slots": [
    "0x5244"
   ],
@@ -1111,8 +1111,8 @@
  {
   "id": "s2071:0132d",
   "jp": "アァシュレイ、貴様アァァ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Aaashrey, you damned...!!",
+  "status": "done",
   "slots": [
    "0x5264"
   ],
@@ -1122,8 +1122,8 @@
  {
   "id": "s2071:0134e",
   "jp": "お前は……邪魔だ。\nお前がいなくならない限り、\n僕に幸福は訪れない。",
-  "en": "",
-  "status": "todo",
+  "en": "You are... in the way. As long as you're\naround, happiness will never come to me.",
+  "status": "done",
   "slots": [
    "0x5299"
   ],
@@ -1133,8 +1133,8 @@
  {
   "id": "s2071:01395",
   "jp": "ガリオレッド。\n育ててくれてありがとう。\nずっと前から、殺したかったよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored. Thank you for raising me. I've\nwanted to kill you for a long, long time.",
+  "status": "done",
   "slots": [
    "0x52ae"
   ],
@@ -1144,8 +1144,8 @@
  {
   "id": "s2071:013e0",
   "jp": "火を……火を、消さねば！",
-  "en": "",
-  "status": "todo",
+  "en": "The fire... I must put out the fire!",
+  "status": "done",
   "slots": [
    "0x52c7"
   ],
@@ -1155,8 +1155,8 @@
  {
   "id": "s2071:013fd",
   "jp": "グ……オオオオオッ！！\nオオオオオオォォォーーーーー！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gu... ooooooh!! Oooooooooooooh!!",
+  "status": "done",
   "slots": [
    "0x5304"
   ],
@@ -1166,8 +1166,8 @@
  {
   "id": "s2071:01439",
   "jp": "ガリオレッドオォォ！",
-  "en": "",
-  "status": "todo",
+  "en": "Garioreeeed!",
+  "status": "done",
   "slots": [
    "0x5380"
   ],
@@ -1177,8 +1177,8 @@
  {
   "id": "s2071:01452",
   "jp": "これで、これで僕は……。\nユーフォリアの、王だ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Now, now I am... the king of Euforia!!",
+  "status": "done",
   "slots": [
    "0x5399"
   ],
@@ -1188,8 +1188,8 @@
  {
   "id": "s2071:01488",
   "jp": "これで僕は、世界を変える！\n僕だけの幸せを……\n手に入れられるんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now I will change the world! I can have... a\nhappiness all my own!",
+  "status": "done",
   "slots": [
    "0x53a3"
   ],
@@ -1199,8 +1199,8 @@
  {
   "id": "s2071:014cf",
   "jp": "ッ！\n……何？　今の？",
-  "en": "",
-  "status": "todo",
+  "en": "...! ...What was that just now?",
+  "status": "done",
   "slots": [
    "0x541a"
   ],
@@ -1210,8 +1210,8 @@
  {
   "id": "s2071:014e9",
   "jp": "皇国軍が撤退していきます！",
-  "en": "",
-  "status": "todo",
+  "en": "The Imperial army is retreating!",
+  "status": "done",
   "slots": [
    "0x5433"
   ],
@@ -1221,8 +1221,8 @@
  {
   "id": "s2071:01508",
   "jp": "チクショウ、待ちやがれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it, get back here!",
+  "status": "done",
   "slots": [
    "0x545a"
   ],
@@ -1232,8 +1232,8 @@
  {
   "id": "s2071:01525",
   "jp": "アシュレイの表情、ありゃヤベェ。\nとんでもねぇ事を考えてる顔だぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "That look on Ashrey's face, that's bad news.\nThat's the face of someone thinkin'\nsomethin' crazy!",
+  "status": "done",
   "slots": [
    "0x5473"
   ],
@@ -1243,8 +1243,8 @@
  {
   "id": "s2071:0156b",
   "jp": "アシュレイを追うぞ！\n全速力だ！",
-  "en": "",
-  "status": "todo",
+  "en": "After Ashrey! Full speed!",
+  "status": "done",
   "slots": [
    "0x548c"
   ],
@@ -1254,8 +1254,8 @@
  {
   "id": "s2071:01590",
   "jp": "体力がヤベェ。\nなにか、回復するものはねぇか……",
-  "en": "",
-  "status": "todo",
+  "en": "I'm in bad shape. Ain't there anything to\nheal up with...",
+  "status": "done",
   "slots": [
    "0x2924"
   ],
@@ -1264,8 +1264,8 @@
  {
   "id": "s2071:015c0",
   "jp": "よっしゃ、これでなんとか……！",
-  "en": "",
-  "status": "todo",
+  "en": "All right, this'll do me...!",
+  "status": "done",
   "slots": [
    "0x296f"
   ],
@@ -1274,8 +1274,8 @@
  {
   "id": "s2071:015df",
   "jp": "流石にここまで来ると\n敵も手強いですね。",
-  "en": "",
-  "status": "todo",
+  "en": "This far in, the enemy really is tough.",
+  "status": "done",
   "slots": [
    "0x29bb"
   ],
@@ -1284,8 +1284,8 @@
  {
   "id": "s2071:01607",
   "jp": "体力で負けないようにしなくては\nなりませんね。",
-  "en": "",
-  "status": "todo",
+  "en": "We mustn't let them outlast us.",
+  "status": "done",
   "slots": [
    "0x2a06"
   ],
@@ -1294,8 +1294,8 @@
  {
   "id": "s2071:01635",
   "jp": "この調子で戦ってたら、\nあっという間にエネルギーが\n切れちゃうよぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "If we keep fighting like this, my energy will\nrun out in no time.",
+  "status": "done",
   "slots": [
    "0x2a52"
   ],
@@ -1304,8 +1304,8 @@
  {
   "id": "s2071:01678",
   "jp": "常にエネルギーを補給しながら\n戦わないとね。",
-  "en": "",
-  "status": "todo",
+  "en": "I have to keep refuelling while we fight.",
+  "status": "done",
   "slots": [
    "0x2a9d"
   ],
@@ -1314,8 +1314,8 @@
  {
   "id": "s2071:016a4",
   "jp": "蓄えられるうちに蓄えとかないとね",
-  "en": "",
-  "status": "todo",
+  "en": "Gotta stock up while we can.",
+  "status": "done",
   "slots": [
    "0x2ae9"
   ],
@@ -1324,8 +1324,8 @@
  {
   "id": "s2071:016c5",
   "jp": "弱音は吐いてらんないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "No time to whine.",
+  "status": "done",
   "slots": [
    "0x2b34"
   ],
@@ -1334,8 +1334,8 @@
  {
   "id": "s2071:016de",
   "jp": "ふぃー、流石に手ごわいなぁ奴ら。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew, they're tough, I'll give 'em that.",
+  "status": "done",
   "slots": [
    "0x2b80"
   ],
@@ -1344,8 +1344,8 @@
  {
   "id": "s2071:016ff",
   "jp": "体力が少しでもなくなったら\n袋叩きにされるな。",
-  "en": "",
-  "status": "todo",
+  "en": "Lose even a bit of stamina and they'll gang\nup on ya.",
+  "status": "done",
   "slots": [
    "0x2bcb"
   ],
@@ -1354,8 +1354,8 @@
  {
   "id": "s2071:0172d",
   "jp": "ありがたい、ミネラルリーフだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Thank goodness, a Mineral Leaf.",
+  "status": "done",
   "slots": [
    "0x2c1e"
   ],
@@ -1364,8 +1364,8 @@
  {
   "id": "s2071:0174c",
   "jp": "戦闘中こそ、栄養分をとらなければ\nなるまい。",
-  "en": "",
-  "status": "todo",
+  "en": "It is precisely in battle that one must take\nin nourishment.",
+  "status": "done",
   "slots": [
    "0x2c74"
   ],
@@ -1374,8 +1374,8 @@
  {
   "id": "s2071:01778",
   "jp": "はぁ、もうクタクタだよぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hah, Locomoco's all worn out.",
+  "status": "done",
   "slots": [
    "0x2cc7"
   ],
@@ -1384,8 +1384,8 @@
  {
   "id": "s2071:01793",
   "jp": "ちょっとこれ食べながら\nきゅうけいしよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's take a little break and eat this.",
+  "status": "done",
   "slots": [
    "0x2d12"
   ],
@@ -1394,8 +1394,8 @@
  {
   "id": "s2071:017bb",
   "jp": "みなさんお強いっすねぇ。\n私如きじゃついて行けないっす。",
-  "en": "",
-  "status": "todo",
+  "en": "Everyone's so strong, sir. Someone like me\ncan't keep up.",
+  "status": "done",
   "slots": [
    "0x2d65"
   ],
@@ -1404,8 +1404,8 @@
  {
   "id": "s2071:017f3",
   "jp": "常に体力を回復させつつ、\n頑張りまっすよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'll keep healing up and do my best, sir!",
+  "status": "done",
   "slots": [
    "0x2dbb"
   ],
@@ -1414,8 +1414,8 @@
  {
   "id": "s2071:0181d",
   "jp": "流石に敵は手強いな……。\n体力を回復させなければ。",
-  "en": "",
-  "status": "todo",
+  "en": "The enemy really is tough... I must recover\nmy strength.",
+  "status": "done",
   "slots": [
    "0x2e15"
   ],
@@ -1424,8 +1424,8 @@
  {
   "id": "s2071:0184f",
   "jp": "ふぅ……よし！　行くか！",
-  "en": "",
-  "status": "todo",
+  "en": "Phew... All right! Let's go!",
+  "status": "done",
   "slots": [
    "0x2e6b"
   ],
@@ -1434,8 +1434,8 @@
  {
   "id": "s2071:01868",
   "jp": "流石に、両手が痺れてきましたね。\nミネラルリーフで回復しなくては。",
-  "en": "",
-  "status": "todo",
+  "en": "Both my hands are going numb. I must\nrecover with a Mineral Leaf.",
+  "status": "done",
   "slots": [
    "0x2ec5"
   ],
@@ -1444,8 +1444,8 @@
  {
   "id": "s2071:018aa",
   "jp": "これでまた戦えます！",
-  "en": "",
-  "status": "todo",
+  "en": "Now I can fight again!",
+  "status": "done",
   "slots": [
    "0x2f1b"
   ],
@@ -1454,8 +1454,8 @@
  {
   "id": "s2071:018bf",
   "jp": "グガンガー……。",
-  "en": "",
-  "status": "todo",
+  "en": "Gugangaa...",
+  "status": "done",
   "slots": [
    "0x2f75"
   ],
@@ -1464,8 +1464,8 @@
  {
   "id": "s2071:018d0",
   "jp": "ガンググ、ガンググ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangugu, Gangugu!",
+  "status": "done",
   "slots": [
    "0x2fcb"
   ],
@@ -1474,8 +1474,8 @@
  {
   "id": "s2071:018e5",
   "jp": "あぁもう疲れるわね！\nちょっとは休ませてよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, this is so tiring! Let me rest a little!",
+  "status": "done",
   "slots": [
    "0x3025"
   ],
@@ -1484,8 +1484,8 @@
  {
   "id": "s2071:01911",
   "jp": "ホントはこんなのより\nパイが食べたいんだけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "Honestly, I'd rather eat pie than this.",
+  "status": "done",
   "slots": [
    "0x307b"
   ],
@@ -1494,8 +1494,8 @@
  {
   "id": "s2071:01941",
   "jp": "や、ヤバイ。体力が、もう……。",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this is bad. My stamina's almost...",
+  "status": "done",
   "slots": [
    "0x30ce"
   ],
@@ -1504,8 +1504,8 @@
  {
   "id": "s2071:01960",
   "jp": "こ、これを、食べて、体力回復だ！",
-  "en": "",
-  "status": "todo",
+  "en": "I-I'll eat this and get my strength back!",
+  "status": "done",
   "slots": [
    "0x3119"
   ],
@@ -1514,8 +1514,8 @@
  {
   "id": "s2071:01981",
   "jp": "敵がウザッたくなってきたわさ。\nここらでちょっと休憩っと。",
-  "en": "",
-  "status": "todo",
+  "en": "The enemy's getting annoying, dontcha\nknow. Time for a little break.",
+  "status": "done",
   "slots": [
    "0x3165"
   ],
@@ -1524,8 +1524,8 @@
  {
   "id": "s2071:019bb",
   "jp": "お、いい所にあるじゃないわさ。\nいただくんだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, what luck, there's one right here,\ndontcha know. I'll help myself!",
+  "status": "done",
   "slots": [
    "0x31b0"
   ],
@@ -1534,8 +1534,8 @@
  {
   "id": "s2071:019ed",
   "jp": "これだけのギャラリーがいると、\n大変ですわね。",
-  "en": "",
-  "status": "todo",
+  "en": "With an audience this big, it's quite a strain.",
+  "status": "done",
   "slots": [
    "0x320a"
   ],
@@ -1544,8 +1544,8 @@
  {
   "id": "s2071:01a1b",
   "jp": "これを食べて体力を回復させないと\nいけませんわ。",
-  "en": "",
-  "status": "todo",
+  "en": "I must eat this and recover my strength.",
+  "status": "done",
   "slots": [
    "0x3255"
   ],
@@ -1554,8 +1554,8 @@
  {
   "id": "s2071:01a4b",
   "jp": "チ、俺としたことが。\nちょっとばかし疲れちまったぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, not like me. I'm gettin' a little tired.",
+  "status": "done",
   "slots": [
    "0x3291"
   ],
@@ -1564,8 +1564,8 @@
  {
   "id": "s2071:01a7f",
   "jp": "敵のプレッシャーが半端じゃねぇな\n気をつけねぇと。",
-  "en": "",
-  "status": "todo",
+  "en": "The enemy's pressure ain't no joke. Gotta\nwatch it.",
+  "status": "done",
   "slots": [
    "0x32dc"
   ],
@@ -1574,8 +1574,8 @@
  {
   "id": "s2071:01ab1",
   "jp": "それは……マンタの魚拓か。\n随分と珍しいものを持っているな。",
-  "en": "",
-  "status": "todo",
+  "en": "That's... a Manta Fish Print. You've got\nsomething mighty rare there.",
+  "status": "done",
   "slots": [
    "0x3378"
   ],
@@ -1584,8 +1584,8 @@
  {
   "id": "s2071:01aed",
   "jp": "マンタってのは、\n古代ユーフォリア時代から生きてる\n聖なる生き物でな。",
-  "en": "",
-  "status": "todo",
+  "en": "The manta's a sacred creature that's lived\nsince the days of ancient Euforia.",
+  "status": "done",
   "slots": [
    "0x337f"
   ],
@@ -1594,8 +1594,8 @@
  {
   "id": "s2071:01b32",
   "jp": "別名“天上への担い手”って\n呼ばれてるんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "They call it the \"Bearer to the Heavens\",\ntoo.",
+  "status": "done",
   "slots": [
    "0x3386"
   ],
@@ -1604,8 +1604,8 @@
  {
   "id": "s2071:01b5e",
   "jp": "その証拠に、\n発見されている遺跡の全ての壁画に\nマンタが描かれているらしい。",
-  "en": "",
-  "status": "todo",
+  "en": "Proof of that is, they say there's a manta\npainted on every mural in every ruin found so\nfar.",
+  "status": "done",
   "slots": [
    "0x338d"
   ],
@@ -1614,8 +1614,8 @@
  {
   "id": "s2071:01ba9",
   "jp": "今度、探してみるといいさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Go look for 'em sometime.",
+  "status": "done",
   "slots": [
    "0x3394"
   ],
@@ -1624,8 +1624,8 @@
  {
   "id": "s2071:01bc4",
   "jp": "コイツはたまたま浜に\n打ち上げられていたマンタで作った\nマントだ。",
-  "en": "",
-  "status": "todo",
+  "en": "This here's a Manta Mantle, made from a\nmanta that happened to wash up on the\nbeach.",
+  "status": "done",
   "slots": [
    "0x3403"
   ],
@@ -1634,8 +1634,8 @@
  {
   "id": "s2071:01c05",
   "jp": "身につけたら、いい事あるかもな。",
-  "en": "",
-  "status": "todo",
+  "en": "Wear it, and maybe somethin' good'll\nhappen.",
+  "status": "done",
   "slots": [
    "0x340a"
   ],
@@ -1644,8 +1644,8 @@
  {
   "id": "s2071:01c26",
   "jp": "なぁアンタ。\n“マンタの伝説”って知ってるか？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, you. Ever heard the \"legend of the\nmanta\"?",
+  "status": "done",
   "slots": [
    "0x342d"
   ],
@@ -1654,8 +1654,8 @@
  {
   "id": "s2071:01c54",
   "jp": "マンタは古代ユーフォリア時代では\n“天上への担い手”っつって\n崇められててな",
-  "en": "",
-  "status": "todo",
+  "en": "Back in ancient Euforia, the manta was\nworshipped as the \"Bearer to the Heavens\".",
+  "status": "done",
   "slots": [
    "0x3434"
   ],
@@ -1664,8 +1664,8 @@
  {
   "id": "s2071:01c9f",
   "jp": "マンタを見ると幸せになれる\nとも言われてるんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "They say if you see a manta, you'll find\nhappiness.",
+  "status": "done",
   "slots": [
    "0x343b"
   ],
@@ -1674,8 +1674,8 @@
  {
   "id": "s2071:01ccf",
   "jp": "アンタも、探してみてはどうだい？",
-  "en": "",
-  "status": "todo",
+  "en": "Why don't you go look for one too?",
+  "status": "done",
   "slots": [
    "0x3442"
   ],
@@ -1684,8 +1684,8 @@
  {
   "id": "s2071:01cf0",
   "jp": "マンタは遺跡の壁画にも\n描かれているらしい。",
-  "en": "",
-  "status": "todo",
+  "en": "They say mantas are painted on the murals\nin the ruins too.",
+  "status": "done",
   "slots": [
    "0x345a"
   ],
@@ -1694,8 +1694,8 @@
  {
   "id": "s2071:01d1c",
   "jp": "暇があったら探してみると\nいいさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Go look for 'em if you've got the time.",
+  "status": "done",
   "slots": [
    "0x3461"
   ],
@@ -1713,8 +1713,8 @@
  {
   "id": "s2071:01e06t",
   "jp": "ガリオレッド精鋭部隊",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored Elite Unit",
+  "status": "done",
   "at": "0x1e09",
   "max": 20,
   "who": "team name"
