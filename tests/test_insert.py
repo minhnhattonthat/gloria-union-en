@@ -88,6 +88,24 @@ def test_eboot_points_at_markers(marker):
     assert n > 10000
 
 
+@pytest.mark.parametrize('mode', ['marker', 'en'])
+def test_eboot_writes(marker, mode):
+    """romdiff over EBOOT segment 0 with the build's write log: every changed byte has a logged write, each write
+    found the original bytes it expected, none overlaps or was overwritten later (new code and strings go to the blob
+    in segment 1, outside this range)."""
+    import romdiff
+    ins = marker[0] if mode == 'marker' else insert.Inserter('en')
+    if mode == 'en': ins.eboot()
+    e = ins.eb
+    end = e.ph[0][4] + 0xA0
+    writes = [(int(o, 16), bytes.fromhex(a), bytes.fromhex(b), by) for o, a, b, *rest in
+              (ln.split(None, 3) for ln in e.log) for by in [rest[0] if rest else '']]
+    assert len(writes) > 1000 and all(o + len(a) <= end for o, a, _, _ in writes)
+    errs, ok = romdiff.check(e.orig[:end], bytes(e.d[:end]), set(), writes)
+    assert not errs, errs[:10]
+    assert ok > 0
+
+
 def test_format_buffers(marker):
     """No inserted format string outputs more bytes than its sprintf buffer holds (tbl/fmtbuf.tsv; the battle_result
     crash: '%2d戦%2d勝' marker overflowed a 16-byte stack buffer)."""

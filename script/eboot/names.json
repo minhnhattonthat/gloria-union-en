@@ -1672,7 +1672,7 @@
  {
   "id": "e:281048",
   "jp": "謎の女",
-  "en": "Mysterious Woman",
+  "en": "Mystery Woman",
   "status": "done",
   "slots": [
    "w:2eec70"
@@ -1700,7 +1700,7 @@
  {
   "id": "e:281070",
   "jp": "活発そうな海賊少女",
-  "en": "Lively Pirate Girl",
+  "en": "Lively Pirate",
   "status": "done",
   "slots": [
    "w:2eec94"
@@ -1745,7 +1745,7 @@
  {
   "id": "e:2810b8",
   "jp": "薄幸そうな少女",
-  "en": "Frail-Looking Girl",
+  "en": "Frail Girl",
   "status": "done",
   "slots": [
    "w:2eecd0"
@@ -1754,7 +1754,7 @@
  {
   "id": "e:2810c8",
   "jp": "色気のある女海賊",
-  "en": "Alluring Pirate Woman",
+  "en": "Alluring Pirate",
   "status": "done",
   "slots": [
    "w:2eecdc"
@@ -1781,7 +1781,7 @@
  {
   "id": "e:2810fc",
   "jp": "助けを求める声",
-  "en": "Voice Crying for Help",
+  "en": "Cry for Help",
   "status": "done",
   "slots": [
    "w:2eed00"
@@ -1817,7 +1817,7 @@
  {
   "id": "e:28113c",
   "jp": "目つきの悪い男",
-  "en": "Shifty-Eyed Man",
+  "en": "Shifty-Eyed Guy",
   "status": "done",
   "slots": [
    "w:2eed30"
@@ -1826,7 +1826,7 @@
  {
   "id": "e:28114c",
   "jp": "鎧を着た骸骨",
-  "en": "Armored Skeleton",
+  "en": "Armored Bones",
   "status": "done",
   "slots": [
    "w:2eed3c"
@@ -1835,7 +1835,7 @@
  {
   "id": "e:28115c",
   "jp": "商人の女",
-  "en": "Merchant Woman",
+  "en": "Merchant Lady",
   "status": "done",
   "slots": [
    "w:2eed48"
@@ -1862,7 +1862,7 @@
  {
   "id": "e:281188",
   "jp": "若い研究者",
-  "en": "Young Researcher",
+  "en": "Young Scholar",
   "status": "done",
   "slots": [
    "w:2eed6c"
@@ -1871,7 +1871,7 @@
  {
   "id": "e:281194",
   "jp": "綺麗な声の女性",
-  "en": "Sweet-Voiced Woman",
+  "en": "Sweet Voice",
   "status": "done",
   "slots": [
    "w:2eed78"
@@ -1880,7 +1880,7 @@
  {
   "id": "e:2811a4",
   "jp": "謎の美女",
-  "en": "Mysterious Beauty",
+  "en": "Mystery Beauty",
   "status": "done",
   "slots": [
    "w:2eed84"
@@ -1907,7 +1907,7 @@
  {
   "id": "e:2811cc",
   "jp": "不思議な雰囲気の人",
-  "en": "Mysterious Person",
+  "en": "Strange Person",
   "status": "done",
   "slots": [
    "w:2eeda8"
@@ -1970,7 +1970,7 @@
  {
   "id": "e:281234",
   "jp": "バッソフォンド兵",
-  "en": "Bassofondo Soldier",
+  "en": "Bassofondo Man",
   "status": "done",
   "slots": [
    "w:2eedfc"
@@ -1979,7 +1979,7 @@
  {
   "id": "e:281248",
   "jp": "エルマーレ連合兵",
-  "en": "Elmare Federal Soldier",
+  "en": "Elmare Soldier",
   "status": "done",
   "slots": [
    "w:2eee08"
@@ -2060,7 +2060,7 @@
  {
   "id": "e:2812b8",
   "jp": "反対派の男性",
-  "en": "Man of the Opposition",
+  "en": "Opposition Man",
   "status": "done",
   "slots": [
    "w:2eee74"
@@ -2069,7 +2069,7 @@
  {
   "id": "e:2812c8",
   "jp": "若い鍛冶師",
-  "en": "Young Blacksmith",
+  "en": "Young Smith",
   "status": "done",
   "slots": [
    "w:2eee80"
@@ -2132,7 +2132,7 @@
  {
   "id": "e:281324",
   "jp": "支援隊Ａ",
-  "en": "Support Group A",
+  "en": "Supporter A",
   "status": "done",
   "slots": [
    "w:2eeed4"
@@ -2159,7 +2159,7 @@
  {
   "id": "e:281340",
   "jp": "伝説の鍛冶師？",
-  "en": "Legendary Smith?",
+  "en": "Famed Smith?",
   "status": "done",
   "slots": [
    "w:2eeef8"
@@ -2240,7 +2240,7 @@
  {
   "id": "e:2813b8",
   "jp": "漁師の娘",
-  "en": "Fisherman's Daughter",
+  "en": "Fisher Lass",
   "status": "done",
   "slots": [
    "w:2eef70"
@@ -2276,7 +2276,7 @@
  {
   "id": "e:2813e8",
   "jp": "感謝する女性",
-  "en": "Grateful Woman",
+  "en": "Grateful Lady",
   "status": "done",
   "slots": [
    "w:2eefa0"
@@ -2285,7 +2285,7 @@
  {
   "id": "e:2813f8",
   "jp": "アレンジ職人",
-  "en": "Arrangement Artisan",
+  "en": "Arranger",
   "status": "done",
   "slots": [
    "w:2eefac"
@@ -2330,7 +2330,7 @@
  {
   "id": "e:281434",
   "jp": "慈愛ある老婆",
-  "en": "Kindly Old Woman",
+  "en": "Kind Old Woman",
   "status": "done",
   "slots": [
    "w:2eefe8"
@@ -2339,7 +2339,7 @@
  {
   "id": "e:281444",
   "jp": "怪しい老人",
-  "en": "Suspicious Old Man",
+  "en": "Shady Old Man",
   "status": "done",
   "slots": [
    "w:2eeff4"
@@ -2348,7 +2348,7 @@
  {
   "id": "e:281450",
   "jp": "噂好きの主婦",
-  "en": "Gossipy Housewife",
+  "en": "Gossipy Wife",
   "status": "done",
   "slots": [
    "w:2ef000"
@@ -2357,7 +2357,7 @@
  {
   "id": "e:281460",
   "jp": "歓喜する女性",
-  "en": "Overjoyed Woman",
+  "en": "Overjoyed Lady",
   "status": "done",
   "slots": [
    "w:2ef00c"
@@ -2375,7 +2375,7 @@
  {
   "id": "e:28147c",
   "jp": "女鍛冶師",
-  "en": "Woman Blacksmith",
+  "en": "Woman Smith",
   "status": "done",
   "slots": [
    "w:2ef024"
@@ -2384,7 +2384,7 @@
  {
   "id": "e:281488",
   "jp": "見守る母親",
-  "en": "Watchful Mother",
+  "en": "Watchful Mom",
   "status": "done",
   "slots": [
    "w:2ef030"
@@ -2393,7 +2393,7 @@
  {
   "id": "e:281494",
   "jp": "虫取り少女",
-  "en": "Bug-Catching Girl",
+  "en": "Bug Catcher",
   "status": "done",
   "slots": [
    "w:2ef03c"
@@ -2438,7 +2438,7 @@
  {
   "id": "e:2814dc",
   "jp": "強欲な商人",
-  "en": "Greedy Merchant",
+  "en": "Greedy Trader",
   "status": "done",
   "slots": [
    "w:2ef078"
@@ -2456,7 +2456,7 @@
  {
   "id": "e:2814f4",
   "jp": "霊感商人",
-  "en": "Spirit Merchant",
+  "en": "Spirit Seller",
   "status": "done",
   "slots": [
    "w:2ef090"
@@ -2483,7 +2483,7 @@
  {
   "id": "e:281518",
   "jp": "逃げる商人",
-  "en": "Fleeing Merchant",
+  "en": "Fleeing Trader",
   "status": "done",
   "slots": [
    "w:2ef0b4"
@@ -2492,7 +2492,7 @@
  {
   "id": "e:281524",
   "jp": "陽気な商人",
-  "en": "Cheerful Merchant",
+  "en": "Jolly Merchant",
   "status": "done",
   "slots": [
    "w:2ef0c0"
@@ -2537,7 +2537,7 @@
  {
   "id": "e:281558",
   "jp": "かつての名医",
-  "en": "Once-Great Doctor",
+  "en": "Once-Great Doc",
   "status": "done",
   "slots": [
    "w:2ef0fc"
@@ -2582,7 +2582,7 @@
  {
   "id": "e:28159c",
   "jp": "支援隊隊長",
-  "en": "Support Group Leader",
+  "en": "Lead Supporter",
   "status": "done",
   "slots": [
    "w:2ef138"
@@ -2618,7 +2618,7 @@
  {
   "id": "e:2815c8",
   "jp": "明るい好青年",
-  "en": "Bright Young Man",
+  "en": "Nice Young Man",
   "status": "done",
   "slots": [
    "w:2ef168"
@@ -2627,7 +2627,7 @@
  {
   "id": "e:2815d8",
   "jp": "支援隊Ｂ",
-  "en": "Support Group B",
+  "en": "Supporter B",
   "status": "done",
   "slots": [
    "w:2ef174"
@@ -2636,7 +2636,7 @@
  {
   "id": "e:2815e4",
   "jp": "見習い術師",
-  "en": "Apprentice Mage",
+  "en": "Trainee Mage",
   "status": "done",
   "slots": [
    "w:2ef180"
@@ -2691,7 +2691,7 @@
  {
   "id": "e:281630",
   "jp": "感激する漁師",
-  "en": "Moved Fisherman",
+  "en": "Moved Fisher",
   "status": "done",
   "slots": [
    "w:2ef1c8"
@@ -2727,7 +2727,7 @@
  {
   "id": "e:28165c",
   "jp": "謎の声",
-  "en": "Mysterious Voice",
+  "en": "Mystery Voice",
   "status": "done",
   "slots": [
    "w:2ef204"
@@ -2755,7 +2755,7 @@
  {
   "id": "e:281684",
   "jp": "風の声",
-  "en": "Voice of the Wind",
+  "en": "Wind's Voice",
   "status": "done",
   "slots": [
    "w:2ef228"
@@ -2773,7 +2773,7 @@
  {
   "id": "e:28169c",
   "jp": "港の漁師",
-  "en": "Harbor Fisherman",
+  "en": "Port Fisherman",
   "status": "done",
   "slots": [
    "w:2ef240"
@@ -2782,7 +2782,7 @@
  {
   "id": "e:2816a8",
   "jp": "魚拓マニア",
-  "en": "Fish Print Fanatic",
+  "en": "Fish Print Fan",
   "status": "done",
   "slots": [
    "w:2ef24c"
@@ -2791,7 +2791,7 @@
  {
   "id": "e:2816b4",
   "jp": "伝説の漁師",
-  "en": "Legendary Fisherman",
+  "en": "Fishing Legend",
   "status": "done",
   "slots": [
    "w:2ef258"
@@ -2810,7 +2810,7 @@
  {
   "id": "e:2816d0",
   "jp": "イシュト似の少年",
-  "en": "Boy Who Looks Like Ishut",
+  "en": "Ishut Lookalike",
   "status": "done",
   "slots": [
    "w:2ef270"

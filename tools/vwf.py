@@ -31,7 +31,8 @@ STYLE = {
     1: dict(cw=20, ch=20, key=0, edge=1, fill=14, cap=10, top=3, shear=0.0),    # dialogue: font A; ink in rows 2-17
     2: dict(cw=14, ch=16, key=15, edge=0, fill=14, cap=11, top=1, shear=0.0),   # font C, small
     3: dict(cw=24, ch=24, key=0, edge=1, fill=15, cap=14, top=4, shear=0.2),    # name tags: font B, italic
-    4: dict(cw=12, ch=12, key=0, edge=2, fill=1, cap=8, top=2, shear=0.0),      # small battle font: white, black edge
+    4: dict(cw=12, ch=12, key=0, edge=2, fill=1, cap=8, top=2, shear=0.0, sx=0.8),   # small battle font: white, black
+    # edge; sx: condensed to fit the 72 px HUD name field (D15)
 }
 PAGE = {1: (1, 2), 2: (5, 6), 3: (3, 4), 4: (0, None)}   # engine font -> (texture, index) sub of id 3 section 1
 COLS = 16                                   # glyphs per sheet row; glyph c at ((c-0x20) % 16, (c-0x20) // 16)

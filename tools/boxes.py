@@ -71,6 +71,8 @@ BUDGETS = {
     '1/21/20/3': (400, 3, 'measured: fitslide/battle_result/t024_150 black panel, ruler cut by the 63-cell cap at ~400'),
     '2/10/14/1': (140, 1, 'guess: card data skill name drawn faded behind the card art (fitslide2/card_data/t010); '
                           'original width'),
+    '2/22/14/1': (290, 1, 'measured: gate3/33 card select bottom line 1 (skill effects, boxes.ROW_OF), x 12 to the '
+                          'Total Move banner at ~305'),
     '2/22/14/2': (225, 2, 'measured: gate3/33 card select bottom, line 2 starts after its label and meets Total Move at ~227'),
     # EXTRA pages (work/qa/extra3/sheet/a.png, fit build with the %s byte limits): description panels start at x ~282
     # and run to the screen edge; list rows are byte-limited (tbl/fmtbuf.tsv), item descriptions wrap by build
@@ -110,6 +112,7 @@ SOURCE = [
     (0x2f68a8, 0x2f68f4, '1/30/18/1', 'character catchphrases: character select bottom line'),
     (0x2f3960, 0x2f3d40, '1/30/20/6', 'stage outcome and recap lines: battle_result black page'),
     (0x2edd04, 0x2eddac, 'sys', 'PSP system message dialog (savedata/install): firmware font, it wraps itself'),
+    (0x2eda40, 0x2edc8c, 'sys', 'PSP system message dialog: same %s / ALLKB / [0A] savedata messages as above'),
     (0x2f9570, 0x2f95e8, 'sys', 'PSP system message dialog (savedata/install)'),
 ]
 GUESS = {'sys': (400, 6, 'guess: PSP system dialog wraps its own text; [0A] are its line breaks')}
@@ -215,17 +218,48 @@ def classes():
     return {r.split('\t')[0]: r.split('\t')[1].split() for r in rows}
 
 
+# slot addresses where one pointer table ends and the next starts with no gap between them
+SPLITS = {0x2ef27c: 'unit name records (0x2ee82c, 12 bytes, HUD) end; a 4-byte place list follows (fight screen '
+                    'place bar, e:2816e4 seen in 1/15/20/1)',
+          0x2eda40: "the game's own storage messages (window) end; PSP system dialog messages follow (SOURCE 'sys')",
+          0x2ca150: 'card skill effects (seen only in the card select bottom 2/22/14/2) end; skill use conditions '
+                    '(Info bar 2/13/14/1, e:25704c) follow'}
+
+
 def table_classes(seen):
     """{eboot entry id: [class]} for unseen entries in a pointer table (w: slots <= 0x40 apart) with seen entries."""
     rows = sorted((int(e['slots'][0][2:], 16), e['id']) for es in load('eboot').values() for e in es
                   if e.get('slots') and e['slots'][0].startswith('w:'))
     out, run = {}, []
     for i, r in enumerate(rows + [(1 << 40, None)]):
-        if run and r[0] - run[-1][0] > 0x40:
+        if run and (r[0] - run[-1][0] > 0x40 or r[0] in SPLITS):
             ks = sorted({k for _, j in run for k in seen.get(j, [])})
             if ks: out.update((j, ks) for _, j in run if j not in seen)
             run = []
         run.append(r)
+    return out
+
+
+ROWS_FROM_TEXT = ('1/30/19/',)
+# (first slot, last slot, class seen, class meant): a table drawn on one row of a shared window
+ROW_OF = [(0x2ca000, 0x2ca14c, '2/22/14/2', '2/22/14/1')]   # skill effects: line 1 of the card select bottom
+NAMES = (0x2ee82c, 0x2ef27c)   # unit records (full name, short name or 0, team name or 0), 12 bytes; no aliases
+HUD, TEAM = '4/20/12/10', '4/20/12/6'
+
+
+def record_classes(entry, _c={}):
+    """Classes from the unit record fields an entry's slots fill: the battle HUD shows the short name, or the full
+    name when the record has none (reader 0xf38e4 -> 0x112080); full map unit lists show team names."""
+    if 'w' not in _c:
+        _c['w'] = {int(s[2:], 16) for es in load('eboot').values() for e in es for s in e.get('slots') or []
+                   if s.startswith('w:')}
+    out = set()
+    for s in entry.get('slots') or []:
+        a = int(s[2:], 16) if s.startswith('w:') else 0
+        if not NAMES[0] <= a < NAMES[1]: continue
+        off = (a - NAMES[0]) % 12
+        if off == 4 or (off == 0 and a + 4 not in _c['w']): out.add(HUD)
+        if off == 8: out.add(TEAM)
     return out
 
 
@@ -255,14 +289,26 @@ def budget(entry, _cache={}):
         sc = source_class(entry)
         if sc and sc[0] in GUESS: return (*GUESS[sc[0]][:2], sc[0], False)
         ks = [sc[0]] if sc else []
+    rc = record_classes(entry) if entry['id'].startswith('e:') else set()
+    if rc or any(k in (HUD, TEAM) for k in ks or []) and not seen:
+        # unit record fields: HUD and full map classes by field (record_classes), not lent by the table run
+        ks = sorted({k for k in ks or [] if seen or k not in (HUD, TEAM)} | rc)
     if 'g' not in _cache:
         rows = [r.split('\t') for r in (ROOT / 'tbl/fmtbuf.tsv').read_text('utf8').splitlines()[1:]]
         _cache['g'] = {r[0]: g for r in rows for g in GROUPS if g in r[4]}
+    # windows sized by the text's own line count (win/lose conditions: rows 1-3 of the same window in the logs)
+    n = entry.get('jp', '').count('\n') + entry.get('jp', '').count('[0A]') + 1
+    ks = [k.rsplit('/', 1)[0] + f'/{n}' if k.startswith(ROWS_FROM_TEXT) and k.rsplit('/', 1)[0] + f'/{n}' in BUDGETS
+          else k for k in ks]
+    slots = [int(s[2:], 16) for s in entry.get('slots') or [] if s.startswith('w:')]
+    for lo, hi, k0, k1 in ROW_OF:
+        if any(lo <= a <= hi for a in slots): ks = [k1 if k == k0 else k for k in ks]
     cand = [(BUDGETS[k], k) for k in ks if k in BUDGETS]
     if entry['id'] in _cache['g']: cand.append((GROUPS[_cache['g'][entry['id']]], _cache['g'][entry['id']]))
     best = None
     for (px, lines, how), k in cand:
-        if best is None or px < best[0]: best = (px, lines, k, how.startswith('measured') and (seen or k in GROUPS))
+        if best is None or px < best[0]:
+            best = (px, lines, k, how.startswith('measured') and (seen or k in GROUPS or k in rc))
     return best
 
 

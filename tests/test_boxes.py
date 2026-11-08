@@ -30,3 +30,21 @@ def test_table_lends_classes():
     assert '1/15/20/2' in got.get('e:2bcf4f', []), got.get('e:2bcf4f')
     b = boxes.budget({'id': 'e:2bcf4f', 'slots': ['w:2bd200']})
     assert b and not b[3]   # borrowed: not measured for this entry
+
+
+def test_unit_record_fields():
+    """HUD (72 px) draws a record's short name, else its full name; team names go to the full map lists; the place
+    list after the records is not HUD text."""
+    e = {x['id']: x for x in entries()}
+    k = lambda i: boxes.budget(e[i])[2]   # noqa: E731
+    assert k('e:280cdc') == boxes.HUD and boxes.budget(e['e:280cdc'])[3]   # コブン, short name of record 47: measured
+    assert k('e:281048') == boxes.HUD                                     # 謎の女: no short name -> full name
+    assert k('e:280c10') != boxes.HUD                                     # 皇国騎兵: has a short name (コウコクキ兵)
+    assert boxes.TEAM in boxes.record_classes(e['e:280944'])              # Minesota Unit: team name
+    assert k('e:281a10') == '1/15/20/1'                                   # 加工都市アレン: place list
+
+
+def test_row_of_shared_window():
+    e = {x['id']: x for x in entries()}
+    assert boxes.budget(e['e:256a10'])[:3] == (290, 1, '2/22/14/1')      # skill effect: line 1
+    assert boxes.budget(e['e:257084'])[:3] == (225, 2, '2/22/14/2')      # use condition: line 2

@@ -1,7 +1,8 @@
 """Translation batches (docs/translator-brief.md): split untranslated text, check translator output, merge it back.
 
     python -X utf8 tools/batches.py split [--size 3500]   work/tl/bNNN.tsv and build/terms_bNNN.txt for untranslated JP
-    python -X utf8 tools/batches.py check [bNNN ...]      a batch's .out.tsv; with no batch, all shipped English (for check.py)
+    python -X utf8 tools/batches.py check [bNNN ...]      a batch's .out.tsv; with no batch, all shipped English (for check.py;
+                                                          --warnings also lists the WARNs)
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the English into script/
     python -X utf8 tools/batches.py fit ID "English"       wrapped lines with px per line against the entry's budget
     python -X utf8 tools/batches.py sync                   copy script/ English into stale .out.tsv rows (check fails on them)
@@ -396,7 +397,7 @@ def main(argv):
     if cmd == "sync":
         return sync(index())
     overwrite = "--overwrite" in args
-    names = [a for a in args if a != "--overwrite"]
+    names = [a for a in args if a not in ("--overwrite", "--warnings")]
     entries, terms = index(), glossary()
     if cmd == "check" and not names:
         ps = [(i, p, e["en"]) for i, e in entries.items() if e.get("en") and e.get("status") != "data"
@@ -406,6 +407,8 @@ def main(argv):
         print(f"{len(entries)} entries, {sum(1 for e in entries.values() if e.get('en'))} in English, "
               f"{len(bad)} problems, {len(ps) - len(bad)} warnings")
         print("\n".join(bad[:200]))
+        if "--warnings" in argv:
+            print("\n".join(f"{i}: {p}: {en!r}" for i, p, en in ps if p.startswith("WARN")))
         return 1 if bad else 0
     if cmd not in ("check", "merge") or not names:
         sys.exit(__doc__)

@@ -3348,7 +3348,7 @@
  {
   "id": "e:256a10",
   "jp": "敵の装備アイテムを破壊する",
-  "en": "Destroy the enemy's equipped\nitem",
+  "en": "Destroy the enemy's equipped item",
   "status": "done",
   "slots": [
    "w:2ca08c"
@@ -3357,7 +3357,7 @@
  {
   "id": "e:256a2c",
   "jp": "敵の装備アイテムを盗み獲る",
-  "en": "Steal the enemy's equipped\nitem",
+  "en": "Steal the enemy's equipped item",
   "status": "done",
   "slots": [
    "w:2ca090"
@@ -3420,7 +3420,7 @@
  {
   "id": "e:256b04",
   "jp": "神聖攻撃で敵にダメージを与える",
-  "en": "Damage the enemy with holy\npower",
+  "en": "Damage the enemy with holy power",
   "status": "done",
   "slots": [
    "w:2ca0ac"
@@ -3465,7 +3465,7 @@
  {
   "id": "e:256bb8",
   "jp": "ユニオン内の士気とステータス異常回復",
-  "en": "Restore morale and cure\nailments in the Union",
+  "en": "Restore Union morale, cure ailments",
   "status": "done",
   "slots": [
    "w:2ca0c8"
@@ -3492,7 +3492,7 @@
  {
   "id": "e:256c24",
   "jp": "敵味方の地形を交換＋敵の命中率が低下",
-  "en": "Swap terrain with the foe +\nfoe's accuracy drops",
+  "en": "Swap terrains + lower foe's accuracy",
   "status": "done",
   "slots": [
    "w:2ca0d4"
@@ -3988,7 +3988,7 @@
  {
   "id": "e:257244",
   "jp": "エースタイプが杖／女性のみ",
-  "en": "Ace Type staff/female only",
+  "en": "Ace Type: staff/women",
   "status": "done",
   "slots": [
    "w:2ca21c"

@@ -21,7 +21,17 @@ frames.
 ## Entries never seen on a tour (10,088 EBOOT entries, all `measured? = False`)
 
 1. **Same pointer table as a seen entry** (`table_classes`: `w:` slots no more than 0x40 apart): the table's classes.
-   E.g. all 433 names in the 0x2EE82C table take the HUD name budget (72 px) because some were seen there.
+   A run stops at a `boxes.SPLITS` address (tables that touch). **Unit records** 0x2EE82C-0x2EF27C (220 x 12 bytes:
+   full name, short name or 0, team name or 0; no index aliases in the original) are classed by field
+   (`boxes.record_classes`), measured: the battle HUD (`4/20/12/10`, 72 px) draws the short name, else the full name
+   (reader 0xF38E4 -> 0x112080; 0x112038 returns the full name); full map unit lists (`4/20/12/6`, 80 px) show team
+   names. The 4-byte **place list** after it (0x2EF27C-0x2EF4CC: villages, spots, Treasure Barrel) was seen only in
+   the fight screen place bar `1/15/20/1` (e:2816e4), so it takes that 200 px budget. Font 4 is condensed (`sx` 0.8,
+   D15). Other splits: skill effects / skill use conditions at 0x2CA150, game storage messages / PSP dialog messages
+   at 0x2EDA40.
+   `boxes.ROW_OF`: skill effects (0x2CA000-0x2CA14C) draw on line 1 of the card select bottom (`2/22/14/1`, 290 px);
+   line 2 is the use condition after its label (`2/22/14/2`, 225 px). `boxes.ROWS_FROM_TEXT`: win/lose condition
+   windows take as many rows as the text has lines.
 2. **`SOURCE` ranges** (by slot address, what the table holds): battle barks and skill mottos -> bark bubble
    `1/20/20/1`; skill-unusable and morale messages -> battle panel `1/21/20/3`; place names, character catchphrases
    -> `1/30/18/1`; item/card conditions -> `2/15/14/2`; unit class names -> `2/10/14/7`; EXTRA music titles, quotes,
