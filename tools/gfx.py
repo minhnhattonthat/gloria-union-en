@@ -222,6 +222,9 @@ def layer_text(text, f, fill, stroke=0, stroke_fill=None, xscale=1.0, shear=0.0,
     ImageDraw.Draw(im).text((2 - l, 2 - t), text, font=f, fill=fill, stroke_width=stroke, stroke_fill=stroke_fill)
     if xscale != 1.0:
         im = im.resize((max(1, round(im.width * xscale)), im.height), Image.LANCZOS)
+        px = np.array(im)
+        px[px[..., 3] < 48] = 0   # Lanczos ringing: faint specks that quantize to visible dots
+        im = Image.fromarray(px)
     if shear:
         extra = int(abs(shear) * im.height) + 1
         im = im.transform((im.width + extra, im.height), Image.AFFINE, (1, shear, -extra if shear > 0 else 0, 0, 1, 0),
@@ -1006,6 +1009,64 @@ asset("ship_abilities", 2424, "ptx", 0x23a60, (9, 80, 67, 20), draw_ship_abiliti
 for _n, _o, _s in (("refit_prompt", 0x266d0, 17), ("reward_prompt", 0x2dbd0, 21)):   # one-line PTG prompts (ship, reward)
     asset(_n, 2418, "ptg", _o, (0, 0, 512, 512),
           lambda a, t, n=_n, s=_s: draw_label(a, t[n], "LiberationSans-Bold.ttf", s, dark_fill=False), resize=True)
+
+
+def draw_fixed_chip(a, text):
+    """固定 (weather fixed) on the field bar: white letters on a brown chip, table 0x2b7ffc (149, 15, 20, 16)."""
+    out = a.copy()
+    out[17:27, 149:169] = (166, 145, 125, 255)
+    white = (254, 251, 243, 255)
+    return draw_fixed(out, [((149, 17, 20, 10), text, False)], 9, stroke=0, ink=(white, white), clear=False,
+                      center=True)
+
+
+asset("weather_fixed", 3, "ptx", 0x38bd80, (149, 17, 20, 10), lambda a, t: draw_fixed_chip(a, t["wx_fixed"]),
+      section=id3_section(0x38bd80))
+
+
+def draw_cards_left(a, t):
+    """2426 card list footer: 残された戦略は… over あと [n] 枚 (the number is drawn between the two words)."""
+    # glyph boxes: NOW USING... starts at x 48 in rows 16-23, right of 枚
+    return draw_fixed(a, [((0, 0, 115, 16), t["cl_left"], False), ((0, 16, 30, 18), t["cl_only"], False),
+                          ((31, 16, 17, 18), t["cl_cards"], False)], 17, stroke=2, pad=0,
+                      ink=ink_colours(a[0:16, 0:115]))   # the small boxes' commonest light colour is a grey edge
+
+
+asset("cards_left", 2426, "ptx", 0x3520, (0, 0, 115, 34), draw_cards_left)
+asset("card_headers", 2362, "ptx", 0x9040, (0, 26, 211, 15),   # rects: table 0x2c98ba
+      lambda a, t: draw_fixed(a, [((0, 26, 155, 15), t["cd_effect"], False), ((155, 26, 56, 15), t["cd_condition"], False)],
+                              14, pad=0, stroke=0, ink=((68, 250, 255, 254),) * 2))   # plain cyan, no rim
+
+
+def card_names():
+    """The 54 card names in card order (script/eboot/data.json from e:2bccb0, メイクドール), as the text shows them."""
+    import json
+    items = json.loads((ROOT / "script" / "eboot" / "data.json").read_text("utf8"))
+    i = next(k for k, e in enumerate(items) if e["id"] == "e:2bccb0")
+    names = [e["en"] for e in items[i:i + 54]]
+    assert items[i + 53]["jp"] == "トリックスター", "card name run moved"
+    return names
+
+
+def draw_card_names(a, table, n, size, face, stroke, center):
+    rects, seen, items = table_rects(table, n), set(), []
+    for r, name in zip(rects, card_names()):
+        if tuple(r) not in seen:   # cards past the sheet's last name share one rect: draw it once
+            seen.add(tuple(r))
+            items.append((tuple(r), name, False))
+    # the sheet holds only names, and their dakuten reach into the rows between cells: start from a clear sheet
+    return draw_fixed(np.zeros_like(a), items, size, face=face, stroke=stroke, pad=0, center=center,
+                      ink=ink_colours(a))
+
+
+# card name sheets of file 2419: small (card select list), medium, large (variable-width rects); names left-aligned
+# in the fixed cells as the Japanese was
+asset("cards_small", 2419, "ptx", 0x110, (0, 0, 128, 351),
+      lambda a, t: draw_card_names(a, 0x2c704e, 54, 10, "LiberationSans-Bold.ttf", 1, False))
+asset("cards_medium", 2419, "ptx", 0x59b0, (0, 0, 160, 485),
+      lambda a, t: draw_card_names(a, 0x2c9b2a, 54, 12, "LiberationSans-Bold.ttf", 1, False))
+asset("cards_large", 2419, "ptx", 0xf380, (0, 0, 320, 420),
+      lambda a, t: draw_card_names(a, 0x2c9ce2, 39, 19, "LiberationSans-BoldItalic.ttf", 2, True))
 
 
 def gen(names=None):

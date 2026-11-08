@@ -45,6 +45,17 @@ def test_redraw_in_rect_and_writes_back(name):
                 assert old[o1[i]:o1[i + 1]].rstrip(b"\0") == bytes(b[o2[i]:o2[i + 1]]).rstrip(b"\0"), f"entry {i} changed"
 
 
+def test_two_ptg_resizes_in_one_file():
+    """refit_prompt and reward_prompt are both resized PTGs of 2418: the second is found again after the first
+    moved it (gfx.moved), and both read back."""
+    b = bytearray((gfx.FILES / "02418.bin").read_bytes())
+    imgs = {n: np.array(Image.open(gfx.GFX / f"{n}.png").convert("RGBA")) for n in ("refit_prompt", "reward_prompt")}
+    for n, img in imgs.items():
+        gfx.write(b, gfx.ASSETS[n], img)
+    for n, img in imgs.items():
+        assert gfx.same(gfx.read(bytes(b), gfx.ASSETS[n]), img).all(), n
+
+
 def test_text_tsv_has_every_key():
     t = gfx.text_tsv()
     blank = {"cnt_cards", "cnt_people"}   # Japanese counters (枚, 人) English leaves out
