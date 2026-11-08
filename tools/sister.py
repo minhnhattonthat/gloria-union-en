@@ -30,7 +30,7 @@ def main():
     t = table(a.repo)
     for line in open(os.path.join(ROOT, "work", "tl", a.batch + ".tsv"), encoding="utf8"):
         c = line.rstrip("\n").split("\t")
-        jp = c[4].replace(" / ", "\n").strip()
+        jp = c[4].replace(" / ", "{n}").strip()  # Blaze Union writes line breaks as {n}
         en = t.get(jp) or t.get(c[4].strip())
         if en:
             print(f"{c[0]}\t{c[4]}\t{en!r}")

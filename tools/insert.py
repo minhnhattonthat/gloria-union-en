@@ -132,7 +132,7 @@ class Inserter:
         t = self._text(e)
         lim = buf_limits().get(e['id'])
         if t is not None and lim is not None and fmt_bytes(t) > lim:
-            if self.mode == 'marker' and e['id'] not in self.qa and not e['en']:
+            if self.mode == 'marker' and e['id'] not in self.qa:   # marker mode ignores the English
                 t = f'[{short(e["id"])}]' + ''.join(FMT.findall(e['jp']))   # compact marker: id and codes
                 return t if fmt_bytes(t) <= lim else None
             raise ValueError(f'{e["id"]}: {fmt_bytes(t)} bytes of output, buffer holds {lim} (tbl/fmtbuf.tsv): {t!r}')

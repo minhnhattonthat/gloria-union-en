@@ -1502,8 +1502,8 @@
  {
   "id": "e:255948",
   "jp": "クリティカル率０％",
-  "en": "",
-  "status": "todo",
+  "en": "Critical rate 0%",
+  "status": "done",
   "slots": [
    "w:2c9138"
   ]
@@ -1511,8 +1511,8 @@
  {
   "id": "e:25595c",
   "jp": "被クリティカル率５０％",
-  "en": "",
-  "status": "todo",
+  "en": "Crits taken 50%",
+  "status": "done",
   "slots": [
    "w:2c9140"
   ]
@@ -1520,8 +1520,8 @@
  {
   "id": "e:255974",
   "jp": "同ダメージで反撃",
-  "en": "",
-  "status": "todo",
+  "en": "Counters for equal\ndamage",
+  "status": "done",
   "slots": [
    "w:2c9148"
   ]
@@ -1529,8 +1529,8 @@
  {
   "id": "e:255988",
   "jp": "まれに一撃必殺",
-  "en": "",
-  "status": "todo",
+  "en": "Rare one-hit kill",
+  "status": "done",
   "slots": [
    "w:2c9150"
   ]
@@ -1538,8 +1538,8 @@
  {
   "id": "e:255998",
   "jp": "まれに猛反撃",
-  "en": "",
-  "status": "todo",
+  "en": "Rare fierce counter",
+  "status": "done",
   "slots": [
    "w:2c9158"
   ]
@@ -1547,8 +1547,8 @@
  {
   "id": "e:2559a8",
   "jp": "突撃を完全ガード",
-  "en": "",
-  "status": "todo",
+  "en": "Fully guards\ncharges",
+  "status": "done",
   "slots": [
    "w:2c9160"
   ]
@@ -1556,8 +1556,8 @@
  {
   "id": "e:2559bc",
   "jp": "投石と支援砲撃をガード",
-  "en": "",
-  "status": "todo",
+  "en": "Guards rocks and\nbombards",
+  "status": "done",
   "slots": [
    "w:2c9168"
   ]
@@ -1565,8 +1565,8 @@
  {
   "id": "e:2559d4",
   "jp": "反撃を完全ガード",
-  "en": "",
-  "status": "todo",
+  "en": "Fully guards\ncounters",
+  "status": "done",
   "slots": [
    "w:2c9170"
   ]
@@ -1574,8 +1574,8 @@
  {
   "id": "e:2559e8",
   "jp": "銃系ユニットに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs gun units",
+  "status": "done",
   "slots": [
    "w:2c9178"
   ]
@@ -1583,8 +1583,8 @@
  {
   "id": "e:2559fc",
   "jp": "銃系ユニットに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs gun units",
+  "status": "done",
   "slots": [
    "w:2c9180"
   ]
@@ -1592,8 +1592,8 @@
  {
   "id": "e:255a10",
   "jp": "全ユニットに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs all units",
+  "status": "done",
   "slots": [
    "w:2c9188"
   ]
@@ -1601,8 +1601,8 @@
  {
   "id": "e:255a24",
   "jp": "反撃不可",
-  "en": "",
-  "status": "todo",
+  "en": "Can't\ncounterattack",
+  "status": "done",
   "slots": [
    "w:2c9190"
   ]
@@ -1610,8 +1610,8 @@
  {
   "id": "e:255a30",
   "jp": "一騎討ちで必勝",
-  "en": "",
-  "status": "todo",
+  "en": "Always wins duels",
+  "status": "done",
   "slots": [
    "w:2c9198"
   ]
@@ -1619,8 +1619,8 @@
  {
   "id": "e:255a40",
   "jp": "ゲージＭＡＸになる",
-  "en": "",
-  "status": "todo",
+  "en": "Gauge goes MAX",
+  "status": "done",
   "slots": [
    "w:2c91a0"
   ]
@@ -1628,8 +1628,8 @@
  {
   "id": "e:255a54",
   "jp": "時々ゲージＭＡＸに",
-  "en": "",
-  "status": "todo",
+  "en": "Gauge MAX at times",
+  "status": "done",
   "slots": [
    "w:2c91a8"
   ]
@@ -1637,8 +1637,8 @@
  {
   "id": "e:255a68",
   "jp": "ゲージ／レート高速蓄積",
-  "en": "",
-  "status": "todo",
+  "en": "Gauge/Rate fill\nfast",
+  "status": "done",
   "slots": [
    "w:2c91b0"
   ]
@@ -1646,8 +1646,8 @@
  {
   "id": "e:255a80",
   "jp": "ゲージ／レート蓄積",
-  "en": "",
-  "status": "todo",
+  "en": "Gauge/Rate fill up",
+  "status": "done",
   "slots": [
    "w:2c91b8"
   ]
@@ -1655,8 +1655,8 @@
  {
   "id": "e:255a94",
   "jp": "ゲージ消耗",
-  "en": "",
-  "status": "todo",
+  "en": "Drains gauge",
+  "status": "done",
   "slots": [
    "w:2c91c0"
   ]
@@ -1664,8 +1664,8 @@
  {
   "id": "e:255aa0",
   "jp": "瞬間チャージ",
-  "en": "",
-  "status": "todo",
+  "en": "Instant charge",
+  "status": "done",
   "slots": [
    "w:2c91c8"
   ]
@@ -1673,8 +1673,8 @@
  {
   "id": "e:255ab0",
   "jp": "スキル持続時間２倍",
-  "en": "",
-  "status": "todo",
+  "en": "Skills last twice as\nlong",
+  "status": "done",
   "slots": [
    "w:2c91d0"
   ]
@@ -1682,8 +1682,8 @@
  {
   "id": "e:255ac4",
   "jp": "どこでも地形スキル",
-  "en": "",
-  "status": "todo",
+  "en": "Terrain skills\nanywhere",
+  "status": "done",
   "slots": [
    "w:2c91d8"
   ]
@@ -1691,8 +1691,8 @@
  {
   "id": "e:255ad8",
   "jp": "海、水辺で地形スキル可",
-  "en": "",
-  "status": "todo",
+  "en": "Terrain skills on\nsea, shore",
+  "status": "done",
   "slots": [
    "w:2c91e0"
   ]
@@ -1700,8 +1700,8 @@
  {
   "id": "e:255af0",
   "jp": "スキル使用不可",
-  "en": "",
-  "status": "todo",
+  "en": "Can't use skills",
+  "status": "done",
   "slots": [
    "w:2c91e8"
   ]
@@ -1709,8 +1709,8 @@
  {
   "id": "e:255b00",
   "jp": "常時Ａｇｇｒｅｓｓｉｖｅ",
-  "en": "",
-  "status": "todo",
+  "en": "Always Aggressive",
+  "status": "done",
   "slots": [
    "w:2c91f0"
   ]
@@ -1718,8 +1718,8 @@
  {
   "id": "e:255b1c",
   "jp": "全属性攻撃力絶大",
-  "en": "",
-  "status": "todo",
+  "en": "Huge power, all\nelements",
+  "status": "done",
   "slots": [
    "w:2c91f8"
   ]
@@ -1727,8 +1727,8 @@
  {
   "id": "e:255b30",
   "jp": "火炎攻撃力アップ",
-  "en": "",
-  "status": "todo",
+  "en": "Fire attack up",
+  "status": "done",
   "slots": [
    "w:2c9200"
   ]
@@ -1736,8 +1736,8 @@
  {
   "id": "e:255b44",
   "jp": "冷気攻撃力アップ",
-  "en": "",
-  "status": "todo",
+  "en": "Cold attack up",
+  "status": "done",
   "slots": [
    "w:2c9208"
   ]
@@ -1745,8 +1745,8 @@
  {
   "id": "e:255b58",
   "jp": "雷撃攻撃力アップ",
-  "en": "",
-  "status": "todo",
+  "en": "Lightning attack up",
+  "status": "done",
   "slots": [
    "w:2c9210"
   ]
@@ -1754,8 +1754,8 @@
  {
   "id": "e:255b6c",
   "jp": "神聖攻撃力アップ",
-  "en": "",
-  "status": "todo",
+  "en": "Holy attack up",
+  "status": "done",
   "slots": [
    "w:2c9218"
   ]
@@ -1763,8 +1763,8 @@
  {
   "id": "e:255b80",
   "jp": "暗黒攻撃力アップ",
-  "en": "",
-  "status": "todo",
+  "en": "Dark attack up",
+  "status": "done",
   "slots": [
    "w:2c9220"
   ]
@@ -1772,8 +1772,8 @@
  {
   "id": "e:255b94",
   "jp": "クリティカル回避",
-  "en": "",
-  "status": "todo",
+  "en": "Avoids criticals",
+  "status": "done",
   "slots": [
    "w:2c9228"
   ]
@@ -1781,8 +1781,8 @@
  {
   "id": "e:255ba8",
   "jp": "パニック回避",
-  "en": "",
-  "status": "todo",
+  "en": "Avoids panic",
+  "status": "done",
   "slots": [
    "w:2c9230"
   ]
@@ -1790,8 +1790,8 @@
  {
   "id": "e:255bb8",
   "jp": "相手が必ず猛反撃",
-  "en": "",
-  "status": "todo",
+  "en": "Foe always\ncounters hard",
+  "status": "done",
   "slots": [
    "w:2c9238"
   ]
@@ -1799,8 +1799,8 @@
  {
   "id": "e:255bcc",
   "jp": "ステータス異常回復",
-  "en": "",
-  "status": "todo",
+  "en": "Cures status\nailments",
+  "status": "done",
   "slots": [
    "w:2c9240"
   ]
@@ -1808,8 +1808,8 @@
  {
   "id": "e:255be0",
   "jp": "ステータス異常無効",
-  "en": "",
-  "status": "todo",
+  "en": "Immune to ailments",
+  "status": "done",
   "slots": [
    "w:2c9248"
   ]
@@ -1817,8 +1817,8 @@
  {
   "id": "e:255bf4",
   "jp": "士気ダメージ最大化",
-  "en": "",
-  "status": "todo",
+  "en": "Max morale damage",
+  "status": "done",
   "slots": [
    "w:2c9250"
   ]
@@ -1826,8 +1826,8 @@
  {
   "id": "e:255c08",
   "jp": "ＰＯＷ２５％アップ",
-  "en": "",
-  "status": "todo",
+  "en": "POW up 25%",
+  "status": "done",
   "slots": [
    "w:2c9258"
   ]
@@ -1835,8 +1835,8 @@
  {
   "id": "e:255c1c",
   "jp": "ＰＯＷ５０％アップ",
-  "en": "",
-  "status": "todo",
+  "en": "POW up 50%",
+  "status": "done",
   "slots": [
    "w:2c9260"
   ]
@@ -1844,8 +1844,8 @@
  {
   "id": "e:255c30",
   "jp": "勝利で士気吸収",
-  "en": "",
-  "status": "todo",
+  "en": "Absorb morale on\nwins",
+  "status": "done",
   "slots": [
    "w:2c9268"
   ]
@@ -1853,8 +1853,8 @@
  {
   "id": "e:255c40",
   "jp": "特定アイテムが反応",
-  "en": "",
-  "status": "todo",
+  "en": "Certain items react",
+  "status": "done",
   "slots": [
    "w:2c9270",
    "w:2c93d8"
@@ -1863,8 +1863,8 @@
  {
   "id": "e:255c54",
   "jp": "確実に戦利品出現",
-  "en": "",
-  "status": "todo",
+  "en": "Loot always\nappears",
+  "status": "done",
   "slots": [
    "w:2c9278"
   ]
@@ -1872,8 +1872,8 @@
  {
   "id": "e:255c68",
   "jp": "獲得経験値＋１",
-  "en": "",
-  "status": "todo",
+  "en": "EXP gained +1",
+  "status": "done",
   "slots": [
    "w:2c9280"
   ]
@@ -1881,8 +1881,8 @@
  {
   "id": "e:255c78",
   "jp": "獲得経験値＋２",
-  "en": "",
-  "status": "todo",
+  "en": "EXP gained +2",
+  "status": "done",
   "slots": [
    "w:2c9288"
   ]
@@ -1890,8 +1890,8 @@
  {
   "id": "e:255c88",
   "jp": "獲得経験値＋３",
-  "en": "",
-  "status": "todo",
+  "en": "EXP gained +3",
+  "status": "done",
   "slots": [
    "w:2c9290"
   ]
@@ -1899,8 +1899,8 @@
  {
   "id": "e:255c98",
   "jp": "退却ペナルティなし",
-  "en": "",
-  "status": "todo",
+  "en": "No retreat penalty",
+  "status": "done",
   "slots": [
    "w:2c9298"
   ]
@@ -1908,8 +1908,8 @@
  {
   "id": "e:255cac",
   "jp": "一度だけ再起",
-  "en": "",
-  "status": "todo",
+  "en": "Rise again once",
+  "status": "done",
   "slots": [
    "w:2c92a0"
   ]
@@ -1917,8 +1917,8 @@
  {
   "id": "e:255cbc",
   "jp": "徐々に士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale recovers\nslowly",
+  "status": "done",
   "slots": [
    "w:2c92a8"
   ]
@@ -1926,8 +1926,8 @@
  {
   "id": "e:255ccc",
   "jp": "少しずつ士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale recovers a\nlittle",
+  "status": "done",
   "slots": [
    "w:2c92b0"
   ]
@@ -1935,8 +1935,8 @@
  {
   "id": "e:255ce0",
   "jp": "海、水辺で士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale up on sea,\nshore",
+  "status": "done",
   "slots": [
    "w:2c92b8"
   ]
@@ -1944,8 +1944,8 @@
  {
   "id": "e:255cf4",
   "jp": "劣勢で士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale up when\nlosing",
+  "status": "done",
   "slots": [
    "w:2c92c0"
   ]
@@ -1953,8 +1953,8 @@
  {
   "id": "e:255d04",
   "jp": "少しずつ士気低下",
-  "en": "",
-  "status": "todo",
+  "en": "Morale drops little\nby little",
+  "status": "done",
   "slots": [
    "w:2c92c8"
   ]
@@ -1962,8 +1962,8 @@
  {
   "id": "e:255d18",
   "jp": "移動で士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale up when\nmoving",
+  "status": "done",
   "slots": [
    "w:2c92d0"
   ]
@@ -1971,8 +1971,8 @@
  {
   "id": "e:255d28",
   "jp": "移動で士気低下",
-  "en": "",
-  "status": "todo",
+  "en": "Morale down when\nmoving",
+  "status": "done",
   "slots": [
    "w:2c92d8"
   ]
@@ -1980,8 +1980,8 @@
  {
   "id": "e:255d38",
   "jp": "夜間移動で士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale up moving\nat night",
+  "status": "done",
   "slots": [
    "w:2c92e0"
   ]
@@ -1989,8 +1989,8 @@
  {
   "id": "e:255d4c",
   "jp": "夕方移動で士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale up moving\nat dusk",
+  "status": "done",
   "slots": [
    "w:2c92e8"
   ]
@@ -1998,8 +1998,8 @@
  {
   "id": "e:255d60",
   "jp": "昼間移動で士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale up moving\nby day",
+  "status": "done",
   "slots": [
    "w:2c92f0"
   ]
@@ -2007,8 +2007,8 @@
  {
   "id": "e:255d74",
   "jp": "食べて全能力アップ",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: all stats up",
+  "status": "done",
   "slots": [
    "w:2c92f8"
   ]
@@ -2016,8 +2016,8 @@
  {
   "id": "e:255d88",
   "jp": "食べてＧＥＮアップ",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: GEN up",
+  "status": "done",
   "slots": [
    "w:2c9300"
   ]
@@ -2025,8 +2025,8 @@
  {
   "id": "e:255d9c",
   "jp": "食べてＡＴＫアップ",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: ATK up",
+  "status": "done",
   "slots": [
    "w:2c9308"
   ]
@@ -2034,8 +2034,8 @@
  {
   "id": "e:255db0",
   "jp": "食べてＴＥＣアップ",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: TEC up",
+  "status": "done",
   "slots": [
    "w:2c9310"
   ]
@@ -2043,8 +2043,8 @@
  {
   "id": "e:255dc4",
   "jp": "食べてＬＵＫアップ",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: LUK up",
+  "status": "done",
   "slots": [
    "w:2c9318"
   ]
@@ -2052,8 +2052,8 @@
  {
   "id": "e:255dd8",
   "jp": "食べて何かがアップ",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: something\ngoes up",
+  "status": "done",
   "slots": [
    "w:2c9320"
   ]
@@ -2061,8 +2061,8 @@
  {
   "id": "e:255dec",
   "jp": "食べてＧＥＮダウン",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: GEN down",
+  "status": "done",
   "slots": [
    "w:2c9328"
   ]
@@ -2070,8 +2070,8 @@
  {
   "id": "e:255e00",
   "jp": "食べてＡＴＫダウン",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: ATK down",
+  "status": "done",
   "slots": [
    "w:2c9330"
   ]
@@ -2079,8 +2079,8 @@
  {
   "id": "e:255e14",
   "jp": "食べてＴＥＣダウン",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: TEC down",
+  "status": "done",
   "slots": [
    "w:2c9338"
   ]
@@ -2088,8 +2088,8 @@
  {
   "id": "e:255e28",
   "jp": "食べてＬＵＫダウン",
-  "en": "",
-  "status": "todo",
+  "en": "Eat: LUK down",
+  "status": "done",
   "slots": [
    "w:2c9340"
   ]
@@ -2097,8 +2097,8 @@
  {
   "id": "e:255e3c",
   "jp": "？？？？？？？",
-  "en": "",
-  "status": "todo",
+  "en": "???????",
+  "status": "done",
   "slots": [
    "w:2c9348"
   ]
@@ -2106,8 +2106,8 @@
  {
   "id": "e:255e4c",
   "jp": "装備変更不可",
-  "en": "",
-  "status": "todo",
+  "en": "Can't change\nequipment",
+  "status": "done",
   "slots": [
    "w:2c9350"
   ]
@@ -2115,8 +2115,8 @@
  {
   "id": "e:255e5c",
   "jp": "ドラゴンナイトになる",
-  "en": "",
-  "status": "todo",
+  "en": "Become a Dragon\nKnight",
+  "status": "done",
   "slots": [
    "w:2c9358"
   ]
@@ -2124,8 +2124,8 @@
  {
   "id": "e:255e74",
   "jp": "士気回復専用",
-  "en": "",
-  "status": "todo",
+  "en": "Morale restore\nonly",
+  "status": "done",
   "slots": [
    "w:2c9360"
   ]
@@ -2133,8 +2133,8 @@
  {
   "id": "e:255e84",
   "jp": "カード事典開覧可",
-  "en": "",
-  "status": "todo",
+  "en": "Unlocks Card\nEncyclopedia",
+  "status": "done",
   "slots": [
    "w:2c9368"
   ]
@@ -2142,8 +2142,8 @@
  {
   "id": "e:255e98",
   "jp": "音楽モード閲覧可",
-  "en": "",
-  "status": "todo",
+  "en": "Unlocks Music Mode",
+  "status": "done",
   "slots": [
    "w:2c9370"
   ]
@@ -2151,8 +2151,8 @@
  {
   "id": "e:255eac",
   "jp": "アイテム図鑑閲覧可",
-  "en": "",
-  "status": "todo",
+  "en": "Unlocks Item\nEncyclopedia",
+  "status": "done",
   "slots": [
    "w:2c9378"
   ]
@@ -2160,8 +2160,8 @@
  {
   "id": "e:255ec0",
   "jp": "キャライラスト閲覧可",
-  "en": "",
-  "status": "todo",
+  "en": "Unlocks Character\nArt",
+  "status": "done",
   "slots": [
    "w:2c9380"
   ]
@@ -2169,8 +2169,8 @@
  {
   "id": "e:255ed8",
   "jp": "グロリア航海記閲覧可",
-  "en": "",
-  "status": "todo",
+  "en": "Unlocks Gloria\nLogbook",
+  "status": "done",
   "slots": [
    "w:2c9388"
   ]
@@ -2178,8 +2178,8 @@
  {
   "id": "e:255ef0",
   "jp": "集落破壊可能",
-  "en": "",
-  "status": "todo",
+  "en": "Can destroy\nvillages",
+  "status": "done",
   "slots": [
    "w:2c9390"
   ]
@@ -2187,8 +2187,8 @@
  {
   "id": "e:255f00",
   "jp": "アイテム奪われない",
-  "en": "",
-  "status": "todo",
+  "en": "Items can't be\nstolen",
+  "status": "done",
   "slots": [
    "w:2c9398"
   ]
@@ -2196,8 +2196,8 @@
  {
   "id": "e:255f14",
   "jp": "地形の影響なし",
-  "en": "",
-  "status": "todo",
+  "en": "Unaffected by\nterrain",
+  "status": "done",
   "slots": [
    "w:2c93a0"
   ]
@@ -2205,8 +2205,8 @@
  {
   "id": "e:255f24",
   "jp": "レート上昇を抑制",
-  "en": "",
-  "status": "todo",
+  "en": "Slows Rate gain",
+  "status": "done",
   "slots": [
    "w:2c93a8"
   ]
@@ -2214,8 +2214,8 @@
  {
   "id": "e:255f38",
   "jp": "ユニオン参加不可",
-  "en": "",
-  "status": "todo",
+  "en": "Can't join a Union",
+  "status": "done",
   "slots": [
    "w:2c93b0"
   ]
@@ -2223,8 +2223,8 @@
  {
   "id": "e:255f4c",
   "jp": "特定アイテムの情報",
-  "en": "",
-  "status": "todo",
+  "en": "Info on a certain\nitem",
+  "status": "done",
   "slots": [
    "w:2c93b8"
   ]
@@ -2232,8 +2232,8 @@
  {
   "id": "e:255f60",
   "jp": "Ａ．Ｓ．シールド",
-  "en": "",
-  "status": "todo",
+  "en": "A.S. Shield",
+  "status": "done",
   "slots": [
    "w:2c93c0"
   ]
@@ -2241,8 +2241,8 @@
  {
   "id": "e:255f74",
   "jp": "Ｓ．シールド",
-  "en": "",
-  "status": "todo",
+  "en": "S. Shield",
+  "status": "done",
   "slots": [
    "w:2c93c8"
   ]
@@ -2250,8 +2250,8 @@
  {
   "id": "e:255f84",
   "jp": "ＨＰ制御システム",
-  "en": "",
-  "status": "todo",
+  "en": "HP Control System",
+  "status": "done",
   "slots": [
    "w:2c93d0"
   ]
@@ -2259,8 +2259,8 @@
  {
   "id": "e:255f98",
   "jp": "石化無効",
-  "en": "",
-  "status": "todo",
+  "en": "Immune to Stone",
+  "status": "done",
   "slots": [
    "w:2c93e0"
   ]
@@ -2268,8 +2268,8 @@
  {
   "id": "e:255fa4",
   "jp": "常にゲージ減少",
-  "en": "",
-  "status": "todo",
+  "en": "Gauge always\ndrains",
+  "status": "done",
   "slots": [
    "w:2c93e8"
   ]
@@ -2277,8 +2277,8 @@
  {
   "id": "e:255fb4",
   "jp": "常時Ｒａｇｅ以上",
-  "en": "",
-  "status": "todo",
+  "en": "Always Rage or\nhigher",
+  "status": "done",
   "slots": [
    "w:2c93f0"
   ]
@@ -2286,8 +2286,8 @@
  {
   "id": "e:255fc8",
   "jp": "Ｄ・プロテクション",
-  "en": "",
-  "status": "todo",
+  "en": "D. Protection",
+  "status": "done",
   "slots": [
    "w:2c93f8"
   ]
@@ -2295,8 +2295,8 @@
  {
   "id": "e:255fdc",
   "jp": "ＭＶＰ判定補正：小",
-  "en": "",
-  "status": "todo",
+  "en": "MVP bonus: Small",
+  "status": "done",
   "slots": [
    "w:2c9400"
   ]
@@ -2304,8 +2304,8 @@
  {
   "id": "e:255ff0",
   "jp": "ＭＶＰ判定補正：中",
-  "en": "",
-  "status": "todo",
+  "en": "MVP bonus: Medium",
+  "status": "done",
   "slots": [
    "w:2c9408"
   ]
@@ -2313,8 +2313,8 @@
  {
   "id": "e:256004",
   "jp": "ＭＶＰ判定補正：大",
-  "en": "",
-  "status": "todo",
+  "en": "MVP bonus: Large",
+  "status": "done",
   "slots": [
    "w:2c9410"
   ]
@@ -2322,8 +2322,8 @@
  {
   "id": "e:256018",
   "jp": "あらゆる敵に有効",
-  "en": "",
-  "status": "todo",
+  "en": "Works on every foe",
+  "status": "done",
   "slots": [
    "w:2c9418"
   ]
@@ -2331,8 +2331,8 @@
  {
   "id": "e:25602c",
   "jp": "エースタイプ無視",
-  "en": "",
-  "status": "todo",
+  "en": "Ignores Ace Type",
+  "status": "done",
   "slots": [
    "w:2c9420"
   ]
@@ -2340,8 +2340,8 @@
  {
   "id": "e:256040",
   "jp": "デュエル直後も移動可",
-  "en": "",
-  "status": "todo",
+  "en": "Can move after a\nDuel",
+  "status": "done",
   "slots": [
    "w:2c9428"
   ]
@@ -2349,8 +2349,8 @@
  {
   "id": "e:256058",
   "jp": "ネクロゲートを強化",
-  "en": "",
-  "status": "todo",
+  "en": "Boosts Necro Gate",
+  "status": "done",
   "slots": [
    "w:2c9430"
   ]
@@ -2358,8 +2358,8 @@
  {
   "id": "e:25606c",
   "jp": "ネシアに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Nessiah",
+  "status": "done",
   "slots": [
    "w:2c9438"
   ]
@@ -2367,8 +2367,8 @@
  {
   "id": "e:25607c",
   "jp": "一定確率で士気回復",
-  "en": "",
-  "status": "todo",
+  "en": "Morale up by\nchance",
+  "status": "done",
   "slots": [
    "w:2c9440"
   ]
@@ -2376,8 +2376,8 @@
  {
   "id": "e:256090",
   "jp": "街道・架橋地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Road,\nBridge",
+  "status": "done",
   "slots": [
    "w:2c9448"
   ]
@@ -2385,8 +2385,8 @@
  {
   "id": "e:2560a8",
   "jp": "銃突撃を完全ガード",
-  "en": "",
-  "status": "todo",
+  "en": "Fully guards gun\ncharges",
+  "status": "done",
   "slots": [
    "w:2c9450"
   ]
@@ -2394,8 +2394,8 @@
  {
   "id": "e:2560bc",
   "jp": "強攻撃ダメージ補正",
-  "en": "",
-  "status": "todo",
+  "en": "Strong Attack\ndamage up",
+  "status": "done",
   "slots": [
    "w:2c9458"
   ]
@@ -2403,8 +2403,8 @@
  {
   "id": "e:2560d0",
   "jp": "強攻撃の頻度が増加",
-  "en": "",
-  "status": "todo",
+  "en": "More Strong\nAttacks",
+  "status": "done",
   "slots": [
    "w:2c9460"
   ]
@@ -2412,8 +2412,8 @@
  {
   "id": "e:2560e4",
   "jp": "強攻撃の頻度が激増",
-  "en": "",
-  "status": "todo",
+  "en": "Far more Strong\nAttacks",
+  "status": "done",
   "slots": [
    "w:2c9468"
   ]
@@ -2421,8 +2421,8 @@
  {
   "id": "e:2560f8",
   "jp": "砂漠移動制限を無視",
-  "en": "",
-  "status": "todo",
+  "en": "Ignores desert\nlimits",
+  "status": "done",
   "slots": [
    "w:2c9470"
   ]
@@ -2430,8 +2430,8 @@
  {
   "id": "e:25610c",
   "jp": "極限で士気全回復",
-  "en": "",
-  "status": "todo",
+  "en": "Full morale in a\npinch",
+  "status": "done",
   "slots": [
    "w:2c9478"
   ]
@@ -2439,8 +2439,8 @@
  {
   "id": "e:256120",
   "jp": "吹雪ダメージは無効",
-  "en": "",
-  "status": "todo",
+  "en": "Immune to blizzards",
+  "status": "done",
   "slots": [
    "w:2c9480"
   ]
@@ -2448,8 +2448,8 @@
  {
   "id": "e:256134",
   "jp": "水上の敵に強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs foes on\nwater",
+  "status": "done",
   "slots": [
    "w:2c9488"
   ]
@@ -2457,8 +2457,8 @@
  {
   "id": "e:256144",
   "jp": "雪道・雪原地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Snow\nRoads, Fields",
+  "status": "done",
   "slots": [
    "w:2c9490"
   ]
@@ -2466,8 +2466,8 @@
  {
   "id": "e:25615c",
   "jp": "全ての地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on all terrain",
+  "status": "done",
   "slots": [
    "w:2c9498"
   ]
@@ -2475,8 +2475,8 @@
  {
   "id": "e:256170",
   "jp": "全ユニットに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs all units",
+  "status": "done",
   "slots": [
    "w:2c94a0"
   ]
@@ -2484,8 +2484,8 @@
  {
   "id": "e:256184",
   "jp": "全属性攻撃力アップ",
-  "en": "",
-  "status": "todo",
+  "en": "All element attacks\nup",
+  "status": "done",
   "slots": [
    "w:2c94a8"
   ]
@@ -2493,8 +2493,8 @@
  {
   "id": "e:256198",
   "jp": "路地・街路地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Alleys,\nStreets",
+  "status": "done",
   "slots": [
    "w:2c94b0"
   ]
@@ -2502,8 +2502,8 @@
  {
   "id": "e:2561b0",
   "jp": "浜辺地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Beach",
+  "status": "done",
   "slots": [
    "w:2c94b8"
   ]
@@ -2511,8 +2511,8 @@
  {
   "id": "e:2561c0",
   "jp": "遺跡地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Ruins",
+  "status": "done",
   "slots": [
    "w:2c94c0"
   ]
@@ -2520,8 +2520,8 @@
  {
   "id": "e:2561d0",
   "jp": "雨天に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak in rain",
+  "status": "done",
   "slots": [
    "w:2c94c8"
   ]
@@ -2529,8 +2529,8 @@
  {
   "id": "e:2561dc",
   "jp": "砲台の能力強化",
-  "en": "",
-  "status": "todo",
+  "en": "Boosts cannons",
+  "status": "done",
   "slots": [
    "w:2c94d0"
   ]
@@ -2538,8 +2538,8 @@
  {
   "id": "e:2561ec",
   "jp": "オーディオドラマ閲覧可",
-  "en": "",
-  "status": "todo",
+  "en": "Unlocks Audio\nDrama",
+  "status": "done",
   "slots": [
    "w:2c94d8"
   ]
@@ -2547,8 +2547,8 @@
  {
   "id": "e:256230",
   "jp": "■傀儡師エクシール",
-  "en": "",
-  "status": "todo",
+  "en": "■Puppet Master Exthiel",
+  "status": "done",
   "slots": [
    "w:2c95d0"
   ]
@@ -2556,8 +2556,8 @@
  {
   "id": "e:256244",
   "jp": "■屍術師ネルダ",
-  "en": "",
-  "status": "todo",
+  "en": "■The Necromancer Gnelda",
+  "status": "done",
   "slots": [
    "w:2c95d4"
   ]
@@ -2565,8 +2565,8 @@
  {
   "id": "e:256254",
   "jp": "■咎人ラウネ",
-  "en": "",
-  "status": "todo",
+  "en": "■Luane the Condemned",
+  "status": "done",
   "slots": [
    "w:2c95d8"
   ]
@@ -2574,8 +2574,8 @@
  {
   "id": "e:256264",
   "jp": "■復讐のバルダック",
-  "en": "",
-  "status": "todo",
+  "en": "■Baldack the Avenger",
+  "status": "done",
   "slots": [
    "w:2c95dc"
   ]
@@ -2583,8 +2583,8 @@
  {
   "id": "e:256278",
   "jp": "■堕天のエイミア",
-  "en": "",
-  "status": "todo",
+  "en": "■Aymia the Fallen",
+  "status": "done",
   "slots": [
    "w:2c95e0"
   ]
@@ -2592,8 +2592,8 @@
  {
   "id": "e:25628c",
   "jp": "■伝説のホーク",
-  "en": "",
-  "status": "todo",
+  "en": "■The Legendary Hawk",
+  "status": "done",
   "slots": [
    "w:2c95e4"
   ]
@@ -2601,8 +2601,8 @@
  {
   "id": "e:25629c",
   "jp": "■風魔サエザル",
-  "en": "",
-  "status": "todo",
+  "en": "■Saezar the Wind Demon",
+  "status": "done",
   "slots": [
    "w:2c95e8"
   ]
@@ -2610,8 +2610,8 @@
  {
   "id": "e:2562ac",
   "jp": "■赤月の悪魔アノン",
-  "en": "",
-  "status": "todo",
+  "en": "■Anon of the Red Moon",
+  "status": "done",
   "slots": [
    "w:2c95ec"
   ]
@@ -2619,8 +2619,8 @@
  {
   "id": "e:2562c0",
   "jp": "■鋼鉄騎士ガラド",
-  "en": "",
-  "status": "todo",
+  "en": "■Gallad, the Steel Knight",
+  "status": "done",
   "slots": [
    "w:2c95f0"
   ]
@@ -2628,8 +2628,8 @@
  {
   "id": "e:2562d4",
   "jp": "■護人ハシャハティ",
-  "en": "",
-  "status": "todo",
+  "en": "■Hasha Hatti the Protector",
+  "status": "done",
   "slots": [
    "w:2c95f4"
   ]
@@ -2637,8 +2637,8 @@
  {
   "id": "e:2562e8",
   "jp": "■大魔導マゼンデ",
-  "en": "",
-  "status": "todo",
+  "en": "■Masende, the High\nSorceress",
+  "status": "done",
   "slots": [
    "w:2c95f8"
   ]
@@ -2646,8 +2646,8 @@
  {
   "id": "e:2562fc",
   "jp": "■氷葬のエンリュケ",
-  "en": "",
-  "status": "todo",
+  "en": "■Ice Crusher Enreuke",
+  "status": "done",
   "slots": [
    "w:2c95fc"
   ]
@@ -2655,8 +2655,8 @@
  {
   "id": "e:256310",
   "jp": "■天空のルキオン",
-  "en": "",
-  "status": "todo",
+  "en": "■Ruquion of the Heavens",
+  "status": "done",
   "slots": [
    "w:2c9600"
   ]
@@ -2664,8 +2664,8 @@
  {
   "id": "e:256324",
   "jp": "■聖アスタ＝ナレフ",
-  "en": "",
-  "status": "todo",
+  "en": "■San Asta Narev",
+  "status": "done",
   "slots": [
    "w:2c9604"
   ]
@@ -2673,8 +2673,8 @@
  {
   "id": "e:256338",
   "jp": "■竜殺しの英雄ギル",
-  "en": "",
-  "status": "todo",
+  "en": "■Dragon Slaying Gill",
+  "status": "done",
   "slots": [
    "w:2c9608"
   ]
@@ -2682,8 +2682,8 @@
  {
   "id": "e:25634c",
   "jp": "■怒りの巨人ドークス",
-  "en": "",
-  "status": "todo",
+  "en": "■Doekes, Lord of Rage",
+  "status": "done",
   "slots": [
    "w:2c960c"
   ]
@@ -2691,8 +2691,8 @@
  {
   "id": "e:256364",
   "jp": "■双生のアリステラ",
-  "en": "",
-  "status": "todo",
+  "en": "■Gemini Aristella",
+  "status": "done",
   "slots": [
    "w:2c9610"
   ]
@@ -2700,8 +2700,8 @@
  {
   "id": "e:256378",
   "jp": "■戦女神ニルヴァーナ",
-  "en": "",
-  "status": "todo",
+  "en": "■Nirvana, Goddess of\nBattle",
+  "status": "done",
   "slots": [
    "w:2c9614"
   ]
@@ -2709,8 +2709,8 @@
  {
   "id": "e:256390",
   "jp": "■創生のパルティナ",
-  "en": "",
-  "status": "todo",
+  "en": "■Paltina the Creator",
+  "status": "done",
   "slots": [
    "w:2c9618"
   ]
@@ -2718,8 +2718,8 @@
  {
   "id": "e:2563a4",
   "jp": "■半獣の乙女ラクシミ",
-  "en": "",
-  "status": "todo",
+  "en": "■Laksimi the Half-Beast",
+  "status": "done",
   "slots": [
    "w:2c961c"
   ]
@@ -2727,8 +2727,8 @@
  {
   "id": "e:2563bc",
   "jp": "■聖泉の精霊キュリン",
-  "en": "",
-  "status": "todo",
+  "en": "■Cullin Fairy of the Holy\nSpring",
+  "status": "done",
   "slots": [
    "w:2c9620"
   ]
@@ -2736,8 +2736,8 @@
  {
   "id": "e:2563d4",
   "jp": "■闇の女帝ヴァネッサ",
-  "en": "",
-  "status": "todo",
+  "en": "■Vanessa, Empress of\nDarkness",
+  "status": "done",
   "slots": [
    "w:2c9624"
   ]
@@ -2745,8 +2745,8 @@
  {
   "id": "e:2563ec",
   "jp": "■占師パスラハ",
-  "en": "",
-  "status": "todo",
+  "en": "■Vasuraha the Beholder",
+  "status": "done",
   "slots": [
    "w:2c9628"
   ]
@@ -2754,8 +2754,8 @@
  {
   "id": "e:2563fc",
   "jp": "■夢見のルビナ",
-  "en": "",
-  "status": "todo",
+  "en": "■Rubina the Dreamer",
+  "status": "done",
   "slots": [
    "w:2c962c"
   ]
@@ -2763,8 +2763,8 @@
  {
   "id": "e:25640c",
   "jp": "■葬送のイオナ",
-  "en": "",
-  "status": "todo",
+  "en": "■Iona the Gravedigger",
+  "status": "done",
   "slots": [
    "w:2c9630"
   ]
@@ -2772,8 +2772,8 @@
  {
   "id": "e:25641c",
   "jp": "■樹木の精霊ドリアデ",
-  "en": "",
-  "status": "todo",
+  "en": "■Dryad, Nymph of the\nWoods",
+  "status": "done",
   "slots": [
    "w:2c9634"
   ]
@@ -2781,8 +2781,8 @@
  {
   "id": "e:256434",
   "jp": "■砂漠の番人ラーサ",
-  "en": "",
-  "status": "todo",
+  "en": "■Lhasa, Guardian of the\nDesert",
+  "status": "done",
   "slots": [
    "w:2c9638"
   ]
@@ -2790,8 +2790,8 @@
  {
   "id": "e:256448",
   "jp": "■魔性のエンドメイラ",
-  "en": "",
-  "status": "todo",
+  "en": "■Endomayla the\nEnchantress",
+  "status": "done",
   "slots": [
    "w:2c963c"
   ]
@@ -2799,8 +2799,8 @@
  {
   "id": "e:256460",
   "jp": "■小悪魔リップフェイク",
-  "en": "",
-  "status": "todo",
+  "en": "■Ripfaike the Devilish",
+  "status": "done",
   "slots": [
    "w:2c9640"
   ]
@@ -2808,8 +2808,8 @@
  {
   "id": "e:256478",
   "jp": "■獅子王アレムロンド",
-  "en": "",
-  "status": "todo",
+  "en": "■Lion King Allemronde",
+  "status": "done",
   "slots": [
    "w:2c9644"
   ]
@@ -2817,8 +2817,8 @@
  {
   "id": "e:256490",
   "jp": "■煉獄の魔竜ブロンガ",
-  "en": "",
-  "status": "todo",
+  "en": "■Brongaa, Dragon of\nPurgatory",
+  "status": "done",
   "slots": [
    "w:2c9648"
   ]
@@ -2826,8 +2826,8 @@
  {
   "id": "e:2564a8",
   "jp": "■名を奪われし天使",
-  "en": "",
-  "status": "todo",
+  "en": "■The Nameless Angel",
+  "status": "done",
   "slots": [
    "w:2c964c"
   ]
@@ -2835,8 +2835,8 @@
  {
   "id": "e:2564bc",
   "jp": "■天使長フラウヴェル",
-  "en": "",
-  "status": "todo",
+  "en": "■The Seraph Flauvel",
+  "status": "done",
   "slots": [
    "w:2c9650"
   ]
@@ -2844,8 +2844,8 @@
  {
   "id": "e:2564d4",
   "jp": "■暁のゾイエック",
-  "en": "",
-  "status": "todo",
+  "en": "■Daybreak Zoyeck",
+  "status": "done",
   "slots": [
    "w:2c9654"
   ]
@@ -2853,8 +2853,8 @@
  {
   "id": "e:2564e8",
   "jp": "■灰被りのマイメイエ",
-  "en": "",
-  "status": "todo",
+  "en": "■Mimeye of the Ashes",
+  "status": "done",
   "slots": [
    "w:2c9658"
   ]
@@ -2862,8 +2862,8 @@
  {
   "id": "e:256500",
   "jp": "■告死天使キュルケ",
-  "en": "",
-  "status": "todo",
+  "en": "■Grim Angel Kirke",
+  "status": "done",
   "slots": [
    "w:2c965c"
   ]
@@ -2871,8 +2871,8 @@
  {
   "id": "e:256514",
   "jp": "■ヘグゼーの従順たる獣人",
-  "en": "",
-  "status": "todo",
+  "en": "■Hegze's Obedient\nBeastman",
+  "status": "done",
   "slots": [
    "w:2c9660"
   ]
@@ -2880,8 +2880,8 @@
  {
   "id": "e:256530",
   "jp": "■狂風のネルガー",
-  "en": "",
-  "status": "todo",
+  "en": "■Nergar of the Mad Wind",
+  "status": "done",
   "slots": [
    "w:2c9664"
   ]
@@ -2889,8 +2889,8 @@
  {
   "id": "e:256544",
   "jp": "■加護のレティオル",
-  "en": "",
-  "status": "todo",
+  "en": "■Retiol of Protection",
+  "status": "done",
   "slots": [
    "w:2c9668"
   ]
@@ -2898,8 +2898,8 @@
  {
   "id": "e:256558",
   "jp": "■海神バラトゥロ",
-  "en": "",
-  "status": "todo",
+  "en": "■Sea God Baraturo",
+  "status": "done",
   "slots": [
    "w:2c966c"
   ]
@@ -2907,8 +2907,8 @@
  {
   "id": "e:25656c",
   "jp": "■魔人ディヴァイン",
-  "en": "",
-  "status": "todo",
+  "en": "■Divine the Fiend",
+  "status": "done",
   "slots": [
    "w:2c9670"
   ]
@@ -2916,8 +2916,8 @@
  {
   "id": "e:256580",
   "jp": "■大地神ダグザリア",
-  "en": "",
-  "status": "todo",
+  "en": "■Earth God Dagzaria",
+  "status": "done",
   "slots": [
    "w:2c9674"
   ]
@@ -2925,8 +2925,8 @@
  {
   "id": "e:256594",
   "jp": "■風天アスティボーグ",
-  "en": "",
-  "status": "todo",
+  "en": "■Wind Deity Astiborg",
+  "status": "done",
   "slots": [
    "w:2c9678"
   ]
@@ -2934,8 +2934,8 @@
  {
   "id": "e:2565ac",
   "jp": "■光冠のアルマスフィア",
-  "en": "",
-  "status": "todo",
+  "en": "■Almasphere of the Halo",
+  "status": "done",
   "slots": [
    "w:2c967c"
   ]
@@ -2943,8 +2943,8 @@
  {
   "id": "e:2565c4",
   "jp": "■魔利死天のデスティオ",
-  "en": "",
-  "status": "todo",
+  "en": "■Destio, Demon of Death",
+  "status": "done",
   "slots": [
    "w:2c9680"
   ]
@@ -2952,8 +2952,8 @@
  {
   "id": "e:2565dc",
   "jp": "■神葬するリボルク",
-  "en": "",
-  "status": "todo",
+  "en": "■Rivolk the God-Burier",
+  "status": "done",
   "slots": [
    "w:2c9684"
   ]
@@ -2961,8 +2961,8 @@
  {
   "id": "e:2565f0",
   "jp": "■リウレウスの軍勢",
-  "en": "",
-  "status": "todo",
+  "en": "■The Legions of Riureus",
+  "status": "done",
   "slots": [
    "w:2c9688"
   ]
@@ -2970,8 +2970,8 @@
  {
   "id": "e:256604",
   "jp": "■人狼ライカシルビア",
-  "en": "",
-  "status": "todo",
+  "en": "■Lycasilvia the Werewolf",
+  "status": "done",
   "slots": [
    "w:2c968c"
   ]
@@ -2979,8 +2979,8 @@
  {
   "id": "e:25661c",
   "jp": "■巨人騎士アルビオン",
-  "en": "",
-  "status": "todo",
+  "en": "■Albion, the Giant Knight",
+  "status": "done",
   "slots": [
    "w:2c9690"
   ]
@@ -2988,8 +2988,8 @@
  {
   "id": "e:256634",
   "jp": "■聖人ペルセラ",
-  "en": "",
-  "status": "todo",
+  "en": "■Saint Persela",
+  "status": "done",
   "slots": [
    "w:2c9694"
   ]
@@ -2997,8 +2997,8 @@
  {
   "id": "e:256644",
   "jp": "■恒星アンタレス",
-  "en": "",
-  "status": "todo",
+  "en": "■Antares the Star",
+  "status": "done",
   "slots": [
    "w:2c9698"
   ]
@@ -3006,8 +3006,8 @@
  {
   "id": "e:256658",
   "jp": "■清廉なる乙女ディーヴァ",
-  "en": "",
-  "status": "todo",
+  "en": "■Diva the Pure Maiden",
+  "status": "done",
   "slots": [
    "w:2c969c"
   ]
@@ -3015,8 +3015,8 @@
  {
   "id": "e:256674",
   "jp": "■渡し守のベルリッケ",
-  "en": "",
-  "status": "todo",
+  "en": "■Berricke the Ferryman",
+  "status": "done",
   "slots": [
    "w:2c96a0"
   ]
@@ -3024,8 +3024,8 @@
  {
   "id": "e:25668c",
   "jp": "■魔性の鏡カレイドス",
-  "en": "",
-  "status": "todo",
+  "en": "■Kaleidos the Bewitching\nMirror",
+  "status": "done",
   "slots": [
    "w:2c96a4"
   ]
@@ -3033,8 +3033,8 @@
  {
   "id": "e:2566a4",
   "jp": "■威力＝★★",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=★★",
+  "status": "done",
   "slots": [
    "w:2c96a8"
   ]
@@ -3042,8 +3042,8 @@
  {
   "id": "e:2566b4",
   "jp": "■威力＝自TEC＋1－敵GEN",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Own TEC+1-Foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2c96ac"
   ]
@@ -3051,8 +3051,8 @@
  {
   "id": "e:2566cc",
   "jp": "■威力＝自TEC＋2－敵GEN",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Own TEC+2-Foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2c96b0"
   ]
@@ -3060,8 +3060,8 @@
  {
   "id": "e:2566e4",
   "jp": "■威力＝自TEC＋3－敵GEN",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Own TEC+3-Foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2c96b4"
   ]
@@ -3069,8 +3069,8 @@
  {
   "id": "e:2566fc",
   "jp": "■威力＝自TEC＋4－敵GEN",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Own TEC+4-Foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2c96b8"
   ]
@@ -3078,8 +3078,8 @@
  {
   "id": "e:256714",
   "jp": "■威力＝自TEC★－敵GEN★",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Own TEC★-Foe GEN★",
+  "status": "done",
   "slots": [
    "w:2c96bc"
   ]
@@ -3087,8 +3087,8 @@
  {
   "id": "e:256730",
   "jp": "■威力＝敵残存戦力の１／２",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=1/2 foe's strength",
+  "status": "done",
   "slots": [
    "w:2c96c0"
   ]
@@ -3096,8 +3096,8 @@
  {
   "id": "e:25674c",
   "jp": "■威力＝敵ヘッド以外に∞",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Infinite, except\nfoe's Head",
+  "status": "done",
   "slots": [
    "w:2c96c4"
   ]
@@ -3105,8 +3105,8 @@
  {
   "id": "e:256768",
   "jp": "■威力＝∞",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Infinite",
+  "status": "done",
   "slots": [
    "w:2c96c8"
   ]
@@ -3114,8 +3114,8 @@
  {
   "id": "e:256774",
   "jp": "■威力＝状況により変化",
-  "en": "",
-  "status": "todo",
+  "en": "■Power=Varies",
+  "status": "done",
   "slots": [
    "w:2c96cc"
   ]
@@ -3123,8 +3123,8 @@
  {
   "id": "e:25678c",
   "jp": "■効果持続時間＝短い",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect lasts: Short",
+  "status": "done",
   "slots": [
    "w:2c96d0"
   ]
@@ -3132,8 +3132,8 @@
  {
   "id": "e:2567a4",
   "jp": "■効果持続時間＝普通",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect lasts: Normal",
+  "status": "done",
   "slots": [
    "w:2c96d4"
   ]
@@ -3141,8 +3141,8 @@
  {
   "id": "e:2567bc",
   "jp": "■効果持続時間＝長い",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect lasts: Long",
+  "status": "done",
   "slots": [
    "w:2c96d8"
   ]
@@ -3150,8 +3150,8 @@
  {
   "id": "e:2567d4",
   "jp": "■効果持続時間＝７．７７秒",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect lasts: 7.77 sec",
+  "status": "done",
   "slots": [
    "w:2c96dc"
   ]
@@ -3159,8 +3159,8 @@
  {
   "id": "e:2567f0",
   "jp": "■効力＝１００％",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect=100%",
+  "status": "done",
   "slots": [
    "w:2c96e0"
   ]
@@ -3168,8 +3168,8 @@
  {
   "id": "e:256804",
   "jp": "■効力＝ＴＥＣ依存",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect=Based on TEC",
+  "status": "done",
   "slots": [
    "w:2c96e4"
   ]
@@ -3177,8 +3177,8 @@
  {
   "id": "e:256818",
   "jp": "■効力＝自ＴＥＣ、敵ＧＥＮ依存",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect=Own TEC, foe GEN",
+  "status": "done",
   "slots": [
    "w:2c96e8"
   ]
@@ -3186,8 +3186,8 @@
  {
   "id": "e:256838",
   "jp": "■効力＝同デュエル中ずっと",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect=For this whole\nDuel",
+  "status": "done",
   "slots": [
    "w:2c96ec"
   ]
@@ -3195,8 +3195,8 @@
  {
   "id": "e:256854",
   "jp": "■効力＝同ターン内ずっと",
-  "en": "",
-  "status": "todo",
+  "en": "■Effect=For this whole\nturn",
+  "status": "done",
   "slots": [
    "w:2c96f0"
   ]
@@ -3204,8 +3204,8 @@
  {
   "id": "e:256870",
   "jp": "■成功率＝１００％",
-  "en": "",
-  "status": "todo",
+  "en": "■Success rate=100%",
+  "status": "done",
   "slots": [
    "w:2c96f4"
   ]
@@ -3213,8 +3213,8 @@
  {
   "id": "e:256884",
   "jp": "■成功時：敵の戦闘力が低下",
-  "en": "",
-  "status": "todo",
+  "en": "■On success: foe weakens",
+  "status": "done",
   "slots": [
    "w:2c96f8"
   ]
@@ -3222,8 +3222,8 @@
  {
   "id": "e:2568a0",
   "jp": "■破壊成功率＝１００％",
-  "en": "",
-  "status": "todo",
+  "en": "■Destroy rate=100%",
+  "status": "done",
   "slots": [
    "w:2c96fc"
   ]
@@ -3231,8 +3231,8 @@
  {
   "id": "e:2568b8",
   "jp": "■敵が１人の場合は無効",
-  "en": "",
-  "status": "todo",
+  "en": "■No effect on a lone foe",
+  "status": "done",
   "slots": [
    "w:2c9700"
   ]
@@ -3240,8 +3240,8 @@
  {
   "id": "e:2568d0",
   "jp": "■一騎討ちで必勝も無効化",
-  "en": "",
-  "status": "todo",
+  "en": "■Also cancels Always wins\nduels",
+  "status": "done",
   "slots": [
    "w:2c9704"
   ]
@@ -3249,8 +3249,8 @@
  {
   "id": "e:2568ec",
   "jp": "■敵のスキルゲージを破壊",
-  "en": "",
-  "status": "todo",
+  "en": "■Destroys the foe's Skill\nGauge",
+  "status": "done",
   "slots": [
    "w:2c9708"
   ]
@@ -3258,8 +3258,8 @@
  {
   "id": "e:256908",
   "jp": "■自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "",
-  "status": "todo",
+  "en": "■Works if own TEC >= foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2c970c"
   ]
@@ -3267,8 +3267,8 @@
  {
   "id": "e:256924",
   "jp": "■成功率＝25％",
-  "en": "",
-  "status": "todo",
+  "en": "■Success rate=25%",
+  "status": "done",
   "slots": [
    "w:2c9710"
   ]
@@ -3276,8 +3276,8 @@
  {
   "id": "e:256934",
   "jp": "■スキルゲージが破壊",
-  "en": "",
-  "status": "todo",
+  "en": "■Skill Gauge destroyed",
+  "status": "done",
   "slots": [
    "w:2c9714"
   ]
@@ -3285,8 +3285,8 @@
  {
   "id": "e:25694c",
   "jp": "■敵、味方のスキルゲージを破壊",
-  "en": "",
-  "status": "todo",
+  "en": "■Destroys both sides' Skill\nGauges",
+  "status": "done",
   "slots": [
    "w:2c9718"
   ]
@@ -3294,8 +3294,8 @@
  {
   "id": "e:25696c",
   "jp": "■スキル使用後に昏睡",
-  "en": "",
-  "status": "todo",
+  "en": "■Sleep after using the skill",
+  "status": "done",
   "slots": [
    "w:2c971c"
   ]
@@ -3339,8 +3339,8 @@
  {
   "id": "e:2569ec",
   "jp": "暗黒攻撃でダメージ＋呪縛状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Dark damage + Curse",
+  "status": "done",
   "slots": [
    "w:2ca088"
   ]
@@ -3348,8 +3348,8 @@
  {
   "id": "e:256a10",
   "jp": "敵の装備アイテムを破壊する",
-  "en": "",
-  "status": "todo",
+  "en": "Destroy the enemy's equipped\nitem",
+  "status": "done",
   "slots": [
    "w:2ca08c"
   ]
@@ -3357,8 +3357,8 @@
  {
   "id": "e:256a2c",
   "jp": "敵の装備アイテムを盗み獲る",
-  "en": "",
-  "status": "todo",
+  "en": "Steal the enemy's equipped\nitem",
+  "status": "done",
   "slots": [
    "w:2ca090"
   ]
@@ -3375,8 +3375,8 @@
  {
   "id": "e:256a5c",
   "jp": "敵のメンバー数を自分と同じにする",
-  "en": "",
-  "status": "todo",
+  "en": "Match foe's members to yours",
+  "status": "done",
   "slots": [
    "w:2ca098"
   ]
@@ -3384,8 +3384,8 @@
  {
   "id": "e:256a80",
   "jp": "発動中、ダメージを受けない",
-  "en": "",
-  "status": "todo",
+  "en": "No damage taken while active",
+  "status": "done",
   "slots": [
    "w:2ca09c"
   ]
@@ -3393,8 +3393,8 @@
  {
   "id": "e:256a9c",
   "jp": "火炎攻撃でダメージ＋炎上状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Fire damage + Ablaze",
+  "status": "done",
   "slots": [
    "w:2ca0a0"
   ]
@@ -3402,8 +3402,8 @@
  {
   "id": "e:256ac0",
   "jp": "冷気攻撃で敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Damage the enemy with cold",
+  "status": "done",
   "slots": [
    "w:2ca0a4"
   ]
@@ -3411,8 +3411,8 @@
  {
   "id": "e:256ae0",
   "jp": "雷撃攻撃でダメージ＋麻痺状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Lightning damage + Paralysis",
+  "status": "done",
   "slots": [
    "w:2ca0a8"
   ]
@@ -3420,8 +3420,8 @@
  {
   "id": "e:256b04",
   "jp": "神聖攻撃で敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Damage the enemy with holy\npower",
+  "status": "done",
   "slots": [
    "w:2ca0ac"
   ]
@@ -3429,8 +3429,8 @@
  {
   "id": "e:256b28",
   "jp": "近辺の石化ユニットやオブジェクトを破壊",
-  "en": "",
-  "status": "todo",
+  "en": "Destroy nearby Stone units, objects",
+  "status": "done",
   "slots": [
    "w:2ca0b4"
   ]
@@ -3438,8 +3438,8 @@
  {
   "id": "e:256b50",
   "jp": "敵メンバーを裏切らせ自分の戦力にする",
-  "en": "",
-  "status": "todo",
+  "en": "Turn foe members to your side",
+  "status": "done",
   "slots": [
    "w:2ca0b8"
   ]
@@ -3447,8 +3447,8 @@
  {
   "id": "e:256b78",
   "jp": "敵のヘッド以外を全て倒す",
-  "en": "",
-  "status": "todo",
+  "en": "Defeat every enemy but the Head",
+  "status": "done",
   "slots": [
    "w:2ca0bc"
   ]
@@ -3456,8 +3456,8 @@
  {
   "id": "e:256b94",
   "jp": "倒れた自分のメンバーを復活させる",
-  "en": "",
-  "status": "todo",
+  "en": "Revive your fallen members",
+  "status": "done",
   "slots": [
    "w:2ca0c4"
   ]
@@ -3465,8 +3465,8 @@
  {
   "id": "e:256bb8",
   "jp": "ユニオン内の士気とステータス異常回復",
-  "en": "",
-  "status": "todo",
+  "en": "Restore morale and cure\nailments in the Union",
+  "status": "done",
   "slots": [
    "w:2ca0c8"
   ]
@@ -3474,8 +3474,8 @@
  {
   "id": "e:256be0",
   "jp": "一定時間、敵を弱めるが…",
-  "en": "",
-  "status": "todo",
+  "en": "Weakens the foe for a while, but...",
+  "status": "done",
   "slots": [
    "w:2ca0cc"
   ]
@@ -3483,8 +3483,8 @@
  {
   "id": "e:256bfc",
   "jp": "発動中、自分も敵もＬＵＫを力に換える",
-  "en": "",
-  "status": "todo",
+  "en": "Both sides turn LUK into power",
+  "status": "done",
   "slots": [
    "w:2ca0d0"
   ]
@@ -3492,8 +3492,8 @@
  {
   "id": "e:256c24",
   "jp": "敵味方の地形を交換＋敵の命中率が低下",
-  "en": "",
-  "status": "todo",
+  "en": "Swap terrain with the foe +\nfoe's accuracy drops",
+  "status": "done",
   "slots": [
    "w:2ca0d4"
   ]
@@ -3501,8 +3501,8 @@
  {
   "id": "e:256c4c",
   "jp": "発動中、敵のＡＴＫを１にする",
-  "en": "",
-  "status": "todo",
+  "en": "While active, foe's ATK is 1",
+  "status": "done",
   "slots": [
    "w:2ca0d8"
   ]
@@ -3510,8 +3510,8 @@
  {
   "id": "e:256c6c",
   "jp": "つたを自在に振るい敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Lash the enemy with vines",
+  "status": "done",
   "slots": [
    "w:2ca0dc"
   ]
@@ -3519,8 +3519,8 @@
  {
   "id": "e:256c94",
   "jp": "吹きすさぶ砂嵐で敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Damage the foe with a sandstorm",
+  "status": "done",
   "slots": [
    "w:2ca0e0"
   ]
@@ -3528,8 +3528,8 @@
  {
   "id": "e:256cbc",
   "jp": "泥沼に引きずりこんで敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Drag the foe into a mire",
+  "status": "done",
   "slots": [
    "w:2ca0e4"
   ]
@@ -3537,8 +3537,8 @@
  {
   "id": "e:256ce8",
   "jp": "落石攻撃でダメージ＋鈍足状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Falling rock damage + Slow",
+  "status": "done",
   "slots": [
    "w:2ca0e8"
   ]
@@ -3546,8 +3546,8 @@
  {
   "id": "e:256d0c",
   "jp": "ユニオン内の仲間への突撃と反撃をガード",
-  "en": "",
-  "status": "todo",
+  "en": "Guards Union from charges, counters",
+  "status": "done",
   "slots": [
    "w:2ca0ec"
   ]
@@ -3555,8 +3555,8 @@
  {
   "id": "e:256d34",
   "jp": "発動中、敵のゲージ／レイジレートを減少",
-  "en": "",
-  "status": "todo",
+  "en": "Lowers foe's gauge/Rage Rate",
+  "status": "done",
   "slots": [
    "w:2ca0fc"
   ]
@@ -3573,8 +3573,8 @@
  {
   "id": "e:256d70",
   "jp": "使用者の状態により与えるダメージが変化",
-  "en": "",
-  "status": "todo",
+  "en": "Damage varies with user's state",
+  "status": "done",
   "slots": [
    "w:2ca104"
   ]
@@ -3582,8 +3582,8 @@
  {
   "id": "e:256d98",
   "jp": "狂風による攻撃でダメージ＋状態異常",
-  "en": "",
-  "status": "todo",
+  "en": "Mad-wind damage + ailment",
+  "status": "done",
   "slots": [
    "w:2ca10c"
   ]
@@ -3591,8 +3591,8 @@
  {
   "id": "e:256dbc",
   "jp": "ユニオン内の仲間のＬＵＫが上昇",
-  "en": "",
-  "status": "todo",
+  "en": "Raises LUK of Union allies",
+  "status": "done",
   "slots": [
    "w:2ca110"
   ]
@@ -3600,8 +3600,8 @@
  {
   "id": "e:256ddc",
   "jp": "敵ヘッド以外を濁流の渦に飲み込む",
-  "en": "",
-  "status": "todo",
+  "en": "Torrent swallows all but the Head",
+  "status": "done",
   "slots": [
    "w:2ca114"
   ]
@@ -3609,8 +3609,8 @@
  {
   "id": "e:256e00",
   "jp": "地獄の業火でダメージ＋火傷状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Hellfire damage + Burn",
+  "status": "done",
   "slots": [
    "w:2ca118"
   ]
@@ -3618,8 +3618,8 @@
  {
   "id": "e:256e28",
   "jp": "大地神の怒りの槍でダメージ＋敵ＧＥＮ低下",
-  "en": "",
-  "status": "todo",
+  "en": "Earth god's spear: damage + GEN down",
+  "status": "done",
   "slots": [
    "w:2ca11c"
   ]
@@ -3627,8 +3627,8 @@
  {
   "id": "e:256e54",
   "jp": "荒ぶる暴風に襲われダメージ＋命中率低下",
-  "en": "",
-  "status": "todo",
+  "en": "Tempest: damage + accuracy down",
+  "status": "done",
   "slots": [
    "w:2ca120"
   ]
@@ -3636,8 +3636,8 @@
  {
   "id": "e:256e7c",
   "jp": "敵のレイジレートを己の力に変えて放つ",
-  "en": "",
-  "status": "todo",
+  "en": "Turns foe's Rage Rate into power",
+  "status": "done",
   "slots": [
    "w:2ca124"
   ]
@@ -3654,8 +3654,8 @@
  {
   "id": "e:256ebc",
   "jp": "敵ダメージ＋２５％の確率で敵ヘッドを倒す",
-  "en": "",
-  "status": "todo",
+  "en": "Damage; 25% to fell the Head",
+  "status": "done",
   "slots": [
    "w:2ca12c"
   ]
@@ -3663,8 +3663,8 @@
  {
   "id": "e:256ee8",
   "jp": "分身が一つとなり、能力が飛躍的に向上",
-  "en": "",
-  "status": "todo",
+  "en": "Copies merge: huge power boost",
+  "status": "done",
   "slots": [
    "w:2ca130"
   ]
@@ -3672,8 +3672,8 @@
  {
   "id": "e:256f10",
   "jp": "戦闘中は操作不能＋能力が飛躍的に向上",
-  "en": "",
-  "status": "todo",
+  "en": "No control + huge power boost",
+  "status": "done",
   "slots": [
    "w:2ca134"
   ]
@@ -3681,8 +3681,8 @@
  {
   "id": "e:256f38",
   "jp": "巨大な碇を射出し敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Fire a giant anchor at the foe",
+  "status": "done",
   "slots": [
    "w:2ca138"
   ]
@@ -3690,8 +3690,8 @@
  {
   "id": "e:256f60",
   "jp": "ヘッドが死亡し、部下が全員復活する",
-  "en": "",
-  "status": "todo",
+  "en": "Head dies; all subordinates revive",
+  "status": "done",
   "slots": [
    "w:2ca13c"
   ]
@@ -3699,8 +3699,8 @@
  {
   "id": "e:256f84",
   "jp": "隕石が降り注ぎ敵味方どちらかにダメージ",
-  "en": "",
-  "status": "todo",
+  "en": "Meteors hit one side or the other",
+  "status": "done",
   "slots": [
    "w:2ca140"
   ]
@@ -3708,8 +3708,8 @@
  {
   "id": "e:256fac",
   "jp": "黄金の盾の力でスキルを無効化する",
-  "en": "",
-  "status": "todo",
+  "en": "Golden shield nullifies skills",
+  "status": "done",
   "slots": [
    "w:2ca144"
   ]
@@ -3717,8 +3717,8 @@
  {
   "id": "e:256fd0",
   "jp": "時を止めて敵に突進し敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Stop time and rush the foe",
+  "status": "done",
   "slots": [
    "w:2ca148"
   ]
@@ -3726,8 +3726,8 @@
  {
   "id": "e:256ffc",
   "jp": "相手の持つカードと同じスキル効果を発揮",
-  "en": "",
-  "status": "todo",
+  "en": "Copies the skill of the foe's card",
+  "status": "done",
   "slots": [
    "w:2ca14c"
   ]
@@ -3744,8 +3744,8 @@
  {
   "id": "e:257034",
   "jp": "ローガン専用／夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan only/Night only",
+  "status": "done",
   "slots": [
    "w:2ca154"
   ]
@@ -3753,8 +3753,8 @@
  {
   "id": "e:25704c",
   "jp": "エースタイプが合えばＯＫ！",
-  "en": "",
-  "status": "todo",
+  "en": "OK if Ace Type matches!",
+  "status": "done",
   "slots": [
    "w:2ca158",
    "w:2ca160",
@@ -3783,8 +3783,8 @@
  {
   "id": "e:257084",
   "jp": "イシュト、チェイサー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, Chaser only",
+  "status": "done",
   "slots": [
    "w:2ca164"
   ]
@@ -3802,8 +3802,8 @@
  {
   "id": "e:2570b0",
   "jp": "スナイパー専用／夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Sniper only/Night only",
+  "status": "done",
   "slots": [
    "w:2ca16c"
   ]
@@ -3811,8 +3811,8 @@
  {
   "id": "e:2570cc",
   "jp": "騎馬ユニット専用",
-  "en": "",
-  "status": "todo",
+  "en": "Cavalry units only",
+  "status": "done",
   "slots": [
    "w:2ca170"
   ]
@@ -3847,8 +3847,8 @@
  {
   "id": "e:257120",
   "jp": "ヴァルキリー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Valkyrie only",
+  "status": "done",
   "slots": [
    "w:2ca194"
   ]
@@ -3902,8 +3902,8 @@
  {
   "id": "e:257190",
   "jp": "パメラ専用／夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela only/Night only",
+  "status": "done",
   "slots": [
    "w:2ca1d8"
   ]
@@ -3970,8 +3970,8 @@
  {
   "id": "e:25721c",
   "jp": "ミネソタ・グレイ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota Gray only",
+  "status": "done",
   "slots": [
    "w:2ca214"
   ]
@@ -3988,8 +3988,8 @@
  {
   "id": "e:257244",
   "jp": "エースタイプが杖／女性のみ",
-  "en": "",
-  "status": "todo",
+  "en": "Ace Type staff/female only",
+  "status": "done",
   "slots": [
    "w:2ca21c"
   ]
@@ -4015,8 +4015,8 @@
  {
   "id": "e:2572c0",
   "jp": "なし",
-  "en": "",
-  "status": "todo",
+  "en": "None",
+  "status": "done",
   "slots": [
    "w:2ca560"
   ]
@@ -4024,8 +4024,8 @@
  {
   "id": "e:2572c8",
   "jp": "イシュト専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut only",
+  "status": "done",
   "slots": [
    "w:2ca564"
   ]
@@ -4096,8 +4096,8 @@
  {
   "id": "e:257348",
   "jp": "ガング専用",
-  "en": "",
-  "status": "todo",
+  "en": "Gangr only",
+  "status": "done",
   "slots": [
    "w:2ca584"
   ]
@@ -4105,8 +4105,8 @@
  {
   "id": "e:257354",
   "jp": "フィービー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee only",
+  "status": "done",
   "slots": [
    "w:2ca588"
   ]
@@ -4114,8 +4114,8 @@
  {
   "id": "e:257364",
   "jp": "アンヌ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Anne only",
+  "status": "done",
   "slots": [
    "w:2ca58c"
   ]
@@ -4123,8 +4123,8 @@
  {
   "id": "e:257370",
   "jp": "カミュル専用",
-  "en": "",
-  "status": "todo",
+  "en": "Kamuru only",
+  "status": "done",
   "slots": [
    "w:2ca590"
   ]
@@ -4132,8 +4132,8 @@
  {
   "id": "e:257380",
   "jp": "ユグドラ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Yggdra only",
+  "status": "done",
   "slots": [
    "w:2ca594"
   ]
@@ -4141,8 +4141,8 @@
  {
   "id": "e:257390",
   "jp": "パメラ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela only",
+  "status": "done",
   "slots": [
    "w:2ca598"
   ]
@@ -4150,8 +4150,8 @@
  {
   "id": "e:25739c",
   "jp": "イータ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Eater only",
+  "status": "done",
   "slots": [
    "w:2ca59c"
   ]
@@ -4159,8 +4159,8 @@
  {
   "id": "e:2573a8",
   "jp": "ユーフォリアの王のみ",
-  "en": "",
-  "status": "todo",
+  "en": "The King of Euforia only",
+  "status": "done",
   "slots": [
    "w:2ca5a0"
   ]
@@ -4168,8 +4168,8 @@
  {
   "id": "e:2573c0",
   "jp": "力持ちの人",
-  "en": "",
-  "status": "todo",
+  "en": "Strong people",
+  "status": "done",
   "slots": [
    "w:2ca5a4"
   ]
@@ -4177,8 +4177,8 @@
  {
   "id": "e:2573cc",
   "jp": "ガング以外",
-  "en": "",
-  "status": "todo",
+  "en": "Anyone but Gangr",
+  "status": "done",
   "slots": [
    "w:2ca5a8"
   ]
@@ -4186,8 +4186,8 @@
  {
   "id": "e:2573d8",
   "jp": "イシュト以外の男性",
-  "en": "",
-  "status": "todo",
+  "en": "Men other than Ishut",
+  "status": "done",
   "slots": [
    "w:2ca5ac"
   ]
@@ -4195,8 +4195,8 @@
  {
   "id": "e:2573ec",
   "jp": "ガング以外の男性",
-  "en": "",
-  "status": "todo",
+  "en": "Men other than Gangr",
+  "status": "done",
   "slots": [
    "w:2ca5b0"
   ]
@@ -4204,8 +4204,8 @@
  {
   "id": "e:257400",
   "jp": "イータ以外の女性",
-  "en": "",
-  "status": "todo",
+  "en": "Women other than Eater",
+  "status": "done",
   "slots": [
    "w:2ca5b4"
   ]
@@ -4213,8 +4213,8 @@
  {
   "id": "e:257414",
   "jp": "男性専用",
-  "en": "",
-  "status": "todo",
+  "en": "Men only",
+  "status": "done",
   "slots": [
    "w:2ca5b8"
   ]
@@ -4222,8 +4222,8 @@
  {
   "id": "e:257420",
   "jp": "女性専用",
-  "en": "",
-  "status": "todo",
+  "en": "Women only",
+  "status": "done",
   "slots": [
    "w:2ca5bc"
   ]
@@ -4231,8 +4231,8 @@
  {
   "id": "e:25742c",
   "jp": "重装備可能な男性",
-  "en": "",
-  "status": "todo",
+  "en": "Men who can wear heavy\ngear",
+  "status": "done",
   "slots": [
    "w:2ca5c0"
   ]
@@ -4240,8 +4240,8 @@
  {
   "id": "e:257440",
   "jp": "男性の槍タイプのみ",
-  "en": "",
-  "status": "todo",
+  "en": "Male spear types only",
+  "status": "done",
   "slots": [
    "w:2ca5c4"
   ]
@@ -4249,8 +4249,8 @@
  {
   "id": "e:257454",
   "jp": "一部の女性のみ",
-  "en": "",
-  "status": "todo",
+  "en": "Some women only",
+  "status": "done",
   "slots": [
    "w:2ca5c8"
   ]
@@ -4258,8 +4258,8 @@
  {
   "id": "e:257464",
   "jp": "Ｌｖ５以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "Requires Lv 5+",
+  "status": "done",
   "slots": [
    "w:2ca5cc"
   ]
@@ -4267,8 +4267,8 @@
  {
   "id": "e:257474",
   "jp": "Ｌｖ７以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "Requires Lv 7+",
+  "status": "done",
   "slots": [
    "w:2ca5d0"
   ]
@@ -4276,8 +4276,8 @@
  {
   "id": "e:257484",
   "jp": "Ｌｖ８以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "Requires Lv 8+",
+  "status": "done",
   "slots": [
    "w:2ca5d4"
   ]
@@ -4285,8 +4285,8 @@
  {
   "id": "e:257494",
   "jp": "Ｌｖ９以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "Requires Lv 9+",
+  "status": "done",
   "slots": [
    "w:2ca5d8"
   ]
@@ -4294,8 +4294,8 @@
  {
   "id": "e:2574a4",
   "jp": "Ｌｖ１０以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "Requires Lv 10+",
+  "status": "done",
   "slots": [
    "w:2ca5dc"
   ]
@@ -4303,8 +4303,8 @@
  {
   "id": "e:2574b8",
   "jp": "Ｌｖ１５以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "Requires Lv 15+",
+  "status": "done",
   "slots": [
    "w:2ca5e0"
   ]
@@ -4312,8 +4312,8 @@
  {
   "id": "e:2574cc",
   "jp": "Ｌｖ１８以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "Requires Lv 18+",
+  "status": "done",
   "slots": [
    "w:2ca5e4"
   ]
@@ -4321,8 +4321,8 @@
  {
   "id": "e:2574e0",
   "jp": "剣タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Sword types only",
+  "status": "done",
   "slots": [
    "w:2ca5e8"
   ]
@@ -4330,8 +4330,8 @@
  {
   "id": "e:2574f0",
   "jp": "槍タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Spear types only",
+  "status": "done",
   "slots": [
    "w:2ca5ec"
   ]
@@ -4339,8 +4339,8 @@
  {
   "id": "e:257500",
   "jp": "斧タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Axe types only",
+  "status": "done",
   "slots": [
    "w:2ca5f0"
   ]
@@ -4348,8 +4348,8 @@
  {
   "id": "e:257510",
   "jp": "銃タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Gun types only",
+  "status": "done",
   "slots": [
    "w:2ca5f4"
   ]
@@ -4357,8 +4357,8 @@
  {
   "id": "e:257520",
   "jp": "杖タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Staff types only",
+  "status": "done",
   "slots": [
    "w:2ca5f8"
   ]
@@ -4366,8 +4366,8 @@
  {
   "id": "e:257530",
   "jp": "鎌タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Scythe types only",
+  "status": "done",
   "slots": [
    "w:2ca5fc"
   ]
@@ -4375,8 +4375,8 @@
  {
   "id": "e:257540",
   "jp": "剣、槍、斧専用",
-  "en": "",
-  "status": "todo",
+  "en": "Sword, spear, axe only",
+  "status": "done",
   "slots": [
    "w:2ca600"
   ]
@@ -4384,8 +4384,8 @@
  {
   "id": "e:257550",
   "jp": "銃タイプ以外",
-  "en": "",
-  "status": "todo",
+  "en": "Anyone but gun types",
+  "status": "done",
   "slots": [
    "w:2ca604"
   ]
@@ -4393,8 +4393,8 @@
  {
   "id": "e:257560",
   "jp": "ウィッチ系専用",
-  "en": "",
-  "status": "todo",
+  "en": "Witch types only",
+  "status": "done",
   "slots": [
    "w:2ca608"
   ]
@@ -4402,8 +4402,8 @@
  {
   "id": "e:257570",
   "jp": "水棲タイプ以外",
-  "en": "",
-  "status": "todo",
+  "en": "Anyone but aquatic types",
+  "status": "done",
   "slots": [
    "w:2ca60c"
   ]
@@ -4411,8 +4411,8 @@
  {
   "id": "e:257580",
   "jp": "騎馬・水棲タイプ以外",
-  "en": "",
-  "status": "todo",
+  "en": "Not cavalry or aquatic\ntypes",
+  "status": "done",
   "slots": [
    "w:2ca610"
   ]
@@ -4429,8 +4429,8 @@
  {
   "id": "e:2575a8",
   "jp": "１８歳未満服用禁止",
-  "en": "",
-  "status": "todo",
+  "en": "Not for those under 18",
+  "status": "done",
   "slots": [
    "w:2ca618"
   ]
@@ -4438,8 +4438,8 @@
  {
   "id": "e:2575bc",
   "jp": "船専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ship only",
+  "status": "done",
   "slots": [
    "w:2ca61c"
   ]
@@ -4447,8 +4447,8 @@
  {
   "id": "e:2575c4",
   "jp": "甘系が苦手でない人",
-  "en": "",
-  "status": "todo",
+  "en": "Those who don't mind\nsweets",
+  "status": "done",
   "slots": [
    "w:2ca620"
   ]
@@ -4456,8 +4456,8 @@
  {
   "id": "e:2575d8",
   "jp": "魔力を持つ者",
-  "en": "",
-  "status": "todo",
+  "en": "Those with magic power",
+  "status": "done",
   "slots": [
    "w:2ca624"
   ]
@@ -4465,8 +4465,8 @@
  {
   "id": "e:2575e8",
   "jp": "読解力のある者",
-  "en": "",
-  "status": "todo",
+  "en": "Those who can read well",
+  "status": "done",
   "slots": [
    "w:2ca628"
   ]
@@ -4474,8 +4474,8 @@
  {
   "id": "e:2575f8",
   "jp": "ラズベリー以外",
-  "en": "",
-  "status": "todo",
+  "en": "Anyone but Raspberry",
+  "status": "done",
   "slots": [
    "w:2ca62c"
   ]
@@ -4483,8 +4483,8 @@
  {
   "id": "e:257608",
   "jp": "ゲテモノＯＫな人",
-  "en": "",
-  "status": "todo",
+  "en": "Those OK with weird food",
+  "status": "done",
   "slots": [
    "w:2ca630"
   ]
@@ -4492,8 +4492,8 @@
  {
   "id": "e:25761c",
   "jp": "菜食主義者以外",
-  "en": "",
-  "status": "todo",
+  "en": "Anyone but vegetarians",
+  "status": "done",
   "slots": [
    "w:2ca634"
   ]
@@ -4501,8 +4501,8 @@
  {
   "id": "e:25762c",
   "jp": "指が細い人のみ",
-  "en": "",
-  "status": "todo",
+  "en": "Slender fingers only",
+  "status": "done",
   "slots": [
    "w:2ca638"
   ]
@@ -4510,8 +4510,8 @@
  {
   "id": "e:25763c",
   "jp": "シッポの似合う人",
-  "en": "",
-  "status": "todo",
+  "en": "Those who suit a tail",
+  "status": "done",
   "slots": [
    "w:2ca63c"
   ]
@@ -4519,8 +4519,8 @@
  {
   "id": "e:257650",
   "jp": "派手なものが好きな人",
-  "en": "",
-  "status": "todo",
+  "en": "Those who like flashy\nthings",
+  "status": "done",
   "slots": [
    "w:2ca640"
   ]
@@ -4528,8 +4528,8 @@
  {
   "id": "e:257668",
   "jp": "指の太い人",
-  "en": "",
-  "status": "todo",
+  "en": "Those with thick fingers",
+  "status": "done",
   "slots": [
    "w:2ca644"
   ]
@@ -4537,8 +4537,8 @@
  {
   "id": "e:257674",
   "jp": "牛乳嫌いな人以外",
-  "en": "",
-  "status": "todo",
+  "en": "Anyone who doesn't hate\nmilk",
+  "status": "done",
   "slots": [
    "w:2ca648"
   ]
@@ -4546,8 +4546,8 @@
  {
   "id": "e:257688",
   "jp": "全員装備可能",
-  "en": "",
-  "status": "todo",
+  "en": "Anyone can equip",
+  "status": "done",
   "slots": [
    "w:2ca64c"
   ]
@@ -4555,8 +4555,8 @@
  {
   "id": "e:257698",
   "jp": "全員装備不可",
-  "en": "",
-  "status": "todo",
+  "en": "No one can equip",
+  "status": "done",
   "slots": [
    "w:2ca650"
   ]
@@ -4888,8 +4888,8 @@
  {
   "id": "e:257948",
   "jp": "ラウーガ",
-  "en": "",
-  "status": "todo",
+  "en": "Rauga",
+  "status": "done",
   "slots": [
    "w:2ca9b0"
   ]
@@ -5059,8 +5059,8 @@
  {
   "id": "e:257a74",
   "jp": "最大士気が上昇しました。",
-  "en": "",
-  "status": "todo",
+  "en": "Maximum morale increased.",
+  "status": "done",
   "slots": [
    "w:2caa5c"
   ]
@@ -5068,8 +5068,8 @@
  {
   "id": "e:257a94",
   "jp": "戦利品回収を終了する",
-  "en": "",
-  "status": "todo",
+  "en": "End spoils collection",
+  "status": "done",
   "slots": [
    "w:2caa64"
   ]
@@ -5077,8 +5077,8 @@
  {
   "id": "e:257aac",
   "jp": "入手カード確認終了",
-  "en": "",
-  "status": "todo",
+  "en": "Done viewing new cards",
+  "status": "done",
   "slots": [
    "w:2caa68"
   ]
@@ -5086,8 +5086,8 @@
  {
   "id": "e:257ac0",
   "jp": "次のカードへ",
-  "en": "",
-  "status": "todo",
+  "en": "Next card",
+  "status": "done",
   "slots": [
    "w:2caa6c"
   ]
@@ -5095,8 +5095,8 @@
  {
   "id": "e:257ad0",
   "jp": "カードデータを見る",
-  "en": "",
-  "status": "todo",
+  "en": "View card data",
+  "status": "done",
   "slots": [
    "w:2caa70"
   ]
@@ -5104,8 +5104,8 @@
  {
   "id": "e:257ae4",
   "jp": "ＭＶＰの確認を終了",
-  "en": "",
-  "status": "todo",
+  "en": "Done viewing MVP",
+  "status": "done",
   "slots": [
    "w:2caa74"
   ]
@@ -5113,8 +5113,8 @@
  {
   "id": "e:257af8",
   "jp": "未回収の戦利品はありません。",
-  "en": "",
-  "status": "todo",
+  "en": "No spoils left to collect.",
+  "status": "done",
   "slots": [
    "w:2caa78"
   ]
@@ -5122,8 +5122,8 @@
  {
   "id": "e:257b18",
   "jp": "新たなカードはありません。",
-  "en": "",
-  "status": "todo",
+  "en": "No new cards.",
+  "status": "done",
   "slots": [
    "w:2caa7c"
   ]
@@ -5131,8 +5131,8 @@
  {
   "id": "e:257b34",
   "jp": "傀儡師の弦先に眠る\n大いなる破壊者。\n無言の呼びかけに\n今、目醒めん…",
-  "en": "",
-  "status": "todo",
+  "en": "The great destroyer asleep at the puppeteer's strings. At a silent call, it now awakes...",
+  "status": "done",
   "slots": [
    "w:2caad0"
   ]
@@ -5140,8 +5140,8 @@
  {
   "id": "e:257b78",
   "jp": "憎しみの力を以て\n冥府の門を叩く死者。\n我こそは扉を開く者なり…",
-  "en": "",
-  "status": "todo",
+  "en": "The dead who knock at the gate of the underworld with the power of hate. I am the one who opens the door...",
+  "status": "done",
   "slots": [
    "w:2caad4"
   ]
@@ -5149,8 +5149,8 @@
  {
   "id": "e:257bb8",
   "jp": "時の移ろいとともに\n消えゆく罪の記憶。\n石化の断罪を以て\nここに留めん…",
-  "en": "",
-  "status": "todo",
+  "en": "Memories of sin that fade with the passage of time. By stone's judgment, stay here...",
+  "status": "done",
   "slots": [
    "w:2caad8"
   ]
@@ -5158,8 +5158,8 @@
  {
   "id": "e:257c00",
   "jp": "毒に冒され\n非業の死を遂げた探求者。\n彼の終わりなき復讐が\n静かに始まる…",
-  "en": "",
-  "status": "todo",
+  "en": "A seeker poisoned, dead by a cruel fate. His endless revenge quietly begins...",
+  "status": "done",
   "slots": [
    "w:2caadc"
   ]
@@ -5167,8 +5167,8 @@
  {
   "id": "e:257c48",
   "jp": "光を奪われ\n翼を封じられた天使。\n鉄の檻こそが\n唯一つの空とならん…",
-  "en": "",
-  "status": "todo",
+  "en": "An angel robbed of light, her wings sealed. The iron cage is her only sky...",
+  "status": "done",
   "slots": [
    "w:2caae0"
   ]
@@ -5176,8 +5176,8 @@
  {
   "id": "e:257c8c",
   "jp": "歴戦の中で磨かれた\n華麗なる剣技。\n悪鬼魔獣の牙をも砕かん…",
-  "en": "",
-  "status": "todo",
+  "en": "A dazzling sword skill honed in many battles. It shatters even the fangs of demons...",
+  "status": "done",
   "slots": [
    "w:2caae4"
   ]
@@ -5185,8 +5185,8 @@
  {
   "id": "e:257cc8",
   "jp": "風を裂き、如何なるものも\n奪い取る影。\nたとえそれが\n神の財宝であろうとも…",
-  "en": "",
-  "status": "todo",
+  "en": "A shadow that splits the wind and steals anything at all. Even the treasures of the gods...",
+  "status": "done",
   "slots": [
    "w:2caae8"
   ]
@@ -5194,8 +5194,8 @@
  {
   "id": "e:257d14",
   "jp": "紅の月の夜に現れる\n狂気の悪魔。\nその爪から\n血の雨が降りそそぐ…",
-  "en": "",
-  "status": "todo",
+  "en": "A mad demon who appears on crimson moonlit nights. A rain of blood falls from its claws...",
+  "status": "done",
   "slots": [
    "w:2caaec"
   ]
@@ -5203,8 +5203,8 @@
  {
   "id": "e:257d54",
   "jp": "戦場を蹂躙する\n鋼鉄の人馬。\nその槍は全てを土に還す…",
-  "en": "",
-  "status": "todo",
+  "en": "Iron cavalry that trample the battlefield. Their spears return all things to the earth...",
+  "status": "done",
   "slots": [
    "w:2caaf0"
   ]
@@ -5212,8 +5212,8 @@
  {
   "id": "e:257d8c",
   "jp": "戦塵の中に現れる\n聖杖の賢者。\nその杖、弱者を照らす\n光の盾とならん…",
-  "en": "",
-  "status": "todo",
+  "en": "A sage with a holy staff, appearing in the dust of war. That staff is a shield of light for the weak...",
+  "status": "done",
   "slots": [
    "w:2caaf4"
   ]
@@ -5221,8 +5221,8 @@
  {
   "id": "e:257dd0",
   "jp": "地獄の業火を纏った\n紅の魔導師。\n炎の化身が\n雄々しく牙をむく…",
-  "en": "",
-  "status": "todo",
+  "en": "A crimson mage clad in hellfire. An avatar of flame bares its fangs...",
+  "status": "done",
   "slots": [
    "w:2caaf8"
   ]
@@ -5230,8 +5230,8 @@
  {
   "id": "e:257e10",
   "jp": "幾多の悲しみを閉じ込める\n氷の柩。\n冷たき息吹が死を誘う…",
-  "en": "",
-  "status": "todo",
+  "en": "A coffin of ice locking in countless sorrows. Its cold breath beckons death...",
+  "status": "done",
   "slots": [
    "w:2caafc"
   ]
@@ -5239,8 +5239,8 @@
  {
   "id": "e:257e4c",
   "jp": "閃光と共に天空を駆ける\n気まぐれな雷神。\nその指先から迅雷が走る…",
-  "en": "",
-  "status": "todo",
+  "en": "A whimsical thunder god racing across the sky in a flash. Lightning runs from his fingertips...",
+  "status": "done",
   "slots": [
    "w:2cab00"
   ]
@@ -5248,8 +5248,8 @@
  {
   "id": "e:257e90",
   "jp": "地に生を受けながら\nその心は天上にあり。\n聖光を以て魔を討たん…",
-  "en": "",
-  "status": "todo",
+  "en": "Born on earth, heart in heaven. With holy light, he smites evil...",
+  "status": "done",
   "slots": [
    "w:2cab04"
   ]
@@ -5257,8 +5257,8 @@
  {
   "id": "e:257ed0",
   "jp": "秘剣と秘技を以て\n魔竜を倒した男、ギル。\n英雄死すとも、その刃\n未だ朽ちるを知らず…",
-  "en": "",
-  "status": "todo",
+  "en": "Gill, the man who felled the demon dragon with secret arts. The hero is dead, but his blade has yet to rust...",
+  "status": "done",
   "slots": [
    "w:2cab08"
   ]
@@ -5266,8 +5266,8 @@
  {
   "id": "e:257f24",
   "jp": "神に代わりて\n断罪を行う怒れる巨人。\n破滅の鉄槌が\n大地を揺るがす…",
-  "en": "",
-  "status": "todo",
+  "en": "An angry giant who passes judgment in God's place. His hammer of ruin shakes the earth...",
+  "status": "done",
   "slots": [
    "w:2cab0c"
   ]
@@ -5275,8 +5275,8 @@
  {
   "id": "e:257f68",
   "jp": "片翼を持って生まれた\n双生の女神。\n不完全な身体に\n少女の心はたゆたう…",
-  "en": "",
-  "status": "todo",
+  "en": "Twin goddess born with one wing. In her imperfect body, a girl's heart drifts...",
+  "status": "done",
   "slots": [
    "w:2cab10"
   ]
@@ -5284,8 +5284,8 @@
  {
   "id": "e:257fb0",
   "jp": "悲劇的な革命の中に\n生まれた伝説の戦乙女。\n絶望の淵に降臨し、\n勝利を謳う…",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary war maiden born of tragic revolution. Descending on despair, she sings of victory...",
+  "status": "done",
   "slots": [
    "w:2cab14"
   ]
@@ -5293,8 +5293,8 @@
  {
   "id": "e:257ffc",
   "jp": "鳳凰ミュルミナムスの\n慈愛を一身に受けし\n天来の皇女パルティナ。\n混沌の闇を光で照らす…",
-  "en": "",
-  "status": "todo",
+  "en": "Paltina, heaven-sent princess, blessed by the love of Phoenix Myurminamus. She lights the dark of chaos...",
+  "status": "done",
   "slots": [
    "w:2cab18"
   ]
@@ -5302,8 +5302,8 @@
  {
   "id": "e:258054",
   "jp": "深き森の中、知られざる\n聖域に棲む乙女。\n戦い疲れた兵士に\nひと時の安息をもたらす…",
-  "en": "",
-  "status": "todo",
+  "en": "A maiden in an unknown sanctuary deep in the forest. She brings weary soldiers a moment of rest...",
+  "status": "done",
   "slots": [
    "w:2cab1c"
   ]
@@ -5311,8 +5311,8 @@
  {
   "id": "e:2580a8",
   "jp": "全ての穢れを落とす\nと云われる聖なる泉。\n棲まう精霊たちの\n心地よい歌声が聴こえる…",
-  "en": "",
-  "status": "todo",
+  "en": "A holy spring said to wash all stains away. The sweet songs of the spirits who live there can be heard...",
+  "status": "done",
   "slots": [
    "w:2cab20"
   ]
@@ -5320,8 +5320,8 @@
  {
   "id": "e:2580fc",
   "jp": "漆黒の闇より出でる\n妖艶なる悪魔。\n赤き瞳に魅せられた者は\n一夜の快楽に酔いしれる…",
-  "en": "",
-  "status": "todo",
+  "en": "A bewitching demon from pitch-dark night. Those charmed by her red eyes drown in one night's delight...",
+  "status": "done",
   "slots": [
    "w:2cab24"
   ]
@@ -5329,8 +5329,8 @@
  {
   "id": "e:258150",
   "jp": "光見えぬ目で未来を見、\n物言わぬ口で語る占師。\n全ての運命は\n彼のカードに映る…",
-  "en": "",
-  "status": "todo",
+  "en": "A seer who sees the future with sightless eyes and speaks with a silent mouth. All fates show in his cards...",
+  "status": "done",
   "slots": [
    "w:2cab28"
   ]
@@ -5338,8 +5338,8 @@
  {
   "id": "e:2581a0",
   "jp": "気まぐれな妖精と\n虹色の水晶玉。\n彼女の見る夢は\n蜃気楼の彼方に現れる…",
-  "en": "",
-  "status": "todo",
+  "en": "A whimsical fairy and a rainbow crystal ball. The dreams she sees appear beyond the mirage...",
+  "status": "done",
   "slots": [
    "w:2cab2c"
   ]
@@ -5347,8 +5347,8 @@
  {
   "id": "e:2581e8",
   "jp": "死に逝く者を選定し、\n死を告げる乙女。\nその悲痛なる叫びが\n矢のごとく突き刺さる…",
-  "en": "",
-  "status": "todo",
+  "en": "A maiden who chooses those who die and tells them of death. Her sorrowful cry pierces like an arrow...",
+  "status": "done",
   "slots": [
    "w:2cab30"
   ]
@@ -5356,8 +5356,8 @@
  {
   "id": "e:258238",
   "jp": "樹木とともに生きる\n気高き精霊。\n森を守るが為、\nその茨の蔦で打ちつける…",
-  "en": "",
-  "status": "todo",
+  "en": "A noble spirit living with the trees. To protect the forest, she lashes out with thorny vines...",
+  "status": "done",
   "slots": [
    "w:2cab34"
   ]
@@ -5365,8 +5365,8 @@
  {
   "id": "e:258280",
   "jp": "大いなる砂の海を\n見守る番人。\n秩序を乱す者に\n砂嵐の制裁が下る…",
-  "en": "",
-  "status": "todo",
+  "en": "A guardian of the great sea of sand. A sandstorm's punishment falls on those who break the order...",
+  "status": "done",
   "slots": [
    "w:2cab38"
   ]
@@ -5374,8 +5374,8 @@
  {
   "id": "e:2582c0",
   "jp": "その美貌を\n女神に妬まれた娘。\n近づく者を底なし沼へと\n引きずり込む…",
-  "en": "",
-  "status": "todo",
+  "en": "A girl whose beauty made a goddess jealous. She drags all who approach into a bottomless swamp...",
+  "status": "done",
   "slots": [
    "w:2cab3c"
   ]
@@ -5383,8 +5383,8 @@
  {
   "id": "e:258304",
   "jp": "人里離れた荒野に棲む\n悪戯好きの小悪魔。\n雲ひとつない空に\n岩石の雨が降る…",
-  "en": "",
-  "status": "todo",
+  "en": "A mischievous little devil living in the far wilds. A rain of rocks falls from a cloudless sky...",
+  "status": "done",
   "slots": [
    "w:2cab40"
   ]
@@ -5392,8 +5392,8 @@
  {
   "id": "e:258350",
   "jp": "幾多の外敵から祖国を\n守り抜きし稀代の皇帝。\n彼の軍旗の下にこそ\n勝利は在る…",
-  "en": "",
-  "status": "todo",
+  "en": "A peerless emperor who defended his homeland from many foes. Under his banner lies victory...",
+  "status": "done",
   "slots": [
    "w:2cab44"
   ]
@@ -5401,8 +5401,8 @@
  {
   "id": "e:25839c",
   "jp": "紅蓮の邪気を纏い\n大地より出でし魔竜。\n狂える炎は\n世界を地獄に変える…",
-  "en": "",
-  "status": "todo",
+  "en": "A demon dragon rising from the earth, clad in crimson evil. Its mad flames turn the world to hell...",
+  "status": "done",
   "slots": [
    "w:2cab48"
   ]
@@ -5410,8 +5410,8 @@
  {
   "id": "e:2583e4",
   "jp": "死ぬことも叶わず、\n生きることも叶わず。\nその罰、ただ、\n転生を繰り返すのみ…",
-  "en": "",
-  "status": "todo",
+  "en": "Unable to die, unable to live. Their penalty is only endless rebirth...",
+  "status": "done",
   "slots": [
    "w:2cab4c"
   ]
@@ -5419,8 +5419,8 @@
  {
   "id": "e:258430",
   "jp": "穢れなき神界に\n鍵をかける大いなる守護者。\n禁忌を犯す者に\n天の裁きが下る…",
-  "en": "",
-  "status": "todo",
+  "en": "The great guardian who locks the pure Heaven. Heaven's judgment falls on those who break the taboo...",
+  "status": "done",
   "slots": [
    "w:2cab50"
   ]
@@ -5428,8 +5428,8 @@
  {
   "id": "e:25847c",
   "jp": "暁を呼ぶ賢者が\n黎明の鐘を打ち鳴らすとき、\n乱世に垂れる深き\n暗雲の帳は引き裂かれる…",
-  "en": "",
-  "status": "todo",
+  "en": "When the sage who calls the dawn rings its bell, the dark clouds over this chaotic age are torn away...",
+  "status": "done",
   "slots": [
    "w:2cab54"
   ]
@@ -5437,8 +5437,8 @@
  {
   "id": "e:2584d0",
   "jp": "忌み人の衣を纏い、\nまどろみに生きる妖魔。\n彼の者の降らす灰は\n夢見の雪のごとく…",
-  "en": "",
-  "status": "todo",
+  "en": "A demon wrapped in the robes of outcasts, living in slumber. The ash it rains is like the snow of dreams...",
+  "status": "done",
   "slots": [
    "w:2cab58"
   ]
@@ -5446,8 +5446,8 @@
  {
   "id": "e:258520",
   "jp": "持たざる者の手によりて\n紡がれた漆黒の翼。\nその器に宿す力の本質は、\nはたして神や否や…",
-  "en": "",
-  "status": "todo",
+  "en": "Pitch-black wings woven by the hand of one who has nothing. Is the power in that vessel truly divine, or not...",
+  "status": "done",
   "slots": [
    "w:2cab5c"
   ]
@@ -5455,8 +5455,8 @@
  {
   "id": "e:258578",
   "jp": "契約に籠められた\n雄雄しい光。\n獣王の誇り高き叫びは\n味方を力強く鼓舞する…",
-  "en": "",
-  "status": "todo",
+  "en": "A valiant light held in a contract. The beast king's proud cry mightily rouses allies...",
+  "status": "done",
   "slots": [
    "w:2cab60"
   ]
@@ -5464,8 +5464,8 @@
  {
   "id": "e:2585c4",
   "jp": "人々に災いを運ぶ\n狂気の悪魔。\n不幸の風に乗りて\n苦痛を撒き散らす…",
-  "en": "",
-  "status": "todo",
+  "en": "A mad demon who brings people disaster. It rides the winds of misfortune, scattering pain...",
+  "status": "done",
   "slots": [
    "w:2cab64"
   ]
@@ -5473,8 +5473,8 @@
  {
   "id": "e:258608",
   "jp": "奇跡を引き寄せ\n逆境を越える不屈の射手。\nその指が弓の弦を離れた時\n勝利は必然へと歩み寄る…",
-  "en": "",
-  "status": "todo",
+  "en": "An unyielding archer who draws miracles. When his fingers leave the bowstring, victory is at hand...",
+  "status": "done",
   "slots": [
    "w:2cab68"
   ]
@@ -5482,8 +5482,8 @@
  {
   "id": "e:258664",
   "jp": "深淵より出で、\n全てを飲み込む濁流の巨腕。\nその腕に飲み込まれた者は\n二度と海上に出る事は無い",
-  "en": "",
-  "status": "todo",
+  "en": "Rising from the abyss, the giant arm of a raging torrent swallows all. Those it swallows never surface again",
+  "status": "done",
   "slots": [
    "w:2cab6c"
   ]
@@ -5491,8 +5491,8 @@
  {
   "id": "e:2586c0",
   "jp": "地獄の鎌の番人は、\n触れるもの皆焼き尽くす。\nそこに残されるのは、\n灰燼となった人間のみ…",
-  "en": "",
-  "status": "todo",
+  "en": "The guardian of hell's scythe burns all it touches. All that remains is people turned to ash...",
+  "status": "done",
   "slots": [
    "w:2cab70"
   ]
@@ -5500,8 +5500,8 @@
  {
   "id": "e:258718",
   "jp": "大地の化身、即ち神、\n彼に逆らうものは貫かれる。\n大地を汚す咎人は、\n皆一様に貫かれるのみ",
-  "en": "",
-  "status": "todo",
+  "en": "The avatar of the earth is a god; all who defy him are pierced. Sinners who foul the earth are pierced, one and all",
+  "status": "done",
   "slots": [
    "w:2cab74"
   ]
@@ -5509,8 +5509,8 @@
  {
   "id": "e:258770",
   "jp": "一陣の風が吹いた時、\nそこにあるのは惨劇のみ。\n風神による剣撃は、\nただ無慈悲に人を斬る…",
-  "en": "",
-  "status": "todo",
+  "en": "When a gust of wind blows, only tragedy remains. The wind god's sword cuts people down without mercy...",
+  "status": "done",
   "slots": [
    "w:2cab78"
   ]
@@ -5518,8 +5518,8 @@
  {
   "id": "e:2587c8",
   "jp": "光背を浴びる聖女。\n彼女は全てを統べる者。\n誰一人彼女に敵はいない、\nいるのはただ従う者だけ…",
-  "en": "",
-  "status": "todo",
+  "en": "A holy woman bathed in a halo. She rules over all. No one is her enemy; there are only those who obey...",
+  "status": "done",
   "slots": [
    "w:2cab7c"
   ]
@@ -5527,8 +5527,8 @@
  {
   "id": "e:258824",
   "jp": "永遠に満ちぬ欲望の闇。\n欲しい、まだ欲しい…。\nいつしかその欲望は、\n世界をも喰らう事だろう…",
-  "en": "",
-  "status": "todo",
+  "en": "The darkness of a desire never filled. I want it, I want more... One day that desire will devour even the world...",
+  "status": "done",
   "slots": [
    "w:2cab80"
   ]
@@ -5536,8 +5536,8 @@
  {
   "id": "e:258880",
   "jp": "神を穿つ槍を持つ人間。\n神を見下し、神を葬る…。\n彼は言った、\n殺せない神などいないと…",
-  "en": "",
-  "status": "todo",
+  "en": "A man with a spear that pierces gods. He looks down on gods and buries them... He said there is no god that cannot be killed...",
+  "status": "done",
   "slots": [
    "w:2cab84"
   ]
@@ -5545,8 +5545,8 @@
  {
   "id": "e:2588d8",
   "jp": "拡散した軍勢が一になる時\n一人の英雄が生まれる…。\n塵に等しき一人の力が、\n集う事で英雄となるのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "When a scattered army becomes one, a hero is born... The power of one, no more than dust, gathers and becomes a hero!",
+  "status": "done",
   "slots": [
    "w:2cab88"
   ]
@@ -5554,8 +5554,8 @@
  {
   "id": "e:25893c",
   "jp": "一度目覚めた獣の血は、\n飢えが止むまで暴れ続ける。\n飢えが止んだ時\nそこには一匹の獣だけ…",
-  "en": "",
-  "status": "todo",
+  "en": "Once awakened, beast blood rages until its hunger stops. When the hunger stops, only a single beast remains...",
+  "status": "done",
   "slots": [
    "w:2cab8c"
   ]
@@ -5563,8 +5563,8 @@
  {
   "id": "e:258994",
   "jp": "巨人の騎士に敵などなく、\n巨人は容易に国を滅ぼした。\n振り下ろした剣は海を割り、\n世界を二つに弐分した",
-  "en": "",
-  "status": "todo",
+  "en": "The giant knight had no equal and easily destroyed nations. His sword split the sea and cut the world in two",
+  "status": "done",
   "slots": [
    "w:2cab90"
   ]
@@ -5572,8 +5572,8 @@
  {
   "id": "e:2589f8",
   "jp": "己の命を差し出した聖人。\nその命は民を救った。\n救われなかった愚か者は、\n命を落とした聖人のみ…",
-  "en": "",
-  "status": "todo",
+  "en": "A saint who gave up his own life. That life saved the people. The only fool not saved was the saint who died...",
+  "status": "done",
   "slots": [
    "w:2cab94"
   ]
@@ -5581,8 +5581,8 @@
  {
   "id": "e:258a58",
   "jp": "降り注ぐ星に意思はなく、\n白銀の炎は地上を燃やす。\n彗星の煌きは人を惹きつけ\n同時に人を滅ぼすのだ…",
-  "en": "",
-  "status": "todo",
+  "en": "The falling stars have no will; their silver flames burn the land. A comet's gleam draws people in, and destroys them too...",
+  "status": "done",
   "slots": [
    "w:2cab98"
   ]
@@ -5590,8 +5590,8 @@
  {
   "id": "e:258abc",
   "jp": "不浄を祓う清廉の乙女は\n黄金の意思で身を包む。\n彼女に触れられる者は、\nこの世には存在しない…",
-  "en": "",
-  "status": "todo",
+  "en": "The pure maiden who drives out uncleanness is wrapped in a golden will. No one in this world can touch her...",
+  "status": "done",
   "slots": [
    "w:2cab9c"
   ]
@@ -5599,8 +5599,8 @@
  {
   "id": "e:258b18",
   "jp": "魂を黄泉へ送る箱舟。\n彼は今日も魂を待つ…。\n次に彼が渡すのは、\nいったい誰の魂だろうか…",
-  "en": "",
-  "status": "todo",
+  "en": "An ark that carries souls to the Land of the Dead. Today too he waits for souls... Whose soul will he ferry next...",
+  "status": "done",
   "slots": [
    "w:2caba0"
   ]
@@ -5608,8 +5608,8 @@
  {
   "id": "e:258b70",
   "jp": "鏡は決して表を映さない。\n映すのは裏の根底のみ。\n道理さえ映す魔性の鏡、\n映っているのは表か裏か…",
-  "en": "",
-  "status": "todo",
+  "en": "The mirror never shows the surface, only the hidden core. A bewitching mirror that shows even reason: surface, or reverse...",
+  "status": "done",
   "slots": [
    "w:2caba4"
   ]
@@ -5617,8 +5617,8 @@
  {
   "id": "e:258bd8",
   "jp": "　　戦績…%2d戦%2d勝",
-  "en": "",
-  "status": "todo",
+  "en": "  %2d fights %2d wins",
+  "status": "done",
   "slots": [
    "i:e7124:e7138"
   ]
@@ -5626,8 +5626,8 @@
  {
   "id": "e:258bf0",
   "jp": "　　所要ターン…",
-  "en": "",
-  "status": "todo",
+  "en": "Turns taken...",
+  "status": "done",
   "slots": [
    "i:e7188:e7194"
   ]
@@ -5635,8 +5635,8 @@
  {
   "id": "e:258c04",
   "jp": "最大士気が%dアップ！   ",
-  "en": "",
-  "status": "todo",
+  "en": "Max morale +%d!",
+  "status": "done",
   "slots": [
    "i:e6964:e6974"
   ]
@@ -5644,8 +5644,8 @@
  {
   "id": "e:258c24",
   "jp": "新たに入手した",
-  "en": "",
-  "status": "todo",
+  "en": "You got no",
+  "status": "done",
   "slots": [
    "i:ea31c:ea340"
   ]
@@ -5653,8 +5653,8 @@
  {
   "id": "e:258c34",
   "jp": "カードはありません",
-  "en": "",
-  "status": "todo",
+  "en": "new cards",
+  "status": "done",
   "slots": [
    "i:ea348:ea36c"
   ]
@@ -5662,8 +5662,8 @@
  {
   "id": "e:258c50",
   "jp": "このユニットはこれ以上成長できません",
-  "en": "",
-  "status": "todo",
+  "en": "This unit can't grow any further",
+  "status": "done",
   "slots": [
    "i:e7818:e783c"
   ]
@@ -5815,8 +5815,8 @@
  {
   "id": "e:258f50",
   "jp": "知らん部隊",
-  "en": "",
-  "status": "todo",
+  "en": "Unknown",
+  "status": "done",
   "slots": [
    "i:f7be4:f7c10"
   ]
@@ -5824,8 +5824,8 @@
  {
   "id": "e:258f5c",
   "jp": "王国軍",
-  "en": "",
-  "status": "todo",
+  "en": "Royal",
+  "status": "done",
   "slots": [
    "i:f7c1c:f7c20"
   ]
@@ -5833,8 +5833,8 @@
  {
   "id": "e:258f64",
   "jp": "帝国軍",
-  "en": "",
-  "status": "todo",
+  "en": "Empire",
+  "status": "done",
   "slots": [
    "i:f7c2c:f7c30"
   ]
@@ -5842,8 +5842,8 @@
  {
   "id": "e:258f6c",
   "jp": "ＮＰＣ達",
-  "en": "",
-  "status": "todo",
+  "en": "NPCs",
+  "status": "done",
   "slots": [
    "i:f7c3c:f7c40"
   ]
@@ -5851,8 +5851,8 @@
  {
   "id": "e:2590c0",
   "jp": "なし",
-  "en": "",
-  "status": "todo",
+  "en": "None",
+  "status": "done",
   "slots": [
    "w:2ccab0",
    "w:2ccecc"
@@ -5861,8 +5861,8 @@
  {
   "id": "e:2590c8",
   "jp": "鋼鉄製の兜。頑丈な作りで、頭部をしっかり守ってくれる",
-  "en": "",
-  "status": "todo",
+  "en": "A sturdy steel helmet. Guards the head well.",
+  "status": "done",
   "slots": [
    "w:2ccab4",
    "w:2cced0"
@@ -5871,8 +5871,8 @@
  {
   "id": "e:259100",
   "jp": "千年雪を練磨して作り出された氷蒼の槍",
-  "en": "",
-  "status": "todo",
+  "en": "An ice-blue lance of Thousand-Year Snow.",
+  "status": "done",
   "slots": [
    "w:2ccab8",
    "w:2cced4"
@@ -5881,8 +5881,8 @@
  {
   "id": "e:259128",
   "jp": "まるで夫婦のように重なり合った貝殻",
-  "en": "",
-  "status": "todo",
+  "en": "Two seashells that overlap like a married couple",
+  "status": "done",
   "slots": [
    "w:2ccabc",
    "w:2cced8"
@@ -5891,8 +5891,8 @@
  {
   "id": "e:25914c",
   "jp": "愛を繋ぎ止めておくために用意された太い鎖",
-  "en": "",
-  "status": "todo",
+  "en": "A thick chain made to keep love tied down",
+  "status": "done",
   "slots": [
    "w:2ccac0",
    "w:2ccedc"
@@ -5901,8 +5901,8 @@
  {
   "id": "e:259178",
   "jp": "愛の結晶が砂の結晶として形になったもの。",
-  "en": "",
-  "status": "todo",
+  "en": "Crystallised love, taken shape as crystals of sand.",
+  "status": "done",
   "slots": [
    "w:2ccac4",
    "w:2ccee0"
@@ -5911,8 +5911,8 @@
  {
   "id": "e:2591a4",
   "jp": "真実の愛が眠る場所へ行く為に必要な招待状",
-  "en": "",
-  "status": "todo",
+  "en": "An invitation to where true love sleeps",
+  "status": "done",
   "slots": [
    "w:2ccac8",
    "w:2ccee4"
@@ -5921,8 +5921,8 @@
  {
   "id": "e:2591d0",
   "jp": "好きな人をゲットする為の最終兵器。",
-  "en": "",
-  "status": "todo",
+  "en": "The ultimate weapon for winning your love.",
+  "status": "done",
   "slots": [
    "w:2ccacc",
    "w:2ccee8"
@@ -5931,8 +5931,8 @@
  {
   "id": "e:2591f4",
   "jp": "愛を形にした指輪。左手薬指にはめてください",
-  "en": "",
-  "status": "todo",
+  "en": "Love given form. Wear on the left ring finger",
+  "status": "done",
   "slots": [
    "w:2ccad0",
    "w:2cceec"
@@ -5941,8 +5941,8 @@
  {
   "id": "e:259220",
   "jp": "ロケットペンダント。好きな人の写真を入れよう",
-  "en": "",
-  "status": "todo",
+  "en": "A locket. Put a photo of your love in it",
+  "status": "done",
   "slots": [
    "w:2ccad4",
    "w:2ccef0"
@@ -5951,8 +5951,8 @@
  {
   "id": "e:259250",
   "jp": "巻貝の形の宝玉。身につけると水と一体化できるらしい…",
-  "en": "",
-  "status": "todo",
+  "en": "A shell gem. Wear it to become one with water.",
+  "status": "done",
   "slots": [
    "w:2ccad8",
    "w:2ccef4"
@@ -5961,8 +5961,8 @@
  {
   "id": "e:259288",
   "jp": "悪魔のシッポをイメージした背徳感溢れるアクセサリ",
-  "en": "",
-  "status": "todo",
+  "en": "A sinful accessory modelled on a devil's tail.",
+  "status": "done",
   "slots": [
    "w:2ccadc",
    "w:2ccef8"
@@ -5971,8 +5971,8 @@
  {
   "id": "e:2592bc",
   "jp": "魔界に存在すると云われる果実。鮮やかな青が毒々しい…",
-  "en": "",
-  "status": "todo",
+  "en": "A Demon World fruit. Vivid, poisonous blue...",
+  "status": "done",
   "slots": [
    "w:2ccae0",
    "w:2ccefc"
@@ -5981,8 +5981,8 @@
  {
   "id": "e:2592f4",
   "jp": "夜会用のドレス。ちょっと大人っぽい感じ",
-  "en": "",
-  "status": "todo",
+  "en": "An evening gown. A bit of a grown-up look.",
+  "status": "done",
   "slots": [
    "w:2ccae4",
    "w:2ccf00"
@@ -5991,8 +5991,8 @@
  {
   "id": "e:25931c",
   "jp": "気分をリラックスさせる効果を持つ不思議なハーブ",
-  "en": "",
-  "status": "todo",
+  "en": "A mysterious herb with a relaxing effect.",
+  "status": "done",
   "slots": [
    "w:2ccae8",
    "w:2ccf04"
@@ -6001,8 +6001,8 @@
  {
   "id": "e:25934c",
   "jp": "ウィルが凝縮されている玉虫色の丸い宝石",
-  "en": "",
-  "status": "todo",
+  "en": "An iridescent round gem full of condensed Will",
+  "status": "done",
   "slots": [
    "w:2ccaec",
    "w:2ccf08"
@@ -6011,8 +6011,8 @@
  {
   "id": "e:259374",
   "jp": "風切りの炸裂音とともに敵を貫く非常に強力な銃",
-  "en": "",
-  "status": "todo",
+  "en": "A mighty gun that pierces foes with a whistling blast",
+  "status": "done",
   "slots": [
    "w:2ccaf0",
    "w:2ccf0c"
@@ -6021,8 +6021,8 @@
  {
   "id": "e:2593a4",
   "jp": "薄汚れたペンダント。当然価値は無い",
-  "en": "",
-  "status": "todo",
+  "en": "A grimy pendant. Worthless, of course",
+  "status": "done",
   "slots": [
    "w:2ccaf4",
    "w:2ccf10"
@@ -6031,8 +6031,8 @@
  {
   "id": "e:2593c8",
   "jp": "海ゴブリンのミルクが発酵してできたチーズ。微妙に塩味",
-  "en": "",
-  "status": "todo",
+  "en": "Fermented Sea Goblin milk cheese. A bit salty",
+  "status": "done",
   "slots": [
    "w:2ccaf8",
    "w:2ccf14"
@@ -6041,8 +6041,8 @@
  {
   "id": "e:259400",
   "jp": "手触りが気持ち良いぬいぐるみ。女性に大人気！",
-  "en": "",
-  "status": "todo",
+  "en": "A soft plush toy. Very popular with women!",
+  "status": "done",
   "slots": [
    "w:2ccafc",
    "w:2ccf18"
@@ -6051,8 +6051,8 @@
  {
   "id": "e:259430",
   "jp": "海ゴブリンが搾り取った新鮮なミルク。早く飲もう！",
-  "en": "",
-  "status": "todo",
+  "en": "Fresh milk from Sea Goblins. Drink it fast!",
+  "status": "done",
   "slots": [
    "w:2ccb00",
    "w:2ccf1c"
@@ -6061,8 +6061,8 @@
  {
   "id": "e:259464",
   "jp": "海に生息する魚。滋養強壮に効く栄養価の高い食べ物",
-  "en": "",
-  "status": "todo",
+  "en": "A sea fish. Very nourishing, builds stamina",
+  "status": "done",
   "slots": [
    "w:2ccb04",
    "w:2ccf20"
@@ -6071,8 +6071,8 @@
  {
   "id": "e:259498",
   "jp": "持ち主の日々の断片を記録していく生きた記録書",
-  "en": "",
-  "status": "todo",
+  "en": "A living book recording its owner's days",
+  "status": "done",
   "slots": [
    "w:2ccb08",
    "w:2ccf24"
@@ -6081,8 +6081,8 @@
  {
   "id": "e:2594c8",
   "jp": "海に棲んでいる毒ヘビ。赤黒マダラの鮮やかな表皮が特徴",
-  "en": "",
-  "status": "todo",
+  "en": "A sea viper with vivid red-black mottled skin",
+  "status": "done",
   "slots": [
    "w:2ccb0c",
    "w:2ccf28"
@@ -6091,8 +6091,8 @@
  {
   "id": "e:259500",
   "jp": "海蛇の皮で作られたブーツ。毒沼だってへっちゃら",
-  "en": "",
-  "status": "todo",
+  "en": "Sea snake boots. Poison swamps? No problem",
+  "status": "done",
   "slots": [
    "w:2ccb10",
    "w:2ccf2c"
@@ -6101,8 +6101,8 @@
  {
   "id": "e:259530",
   "jp": "水の抵抗を受けないように加工された海蛇柄の槍",
-  "en": "",
-  "status": "todo",
+  "en": "A sea-snake spear shaped to slice through water",
+  "status": "done",
   "slots": [
    "w:2ccb14",
    "w:2ccf30"
@@ -6111,8 +6111,8 @@
  {
   "id": "e:259560",
   "jp": "あらゆるエネルギーを組み替え、パワーに変換する聖衣",
-  "en": "",
-  "status": "todo",
+  "en": "Holy garb that turns any energy into power.",
+  "status": "done",
   "slots": [
    "w:2ccb18",
    "w:2ccf34"
@@ -6121,8 +6121,8 @@
  {
   "id": "e:259594",
   "jp": "オリハルコンの持つ力を最大限に引き出して作られた大剣",
-  "en": "",
-  "status": "todo",
+  "en": "A greatsword using Orihalcum to the full.",
+  "status": "done",
   "slots": [
    "w:2ccb1c",
    "w:2ccf38"
@@ -6131,8 +6131,8 @@
  {
   "id": "e:2595cc",
   "jp": "武器庫の奥に格納されていた壮麗な宝槍",
-  "en": "",
-  "status": "todo",
+  "en": "A splendid lance from deep in the armory.",
+  "status": "done",
   "slots": [
    "w:2ccb20",
    "w:2ccf3c"
@@ -6141,8 +6141,8 @@
  {
   "id": "e:2595f4",
   "jp": "精霊のウィルが集まって凝縮したコア",
-  "en": "",
-  "status": "todo",
+  "en": "A core of condensed spirit Will",
+  "status": "done",
   "slots": [
    "w:2ccb24",
    "w:2ccf40"
@@ -6151,8 +6151,8 @@
  {
   "id": "e:259618",
   "jp": "豪華な装飾が施された二丁銃。性能も優れている",
-  "en": "",
-  "status": "todo",
+  "en": "Ornate twin guns. They perform well, too",
+  "status": "done",
   "slots": [
    "w:2ccb28",
    "w:2ccf44"
@@ -6161,8 +6161,8 @@
  {
   "id": "e:259648",
   "jp": "世界最硬金属物質。武具の素材としては最上位にあたる",
-  "en": "",
-  "status": "todo",
+  "en": "The hardest metal. The very best for arms.",
+  "status": "done",
   "slots": [
    "w:2ccb2c",
    "w:2ccf48"
@@ -6171,8 +6171,8 @@
  {
   "id": "e:25967c",
   "jp": "古のオーガ（巨鬼）をも倒す力を秘めた巨大な刃",
-  "en": "",
-  "status": "todo",
+  "en": "A huge blade able to fell even ancient ogres",
+  "status": "done",
   "slots": [
    "w:2ccb30",
    "w:2ccf4c"
@@ -6181,8 +6181,8 @@
  {
   "id": "e:2596ac",
   "jp": "海獣を倒す為に作られた銃。精密機械の様な射撃ができる",
-  "en": "",
-  "status": "todo",
+  "en": "A sea-beast gun that fires with machine precision",
+  "status": "done",
   "slots": [
    "w:2ccb34",
    "w:2ccf50"
@@ -6191,8 +6191,8 @@
  {
   "id": "e:2596e4",
   "jp": "古今東西のお宝について記された大事典",
-  "en": "",
-  "status": "todo",
+  "en": "An encyclopedia of treasures of all ages and lands",
+  "status": "done",
   "slots": [
    "w:2ccb38",
    "w:2ccf54"
@@ -6201,8 +6201,8 @@
  {
   "id": "e:25970c",
   "jp": "古代ユーフォリアのペンダント。強いウィルを感じる…",
-  "en": "",
-  "status": "todo",
+  "en": "An ancient Euforian pendant. It has strong Will...",
+  "status": "done",
   "slots": [
    "w:2ccb3c",
    "w:2ccf58"
@@ -6211,8 +6211,8 @@
  {
   "id": "e:259740",
   "jp": "柄の部分に悪魔ガーゴイルをデザインした杖",
-  "en": "",
-  "status": "todo",
+  "en": "A staff with a gargoyle on its handle.",
+  "status": "done",
   "slots": [
    "w:2ccb40",
    "w:2ccf5c"
@@ -6221,8 +6221,8 @@
  {
   "id": "e:25976c",
   "jp": "水の遺跡「海王神殿」のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "A shard of the water ruin, the Sea King's Temple",
+  "status": "done",
   "slots": [
    "w:2ccb44",
    "w:2ccf60"
@@ -6231,8 +6231,8 @@
  {
   "id": "e:25978c",
   "jp": "貝殻で作った胸あて。ちょっぴり恥ずかしい気も…",
-  "en": "",
-  "status": "todo",
+  "en": "A breastplate of seashells. A little embarrassing...",
+  "status": "done",
   "slots": [
    "w:2ccb48",
    "w:2ccf64"
@@ -6241,8 +6241,8 @@
  {
   "id": "e:2597bc",
   "jp": "戦乱の世に現れ、時代を終焉に導くと云われる海神の大剣",
-  "en": "",
-  "status": "todo",
+  "en": "A sea god's sword, said to end an age of war",
+  "status": "done",
   "slots": [
    "w:2ccb4c",
    "w:2ccf68"
@@ -6251,8 +6251,8 @@
  {
   "id": "e:2597f4",
   "jp": "海の神ポセイドンのサンダル",
-  "en": "",
-  "status": "todo",
+  "en": "The sandals of Poseidon, god of the sea",
+  "status": "done",
   "slots": [
    "w:2ccb50",
    "w:2ccf6c"
@@ -6261,8 +6261,8 @@
  {
   "id": "e:259810",
   "jp": "海神のような不屈の精神が宿るアクセサリ",
-  "en": "",
-  "status": "todo",
+  "en": "Holds a sea god's unyielding spirit",
+  "status": "done",
   "slots": [
    "w:2ccb54",
    "w:2ccf70"
@@ -6271,8 +6271,8 @@
  {
   "id": "e:259838",
   "jp": "海賊王のモノとされる。鋼鉄のガントレット",
-  "en": "",
-  "status": "todo",
+  "en": "Said to be a Pirate King's. A steel gauntlet",
+  "status": "done",
   "slots": [
    "w:2ccb58",
    "w:2ccf74"
@@ -6281,8 +6281,8 @@
  {
   "id": "e:259864",
   "jp": "伝説の海賊王のドクロを象った人形。威圧感がある…",
-  "en": "",
-  "status": "todo",
+  "en": "A doll of a Pirate King's skull. Imposing...",
+  "status": "done",
   "slots": [
    "w:2ccb5c",
    "w:2ccf78"
@@ -6291,8 +6291,8 @@
  {
   "id": "e:259898",
   "jp": "つけると海賊王になった気分になる子供に大人気のバッジ",
-  "en": "",
-  "status": "todo",
+  "en": "A badge kids love: wear it and feel like a Pirate King",
+  "status": "done",
   "slots": [
    "w:2ccb60",
    "w:2ccf7c"
@@ -6301,8 +6301,8 @@
  {
   "id": "e:2598d0",
   "jp": "身につける者の勇気を高める海賊王の帽子",
-  "en": "",
-  "status": "todo",
+  "en": "A Pirate King's hat. Boosts the wearer's courage",
+  "status": "done",
   "slots": [
    "w:2ccb64",
    "w:2ccf80"
@@ -6311,8 +6311,8 @@
  {
   "id": "e:2598f8",
   "jp": "幾多の海戦において、不敗神話を築きあげた海賊王の鎧",
-  "en": "",
-  "status": "todo",
+  "en": "Armour of a Pirate King unbeaten at sea",
+  "status": "done",
   "slots": [
    "w:2ccb68",
    "w:2ccf84"
@@ -6321,8 +6321,8 @@
  {
   "id": "e:25992c",
   "jp": "誰でも海賊になれる勲章。海賊になった気分が味わえる",
-  "en": "",
-  "status": "todo",
+  "en": "A medal that makes anyone a pirate!",
+  "status": "done",
   "slots": [
    "w:2ccb6c",
    "w:2ccf88"
@@ -6331,8 +6331,8 @@
  {
   "id": "e:259960",
   "jp": "海賊が盗んだものの、開けられなくて捨てたカバン",
-  "en": "",
-  "status": "todo",
+  "en": "A bag pirates stole, couldn't open and dumped",
+  "status": "done",
   "slots": [
    "w:2ccb70",
    "w:2ccf8c"
@@ -6341,8 +6341,8 @@
  {
   "id": "e:259990",
   "jp": "海底で稀に発見される薔薇の形をした珊瑚",
-  "en": "",
-  "status": "todo",
+  "en": "A rose-shaped coral, rare on the seabed",
+  "status": "done",
   "slots": [
    "w:2ccb74",
    "w:2ccf90"
@@ -6351,8 +6351,8 @@
  {
   "id": "e:2599b8",
   "jp": "貼ると海の霊が取りつくと云われる呪いの札",
-  "en": "",
-  "status": "todo",
+  "en": "A cursed charm: a sea spirit haunts its user",
+  "status": "done",
   "slots": [
    "w:2ccb78",
    "w:2ccf94"
@@ -6361,8 +6361,8 @@
  {
   "id": "e:2599e4",
   "jp": "白い蝶を捕まえて、カゴの中に入れたもの",
-  "en": "",
-  "status": "todo",
+  "en": "A white butterfly caught and put in a cage.",
+  "status": "done",
   "slots": [
    "w:2ccb7c",
    "w:2ccf98"
@@ -6371,8 +6371,8 @@
  {
   "id": "e:259a0c",
   "jp": "風の遺跡「風神の道」のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "A shard of the wind ruin, the Wind God's Road",
+  "status": "done",
   "slots": [
    "w:2ccb80",
    "w:2ccf9c"
@@ -6381,8 +6381,8 @@
  {
   "id": "e:259a2c",
   "jp": "装飾グッズ定番の一品。シンプルなつくりの髪飾り",
-  "en": "",
-  "status": "todo",
+  "en": "A staple accessory. A simple hair clip.",
+  "status": "done",
   "slots": [
    "w:2ccb84",
    "w:2ccfa0"
@@ -6391,8 +6391,8 @@
  {
   "id": "e:259a5c",
   "jp": "魔導具。銃弾が尽きるまで乱射せずにはいられないガン",
-  "en": "",
-  "status": "todo",
+  "en": "A magic gun you can't stop firing till empty",
+  "status": "done",
   "slots": [
    "w:2ccb88",
    "w:2ccfa4"
