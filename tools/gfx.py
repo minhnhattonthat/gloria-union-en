@@ -99,9 +99,14 @@ def write(b, a, img):
         raise ValueError(f"{a['name']}: {len(bad)} pixels can't be drawn (outside every sprite?), first {bad[0][::-1]}")
 
 
+def files(a):
+    """Every file an asset is written to (a tuple: copies with the same pixels at the same offset)."""
+    return a["file"] if isinstance(a["file"], tuple) else (a["file"],)
+
+
 def original(name):
     a = ASSETS[name]
-    return read((FILES / f"{a['file']:05d}.bin").read_bytes(), a)
+    return read((FILES / f"{files(a)[0]:05d}.bin").read_bytes(), a)
 
 
 def apply(repl):
@@ -110,10 +115,10 @@ def apply(repl):
         png = GFX / f"{name}.png"
         if not png.exists():
             continue
-        i = a["file"]
-        b = bytearray(repl.get(i) or (FILES / f"{i:05d}.bin").read_bytes())
-        write(b, a, np.array(Image.open(png).convert("RGBA")))
-        repl[i] = bytes(b)
+        for i in files(a):
+            b = bytearray(repl.get(i) or (FILES / f"{i:05d}.bin").read_bytes())
+            write(b, a, np.array(Image.open(png).convert("RGBA")))
+            repl[i] = bytes(b)
     return repl
 
 
@@ -334,6 +339,62 @@ def draw_credits(a, _t):
     return out
 
 
+# --- stage titles (1850-1905: horizontal +30, vertical +2d90) ----------------------------------------------------
+
+def _plate(lines, f, spacing, shadow):
+    """Centred white lines with a black rim and a black drop shadow, on a tight transparent layer."""
+    text = "\n".join(lines)
+    kw = dict(font=f, spacing=spacing, align="center", stroke_width=1)
+    l, t, r, b = (round(v) for v in ImageDraw.Draw(Image.new("RGBA", (1, 1))).multiline_textbbox((0, 0), text, **kw))
+    im = Image.new("RGBA", (r - l + 4 + shadow, b - t + 4 + shadow), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    d.multiline_text((2 - l + shadow, 2 - t + shadow), text, fill=(0, 0, 0, 255), stroke_fill=(0, 0, 0, 255), **kw)
+    d.multiline_text((2 - l, 2 - t), text, fill=(255, 255, 255, 255), stroke_fill=(0, 0, 0, 255), **kw)
+    return im
+
+
+def _halves(s):
+    """Split at the space nearest the middle."""
+    sp = [i for i, c in enumerate(s) if c == " "]
+    if not sp:
+        return [s]
+    i = min(sp, key=lambda i: abs(i - len(s) / 2))
+    return [s[:i], s[i + 1:]]
+
+
+def title_layer(text, w, h, one, two, shadow):
+    """The title fitted into w x h: one line at font size `one` (down to 80%) if it needs no more than a 0.8 squeeze,
+    else two lines (text's \\n, or split near the middle) at size `two` (down to 70%), squeezed to fit."""
+    flat = text.replace("\n", " ")
+    tries = [([flat], s, 0.8) for s in range(one, int(one * 0.8) - 1, -1)]
+    tries += [(text.split("\n") if "\n" in text else _halves(flat), s, 0.6) for s in range(two, int(two * 0.7) - 1, -1)]
+    for lines, size, min_xs in tries:
+        im = _plate(lines, font("LiberationSerif-Bold.ttf", size), -size // 6, shadow)
+        xs = min(1.0, w / im.width)
+        if im.height <= h and xs >= min_xs:
+            return im.resize((max(1, round(im.width * xs)), im.height), Image.LANCZOS) if xs < 1 else im
+    raise ValueError(f"title doesn't fit {w}x{h}: {text!r}")
+
+
+def draw_title(a, text, vertical):
+    clear = (255, 255, 255, 0)   # in both palettes
+    if vertical:   # the strip holds the horizontal title turned 90 degrees anticlockwise (reads bottom to top)
+        h, w = a.shape[1] - 2, a.shape[0]
+        lt = title_layer(text, w - 4, h, 22, 13, 1)
+        im = Image.new("RGBA", (w, a.shape[1]), clear)
+        im.alpha_composite(lt, ((w - lt.width) // 2, (a.shape[1] - lt.height) // 2))
+        out = np.rot90(np.array(im), 1).copy()
+    else:
+        w, h = 300, a.shape[0]
+        # the talk scene shows rows ~12-58 between the chapter bar and the portraits (JP ink: rows 15-55)
+        lt = title_layer(text, w - 6, 48, 34, 24, 2)
+        im = Image.new("RGBA", (a.shape[1], h), clear)
+        im.alpha_composite(lt, ((w - lt.width) // 2, 35 - lt.height // 2))
+        out = np.array(im)
+    out[out[..., 3] == 0] = clear
+    return out
+
+
 # --- registry ---------------------------------------------------------------------------------------------------
 
 ASSETS = {}
@@ -348,6 +409,11 @@ for _n in range(1, 8):
 asset("gameover", 1758, "ptx", 0x3310, (0, 0, 272, 54), lambda a, t: draw_gameover_title(a, t["gameover"]))
 asset("gameover_menu", 1758, "ptx", 0x16b0, (0, 0, 256, 16),
       lambda a, t: draw_gameover_menu(a, t["gameover_retry"], t["gameover_title"]))
+for _f, _n in ((1850, 2), (1852, 1), (1853, 1), (1854, 2), (1856, 2), (1858, 2), *((f, 1) for f in range(1860, 1878)),
+               (1878, 2), *((f, 1) for f in range(1880, 1888)), (1888, 2), *((f, 1) for f in range(1890, 1906))):
+    _ids = tuple(range(_f, _f + _n))
+    asset(f"title{_f}", _ids, "ptx", 0x30, (0, 0, 300, 72), lambda a, t, f=_f: draw_title(a, t[f"title{f}"], False))
+    asset(f"title{_f}v", _ids, "ptx", 0x2d90, (0, 0, 32, 180), lambda a, t, f=_f: draw_title(a, t[f"title{f}"], True))
 asset("credits", 1992, "stack", [0x1640 + 0xE060 * i for i in range(9)], (0, 0, CRED_W, 4159), draw_credits)
 
 
@@ -356,8 +422,10 @@ def gen(names=None):
     GFX.mkdir(exist_ok=True)
     for name in names or ASSETS:
         a = ASSETS[name]
-        b = (FILES / f"{a['file']:05d}.bin").read_bytes()
+        b = (FILES / f"{files(a)[0]:05d}.bin").read_bytes()
         orig = read(b, a)
+        for i in files(a)[1:]:
+            assert np.array_equal(read((FILES / f"{i:05d}.bin").read_bytes(), a), orig), f"{name}: {i} differs"
         new = fit(b, a, a["draw"](orig, t))
         x, y, w, h = a["rect"]
         keep = np.ones(orig.shape[:2], bool)

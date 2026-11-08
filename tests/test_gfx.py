@@ -19,7 +19,7 @@ def test_redraw_in_rect_and_writes_back(name):
     png = gfx.GFX / f"{name}.png"
     assert png.exists(), f"run tools/gfx.py gen {name}"
     new = np.array(Image.open(png).convert("RGBA"))
-    b = bytearray((gfx.FILES / f"{a['file']:05d}.bin").read_bytes())
+    b = bytearray((gfx.FILES / f"{gfx.files(a)[0]:05d}.bin").read_bytes())
     orig = gfx.read(b, a)
     assert new.shape == orig.shape
     x, y, w, h = a["rect"]
