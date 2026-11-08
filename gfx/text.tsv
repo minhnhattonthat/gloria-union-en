@@ -298,3 +298,16 @@ mv_aquatic	水棲	Aquatic
 mv_teleport	転移	Teleport
 mv_cavalry	騎馬	Cavalry
 st_durability	耐久度	Dur.
+obj_none	フィールド上にオブジェクトは何もありません。	There are no\nobjects on\nthe field.
+obj_catapult	投石器	Catapult
+obj_cannon	砲台	Cannon
+obj_bridge	架橋	Bridge
+obj_gate_open	門(開)	Gate (Open)
+obj_gate_closed	門(閉)	Gate (Closed)
+obj_fence	柵	Fence
+obj_village	集落	Village
+obj_city	都市	City
+obj_fortress	城砦	Fortress
+obj_item	アイテム	Item
+obj_ship	船	Ship
+obj_target	目標地点	Target Point

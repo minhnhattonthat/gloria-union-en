@@ -1107,6 +1107,51 @@ def draw_status_labels(a, t):
 asset("status_labels", 3, "ptx", 0x10ad90, (50, 23, 154, 59), draw_status_labels)
 
 
+def draw_condition_chip(a, text):
+    """2419 card data: 使用条件 in white on a brown pill (x 41-79, rows 61-71), left of a white triangle."""
+    out = a.copy()
+    out[61:72, 43:79] = (77, 67, 53, 255)
+    white = (255, 255, 255, 255)
+    return draw_fixed(out, [((43, 61, 36, 11), text, False)], 10, stroke=0, ink=(white, white), clear=False,
+                      center=True)
+
+
+asset("condition_chip", 2419, "ptx", 0x24570, (43, 61, 36, 11), lambda a, t: draw_condition_chip(a, t["cd_condition"]))
+SMALL_MOVES = ["mv_foot", "mv_slow", "mv_flying", "mv_aquatic", "mv_dragon", "mv_cavalry", "mv_teleport"]
+
+
+def draw_small_moves(a, t):
+    """2418 small move-type icons (32x30 cells, left column): the dark label under each icon, rows 20-29 of the cell
+    (the icon ends above; x 30-31 is the next column's weapon), cleared and redrawn in the same dark."""
+    out = a.copy()
+    for k in range(len(SMALL_MOVES)):
+        out[30 * k + 20:30 * k + 30, 0:30] = 0
+    dark = (1, 0, 0, 255)
+    return draw_fixed(out, [((0, 30 * k + 20, 30, 10), t[key], False) for k, key in enumerate(SMALL_MOVES)], 9,
+                      stroke=0, ink=(dark, dark), clear=False, center=True)
+
+
+asset("small_moves", 2418, "ptx", 0x229f0, (0, 0, 30, 240), draw_small_moves)
+
+
+# --- object list (asset file 1703; rects: EBOOT table 0x2c7374: 0-12 list rows, 14-26 English labels, 27-39 big
+# names; each run in list order) --------------------------------------------------------------------------------------
+
+OBJECTS = ["obj_catapult", "obj_cannon", "obj_bridge", "obj_gate_open", "obj_gate_closed", "obj_fence", "obj_village",
+           "obj_city", "obj_fortress", "obj_item", "obj_ship", "obj_target"]   # then ?, kept
+asset("obj_none", 1703, "ptx", 0x2add0, (0, 0, 128, 71),
+      lambda a, t: draw_fixed(a, [((0, 24 * i, 128, 23), line, False) for i, line in enumerate(t["obj_none"].split("\n"))],
+                              18, stroke=2))
+asset("obj_list", 1703, "ptx", 0x2c070, (0, 0, 88, 288),
+      lambda a, t: draw_fixed(a, [(tuple(r), t[k], False) for r, k in zip(table_rects(0x2c7374, 12), OBJECTS)], 18,
+                              stroke=2, pad=0))
+asset("obj_big", 1703, "ptx", 0x2fb50, (0, 0, 192, 220),   # maroon serif with a pale yellow rim; same rects: the
+      # screen draws the word right after the English label, so a wider rect could run off the panel
+      lambda a, t: draw_fixed(a, [(tuple(r), t[k], False) for r, k in zip(table_rects(0x2c7374 + 8 * 27, 12), OBJECTS)],
+                              22, face="LiberationSerif-Bold.ttf", stroke=2, pad=0,
+                              ink=((156, 0, 51, 255), (255, 251, 149, 255))))
+
+
 # --- unit name plates (id 3 section 4: 87 large, then the small ones; the status screen's red banner shows a large
 # one). JP read off the sheets in file order; English from script/eboot/names.json, else PLATE_EN -------------------
 
