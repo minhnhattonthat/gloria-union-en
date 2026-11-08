@@ -2,8 +2,8 @@
  {
   "id": "s2080:00008",
   "jp": "久しぶりだなルルゥ。",
-  "en": "",
-  "status": "todo",
+  "en": "Long time no see, Ruru.",
+  "status": "done",
   "slots": [
    "0x80d"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2080:00021",
   "jp": "悪いな、なかなか来れなくて。\n色々と面倒ごとに巻き込まれてさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry I couldn't come for so long. I got\ndragged into all kinds of trouble.",
+  "status": "done",
   "slots": [
    "0x814"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2080:00063",
   "jp": "でも、これで終わり。\n後はどっかの頭のいい奴にでも\nまかせて、俺はしばらく休暇だ。",
-  "en": "",
-  "status": "todo",
+  "en": "But that's all over now. I'll leave the rest to\nsome smart guy somewhere and take a\nvacation for a while.",
+  "status": "done",
   "slots": [
    "0x81b"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2080:000b8",
   "jp": "あぁ、それと。\n俺、グロリア海賊団、辞めてきた。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, and also. I quit the Gloria Pirates.",
+  "status": "done",
   "slots": [
    "0x822"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2080:000ec",
   "jp": "海賊が嫌になったわけじゃないし、\n親父……ザザーランドと決別した\nわけじゃない。",
-  "en": "",
-  "status": "todo",
+  "en": "It ain't 'cause I got sick of bein' a pirate,\nand I didn't break off with Dad... with\nZazarland either.",
+  "status": "done",
   "slots": [
    "0x829"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2080:0013f",
   "jp": "戦いたくなったのさ。\nグロリア海賊団のみんなと。\nピンガーはついてきたけどな。",
-  "en": "",
-  "status": "todo",
+  "en": "I just wanted to fight 'em. Everyone in the\nGloria Pirates. Pinger came with me,\nthough.",
+  "status": "done",
   "slots": [
    "0x833"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2080:00190",
   "jp": "まぁ、要するに、最初に戻った\nわけだ！\n強くてコンティニューだ！",
-  "en": "",
-  "status": "todo",
+  "en": "So basically, I'm back where I started! It's\nNew Game Plus!",
+  "status": "done",
   "slots": [
    "0x848"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2080:001d3",
   "jp": "ココに来たのは、その報告。\n……我ながら、未練は断ち切れんよ\nウン。",
-  "en": "",
-  "status": "todo",
+  "en": "That's what I came here to tell ya. ...Even I\ngotta admit, I can't let go. Yup.",
+  "status": "done",
   "slots": [
    "0x85a"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2080:0021a",
   "jp": "あ～、会いてぇよ～ルルゥ！",
-  "en": "",
-  "status": "todo",
+  "en": "Aaah, I wanna see ya, Ruruuu!",
+  "status": "done",
   "slots": [
    "0x86c"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2080:00239",
   "jp": "……いっそ、もう一度復活させて\nみるか。",
-  "en": "",
-  "status": "todo",
+  "en": "...Maybe I should just try bringin' it back\nagain.",
+  "status": "done",
   "slots": [
    "0x87e"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2080:00265",
   "jp": "そんなことしたら、\nエリーシャさんに殺されますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "If you did that, Elisha-san would kill you.",
+  "status": "done",
   "slots": [
    "0x890"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2080:0029b",
   "jp": "ピンガー……フ、確かに、そりゃあ\n恐ろしいな。",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger... Heh, yeah, that'd be scary all right.",
+  "status": "done",
   "slots": [
    "0x92d"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2080:002cd",
   "jp": "で？　何のようだ？\n俺は今感傷に浸ってたんだが。",
-  "en": "",
-  "status": "todo",
+  "en": "So? What do ya want? I was in the middle of\ngettin' sentimental here.",
+  "status": "done",
   "slots": [
    "0x93f"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2080:00301",
   "jp": "未練タラタラに悔し涙流して\nハンカチ噛んでただけでしょ。",
-  "en": "",
-  "status": "todo",
+  "en": "You were just biting your handkerchief and\ncrying tears of bitter regret.",
+  "status": "done",
   "slots": [
    "0x955"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2080:0033d",
   "jp": "出航の準備が出来ました。\n新米の子分もいるんですから、\n早いところきてくださいね。",
-  "en": "",
-  "status": "todo",
+  "en": "We're ready to set sail. You've got new\nhenchmen now too, so please hurry up and\ncome.",
+  "status": "done",
   "slots": [
    "0x967"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2080:00392",
   "jp": "先に行って待ってますから。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll go on ahead and wait.",
+  "status": "done",
   "slots": [
    "0x96e"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2080:003b1",
   "jp": "……ケッ、一年の間に一段とキツく\nなりやがって、誰に似たんだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "...Tch, she's gotten even harsher in one\nyear. Wonder who she gets that from...",
+  "status": "done",
   "slots": [
    "0x9b2"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2080:003f7",
   "jp": "そんじゃ！　行くわ！\nまた暇があったら来る。\nザザーランドを俺の子分にしてな！",
-  "en": "",
-  "status": "todo",
+  "en": "Well then! I'm off! I'll come again when I've\ngot time. With Zazarland as my henchman!",
+  "status": "done",
   "slots": [
    "0x9b9"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2080:00448",
   "jp": "兄貴ー！",
-  "en": "",
-  "status": "todo",
+  "en": "Bossss!",
+  "status": "done",
   "slots": [
    "0x9d2"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2080:00455",
   "jp": "今行くー！\n……ったく、急かすんじゃねぇよ",
-  "en": "",
-  "status": "todo",
+  "en": "Comin'! ...Geez, quit rushin' me.",
+  "status": "done",
   "slots": [
    "0x9eb"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2080:00483",
   "jp": "……また来るよ、必ず。\nそれまで、もう少しだけ、\n待っててくれ。",
-  "en": "",
-  "status": "todo",
+  "en": "...I'll come again, I promise. Till then, wait\nfor me just a little longer.",
+  "status": "done",
   "slots": [
    "0xa00"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2080:004c6",
   "jp": "……じゃあな。",
-  "en": "",
-  "status": "todo",
+  "en": "...See ya.",
+  "status": "done",
   "slots": [
    "0xa07"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2080:004d9",
   "jp": "……お？",
-  "en": "",
-  "status": "todo",
+  "en": "...Oh?",
+  "status": "done",
   "slots": [
    "0xa49"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2080:004e6",
   "jp": "なんだ、これ。\nルルゥの杖についてた宝石に\n似てるな……。",
-  "en": "",
-  "status": "todo",
+  "en": "What's this? Looks like the jewel that was\non Ruru's staff...",
+  "status": "done",
   "slots": [
    "0xa50"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2080:00523",
   "jp": "……お宝第一号。\nなんてな。",
-  "en": "",
-  "status": "todo",
+  "en": "...Treasure number one. Just kiddin'.",
+  "status": "done",
   "slots": [
    "0xa57"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2080:00543",
   "jp": "イシュト、またお話、聞かせてね。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, tell me more stories again, okay?",
+  "status": "done",
   "slots": [
    "0xaab"
   ],

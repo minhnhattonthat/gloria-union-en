@@ -829,8 +829,8 @@
  {
   "id": "s2077:00e5c",
   "jp": "まだ、やらなきゃならない\nことがあるよ。",
-  "en": "",
-  "status": "todo",
+  "en": "There's still something I have to do.",
+  "status": "done",
   "slots": [
    "0x3565"
   ],
@@ -840,8 +840,8 @@
  {
   "id": "s2077:00e88",
   "jp": "なんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "What is it?",
+  "status": "done",
   "slots": [
    "0x357b"
   ],
@@ -851,8 +851,8 @@
  {
   "id": "s2077:00e95",
   "jp": "ユーフォリアを、\nもう一度海に沈める。",
-  "en": "",
-  "status": "todo",
+  "en": "Sink Euforia into the sea again.",
+  "status": "done",
   "slots": [
    "0x3598"
   ],
@@ -862,8 +862,8 @@
  {
   "id": "s2077:00ebf",
   "jp": "沈める？",
-  "en": "",
-  "status": "todo",
+  "en": "Sink it?",
+  "status": "done",
   "slots": [
    "0x35b1"
   ],
@@ -873,8 +873,8 @@
  {
   "id": "s2077:00ecc",
   "jp": "これ以上、\nユーフォリアを利用される\nわけにはいかないから……。",
-  "en": "",
-  "status": "todo",
+  "en": "Because I can't let anyone use Euforia\nanymore...",
+  "status": "done",
   "slots": [
    "0x35c7"
   ],
@@ -884,8 +884,8 @@
  {
   "id": "s2077:00f0f",
   "jp": "って、どうやって沈めるんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Wait, how do we sink it?",
+  "status": "done",
   "slots": [
    "0x35dd"
   ],
@@ -895,8 +895,8 @@
  {
   "id": "s2077:00f30",
   "jp": "私とイシュトで、\nユーフォリアを沈める。",
-  "en": "",
-  "status": "todo",
+  "en": "You and me, Ishut. We'll sink Euforia\ntogether.",
+  "status": "done",
   "slots": [
    "0x35f6"
   ],
@@ -906,8 +906,8 @@
  {
   "id": "s2077:00f5c",
   "jp": "どういうこと……？",
-  "en": "",
-  "status": "todo",
+  "en": "What do you mean...?",
+  "status": "done",
   "slots": [
    "0x360f"
   ],
@@ -917,8 +917,8 @@
  {
   "id": "s2077:00f73",
   "jp": "私は、ユーフォリアの核。\n私がユーフォリアの\n核になれば……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm Euforia's core. If I become Euforia's\ncore...",
+  "status": "done",
   "slots": [
    "0x3628"
   ],
@@ -928,8 +928,8 @@
  {
   "id": "s2077:00fb4",
   "jp": "そして、イシュトの剣を\n台座に刺せば、ユーフォリアは\n再び海に沈む。",
-  "en": "",
-  "status": "todo",
+  "en": "And then, if you put your sword in the\npedestal, Ishut, Euforia will sink into the sea\nagain.",
+  "status": "done",
   "slots": [
    "0x3632"
   ],
@@ -939,8 +939,8 @@
  {
   "id": "s2077:00ffb",
   "jp": "ルルゥはどうするんですか……？",
-  "en": "",
-  "status": "todo",
+  "en": "What happens to you, Ruru...?",
+  "status": "done",
   "slots": [
    "0x364b"
   ],
@@ -950,8 +950,8 @@
  {
   "id": "s2077:0101e",
   "jp": "……私は、ここが故郷だから。",
-  "en": "",
-  "status": "todo",
+  "en": "...This is my home, after all.",
+  "status": "done",
   "slots": [
    "0x3661"
   ],
@@ -961,8 +961,8 @@
  {
   "id": "s2077:0103f",
   "jp": "ユーフォリアと共に沈む気か。",
-  "en": "",
-  "status": "todo",
+  "en": "You mean to go down with Euforia.",
+  "status": "done",
   "slots": [
    "0x3677"
   ],
@@ -972,8 +972,8 @@
  {
   "id": "s2077:01060",
   "jp": "そんな！",
-  "en": "",
-  "status": "todo",
+  "en": "No way!",
+  "status": "done",
   "slots": [
    "0x36a9"
   ],
@@ -983,8 +983,8 @@
  {
   "id": "s2077:0106d",
   "jp": "ダメだ！　そんなの！",
-  "en": "",
-  "status": "todo",
+  "en": "No! I won't have it!",
+  "status": "done",
   "slots": [
    "0x36c2"
   ],
@@ -994,8 +994,8 @@
  {
   "id": "s2077:01086",
   "jp": "遺跡のカードもない。\n私もいない。これでユーフォリアが\n沈めば……全てが終わる。",
-  "en": "",
-  "status": "todo",
+  "en": "No more ruin cards. No more me. If Euforia\nsinks now... it all ends.",
+  "status": "done",
   "slots": [
    "0x36db"
   ],
@@ -1005,8 +1005,8 @@
  {
   "id": "s2077:010d9",
   "jp": "だけど……！",
-  "en": "",
-  "status": "todo",
+  "en": "But...!",
+  "status": "done",
   "slots": [
    "0x36f4"
   ],
@@ -1016,8 +1016,8 @@
  {
   "id": "s2077:010ea",
   "jp": "俺は賛成だ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm for it.",
+  "status": "done",
   "slots": [
    "0x371b"
   ],
@@ -1027,8 +1027,8 @@
  {
   "id": "s2077:010fb",
   "jp": "親父！",
-  "en": "",
-  "status": "todo",
+  "en": "Dad!",
+  "status": "done",
   "slots": [
    "0x3734"
   ],
@@ -1038,8 +1038,8 @@
  {
   "id": "s2077:01106",
   "jp": "ユーフォリアの力を利用しようと\nするやつは腐るほどいるんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "There's more folks than ya can count who'd\ntry to use Euforia's power.",
+  "status": "done",
   "slots": [
    "0x374d"
   ],
@@ -1049,8 +1049,8 @@
  {
   "id": "s2077:01146",
   "jp": "そんな人達に利用されるなら、\nいっそ……。",
-  "en": "",
-  "status": "todo",
+  "en": "If it's gonna be used by people like that,\nthen better to just...",
+  "status": "done",
   "slots": [
    "0x3766"
   ],
@@ -1060,8 +1060,8 @@
  {
   "id": "s2077:01174",
   "jp": "……正論、ね。",
-  "en": "",
-  "status": "todo",
+  "en": "...She's right, isn't she.",
+  "status": "done",
   "slots": [
    "0x377c"
   ],
@@ -1071,8 +1071,8 @@
  {
   "id": "s2077:01187",
   "jp": "イシュト、剣を、台座に。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, the sword. In the pedestal.",
+  "status": "done",
   "slots": [
    "0x3792"
   ],
@@ -1082,8 +1082,8 @@
  {
   "id": "s2077:011a4",
   "jp": "クソッ……。\nうをおおおおおぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it... Uwoooooooh!!",
+  "status": "done",
   "slots": [
    "0x37c0"
   ],
@@ -1093,8 +1093,8 @@
  {
   "id": "s2077:011ca",
   "jp": "カードを渡して、イシュト。",
-  "en": "",
-  "status": "todo",
+  "en": "Give me the cards, Ishut.",
+  "status": "done",
   "slots": [
    "0x383a"
   ],
@@ -1104,8 +1104,8 @@
  {
   "id": "s2077:011e9",
   "jp": "ぐ……ううぅ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh... Uuugh!",
+  "status": "done",
   "slots": [
    "0x3853"
   ],
@@ -1126,8 +1126,8 @@
  {
   "id": "s2077:0120b",
   "jp": "……ほらよ！",
-  "en": "",
-  "status": "todo",
+  "en": "...Here ya go!",
+  "status": "done",
   "slots": [
    "0x38a1"
   ],
@@ -1148,8 +1148,8 @@
  {
   "id": "s2077:0122d",
   "jp": "オールカード・インストール\nエネルギー・チャージ",
-  "en": "",
-  "status": "todo",
+  "en": "All cards. Install. Energy. Charge.",
+  "status": "done",
   "slots": [
    "0x38c4"
   ],
@@ -1159,8 +1159,8 @@
  {
   "id": "s2077:01261",
   "jp": "シンフォニア……起動！",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia... activate!",
+  "status": "done",
   "slots": [
    "0x39f6"
   ],
@@ -1170,8 +1170,8 @@
  {
   "id": "s2077:0127c",
   "jp": "すごい……これが、シンフォニア。\n……綺麗。",
-  "en": "",
-  "status": "todo",
+  "en": "Amazing... So this is Symphonia. ...It's\nbeautiful.",
+  "status": "done",
   "slots": [
    "0x3a39"
   ],
@@ -1181,8 +1181,8 @@
  {
   "id": "s2077:012ac",
   "jp": "シンフォニアセット\nプログラム“ユーフォリア”起動！",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia. Set. Program \"Euforia\".\nActivate!",
+  "status": "done",
   "slots": [
    "0x3a52"
   ],
@@ -1192,8 +1192,8 @@
  {
   "id": "s2077:012e4",
   "jp": "ルルゥ……ルルゥ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru... Ruru!",
+  "status": "done",
   "slots": [
    "0x3a87"
   ],
@@ -1203,8 +1203,8 @@
  {
   "id": "s2077:012fb",
   "jp": "なにモタモタしてんだ！\n早く船に乗り込め！",
-  "en": "",
-  "status": "todo",
+  "en": "What're ya dawdlin' for!? Get on the ship,\nnow!",
+  "status": "done",
   "slots": [
    "0x3aa0"
   ],
@@ -1214,8 +1214,8 @@
  {
   "id": "s2077:01329",
   "jp": "俺は、残る！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm stayin'!",
+  "status": "done",
   "slots": [
    "0x3adc"
   ],
@@ -1225,8 +1225,8 @@
  {
   "id": "s2077:0133a",
   "jp": "ええぇぇ！？　あ、兄貴！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaaat!? B-Boss!?",
+  "status": "done",
   "slots": [
    "0x3af5"
   ],
@@ -1236,8 +1236,8 @@
  {
   "id": "s2077:01359",
   "jp": "馬鹿言ってないで早く乗りなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Quit talking nonsense and get on board!",
+  "status": "done",
   "slots": [
    "0x3b0e"
   ],
@@ -1247,8 +1247,8 @@
  {
   "id": "s2077:0137e",
   "jp": "いいんだ！\n……俺は、残る。",
-  "en": "",
-  "status": "todo",
+  "en": "It's fine! ...I'm stayin'.",
+  "status": "done",
   "slots": [
    "0x3b27"
   ],
@@ -1258,8 +1258,8 @@
  {
   "id": "s2077:0139e",
   "jp": "イシュト、ダメだよ。\nイシュトにだって、まだやることが\nあるでしょ？",
-  "en": "",
-  "status": "todo",
+  "en": "No, Ishut. You still have things to do too,\ndon't you?",
+  "status": "done",
   "slots": [
    "0x3b4e"
   ],
@@ -1269,8 +1269,8 @@
  {
   "id": "s2077:013e5",
   "jp": "ルルゥ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru...",
+  "status": "done",
   "slots": [
    "0x3b67"
   ],
@@ -1280,8 +1280,8 @@
  {
   "id": "s2077:013f6",
   "jp": "ここから、新しい歴史が始まる。\nイシュト、あなたはその歴史の\n最初の人になって。",
-  "en": "",
-  "status": "todo",
+  "en": "A new history starts here. Ishut, be the\nfirst person of that history.",
+  "status": "done",
   "slots": [
    "0x3b80"
   ],
@@ -1291,8 +1291,8 @@
  {
   "id": "s2077:01449",
   "jp": "歴史の、最初の人……？\n新たなる……海賊時代、か。",
-  "en": "",
-  "status": "todo",
+  "en": "The first person of history...? A new... age\nof pirates, huh.",
+  "status": "done",
   "slots": [
    "0x3b99"
   ],
@@ -1302,8 +1302,8 @@
  {
   "id": "s2077:0147f",
   "jp": "だから、ね？",
-  "en": "",
-  "status": "todo",
+  "en": "So, okay?",
+  "status": "done",
   "slots": [
    "0x3bb2"
   ],
@@ -1313,8 +1313,8 @@
  {
   "id": "s2077:01490",
   "jp": "……いつか俺一人でユーフォリアを\n復活させてやるからな！",
-  "en": "",
-  "status": "todo",
+  "en": "...Someday I'm gonna bring Euforia back all\nby myself, ya hear!",
+  "status": "done",
   "slots": [
    "0x3be7"
   ],
@@ -1324,8 +1324,8 @@
  {
   "id": "s2077:014cc",
   "jp": "うん、待ってる。",
-  "en": "",
-  "status": "todo",
+  "en": "Okay, I'll be waiting.",
+  "status": "done",
   "slots": [
    "0x3c00"
   ],
@@ -1335,8 +1335,8 @@
  {
   "id": "s2077:014e1",
   "jp": "……よし！　親父！\n出航だぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "...All right! Dad! Let's set sail!",
+  "status": "done",
   "slots": [
    "0x3c39"
   ],
@@ -1346,8 +1346,8 @@
  {
   "id": "s2077:01503",
   "jp": "調子いいなぁおい。\nわぁったよ。お前ら！\n出航ォ！",
-  "en": "",
-  "status": "todo",
+  "en": "You've sure perked up, huh. Fine, fine. You\nlot! Set saaail!",
+  "status": "done",
   "slots": [
    "0x3c52"
   ],
@@ -1357,8 +1357,8 @@
  {
   "id": "s2077:01538",
   "jp": "ルルゥ！　また会いましょう！\nセクシーになった僕を見せて\nあげますよー！",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru! Let's meet again! I'll show you the new,\nsexy me!",
+  "status": "done",
   "slots": [
    "0x3d44"
   ],
@@ -1368,8 +1368,8 @@
  {
   "id": "s2077:01583",
   "jp": "馬鹿達の面倒はあたしがみるから\n安心しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "I'll look after these idiots, so don't you\nworry!",
+  "status": "done",
   "slots": [
    "0x3d81"
   ],
@@ -1379,8 +1379,8 @@
  {
   "id": "s2077:015b5",
   "jp": "ルルゥー好きだー！\n結婚してくれー！",
-  "en": "",
-  "status": "todo",
+  "en": "Ruruuu, I love ya! Marry meee!",
+  "status": "done",
   "slots": [
    "0x3de1"
   ],
@@ -1390,8 +1390,8 @@
  {
   "id": "s2077:015dd",
   "jp": "うーん！　私も大好きだよー！",
-  "en": "",
-  "status": "todo",
+  "en": "Mmm-hmm! I love you too, lots!",
+  "status": "done",
   "slots": [
    "0x3dfa"
   ],
@@ -1401,8 +1401,8 @@
  {
   "id": "s2077:015fe",
   "jp": "マジで！？\nオ、オイ聞いたか今の。",
-  "en": "",
-  "status": "todo",
+  "en": "Seriously!? H-Hey, did you hear that just\nnow?",
+  "status": "done",
   "slots": [
    "0x3e13"
   ],
@@ -1412,8 +1412,8 @@
  {
   "id": "s2077:01624",
   "jp": "ハイハイ、落ち着きましょうね。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, yes, let's all calm down now.",
+  "status": "done",
   "slots": [
    "0x3e2c"
   ],
@@ -1423,8 +1423,8 @@
  {
   "id": "s2077:01647",
   "jp": "よっしゃあ！　俺は、やるぞー！\nうおおぉぉぉぉぉぉぉぉ！！！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeeeah! I'm gonna do it! Uoooooooooooh!!!",
+  "status": "done",
   "slots": [
    "0x3e53"
   ],
@@ -1434,8 +1434,8 @@
  {
   "id": "s2077:01687",
   "jp": "うるさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Shut up!",
+  "status": "done",
   "slots": [
    "0x3e68"
   ],

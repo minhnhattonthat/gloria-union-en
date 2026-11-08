@@ -178,8 +178,8 @@
  {
   "id": "s2081:0042a",
   "jp": "ヘッ、言われなくたって、\nすぐに追いついてやるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, you don't gotta tell me. I'll catch up to\nya in no time!",
+  "status": "done",
   "slots": [
    "0xb22"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2081:00460",
   "jp": "ん？\nなんで、この一行だけぐちゃーって\nなってるの？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Why is just this one line all scribbled\nout?",
+  "status": "done",
   "slots": [
    "0xb37"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2081:00497",
   "jp": "それはねぇ、乙女心って奴ですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "That, you see, is what they call a maiden's\nheart.",
+  "status": "done",
   "slots": [
    "0xb49"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2081:004bc",
   "jp": "おとめごころ？\n……ふーん。",
-  "en": "",
-  "status": "todo",
+  "en": "A maiden's heart? ...Hmmm.",
+  "status": "done",
   "slots": [
    "0xb5b"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2081:004dc",
   "jp": "ル、ルルゥ、顔が怖いですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "R-Ruru, your face is scary.",
+  "status": "done",
   "slots": [
    "0xb6d"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2081:004fd",
   "jp": "イシュト！\n次の進路はどっち？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut! Which way do we head next?",
+  "status": "done",
   "slots": [
    "0xb9b"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2081:0051f",
   "jp": "あぁ、\nこの先に、まだ見ぬ古代遺跡が\nあるらしいんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, word is there's an ancient ruin up\nahead nobody's seen yet!",
+  "status": "done",
   "slots": [
    "0xbb0"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2081:00558",
   "jp": "グロリア海賊団には\n負けていられねぇ！\nお前ら！　出航だぁー！！",
-  "en": "",
-  "status": "todo",
+  "en": "Can't let the Gloria Pirates beat us! You lot!\nSet saaail!!",
+  "status": "done",
   "slots": [
    "0xbc5"
   ],

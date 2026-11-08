@@ -24,8 +24,8 @@
  {
   "id": "s2079:00050",
   "jp": "僕は……ただ幸せに、なりたかった\n……なりたかったんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I... just wanted to be happy... I wanted to be\nhappy.",
+  "status": "done",
   "slots": [
    "0x18fe"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2079:0008c",
   "jp": "ユーフォリアに頼らなくたって……\n幸せはどこにでもあったんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Even without relying on Euforia... happiness\nwas everywhere.",
+  "status": "done",
   "slots": [
    "0x1917"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2079:000ce",
   "jp": "お前は、それを知らなかっただけだ\n……ただ、それだけなんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "You just didn't know that... That's all it was.",
+  "status": "done",
   "slots": [
    "0x1921"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2079:0010e",
   "jp": "……そうか。\nそれは……知らなかったな……。",
-  "en": "",
-  "status": "todo",
+  "en": "...I see. I... never knew that...",
+  "status": "done",
   "slots": [
    "0x193a"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2079:0013e",
   "jp": "もし、僕が末裔でなければ\n……幸せを、感じられていたの\nだろうか……。",
-  "en": "",
-  "status": "todo",
+  "en": "If I hadn't been a descendant... could I have\nfelt happiness, I wonder...",
+  "status": "done",
   "slots": [
    "0x1944"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2079:00187",
   "jp": "あぁ、そうだろうな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, I bet ya could've...",
+  "status": "done",
   "slots": [
    "0x195d"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2079:001a4",
   "jp": "イシュト……一つだけ、兄として、\n頼みごとをしても、いいかい？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut... May I ask you just one favour, as your\nolder brother?",
+  "status": "done",
   "slots": [
    "0x1976"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2079:001e6",
   "jp": "……なんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "...What is it?",
+  "status": "done",
   "slots": [
    "0x198f"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2079:001f7",
   "jp": "僕に、幸せを……教えてくれないか",
-  "en": "",
-  "status": "todo",
+  "en": "Would you... teach me happiness?",
+  "status": "done",
   "slots": [
    "0x19a8"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2079:0021c",
   "jp": "……あぁ。いいぜ。\nたっぷり教えてやる。",
-  "en": "",
-  "status": "todo",
+  "en": "...Yeah. Sure thing. I'll teach ya plenty.",
+  "status": "done",
   "slots": [
    "0x19c1"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2079:00248",
   "jp": "そうか……それは……楽しみだな！",
-  "en": "",
-  "status": "todo",
+  "en": "I see... Then... I look forward to it!",
+  "status": "done",
   "slots": [
    "0x19da"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2079:0026d",
   "jp": "なにッ！\nぐああああああああああぁぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "What!? Gwaaaaaaaaaaaaaaaah!!",
+  "status": "done",
   "slots": [
    "0x1a61"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2079:002aa",
   "jp": "あ、兄貴！？\nどうしたんですか！",
-  "en": "",
-  "status": "todo",
+  "en": "B-Boss!? What's wrong!?",
+  "status": "done",
   "slots": [
    "0x1a93"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2079:002ce",
   "jp": "なに、これ……。\nそんなの、おかしいよ……！",
-  "en": "",
-  "status": "todo",
+  "en": "What is this...? This isn't right...!",
+  "status": "done",
   "slots": [
    "0x1ac8"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2079:00315",
   "jp": "二人が、一人になろうとしてる。\nアシュレイとイシュトが、\n一つになろうとしているの！",
-  "en": "",
-  "status": "todo",
+  "en": "The two of them are trying to become one.\nAshrey and Ishut are trying to become one!",
+  "status": "done",
   "slots": [
    "0x1afa"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2079:0036c",
   "jp": "なにぃ！？\nそいつは一体、どういうことだ！",
-  "en": "",
-  "status": "todo",
+  "en": "What!? What the hell does that mean!?",
+  "status": "done",
   "slots": [
    "0x1b1a"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2079:0039a",
   "jp": "アシュレイ、てめえええぇぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey, you bastaaaaard!",
+  "status": "done",
   "slots": [
    "0x1b48"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2079:003bb",
   "jp": "イシュト、\nお前は僕と一つになってくれ！\nそして、僕の夢を叶えてくれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, become one with me! And make my\ndream come true!",
+  "status": "done",
   "slots": [
    "0x1b61"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2079:00404",
   "jp": "イシュトの体から、\nアシュレイの声が聞こえる……。",
-  "en": "",
-  "status": "todo",
+  "en": "I can hear Ashrey's voice coming from\nIshut's body...",
+  "status": "done",
   "slots": [
    "0x1b7a"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2079:0043a",
   "jp": "……わかった！\n王族の末裔は、やっぱり一人だけ\nだったんだよ！",
-  "en": "",
-  "status": "todo",
+  "en": "...I get it! There really was only one\ndescendant of the royal family!",
+  "status": "done",
   "slots": [
    "0x1bb6"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2079:0047b",
   "jp": "はぁ？\n王族の末裔は、イシュトと\nアシュレイの二人でしょ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? The royal descendants are two people,\nIshut and Ashrey, right!?",
+  "status": "done",
   "slots": [
    "0x1bcf"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2079:004ba",
   "jp": "キーラさんが言ってたでしょ？\n面白いことになっているな\nって。",
-  "en": "",
-  "status": "todo",
+  "en": "Remember what Kyra-san said? \"Things\nhave gotten interesting.\"",
+  "status": "done",
   "slots": [
    "0x1be8"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2079:004fb",
   "jp": "多分、王族のウィルは、イシュトと\nアシュレイがお腹の中に生まれた\n瞬間に、二つに分割されたんだよ！",
-  "en": "",
-  "status": "todo",
+  "en": "The royal Will was probably split in two the\nmoment Ishut and Ashrey were conceived in\nthe womb!",
+  "status": "done",
   "slots": [
    "0x1bf2"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2079:00560",
   "jp": "なるほど。\n二つに分かれた王族のウィルが、\n今戻ろうとしているわけか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. So the royal Will that split in two is\ntryin' to go back together now.",
+  "status": "done",
   "slots": [
    "0x1c27"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2079:005a9",
   "jp": "兄貴一人でも馬鹿みたいな量なのに\nアシュレイも加わったとなると。",
-  "en": "",
-  "status": "todo",
+  "en": "The Boss alone has a ridiculous amount of it,\nand now Ashrey's joining in too...",
+  "status": "done",
   "slots": [
    "0x1c40"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2079:005ed",
   "jp": "それよりも問題なのは\n“どちらの意思が生きるか”",
-  "en": "",
-  "status": "todo",
+  "en": "The bigger problem is \"whose will is going to\nlive.\"",
+  "status": "done",
   "slots": [
    "0x1c59"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2079:00621",
   "jp": "より意思の強い方に、\n人格が左右されるってこと？",
-  "en": "",
-  "status": "todo",
+  "en": "You mean whoever has the stronger will\ngets to decide the personality?",
+  "status": "done",
   "slots": [
    "0x1c72"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2079:00655",
   "jp": "うん。\n意思は思い、思いは、人だから。",
-  "en": "",
-  "status": "todo",
+  "en": "Mm-hmm. Will is feeling, and feeling is the\nperson.",
+  "status": "done",
   "slots": [
    "0x1c8b"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2079:0067f",
   "jp": "俺の意思は俺の意思だ！\nアシュレイ、てめぇになんか\nやれるかよおおおぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "My will is my will! Like I'd ever hand it over\nto you, Ashrey!!",
+  "status": "done",
   "slots": [
    "0x1cc0"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2079:006cc",
   "jp": "僕は生涯幸せを求めてきたんだ！\n僕の方が、僕の意思の方が、強い！",
-  "en": "",
-  "status": "todo",
+  "en": "I have sought happiness my whole life! I am\nstronger, my will is stronger!",
+  "status": "done",
   "slots": [
    "0x1cd9"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2079:00710",
   "jp": "ッ！　体が！",
-  "en": "",
-  "status": "todo",
+  "en": "...! My body!",
+  "status": "done",
   "slots": [
    "0x1cf2"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2079:00721",
   "jp": "きゃあああぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyaaaaah!",
+  "status": "done",
   "slots": [
    "0x1d3d"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2079:00734",
   "jp": "アシュレイが、イシュトの体を\n動かしている！？",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey is moving Ishut's body!?",
+  "status": "done",
   "slots": [
    "0x1d64"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2079:00766",
   "jp": "イシュトの意思の支えである\nお前らは邪魔だ！\nさっさと消えろぉぉぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "You people hold up Ishut's will, so you are in\nthe way! Disappear, noooow!!",
+  "status": "done",
   "slots": [
    "0x1d7d"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2079:007af",
   "jp": "チクショウ止めろ！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it, stop!",
+  "status": "done",
   "slots": [
    "0x1d96"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2079:007c6",
   "jp": "チッ……お前ら！　構えろ！",
-  "en": "",
-  "status": "todo",
+  "en": "Tch... You lot! Get ready!",
+  "status": "done",
   "slots": [
    "0x1dcb"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2079:007e5",
   "jp": "ちょ、親父。何考えてるのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "W-Wait, Dad. What are you thinking!?",
+  "status": "done",
   "slots": [
    "0x1de4"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2079:00806",
   "jp": "ぶつけてやるのさ。\n俺達の意思をな。",
-  "en": "",
-  "status": "todo",
+  "en": "We're gonna hit him with it. With our will.",
+  "status": "done",
   "slots": [
    "0x1dfd"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2079:0082e",
   "jp": "イシュトの意思は私達に\n支えられているとアシュレイは\n言った。ということは。",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey said Ishut's will is held up by us. So\nthat means...",
+  "status": "done",
   "slots": [
    "0x1e16"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2079:0087d",
   "jp": "ボク達の意思をぶつければ\n兄貴の意思が勝つ。\nそういうことですね。",
-  "en": "",
-  "status": "todo",
+  "en": "If we hit him with our will, the Boss's will\nwins. That's the idea, isn't it?",
+  "status": "done",
   "slots": [
    "0x1e3d"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2079:008c2",
   "jp": "……なるほどね。\nじゃあ、殺さない程度に、\n喝をいれてやりますか！",
-  "en": "",
-  "status": "todo",
+  "en": "...I see. Then let's knock some sense into\nhim, short of killing him!",
+  "status": "done",
   "slots": [
    "0x1e56"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2079:00907",
   "jp": "いいわね！？　イシュト！",
-  "en": "",
-  "status": "todo",
+  "en": "You ready!? Ishut!",
+  "status": "done",
   "slots": [
    "0x1e6b"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2079:00924",
   "jp": "あぁ、どんとこい！！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, bring it on!!",
+  "status": "done",
   "slots": [
    "0x1e84"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2079:0093d",
   "jp": "馬鹿な！　\nこの体はイシュトの体なんだぞ！\n下手をすれば二人とも……！",
-  "en": "",
-  "status": "todo",
+  "en": "Are you mad!? This body is Ishut's body! If\nthis goes wrong, we will both...!",
+  "status": "done",
   "slots": [
    "0x1fa3"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2079:00986",
   "jp": "生憎、ウチの家族はスパルタ\nなんでね。",
-  "en": "",
-  "status": "todo",
+  "en": "Too bad, my family's the tough-love type.",
+  "status": "done",
   "slots": [
    "0x1fb8"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2079:009b0",
   "jp": "本当に……いい家族を持った。",
-  "en": "",
-  "status": "todo",
+  "en": "You really... have a good family.",
+  "status": "done",
   "slots": [
    "0x1fcd"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2079:009d1",
   "jp": "だが……！\nこちらにはカードが全種類ある！",
-  "en": "",
-  "status": "todo",
+  "en": "But...! We have every kind of card!",
+  "status": "done",
   "slots": [
    "0x1fe2"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2079:009ff",
   "jp": "たとえグロリア海賊団でも、\nこの力には届くまい！",
-  "en": "",
-  "status": "todo",
+  "en": "Not even the Gloria Pirates can match this\npower!",
+  "status": "done",
   "slots": [
    "0x1fec"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2079:00a33",
   "jp": "そうかい。\nじゃあ一つだけ言っておく。",
-  "en": "",
-  "status": "todo",
+  "en": "That so? Then I'll just say one thing.",
+  "status": "done",
   "slots": [
    "0x2001"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2079:00a5d",
   "jp": "全力で行くぞ。\n力を合わせて頑張ろう。",
-  "en": "",
-  "status": "todo",
+  "en": "We're goin' all out. Let's work together and\ndo our best.",
+  "status": "done",
   "slots": [
    "0x200b"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2079:00a87",
   "jp": "な……！",
-  "en": "",
-  "status": "todo",
+  "en": "What...!",
+  "status": "done",
   "slots": [
    "0x2020"
   ],
@@ -607,8 +607,8 @@
  {
   "id": "s2079:00a94",
   "jp": "俺だってなぁ。\n親父と戦ってみたいんだよ。\n一人でいい思いするんじゃねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, I wanna fight Dad too, ya know. Don't\ngo hoggin' all the fun.",
+  "status": "done",
   "slots": [
    "0x2035"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2079:00ae1",
   "jp": "……フン、馬鹿が。\nならば戦闘はキミの好きにやれ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Hmph, you fool. Then fight however you\nlike.",
+  "status": "done",
   "slots": [
    "0x204a"
   ],
@@ -629,8 +629,8 @@
  {
   "id": "s2079:00b17",
   "jp": "いいのか？",
-  "en": "",
-  "status": "todo",
+  "en": "You sure?",
+  "status": "done",
   "slots": [
    "0x205f"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2079:00b26",
   "jp": "グロリア海賊団を倒すという意味で\nすでに意思は同一になっている。\n争っていても意味は無い。",
-  "en": "",
-  "status": "todo",
+  "en": "In defeating the Gloria Pirates, our wills are\nalready one and the same. There is no point\nin fighting each other.",
+  "status": "done",
   "slots": [
    "0x2074"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2079:00b83",
   "jp": "だが、少しでも戦うことを躊躇い\n意思が離れた時、今度こそ僕は\nキミの体を乗っ取るよ。いいかい？",
-  "en": "",
-  "status": "todo",
+  "en": "But the moment you hesitate to fight even\na little and our wills drift apart, I will take\nover your body for good. Understood?",
+  "status": "done",
   "slots": [
    "0x2089"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2079:00be4",
   "jp": "あぁ、了解。\nそんじゃあ行くぞ！\n兄弟初の共同戦線だ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, got it. Well then, let's go! It's our\nfirst team-up as brothers!!",
+  "status": "done",
   "slots": [
    "0x209e"
   ],
@@ -673,8 +673,8 @@
  {
   "id": "s2079:00c1f",
   "jp": "子分には負けてらんねぇよな！\n来いピンガー！\n久々に兄貴の力をみせてやるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Can't lose to my own henchman, right! Come\non, Pinger! I'll show ya your Boss's power, for\nold times' sake!",
+  "status": "done",
   "slots": [
    "0x21f7"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2079:00c6e",
   "jp": "兄貴……ハイ！\n全力で行きます！",
-  "en": "",
-  "status": "todo",
+  "en": "Boss... Yes! I'm giving it everything!",
+  "status": "done",
   "slots": [
    "0x2211"
   ],
@@ -695,8 +695,8 @@
  {
   "id": "s2079:00c92",
   "jp": "あれ！？\nどうなってるの！？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh!? What's going on!?",
+  "status": "done",
   "slots": [
    "0x22f4"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "s2079:00cb2",
   "jp": "悪いな、カクカクシカジカで\n俺のわがままなんだ。\n勘弁してくれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, yada yada, long story: it's just me\nbein' selfish. Bear with me!",
+  "status": "done",
   "slots": [
    "0x230d"
   ],
@@ -717,8 +717,8 @@
  {
   "id": "s2079:00cf5",
   "jp": "そう、わかった。\nそんなら私も、全力でいくよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Okay, got it. Then I'll give it everything too!",
+  "status": "done",
   "slots": [
    "0x2327"
   ],
@@ -728,8 +728,8 @@
  {
   "id": "s2079:00d27",
   "jp": "まったく、\nアンタってほんっとに馬鹿ね！",
-  "en": "",
-  "status": "todo",
+  "en": "Honestly, you really are a total idiot!",
+  "status": "done",
   "slots": [
    "0x2411"
   ],
@@ -739,8 +739,8 @@
  {
   "id": "s2079:00d53",
   "jp": "そんなこと言っていいのか？\n痛い目見ても知らないぜ？",
-  "en": "",
-  "status": "todo",
+  "en": "Ya sure you should be sayin' that? Don't\nblame me if you get hurt, ya know?",
+  "status": "done",
   "slots": [
    "0x242a"
   ],
@@ -750,8 +750,8 @@
  {
   "id": "s2079:00d8b",
   "jp": "上等。\nアンタこそ、蜂の巣になっても\n知らないわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Bring it. And don't you blame me if you end\nup full of holes!",
+  "status": "done",
   "slots": [
    "0x2444"
   ],
@@ -761,8 +761,8 @@
  {
   "id": "s2079:00dc2",
   "jp": "とうとう、親父を超える時が\n来たってわけだな。",
-  "en": "",
-  "status": "todo",
+  "en": "So the time's finally come for me to surpass\nDad.",
+  "status": "done",
   "slots": [
    "0x2541"
   ],
@@ -772,8 +772,8 @@
  {
   "id": "s2079:00df4",
   "jp": "ヘッ、\nそう易々と超えられて堪るかよぉ。\n来いや、息子！",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, like hell I'll let ya surpass me that easy.\nCome on, son!",
+  "status": "done",
   "slots": [
    "0x255b"
   ],
@@ -783,8 +783,8 @@
  {
   "id": "s2079:00e2f",
   "jp": "あんなにマナーを守れなかった\n少年が、立派になったものだ。",
-  "en": "",
-  "status": "todo",
+  "en": "That boy who never could mind his manners\nhas grown into a fine man.",
+  "status": "done",
   "slots": [
    "0x262f"
   ],
@@ -793,8 +793,8 @@
  {
   "id": "s2079:00e69",
   "jp": "だが、大人として、\nまだまだ負けるわけにはいかない！",
-  "en": "",
-  "status": "todo",
+  "en": "But as an adult, I cannot afford to lose to\nyou yet!",
+  "status": "done",
   "slots": [
    "0x2644"
   ],
@@ -803,8 +803,8 @@
  {
   "id": "s2079:00e9d",
   "jp": "お兄ちゃん、\nいつも遊んでくれてありがとう！",
-  "en": "",
-  "status": "todo",
+  "en": "Big Brother, thank you for always playing\nwith Locomoco!",
+  "status": "done",
   "slots": [
    "0x2711"
   ],
@@ -813,8 +813,8 @@
  {
   "id": "s2079:00ec9",
   "jp": "ロコモコの精一杯の魔法。\n受け止めてね！",
-  "en": "",
-  "status": "todo",
+  "en": "Here's Locomoco's very best magic. Catch\nit, okay!",
+  "status": "done",
   "slots": [
    "0x271b"
   ],
@@ -823,8 +823,8 @@
  {
   "id": "s2079:00ef1",
   "jp": "お仕事手伝ってくれてありがとう\nございましたっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you for helping me with my work, sir!",
+  "status": "done",
   "slots": [
    "0x27ef"
   ],
@@ -833,8 +833,8 @@
  {
   "id": "s2079:00f23",
   "jp": "あぁ、それほどでもな。ヘヘッ。",
-  "en": "",
-  "status": "todo",
+  "en": "Aw, it was nothin'. Hehe.",
+  "status": "done",
   "slots": [
    "0x2808"
   ],
@@ -843,8 +843,8 @@
  {
   "id": "s2079:00f42",
   "jp": "いつかお礼したいんで、\n今度、黄泉の国に来てください。",
-  "en": "",
-  "status": "todo",
+  "en": "I wanna thank you someday, so come visit\nthe Land of the Dead sometime, sir.",
+  "status": "done",
   "slots": [
    "0x2822"
   ],
@@ -853,8 +853,8 @@
  {
   "id": "s2079:00f78",
   "jp": "行くかっ！　縁起悪いわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Like hell I will! That's bad luck!",
+  "status": "done",
   "slots": [
    "0x283b"
   ],
@@ -863,8 +863,8 @@
  {
   "id": "s2079:00f91",
   "jp": "イシュト。キミは私を\n闇の中から救ってくれた。\n感謝している。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut. You saved me from the darkness. I'm\ngrateful.",
+  "status": "done",
   "slots": [
    "0x290f"
   ],
@@ -873,8 +873,8 @@
  {
   "id": "s2079:00fce",
   "jp": "必ず生き残れ、いいな！",
-  "en": "",
-  "status": "todo",
+  "en": "Make sure you survive, understand!",
+  "status": "done",
   "slots": [
    "0x2919"
   ],
@@ -883,8 +883,8 @@
  {
   "id": "s2079:00fe5",
   "jp": "ガガングガガガ、ガガンガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ga-Gangr gagaga, gaganga.",
+  "status": "done",
   "slots": [
    "0x29df"
   ],
@@ -893,8 +893,8 @@
  {
   "id": "s2079:01000",
   "jp": "ガンガ、グガガンガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ganga, gu-gaganga.",
+  "status": "done",
   "slots": [
    "0x29e9"
   ],
@@ -903,8 +903,8 @@
  {
   "id": "s2079:01015",
   "jp": "アナタのお陰で、\n私の正義の価値観が変わりました！",
-  "en": "",
-  "status": "todo",
+  "en": "Thanks to you, my sense of justice has\nchanged!",
+  "status": "done",
   "slots": [
    "0x2ab6"
   ],
@@ -913,8 +913,8 @@
  {
   "id": "s2079:01047",
   "jp": "自分の意思にひたすら突き進む！\n私の意思を、受け取ってください！",
-  "en": "",
-  "status": "todo",
+  "en": "Pressing straight on toward my own will!\nPlease accept my will!",
+  "status": "done",
   "slots": [
    "0x2acb"
   ],
@@ -923,8 +923,8 @@
  {
   "id": "s2079:01087",
   "jp": "僕は最初、キミをライバルだと\n思い込んでいた……\nしかし、今は違う！",
-  "en": "",
-  "status": "todo",
+  "en": "At first, I was convinced you were my rival...\nBut not anymore!",
+  "status": "done",
   "slots": [
    "0x2b9f"
   ],
@@ -933,8 +933,8 @@
  {
   "id": "s2079:010ca",
   "jp": "キミは、僕の目標だ！\n僕は……イシュト！\nキミを超えるぞぉぉぉ！！！",
-  "en": "",
-  "status": "todo",
+  "en": "You are my goal! I... Ishut! I will surpass\nyooou!!!",
+  "status": "done",
   "slots": [
    "0x2bb4"
   ],
@@ -943,8 +943,8 @@
  {
   "id": "s2079:0110d",
   "jp": "アナタは見てて本当に飽きないわ。\nとっても面白い子。",
-  "en": "",
-  "status": "todo",
+  "en": "I never get bored watching you, dear. You're\nsuch an interesting boy.",
+  "status": "done",
   "slots": [
    "0x2c88"
   ],
@@ -953,8 +953,8 @@
  {
   "id": "s2079:01141",
   "jp": "まだ見ていたいから、\nいなくならないでね？",
-  "en": "",
-  "status": "todo",
+  "en": "I want to keep watching, so don't you go\ndisappearing, okay?",
+  "status": "done",
   "slots": [
    "0x2c9d"
   ],
@@ -963,8 +963,8 @@
  {
   "id": "s2079:0116b",
   "jp": "アナタみたいな熱血系。\n嫌いじゃないんだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hot-blooded types like you... I don't hate\n'em, dontcha know.",
+  "status": "done",
   "slots": [
    "0x2d6a"
   ],
@@ -973,8 +973,8 @@
  {
   "id": "s2079:01199",
   "jp": "このパメラ様の最強の攻撃に\n耐えられたら、もっと嫌いじゃ\nなくなるかもね。",
-  "en": "",
-  "status": "todo",
+  "en": "If you can take the Great Pamela-sama's\nstrongest attack, maybe I'll hate you even\nless.",
+  "status": "done",
   "slots": [
    "0x2d74"
   ],
@@ -983,8 +983,8 @@
  {
   "id": "s2079:011e2",
   "jp": "アナタはとても魅力溢れる\n男性ですわ！",
-  "en": "",
-  "status": "todo",
+  "en": "You are a man overflowing with charm!",
+  "status": "done",
   "slots": [
    "0x2e4f"
   ],
@@ -993,8 +993,8 @@
  {
   "id": "s2079:01208",
   "jp": "アナタの詩。完成したらとても\n素晴らしいものになるでしょう。\nだから、勝たせていただきますわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Your song will be truly wonderful once it is\ncomplete. And so, I shall be taking the\nvictory!",
+  "status": "done",
   "slots": [
    "0x2e64"
   ],
@@ -1003,8 +1003,8 @@
  {
   "id": "s2079:01265",
   "jp": "ィイシュトォォ！！\nこれは戦争でも決闘でもねぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Iiishuuut!! This ain't a war or a duel!",
+  "status": "done",
   "slots": [
    "0x2ea9"
   ],
@@ -1013,8 +1013,8 @@
  {
   "id": "s2079:01295",
   "jp": "これは……。\n男の喧嘩だぁぁぁ！！！",
-  "en": "",
-  "status": "todo",
+  "en": "This is... a fight between men!!!",
+  "status": "done",
   "slots": [
    "0x2eb3"
   ],
@@ -1023,8 +1023,8 @@
  {
   "id": "s2079:012b9",
   "jp": "そんな……僕が……消える！",
-  "en": "",
-  "status": "todo",
+  "en": "No... I am... disappearing!",
+  "status": "done",
   "slots": [
    "0x3055"
   ],
@@ -1034,8 +1034,8 @@
  {
   "id": "s2079:012d8",
   "jp": "俺は、死にそうなんだけどな……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm the one who's about to die, though...",
+  "status": "done",
   "slots": [
    "0x306a"
   ],
@@ -1045,8 +1045,8 @@
  {
   "id": "s2079:012fd",
   "jp": "終わってない……僕は……\nまだ終わってない！",
-  "en": "",
-  "status": "todo",
+  "en": "It's not over... I... I'm not finished yet!",
+  "status": "done",
   "slots": [
    "0x307f"
   ],
@@ -1056,8 +1056,8 @@
  {
   "id": "s2079:0132d",
   "jp": "いいか！\n僕は、お前と一つとなるのだ！\nお前の中で、生き続けるのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Listen! I will become one with you! I will live\non inside you!",
+  "status": "done",
   "slots": [
    "0x3089"
   ],
@@ -1067,8 +1067,8 @@
  {
   "id": "s2079:01374",
   "jp": "光が、消えた……。",
-  "en": "",
-  "status": "todo",
+  "en": "The light's gone...",
+  "status": "done",
   "slots": [
    "0x3790"
   ],
@@ -1078,8 +1078,8 @@
  {
   "id": "s2079:0138b",
   "jp": "どっち……ですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Which one... is it?",
+  "status": "done",
   "slots": [
    "0x37a9"
   ],
@@ -1089,8 +1089,8 @@
  {
   "id": "s2079:013a2",
   "jp": "つぅ……イテテ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh... Ow ow ow.",
+  "status": "done",
   "slots": [
    "0x37c2"
   ],
@@ -1100,8 +1100,8 @@
  {
   "id": "s2079:013b7",
   "jp": "イシュト、イシュトだよね？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, it's you, Ishut, right?",
+  "status": "done",
   "slots": [
    "0x37db"
   ],
@@ -1111,8 +1111,8 @@
  {
   "id": "s2079:013d6",
   "jp": "……あぁ、俺だ。\nイシュトだ。\nアシュレイは……消えた。",
-  "en": "",
-  "status": "todo",
+  "en": "...Yeah, it's me. Ishut. Ashrey's... gone.",
+  "status": "done",
   "slots": [
    "0x3800"
   ],
@@ -1122,8 +1122,8 @@
  {
   "id": "s2079:01411",
   "jp": "イシュト……イシュト！\n間違えるわけない！\nイシュト！！",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut... Ishut! There's no mistaking it! Ishut!!",
+  "status": "done",
   "slots": [
    "0x381d"
   ],
@@ -1133,8 +1133,8 @@
  {
   "id": "s2079:0144c",
   "jp": "……やったぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "...We did it!",
+  "status": "done",
   "slots": [
    "0x3856"
   ],
@@ -1155,8 +1155,8 @@
  {
   "id": "s2079:0146a",
   "jp": "たいしたもんだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Not bad at all.",
+  "status": "done",
   "slots": [
    "0x3893"
   ],
@@ -1166,8 +1166,8 @@
  {
   "id": "s2079:01481",
   "jp": "瀕死だけどな。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm half dead, though.",
+  "status": "done",
   "slots": [
    "0x38ac"
   ],
@@ -1177,8 +1177,8 @@
  {
   "id": "s2079:01494",
   "jp": "それは仕方ないでしょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, that can't be helped.",
+  "status": "done",
   "slots": [
    "0x38c5"
   ],
@@ -1188,8 +1188,8 @@
  {
   "id": "s2079:014b1",
   "jp": "……負けた、な。\n完敗だ。",
-  "en": "",
-  "status": "todo",
+  "en": "...I lost, huh. Totally beaten.",
+  "status": "done",
   "slots": [
    "0x38de"
   ],
@@ -1199,8 +1199,8 @@
  {
   "id": "s2079:014cf",
   "jp": "獣人に、伝説に、サラブレッドに、\n元将軍ですよ？",
-  "en": "",
-  "status": "todo",
+  "en": "A beastman, a legend, a thoroughbred and\nan ex-general, you know?",
+  "status": "done",
   "slots": [
    "0x38fe"
   ],
@@ -1210,8 +1210,8 @@
  {
   "id": "s2079:01503",
   "jp": "……濃いなぁ～。",
-  "en": "",
-  "status": "todo",
+  "en": "...What a heavy crowd.",
+  "status": "done",
   "slots": [
    "0x3917"
   ],
@@ -1221,8 +1221,8 @@
  {
   "id": "s2079:01518",
   "jp": "アンタだって充分濃いわよ。\nむしろ、まともな人間なんて\nこの船には乗ってないわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "You're plenty heavy yourself. If anything,\nthere isn't a single normal person on this\nship.",
+  "status": "done",
   "slots": [
    "0x3930"
   ],
@@ -1232,8 +1232,8 @@
  {
   "id": "s2079:0156d",
   "jp": "まぁな！",
-  "en": "",
-  "status": "todo",
+  "en": "Got that right!",
+  "status": "done",
   "slots": [
    "0x3949"
   ],
@@ -1243,8 +1243,8 @@
  {
   "id": "s2079:0157a",
   "jp": "これで……終わったんだな。",
-  "en": "",
-  "status": "todo",
+  "en": "So... it's over now, huh.",
+  "status": "done",
   "slots": [
    "0x3970"
   ],
@@ -1254,8 +1254,8 @@
  {
   "id": "s2079:01599",
   "jp": "うん。全部。",
-  "en": "",
-  "status": "todo",
+  "en": "Mm-hmm. All of it.",
+  "status": "done",
   "slots": [
    "0x3989"
   ],
@@ -1265,8 +1265,8 @@
  {
   "id": "s2079:015aa",
   "jp": "ルキア皇国とエルマーレ連合国。\n二つの大国が敗れて、世界は大変な\nことになるわねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire and the Elmare Federation.\nWith both great powers defeated, the\nworld's going to be in a real mess.",
+  "status": "done",
   "slots": [
    "0x399f"
   ],
@@ -1276,8 +1276,8 @@
  {
   "id": "s2079:01601",
   "jp": "そうだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, I guess.",
+  "status": "done",
   "slots": [
    "0x39b8"
   ],
@@ -1287,8 +1287,8 @@
  {
   "id": "s2079:01612",
   "jp": "簡単に終わらねぇよ。\n戦争ってやつはな……。",
-  "en": "",
-  "status": "todo",
+  "en": "It won't end that easy. Not a thing like\nwar...",
+  "status": "done",
   "slots": [
    "0x39df"
   ],
@@ -1298,8 +1298,8 @@
  {
   "id": "s2079:01642",
   "jp": "……なぁ。\n最後に一つだけ、わがまま言っても\nいいかな？",
-  "en": "",
-  "status": "todo",
+  "en": "...Hey. Can I be selfish about just one last\nthing?",
+  "status": "done",
   "slots": [
    "0x39f8"
   ],

@@ -46,7 +46,8 @@ def docs():
 
 
 def needs_english(entry):
-    return bool(entry.get("jp")) and entry.get("status") != "data" and not entry.get("en")
+    # blank boxes (fullwidth spaces only, e.g. the ending letters drawn as images) keep their original bytes
+    return bool(entry.get("jp", "").strip()) and entry.get("status") != "data" and not entry.get("en")
 
 
 def group_of(entry):
@@ -299,7 +300,7 @@ def same_jp(entries):
 
 
 def check_batch(batch, entries, terms, groups):
-    want = [r[0] for r in read_tsv(TL / f"{batch}.tsv")]
+    want = [r[0] for r in read_tsv(TL / f"{batch}.tsv") if r[0] not in entries or entries[r[0]]["jp"].strip()]
     rows = read_out(TL / f"{batch}.out.tsv")
     bad = []
     if [r[0] for r in rows] != want:

@@ -2,8 +2,8 @@
  {
   "id": "s2082:00008",
   "jp": "私が先にイシュトと話すの！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm talking to Ishut first!",
+  "status": "done",
   "slots": [
    "0x8f1"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2082:00027",
   "jp": "いやいや、待ちなさいよ。\nここは船長であるあたしが最初に\n会うのが筋ってもんでしょう！",
-  "en": "",
-  "status": "todo",
+  "en": "No, no, hold on. It's only proper that I, the\ncaptain, get to see him first!",
+  "status": "done",
   "slots": [
    "0x906"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2082:00080",
   "jp": "二人とも、争ってていいんですか？\n早く行かないと式典が\n始まっちゃいますよー。",
-  "en": "",
-  "status": "todo",
+  "en": "Are you two sure you should be fighting? If\nwe don't hurry, the ceremony's going to\nstart.",
+  "status": "done",
   "slots": [
    "0x91b"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2082:000d1",
   "jp": "早めに終わらせてくださいよぉ。\nボクはもう一度兄貴の手紙を読んで\nますから。",
-  "en": "",
-  "status": "todo",
+  "en": "Please wrap it up quickly. I'll be rereading\nthe Boss's letter.",
+  "status": "done",
   "slots": [
    "0x922"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2082:0035c",
   "jp": "ビックリさせてやるって……。\n一年前よりビックリすることなんて\nあるんですかねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "\"I'll surprise you,\" he says... Could anything\nbe more surprising than a year ago, I\nwonder.",
+  "status": "done",
   "slots": [
    "0xbee"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2082:003b1",
   "jp": "船長だから会うって言うなら、\n今日から私が船長になる！",
-  "en": "",
-  "status": "todo",
+  "en": "If you get to see him because you're the\ncaptain, then from today I'm the captain!",
+  "status": "done",
   "slots": [
    "0xc03"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2082:003eb",
   "jp": "ちょ、何言ってるのよ！\n船長はあたしでしょうが！",
-  "en": "",
-  "status": "todo",
+  "en": "H-Hey, what are you saying! I'm the captain,\nobviously!",
+  "status": "done",
   "slots": [
    "0xc18"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2082:0041f",
   "jp": "私！",
-  "en": "",
-  "status": "todo",
+  "en": "Me!",
+  "status": "done",
   "slots": [
    "0xc2d"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2082:00428",
   "jp": "あたしだってば！",
-  "en": "",
-  "status": "todo",
+  "en": "I said it's me!",
+  "status": "done",
   "slots": [
    "0xc42"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2082:0043d",
   "jp": "いいや、俺だね！",
-  "en": "",
-  "status": "todo",
+  "en": "Nope, it's me!",
+  "status": "done",
   "slots": [
    "0xc73"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2082:00452",
   "jp": "え！？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh!?",
+  "status": "done",
   "slots": [
    "0xd4c"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2082:0045d",
   "jp": "イ、イシュト！？\nこんな所でなにやってんのよ！？",
-  "en": "",
-  "status": "todo",
+  "en": "I-Ishut!? What are you doing in a place like\nthis!?",
+  "status": "done",
   "slots": [
    "0xd61"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2082:00491",
   "jp": "政治がひと段落したからな。\nザザーランドに任せて、\n旅に出ることにした。",
-  "en": "",
-  "status": "todo",
+  "en": "The politics have settled down some. So I\nleft it to Zazarland and decided to go on a\njourney.",
+  "status": "done",
   "slots": [
    "0xd7a"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2082:004dc",
   "jp": "ええええぇぇ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaaaaat!?",
+  "status": "done",
   "slots": [
    "0xd93"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2082:004f1",
   "jp": "まぁ、兄貴らしいと言えば\n兄貴らしいですが……。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, it's very like the Boss, I suppose...",
+  "status": "done",
   "slots": [
    "0xda8"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2082:00525",
   "jp": "なもんで、\nグロリア海賊団イシュト\nここに復活！",
-  "en": "",
-  "status": "todo",
+  "en": "So, Ishut of the Gloria Pirates is back, right\nhere!",
+  "status": "done",
   "slots": [
    "0xdc1"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2082:00558",
   "jp": "復活って……。",
-  "en": "",
-  "status": "todo",
+  "en": "Back, he says...",
+  "status": "done",
   "slots": [
    "0xdda"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2082:0056b",
   "jp": "わぁい！\nじゃあ、またイシュトと\n海賊ができるんだね！？",
-  "en": "",
-  "status": "todo",
+  "en": "Yaaay! So I get to be a pirate with Ishut\nagain!?",
+  "status": "done",
   "slots": [
    "0xe19"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2082:005a6",
   "jp": "おうよ！\nで、さっきの船長の話だが、\nモチロン俺だよな？",
-  "en": "",
-  "status": "todo",
+  "en": "You bet! Now, about that captain thing\nearlier. It's me, of course, right?",
+  "status": "done",
   "slots": [
    "0xe32"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2082:005e1",
   "jp": "はぁ？　皇帝だからって、\n何でも思い通りにいくと思うんじゃ\nないわよ！　あたしが船長よ！",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Don't think everything goes your way\njust because you're the Emperor! I'm the\ncaptain!",
+  "status": "done",
   "slots": [
    "0xe4b"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2082:0063c",
   "jp": "俺だろ！",
-  "en": "",
-  "status": "todo",
+  "en": "It's me!",
+  "status": "done",
   "slots": [
    "0xe64"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2082:00649",
   "jp": "あたし！",
-  "en": "",
-  "status": "todo",
+  "en": "Me!",
+  "status": "done",
   "slots": [
    "0xe7d"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2082:00656",
   "jp": "……はぁ。またですか。\n一体何時になったら、旅立てるん\nですかねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Sigh. This again. When on earth are we\never going to set off?",
+  "status": "done",
   "slots": [
    "0xe92"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2082:0069d",
   "jp": "いいんじゃない？\nイシュトが帰ってきたし、\n時間はたっぷりあるんだから。",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't it fine? Ishut's back, and we've got all\nthe time in the world.",
+  "status": "done",
   "slots": [
    "0xec0"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2082:006e8",
   "jp": "……そうですねぇ。\nそれじゃあ今は、これから始まる\n冒険に胸を膨らましましょうか。",
-  "en": "",
-  "status": "todo",
+  "en": "...I suppose so. Well then, for now, let's get\nexcited for the adventure that's about to\nbegin.",
+  "status": "done",
   "slots": [
    "0xed2"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2082:00748",
   "jp": "よぉし！　新生グロリア海賊団！\n出航だぁーー！！",
-  "en": "",
-  "status": "todo",
+  "en": "All riiight! The new Gloria Pirates! Set\nsaaaail!!",
+  "status": "done",
   "slots": [
    "0xf08"
   ],
