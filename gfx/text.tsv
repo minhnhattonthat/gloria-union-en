@@ -365,3 +365,36 @@ res_max_level	すでに最高レベルに達しています	Already at the highe
 res_no_exp	EXPが加算されないユニットです	This unit gains no EXP
 equip_q	このアイテムを装備しますか?	Equip this item?
 scenario_q	このシナリオでよろしいですか?	Choose this scenario?
+pl_funesto	フネスト島	Funesto Island
+pl_virulento	ヴィルレント島	Virulento Island
+pl_inferia	インフェリア島	Inferia Island
+pl_inbat	インバット島	Inbat Island
+pl_classicista	クラッスィチスタ島	Classicista Island
+pl_bordolese	ボルドレーゼ島	Bordolese Island
+pl_acquabau	アクアバウビーチ	Acquabau Beach
+pl_comune	コムーネ島	Comune Island
+pl_cannista	カンニスタ島	Cannista Island
+pl_fantasinia	ファンタジニア島	Fantasinia Island
+pl_panoramica	パノラミカ半島	Panoramica Peninsula
+pl_stregatta	ストレガッタ地域	Stregatta Region
+pl_nymphetta	ニンフェッタ海岸	Nymphetta Coast
+pl_concer	コンチェル地域	Concer Region
+pl_chantier	腐海都市シャンティエ	Rotting Sea City\nChantier
+pl_egente	エジェンテ島	Egente Island
+pl_ombra	オンブラ墓地	Ombra Cemetery
+sc_magical_girl	幼き魔法少女	Young Magical Girl
+sc_visitor	異世界からの来訪者	Visitor from Another World
+sc_sell_people	人はヒトを売りさばく	People Sell People
+sc_yandere	病ンデレの人魚!	A Yandere Mermaid!
+sc_euforia	古代ユーフォリアの遺産	Ancient Euforia's Legacy
+sc_barrels	樽だらけの島	Island of Barrels
+sc_sea_dogs	海の犬	Sea Dogs
+sc_episode0	エピソード0	Episode 0
+sc_reunion	思いがけぬ再会	An Unexpected Reunion
+sc_blond_boy	金髪の美少年現る!	A Handsome Blond Boy Appears!
+sc_ghost_ship	海賊モノといえば幽霊船	Pirates Mean Ghost Ships
+sc_summer	夏のバカンス!水着祭り!!	Summer Vacation! Swimsuit Fest!!
+sc_bard	さすらいの吟遊詩人	The Wandering Bard
+sc_rotting_sea	腐海を照らす光	Light Over the Rotting Sea
+sc_rebellion	反皇国の旗印	Banner of Rebellion
+sc_ghost_island	ゴーストアイランド	Ghost Island

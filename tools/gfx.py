@@ -134,6 +134,9 @@ def write(b, a, img):
         t = ptx.parse(b, a["off"])
         out = ptx.encode(b, t, img)
         b[t["do"]:t["do"] + len(out)] = out
+        if a.get("used"):   # a texture the game draws whole, `used` px wide (header +8): widen it to the new ink
+            cols = np.flatnonzero(img[..., 3].any(0))
+            struct.pack_into("<H", b, a["off"] + 8, int(cols[-1]) + 1 if len(cols) else t["used"])
     else:
         if a["resize"]:   # the PNG sets the canvas: rebuild the PTG's atlas and sprites for it (the file size changes)
             ptx.ptg_resize(b, a["off"], img.shape[1], img.shape[0], a.get("trim") and spans(img))
@@ -207,9 +210,9 @@ def quantize(img, pal):
     out = np.empty(a.shape, np.uint8)
     for y in range(a.shape[0]):   # row by row: h x w x n distances would be large for 480 x 272 x 256
         out[y] = pal[np.abs(a[y][:, None, :] - pal[None]).sum(2).argmin(1)]
-    clear = pal[pal[:, 3] == 0]
-    if len(clear):   # clear stays clear, whatever its RGB (a clear (0,0,0,0) is nearer a dark opaque entry)
-        out[a[..., 3] == 0] = clear[0]
+    clear = pal[pal[:, 3] == pal[:, 3].min()]
+    if clear[0, 3] <= 8:   # clear stays clear, whatever its RGB (a clear (0,0,0,0) is nearer a dark opaque entry);
+        out[a[..., 3] == 0] = clear[0]   # some palettes' clearest entry is alpha 1 (2427 place plates)
     return out
 
 
@@ -849,14 +852,16 @@ def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1, 
 ASSETS = {}
 
 
-def asset(name, file, kind, off, rect, draw, resize=False, table=None, section=None, trim=False):
+def asset(name, file, kind, off, rect, draw, resize=False, table=None, section=None, trim=False, used=False):
     """resize (ptg only): the redraw may have another w x h than the original; write() repacks the sprites to it.
     table (vaddr, n): an EBOOT rect table the draw function re-lays out (it returns (image, rects)).
     section: the FCT section (a PTP) of file id 3 holding the texture; off stays the offset in the whole file. Needed
-    for a resize there (the section grows; insert.cpk re-lays id 3 the same way for the common scripts)."""
+    for a resize there (the section grows; insert.cpk re-lays id 3 the same way for the common scripts).
+    used (ptx): the game draws the whole texture `used` px wide (PTX header +8, e.g. the 2427 place plates): write()
+    sets it to the redraw's ink width, so English may use the texture's full width."""
     assert not (resize and file == 3 and section is None), "a resize in id 3 needs its section"
     ASSETS[name] = dict(name=name, file=file, kind=kind, off=off, rect=rect, draw=draw, resize=resize, table=table,
-                        section=section, trim=trim)
+                        section=section, trim=trim, used=used)
 
 
 def words(name, file, off, w, h, table, keys, size):
@@ -1166,6 +1171,45 @@ def draw_box_word(a, rect, text, size, fill=(1, 1, 1, 255)):
                       center=True)
 
 
+def draw_place(a, text, size=15):
+    """Scenario-map place plate (2427): black bold with a white rim on clear, one line per \\n, centred lines, from
+    x 0; squeezed (to 0.6, then a smaller font) to the texture's full width (the asset widens `used` to match)."""
+    h, w = a.shape[:2]
+    lines = text.split("\n")
+    ink = ((2, 2, 2, 255), 1, (255, 255, 255, 255))
+    while True:
+        f = font("LiberationSans-Bold.ttf", size)
+        lts = [layer_text(ln, f, *ink, lines=True) for ln in lines]
+        xs = min(1.0, (w + 2) / max(lt.width for lt in lts))
+        if xs >= 0.6 and sum(lt.height - 4 for lt in lts) <= h + 2:   # narrow beats small: 64-96 px textures
+            break
+        size -= 1
+        assert size >= 9, f"{text!r}: no room in {w}x{h}"
+    if xs < 1:
+        lts = [layer_text(ln, f, *ink, xs, lines=True) for ln in lines]
+    im = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    wide, lh = max(lt.width for lt in lts) - 4, h // len(lts)
+    for i, lt in enumerate(lts):
+        top = (lt.height - lh) // 2
+        im.alpha_composite(lt.crop((2, max(0, top), min(lt.width, w + 2), max(0, top) + min(lh, lt.height))),
+                           (max(0, (wide - (lt.width - 4)) // 2), i * lh + max(0, -top)))
+    res = np.array(im)
+    res[res[..., 3] == 0] = 0
+    return res
+
+
+PLACES = {0xf5c0: "pl_funesto", 0xf9a0: "pl_virulento", 0xff40: "pl_inferia", 0x104e0: "pl_inbat",
+          0x10a80: "pl_classicista", 0x111e0: "pl_bordolese", 0x11780: "pl_acquabau", 0x11d50: "pl_comune",
+          0x12130: "pl_cannista", 0x126d0: "pl_fantasinia", 0x12c70: "pl_panoramica", 0x13210: "pl_stregatta",
+          0x137b0: "pl_nymphetta", 0x13d50: "pl_concer", 0x142f0: "pl_chantier", 0x14ad0: "pl_egente",
+          0x15070: "pl_ombra"}
+for _o, _k in PLACES.items():
+    asset(_k, 2427, "ptx", _o, (0, 0, 128, 40), lambda a, t, k=_k: draw_place(a, t[k]), used=True)
+SCEN_TITLES = ["sc_magical_girl", "sc_visitor", "sc_sell_people", "sc_yandere", "sc_euforia", "sc_barrels", "sc_sea_dogs",
+               "sc_episode0", "sc_reunion", "sc_blond_boy", "sc_ghost_ship", "sc_summer", "sc_bard", "sc_rotting_sea",
+               "sc_rebellion", "sc_ghost_island"]   # two columns of 8 cells, 145x22 (EBOOT table 0x2bc862)
+fixed("scen_titles", 0x80, 304, 176, [((145 * (i // 8), 22 * (i % 8), 145, 22), k, False) for i, k in enumerate(SCEN_TITLES)],
+      16, file=2427, pad=0, ink=((255, 244, 203, 255), (22, 14, 8, 255)))
 asset("difficulty", 2427, "ptx", 0xd220, (19, 13, 32, 15),   # 難易度 on a black box x 18-51 rows 12-28, right of an X icon
       lambda a, t: draw_box_word(a, (19, 13, 32, 15), t["sc_difficulty"], 12))
 fixed("opt_battle", 0x60910, 384, 44, [((181, 0, 70, 21), "opt_normal", False), ((301, 0, 71, 21), "opt_hard", False),
