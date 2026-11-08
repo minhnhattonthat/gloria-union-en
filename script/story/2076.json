@@ -2,8 +2,8 @@
  {
   "id": "s2076:00028",
   "jp": "ここが、ユーフォリアの中心……。\nあの台座に、剣を刺せば……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is the heart of Euforia... If I plunge the\nsword into that pedestal...",
+  "status": "done",
   "slots": [
    "0xce9"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2076:0006a",
   "jp": "幸せになるんだ。\n僕は……幸せに。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll be happy. I'll... be happy.",
+  "status": "done",
   "slots": [
    "0xd2e"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2076:00090",
   "jp": "悪いが、させられねぇよ。\nアシュレイ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, but I can't let ya do that, Ashrey.",
+  "status": "done",
   "slots": [
    "0xd43"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2076:000ba",
   "jp": "グロリア海賊団！？\n何故だ……何故、僕の邪魔を\nするのだ！！",
-  "en": "",
-  "status": "todo",
+  "en": "The Gloria Pirates!? Why... why do you get\nin my way!!",
+  "status": "done",
   "slots": [
    "0xf04"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2076:000f9",
   "jp": "もう止めて！\nユーフォリアを復活させても、\nアナタは幸せになんてなれない！",
-  "en": "",
-  "status": "todo",
+  "en": "Stop it! Even if you revive Euforia, you'll\nnever be happy!",
+  "status": "done",
   "slots": [
    "0xf1d"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2076:00146",
   "jp": "勝手なことを言うな！\n僕は、僕は、この日のために、\n生きてきたのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't talk nonsense! I, I have lived for this\nday!",
+  "status": "done",
   "slots": [
    "0xf36"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2076:0018d",
   "jp": "今更邪魔なんて、させるか！",
-  "en": "",
-  "status": "todo",
+  "en": "I won't let you get in my way now!",
+  "status": "done",
   "slots": [
    "0xf40"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2076:001ac",
   "jp": "アシュレイのウィルが\nどんどん上昇してる……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey's Will keeps rising and rising...",
+  "status": "done",
   "slots": [
    "0xf59"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2076:001de",
   "jp": "闇のカードが、アシュレイの\n暗いウィルに反応してるんだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "The dark card is reacting to Ashrey's dark\nWill...",
+  "status": "done",
   "slots": [
    "0xf72"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2076:0021e",
   "jp": "このままじゃ、アシュレイが\n暴走しちゃう。",
-  "en": "",
-  "status": "todo",
+  "en": "At this rate, Ashrey will go berserk.",
+  "status": "done",
   "slots": [
    "0xf9c"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2076:0024c",
   "jp": "イシュト、\nもう、考えている暇はないわ。\nアシュレイを……倒しましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, there's no time left to think. Let's...\ndefeat Ashrey.",
+  "status": "done",
   "slots": [
    "0xfca"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2076:00297",
   "jp": "……それしか、ないのか。",
-  "en": "",
-  "status": "todo",
+  "en": "...Is that the only way?",
+  "status": "done",
   "slots": [
    "0xfe3"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2076:002b4",
   "jp": "総員、戦闘準備！\nこれが、最後の戦いだ！\n気を引き締めろ！",
-  "en": "",
-  "status": "todo",
+  "en": "Everyone, get ready for battle! This is the\nfinal fight! Stay sharp!",
+  "status": "done",
   "slots": [
    "0xff8"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2076:002f1",
   "jp": "イシュト！！\n貴様は！　貴様だけは！\n僕が、殺してやる！",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut!! You! You, of all people! I'll kill you\nmyself!",
+  "status": "done",
   "slots": [
    "0x1188"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2076:0032c",
   "jp": "来いアシュレイ！\n双子とか、王族とか関係ねぇ！\n男と男の、勝負だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Come on, Ashrey! Twins, royalty, none of\nthat matters! This is man against man!",
+  "status": "done",
   "slots": [
    "0x11a2"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2076:00371",
   "jp": "追い詰めましたよ……！\nこれで最後です！",
-  "en": "",
-  "status": "todo",
+  "en": "We've got you cornered...! This is the end!",
+  "status": "done",
   "slots": [
    "0x126f"
   ],
@@ -177,8 +177,8 @@
  {
   "id": "s2076:00399",
   "jp": "これ以上、アナタを先には\n行かせない！\nここで、倒す！",
-  "en": "",
-  "status": "todo",
+  "en": "I won't let you go any further! We'll beat you\nhere!",
+  "status": "done",
   "slots": [
    "0x1335"
   ],
@@ -187,8 +187,8 @@
  {
   "id": "s2076:003ce",
   "jp": "ここがアンタの墓場よ。\nこんな立派な所で死ねるんだから、\n光栄に思いなさいよ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is your grave. Be honoured you get to\ndie in such a splendid place.",
+  "status": "done",
   "slots": [
    "0x13fb"
   ],
@@ -197,8 +197,8 @@
  {
   "id": "s2076:0041b",
   "jp": "ここが年貢の納め時ってか。\n観念するんだな、アシュレイ。",
-  "en": "",
-  "status": "todo",
+  "en": "Time to pay up, huh. Give it up, Ashrey.",
+  "status": "done",
   "slots": [
    "0x14c1"
   ],
@@ -207,8 +207,8 @@
  {
   "id": "s2076:00453",
   "jp": "とうとうここまで来たか……。",
-  "en": "",
-  "status": "todo",
+  "en": "So we've finally come this far...",
+  "status": "done",
   "slots": [
    "0x158e"
   ],
@@ -217,8 +217,8 @@
  {
   "id": "s2076:00470",
   "jp": "決着の時だ。アシュレイ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's time to settle this, Ashrey.",
+  "status": "done",
   "slots": [
    "0x15a3"
   ],
@@ -227,8 +227,8 @@
  {
   "id": "s2076:00489",
   "jp": "ここで終わらせなくちゃ\nダメなんだよね……。",
-  "en": "",
-  "status": "todo",
+  "en": "We have to end it here, right...",
+  "status": "done",
   "slots": [
    "0x1677"
   ],
@@ -237,8 +237,8 @@
  {
   "id": "s2076:004b5",
   "jp": "なら、ロコモコの最大魔法で、\n終わらせてあげる！",
-  "en": "",
-  "status": "todo",
+  "en": "Then Locomoco will end it with her biggest\nmagic!",
+  "status": "done",
   "slots": [
    "0x168c"
   ],
@@ -247,8 +247,8 @@
  {
   "id": "s2076:004e5",
   "jp": "もうローガンさんもいないってのに\n随分と残業したもんすねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan-san's gone and everything, and I've\nstill put in loads of overtime, sir.",
+  "status": "done",
   "slots": [
    "0x1760"
   ],
@@ -257,8 +257,8 @@
  {
   "id": "s2076:00521",
   "jp": "でも、これで終わりっす！",
-  "en": "",
-  "status": "todo",
+  "en": "But this is the end, sir!",
+  "status": "done",
   "slots": [
    "0x1775"
   ],
@@ -267,8 +267,8 @@
  {
   "id": "s2076:0053a",
   "jp": "貴様を倒せば全てが終わる！\nここで決めさせてもらう！",
-  "en": "",
-  "status": "todo",
+  "en": "Defeat you, and it all ends! I'll settle it\nhere!",
+  "status": "done",
   "slots": [
    "0x1842"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2076:0056e",
   "jp": "ガガグ、ガガン！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagagu, Gagan!!",
+  "status": "done",
   "slots": [
    "0x1908"
   ],
@@ -287,8 +287,8 @@
  {
   "id": "s2076:00581",
   "jp": "これでもまだ、復活を諦めないの\nならば、今度こそ私は、アナタを\n滅します！",
-  "en": "",
-  "status": "todo",
+  "en": "If you still won't give up on the revival, then\nthis time I will destroy you!",
+  "status": "done",
   "slots": [
    "0x19ce"
   ],
@@ -297,8 +297,8 @@
  {
   "id": "s2076:005ca",
   "jp": "さぁ、大人しくしてください。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, please come quietly.",
+  "status": "done",
   "slots": [
    "0x19d8"
   ],
@@ -307,8 +307,8 @@
  {
   "id": "s2076:005e7",
   "jp": "これ以上世界を混乱に陥れる\nわけにはいかない！\nいくぞぉぉぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "I cannot let you throw the world into any\nmore chaos! Here I gooo!!",
+  "status": "done",
   "slots": [
    "0x1a9e"
   ],
@@ -317,8 +317,8 @@
  {
   "id": "s2076:00626",
   "jp": "アナタ個人に恨みは無いけど、\n自由にお宝探しができないのは\n嫌なのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't have anything against you\npersonally, but I hate not being free to hunt\ntreasure.",
+  "status": "done",
   "slots": [
    "0x1b6b"
   ],
@@ -327,8 +327,8 @@
  {
   "id": "s2076:0066b",
   "jp": "悪いけど。寝てもらうわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry. Time for you to go to sleep, okay?",
+  "status": "done",
   "slots": [
    "0x1b80"
   ],
@@ -337,8 +337,8 @@
  {
   "id": "s2076:00686",
   "jp": "この世界もなかなか興味深かった\nけど、どうやらここでお終いのよう\nなんだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "This world was pretty interesting too, but\nlooks like this is the end, dontcha know.",
+  "status": "done",
   "slots": [
    "0x1c4d"
   ],
@@ -347,8 +347,8 @@
  {
   "id": "s2076:006d3",
   "jp": "楽しかったわよ。バイバイ！",
-  "en": "",
-  "status": "todo",
+  "en": "It was fun. Bye-bye!",
+  "status": "done",
   "slots": [
    "0x1c57"
   ],
@@ -357,8 +357,8 @@
  {
   "id": "s2076:006ee",
   "jp": "この歴史の詩は、大いに賛美される\n事でしょう。\nフフ、今から楽しみですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "This song of history will surely be greatly\npraised. Heh heh, I can hardly wait.",
+  "status": "done",
   "slots": [
    "0x1d1d"
   ],
@@ -367,8 +367,8 @@
  {
   "id": "s2076:00737",
   "jp": "イシュト……イシュトォ……！\nッツアッ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut... Ishuuut...! Ngaah...!",
+  "status": "done",
   "slots": [
    "0x1ecf"
   ],
@@ -389,8 +389,8 @@
  {
   "id": "s2076:00778",
   "jp": "終わった……のか？",
-  "en": "",
-  "status": "todo",
+  "en": "Is it... over?",
+  "status": "done",
   "slots": [
    "0x2628"
   ],
@@ -400,8 +400,8 @@
  {
   "id": "s2076:0078f",
   "jp": "えぇ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes...",
+  "status": "done",
   "slots": [
    "0x2641"
   ],
@@ -411,8 +411,8 @@
  {
   "id": "s2076:0079e",
   "jp": "ルキア皇国皇帝アシュレイ。\nエルマーレ連合国総裁エンリエッタ\n共に死亡……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey, Emperor of the Lukia Empire.\nEnryetta, President of the Elmare\nFederation. Both dead...",
+  "status": "done",
   "slots": [
    "0x2657"
   ],
@@ -422,8 +422,8 @@
  {
   "id": "s2076:007ed",
   "jp": "生き残ってるのは、俺達だけか。",
-  "en": "",
-  "status": "todo",
+  "en": "So we're the only ones left standin'.",
+  "status": "done",
   "slots": [
    "0x2670"
   ],
@@ -433,8 +433,8 @@
  {
   "id": "s2076:00810",
   "jp": "世界を二分する二大国家が、こんな\n海賊にやられたって世間に言ったら\nどうなるんだろうな。",
-  "en": "",
-  "status": "todo",
+  "en": "Wonder what'd happen if we told the world\nthe two great nations splittin' it in half got\nbeat by a bunch of pirates.",
+  "status": "done",
   "slots": [
    "0x267a"
   ],
@@ -444,8 +444,8 @@
  {
   "id": "s2076:0086b",
   "jp": "面倒くさいことになりそうね。",
-  "en": "",
-  "status": "todo",
+  "en": "Sounds like it'd get messy.",
+  "status": "done",
   "slots": [
    "0x2693"
   ],
@@ -455,8 +455,8 @@
  {
   "id": "s2076:0088c",
   "jp": "そうだな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah...",
+  "status": "done",
   "slots": [
    "0x26cc"
   ],
@@ -466,8 +466,8 @@
  {
   "id": "s2076:0089f",
   "jp": "……なぁ。もしもアシュレイが俺と\n一緒に城を出ていたら、こんなこと\nにはならなかったのかな……。",
-  "en": "",
-  "status": "todo",
+  "en": "...Hey. If Ashrey had left the castle with\nme, do ya think none of this would've\nhappened...?",
+  "status": "done",
   "slots": [
    "0x26d3"
   ],
@@ -477,8 +477,8 @@
  {
   "id": "s2076:00902",
   "jp": "もしもの話は止めましょうよ。\n兄貴らしくありません。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's not talk about what-ifs. It's not like\nyou, Boss.",
+  "status": "done",
   "slots": [
    "0x26e9"
   ],
@@ -488,8 +488,8 @@
  {
   "id": "s2076:0093a",
   "jp": "……そうか、そうだな。",
-  "en": "",
-  "status": "todo",
+  "en": "...Right. Yeah, you're right.",
+  "status": "done",
   "slots": [
    "0x26ff"
   ],
@@ -499,8 +499,8 @@
  {
   "id": "s2076:00955",
   "jp": "……ト。",
-  "en": "",
-  "status": "todo",
+  "en": "...t.",
+  "status": "done",
   "slots": [
    "0x2726"
   ],
@@ -510,8 +510,8 @@
  {
   "id": "s2076:00962",
   "jp": "ッ！？\nみんな！　ちょっとまって！",
-  "en": "",
-  "status": "todo",
+  "en": "...!? Everyone! Wait a moment!",
+  "status": "done",
   "slots": [
    "0x2742"
   ],
@@ -521,8 +521,8 @@
  {
   "id": "s2076:00988",
   "jp": "イ……ュト。",
-  "en": "",
-  "status": "todo",
+  "en": "I...hut.",
+  "status": "done",
   "slots": [
    "0x275f"
   ],
@@ -532,8 +532,8 @@
  {
   "id": "s2076:00999",
   "jp": "そんな……嘘だろ……！？",
-  "en": "",
-  "status": "todo",
+  "en": "No... No way...!?",
+  "status": "done",
   "slots": [
    "0x2778"
   ],
@@ -543,8 +543,8 @@
  {
   "id": "s2076:009b6",
   "jp": "心臓は、止まっていたはずだ！",
-  "en": "",
-  "status": "todo",
+  "en": "His heart should've stopped!",
+  "status": "done",
   "slots": [
    "0x27a6"
   ],
@@ -554,8 +554,8 @@
  {
   "id": "s2076:009d7",
   "jp": "王族のウィルの力！",
-  "en": "",
-  "status": "todo",
+  "en": "The power of the royal Will!",
+  "status": "done",
   "slots": [
    "0x27bf"
   ],
@@ -565,8 +565,8 @@
  {
   "id": "s2076:009ee",
   "jp": "転生体を作れるほどの\n強いウィルが、アシュレイを\n無理やり生かしてるんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "A Will strong enough to create\nreincarnations is forcing Ashrey to stay\nalive!",
+  "status": "done",
   "slots": [
    "0x27c9"
   ],
@@ -576,8 +576,8 @@
  {
   "id": "s2076:00a3b",
   "jp": "ゾンビかよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "What, like a zombie...?",
+  "status": "done",
   "slots": [
    "0x27f7"
   ],
@@ -587,8 +587,8 @@
  {
   "id": "s2076:00a50",
   "jp": "当たらずとも遠からずだね。",
-  "en": "",
-  "status": "todo",
+  "en": "That's not too far off.",
+  "status": "done",
   "slots": [
    "0x2810"
   ],

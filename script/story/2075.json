@@ -1196,8 +1196,8 @@
  {
   "id": "s2075:01811",
   "jp": "復活させるだけなら、\n実はあるものさえあれば",
-  "en": "",
-  "status": "todo",
+  "en": "If it's only reviving it... as long as you have\none certain thing, actually...",
+  "status": "done",
   "slots": [
    "0x5a2e"
   ],
@@ -1207,15 +1207,15 @@
  {
   "id": "s2075:01841",
   "jp": "誰でもできる。",
-  "en": "",
-  "status": "todo",
+  "en": "...anyone can do it.",
+  "status": "done",
   "slots": []
  },
  {
   "id": "s2075:01850",
   "jp": "ええぇ！？\nな、なによ！　そのあるものって！",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaat!? Wh-what is it! This certain thing!",
+  "status": "done",
   "slots": [
    "0x5a47"
   ],
@@ -1225,8 +1225,8 @@
  {
   "id": "s2075:01880",
   "jp": "剣だ。\n王族にのみ与えられる、\n二振りの剣。",
-  "en": "",
-  "status": "todo",
+  "en": "The swords. The two swords given only to\nroyalty.",
+  "status": "done",
   "slots": [
    "0x5a60"
   ],
@@ -1236,8 +1236,8 @@
  {
   "id": "s2075:018af",
   "jp": "それが、ユーフォリアを復活させる\n鍵だ。",
-  "en": "",
-  "status": "todo",
+  "en": "They are the keys to reviving Euforia.",
+  "status": "done",
   "slots": [
    "0x5a67"
   ],
@@ -1247,8 +1247,8 @@
  {
   "id": "s2075:018db",
   "jp": "俺の剣と、アシュレイの剣。\nそんな意味があったのか……。",
-  "en": "",
-  "status": "todo",
+  "en": "My sword and Ashrey's sword. So that's\nwhat they meant...",
+  "status": "done",
   "slots": [
    "0x5a80"
   ],
@@ -1258,8 +1258,8 @@
  {
   "id": "s2075:01917",
   "jp": "クリスタルの封印を解いたのも、\nそういう意味があったから\nなんですね。",
-  "en": "",
-  "status": "todo",
+  "en": "So that's why the Boss could unseal the\nCrystals, too.",
+  "status": "done",
   "slots": [
    "0x5a99"
   ],
@@ -1269,8 +1269,8 @@
  {
   "id": "s2075:01960",
   "jp": "急がないとヤバイわ！",
-  "en": "",
-  "status": "todo",
+  "en": "We have to hurry or it's bad news!",
+  "status": "done",
   "slots": [
    "0x5ac0"
   ],
@@ -1280,8 +1280,8 @@
  {
   "id": "s2075:01979",
   "jp": "おぉ、そ、そうだ！\nみんな、行くぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, r-right! Everyone, let's go!",
+  "status": "done",
   "slots": [
    "0x5ad9"
   ],
@@ -1291,8 +1291,8 @@
  {
   "id": "s2075:019a1",
   "jp": "止められなかった、か。\n……まぁ、どうせまた眠るだけだ。\n後は、若い者にまかせるとするか。",
-  "en": "",
-  "status": "todo",
+  "en": "I couldn't stop him, hm. ...Well, I'll only be\ngoing back to sleep anyway. I'll leave the\nrest to the young.",
+  "status": "done",
   "slots": [
    "0x5b6b"
   ],
@@ -1302,8 +1302,8 @@
  {
   "id": "s2075:01a00",
   "jp": "キューキューキュッキュキュ？",
-  "en": "",
-  "status": "todo",
+  "en": "Kyu-kyu-kyukkyu-kyu?",
+  "status": "done",
   "slots": [
    "0x2436"
   ],
@@ -1312,8 +1312,8 @@
  {
   "id": "s2075:01a1d",
   "jp": "キュキュキュキュー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyukyukyukyuu!",
+  "status": "done",
   "slots": [
    "0x24a5"
   ],
@@ -1332,8 +1332,8 @@
  {
   "id": "s2075:01a43",
   "jp": "キューキューキュッキュキュ？",
-  "en": "",
-  "status": "todo",
+  "en": "Kyu-kyu-kyukkyu-kyu?",
+  "status": "done",
   "slots": [
    "0x24dd"
   ],
@@ -1342,8 +1342,8 @@
  {
   "id": "s2075:01a60",
   "jp": "キュ……キュキュキューキュー……",
-  "en": "",
-  "status": "todo",
+  "en": "Kyu... kyukyukyuu-kyuu...",
+  "status": "done",
   "slots": [
    "0x24e4"
   ],
@@ -1352,8 +1352,8 @@
  {
   "id": "s2075:01a81",
   "jp": "ほぉ～、これがオッサンの言ってた\nマンタの壁画かぁ。\nホントにあったんだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, so this is the manta mural the old\nman was talkin' about. It really exists.",
+  "status": "done",
   "slots": [
    "0x32c1"
   ],
@@ -1362,8 +1362,8 @@
  {
   "id": "s2075:01ace",
   "jp": "よく来た、選ばれし王家の末裔よ。",
-  "en": "",
-  "status": "todo",
+  "en": "Welcome, chosen descendant of the royal\nfamily.",
+  "status": "done",
   "slots": [
    "0x32d3"
   ],
@@ -1372,8 +1372,8 @@
  {
   "id": "s2075:01aef",
   "jp": "な、なんだ！？\nこの声は！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what!? That voice!",
+  "status": "done",
   "slots": [
    "0x32e8"
   ],
@@ -1382,8 +1382,8 @@
  {
   "id": "s2075:01b09",
   "jp": "王家の末裔よ。\n我は“天上への担い手”\nそなたを天上へと導こう。",
-  "en": "",
-  "status": "todo",
+  "en": "Descendant of the royal family. I am the\n\"Bearer to the Heavens\". I shall guide you to\nthe heavens.",
+  "status": "done",
   "slots": [
    "0x32fa"
   ],
@@ -1392,8 +1392,8 @@
  {
   "id": "s2075:01b48",
   "jp": "うお！　まぶし……！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! Too bright...!",
+  "status": "done",
   "slots": [
    "0x3335"
   ],
@@ -1402,8 +1402,8 @@
  {
   "id": "s2075:01b5d",
   "jp": "なんだったんだ？\n今のは……。",
-  "en": "",
-  "status": "todo",
+  "en": "What was that just now...?",
+  "status": "done",
   "slots": [
    "0x333f"
   ],
@@ -1412,8 +1412,8 @@
  {
   "id": "s2075:01b7b",
   "jp": "なんだったんだ？　あの光……。",
-  "en": "",
-  "status": "todo",
+  "en": "What was that light...?",
+  "status": "done",
   "slots": [
    "0x335b"
   ],
@@ -1422,8 +1422,8 @@
  {
   "id": "s2075:01b9a",
   "jp": "天上へ導くって……。\n意味わかんねぇよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Guide me to the heavens... I don't get it.",
+  "status": "done",
   "slots": [
    "0x3362"
   ],
@@ -1432,8 +1432,8 @@
  {
   "id": "s2075:01bc2",
   "jp": "古代から残された壁画には\n優雅に海を泳ぐマンタの姿が\n描かれている……。",
-  "en": "",
-  "status": "todo",
+  "en": "The mural left from ancient times shows a\nmanta swimming gracefully through the\nsea...",
+  "status": "done",
   "slots": [
    "0x337a"
   ],

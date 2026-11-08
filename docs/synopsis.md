@@ -85,7 +85,29 @@ b072-b082) hold tutorial and shared talk.
 - **2065:** Dance City Waltz. Tracey was a small-town doctor; her failed cure-all killed the children who called her
   "Doctor"; she dies hoping to see their smiles. Anne: same orphanage, 20 years ago. Ruru: Velgas's "other Will" was hers;
   rebuilt not by Tracey but by Lukia, says **Enryetta, President of the Anti-Imperial (Elmare) Federation: Elisha's mother**,
-  Zazarland's ex (her photo in his room).
+  her photo in Zazarland's room (2070: she is **Gariored's wife**; Elisha is their daughter, raised by Zazarland).
+
+## Chapter 6 (2068-2077, translated session 12)
+- **2068:** Ajo-Grafor's lab (Elmare Federation, funded by Enryetta): human-weapon fusion experiments; he rebuilt Velgas
+  with Ruru Mk-II's parts. **Ruru = "Symphonia"** (official designation): an ancient weapon that turns card Will into
+  energy (why the Black Fang wanted her). Mk-II destroyed; the crew stand by Ruru. Garm/Melanie attack, then retreat.
+  Dark-realm ruin shards found. Dr. Deluxe NPC again.
+- **2069:** Enryetta ("Ellie"; Zazarland = "Zazzy") fights for "sacrifice"; Zazarland: she was the kindest of all.
+  **Gariored**, Lukia's Chancellor (ex-general beside Zazarland: the three were friends 17+ years ago), the man behind the
+  war (ran the Black Fang, gave Tracey info and cards), holds the dark card **Megiddo** (Lukia is built on the ruin of
+  darkness, the "Dark Realm"). Enryetta: "setting her husband's mistakes right is a wife's job".
+- **2070:** Elmare Square. Enryetta beaten, dies ("I love you, Elisha"); Elisha gives Ishut the Holy card.
+- **2071:** Gariored, beaten, raises Euforia (the Euforia Project = revive the sealed ancient kingdom; Symphonia is its
+  key). Elisha to him: "Bye-bye, Father" (he never knew). Ashrey (his "puppet", who once let Ishut escape the castle with
+  the sword) burns Gariored with Volcanon: "Thank you for raising me. I've wanted to kill you for a long time."
+- **2072-2073:** Imperial castle (= Dark Realm, a castle-city). Ashrey wants only "euphoria" (the meaning of Euforia).
+  Garm and Melanie die for him. Euforia rises; Ashrey awakens Symphonia (Ruru) and takes the cards.
+- **2074:** Symphonia installs five cards (Tidal Wave, Volcanon, Grand Spear, Burst Wing, Holy); Ishut knocks her back
+  to normal ("1+1?" "A window!"); she gives him the cards.
+- **2075:** Kyra, genderless ancient (scythe), made Ruru and the cards and sealed Euforia (fell ~1000 years ago when the
+  world's Will ran dry); the two royal swords are the keys. Manta mural: the "Bearer to the Heavens" speaks to Ishut.
+- **2076-2077:** Heart of Euforia. Ashrey, revived by the royal Will, absorbs Euforia's Will and breaks down; dying, he
+  learns "freedom" ("What you wanted to do, and what you did"). Ishut: "See ya... big brother."
 - **2067:** Federation HQ, the Sea of Light (ruin of light). Ishut unseals the light card "Holy"; Enryetta steals it and
   attacks with Giselle ("a sacrifice for peace", she'll be "the Judge"). Giselle dies to be reborn as a baby; Fiebee
   keeps Chantier ("Our will lies in Chantier"). Anyone can use a card; only Ishut can unseal; Enryetta's Will is abnormal.

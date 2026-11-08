@@ -38,6 +38,11 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
     lines broken into odd chunks.
   - Locomoco's おねえちゃん/おにいちゃん after a name: "-oneechan" ("Raspberry-oneechan"); alone: "Big Sister" / "Big Brother".
   - Raspberry's 課長: "my section chief" (lowercase).
+  - Gariored (Chancellor): arrogant, "Heh heh" (クク), power-worship ("The strong rule the world"); calls Ashrey "puppet".
+    Ashrey: cold, formal 僕, "makes my skin crawl" (虫唾が走る); berserk form #33: katakana chunks ("I. Will not. Lose!").
+    Kyra: genderless ancient, dry and casual ("I'm strong, you know?", "The end."). Symphonia (#32): polite machine.
+    Enryetta/Zazarland pet names: エリー "Ellie", ザジ "Zazzy". Elisha: 親父 "Dad", Gariored (bio father) "Father",
+    Enryetta "Mother". Ishut to Ashrey アニキ: "big brother". Garm/Melanie: "Ashrey-sama", archaic knights.
 - Groups suffixes on unit names: 〜団 (a crew/gang) -> "<Name> Crew"; 〜隊 (a squad) -> "<Name> Unit".
 - Katakana doubles of kanji unit names (コウコク兵 = 皇国兵) are the same word: translate them the same or as a
   plural.
@@ -152,6 +157,11 @@ Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "
 | 反皇国連合 / 総裁 | Anti-Imperial Federation / President | | = Elmare Federation; Enryetta | |
 | 審判者 | the Judge | | what Enryetta means to become | |
 | オルディーン | Ordene | | Yggdra's father (Yggdra Union USA) | |
-
+| メギド | Megiddo | | dark card (Gariored, then Ashrey) | Megido |
+| グランドスピアー | Grand Spear | | earth card | |
+| 闇の邪域 | Dark Realm | | ruin of darkness under the Imperial castle; item: Dark Realm Shard | |
+| 宰相 | Chancellor | | Gariored | |
+| シンフォニア (Ruru) | Symphonia | | Ruru's "official designation" (2068) | |
+| 幸福感 | euphoria | | what Euforia means (Ashrey's pun, 2072) | |
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)
