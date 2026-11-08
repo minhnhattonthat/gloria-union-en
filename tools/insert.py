@@ -60,6 +60,41 @@ def buf_limits(_c={}):
     return _c['l']
 
 
+# item descriptions: three screens place row 0's cells by hand and start line 2 at a break cell read from a per-item
+# table (docs/re/text.md §Item descriptions). Table of description pointers -> its break table.
+DESC_BRK2, DESC_BRK3 = 0x2CA458, 0x2F86F0   # 1 break byte per item (item screens) / 2 per item (EXTRA item page)
+DESC_TABLES = {0x2CCAB0: DESC_BRK2, 0x2CCECC: DESC_BRK3}
+DESC_ITEMS = 261
+# break table -> (px per line, font, lines, break bytes): EXTRA item page (font 2 from x 298, docs/re/text.md);
+# item screens 0xE0FE8/0xE11CC (font 1, 13 cells at 18 px from x 24: read from code, no shot yet)
+DESC_FIT = {DESC_BRK3: (134, 2, 3, 2), DESC_BRK2: (234, 1, 2, 1)}
+
+
+def item_descs(e):
+    """{entry id: [(break table, item index)]} from the description pointer tables."""
+    out = {}
+    for ptrs, brk in DESC_TABLES.items():
+        for i in range(DESC_ITEMS):
+            out.setdefault(f'e:{e.word(ptrs + 4 * i):06x}', []).append((brk, i))
+    return out
+
+
+def desc_breaks(t, px, font, lines, nbytes, strict=True):
+    """Break cells for an item description wrapped by words to PX of FONT: the index of each later line's first
+    character (a space ending a line stays on it as an invisible cell), 0 = no more breaks. strict: more than LINES
+    lines raises (an English build); a marker runs on in its last line."""
+    out, start, cur = [], 0, ''
+    for w in t.split(' '):
+        if cur and vwf.line_px(cur + ' ' + w, font) > px:
+            start += len(cur) + 1; out.append(start); cur = w
+        else:
+            cur = cur + ' ' + w if cur else w
+    if strict and (len(out) >= lines or vwf.line_px(cur, font) > px):
+        raise ValueError(f'item description over {lines} lines of {px} px (font {font}): {t!r}')
+    assert not re.search(r'\[[0-9A-Fa-f]{2}\]', t), 'codes in an item description: break cells count characters'
+    return (out[:lines - 1] + [0] * nbytes)[:nbytes]
+
+
 def short(eid):
     """Marker id: story s2032:00028 -> 2032:28, common c7:001a0 -> c7:1a0, EBOOT e:1ed94c -> 1ed94c."""
     k, _, off = eid.partition(':')
@@ -119,10 +154,17 @@ class Inserter:
         d = elf_bytes or ELF.read_bytes()
         e = eb.Eboot(d)
         vwf.patch(e)
+        descs = item_descs(e)
         for entries in load('eboot').values():
             for x in entries:
                 t = self.text(x)
                 if t is None: continue
+                if x['id'] in descs:   # one row of cells, new lines at break cells (vwf.py: item descriptions)
+                    t = t.replace('\n', ' ')
+                    strict = self.mode == 'en' and x['id'] not in self.qa
+                    for table, i in descs[x['id']]:
+                        b = bytes(desc_breaks(t, *DESC_FIT[table], strict))
+                        e.put(table + i * len(b), b, by=x['id'] + ' breaks')
                 raw = from_text(t) + b'\0'
                 old = int(x['id'][2:], 16)
                 oldlen = len(from_text(x['jp'])) + 1

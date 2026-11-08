@@ -259,6 +259,17 @@ chain:
   and $t3, $t3, $t4
   beqz $t3, ch_done
   nop
+  andi $t1, $t0, 1
+  beqz $t1, ch_x
+  nop
+  andi $t1, $t0, 0x4000
+  bnez $t1, ch_x
+  nop
+  lh $t3, 2($s0)
+  lh $t5, -0x22($s0)
+  bne $t3, $t5, ch_done
+  nop
+ch_x:
   lh $t3, -0x24($s0)
   srl $t5, $t2, 8
   andi $t5, $t5, 0x3f
@@ -433,6 +444,12 @@ def patch(e):
     # the ASCII bytes 'o' and 'r' (of "AorB") absolutely; other ASCII stayed relative to the off-screen window.
     # Every ASCII byte now takes the 'o' path (placed at the line's x), and chain lays the rest out proportionally.
     e.put(0x1440B8, bytes(4), expect='0a008614', by='vwf: win conditions place ASCII')
+    # item descriptions: three screens place 30 cells of row 0 by hand and start a new line at break cells from
+    # per-item tables (0x2CA458: 1 break, 2 lines; 0x2F86F0: 2 breaks, EXTRA item page); insert.py writes the breaks
+    # from the English lines. Place 90 cells (setSize 3x) so English up to 90 characters shows.
+    for a, exp in ((0xE1170, '1e00652a'), (0xE1308, '1e00452a'), (0x13AA10, '1e00042a')):
+        e.put(a, struct.pack('<I', struct.unpack('<I', bytes.fromhex(exp))[0] & 0xFFFF0000 | 0x5A), expect=exp,
+              by='item descriptions: place 90 cells')
     # text width helper 0xA4A3C(win, count, font) = count x pitch; six callers pass strlen / 2 to centre or right-align
     # a string (unit name bar 0x7404, map headers 0xC1xxx...): their strlen goes through vlen (keeps the string) and
     # the helper call through vwidth (VWF advances for ASCII, the pitch per SJIS character)

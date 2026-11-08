@@ -100,6 +100,19 @@ def test_format_buffers(marker):
             if x['id'] in lim and t is not None: assert insert.fmt_bytes(t) <= lim[x['id']], x['id']
     with pytest.raises(ValueError):
         insert.Inserter('marker', qa={'e:1edc5c': '%2d wins and %2d losses'}).text({'id': 'e:1edc5c', 'jp': '%2d戦%2d勝', 'en': '', 'status': 'todo'})
+    # EXTRA list titles go through "%02d %s" into 32 bytes: 28 left for the title
+    assert lim['e:289288'] == 28 and lim['e:284cd0'] == 28
+
+
+def test_item_desc_breaks():
+    """Item descriptions: break cells are the index of each later line's first character, every line fits, too many
+    lines fail an English build."""
+    t = 'A sturdy steel helmet. It guards the head well.'
+    b = insert.desc_breaks(t, 134, 2, 3, 2)
+    assert 0 < b[0] < b[1] < len(t) and t[b[0] - 1] == ' ' and t[b[1] - 1] == ' '
+    for s in (t[:b[0]], t[b[0]:b[1]], t[b[1]:]): assert vwf.line_px(s.strip(), 2) <= 134
+    assert insert.desc_breaks('Short.', 134, 2, 3, 2) == [0, 0]
+    with pytest.raises(ValueError): insert.desc_breaks('word ' * 40, 134, 2, 3, 2)
 
 
 def test_vwf_widths():

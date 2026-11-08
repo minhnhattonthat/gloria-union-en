@@ -28,6 +28,18 @@ md.detail = False
 D = ELF.read_bytes()
 
 
+# (table, stride, field, rows, call, buffer, buffer bytes, format bytes besides the string, what): docs/re/text.md
+TABLES = [
+    (0x2f6d6c, 0x18, 4, 28, 'sprintf 0x1364a4', 'sp+0x10', 32, 3, 'EXTRA scenario list row "%02d %s"'),
+    (0x2f8090, 0x10, 8, 60, 'sprintf 0x13c3d8', 'sp+0x10', 32, 3, 'EXTRA music list row "%02d %s"'),
+    (0x2f8450, 0x10, 8, 16, 'sprintf 0x13d538', 'sp+0x10', 32, 3, 'EXTRA audio drama list row "%02d %s"'),
+    (0x2bcfcc, 0xc, 0, 55, 'sprintf 0x1390ac', 'sp+0x10', 32, 3, 'card name, EXTRA card list row "%02d %s"'),
+    (0x2cd2e8, 4, 0, 261, 'sprintf 0x13a87c', 'sp+0x10', 36, 0, 'item name, EXTRA item page "%s"'),
+    (0x2bca28, 0xc, 0, 54, 'strcpy+sprintf 0x139650', 'sp+0x10', 60, 2, 'card effect, card detail strcpy then "・%s" per line'),
+    (0x2bca28, 0xc, 8, 54, 'sprintf 0x139650', 'sp+0x10', 60, 2, 'card condition, card detail "・%s"'),
+]
+
+
 def ins(va):
     return next(md.disasm(D[va + OFF:va + OFF + 4], va), None)
 
@@ -97,6 +109,16 @@ def main():
     pct = next((int(r[4].split()[0]) for r in rows if r[0] == 'e:1ed9ac'), 5)
     for eid, s in (('e:1ed9a0', 'i:40c1c:40c28'), ('e:1ed9a4', 'i:40c3c:40c48'), ('e:1ed9a8', 'i:40c38:40c5c')):
         rows.append((eid, s, 'sprintf+strcat', 'sp+0x44', f'{above[0] - 0x44 - 1 - pct} (buffer minus e:1ed9ac output)'))
+    # plain strings copied through %s into stack buffers, traced by hand (EXTRA pages crashed on long fit text):
+    # every pointer of a table field gets the buffer's limit, less the format's own bytes
+    slots = {}
+    for p in sorted((ROOT / 'script/eboot').glob('*.json')):
+        for e in json.loads(p.read_text('utf8')):
+            for s in e['slots']: slots[s] = e['id']
+    for base, stride, field, n, call, buf, size, extra, note in TABLES:
+        for i in range(n):
+            s = f'w:{base + i * stride + field:x}'
+            if s in slots: rows.append((slots[s], s, call, buf, f'{size - 1 - extra} ({note})'))
     out = ROOT / 'tbl' / 'fmtbuf.tsv'
     with out.open('w', encoding='utf8', newline='\n') as f:
         f.write('id\tslot\tcall\tbuffer\tmax_bytes\n')

@@ -72,7 +72,13 @@ BUDGETS = {
     '2/10/14/1': (140, 1, 'guess: card data skill name drawn faded behind the card art (fitslide2/card_data/t010); '
                           'original width'),
     '2/22/14/2': (225, 2, 'measured: gate3/33 card select bottom, line 2 starts after its label and meets Total Move at ~227'),
+    # EXTRA pages (work/qa/extra3/sheet/a.png, fit build with the %s byte limits): description panels start at x ~282
+    # and run to the screen edge; list rows are byte-limited (tbl/fmtbuf.tsv), item descriptions wrap by build
+    '2/30/14/25': (195, 3, 'measured: extra3/sheet/a.png scenario/card/music/drama/character panels, x 282 to the '
+                           'screen edge'),
 }
+# entries of a fmtbuf.tsv group (matched in its note) shown in a narrower field than their window class says
+GROUPS = {'item name': (134, 1, 'measured: itemdesc2/z.png EXTRA item page name, x 298 to the dotted strip at ~432')}
 # a line also stops at 3 x the original columns (setSize), whatever its width: see cell_cap()
 DEFAULT = {'story': '1/16/18/4', 'common': '1/16/18/4'}
 
@@ -183,11 +189,14 @@ def budget(entry, _cache={}):
     if not ks:
         sub = {'s': 'story', 'c': 'common'}.get(entry['id'][0])
         ks = [DEFAULT[sub]] if sub else []
+    if 'g' not in _cache:
+        rows = [r.split('\t') for r in (ROOT / 'tbl/fmtbuf.tsv').read_text('utf8').splitlines()[1:]]
+        _cache['g'] = {r[0]: g for r in rows for g in GROUPS if g in r[4]}
+    cand = [(BUDGETS[k], k) for k in ks if k in BUDGETS]
+    if entry['id'] in _cache['g']: cand.append((GROUPS[_cache['g'][entry['id']]], _cache['g'][entry['id']]))
     best = None
-    for k in ks:
-        if k in BUDGETS:
-            px, lines, how = BUDGETS[k]
-            if best is None or px < best[0]: best = (px, lines, k, how.startswith('measured'))
+    for (px, lines, how), k in cand:
+        if best is None or px < best[0]: best = (px, lines, k, how.startswith('measured'))
     return best
 
 
