@@ -1114,8 +1114,8 @@
  {
   "id": "s2036:00969t",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x96c",
   "max": 6,
   "who": "team name"
@@ -1132,8 +1132,8 @@
  {
   "id": "s2036:02bf1t",
   "jp": "ロコモコ",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco",
+  "status": "done",
   "at": "0x2bf4",
   "max": 8,
   "who": "team name"
@@ -1141,8 +1141,8 @@
  {
   "id": "s2036:02c2dt",
   "jp": "ロコモコ",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco",
+  "status": "done",
   "at": "0x2c30",
   "max": 8,
   "who": "team name"

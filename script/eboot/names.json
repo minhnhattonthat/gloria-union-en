@@ -204,8 +204,8 @@
  {
   "id": "e:2808f0",
   "jp": "イシュト",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut",
+  "status": "done",
   "slots": [
    "w:2ee82c",
    "w:2ee9c4",
@@ -216,8 +216,8 @@
  {
   "id": "e:2808fc",
   "jp": "イシュト団",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut Crew",
+  "status": "done",
   "slots": [
    "w:2ee834"
   ]
@@ -225,8 +225,8 @@
  {
   "id": "e:280908",
   "jp": "ピンガー",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger",
+  "status": "done",
   "slots": [
    "w:2ee838",
    "w:2ee980"
@@ -235,8 +235,8 @@
  {
   "id": "e:280914",
   "jp": "ルルゥ",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru",
+  "status": "done",
   "slots": [
    "w:2ee844",
    "w:2ee84c"
@@ -245,8 +245,8 @@
  {
   "id": "e:28091c",
   "jp": "ザザーランド",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland",
+  "status": "done",
   "slots": [
    "w:2ee850"
   ]
@@ -254,8 +254,8 @@
  {
   "id": "e:28092c",
   "jp": "エリーシャ",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha",
+  "status": "done",
   "slots": [
    "w:2ee85c"
   ]
@@ -263,8 +263,8 @@
  {
   "id": "e:280938",
   "jp": "ミネソタ",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota",
+  "status": "done",
   "slots": [
    "w:2ee868"
   ]
@@ -272,8 +272,8 @@
  {
   "id": "e:280944",
   "jp": "ミネソタ隊",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota Unit",
+  "status": "done",
   "slots": [
    "w:2ee870"
   ]
@@ -281,8 +281,8 @@
  {
   "id": "e:280950",
   "jp": "ロコモコ",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco",
+  "status": "done",
   "slots": [
    "w:2ee874"
   ]
@@ -290,8 +290,8 @@
  {
   "id": "e:28095c",
   "jp": "ロコモコ団",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco Crew",
+  "status": "done",
   "slots": [
    "w:2ee87c"
   ]
@@ -299,8 +299,8 @@
  {
   "id": "e:280968",
   "jp": "ラズベリー",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry",
+  "status": "done",
   "slots": [
    "w:2ee880"
   ]
@@ -308,8 +308,8 @@
  {
   "id": "e:280974",
   "jp": "ラズベリー隊",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry Unit",
+  "status": "done",
   "slots": [
    "w:2ee888"
   ]
@@ -317,8 +317,8 @@
  {
   "id": "e:280984",
   "jp": "ガング",
-  "en": "",
-  "status": "todo",
+  "en": "Gangr",
+  "status": "done",
   "slots": [
    "w:2ee88c",
    "w:2ee894"
@@ -327,8 +327,8 @@
  {
   "id": "e:28098c",
   "jp": "フィービー",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee",
+  "status": "done",
   "slots": [
    "w:2ee898"
   ]
@@ -336,8 +336,8 @@
  {
   "id": "e:280998",
   "jp": "フィービー隊",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee Unit",
+  "status": "done",
   "slots": [
    "w:2ee8a0"
   ]
@@ -345,8 +345,8 @@
  {
   "id": "e:2809a8",
   "jp": "アンヌ",
-  "en": "",
-  "status": "todo",
+  "en": "Anne",
+  "status": "done",
   "slots": [
    "w:2ee8a4"
   ]
@@ -354,8 +354,8 @@
  {
   "id": "e:2809b0",
   "jp": "アンヌ団",
-  "en": "",
-  "status": "todo",
+  "en": "Anne Crew",
+  "status": "done",
   "slots": [
    "w:2ee8ac"
   ]
@@ -363,8 +363,8 @@
  {
   "id": "e:2809bc",
   "jp": "カミュル",
-  "en": "",
-  "status": "todo",
+  "en": "Kamuru",
+  "status": "done",
   "slots": [
    "w:2ee8b0"
   ]
@@ -372,8 +372,8 @@
  {
   "id": "e:2809c8",
   "jp": "カミュル隊",
-  "en": "",
-  "status": "todo",
+  "en": "Kamuru Unit",
+  "status": "done",
   "slots": [
    "w:2ee8b8"
   ]
@@ -381,8 +381,8 @@
  {
   "id": "e:2809d4",
   "jp": "ユグドラ",
-  "en": "",
-  "status": "todo",
+  "en": "Yggdra",
+  "status": "done",
   "slots": [
    "w:2ee8bc"
   ]
@@ -390,8 +390,8 @@
  {
   "id": "e:2809e0",
   "jp": "ユグドラ隊",
-  "en": "",
-  "status": "todo",
+  "en": "Yggdra Unit",
+  "status": "done",
   "slots": [
    "w:2ee8c4"
   ]
@@ -399,8 +399,8 @@
  {
   "id": "e:2809ec",
   "jp": "パメラ",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela",
+  "status": "done",
   "slots": [
    "w:2ee8c8"
   ]
@@ -408,8 +408,8 @@
  {
   "id": "e:2809f4",
   "jp": "パメラサマ",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela-sama",
+  "status": "done",
   "slots": [
    "w:2ee8d0"
   ]
@@ -417,8 +417,8 @@
  {
   "id": "e:280a00",
   "jp": "イータ",
-  "en": "",
-  "status": "todo",
+  "en": "Eater",
+  "status": "done",
   "slots": [
    "w:2ee8d4",
    "w:2ee8dc"
@@ -427,8 +427,8 @@
  {
   "id": "e:280a08",
   "jp": "ベルガス",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas",
+  "status": "done",
   "slots": [
    "w:2ee8e0"
   ]
@@ -436,8 +436,8 @@
  {
   "id": "e:280a14",
   "jp": "ベルガス団",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas Crew",
+  "status": "done",
   "slots": [
    "w:2ee8e8"
   ]
@@ -445,8 +445,8 @@
  {
   "id": "e:280a20",
   "jp": "ブラックモア",
-  "en": "",
-  "status": "todo",
+  "en": "Blackmore",
+  "status": "done",
   "slots": [
    "w:2ee8ec"
   ]
@@ -454,8 +454,8 @@
  {
   "id": "e:280a30",
   "jp": "ブラックモア団",
-  "en": "",
-  "status": "todo",
+  "en": "Blackmore Crew",
+  "status": "done",
   "slots": [
    "w:2ee8f4"
   ]
@@ -463,8 +463,8 @@
  {
   "id": "e:280a40",
   "jp": "ローガン",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan",
+  "status": "done",
   "slots": [
    "w:2ee8f8"
   ]
@@ -472,8 +472,8 @@
  {
   "id": "e:280a4c",
   "jp": "ローガン隊",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan Unit",
+  "status": "done",
   "slots": [
    "w:2ee900"
   ]
@@ -481,8 +481,8 @@
  {
   "id": "e:280a58",
   "jp": "トレイシー",
-  "en": "",
-  "status": "todo",
+  "en": "Tracey",
+  "status": "done",
   "slots": [
    "w:2ee904"
   ]
@@ -490,8 +490,8 @@
  {
   "id": "e:280a64",
   "jp": "トレイシー団",
-  "en": "",
-  "status": "todo",
+  "en": "Tracey Crew",
+  "status": "done",
   "slots": [
    "w:2ee90c"
   ]
@@ -499,8 +499,8 @@
  {
   "id": "e:280a74",
   "jp": "ガルム",
-  "en": "",
-  "status": "todo",
+  "en": "Garm",
+  "status": "done",
   "slots": [
    "w:2ee910"
   ]
@@ -508,8 +508,8 @@
  {
   "id": "e:280a7c",
   "jp": "ガルム隊",
-  "en": "",
-  "status": "todo",
+  "en": "Garm Unit",
+  "status": "done",
   "slots": [
    "w:2ee918"
   ]
@@ -517,8 +517,8 @@
  {
   "id": "e:280a88",
   "jp": "メラニー",
-  "en": "",
-  "status": "todo",
+  "en": "Melanie",
+  "status": "done",
   "slots": [
    "w:2ee91c"
   ]
@@ -526,8 +526,8 @@
  {
   "id": "e:280a94",
   "jp": "メラニー隊",
-  "en": "",
-  "status": "todo",
+  "en": "Melanie Unit",
+  "status": "done",
   "slots": [
    "w:2ee924"
   ]
@@ -535,8 +535,8 @@
  {
   "id": "e:280aa0",
   "jp": "ガリオレッド",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored",
+  "status": "done",
   "slots": [
    "w:2ee928",
    "w:2ee9b8",
@@ -546,8 +546,8 @@
  {
   "id": "e:280ab0",
   "jp": "ガリオレッド隊",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored Unit",
+  "status": "done",
   "slots": [
    "w:2ee930"
   ]
@@ -555,8 +555,8 @@
  {
   "id": "e:280ac0",
   "jp": "アシュレイ",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey",
+  "status": "done",
   "slots": [
    "w:2ee934",
    "w:2ee9ac",
@@ -566,8 +566,8 @@
  {
   "id": "e:280acc",
   "jp": "アシュレイ隊",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey Unit",
+  "status": "done",
   "slots": [
    "w:2ee93c"
   ]
@@ -575,8 +575,8 @@
  {
   "id": "e:280adc",
   "jp": "アジョー",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo",
+  "status": "done",
   "slots": [
    "w:2ee940"
   ]
@@ -584,8 +584,8 @@
  {
   "id": "e:280ae8",
   "jp": "アジョー団",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo Crew",
+  "status": "done",
   "slots": [
    "w:2ee948"
   ]
@@ -593,8 +593,8 @@
  {
   "id": "e:280af4",
   "jp": "ジゼル",
-  "en": "",
-  "status": "todo",
+  "en": "Giselle",
+  "status": "done",
   "slots": [
    "w:2ee94c"
   ]
@@ -602,8 +602,8 @@
  {
   "id": "e:280afc",
   "jp": "ジゼル隊",
-  "en": "",
-  "status": "todo",
+  "en": "Giselle Unit",
+  "status": "done",
   "slots": [
    "w:2ee954"
   ]
@@ -611,8 +611,8 @@
  {
   "id": "e:280b08",
   "jp": "サイード",
-  "en": "",
-  "status": "todo",
+  "en": "Saeed",
+  "status": "done",
   "slots": [
    "w:2ee958"
   ]
@@ -620,8 +620,8 @@
  {
   "id": "e:280b14",
   "jp": "キーラ",
-  "en": "",
-  "status": "todo",
+  "en": "Kyra",
+  "status": "done",
   "slots": [
    "w:2ee964",
    "w:2ee96c"
@@ -630,8 +630,8 @@
  {
   "id": "e:280b1c",
   "jp": "エンリエッタ",
-  "en": "",
-  "status": "todo",
+  "en": "Enryetta",
+  "status": "done",
   "slots": [
    "w:2ee970"
   ]
@@ -639,8 +639,8 @@
  {
   "id": "e:280b2c",
   "jp": "エンリエッタ隊",
-  "en": "",
-  "status": "todo",
+  "en": "Enryetta Unit",
+  "status": "done",
   "slots": [
    "w:2ee978"
   ]
@@ -648,8 +648,8 @@
  {
   "id": "e:280b3c",
   "jp": "獣人ピンガー",
-  "en": "",
-  "status": "todo",
+  "en": "Beast Pinger",
+  "status": "done",
   "slots": [
    "w:2ee97c"
   ]
@@ -657,8 +657,8 @@
  {
   "id": "e:280b4c",
   "jp": "ルルゥＭｋ－２",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru Mk-II",
+  "status": "done",
   "slots": [
    "w:2ee988",
    "w:2ee990"
@@ -667,8 +667,8 @@
  {
   "id": "e:280b5c",
   "jp": "ルルゥＭｋ２",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru Mk2",
+  "status": "done",
   "slots": [
    "w:2ee98c"
   ]
@@ -676,8 +676,8 @@
  {
   "id": "e:280b6c",
   "jp": "ベルガス改",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas EX",
+  "status": "done",
   "slots": [
    "w:2ee994",
    "w:2ee99c"
@@ -686,8 +686,8 @@
  {
   "id": "e:280b78",
   "jp": "シンフォニア",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia",
+  "status": "done",
   "slots": [
    "w:2ee9a0",
    "w:2ee9a8"
@@ -696,8 +696,8 @@
  {
   "id": "e:280b88",
   "jp": "海賊",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate",
+  "status": "done",
   "slots": [
    "w:2ee9d0"
   ]
@@ -705,8 +705,8 @@
  {
   "id": "e:280b90",
   "jp": "カイゾク",
-  "en": "",
-  "status": "todo",
+  "en": "Pirates",
+  "status": "done",
   "slots": [
    "w:2ee9d4"
   ]
@@ -714,8 +714,8 @@
  {
   "id": "e:280b9c",
   "jp": "カイゾク団",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate Crew",
+  "status": "done",
   "slots": [
    "w:2ee9d8"
   ]
@@ -723,8 +723,8 @@
  {
   "id": "e:280ba8",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "slots": [
    "w:2ee9dc"
   ]
@@ -732,8 +732,8 @@
  {
   "id": "e:280bb0",
   "jp": "クロイキバ",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fangs",
+  "status": "done",
   "slots": [
    "w:2ee9e0",
    "w:2ee9e4"
@@ -742,8 +742,8 @@
  {
   "id": "e:280bbc",
   "jp": "屍兵",
-  "en": "",
-  "status": "todo",
+  "en": "Undead",
+  "status": "done",
   "slots": [
    "w:2ee9e8"
   ]
@@ -751,8 +751,8 @@
  {
   "id": "e:280bc4",
   "jp": "シ兵",
-  "en": "",
-  "status": "todo",
+  "en": "Undead Unit",
+  "status": "done",
   "slots": [
    "w:2ee9ec"
   ]
@@ -760,8 +760,8 @@
  {
   "id": "e:280bcc",
   "jp": "商団兵",
-  "en": "",
-  "status": "todo",
+  "en": "Guild Guard",
+  "status": "done",
   "slots": [
    "w:2ee9f4"
   ]
@@ -769,8 +769,8 @@
  {
   "id": "e:280bd4",
   "jp": "ショウ団兵",
-  "en": "",
-  "status": "todo",
+  "en": "Guild Guards",
+  "status": "done",
   "slots": [
    "w:2ee9f8"
   ]
@@ -778,8 +778,8 @@
  {
   "id": "e:280be0",
   "jp": "ショウ団",
-  "en": "",
-  "status": "todo",
+  "en": "Guild",
+  "status": "done",
   "slots": [
    "w:2ee9fc",
    "w:2eeaec"
@@ -788,8 +788,8 @@
  {
   "id": "e:280bec",
   "jp": "皇国兵",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial",
+  "status": "done",
   "slots": [
    "w:2eea00"
   ]
@@ -797,8 +797,8 @@
  {
   "id": "e:280bf4",
   "jp": "コウコク兵",
-  "en": "",
-  "status": "todo",
+  "en": "Imperials",
+  "status": "done",
   "slots": [
    "w:2eea04",
    "w:2eeac4"
@@ -807,8 +807,8 @@
  {
   "id": "e:280c00",
   "jp": "コウコク兵隊",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial Unit",
+  "status": "done",
   "slots": [
    "w:2eea08",
    "w:2eea14",
@@ -818,8 +818,8 @@
  {
   "id": "e:280c10",
   "jp": "皇国騎兵",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial Cavalry",
+  "status": "done",
   "slots": [
    "w:2eea0c"
   ]
@@ -827,8 +827,8 @@
  {
   "id": "e:280c1c",
   "jp": "コウコクキ兵",
-  "en": "",
-  "status": "todo",
+  "en": "Cavalry",
+  "status": "done",
   "slots": [
    "w:2eea10"
   ]
@@ -836,8 +836,8 @@
  {
   "id": "e:280c2c",
   "jp": "連合兵",
-  "en": "",
-  "status": "todo",
+  "en": "Federal",
+  "status": "done",
   "slots": [
    "w:2eea18"
   ]
@@ -845,8 +845,8 @@
  {
   "id": "e:280c34",
   "jp": "レンゴウ兵",
-  "en": "",
-  "status": "todo",
+  "en": "Federals",
+  "status": "done",
   "slots": [
    "w:2eea1c",
    "w:2eead0"
@@ -855,8 +855,8 @@
  {
   "id": "e:280c40",
   "jp": "レンゴウ兵隊",
-  "en": "",
-  "status": "todo",
+  "en": "Federal Unit",
+  "status": "done",
   "slots": [
    "w:2eea20",
    "w:2eead4"
@@ -865,8 +865,8 @@
  {
   "id": "e:280c50",
   "jp": "探検隊員",
-  "en": "",
-  "status": "todo",
+  "en": "Explorer",
+  "status": "done",
   "slots": [
    "w:2eea24"
   ]
@@ -874,8 +874,8 @@
  {
   "id": "e:280c5c",
   "jp": "タンケン隊",
-  "en": "",
-  "status": "todo",
+  "en": "Explorers",
+  "status": "done",
   "slots": [
    "w:2eea28"
   ]
@@ -883,8 +883,8 @@
  {
   "id": "e:280c68",
   "jp": "騎士団員",
-  "en": "",
-  "status": "todo",
+  "en": "Knight",
+  "status": "done",
   "slots": [
    "w:2eea30"
   ]
@@ -892,8 +892,8 @@
  {
   "id": "e:280c74",
   "jp": "キシ団員",
-  "en": "",
-  "status": "todo",
+  "en": "Knights",
+  "status": "done",
   "slots": [
    "w:2eea34"
   ]
@@ -901,8 +901,8 @@
  {
   "id": "e:280c80",
   "jp": "賞金稼ぎ",
-  "en": "",
-  "status": "todo",
+  "en": "Bounty Hunter",
+  "status": "done",
   "slots": [
    "w:2eea3c"
   ]
@@ -910,8 +910,8 @@
  {
   "id": "e:280c8c",
   "jp": "ショウキン",
-  "en": "",
-  "status": "todo",
+  "en": "Hunters",
+  "status": "done",
   "slots": [
    "w:2eea40"
   ]
@@ -919,8 +919,8 @@
  {
   "id": "e:280c98",
   "jp": "ショウキン団",
-  "en": "",
-  "status": "todo",
+  "en": "Hunter Crew",
+  "status": "done",
   "slots": [
    "w:2eea44"
   ]
@@ -928,8 +928,8 @@
  {
   "id": "e:280ca8",
   "jp": "近衛兵",
-  "en": "",
-  "status": "todo",
+  "en": "Royal Guard",
+  "status": "done",
   "slots": [
    "w:2eea48"
   ]
@@ -937,8 +937,8 @@
  {
   "id": "e:280cb0",
   "jp": "コノエ兵",
-  "en": "",
-  "status": "todo",
+  "en": "Guards",
+  "status": "done",
   "slots": [
    "w:2eea4c"
   ]
@@ -946,8 +946,8 @@
  {
   "id": "e:280cbc",
   "jp": "研究団員",
-  "en": "",
-  "status": "todo",
+  "en": "Researcher",
+  "status": "done",
   "slots": [
    "w:2eea54"
   ]
@@ -955,8 +955,8 @@
  {
   "id": "e:280cc8",
   "jp": "ダンイン",
-  "en": "",
-  "status": "todo",
+  "en": "Members",
+  "status": "done",
   "slots": [
    "w:2eea58"
   ]
@@ -964,8 +964,8 @@
  {
   "id": "e:280cd4",
   "jp": "子分",
-  "en": "",
-  "status": "todo",
+  "en": "Lackey",
+  "status": "done",
   "slots": [
    "w:2eea60"
   ]
@@ -973,8 +973,8 @@
  {
   "id": "e:280cdc",
   "jp": "コブン",
-  "en": "",
-  "status": "todo",
+  "en": "Lackeys",
+  "status": "done",
   "slots": [
    "w:2eea64"
   ]
@@ -982,8 +982,8 @@
  {
   "id": "e:280ce4",
   "jp": "ゴロツキ",
-  "en": "",
-  "status": "todo",
+  "en": "Thug",
+  "status": "done",
   "slots": [
    "w:2eea6c",
    "w:2eea74"
@@ -992,8 +992,8 @@
  {
   "id": "e:280cf0",
   "jp": "山賊",
-  "en": "",
-  "status": "todo",
+  "en": "Bandit",
+  "status": "done",
   "slots": [
    "w:2eea78"
   ]
@@ -1001,8 +1001,8 @@
  {
   "id": "e:280cf8",
   "jp": "サンゾク",
-  "en": "",
-  "status": "todo",
+  "en": "Bandits",
+  "status": "done",
   "slots": [
    "w:2eea7c"
   ]
@@ -1010,8 +1010,8 @@
  {
   "id": "e:280d04",
   "jp": "サンゾク団",
-  "en": "",
-  "status": "todo",
+  "en": "Bandit Gang",
+  "status": "done",
   "slots": [
    "w:2eea80"
   ]
@@ -1019,8 +1019,8 @@
  {
   "id": "e:280d10",
   "jp": "民兵",
-  "en": "",
-  "status": "todo",
+  "en": "Militia",
+  "status": "done",
   "slots": [
    "w:2eea84"
   ]
@@ -1028,8 +1028,8 @@
  {
   "id": "e:280d18",
   "jp": "ミン兵",
-  "en": "",
-  "status": "todo",
+  "en": "Militiaman",
+  "status": "done",
   "slots": [
    "w:2eea88"
   ]
@@ -1037,8 +1037,8 @@
  {
   "id": "e:280d20",
   "jp": "トウミン団",
-  "en": "",
-  "status": "todo",
+  "en": "Islanders",
+  "status": "done",
   "slots": [
    "w:2eea8c"
   ]
@@ -1046,8 +1046,8 @@
  {
   "id": "e:280d2c",
   "jp": "海の犬",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Dogs",
+  "status": "done",
   "slots": [
    "w:2eea90"
   ]
@@ -1055,8 +1055,8 @@
  {
   "id": "e:280d34",
   "jp": "ウミノイヌ",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Dogs",
+  "status": "done",
   "slots": [
    "w:2eea94",
    "w:2eea98"
@@ -1065,8 +1065,8 @@
  {
   "id": "e:280d40",
   "jp": "悪霊",
-  "en": "",
-  "status": "todo",
+  "en": "Evil Spirit",
+  "status": "done",
   "slots": [
    "w:2eea9c"
   ]
@@ -1074,8 +1074,8 @@
  {
   "id": "e:280d48",
   "jp": "アクリョウ",
-  "en": "",
-  "status": "todo",
+  "en": "Spirits",
+  "status": "done",
   "slots": [
    "w:2eeaa0"
   ]
@@ -1083,8 +1083,8 @@
  {
   "id": "e:280d54",
   "jp": "アクリョウ団",
-  "en": "",
-  "status": "todo",
+  "en": "Spirit Horde",
+  "status": "done",
   "slots": [
    "w:2eeaa4"
   ]
@@ -1092,8 +1092,8 @@
  {
   "id": "e:280d64",
   "jp": "ゴーレム",
-  "en": "",
-  "status": "todo",
+  "en": "Golem",
+  "status": "done",
   "slots": [
    "w:2eeaa8"
   ]
@@ -1101,8 +1101,8 @@
  {
   "id": "e:280d70",
   "jp": "スケルトン",
-  "en": "",
-  "status": "todo",
+  "en": "Skeleton",
+  "status": "done",
   "slots": [
    "w:2eeab4",
    "w:2eeabc"
@@ -1111,8 +1111,8 @@
  {
   "id": "e:280d7c",
   "jp": "皇国兵長",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial Sergeant",
+  "status": "done",
   "slots": [
    "w:2eeac0"
   ]
@@ -1120,8 +1120,8 @@
  {
   "id": "e:280d88",
   "jp": "連合兵長",
-  "en": "",
-  "status": "todo",
+  "en": "Federal Sergeant",
+  "status": "done",
   "slots": [
    "w:2eeacc"
   ]
@@ -1129,8 +1129,8 @@
  {
   "id": "e:280d94",
   "jp": "支部船長",
-  "en": "",
-  "status": "todo",
+  "en": "Branch Captain",
+  "status": "done",
   "slots": [
    "w:2eead8"
   ]
@@ -1138,8 +1138,8 @@
  {
   "id": "e:280da0",
   "jp": "シブセン長",
-  "en": "",
-  "status": "todo",
+  "en": "Captain",
+  "status": "done",
   "slots": [
    "w:2eeadc"
   ]
@@ -1147,8 +1147,8 @@
  {
   "id": "e:280dac",
   "jp": "武装商人",
-  "en": "",
-  "status": "todo",
+  "en": "Armed Trader",
+  "status": "done",
   "slots": [
    "w:2eeae4"
   ]
@@ -1156,8 +1156,8 @@
  {
   "id": "e:280db8",
   "jp": "ショウニン",
-  "en": "",
-  "status": "todo",
+  "en": "Trader",
+  "status": "done",
   "slots": [
    "w:2eeae8"
   ]
@@ -1165,8 +1165,8 @@
  {
   "id": "e:280dc4",
   "jp": "見張り兵",
-  "en": "",
-  "status": "todo",
+  "en": "Lookout",
+  "status": "done",
   "slots": [
    "w:2eeaf0"
   ]
@@ -1174,8 +1174,8 @@
  {
   "id": "e:280dd0",
   "jp": "ミハリ兵",
-  "en": "",
-  "status": "todo",
+  "en": "Lookouts",
+  "status": "done",
   "slots": [
    "w:2eeaf4"
   ]
@@ -1183,8 +1183,8 @@
  {
   "id": "e:280ddc",
   "jp": "お頭",
-  "en": "",
-  "status": "todo",
+  "en": "Chief",
+  "status": "done",
   "slots": [
    "w:2eeafc"
   ]
@@ -1192,8 +1192,8 @@
  {
   "id": "e:280de4",
   "jp": "オカシラ",
-  "en": "",
-  "status": "todo",
+  "en": "Chief",
+  "status": "done",
   "slots": [
    "w:2eeb00"
   ]
@@ -1201,8 +1201,8 @@
  {
   "id": "e:280df0",
   "jp": "手下",
-  "en": "",
-  "status": "todo",
+  "en": "Henchman",
+  "status": "done",
   "slots": [
    "w:2eeb08"
   ]
@@ -1210,8 +1210,8 @@
  {
   "id": "e:280df8",
   "jp": "テシタ",
-  "en": "",
-  "status": "todo",
+  "en": "Henchmen",
+  "status": "done",
   "slots": [
    "w:2eeb0c"
   ]
@@ -1219,8 +1219,8 @@
  {
   "id": "e:280e00",
   "jp": "ナンパ男",
-  "en": "",
-  "status": "todo",
+  "en": "Flirt",
+  "status": "done",
   "slots": [
    "w:2eeb14"
   ]
@@ -1228,8 +1228,8 @@
  {
   "id": "e:280e0c",
   "jp": "ナンパ",
-  "en": "",
-  "status": "todo",
+  "en": "Flirts",
+  "status": "done",
   "slots": [
    "w:2eeb18"
   ]
@@ -1237,8 +1237,8 @@
  {
   "id": "e:280e14",
   "jp": "砲撃手",
-  "en": "",
-  "status": "todo",
+  "en": "Gunner",
+  "status": "done",
   "slots": [
    "w:2eeb20"
   ]
@@ -1246,8 +1246,8 @@
  {
   "id": "e:280e1c",
   "jp": "ホウゲキ",
-  "en": "",
-  "status": "todo",
+  "en": "Gunners",
+  "status": "done",
   "slots": [
    "w:2eeb24"
   ]
@@ -1255,8 +1255,8 @@
  {
   "id": "e:280e28",
   "jp": "海賊船",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate Ship",
+  "status": "done",
   "slots": [
    "w:2eeb2c"
   ]
@@ -1264,8 +1264,8 @@
  {
   "id": "e:280e30",
   "jp": "カイゾクセン",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate Ship",
+  "status": "done",
   "slots": [
    "w:2eeb30",
    "w:2eeb34"
@@ -1274,8 +1274,8 @@
  {
   "id": "e:280e40",
   "jp": "商団船",
-  "en": "",
-  "status": "todo",
+  "en": "Guild Ship",
+  "status": "done",
   "slots": [
    "w:2eeb38"
   ]
@@ -1283,8 +1283,8 @@
  {
   "id": "e:280e48",
   "jp": "ショウ団セン",
-  "en": "",
-  "status": "todo",
+  "en": "Guild Ship",
+  "status": "done",
   "slots": [
    "w:2eeb3c"
   ]
@@ -1292,8 +1292,8 @@
  {
   "id": "e:280e58",
   "jp": "連合軍艦",
-  "en": "",
-  "status": "todo",
+  "en": "Federal Ship",
+  "status": "done",
   "slots": [
    "w:2eeb44"
   ]
@@ -1301,8 +1301,8 @@
  {
   "id": "e:280e64",
   "jp": "レンゴウ",
-  "en": "",
-  "status": "todo",
+  "en": "Federal",
+  "status": "done",
   "slots": [
    "w:2eeb48"
   ]
@@ -1310,8 +1310,8 @@
  {
   "id": "e:280e70",
   "jp": "皇国軍艦",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial Ship",
+  "status": "done",
   "slots": [
    "w:2eeb50"
   ]
@@ -1319,8 +1319,8 @@
  {
   "id": "e:280e7c",
   "jp": "コウコク",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial",
+  "status": "done",
   "slots": [
    "w:2eeb54"
   ]
@@ -1328,8 +1328,8 @@
  {
   "id": "e:280e88",
   "jp": "戦艦グラム",
-  "en": "",
-  "status": "todo",
+  "en": "Battleship Gram",
+  "status": "done",
   "slots": [
    "w:2eeb5c"
   ]
@@ -1337,8 +1337,8 @@
  {
   "id": "e:280e94",
   "jp": "グラム",
-  "en": "",
-  "status": "todo",
+  "en": "Gram",
+  "status": "done",
   "slots": [
    "w:2eeb60"
   ]
@@ -1346,8 +1346,8 @@
  {
   "id": "e:280e9c",
   "jp": "デリット号",
-  "en": "",
-  "status": "todo",
+  "en": "The Delitto",
+  "status": "done",
   "slots": [
    "w:2eeb68"
   ]
@@ -1355,8 +1355,8 @@
  {
   "id": "e:280ea8",
   "jp": "デリット",
-  "en": "",
-  "status": "todo",
+  "en": "Delitto",
+  "status": "done",
   "slots": [
    "w:2eeb6c"
   ]
@@ -1364,8 +1364,8 @@
  {
   "id": "e:280eb4",
   "jp": "ヴァルスィ号",
-  "en": "",
-  "status": "todo",
+  "en": "The Valsi",
+  "status": "done",
   "slots": [
    "w:2eeb74"
   ]
@@ -1373,8 +1373,8 @@
  {
   "id": "e:280ec4",
   "jp": "ヴァルスィ",
-  "en": "",
-  "status": "todo",
+  "en": "Valsi",
+  "status": "done",
   "slots": [
    "w:2eeb78"
   ]
@@ -1382,8 +1382,8 @@
  {
   "id": "e:280ed0",
   "jp": "リベラトレ号",
-  "en": "",
-  "status": "todo",
+  "en": "The Liberatore",
+  "status": "done",
   "slots": [
    "w:2eeb80"
   ]
@@ -1391,8 +1391,8 @@
  {
   "id": "e:280ee0",
   "jp": "リベラトレ",
-  "en": "",
-  "status": "todo",
+  "en": "Liberatore",
+  "status": "done",
   "slots": [
    "w:2eeb84"
   ]
@@ -1400,8 +1400,8 @@
  {
   "id": "e:280eec",
   "jp": "戦艦バルトロ",
-  "en": "",
-  "status": "todo",
+  "en": "Battleship Bartolo",
+  "status": "done",
   "slots": [
    "w:2eeb8c"
   ]
@@ -1409,8 +1409,8 @@
  {
   "id": "e:280efc",
   "jp": "バルトロ",
-  "en": "",
-  "status": "todo",
+  "en": "Bartolo",
+  "status": "done",
   "slots": [
    "w:2eeb90"
   ]
@@ -1418,8 +1418,8 @@
  {
   "id": "e:280f08",
   "jp": "戦艦マリアデ",
-  "en": "",
-  "status": "todo",
+  "en": "Battleship Mariade",
+  "status": "done",
   "slots": [
    "w:2eeb98"
   ]
@@ -1427,8 +1427,8 @@
  {
   "id": "e:280f18",
   "jp": "マリアデ",
-  "en": "",
-  "status": "todo",
+  "en": "Mariade",
+  "status": "done",
   "slots": [
    "w:2eeb9c"
   ]
@@ -1436,8 +1436,8 @@
  {
   "id": "e:280f24",
   "jp": "戦艦ゼウス",
-  "en": "",
-  "status": "todo",
+  "en": "Battleship Zeus",
+  "status": "done",
   "slots": [
    "w:2eeba4"
   ]
@@ -1445,8 +1445,8 @@
  {
   "id": "e:280f30",
   "jp": "ゼウス",
-  "en": "",
-  "status": "todo",
+  "en": "Zeus",
+  "status": "done",
   "slots": [
    "w:2eeba8"
   ]
@@ -1454,8 +1454,8 @@
  {
   "id": "e:280f38",
   "jp": "戦艦バーチェ",
-  "en": "",
-  "status": "todo",
+  "en": "Battleship Barche",
+  "status": "done",
   "slots": [
    "w:2eebb0"
   ]
@@ -1463,8 +1463,8 @@
  {
   "id": "e:280f48",
   "jp": "バーチェ",
-  "en": "",
-  "status": "todo",
+  "en": "Barche",
+  "status": "done",
   "slots": [
    "w:2eebb4"
   ]
@@ -1472,8 +1472,8 @@
  {
   "id": "e:280f54",
   "jp": "アンズ",
-  "en": "",
-  "status": "todo",
+  "en": "Anzu",
+  "status": "done",
   "slots": [
    "w:2eebbc"
   ]
@@ -1481,8 +1481,8 @@
  {
   "id": "e:280f5c",
   "jp": "ゴーレム隊",
-  "en": "",
-  "status": "todo",
+  "en": "Golem Unit",
+  "status": "done",
   "slots": [
    "w:2eebc4"
   ]
@@ -1490,8 +1490,8 @@
  {
   "id": "e:280f68",
   "jp": "クロ",
-  "en": "",
-  "status": "todo",
+  "en": "Kuro",
+  "status": "done",
   "slots": [
    "w:2eebc8"
   ]
@@ -1499,8 +1499,8 @@
  {
   "id": "e:280f70",
   "jp": "ローキン",
-  "en": "",
-  "status": "todo",
+  "en": "Rokin",
+  "status": "done",
   "slots": [
    "w:2eebd4"
   ]
@@ -1508,8 +1508,8 @@
  {
   "id": "e:280f7c",
   "jp": "トローチ",
-  "en": "",
-  "status": "todo",
+  "en": "Troche",
+  "status": "done",
   "slots": [
    "w:2eebe0"
   ]
@@ -1517,8 +1517,8 @@
  {
   "id": "e:280f88",
   "jp": "カリン",
-  "en": "",
-  "status": "todo",
+  "en": "Karin",
+  "status": "done",
   "slots": [
    "w:2eebec"
   ]
@@ -1526,8 +1526,8 @@
  {
   "id": "e:280f90",
   "jp": "カラメル",
-  "en": "",
-  "status": "todo",
+  "en": "Caramel",
+  "status": "done",
   "slots": [
    "w:2eebf8"
   ]
@@ -1535,8 +1535,8 @@
  {
   "id": "e:280f9c",
   "jp": "コルベル",
-  "en": "",
-  "status": "todo",
+  "en": "Corbel",
+  "status": "done",
   "slots": [
    "w:2eec04"
   ]
@@ -1544,8 +1544,8 @@
  {
   "id": "e:280fa8",
   "jp": "アップル",
-  "en": "",
-  "status": "todo",
+  "en": "Apple",
+  "status": "done",
   "slots": [
    "w:2eec10"
   ]
@@ -1553,8 +1553,8 @@
  {
   "id": "e:280fb4",
   "jp": "ケロッツ",
-  "en": "",
-  "status": "todo",
+  "en": "Kerotts",
+  "status": "done",
   "slots": [
    "w:2eec1c"
   ]
@@ -1562,8 +1562,8 @@
  {
   "id": "e:280fc0",
   "jp": "生贄少女",
-  "en": "",
-  "status": "todo",
+  "en": "Sacrifice Girl",
+  "status": "done",
   "slots": [
    "w:2eec28",
    "w:2eef4c"
@@ -1572,8 +1572,8 @@
  {
   "id": "e:280fcc",
   "jp": "イケニエ",
-  "en": "",
-  "status": "todo",
+  "en": "Sacrifice",
+  "status": "done",
   "slots": [
    "w:2eec30"
   ]
@@ -1581,8 +1581,8 @@
  {
   "id": "e:280fd8",
   "jp": "長老",
-  "en": "",
-  "status": "todo",
+  "en": "Elder",
+  "status": "done",
   "slots": [
    "w:2eec34"
   ]
@@ -1590,8 +1590,8 @@
  {
   "id": "e:280fe0",
   "jp": "チョウロウ",
-  "en": "",
-  "status": "todo",
+  "en": "Elder",
+  "status": "done",
   "slots": [
    "w:2eec3c"
   ]
@@ -1599,8 +1599,8 @@
  {
   "id": "e:280fec",
   "jp": "海ゴブリン",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblin",
+  "status": "done",
   "slots": [
    "w:2eec40"
   ]
@@ -1608,8 +1608,8 @@
  {
   "id": "e:280ff8",
   "jp": "ウミゴブリン",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblins",
+  "status": "done",
   "slots": [
    "w:2eec48"
   ]
@@ -1617,8 +1617,8 @@
  {
   "id": "e:281008",
   "jp": "運の悪い男",
-  "en": "",
-  "status": "todo",
+  "en": "Unlucky Man",
+  "status": "done",
   "slots": [
    "w:2eec4c"
   ]
@@ -1626,8 +1626,8 @@
  {
   "id": "e:281014",
   "jp": "オトコ",
-  "en": "",
-  "status": "todo",
+  "en": "Man",
+  "status": "done",
   "slots": [
    "w:2eec54",
    "w:2eec84"
@@ -1636,8 +1636,8 @@
  {
   "id": "e:28101c",
   "jp": "グロリア号",
-  "en": "",
-  "status": "todo",
+  "en": "The Gloria",
+  "status": "done",
   "slots": [
    "w:2eec58"
   ]
@@ -1645,8 +1645,8 @@
  {
   "id": "e:281028",
   "jp": "グロリア",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria",
+  "status": "done",
   "slots": [
    "w:2eec5c"
   ]
@@ -1654,8 +1654,8 @@
  {
   "id": "e:281034",
   "jp": "グロリア団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Crew",
+  "status": "done",
   "slots": [
    "w:2eec60"
   ]
@@ -1663,8 +1663,8 @@
  {
   "id": "e:281040",
   "jp": "？？？",
-  "en": "",
-  "status": "todo",
+  "en": "???",
+  "status": "done",
   "slots": [
    "w:2eec64"
   ]
@@ -1672,8 +1672,8 @@
  {
   "id": "e:281048",
   "jp": "謎の女",
-  "en": "",
-  "status": "todo",
+  "en": "Mysterious Woman",
+  "status": "done",
   "slots": [
    "w:2eec70"
   ]
@@ -1681,8 +1681,8 @@
  {
   "id": "e:281050",
   "jp": "ナゾノオンナ",
-  "en": "",
-  "status": "todo",
+  "en": "Mystery Woman",
+  "status": "done",
   "slots": [
    "w:2eec78"
   ]
@@ -1690,8 +1690,8 @@
  {
   "id": "e:281060",
   "jp": "威圧感のある男",
-  "en": "",
-  "status": "todo",
+  "en": "Imposing Man",
+  "status": "done",
   "slots": [
    "w:2eec7c",
    "w:2eec88"
@@ -1700,8 +1700,8 @@
  {
   "id": "e:281070",
   "jp": "活発そうな海賊少女",
-  "en": "",
-  "status": "todo",
+  "en": "Lively Pirate Girl",
+  "status": "done",
   "slots": [
    "w:2eec94"
   ]
@@ -1709,8 +1709,8 @@
  {
   "id": "e:281084",
   "jp": "考古学者の男",
-  "en": "",
-  "status": "todo",
+  "en": "Archaeologist",
+  "status": "done",
   "slots": [
    "w:2eeca0"
   ]
@@ -1718,8 +1718,8 @@
  {
   "id": "e:281094",
   "jp": "小柄な少女",
-  "en": "",
-  "status": "todo",
+  "en": "Petite Girl",
+  "status": "done",
   "slots": [
    "w:2eecac"
   ]
@@ -1727,8 +1727,8 @@
  {
   "id": "e:2810a0",
   "jp": "羽の生えた少女",
-  "en": "",
-  "status": "todo",
+  "en": "Winged Girl",
+  "status": "done",
   "slots": [
    "w:2eecb8"
   ]
@@ -1736,8 +1736,8 @@
  {
   "id": "e:2810b0",
   "jp": "人形？",
-  "en": "",
-  "status": "todo",
+  "en": "A Doll?",
+  "status": "done",
   "slots": [
    "w:2eecc4"
   ]
@@ -1745,8 +1745,8 @@
  {
   "id": "e:2810b8",
   "jp": "薄幸そうな少女",
-  "en": "",
-  "status": "todo",
+  "en": "Frail-Looking Girl",
+  "status": "done",
   "slots": [
    "w:2eecd0"
   ]
@@ -1754,8 +1754,8 @@
  {
   "id": "e:2810c8",
   "jp": "色気のある女海賊",
-  "en": "",
-  "status": "todo",
+  "en": "Alluring Pirate Woman",
+  "status": "done",
   "slots": [
    "w:2eecdc"
   ]
@@ -1763,8 +1763,8 @@
  {
   "id": "e:2810dc",
   "jp": "気合全開の青年",
-  "en": "",
-  "status": "todo",
+  "en": "Fired-Up Youth",
+  "status": "done",
   "slots": [
    "w:2eece8"
   ]
@@ -1772,8 +1772,8 @@
  {
   "id": "e:2810ec",
   "jp": "魔法使いの少女",
-  "en": "",
-  "status": "todo",
+  "en": "Young Witch",
+  "status": "done",
   "slots": [
    "w:2eecf4"
   ]
@@ -1781,8 +1781,8 @@
  {
   "id": "e:2810fc",
   "jp": "助けを求める声",
-  "en": "",
-  "status": "todo",
+  "en": "Voice Crying for Help",
+  "status": "done",
   "slots": [
    "w:2eed00"
   ]
@@ -1790,8 +1790,8 @@
  {
   "id": "e:28110c",
   "jp": "気品のある女性",
-  "en": "",
-  "status": "todo",
+  "en": "Elegant Lady",
+  "status": "done",
   "slots": [
    "w:2eed0c"
   ]
@@ -1799,8 +1799,8 @@
  {
   "id": "e:28111c",
   "jp": "聞き覚えのある声",
-  "en": "",
-  "status": "todo",
+  "en": "Familiar Voice",
+  "status": "done",
   "slots": [
    "w:2eed18"
   ]
@@ -1808,8 +1808,8 @@
  {
   "id": "e:281130",
   "jp": "ベルガス？",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas?",
+  "status": "done",
   "slots": [
    "w:2eed24"
   ]
@@ -1817,8 +1817,8 @@
  {
   "id": "e:28113c",
   "jp": "目つきの悪い男",
-  "en": "",
-  "status": "todo",
+  "en": "Shifty-Eyed Man",
+  "status": "done",
   "slots": [
    "w:2eed30"
   ]
@@ -1826,8 +1826,8 @@
  {
   "id": "e:28114c",
   "jp": "鎧を着た骸骨",
-  "en": "",
-  "status": "todo",
+  "en": "Armored Skeleton",
+  "status": "done",
   "slots": [
    "w:2eed3c"
   ]
@@ -1835,8 +1835,8 @@
  {
   "id": "e:28115c",
   "jp": "商人の女",
-  "en": "",
-  "status": "todo",
+  "en": "Merchant Woman",
+  "status": "done",
   "slots": [
    "w:2eed48"
   ]
@@ -1844,8 +1844,8 @@
  {
   "id": "e:281168",
   "jp": "理性のある声",
-  "en": "",
-  "status": "todo",
+  "en": "Rational Voice",
+  "status": "done",
   "slots": [
    "w:2eed54"
   ]
@@ -1853,8 +1853,8 @@
  {
   "id": "e:281178",
   "jp": "威厳のある男",
-  "en": "",
-  "status": "todo",
+  "en": "Dignified Man",
+  "status": "done",
   "slots": [
    "w:2eed60"
   ]
@@ -1862,8 +1862,8 @@
  {
   "id": "e:281188",
   "jp": "若い研究者",
-  "en": "",
-  "status": "todo",
+  "en": "Young Researcher",
+  "status": "done",
   "slots": [
    "w:2eed6c"
   ]
@@ -1871,8 +1871,8 @@
  {
   "id": "e:281194",
   "jp": "綺麗な声の女性",
-  "en": "",
-  "status": "todo",
+  "en": "Sweet-Voiced Woman",
+  "status": "done",
   "slots": [
    "w:2eed78"
   ]
@@ -1880,8 +1880,8 @@
  {
   "id": "e:2811a4",
   "jp": "謎の美女",
-  "en": "",
-  "status": "todo",
+  "en": "Mysterious Beauty",
+  "status": "done",
   "slots": [
    "w:2eed84"
   ]
@@ -1889,8 +1889,8 @@
  {
   "id": "e:2811b0",
   "jp": "貧相な男",
-  "en": "",
-  "status": "todo",
+  "en": "Scrawny Man",
+  "status": "done",
   "slots": [
    "w:2eed90"
   ]
@@ -1898,8 +1898,8 @@
  {
   "id": "e:2811bc",
   "jp": "しゃがれた声",
-  "en": "",
-  "status": "todo",
+  "en": "Hoarse Voice",
+  "status": "done",
   "slots": [
    "w:2eed9c"
   ]
@@ -1907,8 +1907,8 @@
  {
   "id": "e:2811cc",
   "jp": "不思議な雰囲気の人",
-  "en": "",
-  "status": "todo",
+  "en": "Mysterious Person",
+  "status": "done",
   "slots": [
    "w:2eeda8"
   ]
@@ -1916,8 +1916,8 @@
  {
   "id": "e:2811e0",
   "jp": "ルルゥ？",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru?",
+  "status": "done",
   "slots": [
    "w:2eedb4"
   ]
@@ -1925,8 +1925,8 @@
  {
   "id": "e:2811ec",
   "jp": "屈強な男",
-  "en": "",
-  "status": "todo",
+  "en": "Brawny Man",
+  "status": "done",
   "slots": [
    "w:2eedc0"
   ]
@@ -1934,8 +1934,8 @@
  {
   "id": "e:2811f8",
   "jp": "粗暴な男",
-  "en": "",
-  "status": "todo",
+  "en": "Rough Man",
+  "status": "done",
   "slots": [
    "w:2eedcc"
   ]
@@ -1943,8 +1943,8 @@
  {
   "id": "e:281204",
   "jp": "レバレッジ商団",
-  "en": "",
-  "status": "todo",
+  "en": "Leverage Guild",
+  "status": "done",
   "slots": [
    "w:2eedd8"
   ]
@@ -1952,8 +1952,8 @@
  {
   "id": "e:281214",
   "jp": "銃を持った男",
-  "en": "",
-  "status": "todo",
+  "en": "Man with a Gun",
+  "status": "done",
   "slots": [
    "w:2eede4"
   ]
@@ -1961,8 +1961,8 @@
  {
   "id": "e:281224",
   "jp": "皇国騎士団員",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial Knight",
+  "status": "done",
   "slots": [
    "w:2eedf0"
   ]
@@ -1970,8 +1970,8 @@
  {
   "id": "e:281234",
   "jp": "バッソフォンド兵",
-  "en": "",
-  "status": "todo",
+  "en": "Bassofondo Soldier",
+  "status": "done",
   "slots": [
    "w:2eedfc"
   ]
@@ -1979,8 +1979,8 @@
  {
   "id": "e:281248",
   "jp": "エルマーレ連合兵",
-  "en": "",
-  "status": "todo",
+  "en": "Elmare Federal Soldier",
+  "status": "done",
   "slots": [
    "w:2eee08"
   ]
@@ -1988,8 +1988,8 @@
  {
   "id": "e:28125c",
   "jp": "シャンティエの騎士",
-  "en": "",
-  "status": "todo",
+  "en": "Chantier Knight",
+  "status": "done",
   "slots": [
    "w:2eee14"
   ]
@@ -1997,8 +1997,8 @@
  {
   "id": "e:281270",
   "jp": "親衛隊員",
-  "en": "",
-  "status": "todo",
+  "en": "Elite Guard",
+  "status": "done",
   "slots": [
    "w:2eee20"
   ]
@@ -2006,8 +2006,8 @@
  {
   "id": "e:28127c",
   "jp": "幽霊",
-  "en": "",
-  "status": "todo",
+  "en": "Ghost",
+  "status": "done",
   "slots": [
    "w:2eee2c"
   ]
@@ -2015,8 +2015,8 @@
  {
   "id": "e:281284",
   "jp": "旅人",
-  "en": "",
-  "status": "todo",
+  "en": "Traveler",
+  "status": "done",
   "slots": [
    "w:2eee38"
   ]
@@ -2024,8 +2024,8 @@
  {
   "id": "e:28128c",
   "jp": "ダンサー",
-  "en": "",
-  "status": "todo",
+  "en": "Dancer",
+  "status": "done",
   "slots": [
    "w:2eee44"
   ]
@@ -2033,8 +2033,8 @@
  {
   "id": "e:281298",
   "jp": "信仰者",
-  "en": "",
-  "status": "todo",
+  "en": "Believer",
+  "status": "done",
   "slots": [
    "w:2eee50"
   ]
@@ -2042,8 +2042,8 @@
  {
   "id": "e:2812a0",
   "jp": "慈悲深い男性",
-  "en": "",
-  "status": "todo",
+  "en": "Merciful Man",
+  "status": "done",
   "slots": [
    "w:2eee5c"
   ]
@@ -2051,8 +2051,8 @@
  {
   "id": "e:2812b0",
   "jp": "酪農家",
-  "en": "",
-  "status": "todo",
+  "en": "Dairy Farmer",
+  "status": "done",
   "slots": [
    "w:2eee68"
   ]
@@ -2060,8 +2060,8 @@
  {
   "id": "e:2812b8",
   "jp": "反対派の男性",
-  "en": "",
-  "status": "todo",
+  "en": "Man of the Opposition",
+  "status": "done",
   "slots": [
    "w:2eee74"
   ]
@@ -2069,8 +2069,8 @@
  {
   "id": "e:2812c8",
   "jp": "若い鍛冶師",
-  "en": "",
-  "status": "todo",
+  "en": "Young Blacksmith",
+  "status": "done",
   "slots": [
    "w:2eee80"
   ]
@@ -2078,8 +2078,8 @@
  {
   "id": "e:2812d4",
   "jp": "勇敢な男性",
-  "en": "",
-  "status": "todo",
+  "en": "Brave Man",
+  "status": "done",
   "slots": [
    "w:2eee8c"
   ]
@@ -2087,8 +2087,8 @@
  {
   "id": "e:2812e0",
   "jp": "興奮した男性",
-  "en": "",
-  "status": "todo",
+  "en": "Excited Man",
+  "status": "done",
   "slots": [
    "w:2eee98"
   ]
@@ -2096,8 +2096,8 @@
  {
   "id": "e:2812f0",
   "jp": "歓喜する男性",
-  "en": "",
-  "status": "todo",
+  "en": "Overjoyed Man",
+  "status": "done",
   "slots": [
    "w:2eeea4"
   ]
@@ -2105,8 +2105,8 @@
  {
   "id": "e:281300",
   "jp": "ルキア派の男性",
-  "en": "",
-  "status": "todo",
+  "en": "Pro-Lukia Man",
+  "status": "done",
   "slots": [
    "w:2eeeb0"
   ]
@@ -2114,8 +2114,8 @@
  {
   "id": "e:281310",
   "jp": "技術者",
-  "en": "",
-  "status": "todo",
+  "en": "Engineer",
+  "status": "done",
   "slots": [
    "w:2eeebc"
   ]
@@ -2123,8 +2123,8 @@
  {
   "id": "e:281318",
   "jp": "派手な男",
-  "en": "",
-  "status": "todo",
+  "en": "Flashy Man",
+  "status": "done",
   "slots": [
    "w:2eeec8"
   ]
@@ -2132,8 +2132,8 @@
  {
   "id": "e:281324",
   "jp": "支援隊Ａ",
-  "en": "",
-  "status": "todo",
+  "en": "Support Group A",
+  "status": "done",
   "slots": [
    "w:2eeed4"
   ]
@@ -2141,8 +2141,8 @@
  {
   "id": "e:281330",
   "jp": "避難民",
-  "en": "",
-  "status": "todo",
+  "en": "Refugee",
+  "status": "done",
   "slots": [
    "w:2eeee0"
   ]
@@ -2150,8 +2150,8 @@
  {
   "id": "e:281338",
   "jp": "研究者",
-  "en": "",
-  "status": "todo",
+  "en": "Researcher",
+  "status": "done",
   "slots": [
    "w:2eeeec"
   ]
@@ -2159,8 +2159,8 @@
  {
   "id": "e:281340",
   "jp": "伝説の鍛冶師？",
-  "en": "",
-  "status": "todo",
+  "en": "Legendary Smith?",
+  "status": "done",
   "slots": [
    "w:2eeef8"
   ]
@@ -2168,8 +2168,8 @@
  {
   "id": "e:281350",
   "jp": "儀式長老",
-  "en": "",
-  "status": "todo",
+  "en": "Ritual Elder",
+  "status": "done",
   "slots": [
    "w:2eef04"
   ]
@@ -2177,8 +2177,8 @@
  {
   "id": "e:28135c",
   "jp": "最年長の老人",
-  "en": "",
-  "status": "todo",
+  "en": "Eldest Old Man",
+  "status": "done",
   "slots": [
    "w:2eef10"
   ]
@@ -2186,8 +2186,8 @@
  {
   "id": "e:28136c",
   "jp": "樽職人",
-  "en": "",
-  "status": "todo",
+  "en": "Cooper",
+  "status": "done",
   "slots": [
    "w:2eef1c"
   ]
@@ -2195,8 +2195,8 @@
  {
   "id": "e:281374",
   "jp": "植物研究家",
-  "en": "",
-  "status": "todo",
+  "en": "Botanist",
+  "status": "done",
   "slots": [
    "w:2eef28"
   ]
@@ -2204,8 +2204,8 @@
  {
   "id": "e:281380",
   "jp": "ベル職人",
-  "en": "",
-  "status": "todo",
+  "en": "Bell Maker",
+  "status": "done",
   "slots": [
    "w:2eef34"
   ]
@@ -2213,8 +2213,8 @@
  {
   "id": "e:28138c",
   "jp": "歴史家の男性",
-  "en": "",
-  "status": "todo",
+  "en": "Historian",
+  "status": "done",
   "slots": [
    "w:2eef40"
   ]
@@ -2222,8 +2222,8 @@
  {
   "id": "e:28139c",
   "jp": "服屋の女性",
-  "en": "",
-  "status": "todo",
+  "en": "Tailor Woman",
+  "status": "done",
   "slots": [
    "w:2eef58"
   ]
@@ -2231,8 +2231,8 @@
  {
   "id": "e:2813a8",
   "jp": "爆裂お姉さん",
-  "en": "",
-  "status": "todo",
+  "en": "Explosive Lady",
+  "status": "done",
   "slots": [
    "w:2eef64"
   ]
@@ -2240,8 +2240,8 @@
  {
   "id": "e:2813b8",
   "jp": "漁師の娘",
-  "en": "",
-  "status": "todo",
+  "en": "Fisherman's Daughter",
+  "status": "done",
   "slots": [
    "w:2eef70"
   ]
@@ -2249,8 +2249,8 @@
  {
   "id": "e:2813c4",
   "jp": "装飾職人",
-  "en": "",
-  "status": "todo",
+  "en": "Jeweler",
+  "status": "done",
   "slots": [
    "w:2eef7c"
   ]
@@ -2258,8 +2258,8 @@
  {
   "id": "e:2813d0",
   "jp": "勇敢な女性",
-  "en": "",
-  "status": "todo",
+  "en": "Brave Woman",
+  "status": "done",
   "slots": [
    "w:2eef88"
   ]
@@ -2267,8 +2267,8 @@
  {
   "id": "e:2813dc",
   "jp": "スイマー",
-  "en": "",
-  "status": "todo",
+  "en": "Swimmer",
+  "status": "done",
   "slots": [
    "w:2eef94"
   ]
@@ -2276,8 +2276,8 @@
  {
   "id": "e:2813e8",
   "jp": "感謝する女性",
-  "en": "",
-  "status": "todo",
+  "en": "Grateful Woman",
+  "status": "done",
   "slots": [
    "w:2eefa0"
   ]
@@ -2285,8 +2285,8 @@
  {
   "id": "e:2813f8",
   "jp": "アレンジ職人",
-  "en": "",
-  "status": "todo",
+  "en": "Arrangement Artisan",
+  "status": "done",
   "slots": [
    "w:2eefac"
   ]
@@ -2294,8 +2294,8 @@
  {
   "id": "e:281408",
   "jp": "女性宿泊客",
-  "en": "",
-  "status": "todo",
+  "en": "Female Guest",
+  "status": "done",
   "slots": [
    "w:2eefb8"
   ]
@@ -2303,8 +2303,8 @@
  {
   "id": "e:281414",
   "jp": "ベテラン店員",
-  "en": "",
-  "status": "todo",
+  "en": "Veteran Clerk",
+  "status": "done",
   "slots": [
    "w:2eefc4"
   ]
@@ -2312,8 +2312,8 @@
  {
   "id": "e:281424",
   "jp": "詩人",
-  "en": "",
-  "status": "todo",
+  "en": "Poet",
+  "status": "done",
   "slots": [
    "w:2eefd0"
   ]
@@ -2321,8 +2321,8 @@
  {
   "id": "e:28142c",
   "jp": "看護師",
-  "en": "",
-  "status": "todo",
+  "en": "Nurse",
+  "status": "done",
   "slots": [
    "w:2eefdc"
   ]
@@ -2330,8 +2330,8 @@
  {
   "id": "e:281434",
   "jp": "慈愛ある老婆",
-  "en": "",
-  "status": "todo",
+  "en": "Kindly Old Woman",
+  "status": "done",
   "slots": [
    "w:2eefe8"
   ]
@@ -2339,8 +2339,8 @@
  {
   "id": "e:281444",
   "jp": "怪しい老人",
-  "en": "",
-  "status": "todo",
+  "en": "Suspicious Old Man",
+  "status": "done",
   "slots": [
    "w:2eeff4"
   ]
@@ -2348,8 +2348,8 @@
  {
   "id": "e:281450",
   "jp": "噂好きの主婦",
-  "en": "",
-  "status": "todo",
+  "en": "Gossipy Housewife",
+  "status": "done",
   "slots": [
    "w:2ef000"
   ]
@@ -2357,8 +2357,8 @@
  {
   "id": "e:281460",
   "jp": "歓喜する女性",
-  "en": "",
-  "status": "todo",
+  "en": "Overjoyed Woman",
+  "status": "done",
   "slots": [
    "w:2ef00c"
   ]
@@ -2366,8 +2366,8 @@
  {
   "id": "e:281470",
   "jp": "微笑む女性",
-  "en": "",
-  "status": "todo",
+  "en": "Smiling Woman",
+  "status": "done",
   "slots": [
    "w:2ef018"
   ]
@@ -2375,8 +2375,8 @@
  {
   "id": "e:28147c",
   "jp": "女鍛冶師",
-  "en": "",
-  "status": "todo",
+  "en": "Woman Blacksmith",
+  "status": "done",
   "slots": [
    "w:2ef024"
   ]
@@ -2384,8 +2384,8 @@
  {
   "id": "e:281488",
   "jp": "見守る母親",
-  "en": "",
-  "status": "todo",
+  "en": "Watchful Mother",
+  "status": "done",
   "slots": [
    "w:2ef030"
   ]
@@ -2393,8 +2393,8 @@
  {
   "id": "e:281494",
   "jp": "虫取り少女",
-  "en": "",
-  "status": "todo",
+  "en": "Bug-Catching Girl",
+  "status": "done",
   "slots": [
    "w:2ef03c"
   ]
@@ -2402,8 +2402,8 @@
  {
   "id": "e:2814a0",
   "jp": "物乞いの少女",
-  "en": "",
-  "status": "todo",
+  "en": "Beggar Girl",
+  "status": "done",
   "slots": [
    "w:2ef048"
   ]
@@ -2411,8 +2411,8 @@
  {
   "id": "e:2814b0",
   "jp": "綺麗好き少女",
-  "en": "",
-  "status": "todo",
+  "en": "Neat-Freak Girl",
+  "status": "done",
   "slots": [
    "w:2ef054"
   ]
@@ -2420,8 +2420,8 @@
  {
   "id": "e:2814c0",
   "jp": "元気満点少女",
-  "en": "",
-  "status": "todo",
+  "en": "Peppy Girl",
+  "status": "done",
   "slots": [
    "w:2ef060"
   ]
@@ -2429,8 +2429,8 @@
  {
   "id": "e:2814d0",
   "jp": "優しい商人",
-  "en": "",
-  "status": "todo",
+  "en": "Kind Merchant",
+  "status": "done",
   "slots": [
    "w:2ef06c"
   ]
@@ -2438,8 +2438,8 @@
  {
   "id": "e:2814dc",
   "jp": "強欲な商人",
-  "en": "",
-  "status": "todo",
+  "en": "Greedy Merchant",
+  "status": "done",
   "slots": [
    "w:2ef078"
   ]
@@ -2447,8 +2447,8 @@
  {
   "id": "e:2814e8",
   "jp": "勇敢な商人",
-  "en": "",
-  "status": "todo",
+  "en": "Brave Merchant",
+  "status": "done",
   "slots": [
    "w:2ef084"
   ]
@@ -2456,8 +2456,8 @@
  {
   "id": "e:2814f4",
   "jp": "霊感商人",
-  "en": "",
-  "status": "todo",
+  "en": "Spirit Merchant",
+  "status": "done",
   "slots": [
    "w:2ef090"
   ]
@@ -2465,8 +2465,8 @@
  {
   "id": "e:281500",
   "jp": "涙ぐむ商人",
-  "en": "",
-  "status": "todo",
+  "en": "Teary Merchant",
+  "status": "done",
   "slots": [
    "w:2ef09c"
   ]
@@ -2474,8 +2474,8 @@
  {
   "id": "e:28150c",
   "jp": "服屋の店主",
-  "en": "",
-  "status": "todo",
+  "en": "Tailor",
+  "status": "done",
   "slots": [
    "w:2ef0a8"
   ]
@@ -2483,8 +2483,8 @@
  {
   "id": "e:281518",
   "jp": "逃げる商人",
-  "en": "",
-  "status": "todo",
+  "en": "Fleeing Merchant",
+  "status": "done",
   "slots": [
    "w:2ef0b4"
   ]
@@ -2492,8 +2492,8 @@
  {
   "id": "e:281524",
   "jp": "陽気な商人",
-  "en": "",
-  "status": "todo",
+  "en": "Cheerful Merchant",
+  "status": "done",
   "slots": [
    "w:2ef0c0"
   ]
@@ -2501,8 +2501,8 @@
  {
   "id": "e:281530",
   "jp": "漁名人",
-  "en": "",
-  "status": "todo",
+  "en": "Master Angler",
+  "status": "done",
   "slots": [
    "w:2ef0cc"
   ]
@@ -2510,8 +2510,8 @@
  {
   "id": "e:281538",
   "jp": "宿屋の主人",
-  "en": "",
-  "status": "todo",
+  "en": "Innkeeper",
+  "status": "done",
   "slots": [
    "w:2ef0d8"
   ]
@@ -2519,8 +2519,8 @@
  {
   "id": "e:281544",
   "jp": "博学な男性",
-  "en": "",
-  "status": "todo",
+  "en": "Learned Man",
+  "status": "done",
   "slots": [
    "w:2ef0e4"
   ]
@@ -2528,8 +2528,8 @@
  {
   "id": "e:281550",
   "jp": "院長",
-  "en": "",
-  "status": "todo",
+  "en": "Director",
+  "status": "done",
   "slots": [
    "w:2ef0f0"
   ]
@@ -2537,8 +2537,8 @@
  {
   "id": "e:281558",
   "jp": "かつての名医",
-  "en": "",
-  "status": "todo",
+  "en": "Once-Great Doctor",
+  "status": "done",
   "slots": [
    "w:2ef0fc"
   ]
@@ -2546,8 +2546,8 @@
  {
   "id": "e:281568",
   "jp": "考古学者",
-  "en": "",
-  "status": "todo",
+  "en": "Archaeologist",
+  "status": "done",
   "slots": [
    "w:2ef108"
   ]
@@ -2555,8 +2555,8 @@
  {
   "id": "e:281574",
   "jp": "健気な少女",
-  "en": "",
-  "status": "todo",
+  "en": "Plucky Girl",
+  "status": "done",
   "slots": [
    "w:2ef114"
   ]
@@ -2564,8 +2564,8 @@
  {
   "id": "e:281580",
   "jp": "微笑むシスター",
-  "en": "",
-  "status": "todo",
+  "en": "Smiling Sister",
+  "status": "done",
   "slots": [
    "w:2ef120"
   ]
@@ -2573,8 +2573,8 @@
  {
   "id": "e:281590",
   "jp": "息巻く男",
-  "en": "",
-  "status": "todo",
+  "en": "Fuming Man",
+  "status": "done",
   "slots": [
    "w:2ef12c"
   ]
@@ -2582,8 +2582,8 @@
  {
   "id": "e:28159c",
   "jp": "支援隊隊長",
-  "en": "",
-  "status": "todo",
+  "en": "Support Group Leader",
+  "status": "done",
   "slots": [
    "w:2ef138"
   ]
@@ -2591,8 +2591,8 @@
  {
   "id": "e:2815a8",
   "jp": "舞台監督",
-  "en": "",
-  "status": "todo",
+  "en": "Stage Director",
+  "status": "done",
   "slots": [
    "w:2ef144"
   ]
@@ -2600,8 +2600,8 @@
  {
   "id": "e:2815b4",
   "jp": "美食家",
-  "en": "",
-  "status": "todo",
+  "en": "Gourmet",
+  "status": "done",
   "slots": [
    "w:2ef150"
   ]
@@ -2609,8 +2609,8 @@
  {
   "id": "e:2815bc",
   "jp": "肥えた市長",
-  "en": "",
-  "status": "todo",
+  "en": "Portly Mayor",
+  "status": "done",
   "slots": [
    "w:2ef15c"
   ]
@@ -2618,8 +2618,8 @@
  {
   "id": "e:2815c8",
   "jp": "明るい好青年",
-  "en": "",
-  "status": "todo",
+  "en": "Bright Young Man",
+  "status": "done",
   "slots": [
    "w:2ef168"
   ]
@@ -2627,8 +2627,8 @@
  {
   "id": "e:2815d8",
   "jp": "支援隊Ｂ",
-  "en": "",
-  "status": "todo",
+  "en": "Support Group B",
+  "status": "done",
   "slots": [
    "w:2ef174"
   ]
@@ -2636,8 +2636,8 @@
  {
   "id": "e:2815e4",
   "jp": "見習い術師",
-  "en": "",
-  "status": "todo",
+  "en": "Apprentice Mage",
+  "status": "done",
   "slots": [
    "w:2ef180"
   ]
@@ -2645,8 +2645,8 @@
  {
   "id": "e:2815f0",
   "jp": "ウンディーネの霊",
-  "en": "",
-  "status": "todo",
+  "en": "Undine's Spirit",
+  "status": "done",
   "slots": [
    "w:2ef18c"
   ]
@@ -2654,8 +2654,8 @@
  {
   "id": "e:281604",
   "jp": "風の祠",
-  "en": "",
-  "status": "todo",
+  "en": "Wind Shrine",
+  "status": "done",
   "slots": [
    "w:2ef198",
    "w:2ef368"
@@ -2664,8 +2664,8 @@
  {
   "id": "e:28160c",
   "jp": "音楽家",
-  "en": "",
-  "status": "todo",
+  "en": "Musician",
+  "status": "done",
   "slots": [
    "w:2ef1a4"
   ]
@@ -2673,8 +2673,8 @@
  {
   "id": "e:281614",
   "jp": "動物愛好家",
-  "en": "",
-  "status": "todo",
+  "en": "Animal Lover",
+  "status": "done",
   "slots": [
    "w:2ef1b0"
   ]
@@ -2682,8 +2682,8 @@
  {
   "id": "e:281620",
   "jp": "防衛のリーダー",
-  "en": "",
-  "status": "todo",
+  "en": "Defense Leader",
+  "status": "done",
   "slots": [
    "w:2ef1bc"
   ]
@@ -2691,8 +2691,8 @@
  {
   "id": "e:281630",
   "jp": "感激する漁師",
-  "en": "",
-  "status": "todo",
+  "en": "Moved Fisherman",
+  "status": "done",
   "slots": [
    "w:2ef1c8"
   ]
@@ -2700,8 +2700,8 @@
  {
   "id": "e:281640",
   "jp": "未亡人",
-  "en": "",
-  "status": "todo",
+  "en": "Widow",
+  "status": "done",
   "slots": [
    "w:2ef1d4"
   ]
@@ -2709,8 +2709,8 @@
  {
   "id": "e:281648",
   "jp": "助手",
-  "en": "",
-  "status": "todo",
+  "en": "Assistant",
+  "status": "done",
   "slots": [
    "w:2ef1e0"
   ]
@@ -2718,8 +2718,8 @@
  {
   "id": "e:281650",
   "jp": "改造人間",
-  "en": "",
-  "status": "todo",
+  "en": "Cyborg",
+  "status": "done",
   "slots": [
    "w:2ef1f8"
   ]
@@ -2727,8 +2727,8 @@
  {
   "id": "e:28165c",
   "jp": "謎の声",
-  "en": "",
-  "status": "todo",
+  "en": "Mysterious Voice",
+  "status": "done",
   "slots": [
    "w:2ef204"
   ]
@@ -2736,8 +2736,8 @@
  {
   "id": "e:281664",
   "jp": "大地の祠",
-  "en": "",
-  "status": "todo",
+  "en": "Earth Shrine",
+  "status": "done",
   "slots": [
    "w:2ef210",
    "w:2ef370"
@@ -2746,8 +2746,8 @@
  {
   "id": "e:281670",
   "jp": "Ｄｒ．デラックス",
-  "en": "",
-  "status": "todo",
+  "en": "Dr. Deluxe",
+  "status": "done",
   "slots": [
    "w:2ef21c"
   ]
@@ -2755,8 +2755,8 @@
  {
   "id": "e:281684",
   "jp": "風の声",
-  "en": "",
-  "status": "todo",
+  "en": "Voice of the Wind",
+  "status": "done",
   "slots": [
    "w:2ef228"
   ]
@@ -2764,8 +2764,8 @@
  {
   "id": "e:28168c",
   "jp": "エルマーレ市民",
-  "en": "",
-  "status": "todo",
+  "en": "Elmare Citizen",
+  "status": "done",
   "slots": [
    "w:2ef234"
   ]
@@ -2773,8 +2773,8 @@
  {
   "id": "e:28169c",
   "jp": "港の漁師",
-  "en": "",
-  "status": "todo",
+  "en": "Harbor Fisherman",
+  "status": "done",
   "slots": [
    "w:2ef240"
   ]
@@ -2782,8 +2782,8 @@
  {
   "id": "e:2816a8",
   "jp": "魚拓マニア",
-  "en": "",
-  "status": "todo",
+  "en": "Fish Print Fanatic",
+  "status": "done",
   "slots": [
    "w:2ef24c"
   ]
@@ -2791,8 +2791,8 @@
  {
   "id": "e:2816b4",
   "jp": "伝説の漁師",
-  "en": "",
-  "status": "todo",
+  "en": "Legendary Fisherman",
+  "status": "done",
   "slots": [
    "w:2ef258"
   ]
@@ -2800,8 +2800,8 @@
  {
   "id": "e:2816c0",
   "jp": "マンタの壁画",
-  "en": "",
-  "status": "todo",
+  "en": "Manta Mural",
+  "status": "done",
   "slots": [
    "w:2ef264",
    "w:2ef4cc"
@@ -2810,8 +2810,8 @@
  {
   "id": "e:2816d0",
   "jp": "イシュト似の少年",
-  "en": "",
-  "status": "todo",
+  "en": "Boy Who Looks Like Ishut",
+  "status": "done",
   "slots": [
    "w:2ef270"
   ]
@@ -2819,8 +2819,8 @@
  {
   "id": "e:2816e4",
   "jp": "若草萌える草原",
-  "en": "",
-  "status": "todo",
+  "en": "Fresh Green Meadow",
+  "status": "done",
   "slots": [
    "w:2ef27c"
   ]
@@ -2828,8 +2828,8 @@
  {
   "id": "e:2816f4",
   "jp": "畑",
-  "en": "",
-  "status": "todo",
+  "en": "Field",
+  "status": "done",
   "slots": [
    "w:2ef280"
   ]
@@ -2837,8 +2837,8 @@
  {
   "id": "e:2816f8",
   "jp": "ヴェネステ村",
-  "en": "",
-  "status": "todo",
+  "en": "Veneste Village",
+  "status": "done",
   "slots": [
    "w:2ef284"
   ]
@@ -2846,8 +2846,8 @@
  {
   "id": "e:281708",
   "jp": "海岸",
-  "en": "",
-  "status": "todo",
+  "en": "Coast",
+  "status": "done",
   "slots": [
    "w:2ef288"
   ]
@@ -2855,8 +2855,8 @@
  {
   "id": "e:281710",
   "jp": "海水浴場",
-  "en": "",
-  "status": "todo",
+  "en": "Beach",
+  "status": "done",
   "slots": [
    "w:2ef28c"
   ]
@@ -2864,8 +2864,8 @@
  {
   "id": "e:28171c",
   "jp": "海王神殿通路",
-  "en": "",
-  "status": "todo",
+  "en": "Sea King's Temple Passage",
+  "status": "done",
   "slots": [
    "w:2ef290"
   ]
@@ -2873,8 +2873,8 @@
  {
   "id": "e:28172c",
   "jp": "ひび割れた壁",
-  "en": "",
-  "status": "todo",
+  "en": "Cracked Wall",
+  "status": "done",
   "slots": [
    "w:2ef294"
   ]
@@ -2882,8 +2882,8 @@
  {
   "id": "e:28173c",
   "jp": "監獄通路",
-  "en": "",
-  "status": "todo",
+  "en": "Prison Passage",
+  "status": "done",
   "slots": [
    "w:2ef298"
   ]
@@ -2891,8 +2891,8 @@
  {
   "id": "e:281748",
   "jp": "牢屋の壁",
-  "en": "",
-  "status": "todo",
+  "en": "Cell Wall",
+  "status": "done",
   "slots": [
    "w:2ef29c"
   ]
@@ -2900,8 +2900,8 @@
  {
   "id": "e:281754",
   "jp": "特殊牢獄の中",
-  "en": "",
-  "status": "todo",
+  "en": "Inside the Special Prison",
+  "status": "done",
   "slots": [
    "w:2ef2a0"
   ]
@@ -2909,8 +2909,8 @@
  {
   "id": "e:281764",
   "jp": "看守部屋",
-  "en": "",
-  "status": "todo",
+  "en": "Guard Room",
+  "status": "done",
   "slots": [
    "w:2ef2a4"
   ]
@@ -2918,8 +2918,8 @@
  {
   "id": "e:281770",
   "jp": "廃れた中庭",
-  "en": "",
-  "status": "todo",
+  "en": "Ruined Courtyard",
+  "status": "done",
   "slots": [
    "w:2ef2a8"
   ]
@@ -2927,8 +2927,8 @@
  {
   "id": "e:28177c",
   "jp": "北の宝物庫",
-  "en": "",
-  "status": "todo",
+  "en": "North Treasury",
+  "status": "done",
   "slots": [
    "w:2ef2ac"
   ]
@@ -2936,8 +2936,8 @@
  {
   "id": "e:281788",
   "jp": "カンコウ村",
-  "en": "",
-  "status": "todo",
+  "en": "Kanko Village",
+  "status": "done",
   "slots": [
    "w:2ef2b0"
   ]
@@ -2945,8 +2945,8 @@
  {
   "id": "e:281794",
   "jp": "ボロイ鍛冶屋",
-  "en": "",
-  "status": "todo",
+  "en": "Shabby Smithy",
+  "status": "done",
   "slots": [
    "w:2ef2b4"
   ]
@@ -2954,8 +2954,8 @@
  {
   "id": "e:2817a4",
   "jp": "海辺の教会",
-  "en": "",
-  "status": "todo",
+  "en": "Seaside Church",
+  "status": "done",
   "slots": [
    "w:2ef2b8"
   ]
@@ -2963,8 +2963,8 @@
  {
   "id": "e:2817b0",
   "jp": "町外れの集落",
-  "en": "",
-  "status": "todo",
+  "en": "Outskirts Hamlet",
+  "status": "done",
   "slots": [
    "w:2ef2bc"
   ]
@@ -2972,8 +2972,8 @@
  {
   "id": "e:2817c0",
   "jp": "海の上",
-  "en": "",
-  "status": "todo",
+  "en": "Out at Sea",
+  "status": "done",
   "slots": [
    "w:2ef2c0"
   ]
@@ -2981,8 +2981,8 @@
  {
   "id": "e:2817c8",
   "jp": "毒沼",
-  "en": "",
-  "status": "todo",
+  "en": "Poison Swamp",
+  "status": "done",
   "slots": [
    "w:2ef2c4"
   ]
@@ -2990,8 +2990,8 @@
  {
   "id": "e:2817d0",
   "jp": "海賊王の墓",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate King's Grave",
+  "status": "done",
   "slots": [
    "w:2ef2c8"
   ]
@@ -2999,8 +2999,8 @@
  {
   "id": "e:2817dc",
   "jp": "長老の家",
-  "en": "",
-  "status": "todo",
+  "en": "Elder's House",
+  "status": "done",
   "slots": [
    "w:2ef2cc"
   ]
@@ -3008,8 +3008,8 @@
  {
   "id": "e:2817e8",
   "jp": "反対派の住む家",
-  "en": "",
-  "status": "todo",
+  "en": "Opposition's House",
+  "status": "done",
   "slots": [
    "w:2ef2d0"
   ]
@@ -3017,8 +3017,8 @@
  {
   "id": "e:2817f8",
   "jp": "シムーン町",
-  "en": "",
-  "status": "todo",
+  "en": "Simoon Town",
+  "status": "done",
   "slots": [
    "w:2ef2d4"
   ]
@@ -3026,8 +3026,8 @@
  {
   "id": "e:281804",
   "jp": "民宿",
-  "en": "",
-  "status": "todo",
+  "en": "Guesthouse",
+  "status": "done",
   "slots": [
    "w:2ef2d8"
   ]
@@ -3035,8 +3035,8 @@
  {
   "id": "e:28180c",
   "jp": "島民の家",
-  "en": "",
-  "status": "todo",
+  "en": "Islander's House",
+  "status": "done",
   "slots": [
    "w:2ef2dc"
   ]
@@ -3044,8 +3044,8 @@
  {
   "id": "e:281818",
   "jp": "新しい鍛冶屋",
-  "en": "",
-  "status": "todo",
+  "en": "New Smithy",
+  "status": "done",
   "slots": [
    "w:2ef2e0"
   ]
@@ -3053,8 +3053,8 @@
  {
   "id": "e:281828",
   "jp": "もろい岩壁",
-  "en": "",
-  "status": "todo",
+  "en": "Brittle Rock Wall",
+  "status": "done",
   "slots": [
    "w:2ef2e4"
   ]
@@ -3062,8 +3062,8 @@
  {
   "id": "e:281834",
   "jp": "バナナンの木",
-  "en": "",
-  "status": "todo",
+  "en": "Bananan Tree",
+  "status": "done",
   "slots": [
    "w:2ef2e8"
   ]
@@ -3071,8 +3071,8 @@
  {
   "id": "e:281844",
   "jp": "港村トラント",
-  "en": "",
-  "status": "todo",
+  "en": "Port Village Toranto",
+  "status": "done",
   "slots": [
    "w:2ef2ec"
   ]
@@ -3080,8 +3080,8 @@
  {
   "id": "e:281854",
   "jp": "アクセ村",
-  "en": "",
-  "status": "todo",
+  "en": "Acce Village",
+  "status": "done",
   "slots": [
    "w:2ef2f0"
   ]
@@ -3089,8 +3089,8 @@
  {
   "id": "e:281860",
   "jp": "果実の生る木",
-  "en": "",
-  "status": "todo",
+  "en": "Fruit Tree",
+  "status": "done",
   "slots": [
    "w:2ef2f4"
   ]
@@ -3098,8 +3098,8 @@
  {
   "id": "e:281870",
   "jp": "離れ小島",
-  "en": "",
-  "status": "todo",
+  "en": "Remote Islet",
+  "status": "done",
   "slots": [
    "w:2ef2f8"
   ]
@@ -3107,8 +3107,8 @@
  {
   "id": "e:28187c",
   "jp": "干潮した浅瀬",
-  "en": "",
-  "status": "todo",
+  "en": "Low-Tide Shallows",
+  "status": "done",
   "slots": [
    "w:2ef2fc"
   ]
@@ -3116,8 +3116,8 @@
  {
   "id": "e:28188c",
   "jp": "ジェンビーノ町",
-  "en": "",
-  "status": "todo",
+  "en": "Gembino Town",
+  "status": "done",
   "slots": [
    "w:2ef300"
   ]
@@ -3125,8 +3125,8 @@
  {
   "id": "e:28189c",
   "jp": "裕福都市キリナ",
-  "en": "",
-  "status": "todo",
+  "en": "Rich City Kirina",
+  "status": "done",
   "slots": [
    "w:2ef304"
   ]
@@ -3134,8 +3134,8 @@
  {
   "id": "e:2818ac",
   "jp": "最古都市ルフイ",
-  "en": "",
-  "status": "todo",
+  "en": "Oldest City Rufui",
+  "status": "done",
   "slots": [
    "w:2ef308"
   ]
@@ -3143,8 +3143,8 @@
  {
   "id": "e:2818bc",
   "jp": "勇敢都市ユシャ",
-  "en": "",
-  "status": "todo",
+  "en": "Brave City Yusha",
+  "status": "done",
   "slots": [
    "w:2ef30c"
   ]
@@ -3152,8 +3152,8 @@
  {
   "id": "e:2818cc",
   "jp": "教会都市リイノ",
-  "en": "",
-  "status": "todo",
+  "en": "Church City Riino",
+  "status": "done",
   "slots": [
    "w:2ef310"
   ]
@@ -3161,8 +3161,8 @@
  {
   "id": "e:2818dc",
   "jp": "薄暗い路地",
-  "en": "",
-  "status": "todo",
+  "en": "Gloomy Alley",
+  "status": "done",
   "slots": [
    "w:2ef314"
   ]
@@ -3170,8 +3170,8 @@
  {
   "id": "e:2818e8",
   "jp": "街外れの路地",
-  "en": "",
-  "status": "todo",
+  "en": "Outskirts Alley",
+  "status": "done",
   "slots": [
    "w:2ef318"
   ]
@@ -3179,8 +3179,8 @@
  {
   "id": "e:2818f8",
   "jp": "裕福な家のそば",
-  "en": "",
-  "status": "todo",
+  "en": "By a Rich House",
+  "status": "done",
   "slots": [
    "w:2ef31c"
   ]
@@ -3188,8 +3188,8 @@
  {
   "id": "e:281908",
   "jp": "宝樽",
-  "en": "",
-  "status": "todo",
+  "en": "Treasure Barrel",
+  "status": "done",
   "slots": [
    "w:2ef320"
   ]
@@ -3197,8 +3197,8 @@
  {
   "id": "e:281910",
   "jp": "ケスタオ村",
-  "en": "",
-  "status": "todo",
+  "en": "Kestao Village",
+  "status": "done",
   "slots": [
    "w:2ef324"
   ]
@@ -3206,8 +3206,8 @@
  {
   "id": "e:28191c",
   "jp": "シノモリ村",
-  "en": "",
-  "status": "todo",
+  "en": "Shinomori Village",
+  "status": "done",
   "slots": [
    "w:2ef328"
   ]
@@ -3215,8 +3215,8 @@
  {
   "id": "e:281928",
   "jp": "イロノ村",
-  "en": "",
-  "status": "todo",
+  "en": "Irono Village",
+  "status": "done",
   "slots": [
    "w:2ef32c"
   ]
@@ -3224,8 +3224,8 @@
  {
   "id": "e:281934",
   "jp": "ローレライ村",
-  "en": "",
-  "status": "todo",
+  "en": "Lorelei Village",
+  "status": "done",
   "slots": [
    "w:2ef330"
   ]
@@ -3233,8 +3233,8 @@
  {
   "id": "e:281944",
   "jp": "シレキ村",
-  "en": "",
-  "status": "todo",
+  "en": "Shireki Village",
+  "status": "done",
   "slots": [
    "w:2ef334"
   ]
@@ -3242,8 +3242,8 @@
  {
   "id": "e:281950",
   "jp": "愛護都市ツブド",
-  "en": "",
-  "status": "todo",
+  "en": "Pet City Tsubudo",
+  "status": "done",
   "slots": [
    "w:2ef338"
   ]
@@ -3251,8 +3251,8 @@
  {
   "id": "e:281960",
   "jp": "泊まった宿屋",
-  "en": "",
-  "status": "todo",
+  "en": "The Inn We Stayed At",
+  "status": "done",
   "slots": [
    "w:2ef33c"
   ]
@@ -3260,8 +3260,8 @@
  {
   "id": "e:281970",
   "jp": "レイド村",
-  "en": "",
-  "status": "todo",
+  "en": "Raid Village",
+  "status": "done",
   "slots": [
    "w:2ef340"
   ]
@@ -3269,8 +3269,8 @@
  {
   "id": "e:28197c",
   "jp": "ゲルニ村",
-  "en": "",
-  "status": "todo",
+  "en": "Gerni Village",
+  "status": "done",
   "slots": [
    "w:2ef344"
   ]
@@ -3278,8 +3278,8 @@
  {
   "id": "e:281988",
   "jp": "コロヨビ村",
-  "en": "",
-  "status": "todo",
+  "en": "Koroyobi Village",
+  "status": "done",
   "slots": [
    "w:2ef348"
   ]
@@ -3287,8 +3287,8 @@
  {
   "id": "e:281994",
   "jp": "薄汚い路地",
-  "en": "",
-  "status": "todo",
+  "en": "Grimy Alley",
+  "status": "done",
   "slots": [
    "w:2ef34c"
   ]
@@ -3296,8 +3296,8 @@
  {
   "id": "e:2819a0",
   "jp": "地下宝物庫",
-  "en": "",
-  "status": "todo",
+  "en": "Underground Treasury",
+  "status": "done",
   "slots": [
    "w:2ef350"
   ]
@@ -3305,8 +3305,8 @@
  {
   "id": "e:2819ac",
   "jp": "ロウヒ村",
-  "en": "",
-  "status": "todo",
+  "en": "Rohi Village",
+  "status": "done",
   "slots": [
    "w:2ef354"
   ]
@@ -3314,8 +3314,8 @@
  {
   "id": "e:2819b8",
   "jp": "漁場",
-  "en": "",
-  "status": "todo",
+  "en": "Fishing Ground",
+  "status": "done",
   "slots": [
    "w:2ef358"
   ]
@@ -3323,8 +3323,8 @@
  {
   "id": "e:2819c0",
   "jp": "漂流物の塊",
-  "en": "",
-  "status": "todo",
+  "en": "Pile of Driftage",
+  "status": "done",
   "slots": [
    "w:2ef35c"
   ]
@@ -3332,8 +3332,8 @@
  {
   "id": "e:2819cc",
   "jp": "難破船の残骸",
-  "en": "",
-  "status": "todo",
+  "en": "Shipwreck",
+  "status": "done",
   "slots": [
    "w:2ef360"
   ]
@@ -3341,8 +3341,8 @@
  {
   "id": "e:2819dc",
   "jp": "グラン村",
-  "en": "",
-  "status": "todo",
+  "en": "Gran Village",
+  "status": "done",
   "slots": [
    "w:2ef364"
   ]
@@ -3350,8 +3350,8 @@
  {
   "id": "e:2819e8",
   "jp": "ハーブ畑",
-  "en": "",
-  "status": "todo",
+  "en": "Herb Field",
+  "status": "done",
   "slots": [
    "w:2ef36c"
   ]
@@ -3359,8 +3359,8 @@
  {
   "id": "e:2819f4",
   "jp": "岩の隙間",
-  "en": "",
-  "status": "todo",
+  "en": "Gap in the Rocks",
+  "status": "done",
   "slots": [
    "w:2ef374"
   ]
@@ -3368,8 +3368,8 @@
  {
   "id": "e:281a00",
   "jp": "観光都市ビター",
-  "en": "",
-  "status": "todo",
+  "en": "Tourist City Bitter",
+  "status": "done",
   "slots": [
    "w:2ef378"
   ]
@@ -3377,8 +3377,8 @@
  {
   "id": "e:281a10",
   "jp": "加工都市アレン",
-  "en": "",
-  "status": "todo",
+  "en": "Craft City Allen",
+  "status": "done",
   "slots": [
    "w:2ef37c"
   ]
@@ -3386,8 +3386,8 @@
  {
   "id": "e:281a20",
   "jp": "ミハエル村",
-  "en": "",
-  "status": "todo",
+  "en": "Michael Village",
+  "status": "done",
   "slots": [
    "w:2ef380"
   ]
@@ -3395,8 +3395,8 @@
  {
   "id": "e:281a2c",
   "jp": "灯台",
-  "en": "",
-  "status": "todo",
+  "en": "Lighthouse",
+  "status": "done",
   "slots": [
    "w:2ef384"
   ]
@@ -3404,8 +3404,8 @@
  {
   "id": "e:281a34",
   "jp": "綺麗な砂浜",
-  "en": "",
-  "status": "todo",
+  "en": "Pretty Beach",
+  "status": "done",
   "slots": [
    "w:2ef388"
   ]
@@ -3413,8 +3413,8 @@
  {
   "id": "e:281a40",
   "jp": "無人島",
-  "en": "",
-  "status": "todo",
+  "en": "Desert Island",
+  "status": "done",
   "slots": [
    "w:2ef38c"
   ]
@@ -3422,8 +3422,8 @@
  {
   "id": "e:281a48",
   "jp": "パメラ様支援隊",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela-sama Support Group",
+  "status": "done",
   "slots": [
    "w:2ef390"
   ]
@@ -3431,8 +3431,8 @@
  {
   "id": "e:281a58",
   "jp": "クヤフ村",
-  "en": "",
-  "status": "todo",
+  "en": "Kuyafu Village",
+  "status": "done",
   "slots": [
    "w:2ef394"
   ]
@@ -3440,8 +3440,8 @@
  {
   "id": "e:281a64",
   "jp": "世界樹広場",
-  "en": "",
-  "status": "todo",
+  "en": "World Tree Square",
+  "status": "done",
   "slots": [
    "w:2ef398"
   ]
@@ -3449,8 +3449,8 @@
  {
   "id": "e:281a70",
   "jp": "崩れかけた岸辺",
-  "en": "",
-  "status": "todo",
+  "en": "Crumbling Shore",
+  "status": "done",
   "slots": [
    "w:2ef39c"
   ]
@@ -3458,8 +3458,8 @@
  {
   "id": "e:281a80",
   "jp": "発掘現場",
-  "en": "",
-  "status": "todo",
+  "en": "Dig Site",
+  "status": "done",
   "slots": [
    "w:2ef3a0"
   ]
@@ -3467,8 +3467,8 @@
  {
   "id": "e:281a8c",
   "jp": "海風の宿",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Breeze Inn",
+  "status": "done",
   "slots": [
    "w:2ef3a4"
   ]
@@ -3476,8 +3476,8 @@
  {
   "id": "e:281a98",
   "jp": "ショップギズミ",
-  "en": "",
-  "status": "todo",
+  "en": "Shop Gizmi",
+  "status": "done",
   "slots": [
    "w:2ef3a8"
   ]
@@ -3485,8 +3485,8 @@
  {
   "id": "e:281aa8",
   "jp": "女系都市ナオン",
-  "en": "",
-  "status": "todo",
+  "en": "Matriarch City Naon",
+  "status": "done",
   "slots": [
    "w:2ef3ac"
   ]
@@ -3494,8 +3494,8 @@
  {
   "id": "e:281ab8",
   "jp": "星の砂浜",
-  "en": "",
-  "status": "todo",
+  "en": "Star Sand Beach",
+  "status": "done",
   "slots": [
    "w:2ef3b0"
   ]
@@ -3503,8 +3503,8 @@
  {
   "id": "e:281ac4",
   "jp": "静かな砂浜",
-  "en": "",
-  "status": "todo",
+  "en": "Quiet Beach",
+  "status": "done",
   "slots": [
    "w:2ef3b4"
   ]
@@ -3512,8 +3512,8 @@
  {
   "id": "e:281ad0",
   "jp": "賑やかな砂浜",
-  "en": "",
-  "status": "todo",
+  "en": "Lively Beach",
+  "status": "done",
   "slots": [
    "w:2ef3b8"
   ]
@@ -3521,8 +3521,8 @@
  {
   "id": "e:281ae0",
   "jp": "不気味な砂浜",
-  "en": "",
-  "status": "todo",
+  "en": "Eerie Beach",
+  "status": "done",
   "slots": [
    "w:2ef3bc"
   ]
@@ -3530,8 +3530,8 @@
  {
   "id": "e:281af0",
   "jp": "誰もいない海",
-  "en": "",
-  "status": "todo",
+  "en": "Empty Sea",
+  "status": "done",
   "slots": [
    "w:2ef3c0"
   ]
@@ -3539,8 +3539,8 @@
  {
   "id": "e:281b00",
   "jp": "サワウ村",
-  "en": "",
-  "status": "todo",
+  "en": "Sawau Village",
+  "status": "done",
   "slots": [
    "w:2ef3c4"
   ]
@@ -3548,8 +3548,8 @@
  {
   "id": "e:281b0c",
   "jp": "音楽都市ポンテ",
-  "en": "",
-  "status": "todo",
+  "en": "Music City Ponte",
+  "status": "done",
   "slots": [
    "w:2ef3c8"
   ]
@@ -3557,8 +3557,8 @@
  {
   "id": "e:281b1c",
   "jp": "風流都市シンジ",
-  "en": "",
-  "status": "todo",
+  "en": "Elegant City Shinji",
+  "status": "done",
   "slots": [
    "w:2ef3cc"
   ]
@@ -3566,8 +3566,8 @@
  {
   "id": "e:281b2c",
   "jp": "ココリ林",
-  "en": "",
-  "status": "todo",
+  "en": "Kokori Woods",
+  "status": "done",
   "slots": [
    "w:2ef3d0"
   ]
@@ -3575,8 +3575,8 @@
  {
   "id": "e:281b38",
   "jp": "戦友達の墓",
-  "en": "",
-  "status": "todo",
+  "en": "Comrades' Graves",
+  "status": "done",
   "slots": [
    "w:2ef3d4"
   ]
@@ -3584,8 +3584,8 @@
  {
   "id": "e:281b44",
   "jp": "滅んだ村",
-  "en": "",
-  "status": "todo",
+  "en": "Ruined Village",
+  "status": "done",
   "slots": [
    "w:2ef3d8"
   ]
@@ -3593,8 +3593,8 @@
  {
   "id": "e:281b50",
   "jp": "城下町",
-  "en": "",
-  "status": "todo",
+  "en": "Castle Town",
+  "status": "done",
   "slots": [
    "w:2ef3dc"
   ]
@@ -3602,8 +3602,8 @@
  {
   "id": "e:281b58",
   "jp": "人魚の亡骸",
-  "en": "",
-  "status": "todo",
+  "en": "Mermaid's Remains",
+  "status": "done",
   "slots": [
    "w:2ef3e0"
   ]
@@ -3611,8 +3611,8 @@
  {
   "id": "e:281b64",
   "jp": "引潮の砂浜",
-  "en": "",
-  "status": "todo",
+  "en": "Ebb-Tide Beach",
+  "status": "done",
   "slots": [
    "w:2ef3e4"
   ]
@@ -3620,8 +3620,8 @@
  {
   "id": "e:281b70",
   "jp": "バッソフォンド",
-  "en": "",
-  "status": "todo",
+  "en": "Bassofondo",
+  "status": "done",
   "slots": [
    "w:2ef3e8"
   ]
@@ -3629,8 +3629,8 @@
  {
   "id": "e:281b80",
   "jp": "救護都市エンシ",
-  "en": "",
-  "status": "todo",
+  "en": "Relief City Enshi",
+  "status": "done",
   "slots": [
    "w:2ef3ec"
   ]
@@ -3638,8 +3638,8 @@
  {
   "id": "e:281b90",
   "jp": "葬式場",
-  "en": "",
-  "status": "todo",
+  "en": "Funeral Hall",
+  "status": "done",
   "slots": [
    "w:2ef3f0"
   ]
@@ -3647,8 +3647,8 @@
  {
   "id": "e:281b98",
   "jp": "隠れ家",
-  "en": "",
-  "status": "todo",
+  "en": "Hideout",
+  "status": "done",
   "slots": [
    "w:2ef3f4"
   ]
@@ -3656,8 +3656,8 @@
  {
   "id": "e:281ba0",
   "jp": "金庫洞窟",
-  "en": "",
-  "status": "todo",
+  "en": "Vault Cave",
+  "status": "done",
   "slots": [
    "w:2ef3f8"
   ]
@@ -3665,8 +3665,8 @@
  {
   "id": "e:281bac",
   "jp": "山の洞窟",
-  "en": "",
-  "status": "todo",
+  "en": "Mountain Cave",
+  "status": "done",
   "slots": [
    "w:2ef3fc"
   ]
@@ -3674,8 +3674,8 @@
  {
   "id": "e:281bb8",
   "jp": "瓦礫の中",
-  "en": "",
-  "status": "todo",
+  "en": "In the Rubble",
+  "status": "done",
   "slots": [
    "w:2ef400"
   ]
@@ -3683,8 +3683,8 @@
  {
   "id": "e:281bc4",
   "jp": "砂の中",
-  "en": "",
-  "status": "todo",
+  "en": "In the Sand",
+  "status": "done",
   "slots": [
    "w:2ef404"
   ]
@@ -3692,8 +3692,8 @@
  {
   "id": "e:281bcc",
   "jp": "みちばた",
-  "en": "",
-  "status": "todo",
+  "en": "Roadside",
+  "status": "done",
   "slots": [
    "w:2ef408"
   ]
@@ -3701,8 +3701,8 @@
  {
   "id": "e:281bd8",
   "jp": "砂漠地帯",
-  "en": "",
-  "status": "todo",
+  "en": "Desert",
+  "status": "done",
   "slots": [
    "w:2ef40c"
   ]
@@ -3710,8 +3710,8 @@
  {
   "id": "e:281be4",
   "jp": "ダクノモ村",
-  "en": "",
-  "status": "todo",
+  "en": "Dakunomo Village",
+  "status": "done",
   "slots": [
    "w:2ef410"
   ]
@@ -3719,8 +3719,8 @@
  {
   "id": "e:281bf0",
   "jp": "墓石の横側",
-  "en": "",
-  "status": "todo",
+  "en": "Beside a Gravestone",
+  "status": "done",
   "slots": [
    "w:2ef414"
   ]
@@ -3728,8 +3728,8 @@
  {
   "id": "e:281bfc",
   "jp": "小さな病院",
-  "en": "",
-  "status": "todo",
+  "en": "Small Hospital",
+  "status": "done",
   "slots": [
    "w:2ef418"
   ]
@@ -3737,8 +3737,8 @@
  {
   "id": "e:281c08",
   "jp": "誰もいない廃屋",
-  "en": "",
-  "status": "todo",
+  "en": "Empty Ruined House",
+  "status": "done",
   "slots": [
    "w:2ef41c"
   ]
@@ -3746,8 +3746,8 @@
  {
   "id": "e:281c18",
   "jp": "ローガン跡地",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan's Old Site",
+  "status": "done",
   "slots": [
    "w:2ef420"
   ]
@@ -3755,8 +3755,8 @@
  {
   "id": "e:281c28",
   "jp": "東砦",
-  "en": "",
-  "status": "todo",
+  "en": "East Fort",
+  "status": "done",
   "slots": [
    "w:2ef424"
   ]
@@ -3764,8 +3764,8 @@
  {
   "id": "e:281c30",
   "jp": "西砦",
-  "en": "",
-  "status": "todo",
+  "en": "West Fort",
+  "status": "done",
   "slots": [
    "w:2ef428"
   ]
@@ -3773,8 +3773,8 @@
  {
   "id": "e:281c38",
   "jp": "トレイシーの家",
-  "en": "",
-  "status": "todo",
+  "en": "Tracey's House",
+  "status": "done",
   "slots": [
    "w:2ef42c"
   ]
@@ -3782,8 +3782,8 @@
  {
   "id": "e:281c48",
   "jp": "イレンセ村",
-  "en": "",
-  "status": "todo",
+  "en": "Irense Village",
+  "status": "done",
   "slots": [
    "w:2ef430"
   ]
@@ -3791,8 +3791,8 @@
  {
   "id": "e:281c54",
   "jp": "シタテ村",
-  "en": "",
-  "status": "todo",
+  "en": "Shitate Village",
+  "status": "done",
   "slots": [
    "w:2ef434"
   ]
@@ -3800,8 +3800,8 @@
  {
   "id": "e:281c60",
   "jp": "美食都市メルグ",
-  "en": "",
-  "status": "todo",
+  "en": "Gourmet City Merg",
+  "status": "done",
   "slots": [
    "w:2ef438"
   ]
@@ -3809,8 +3809,8 @@
  {
   "id": "e:281c70",
   "jp": "舞踏都市ワルツ",
-  "en": "",
-  "status": "todo",
+  "en": "Dance City Waltz",
+  "status": "done",
   "slots": [
    "w:2ef43c"
   ]
@@ -3818,8 +3818,8 @@
  {
   "id": "e:281c80",
   "jp": "日向の屋敷",
-  "en": "",
-  "status": "todo",
+  "en": "Sunny Mansion",
+  "status": "done",
   "slots": [
    "w:2ef440"
   ]
@@ -3827,8 +3827,8 @@
  {
   "id": "e:281c8c",
   "jp": "英雄都市ギイセ",
-  "en": "",
-  "status": "todo",
+  "en": "Hero City Giise",
+  "status": "done",
   "slots": [
    "w:2ef444"
   ]
@@ -3836,8 +3836,8 @@
  {
   "id": "e:281c9c",
   "jp": "救済都市エゴン",
-  "en": "",
-  "status": "todo",
+  "en": "Salvation City Egon",
+  "status": "done",
   "slots": [
    "w:2ef448"
   ]
@@ -3845,8 +3845,8 @@
  {
   "id": "e:281cac",
   "jp": "古代都市カムシ",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient City Kamushi",
+  "status": "done",
   "slots": [
    "w:2ef44c"
   ]
@@ -3854,8 +3854,8 @@
  {
   "id": "e:281cbc",
   "jp": "光り輝く海面",
-  "en": "",
-  "status": "todo",
+  "en": "Shining Sea",
+  "status": "done",
   "slots": [
    "w:2ef450"
   ]
@@ -3863,8 +3863,8 @@
  {
   "id": "e:281ccc",
   "jp": "ひび割れた床",
-  "en": "",
-  "status": "todo",
+  "en": "Cracked Floor",
+  "status": "done",
   "slots": [
    "w:2ef454"
   ]
@@ -3872,8 +3872,8 @@
  {
   "id": "e:281cdc",
   "jp": "美しい街路",
-  "en": "",
-  "status": "todo",
+  "en": "Beautiful Street",
+  "status": "done",
   "slots": [
    "w:2ef458"
   ]
@@ -3881,8 +3881,8 @@
  {
   "id": "e:281ce8",
   "jp": "ラッキー研究所",
-  "en": "",
-  "status": "todo",
+  "en": "Lucky Laboratory",
+  "status": "done",
   "slots": [
    "w:2ef45c"
   ]
@@ -3890,8 +3890,8 @@
  {
   "id": "e:281cf8",
   "jp": "研究施設",
-  "en": "",
-  "status": "todo",
+  "en": "Research Facility",
+  "status": "done",
   "slots": [
    "w:2ef460"
   ]
@@ -3899,8 +3899,8 @@
  {
   "id": "e:281d04",
   "jp": "集団墓地",
-  "en": "",
-  "status": "todo",
+  "en": "Mass Grave",
+  "status": "done",
   "slots": [
    "w:2ef464"
   ]
@@ -3908,8 +3908,8 @@
  {
   "id": "e:281d10",
   "jp": "茂みの中",
-  "en": "",
-  "status": "todo",
+  "en": "In the Bushes",
+  "status": "done",
   "slots": [
    "w:2ef468"
   ]
@@ -3917,8 +3917,8 @@
  {
   "id": "e:281d1c",
   "jp": "研究所敷地",
-  "en": "",
-  "status": "todo",
+  "en": "Lab Grounds",
+  "status": "done",
   "slots": [
    "w:2ef46c"
   ]
@@ -3926,8 +3926,8 @@
  {
   "id": "e:281d28",
   "jp": "エルマーレ広場",
-  "en": "",
-  "status": "todo",
+  "en": "Elmare Plaza",
+  "status": "done",
   "slots": [
    "w:2ef470"
   ]
@@ -3935,8 +3935,8 @@
  {
   "id": "e:281d38",
   "jp": "コウコ村",
-  "en": "",
-  "status": "todo",
+  "en": "Koko Village",
+  "status": "done",
   "slots": [
    "w:2ef474"
   ]
@@ -3944,8 +3944,8 @@
  {
   "id": "e:281d44",
   "jp": "綺麗な浅瀬",
-  "en": "",
-  "status": "todo",
+  "en": "Clear Shallows",
+  "status": "done",
   "slots": [
    "w:2ef478"
   ]
@@ -3953,8 +3953,8 @@
  {
   "id": "e:281d50",
   "jp": "城内都市アゼン",
-  "en": "",
-  "status": "todo",
+  "en": "Castle City Azen",
+  "status": "done",
   "slots": [
    "w:2ef47c"
   ]
@@ -3962,8 +3962,8 @@
  {
   "id": "e:281d60",
   "jp": "ルキア研究所",
-  "en": "",
-  "status": "todo",
+  "en": "Lukia Laboratory",
+  "status": "done",
   "slots": [
    "w:2ef480"
   ]
@@ -3971,8 +3971,8 @@
  {
   "id": "e:281d70",
   "jp": "古代海道",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient Sea Road",
+  "status": "done",
   "slots": [
    "w:2ef484"
   ]
@@ -3980,8 +3980,8 @@
  {
   "id": "e:281d7c",
   "jp": "モヴの木",
-  "en": "",
-  "status": "todo",
+  "en": "Mov Tree",
+  "status": "done",
   "slots": [
    "w:2ef488"
   ]
@@ -3989,8 +3989,8 @@
  {
   "id": "e:281d88",
   "jp": "温かい浜辺",
-  "en": "",
-  "status": "todo",
+  "en": "Warm Beach",
+  "status": "done",
   "slots": [
    "w:2ef48c"
   ]
@@ -3998,8 +3998,8 @@
  {
   "id": "e:281d94",
   "jp": "森の中の病院",
-  "en": "",
-  "status": "todo",
+  "en": "Forest Hospital",
+  "status": "done",
   "slots": [
    "w:2ef490"
   ]
@@ -4007,8 +4007,8 @@
  {
   "id": "e:281da4",
   "jp": "海岸沿いの病院",
-  "en": "",
-  "status": "todo",
+  "en": "Coastal Hospital",
+  "status": "done",
   "slots": [
    "w:2ef494"
   ]
@@ -4016,8 +4016,8 @@
  {
   "id": "e:281db4",
   "jp": "緑色の廃屋",
-  "en": "",
-  "status": "todo",
+  "en": "Green Ruined House",
+  "status": "done",
   "slots": [
    "w:2ef498"
   ]
@@ -4025,8 +4025,8 @@
  {
   "id": "e:281dc0",
   "jp": "セツベイ病院",
-  "en": "",
-  "status": "todo",
+  "en": "Setsubei Hospital",
+  "status": "done",
   "slots": [
    "w:2ef49c"
   ]
@@ -4034,8 +4034,8 @@
  {
   "id": "e:281dd0",
   "jp": "性別整形外科",
-  "en": "",
-  "status": "todo",
+  "en": "Gender Surgery Clinic",
+  "status": "done",
   "slots": [
    "w:2ef4a0"
   ]
@@ -4043,8 +4043,8 @@
  {
   "id": "e:281de0",
   "jp": "性転換研究所",
-  "en": "",
-  "status": "todo",
+  "en": "Sex Change Lab",
+  "status": "done",
   "slots": [
    "w:2ef4a4"
   ]
@@ -4052,8 +4052,8 @@
  {
   "id": "e:281df0",
   "jp": "ＤＸホスピタル",
-  "en": "",
-  "status": "todo",
+  "en": "DX Hospital",
+  "status": "done",
   "slots": [
    "w:2ef4a8"
   ]
@@ -4061,8 +4061,8 @@
  {
   "id": "e:281e00",
   "jp": "人気のない海岸",
-  "en": "",
-  "status": "todo",
+  "en": "Deserted Coast",
+  "status": "done",
   "slots": [
    "w:2ef4ac"
   ]
@@ -4070,8 +4070,8 @@
  {
   "id": "e:281e10",
   "jp": "黄金の宝樽",
-  "en": "",
-  "status": "todo",
+  "en": "Golden Treasure Barrel",
+  "status": "done",
   "slots": [
    "w:2ef4b0"
   ]
@@ -4079,8 +4079,8 @@
  {
   "id": "e:281e1c",
   "jp": "風が吹く廃屋",
-  "en": "",
-  "status": "todo",
+  "en": "Windswept Ruined House",
+  "status": "done",
   "slots": [
    "w:2ef4b4"
   ]
@@ -4088,8 +4088,8 @@
  {
   "id": "e:281e2c",
   "jp": "隆起した海岸",
-  "en": "",
-  "status": "todo",
+  "en": "Raised Coast",
+  "status": "done",
   "slots": [
    "w:2ef4b8"
   ]
@@ -4097,8 +4097,8 @@
  {
   "id": "e:281e3c",
   "jp": "真っ白な灯台",
-  "en": "",
-  "status": "todo",
+  "en": "Pure White Lighthouse",
+  "status": "done",
   "slots": [
    "w:2ef4bc"
   ]
@@ -4106,8 +4106,8 @@
  {
   "id": "e:281e4c",
   "jp": "リョウタイ村",
-  "en": "",
-  "status": "todo",
+  "en": "Ryotai Village",
+  "status": "done",
   "slots": [
    "w:2ef4c0"
   ]
@@ -4115,8 +4115,8 @@
  {
   "id": "e:281e5c",
   "jp": "魚拓マニアの家",
-  "en": "",
-  "status": "todo",
+  "en": "Fish Print Fanatic's House",
+  "status": "done",
   "slots": [
    "w:2ef4c4"
   ]
@@ -4124,8 +4124,8 @@
  {
   "id": "e:281e6c",
   "jp": "釣り小屋",
-  "en": "",
-  "status": "todo",
+  "en": "Fishing Hut",
+  "status": "done",
   "slots": [
    "w:2ef4c8"
   ]
@@ -4143,8 +4143,8 @@
  {
   "id": "e:282b68",
   "jp": "ベルガスに力の差を見せつけた！",
-  "en": "",
-  "status": "todo",
+  "en": "Showed Velgas who's stronger!",
+  "status": "done",
   "slots": [
    "w:2f3960"
   ]
@@ -4152,8 +4152,8 @@
  {
   "id": "e:282b88",
   "jp": "栄光への道は閉ざされた…！",
-  "en": "",
-  "status": "todo",
+  "en": "The road to glory is closed...!",
+  "status": "done",
   "slots": [
    "w:2f3964"
   ]
@@ -4161,8 +4161,8 @@
  {
   "id": "e:282ba4",
   "jp": "作戦失敗…！",
-  "en": "",
-  "status": "todo",
+  "en": "Mission failed...!",
+  "status": "done",
   "slots": [
    "w:2f3968"
   ]
@@ -4170,8 +4170,8 @@
  {
   "id": "e:282bb4",
   "jp": "シャルム海賊団を撃退した！",
-  "en": "",
-  "status": "todo",
+  "en": "Drove off the Charme Pirates!",
+  "status": "done",
   "slots": [
    "w:2f396c"
   ]
@@ -4179,8 +4179,8 @@
  {
   "id": "e:282bd0",
   "jp": "ベルガスを撃退した！　奥へ急げ！",
-  "en": "",
-  "status": "todo",
+  "en": "Drove off Velgas! Hurry on inside!",
+  "status": "done",
   "slots": [
    "w:2f3970"
   ]
@@ -4188,8 +4188,8 @@
  {
   "id": "e:282bf4",
   "jp": "どうやら逃げ切ったようだ……",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like we got away...",
+  "status": "done",
   "slots": [
    "w:2f3974"
   ]
@@ -4197,8 +4197,8 @@
  {
   "id": "e:282c14",
   "jp": "アンヌとベルガスの撃退に成功！！",
-  "en": "",
-  "status": "todo",
+  "en": "Drove off Anne and Velgas!!",
+  "status": "done",
   "slots": [
    "w:2f3978"
   ]
@@ -4206,8 +4206,8 @@
  {
   "id": "e:282c38",
   "jp": "囚われのルルゥを助け出した！",
-  "en": "",
-  "status": "todo",
+  "en": "Rescued the captive Ruru!",
+  "status": "done",
   "slots": [
    "w:2f397c"
   ]
@@ -4215,8 +4215,8 @@
  {
   "id": "e:282c58",
   "jp": "ロコモコを追い払った！",
-  "en": "",
-  "status": "todo",
+  "en": "Chased off Locomoco!",
+  "status": "done",
   "slots": [
    "w:2f3980"
   ]
@@ -4224,8 +4224,8 @@
  {
   "id": "e:282c70",
   "jp": "船長のザザーランドを救い出した！",
-  "en": "",
-  "status": "todo",
+  "en": "Rescued Captain Zazarland!",
+  "status": "done",
   "slots": [
    "w:2f3984"
   ]
@@ -4233,8 +4233,8 @@
  {
   "id": "e:282c94",
   "jp": "イシュトの意思は大海へと散った…",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut's will scattered across the sea...",
+  "status": "done",
   "slots": [
    "w:2f3988"
   ]
@@ -4242,8 +4242,8 @@
  {
   "id": "e:282cb8",
   "jp": "アンヌ・コーマックを撃退した！",
-  "en": "",
-  "status": "todo",
+  "en": "Drove off Anne Cormack!",
+  "status": "done",
   "slots": [
    "w:2f398c"
   ]
@@ -4251,8 +4251,8 @@
  {
   "id": "e:282cd8",
   "jp": "イシュト、夢半ばにして散る…",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut falls with his dream unfulfilled...",
+  "status": "done",
   "slots": [
    "w:2f3990"
   ]
@@ -4260,8 +4260,8 @@
  {
   "id": "e:282cf8",
   "jp": "ザザーランド、戦場に散る…！",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland falls on the battlefield...!",
+  "status": "done",
   "slots": [
    "w:2f3994"
   ]
@@ -4269,8 +4269,8 @@
  {
   "id": "e:282d18",
   "jp": "誤解を解くのに成功した！",
-  "en": "",
-  "status": "todo",
+  "en": "Cleared up the misunderstanding!",
+  "status": "done",
   "slots": [
    "w:2f3998"
   ]
@@ -4278,8 +4278,8 @@
  {
   "id": "e:282d34",
   "jp": "ベルガスとの十年に決着がついた…",
-  "en": "",
-  "status": "todo",
+  "en": "Ten years with Velgas, settled at last...",
+  "status": "done",
   "slots": [
    "w:2f399c"
   ]
@@ -4287,8 +4287,8 @@
  {
   "id": "e:282d58",
   "jp": "ブラックモアの牙を圧し折った！",
-  "en": "",
-  "status": "todo",
+  "en": "Snapped Blackmore's fangs!",
+  "status": "done",
   "slots": [
    "w:2f39a0"
   ]
@@ -4296,8 +4296,8 @@
  {
   "id": "e:282d78",
   "jp": "宝物庫に辿りついた！",
-  "en": "",
-  "status": "todo",
+  "en": "Reached the treasury!",
+  "status": "done",
   "slots": [
    "w:2f39a4"
   ]
@@ -4305,8 +4305,8 @@
  {
   "id": "e:282d90",
   "jp": "見事ロコモコを救い出した！",
-  "en": "",
-  "status": "todo",
+  "en": "Rescued Locomoco in style!",
+  "status": "done",
   "slots": [
    "w:2f39a8"
   ]
@@ -4314,8 +4314,8 @@
  {
   "id": "e:282dac",
   "jp": "魔法少女ロコモコ、儚く散る…",
-  "en": "",
-  "status": "todo",
+  "en": "Magical girl Locomoco falls, fleeting...",
+  "status": "done",
   "slots": [
    "w:2f39ac"
   ]
@@ -4323,8 +4323,8 @@
  {
   "id": "e:282dcc",
   "jp": "ラズベリーの誤解を解くことに成功した！",
-  "en": "",
-  "status": "todo",
+  "en": "Cleared up Raspberry's misunderstanding!",
+  "status": "done",
   "slots": [
    "w:2f39b0"
   ]
@@ -4332,8 +4332,8 @@
  {
   "id": "e:282df4",
   "jp": "骸骨魔人ローガンを撃退した！",
-  "en": "",
-  "status": "todo",
+  "en": "Drove off Rogan the Skeleton Fiend!",
+  "status": "done",
   "slots": [
    "w:2f39b4"
   ]
@@ -4341,8 +4341,8 @@
  {
   "id": "e:282e14",
   "jp": "ラズベリーは黄泉の国へと帰った…",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry returned to the land of the dead...",
+  "status": "done",
   "slots": [
    "w:2f39b8"
   ]
@@ -4350,8 +4350,8 @@
  {
   "id": "e:282e38",
   "jp": "儀式を中止させることに成功した！",
-  "en": "",
-  "status": "todo",
+  "en": "Stopped the ritual!",
+  "status": "done",
   "slots": [
    "w:2f39bc"
   ]
@@ -4359,8 +4359,8 @@
  {
   "id": "e:282e5c",
   "jp": "生贄の儀式に隠された真実を解決した！",
-  "en": "",
-  "status": "todo",
+  "en": "Uncovered the truth hidden in the sacrifice ritual!",
+  "status": "done",
   "slots": [
    "w:2f39c0"
   ]
@@ -4368,8 +4368,8 @@
  {
   "id": "e:282e84",
   "jp": "フィービーの撃破に成功！",
-  "en": "",
-  "status": "todo",
+  "en": "Defeated Fiebee!",
+  "status": "done",
   "slots": [
    "w:2f39c4"
   ]
@@ -4377,8 +4377,8 @@
  {
   "id": "e:282ea0",
   "jp": "黒い牙を撃退した！",
-  "en": "",
-  "status": "todo",
+  "en": "Drove off the Black Fang!",
+  "status": "done",
   "slots": [
    "w:2f39c8"
   ]
@@ -4386,8 +4386,8 @@
  {
   "id": "e:282eb4",
   "jp": "フィービー、意思と共にその身を散らす",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee falls, her will with her...",
+  "status": "done",
   "slots": [
    "w:2f39cc"
   ]
@@ -4395,8 +4395,8 @@
  {
   "id": "e:282edc",
   "jp": "宝物庫に眠るお宝を発見した！",
-  "en": "",
-  "status": "todo",
+  "en": "Found the treasure sleeping in the treasury!",
+  "status": "done",
   "slots": [
    "w:2f39d0"
   ]
@@ -4404,8 +4404,8 @@
  {
   "id": "e:282efc",
   "jp": "黒い牙を撃退し、町を守った！",
-  "en": "",
-  "status": "todo",
+  "en": "Drove off the Black Fang and saved the town!",
+  "status": "done",
   "slots": [
    "w:2f39d4"
   ]
@@ -4413,8 +4413,8 @@
  {
   "id": "e:282f1c",
   "jp": "お宝を見事死守した！",
-  "en": "",
-  "status": "todo",
+  "en": "Defended the treasure to the end!",
+  "status": "done",
   "slots": [
    "w:2f39d8"
   ]
@@ -4422,8 +4422,8 @@
  {
   "id": "e:282f34",
   "jp": "樽の中に眠るお宝を発見した！",
-  "en": "",
-  "status": "todo",
+  "en": "Found the treasure sleeping in the barrels!",
+  "status": "done",
   "slots": [
    "w:2f39dc"
   ]
@@ -4431,8 +4431,8 @@
  {
   "id": "e:282f54",
   "jp": "エリーシャ、双銃鳴り響かず…",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha's twin guns fall silent...",
+  "status": "done",
   "slots": [
    "w:2f39e0"
   ]
@@ -4440,8 +4440,8 @@
  {
   "id": "e:282f74",
   "jp": "海ゴブリンを助け出した！",
-  "en": "",
-  "status": "todo",
+  "en": "Rescued the Sea Goblin!",
+  "status": "done",
   "slots": [
    "w:2f39e4"
   ]
@@ -4449,8 +4449,8 @@
  {
   "id": "e:282f90",
   "jp": "海の犬を成敗した！",
-  "en": "",
-  "status": "todo",
+  "en": "Punished the Sea Dogs!",
+  "status": "done",
   "slots": [
    "w:2f39e8"
   ]
@@ -4458,8 +4458,8 @@
  {
   "id": "e:282fa4",
   "jp": "黒い牙の猛攻に耐えた！",
-  "en": "",
-  "status": "todo",
+  "en": "Withstood the Black Fang's onslaught!",
+  "status": "done",
   "slots": [
    "w:2f39ec"
   ]
@@ -4467,8 +4467,8 @@
  {
   "id": "e:282fbc",
   "jp": "エリーシャ、鮮烈デビュー！",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha's dazzling debut!",
+  "status": "done",
   "slots": [
    "w:2f39f0"
   ]
@@ -4476,8 +4476,8 @@
  {
   "id": "e:282fd8",
   "jp": "鮮烈デビューならず！",
-  "en": "",
-  "status": "todo",
+  "en": "No dazzling debut after all!",
+  "status": "done",
   "slots": [
    "w:2f39f4"
   ]
@@ -4485,8 +4485,8 @@
  {
   "id": "e:282ff0",
   "jp": "黒い牙は壊滅寸前だ！",
-  "en": "",
-  "status": "todo",
+  "en": "The Black Fang is close to collapse!",
+  "status": "done",
   "slots": [
    "w:2f39f8"
   ]

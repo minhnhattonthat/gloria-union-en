@@ -68,8 +68,8 @@
  {
   "id": "s2051:00145",
   "jp": "ルルゥ？",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru?",
+  "status": "done",
   "slots": [
    "0x18c7"
   ],
@@ -1288,8 +1288,8 @@
  {
   "id": "s2051:0164bt",
   "jp": "ルルゥＭｋ－２",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru Mk-II",
+  "status": "done",
   "at": "0x164e",
   "max": 14,
   "who": "team name"

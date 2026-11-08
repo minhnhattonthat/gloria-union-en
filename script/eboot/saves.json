@@ -665,8 +665,8 @@
  {
   "id": "e:25de90",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "slots": [
    "w:25e1ec"
   ]
@@ -764,8 +764,8 @@
  {
   "id": "e:25df64",
   "jp": "海の犬",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Dogs",
+  "status": "done",
   "slots": [
    "w:25e244"
   ]

@@ -2,8 +2,8 @@
  {
   "id": "e:25c008",
   "jp": "ウィンドリボルバー",
-  "en": "",
-  "status": "todo",
+  "en": "Wind Revolver",
+  "status": "done",
   "slots": [
    "w:2cd328"
   ]
@@ -11,8 +11,8 @@
  {
   "id": "e:25c01c",
   "jp": "薄汚れたペンダント",
-  "en": "",
-  "status": "todo",
+  "en": "Grimy Pendant",
+  "status": "done",
   "slots": [
    "w:2cd32c"
   ]
@@ -20,8 +20,8 @@
  {
   "id": "e:25c030",
   "jp": "海ゴブリンのチーズ",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblin Cheese",
+  "status": "done",
   "slots": [
    "w:2cd330"
   ]
@@ -29,8 +29,8 @@
  {
   "id": "e:25c044",
   "jp": "海ゴブリンの人形",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblin Doll",
+  "status": "done",
   "slots": [
    "w:2cd334"
   ]
@@ -38,8 +38,8 @@
  {
   "id": "e:25c058",
   "jp": "海ゴブリンのミルク",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblin Milk",
+  "status": "done",
   "slots": [
    "w:2cd338"
   ]
@@ -47,8 +47,8 @@
  {
   "id": "e:25c06c",
   "jp": "海ドゼウ",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Loach",
+  "status": "done",
   "slots": [
    "w:2cd33c"
   ]
@@ -56,8 +56,8 @@
  {
   "id": "e:25c078",
   "jp": "海の記憶",
-  "en": "",
-  "status": "todo",
+  "en": "Sea's Memory",
+  "status": "done",
   "slots": [
    "w:2cd340"
   ]
@@ -65,8 +65,8 @@
  {
   "id": "e:25c084",
   "jp": "ウミヘビ",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Snake",
+  "status": "done",
   "slots": [
    "w:2cd344"
   ]
@@ -74,8 +74,8 @@
  {
   "id": "e:25c090",
   "jp": "海蛇の長靴",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Snake Boots",
+  "status": "done",
   "slots": [
    "w:2cd348"
   ]
@@ -83,8 +83,8 @@
  {
   "id": "e:25c09c",
   "jp": "海蛇のランサー",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Snake Lancer",
+  "status": "done",
   "slots": [
    "w:2cd34c"
   ]
@@ -92,8 +92,8 @@
  {
   "id": "e:25c0ac",
   "jp": "エーテリオン",
-  "en": "",
-  "status": "todo",
+  "en": "Etherion",
+  "status": "done",
   "slots": [
    "w:2cd350"
   ]
@@ -101,8 +101,8 @@
  {
   "id": "e:25c0bc",
   "jp": "エクスカリバー",
-  "en": "",
-  "status": "todo",
+  "en": "Excalibur",
+  "status": "done",
   "slots": [
    "w:2cd354"
   ]
@@ -110,8 +110,8 @@
  {
   "id": "e:25c0cc",
   "jp": "エレガントスピア",
-  "en": "",
-  "status": "todo",
+  "en": "Elegant Spear",
+  "status": "done",
   "slots": [
    "w:2cd358"
   ]
@@ -119,8 +119,8 @@
  {
   "id": "e:25c0e0",
   "jp": "エレメント",
-  "en": "",
-  "status": "todo",
+  "en": "Element",
+  "status": "done",
   "slots": [
    "w:2cd35c"
   ]
@@ -128,8 +128,8 @@
  {
   "id": "e:25c0ec",
   "jp": "黄金銃",
-  "en": "",
-  "status": "todo",
+  "en": "Golden Gun",
+  "status": "done",
   "slots": [
    "w:2cd360"
   ]
@@ -137,8 +137,8 @@
  {
   "id": "e:25c0f4",
   "jp": "オーガニウム",
-  "en": "",
-  "status": "todo",
+  "en": "Ogranium",
+  "status": "done",
   "slots": [
    "w:2cd364"
   ]
@@ -146,8 +146,8 @@
  {
   "id": "e:25c104",
   "jp": "オーガブレード",
-  "en": "",
-  "status": "todo",
+  "en": "Ogre Blade",
+  "status": "done",
   "slots": [
    "w:2cd368"
   ]
@@ -155,8 +155,8 @@
  {
   "id": "e:25c114",
   "jp": "オーシャンライフル",
-  "en": "",
-  "status": "todo",
+  "en": "Ocean Rifle",
+  "status": "done",
   "slots": [
    "w:2cd36c"
   ]
@@ -164,8 +164,8 @@
  {
   "id": "e:25c128",
   "jp": "お宝図鑑",
-  "en": "",
-  "status": "todo",
+  "en": "Treasure Guide",
+  "status": "done",
   "slots": [
    "w:2cd370"
   ]
@@ -173,8 +173,8 @@
  {
   "id": "e:25c134",
   "jp": "思い出のペンダント",
-  "en": "",
-  "status": "todo",
+  "en": "Keepsake Locket",
+  "status": "done",
   "slots": [
    "w:2cd374"
   ]
@@ -182,8 +182,8 @@
  {
   "id": "e:25c148",
   "jp": "ガーゴイルロッド",
-  "en": "",
-  "status": "todo",
+  "en": "Gargoyle Rod",
+  "status": "done",
   "slots": [
    "w:2cd378"
   ]
@@ -191,8 +191,8 @@
  {
   "id": "e:25c15c",
   "jp": "海王神殿のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "Sea King Shard",
+  "status": "done",
   "slots": [
    "w:2cd37c"
   ]
@@ -200,8 +200,8 @@
  {
   "id": "e:25c170",
   "jp": "貝殻の胸あて",
-  "en": "",
-  "status": "todo",
+  "en": "Shell Breastplate",
+  "status": "done",
   "slots": [
    "w:2cd380"
   ]
@@ -209,8 +209,8 @@
  {
   "id": "e:25c180",
   "jp": "海神の剣",
-  "en": "",
-  "status": "todo",
+  "en": "Sea God's Sword",
+  "status": "done",
   "slots": [
    "w:2cd384"
   ]
@@ -218,8 +218,8 @@
  {
   "id": "e:25c18c",
   "jp": "海神のサンダル",
-  "en": "",
-  "status": "todo",
+  "en": "Sea God's Sandals",
+  "status": "done",
   "slots": [
    "w:2cd388"
   ]
@@ -227,8 +227,8 @@
  {
   "id": "e:25c19c",
   "jp": "海神の魂",
-  "en": "",
-  "status": "todo",
+  "en": "Sea God's Soul",
+  "status": "done",
   "slots": [
    "w:2cd38c"
   ]
@@ -236,8 +236,8 @@
  {
   "id": "e:25c1a8",
   "jp": "海賊王の手甲",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate King Bracer",
+  "status": "done",
   "slots": [
    "w:2cd390"
   ]
@@ -245,8 +245,8 @@
  {
   "id": "e:25c1b8",
   "jp": "海賊王の人形",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate King Doll",
+  "status": "done",
   "slots": [
    "w:2cd394"
   ]
@@ -254,8 +254,8 @@
  {
   "id": "e:25c1c8",
   "jp": "海賊王のバッジ",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate King Badge",
+  "status": "done",
   "slots": [
    "w:2cd398"
   ]
@@ -263,8 +263,8 @@
  {
   "id": "e:25c1d8",
   "jp": "海賊王の帽子",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate King's Hat",
+  "status": "done",
   "slots": [
    "w:2cd39c"
   ]
@@ -272,8 +272,8 @@
  {
   "id": "e:25c1e8",
   "jp": "海賊王の鎧",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate King Armor",
+  "status": "done",
   "slots": [
    "w:2cd3a0"
   ]
@@ -281,8 +281,8 @@
  {
   "id": "e:25c1f4",
   "jp": "海賊勲章",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate Medal",
+  "status": "done",
   "slots": [
    "w:2cd3a4"
   ]
@@ -290,8 +290,8 @@
  {
   "id": "e:25c200",
   "jp": "海賊のカバン",
-  "en": "",
-  "status": "todo",
+  "en": "Pirate's Bag",
+  "status": "done",
   "slots": [
    "w:2cd3a8"
   ]
@@ -299,8 +299,8 @@
  {
   "id": "e:25c210",
   "jp": "海底の薔薇",
-  "en": "",
-  "status": "todo",
+  "en": "Seabed Rose",
+  "status": "done",
   "slots": [
    "w:2cd3ac"
   ]
@@ -308,8 +308,8 @@
  {
   "id": "e:25c21c",
   "jp": "海霊の呪符",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Spirit Charm",
+  "status": "done",
   "slots": [
    "w:2cd3b0"
   ]
@@ -317,8 +317,8 @@
  {
   "id": "e:25c228",
   "jp": "カゴの中の白い蝶",
-  "en": "",
-  "status": "todo",
+  "en": "Caged Butterfly",
+  "status": "done",
   "slots": [
    "w:2cd3b4"
   ]
@@ -326,8 +326,8 @@
  {
   "id": "e:25c23c",
   "jp": "風神の道のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "Wind Road Shard",
+  "status": "done",
   "slots": [
    "w:2cd3b8"
   ]
@@ -335,8 +335,8 @@
  {
   "id": "e:25c250",
   "jp": "カチューシャ",
-  "en": "",
-  "status": "todo",
+  "en": "Hairband",
+  "status": "done",
   "slots": [
    "w:2cd3bc"
   ]
@@ -344,8 +344,8 @@
  {
   "id": "e:25c260",
   "jp": "ガトリングガン",
-  "en": "",
-  "status": "todo",
+  "en": "Gatling Gun",
+  "status": "done",
   "slots": [
    "w:2cd3c0"
   ]
@@ -353,8 +353,8 @@
  {
   "id": "e:25c270",
   "jp": "ガラスのビン",
-  "en": "",
-  "status": "todo",
+  "en": "Glass Bottle",
+  "status": "done",
   "slots": [
    "w:2cd3c4"
   ]
@@ -362,8 +362,8 @@
  {
   "id": "e:25c280",
   "jp": "カラフル真珠",
-  "en": "",
-  "status": "todo",
+  "en": "Colorful Pearl",
+  "status": "done",
   "slots": [
    "w:2cd3c8"
   ]
@@ -371,8 +371,8 @@
  {
   "id": "e:25c290",
   "jp": "カラフル真珠の腕輪",
-  "en": "",
-  "status": "todo",
+  "en": "Pearl Bangle",
+  "status": "done",
   "slots": [
    "w:2cd3cc"
   ]
@@ -380,8 +380,8 @@
  {
   "id": "e:25c2a4",
   "jp": "火竜の城のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "Fire Castle Shard",
+  "status": "done",
   "slots": [
    "w:2cd3d0"
   ]
@@ -389,8 +389,8 @@
  {
   "id": "e:25c2b8",
   "jp": "カレーライス",
-  "en": "",
-  "status": "todo",
+  "en": "Curry Rice",
+  "status": "done",
   "slots": [
    "w:2cd3d4"
   ]
@@ -398,8 +398,8 @@
  {
   "id": "e:25c2c8",
   "jp": "枯れた花束",
-  "en": "",
-  "status": "todo",
+  "en": "Dead Bouquet",
+  "status": "done",
   "slots": [
    "w:2cd3d8"
   ]
@@ -407,8 +407,8 @@
  {
   "id": "e:25c2d4",
   "jp": "皮のヘルメット",
-  "en": "",
-  "status": "todo",
+  "en": "Leather Helmet",
+  "status": "done",
   "slots": [
    "w:2cd3dc"
   ]
@@ -416,8 +416,8 @@
  {
   "id": "e:25c2e4",
   "jp": "偽璽カエサル",
-  "en": "",
-  "status": "todo",
+  "en": "Fake Seal Caesar",
+  "status": "done",
   "slots": [
    "w:2cd3e0"
   ]
@@ -425,8 +425,8 @@
  {
   "id": "e:25c2f4",
   "jp": "絹織りの頭巾",
-  "en": "",
-  "status": "todo",
+  "en": "Silk Hood",
+  "status": "done",
   "slots": [
    "w:2cd3e4"
   ]
@@ -434,8 +434,8 @@
  {
   "id": "e:25c304",
   "jp": "絹のコルセット",
-  "en": "",
-  "status": "todo",
+  "en": "Silk Corset",
+  "status": "done",
   "slots": [
    "w:2cd3e8"
   ]
@@ -443,8 +443,8 @@
  {
   "id": "e:25c314",
   "jp": "希望のロザリオ",
-  "en": "",
-  "status": "todo",
+  "en": "Rosary of Hope",
+  "status": "done",
   "slots": [
    "w:2cd3ec"
   ]
@@ -452,8 +452,8 @@
  {
   "id": "e:25c324",
   "jp": "キャッツアイ",
-  "en": "",
-  "status": "todo",
+  "en": "Cat's Eye",
+  "status": "done",
   "slots": [
    "w:2cd3f0"
   ]
@@ -461,8 +461,8 @@
  {
   "id": "e:25c334",
   "jp": "キャンディステッキ",
-  "en": "",
-  "status": "todo",
+  "en": "Candy Cane",
+  "status": "done",
   "slots": [
    "w:2cd3f4"
   ]
@@ -470,8 +470,8 @@
  {
   "id": "e:25c348",
   "jp": "狂科学者のメガネ",
-  "en": "",
-  "status": "todo",
+  "en": "Mad Doctor Specs",
+  "status": "done",
   "slots": [
    "w:2cd3f8"
   ]
@@ -479,8 +479,8 @@
  {
   "id": "e:25c35c",
   "jp": "凶刃ベルセルク",
-  "en": "",
-  "status": "todo",
+  "en": "Fell Blade Berserk",
+  "status": "done",
   "slots": [
    "w:2cd3fc"
   ]
@@ -488,8 +488,8 @@
  {
   "id": "e:25c36c",
   "jp": "玉璽カエサル",
-  "en": "",
-  "status": "todo",
+  "en": "Royal Seal Caesar",
+  "status": "done",
   "slots": [
    "w:2cd400"
   ]
@@ -497,8 +497,8 @@
  {
   "id": "e:25c37c",
   "jp": "魚拓",
-  "en": "",
-  "status": "todo",
+  "en": "Fish Print",
+  "status": "done",
   "slots": [
    "w:2cd404"
   ]
@@ -506,8 +506,8 @@
  {
   "id": "e:25c384",
   "jp": "キラービーの巣",
-  "en": "",
-  "status": "todo",
+  "en": "Killer Bee Nest",
+  "status": "done",
   "slots": [
    "w:2cd408"
   ]
@@ -515,8 +515,8 @@
  {
   "id": "e:25c394",
   "jp": "きらきら金貨",
-  "en": "",
-  "status": "todo",
+  "en": "Shiny Gold Coin",
+  "status": "done",
   "slots": [
    "w:2cd40c"
   ]
@@ -524,8 +524,8 @@
  {
   "id": "e:25c3a4",
   "jp": "キルブレード",
-  "en": "",
-  "status": "todo",
+  "en": "Kill Blade",
+  "status": "done",
   "slots": [
    "w:2cd410"
   ]
@@ -533,8 +533,8 @@
  {
   "id": "e:25c3b4",
   "jp": "きれいな指輪",
-  "en": "",
-  "status": "todo",
+  "en": "Pretty Ring",
+  "status": "done",
   "slots": [
    "w:2cd414"
   ]
@@ -542,8 +542,8 @@
  {
   "id": "e:25c3c4",
   "jp": "きれいな貝殻",
-  "en": "",
-  "status": "todo",
+  "en": "Pretty Seashell",
+  "status": "done",
   "slots": [
    "w:2cd418"
   ]
@@ -551,8 +551,8 @@
  {
   "id": "e:25c3d4",
   "jp": "ギロチンウェポン",
-  "en": "",
-  "status": "todo",
+  "en": "Guillotine Weapon",
+  "status": "done",
   "slots": [
    "w:2cd41c"
   ]
@@ -560,8 +560,8 @@
  {
   "id": "e:25c3e8",
   "jp": "金塊",
-  "en": "",
-  "status": "todo",
+  "en": "Gold Bar",
+  "status": "done",
   "slots": [
    "w:2cd420"
   ]
@@ -569,8 +569,8 @@
  {
   "id": "e:25c3f0",
   "jp": "禁忌のロザリオ",
-  "en": "",
-  "status": "todo",
+  "en": "Forbidden Rosary",
+  "status": "done",
   "slots": [
    "w:2cd424"
   ]
@@ -578,8 +578,8 @@
  {
   "id": "e:25c400",
   "jp": "禁断の果実",
-  "en": "",
-  "status": "todo",
+  "en": "Forbidden Fruit",
+  "status": "done",
   "slots": [
    "w:2cd428"
   ]
@@ -587,8 +587,8 @@
  {
   "id": "e:25c40c",
   "jp": "金の海ドゼウ",
-  "en": "",
-  "status": "todo",
+  "en": "Golden Sea Loach",
+  "status": "done",
   "slots": [
    "w:2cd42c"
   ]
@@ -596,8 +596,8 @@
  {
   "id": "e:25c41c",
   "jp": "金のとっくり",
-  "en": "",
-  "status": "todo",
+  "en": "Golden Sake Flask",
+  "status": "done",
   "slots": [
    "w:2cd430"
   ]
@@ -605,8 +605,8 @@
  {
   "id": "e:25c42c",
   "jp": "腐った海ドゼウ",
-  "en": "",
-  "status": "todo",
+  "en": "Rotten Sea Loach",
+  "status": "done",
   "slots": [
    "w:2cd434"
   ]
@@ -614,8 +614,8 @@
  {
   "id": "e:25c43c",
   "jp": "朽ち果てた剣",
-  "en": "",
-  "status": "todo",
+  "en": "Decayed Sword",
+  "status": "done",
   "slots": [
    "w:2cd438"
   ]
@@ -623,8 +623,8 @@
  {
   "id": "e:25c44c",
   "jp": "首のない人形",
-  "en": "",
-  "status": "todo",
+  "en": "Headless Doll",
+  "status": "done",
   "slots": [
    "w:2cd43c"
   ]
@@ -632,8 +632,8 @@
  {
   "id": "e:25c45c",
   "jp": "クリスタル",
-  "en": "",
-  "status": "todo",
+  "en": "Crystal",
+  "status": "done",
   "slots": [
    "w:2cd440"
   ]
@@ -641,8 +641,8 @@
  {
   "id": "e:25c468",
   "jp": "クリティカライザ",
-  "en": "",
-  "status": "todo",
+  "en": "Criticalizer",
+  "status": "done",
   "slots": [
    "w:2cd444"
   ]
@@ -650,8 +650,8 @@
  {
   "id": "e:25c47c",
   "jp": "グリフォンの羽根",
-  "en": "",
-  "status": "todo",
+  "en": "Griffon Feather",
+  "status": "done",
   "slots": [
    "w:2cd448"
   ]
@@ -659,8 +659,8 @@
  {
   "id": "e:25c490",
   "jp": "グリフグリル",
-  "en": "",
-  "status": "todo",
+  "en": "Glyph Grill",
+  "status": "done",
   "slots": [
    "w:2cd44c"
   ]
@@ -668,8 +668,8 @@
  {
   "id": "e:25c4a0",
   "jp": "クルセイドランス",
-  "en": "",
-  "status": "todo",
+  "en": "Crusade Lance",
+  "status": "done",
   "slots": [
    "w:2cd450"
   ]
@@ -677,8 +677,8 @@
  {
   "id": "e:25c4b4",
   "jp": "黒ネコの耳飾り",
-  "en": "",
-  "status": "todo",
+  "en": "Black Cat Earring",
+  "status": "done",
   "slots": [
    "w:2cd454"
   ]
@@ -686,8 +686,8 @@
  {
   "id": "e:25c4c4",
   "jp": "グロリアパイレーツ",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "slots": [
    "w:2cd458"
   ]
@@ -695,8 +695,8 @@
  {
   "id": "e:25c4d8",
   "jp": "グロリア砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Cannon",
+  "status": "done",
   "slots": [
    "w:2cd45c"
   ]
@@ -704,8 +704,8 @@
  {
   "id": "e:25c4e8",
   "jp": "賢者の石",
-  "en": "",
-  "status": "todo",
+  "en": "Sage's Stone",
+  "status": "done",
   "slots": [
    "w:2cd460"
   ]
@@ -713,8 +713,8 @@
  {
   "id": "e:25c4f4",
   "jp": "幻想戯曲の楽譜",
-  "en": "",
-  "status": "todo",
+  "en": "Fantasia Score",
+  "status": "done",
   "slots": [
    "w:2cd464"
   ]
@@ -722,8 +722,8 @@
  {
   "id": "e:25c504",
   "jp": "幸運のタリスマン",
-  "en": "",
-  "status": "todo",
+  "en": "Lucky Talisman",
+  "status": "done",
   "slots": [
    "w:2cd468"
   ]
@@ -731,8 +731,8 @@
  {
   "id": "e:25c518",
   "jp": "航海日誌",
-  "en": "",
-  "status": "todo",
+  "en": "Ship's Log",
+  "status": "done",
   "slots": [
    "w:2cd46c"
   ]
@@ -740,8 +740,8 @@
  {
   "id": "e:25c524",
   "jp": "高級うに",
-  "en": "",
-  "status": "todo",
+  "en": "Fine Sea Urchin",
+  "status": "done",
   "slots": [
    "w:2cd470"
   ]
@@ -749,8 +749,8 @@
  {
   "id": "e:25c530",
   "jp": "豪槍一本鬼",
-  "en": "",
-  "status": "todo",
+  "en": "Ogre-Spear Ippon",
+  "status": "done",
   "slots": [
    "w:2cd474"
   ]
@@ -758,8 +758,8 @@
  {
   "id": "e:25c53c",
   "jp": "ゴールデンスピア",
-  "en": "",
-  "status": "todo",
+  "en": "Golden Spear",
+  "status": "done",
   "slots": [
    "w:2cd478"
   ]
@@ -767,8 +767,8 @@
  {
   "id": "e:25c550",
   "jp": "ゴールドバッジ",
-  "en": "",
-  "status": "todo",
+  "en": "Gold Badge",
+  "status": "done",
   "slots": [
    "w:2cd47c"
   ]
@@ -776,8 +776,8 @@
  {
   "id": "e:25c560",
   "jp": "ゴーレムスーツ",
-  "en": "",
-  "status": "todo",
+  "en": "Golem Suit",
+  "status": "done",
   "slots": [
    "w:2cd480"
   ]
@@ -785,8 +785,8 @@
  {
   "id": "e:25c570",
   "jp": "ココリの実",
-  "en": "",
-  "status": "todo",
+  "en": "Kokori Nut",
+  "status": "done",
   "slots": [
    "w:2cd484"
   ]
@@ -794,8 +794,8 @@
  {
   "id": "e:25c57c",
   "jp": "古代の魔道書",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient Grimoire",
+  "status": "done",
   "slots": [
    "w:2cd488"
   ]
@@ -803,8 +803,8 @@
  {
   "id": "e:25c58c",
   "jp": "最高級マタタビ",
-  "en": "",
-  "status": "todo",
+  "en": "Finest Catnip",
+  "status": "done",
   "slots": [
    "w:2cd48c"
   ]
@@ -812,8 +812,8 @@
  {
   "id": "e:25c59c",
   "jp": "サザンクロス",
-  "en": "",
-  "status": "todo",
+  "en": "Southern Cross",
+  "status": "done",
   "slots": [
    "w:2cd490"
   ]
@@ -821,8 +821,8 @@
  {
   "id": "e:25c5ac",
   "jp": "錆びたハチェット",
-  "en": "",
-  "status": "todo",
+  "en": "Rusty Hatchet",
+  "status": "done",
   "slots": [
    "w:2cd494"
   ]
@@ -830,8 +830,8 @@
  {
   "id": "e:25c5c0",
   "jp": "錆びた鎖",
-  "en": "",
-  "status": "todo",
+  "en": "Rusty Chain",
+  "status": "done",
   "slots": [
    "w:2cd498"
   ]
@@ -839,8 +839,8 @@
  {
   "id": "e:25c5cc",
   "jp": "錆びた砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Rusty Cannon",
+  "status": "done",
   "slots": [
    "w:2cd49c"
   ]
@@ -848,8 +848,8 @@
  {
   "id": "e:25c5d8",
   "jp": "サラマンドラ",
-  "en": "",
-  "status": "todo",
+  "en": "Salamandra",
+  "status": "done",
   "slots": [
    "w:2cd4a0"
   ]
@@ -857,8 +857,8 @@
  {
   "id": "e:25c5e8",
   "jp": "珊瑚のスピア",
-  "en": "",
-  "status": "todo",
+  "en": "Coral Spear",
+  "status": "done",
   "slots": [
    "w:2cd4a4"
   ]
@@ -866,8 +866,8 @@
  {
   "id": "e:25c5f8",
   "jp": "斬鉄剣",
-  "en": "",
-  "status": "todo",
+  "en": "Zantetsuken",
+  "status": "done",
   "slots": [
    "w:2cd4a8"
   ]
@@ -875,8 +875,8 @@
  {
   "id": "e:25c600",
   "jp": "シーラカンスの骨",
-  "en": "",
-  "status": "todo",
+  "en": "Coelacanth Bone",
+  "status": "done",
   "slots": [
    "w:2cd4ac"
   ]
@@ -884,8 +884,8 @@
  {
   "id": "e:25c614",
   "jp": "塩プリン",
-  "en": "",
-  "status": "todo",
+  "en": "Salt Pudding",
+  "status": "done",
   "slots": [
    "w:2cd4b0"
   ]
@@ -893,8 +893,8 @@
  {
   "id": "e:25c620",
   "jp": "しおれた花束",
-  "en": "",
-  "status": "todo",
+  "en": "Wilted Bouquet",
+  "status": "done",
   "slots": [
    "w:2cd4b4"
   ]
@@ -902,8 +902,8 @@
  {
   "id": "e:25c630",
   "jp": "シスターの花束",
-  "en": "",
-  "status": "todo",
+  "en": "Sister's Bouquet",
+  "status": "done",
   "slots": [
    "w:2cd4b8"
   ]
@@ -911,8 +911,8 @@
  {
   "id": "e:25c640",
   "jp": "邪眼",
-  "en": "",
-  "status": "todo",
+  "en": "Evil Eye",
+  "status": "done",
   "slots": [
    "w:2cd4bc"
   ]
@@ -920,8 +920,8 @@
  {
   "id": "e:25c648",
   "jp": "ジュエルロッド",
-  "en": "",
-  "status": "todo",
+  "en": "Jewel Rod",
+  "status": "done",
   "slots": [
    "w:2cd4c0"
   ]
@@ -929,8 +929,8 @@
  {
   "id": "e:25c658",
   "jp": "祝福の光輪",
-  "en": "",
-  "status": "todo",
+  "en": "Halo of Blessing",
+  "status": "done",
   "slots": [
    "w:2cd4c4"
   ]
@@ -938,8 +938,8 @@
  {
   "id": "e:25c664",
   "jp": "守護精霊のリング",
-  "en": "",
-  "status": "todo",
+  "en": "Guardian Ring",
+  "status": "done",
   "slots": [
    "w:2cd4c8"
   ]
@@ -947,8 +947,8 @@
  {
   "id": "e:25c678",
   "jp": "シルバーバッジ",
-  "en": "",
-  "status": "todo",
+  "en": "Silver Badge",
+  "status": "done",
   "slots": [
    "w:2cd4cc"
   ]
@@ -956,8 +956,8 @@
  {
   "id": "e:25c688",
   "jp": "真・斬鉄剣",
-  "en": "",
-  "status": "todo",
+  "en": "True Zantetsuken",
+  "status": "done",
   "slots": [
    "w:2cd4d0"
   ]
@@ -965,8 +965,8 @@
  {
   "id": "e:25c694",
   "jp": "深海の雪",
-  "en": "",
-  "status": "todo",
+  "en": "Deep-Sea Snow",
+  "status": "done",
   "slots": [
    "w:2cd4d4"
   ]
@@ -974,8 +974,8 @@
  {
   "id": "e:25c6a0",
   "jp": "深紅のマント",
-  "en": "",
-  "status": "todo",
+  "en": "Crimson Cloak",
+  "status": "done",
   "slots": [
    "w:2cd4d8"
   ]
@@ -983,8 +983,8 @@
  {
   "id": "e:25c6b0",
   "jp": "死んだ海ドゼウ",
-  "en": "",
-  "status": "todo",
+  "en": "Dead Sea Loach",
+  "status": "done",
   "slots": [
    "w:2cd4dc"
   ]
@@ -992,8 +992,8 @@
  {
   "id": "e:25c6c0",
   "jp": "スイートキャンディ",
-  "en": "",
-  "status": "todo",
+  "en": "Sweet Candy",
+  "status": "done",
   "slots": [
    "w:2cd4e0"
   ]
@@ -1001,8 +1001,8 @@
  {
   "id": "e:25c6d4",
   "jp": "スウィートベリー",
-  "en": "",
-  "status": "todo",
+  "en": "Sweet Berry",
+  "status": "done",
   "slots": [
    "w:2cd4e4"
   ]
@@ -1010,8 +1010,8 @@
  {
   "id": "e:25c6e8",
   "jp": "スターダスト",
-  "en": "",
-  "status": "todo",
+  "en": "Stardust",
+  "status": "done",
   "slots": [
    "w:2cd4e8"
   ]
@@ -1019,8 +1019,8 @@
  {
   "id": "e:25c6f8",
   "jp": "スナイプグラス",
-  "en": "",
-  "status": "todo",
+  "en": "Snipe Glass",
+  "status": "done",
   "slots": [
    "w:2cd4ec"
   ]
@@ -1028,8 +1028,8 @@
  {
   "id": "e:25c708",
   "jp": "世界樹の枯れ枝",
-  "en": "",
-  "status": "todo",
+  "en": "World Tree Twig",
+  "status": "done",
   "slots": [
    "w:2cd4f0"
   ]
@@ -1037,8 +1037,8 @@
  {
   "id": "e:25c718",
   "jp": "世界樹の葉",
-  "en": "",
-  "status": "todo",
+  "en": "World Tree Leaf",
+  "status": "done",
   "slots": [
    "w:2cd4f4"
   ]
@@ -1046,8 +1046,8 @@
  {
   "id": "e:25c724",
   "jp": "センチュリオ・Ｂ",
-  "en": "",
-  "status": "todo",
+  "en": "Centurio B",
+  "status": "done",
   "slots": [
    "w:2cd4f8"
   ]
@@ -1055,8 +1055,8 @@
  {
   "id": "e:25c738",
   "jp": "ダークセイバー",
-  "en": "",
-  "status": "todo",
+  "en": "Dark Saber",
+  "status": "done",
   "slots": [
    "w:2cd4fc"
   ]
@@ -1064,8 +1064,8 @@
  {
   "id": "e:25c748",
   "jp": "ダークマター",
-  "en": "",
-  "status": "todo",
+  "en": "Dark Matter",
+  "status": "done",
   "slots": [
    "w:2cd500"
   ]
@@ -1073,8 +1073,8 @@
  {
   "id": "e:25c758",
   "jp": "大胆ビキニ",
-  "en": "",
-  "status": "todo",
+  "en": "Daring Bikini",
+  "status": "done",
   "slots": [
    "w:2cd504"
   ]
@@ -1082,8 +1082,8 @@
  {
   "id": "e:25c764",
   "jp": "大地の槍のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "Earth Spear Shard",
+  "status": "done",
   "slots": [
    "w:2cd508"
   ]
@@ -1091,8 +1091,8 @@
  {
   "id": "e:25c778",
   "jp": "タイヤキ",
-  "en": "",
-  "status": "todo",
+  "en": "Taiyaki",
+  "status": "done",
   "slots": [
    "w:2cd50c"
   ]
@@ -1100,8 +1100,8 @@
  {
   "id": "e:25c784",
   "jp": "太陽のオーブ",
-  "en": "",
-  "status": "todo",
+  "en": "Orb of the Sun",
+  "status": "done",
   "slots": [
    "w:2cd510"
   ]
@@ -1109,8 +1109,8 @@
  {
   "id": "e:25c794",
   "jp": "ダウジングロッド",
-  "en": "",
-  "status": "todo",
+  "en": "Dowsing Rod",
+  "status": "done",
   "slots": [
    "w:2cd514"
   ]
@@ -1118,8 +1118,8 @@
  {
   "id": "e:25c7a8",
   "jp": "宝の地図",
-  "en": "",
-  "status": "todo",
+  "en": "Treasure Map",
+  "status": "done",
   "slots": [
    "w:2cd518"
   ]
@@ -1127,8 +1127,8 @@
  {
   "id": "e:25c7b4",
   "jp": "黄昏のヴェール",
-  "en": "",
-  "status": "todo",
+  "en": "Twilight Veil",
+  "status": "done",
   "slots": [
    "w:2cd51c"
   ]
@@ -1136,8 +1136,8 @@
  {
   "id": "e:25c7c4",
   "jp": "タネガシマ",
-  "en": "",
-  "status": "todo",
+  "en": "Tanegashima",
+  "status": "done",
   "slots": [
    "w:2cd520"
   ]
@@ -1145,8 +1145,8 @@
  {
   "id": "e:25c7d0",
   "jp": "タマゴのカラ",
-  "en": "",
-  "status": "todo",
+  "en": "Eggshell",
+  "status": "done",
   "slots": [
    "w:2cd524"
   ]
@@ -1154,8 +1154,8 @@
  {
   "id": "e:25c7e0",
   "jp": "小さな胸あて",
-  "en": "",
-  "status": "todo",
+  "en": "Small Breastplate",
+  "status": "done",
   "slots": [
    "w:2cd528"
   ]
@@ -1163,8 +1163,8 @@
  {
   "id": "e:25c7f0",
   "jp": "血濡れのレイピア",
-  "en": "",
-  "status": "todo",
+  "en": "Bloody Rapier",
+  "status": "done",
   "slots": [
    "w:2cd52c"
   ]
@@ -1172,8 +1172,8 @@
  {
   "id": "e:25c804",
   "jp": "珍魚の魚拓",
-  "en": "",
-  "status": "todo",
+  "en": "Rare Fish Print",
+  "status": "done",
   "slots": [
    "w:2cd530"
   ]
@@ -1181,8 +1181,8 @@
  {
   "id": "e:25c810",
   "jp": "デスブリンガー",
-  "en": "",
-  "status": "todo",
+  "en": "Death Bringer",
+  "status": "done",
   "slots": [
    "w:2cd534"
   ]
@@ -1190,8 +1190,8 @@
  {
   "id": "e:25c820",
   "jp": "鉄のチョーカー",
-  "en": "",
-  "status": "todo",
+  "en": "Iron Choker",
+  "status": "done",
   "slots": [
    "w:2cd538"
   ]
@@ -1199,8 +1199,8 @@
  {
   "id": "e:25c830",
   "jp": "鉄の足枷",
-  "en": "",
-  "status": "todo",
+  "en": "Iron Shackles",
+  "status": "done",
   "slots": [
    "w:2cd53c"
   ]
@@ -1208,8 +1208,8 @@
  {
   "id": "e:25c83c",
   "jp": "天空神の剣",
-  "en": "",
-  "status": "todo",
+  "en": "Sky God's Sword",
+  "status": "done",
   "slots": [
    "w:2cd540"
   ]
@@ -1217,8 +1217,8 @@
  {
   "id": "e:25c848",
   "jp": "伝説の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Legend Cannon",
+  "status": "done",
   "slots": [
    "w:2cd544"
   ]
@@ -1226,8 +1226,8 @@
  {
   "id": "e:25c854",
   "jp": "ドクロのピストル",
-  "en": "",
-  "status": "todo",
+  "en": "Skull Pistol",
+  "status": "done",
   "slots": [
    "w:2cd548"
   ]
@@ -1235,8 +1235,8 @@
  {
   "id": "e:25c868",
   "jp": "ドクロ石",
-  "en": "",
-  "status": "todo",
+  "en": "Skull Stone",
+  "status": "done",
   "slots": [
    "w:2cd54c"
   ]
@@ -1244,8 +1244,8 @@
  {
   "id": "e:25c874",
   "jp": "トゲトゲトラフグ",
-  "en": "",
-  "status": "todo",
+  "en": "Spiky Pufferfish",
+  "status": "done",
   "slots": [
    "w:2cd550"
   ]
@@ -1253,8 +1253,8 @@
  {
   "id": "e:25c888",
   "jp": "飛び魚のサンダル",
-  "en": "",
-  "status": "todo",
+  "en": "Flying Fish Sandals",
+  "status": "done",
   "slots": [
    "w:2cd554"
   ]
@@ -1262,8 +1262,8 @@
  {
   "id": "e:25c89c",
   "jp": "トラップ",
-  "en": "",
-  "status": "todo",
+  "en": "Trap",
+  "status": "done",
   "slots": [
    "w:2cd558"
   ]
@@ -1271,8 +1271,8 @@
  {
   "id": "e:25c8a8",
   "jp": "ド派手なターバン",
-  "en": "",
-  "status": "todo",
+  "en": "Gaudy Turban",
+  "status": "done",
   "slots": [
    "w:2cd55c"
   ]
@@ -1280,8 +1280,8 @@
  {
   "id": "e:25c8bc",
   "jp": "ナイトキラー",
-  "en": "",
-  "status": "todo",
+  "en": "Night Killer",
+  "status": "done",
   "slots": [
    "w:2cd560"
   ]
@@ -1289,8 +1289,8 @@
  {
   "id": "e:25c8cc",
   "jp": "ナイトスコープ",
-  "en": "",
-  "status": "todo",
+  "en": "Night Scope",
+  "status": "done",
   "slots": [
    "w:2cd564"
   ]
@@ -1298,8 +1298,8 @@
  {
   "id": "e:25c8dc",
   "jp": "ナイトメア",
-  "en": "",
-  "status": "todo",
+  "en": "Nightmare",
+  "status": "done",
   "slots": [
    "w:2cd568"
   ]
@@ -1307,8 +1307,8 @@
  {
   "id": "e:25c8e8",
   "jp": "ナマクラソード",
-  "en": "",
-  "status": "todo",
+  "en": "Blunt Sword",
+  "status": "done",
   "slots": [
    "w:2cd56c"
   ]
@@ -1316,8 +1316,8 @@
  {
   "id": "e:25c8f8",
   "jp": "南国フルーツ",
-  "en": "",
-  "status": "todo",
+  "en": "Tropical Fruit",
+  "status": "done",
   "slots": [
    "w:2cd570"
   ]
@@ -1325,8 +1325,8 @@
  {
   "id": "e:25c908",
   "jp": "ニヴルグリーブ",
-  "en": "",
-  "status": "todo",
+  "en": "Nifl Greaves",
+  "status": "done",
   "slots": [
    "w:2cd574"
   ]
@@ -1334,8 +1334,8 @@
  {
   "id": "e:25c918",
   "jp": "バーニングサン",
-  "en": "",
-  "status": "todo",
+  "en": "Burning Sun",
+  "status": "done",
   "slots": [
    "w:2cd578"
   ]
@@ -1343,8 +1343,8 @@
  {
   "id": "e:25c928",
   "jp": "ハイパードリル",
-  "en": "",
-  "status": "todo",
+  "en": "Hyper Drill",
+  "status": "done",
   "slots": [
    "w:2cd57c"
   ]
@@ -1352,8 +1352,8 @@
  {
   "id": "e:25c938",
   "jp": "ハイパーリング",
-  "en": "",
-  "status": "todo",
+  "en": "Hyper Ring",
+  "status": "done",
   "slots": [
    "w:2cd580"
   ]
@@ -1361,8 +1361,8 @@
  {
   "id": "e:25c948",
   "jp": "鋼の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Steel Cannon",
+  "status": "done",
   "slots": [
    "w:2cd584"
   ]
@@ -1370,8 +1370,8 @@
  {
   "id": "e:25c954",
   "jp": "ハチマキ",
-  "en": "",
-  "status": "todo",
+  "en": "Headband",
+  "status": "done",
   "slots": [
    "w:2cd588"
   ]
@@ -1379,8 +1379,8 @@
  {
   "id": "e:25c960",
   "jp": "発芽プロテイモ",
-  "en": "",
-  "status": "todo",
+  "en": "Sprouted Protato",
+  "status": "done",
   "slots": [
    "w:2cd58c"
   ]
@@ -1388,8 +1388,8 @@
  {
   "id": "e:25c970",
   "jp": "バナナンの実",
-  "en": "",
-  "status": "todo",
+  "en": "Bananan Fruit",
+  "status": "done",
   "slots": [
    "w:2cd590"
   ]
@@ -1397,8 +1397,8 @@
  {
   "id": "e:25c980",
   "jp": "パメラのほうき",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela's Broom",
+  "status": "done",
   "slots": [
    "w:2cd594"
   ]
@@ -1406,8 +1406,8 @@
  {
   "id": "e:25c990",
   "jp": "パラディンランス",
-  "en": "",
-  "status": "todo",
+  "en": "Paladin Lance",
+  "status": "done",
   "slots": [
    "w:2cd598"
   ]
@@ -1415,8 +1415,8 @@
  {
   "id": "e:25c9a4",
   "jp": "ビーストファング",
-  "en": "",
-  "status": "todo",
+  "en": "Beast Fang",
+  "status": "done",
   "slots": [
    "w:2cd59c"
   ]
@@ -1424,8 +1424,8 @@
  {
   "id": "e:25c9b8",
   "jp": "ビーチサンダル",
-  "en": "",
-  "status": "todo",
+  "en": "Beach Sandals",
+  "status": "done",
   "slots": [
    "w:2cd5a0"
   ]
@@ -1433,8 +1433,8 @@
  {
   "id": "e:25c9c8",
   "jp": "干からびたトカゲ",
-  "en": "",
-  "status": "todo",
+  "en": "Dried-Up Lizard",
+  "status": "done",
   "slots": [
    "w:2cd5a4"
   ]
@@ -1442,8 +1442,8 @@
  {
   "id": "e:25c9dc",
   "jp": "光の海域のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "Light Sea Shard",
+  "status": "done",
   "slots": [
    "w:2cd5a8"
   ]
@@ -1451,8 +1451,8 @@
  {
   "id": "e:25c9f0",
   "jp": "悲槍シルヴィア",
-  "en": "",
-  "status": "todo",
+  "en": "Grief Spear Sylvia",
+  "status": "done",
   "slots": [
    "w:2cd5ac"
   ]
@@ -1460,8 +1460,8 @@
  {
   "id": "e:25ca00",
   "jp": "ヒヅメシューズ",
-  "en": "",
-  "status": "todo",
+  "en": "Hoof Shoes",
+  "status": "done",
   "slots": [
    "w:2cd5b0"
   ]
@@ -1469,8 +1469,8 @@
  {
   "id": "e:25ca10",
   "jp": "漂流日記",
-  "en": "",
-  "status": "todo",
+  "en": "Castaway's Diary",
+  "status": "done",
   "slots": [
    "w:2cd5b4"
   ]
@@ -1478,8 +1478,8 @@
  {
   "id": "e:25ca1c",
   "jp": "ひらひらリボン",
-  "en": "",
-  "status": "todo",
+  "en": "Fluttery Ribbon",
+  "status": "done",
   "slots": [
    "w:2cd5b8"
   ]
@@ -1487,8 +1487,8 @@
  {
   "id": "e:25ca2c",
   "jp": "ビンに入った手紙",
-  "en": "",
-  "status": "todo",
+  "en": "Letter in a Bottle",
+  "status": "done",
   "slots": [
    "w:2cd5bc"
   ]
@@ -1496,8 +1496,8 @@
  {
   "id": "e:25ca40",
   "jp": "ビンの中の海ドゼウ",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Loach Jar",
+  "status": "done",
   "slots": [
    "w:2cd5c0"
   ]
@@ -1505,8 +1505,8 @@
  {
   "id": "e:25ca54",
   "jp": "ファドペンダント",
-  "en": "",
-  "status": "todo",
+  "en": "Fado Pendant",
+  "status": "done",
   "slots": [
    "w:2cd5c4"
   ]
@@ -1514,8 +1514,8 @@
  {
   "id": "e:25ca68",
   "jp": "フェルマータベル",
-  "en": "",
-  "status": "todo",
+  "en": "Fermata Bell",
+  "status": "done",
   "slots": [
    "w:2cd5c8"
   ]
@@ -1523,8 +1523,8 @@
  {
   "id": "e:25ca7c",
   "jp": "フォーミュラー",
-  "en": "",
-  "status": "todo",
+  "en": "Formula",
+  "status": "done",
   "slots": [
    "w:2cd5cc"
   ]
@@ -1532,8 +1532,8 @@
  {
   "id": "e:25ca8c",
   "jp": "船乗りのオキテ１巻",
-  "en": "",
-  "status": "todo",
+  "en": "Sailor's Code 1",
+  "status": "done",
   "slots": [
    "w:2cd5d0"
   ]
@@ -1541,8 +1541,8 @@
  {
   "id": "e:25caa0",
   "jp": "船乗りのオキテ２巻",
-  "en": "",
-  "status": "todo",
+  "en": "Sailor's Code 2",
+  "status": "done",
   "slots": [
    "w:2cd5d4"
   ]
@@ -1550,8 +1550,8 @@
  {
   "id": "e:25cab4",
   "jp": "船乗りのオキテ３巻",
-  "en": "",
-  "status": "todo",
+  "en": "Sailor's Code 3",
+  "status": "done",
   "slots": [
    "w:2cd5d8"
   ]
@@ -1559,8 +1559,8 @@
  {
   "id": "e:25cac8",
   "jp": "プラズマショット",
-  "en": "",
-  "status": "todo",
+  "en": "Plasma Shot",
+  "status": "done",
   "slots": [
    "w:2cd5dc"
   ]
@@ -1568,8 +1568,8 @@
  {
   "id": "e:25cadc",
   "jp": "プラチナの髪飾り",
-  "en": "",
-  "status": "todo",
+  "en": "Platinum Hairpin",
+  "status": "done",
   "slots": [
    "w:2cd5e0"
   ]
@@ -1577,8 +1577,8 @@
  {
   "id": "e:25caf0",
   "jp": "プラチナバッジ",
-  "en": "",
-  "status": "todo",
+  "en": "Platinum Badge",
+  "status": "done",
   "slots": [
    "w:2cd5e4"
   ]
@@ -1586,8 +1586,8 @@
  {
   "id": "e:25cb00",
   "jp": "ブラックマリア",
-  "en": "",
-  "status": "todo",
+  "en": "Black Maria",
+  "status": "done",
   "slots": [
    "w:2cd5e8"
   ]
@@ -1595,8 +1595,8 @@
  {
   "id": "e:25cb10",
   "jp": "プランクサンダル",
-  "en": "",
-  "status": "todo",
+  "en": "Plank Sandals",
+  "status": "done",
   "slots": [
    "w:2cd5ec"
   ]
@@ -1604,8 +1604,8 @@
  {
   "id": "e:25cb24",
   "jp": "フランベルジェ",
-  "en": "",
-  "status": "todo",
+  "en": "Flamberge",
+  "status": "done",
   "slots": [
    "w:2cd5f0"
   ]
@@ -1613,8 +1613,8 @@
  {
   "id": "e:25cb34",
   "jp": "ブレイヴリング",
-  "en": "",
-  "status": "todo",
+  "en": "Brave Ring",
+  "status": "done",
   "slots": [
    "w:2cd5f4"
   ]
@@ -1622,8 +1622,8 @@
  {
   "id": "e:25cb44",
   "jp": "プロテイモ",
-  "en": "",
-  "status": "todo",
+  "en": "Protato",
+  "status": "done",
   "slots": [
    "w:2cd5f8"
   ]
@@ -1631,8 +1631,8 @@
  {
   "id": "e:25cb50",
   "jp": "ブロンズシールド",
-  "en": "",
-  "status": "todo",
+  "en": "Bronze Shield",
+  "status": "done",
   "slots": [
    "w:2cd5fc"
   ]
@@ -1640,8 +1640,8 @@
  {
   "id": "e:25cb64",
   "jp": "ベルトポーチ",
-  "en": "",
-  "status": "todo",
+  "en": "Belt Pouch",
+  "status": "done",
   "slots": [
    "w:2cd600"
   ]
@@ -1649,8 +1649,8 @@
  {
   "id": "e:25cb74",
   "jp": "ペロペロキャンディ",
-  "en": "",
-  "status": "todo",
+  "en": "Lollipop",
+  "status": "done",
   "slots": [
    "w:2cd604"
   ]
@@ -1658,8 +1658,8 @@
  {
   "id": "e:25cb88",
   "jp": "ほころびたロザリオ",
-  "en": "",
-  "status": "todo",
+  "en": "Frayed Rosary",
+  "status": "done",
   "slots": [
    "w:2cd608"
   ]
@@ -1667,8 +1667,8 @@
  {
   "id": "e:25cb9c",
   "jp": "星屑の砂時計",
-  "en": "",
-  "status": "todo",
+  "en": "Star Hourglass",
+  "status": "done",
   "slots": [
    "w:2cd60c"
   ]
@@ -1676,8 +1676,8 @@
  {
   "id": "e:25cbac",
   "jp": "ホタテの王様",
-  "en": "",
-  "status": "todo",
+  "en": "King of Scallops",
+  "status": "done",
   "slots": [
    "w:2cd610"
   ]
@@ -1685,8 +1685,8 @@
  {
   "id": "e:25cbbc",
   "jp": "北海熊の毛皮",
-  "en": "",
-  "status": "todo",
+  "en": "Polar Bear Pelt",
+  "status": "done",
   "slots": [
    "w:2cd614"
   ]
@@ -1694,8 +1694,8 @@
  {
   "id": "e:25cbcc",
   "jp": "北海熊のコート",
-  "en": "",
-  "status": "todo",
+  "en": "Polar Bear Coat",
+  "status": "done",
   "slots": [
    "w:2cd618"
   ]
@@ -1703,8 +1703,8 @@
  {
   "id": "e:25cbdc",
   "jp": "ボロ布",
-  "en": "",
-  "status": "todo",
+  "en": "Rag",
+  "status": "done",
   "slots": [
    "w:2cd61c"
   ]
@@ -1712,8 +1712,8 @@
  {
   "id": "e:25cbe4",
   "jp": "マージリング",
-  "en": "",
-  "status": "todo",
+  "en": "Merge Ring",
+  "status": "done",
   "slots": [
    "w:2cd620"
   ]
@@ -1721,8 +1721,8 @@
  {
   "id": "e:25cbf4",
   "jp": "マーメイドフィン",
-  "en": "",
-  "status": "todo",
+  "en": "Mermaid Fin",
+  "status": "done",
   "slots": [
    "w:2cd624"
   ]
@@ -1730,8 +1730,8 @@
  {
   "id": "e:25cc08",
   "jp": "マジカルソード",
-  "en": "",
-  "status": "todo",
+  "en": "Magical Sword",
+  "status": "done",
   "slots": [
    "w:2cd628"
   ]
@@ -1739,8 +1739,8 @@
  {
   "id": "e:25cc18",
   "jp": "魔水晶",
-  "en": "",
-  "status": "todo",
+  "en": "Magic Crystal",
+  "status": "done",
   "slots": [
    "w:2cd62c"
   ]
@@ -1748,8 +1748,8 @@
  {
   "id": "e:25cc20",
   "jp": "魔槍ブラシェンド",
-  "en": "",
-  "status": "todo",
+  "en": "Brachend Spear",
+  "status": "done",
   "slots": [
    "w:2cd630"
   ]
@@ -1757,8 +1757,8 @@
  {
   "id": "e:25cc34",
   "jp": "真っ白な珍しい蝶",
-  "en": "",
-  "status": "todo",
+  "en": "Snow Butterfly",
+  "status": "done",
   "slots": [
    "w:2cd634"
   ]
@@ -1766,8 +1766,8 @@
  {
   "id": "e:25cc48",
   "jp": "魔法めがね",
-  "en": "",
-  "status": "todo",
+  "en": "Magic Glasses",
+  "status": "done",
   "slots": [
    "w:2cd638"
   ]
@@ -1775,8 +1775,8 @@
  {
   "id": "e:25cc54",
   "jp": "まやかしの笛",
-  "en": "",
-  "status": "todo",
+  "en": "Illusion Flute",
+  "status": "done",
   "slots": [
    "w:2cd63c"
   ]
@@ -1784,8 +1784,8 @@
  {
   "id": "e:25cc64",
   "jp": "マルスの大盾",
-  "en": "",
-  "status": "todo",
+  "en": "Shield of Mars",
+  "status": "done",
   "slots": [
    "w:2cd640"
   ]
@@ -1793,8 +1793,8 @@
  {
   "id": "e:25cc74",
   "jp": "マンタの魚拓",
-  "en": "",
-  "status": "todo",
+  "en": "Manta Fish Print",
+  "status": "done",
   "slots": [
    "w:2cd644"
   ]
@@ -1802,8 +1802,8 @@
  {
   "id": "e:25cc84",
   "jp": "マンタのマント",
-  "en": "",
-  "status": "todo",
+  "en": "Manta Mantle",
+  "status": "done",
   "slots": [
    "w:2cd648"
   ]
@@ -1811,8 +1811,8 @@
  {
   "id": "e:25cc94",
   "jp": "ミーティア",
-  "en": "",
-  "status": "todo",
+  "en": "Meteor",
+  "status": "done",
   "slots": [
    "w:2cd64c"
   ]
@@ -1820,8 +1820,8 @@
  {
   "id": "e:25cca0",
   "jp": "ミスティーコート",
-  "en": "",
-  "status": "todo",
+  "en": "Misty Coat",
+  "status": "done",
   "slots": [
    "w:2cd650"
   ]
@@ -1829,8 +1829,8 @@
  {
   "id": "e:25ccb4",
   "jp": "ミストルティン",
-  "en": "",
-  "status": "todo",
+  "en": "Mistilteinn",
+  "status": "done",
   "slots": [
    "w:2cd654"
   ]
@@ -1838,8 +1838,8 @@
  {
   "id": "e:25ccc4",
   "jp": "ミネラルリーフ",
-  "en": "",
-  "status": "todo",
+  "en": "Mineral Leaf",
+  "status": "done",
   "slots": [
    "w:2cd658"
   ]
@@ -1847,8 +1847,8 @@
  {
   "id": "e:25ccd4",
   "jp": "ミラージュコート",
-  "en": "",
-  "status": "todo",
+  "en": "Mirage Coat",
+  "status": "done",
   "slots": [
    "w:2cd65c"
   ]
@@ -1856,8 +1856,8 @@
  {
   "id": "e:25cce8",
   "jp": "魅惑のビスチェ",
-  "en": "",
-  "status": "todo",
+  "en": "Alluring Bustier",
+  "status": "done",
   "slots": [
    "w:2cd660"
   ]
@@ -1865,8 +1865,8 @@
  {
   "id": "e:25ccf8",
   "jp": "麦わら帽子",
-  "en": "",
-  "status": "todo",
+  "en": "Straw Hat",
+  "status": "done",
   "slots": [
    "w:2cd664"
   ]
@@ -1874,8 +1874,8 @@
  {
   "id": "e:25cd04",
   "jp": "虫カゴ",
-  "en": "",
-  "status": "todo",
+  "en": "Bug Cage",
+  "status": "done",
   "slots": [
    "w:2cd668"
   ]
@@ -1883,8 +1883,8 @@
  {
   "id": "e:25cd0c",
   "jp": "名馬ワードナ",
-  "en": "",
-  "status": "todo",
+  "en": "Steed Wardna",
+  "status": "done",
   "slots": [
    "w:2cd66c"
   ]
@@ -1892,8 +1892,8 @@
  {
   "id": "e:25cd1c",
   "jp": "目隠しの布",
-  "en": "",
-  "status": "todo",
+  "en": "Blindfold",
+  "status": "done",
   "slots": [
    "w:2cd670"
   ]
@@ -1901,8 +1901,8 @@
  {
   "id": "e:25cd28",
   "jp": "メルヘン偽翼",
-  "en": "",
-  "status": "todo",
+  "en": "Fairy-Tale Wings",
+  "status": "done",
   "slots": [
    "w:2cd674"
   ]
@@ -1910,8 +1910,8 @@
  {
   "id": "e:25cd38",
   "jp": "モヴモヴの実",
-  "en": "",
-  "status": "todo",
+  "en": "Movmov Fruit",
+  "status": "done",
   "slots": [
    "w:2cd678"
   ]
@@ -1919,8 +1919,8 @@
  {
   "id": "e:25cd48",
   "jp": "モーニングドレス",
-  "en": "",
-  "status": "todo",
+  "en": "Morning Dress",
+  "status": "done",
   "slots": [
    "w:2cd67c"
   ]
@@ -1928,8 +1928,8 @@
  {
   "id": "e:25cd5c",
   "jp": "闇の邪域のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "Dark Realm Shard",
+  "status": "done",
   "slots": [
    "w:2cd680"
   ]
@@ -1937,8 +1937,8 @@
  {
   "id": "e:25cd70",
   "jp": "闇夜のローブ",
-  "en": "",
-  "status": "todo",
+  "en": "Dark Night Robe",
+  "status": "done",
   "slots": [
    "w:2cd684"
   ]
@@ -1946,8 +1946,8 @@
  {
   "id": "e:25cd80",
   "jp": "ユーフォリアの紋章",
-  "en": "",
-  "status": "todo",
+  "en": "Euforian Crest",
+  "status": "done",
   "slots": [
    "w:2cd688"
   ]
@@ -1955,8 +1955,8 @@
  {
   "id": "e:25cd94",
   "jp": "ユーフォリア歴史書",
-  "en": "",
-  "status": "todo",
+  "en": "Euforian History",
+  "status": "done",
   "slots": [
    "w:2cd68c"
   ]
@@ -1964,8 +1964,8 @@
  {
   "id": "e:25cda8",
   "jp": "幽霊海賊の人形",
-  "en": "",
-  "status": "todo",
+  "en": "Ghost Pirate Doll",
+  "status": "done",
   "slots": [
    "w:2cd690"
   ]
@@ -1973,8 +1973,8 @@
  {
   "id": "e:25cdb8",
   "jp": "夢見の帽子",
-  "en": "",
-  "status": "todo",
+  "en": "Dreamer's Hat",
+  "status": "done",
   "slots": [
    "w:2cd694"
   ]
@@ -1982,8 +1982,8 @@
  {
   "id": "e:25cdc4",
   "jp": "妖精石のブローチ",
-  "en": "",
-  "status": "todo",
+  "en": "Fairy Brooch",
+  "status": "done",
   "slots": [
    "w:2cd698"
   ]
@@ -1991,8 +1991,8 @@
  {
   "id": "e:25cdd8",
   "jp": "妖刀夜叉",
-  "en": "",
-  "status": "todo",
+  "en": "Cursed Yasha",
+  "status": "done",
   "slots": [
    "w:2cd69c"
   ]
@@ -2000,8 +2000,8 @@
  {
   "id": "e:25cde4",
   "jp": "四葉のクローバー",
-  "en": "",
-  "status": "todo",
+  "en": "Four-Leaf Clover",
+  "status": "done",
   "slots": [
    "w:2cd6a0"
   ]
@@ -2009,8 +2009,8 @@
  {
   "id": "e:25cdf8",
   "jp": "ラカンの秘薬",
-  "en": "",
-  "status": "todo",
+  "en": "Rakan's Elixir",
+  "status": "done",
   "slots": [
    "w:2cd6a4"
   ]
@@ -2018,8 +2018,8 @@
  {
   "id": "e:25ce08",
   "jp": "ラッキーブルーム",
-  "en": "",
-  "status": "todo",
+  "en": "Lucky Broom",
+  "status": "done",
   "slots": [
    "w:2cd6a8"
   ]
@@ -2027,8 +2027,8 @@
  {
   "id": "e:25ce1c",
   "jp": "ラピッドアックス",
-  "en": "",
-  "status": "todo",
+  "en": "Rapid Axe",
+  "status": "done",
   "slots": [
    "w:2cd6ac"
   ]
@@ -2036,8 +2036,8 @@
  {
   "id": "e:25ce30",
   "jp": "リヴェンジャー",
-  "en": "",
-  "status": "todo",
+  "en": "Revenger",
+  "status": "done",
   "slots": [
    "w:2cd6b0"
   ]
@@ -2045,8 +2045,8 @@
  {
   "id": "e:25ce40",
   "jp": "リベリオンフォース",
-  "en": "",
-  "status": "todo",
+  "en": "Rebellion Force",
+  "status": "done",
   "slots": [
    "w:2cd6b4"
   ]
@@ -2054,8 +2054,8 @@
  {
   "id": "e:25ce54",
   "jp": "流星の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Meteor Cannon",
+  "status": "done",
   "slots": [
    "w:2cd6b8"
   ]
@@ -2063,8 +2063,8 @@
  {
   "id": "e:25ce60",
   "jp": "輪廻の泪",
-  "en": "",
-  "status": "todo",
+  "en": "Tears of Rebirth",
+  "status": "done",
   "slots": [
    "w:2cd6bc"
   ]
@@ -2072,8 +2072,8 @@
  {
   "id": "e:25ce6c",
   "jp": "ルビースタッフ",
-  "en": "",
-  "status": "todo",
+  "en": "Ruby Staff",
+  "status": "done",
   "slots": [
    "w:2cd6c0"
   ]
@@ -2081,8 +2081,8 @@
  {
   "id": "e:25ce7c",
   "jp": "レースのハンカチ",
-  "en": "",
-  "status": "todo",
+  "en": "Lace Hankie",
+  "status": "done",
   "slots": [
    "w:2cd6c4"
   ]
@@ -2090,8 +2090,8 @@
  {
   "id": "e:25ce90",
   "jp": "歴戦のバンダナ",
-  "en": "",
-  "status": "todo",
+  "en": "Veteran Bandana",
+  "status": "done",
   "slots": [
    "w:2cd6c8"
   ]
@@ -2099,8 +2099,8 @@
  {
   "id": "e:25cea0",
   "jp": "レッドクリムゾン",
-  "en": "",
-  "status": "todo",
+  "en": "Red Crimson",
+  "status": "done",
   "slots": [
    "w:2cd6cc"
   ]
@@ -2108,8 +2108,8 @@
  {
   "id": "e:25ceb4",
   "jp": "錬金のモノクル",
-  "en": "",
-  "status": "todo",
+  "en": "Alchemy Monocle",
+  "status": "done",
   "slots": [
    "w:2cd6d0"
   ]
@@ -2117,8 +2117,8 @@
  {
   "id": "e:25cec4",
   "jp": "レンジャーブーツ",
-  "en": "",
-  "status": "todo",
+  "en": "Ranger Boots",
+  "status": "done",
   "slots": [
    "w:2cd6d4"
   ]
@@ -2126,8 +2126,8 @@
  {
   "id": "e:25ced8",
   "jp": "牢屋のカギ",
-  "en": "",
-  "status": "todo",
+  "en": "Cell Key",
+  "status": "done",
   "slots": [
    "w:2cd6d8"
   ]
@@ -2135,8 +2135,8 @@
  {
   "id": "e:25cee4",
   "jp": "ロープ",
-  "en": "",
-  "status": "todo",
+  "en": "Rope",
+  "status": "done",
   "slots": [
    "w:2cd6dc"
   ]
@@ -2144,8 +2144,8 @@
  {
   "id": "e:25ceec",
   "jp": "ロストマテリアル",
-  "en": "",
-  "status": "todo",
+  "en": "Lost Material",
+  "status": "done",
   "slots": [
    "w:2cd6e0"
   ]
@@ -2153,8 +2153,8 @@
  {
   "id": "e:25cf00",
   "jp": "ワープシューズ",
-  "en": "",
-  "status": "todo",
+  "en": "Warp Shoes",
+  "status": "done",
   "slots": [
    "w:2cd6e4"
   ]
@@ -2162,8 +2162,8 @@
  {
   "id": "e:25cf10",
   "jp": "■璽カエサル",
-  "en": "",
-  "status": "todo",
+  "en": "R■yal Seal Caesar",
+  "status": "done",
   "slots": [
    "w:2cd6e8"
   ]
@@ -2171,8 +2171,8 @@
  {
   "id": "e:25cf20",
   "jp": "■璽カエ■ル",
-  "en": "",
-  "status": "todo",
+  "en": "R■yal Seal Cae■ar",
+  "status": "done",
   "slots": [
    "w:2cd6ec"
   ]
@@ -2180,8 +2180,8 @@
  {
   "id": "e:25cf30",
   "jp": "■■カエ■ル",
-  "en": "",
-  "status": "todo",
+  "en": "R■y■l S■al Cae■ar",
+  "status": "done",
   "slots": [
    "w:2cd6f0"
   ]
@@ -2189,8 +2189,8 @@
  {
   "id": "e:25cf40",
   "jp": "■■カ■■ル",
-  "en": "",
-  "status": "todo",
+  "en": "■■y■l S■■l C■e■■r",
+  "status": "done",
   "slots": [
    "w:2cd6f4"
   ]
@@ -2198,8 +2198,8 @@
  {
   "id": "e:25cf50",
   "jp": "■■■■■ル",
-  "en": "",
-  "status": "todo",
+  "en": "■■■■■ ■■■■ ■■■■■r",
+  "status": "done",
   "slots": [
    "w:2cd6f8"
   ]
@@ -2207,8 +2207,8 @@
  {
   "id": "e:25cf70",
   "jp": "メダリオン",
-  "en": "",
-  "status": "todo",
+  "en": "Medallion",
+  "status": "done",
   "slots": [
    "w:2cd700"
   ]

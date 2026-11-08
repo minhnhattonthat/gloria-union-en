@@ -222,8 +222,8 @@
  {
   "id": "s2052:003ae",
   "jp": "トレイシー",
-  "en": "",
-  "status": "todo",
+  "en": "Tracey",
+  "status": "done",
   "slots": [
    "0x26d7"
   ],
@@ -1649,8 +1649,8 @@
  {
   "id": "s2052:02134t",
   "jp": "レバレッジ商団",
-  "en": "",
-  "status": "todo",
+  "en": "Leverage Guild",
+  "status": "done",
   "at": "0x2137",
   "max": 14,
   "who": "team name"

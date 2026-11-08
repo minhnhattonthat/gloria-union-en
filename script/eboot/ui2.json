@@ -503,8 +503,8 @@
  {
   "id": "e:254f80",
   "jp": "イシュト",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut",
+  "status": "done",
   "slots": [
    "w:2c8748"
   ]
@@ -512,8 +512,8 @@
  {
   "id": "e:254f8c",
   "jp": "ピンガー",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger",
+  "status": "done",
   "slots": [
    "w:2c874c"
   ]
@@ -521,8 +521,8 @@
  {
   "id": "e:254f98",
   "jp": "ルルゥ",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru",
+  "status": "done",
   "slots": [
    "w:2c8750"
   ]
@@ -530,8 +530,8 @@
  {
   "id": "e:254fa0",
   "jp": "ザザーランド",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland",
+  "status": "done",
   "slots": [
    "w:2c8754"
   ]
@@ -539,8 +539,8 @@
  {
   "id": "e:254fb0",
   "jp": "エリーシャ",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha",
+  "status": "done",
   "slots": [
    "w:2c8758"
   ]
@@ -548,8 +548,8 @@
  {
   "id": "e:254fbc",
   "jp": "ミネソタ",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota",
+  "status": "done",
   "slots": [
    "w:2c875c"
   ]
@@ -557,8 +557,8 @@
  {
   "id": "e:254fc8",
   "jp": "ロコモコ",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco",
+  "status": "done",
   "slots": [
    "w:2c8760"
   ]
@@ -566,8 +566,8 @@
  {
   "id": "e:254fd4",
   "jp": "ラズベリー",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry",
+  "status": "done",
   "slots": [
    "w:2c8764"
   ]
@@ -575,8 +575,8 @@
  {
   "id": "e:254fe0",
   "jp": "ガング",
-  "en": "",
-  "status": "todo",
+  "en": "Gangr",
+  "status": "done",
   "slots": [
    "w:2c8768"
   ]
@@ -584,8 +584,8 @@
  {
   "id": "e:254fe8",
   "jp": "フィービー",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee",
+  "status": "done",
   "slots": [
    "w:2c876c"
   ]
@@ -593,8 +593,8 @@
  {
   "id": "e:254ff4",
   "jp": "アンヌ",
-  "en": "",
-  "status": "todo",
+  "en": "Anne",
+  "status": "done",
   "slots": [
    "w:2c8770"
   ]
@@ -602,8 +602,8 @@
  {
   "id": "e:254ffc",
   "jp": "カミュル",
-  "en": "",
-  "status": "todo",
+  "en": "Kamuru",
+  "status": "done",
   "slots": [
    "w:2c8774"
   ]
@@ -611,8 +611,8 @@
  {
   "id": "e:255008",
   "jp": "ユグドラ",
-  "en": "",
-  "status": "todo",
+  "en": "Yggdra",
+  "status": "done",
   "slots": [
    "w:2c8778"
   ]
@@ -620,8 +620,8 @@
  {
   "id": "e:255014",
   "jp": "パメラ",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela",
+  "status": "done",
   "slots": [
    "w:2c877c"
   ]
@@ -629,8 +629,8 @@
  {
   "id": "e:25501c",
   "jp": "イータ",
-  "en": "",
-  "status": "todo",
+  "en": "Eater",
+  "status": "done",
   "slots": [
    "w:2c8780"
   ]
@@ -5680,8 +5680,8 @@
  {
   "id": "e:258e3c",
   "jp": "イシュト",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut",
+  "status": "done",
   "slots": [
    "w:2cb140"
   ]
@@ -5689,8 +5689,8 @@
  {
   "id": "e:258e48",
   "jp": "ピンガー",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger",
+  "status": "done",
   "slots": [
    "w:2cb144"
   ]
@@ -5698,8 +5698,8 @@
  {
   "id": "e:258e54",
   "jp": "ルルゥ",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru",
+  "status": "done",
   "slots": [
    "w:2cb148"
   ]
@@ -5707,8 +5707,8 @@
  {
   "id": "e:258e5c",
   "jp": "ザザーランド",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland",
+  "status": "done",
   "slots": [
    "w:2cb14c"
   ]
@@ -5716,8 +5716,8 @@
  {
   "id": "e:258e6c",
   "jp": "エリーシャ",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha",
+  "status": "done",
   "slots": [
    "w:2cb150"
   ]
@@ -5725,8 +5725,8 @@
  {
   "id": "e:258e78",
   "jp": "ミネソタ",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota",
+  "status": "done",
   "slots": [
    "w:2cb154"
   ]
@@ -5734,8 +5734,8 @@
  {
   "id": "e:258e84",
   "jp": "ロコモコ",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco",
+  "status": "done",
   "slots": [
    "w:2cb158"
   ]
@@ -5743,8 +5743,8 @@
  {
   "id": "e:258e90",
   "jp": "ラズベリー",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry",
+  "status": "done",
   "slots": [
    "w:2cb15c"
   ]
@@ -5752,8 +5752,8 @@
  {
   "id": "e:258e9c",
   "jp": "ガング",
-  "en": "",
-  "status": "todo",
+  "en": "Gangr",
+  "status": "done",
   "slots": [
    "w:2cb160"
   ]
@@ -5761,8 +5761,8 @@
  {
   "id": "e:258ea4",
   "jp": "フィービー",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee",
+  "status": "done",
   "slots": [
    "w:2cb164"
   ]
@@ -5770,8 +5770,8 @@
  {
   "id": "e:258eb0",
   "jp": "アンヌ",
-  "en": "",
-  "status": "todo",
+  "en": "Anne",
+  "status": "done",
   "slots": [
    "w:2cb168"
   ]
@@ -5779,8 +5779,8 @@
  {
   "id": "e:258eb8",
   "jp": "カミュル",
-  "en": "",
-  "status": "todo",
+  "en": "Kamuru",
+  "status": "done",
   "slots": [
    "w:2cb16c"
   ]
@@ -5788,8 +5788,8 @@
  {
   "id": "e:258ec4",
   "jp": "ユグドラ",
-  "en": "",
-  "status": "todo",
+  "en": "Yggdra",
+  "status": "done",
   "slots": [
    "w:2cb170"
   ]
@@ -5797,8 +5797,8 @@
  {
   "id": "e:258ed0",
   "jp": "パメラ",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela",
+  "status": "done",
   "slots": [
    "w:2cb174"
   ]
@@ -5806,8 +5806,8 @@
  {
   "id": "e:258ed8",
   "jp": "イータ",
-  "en": "",
-  "status": "todo",
+  "en": "Eater",
+  "status": "done",
   "slots": [
    "w:2cb178"
   ]

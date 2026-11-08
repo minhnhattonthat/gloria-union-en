@@ -2520,8 +2520,8 @@
  {
   "id": "s2059:02a82t",
   "jp": "ゴロツキ",
-  "en": "",
-  "status": "todo",
+  "en": "Thug",
+  "status": "done",
   "at": "0x2a85",
   "max": 8,
   "who": "team name"

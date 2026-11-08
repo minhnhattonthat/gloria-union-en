@@ -1385,8 +1385,8 @@
  {
   "id": "e:2c482b",
   "jp": "ヴェネステ村",
-  "en": "",
-  "status": "todo",
+  "en": "Veneste Village",
+  "status": "done",
   "slots": [
    "w:2c5c20"
   ]
@@ -1403,8 +1403,8 @@
  {
   "id": "e:2c486f",
   "jp": "森の中の病院",
-  "en": "",
-  "status": "todo",
+  "en": "Forest Hospital",
+  "status": "done",
   "slots": [
    "w:2c5c2c"
   ]
@@ -1421,8 +1421,8 @@
  {
   "id": "e:2c48ad",
   "jp": "カンコウ村",
-  "en": "",
-  "status": "todo",
+  "en": "Kanko Village",
+  "status": "done",
   "slots": [
    "w:2c5c38"
   ]
@@ -1439,8 +1439,8 @@
  {
   "id": "e:2c48df",
   "jp": "ボロイ鍛冶屋",
-  "en": "",
-  "status": "todo",
+  "en": "Shabby Smithy",
+  "status": "done",
   "slots": [
    "w:2c5c44"
   ]
@@ -1457,8 +1457,8 @@
  {
   "id": "e:2c4919",
   "jp": "海辺の教会",
-  "en": "",
-  "status": "todo",
+  "en": "Seaside Church",
+  "status": "done",
   "slots": [
    "w:2c5c50"
   ]
@@ -1475,8 +1475,8 @@
  {
   "id": "e:2c494d",
   "jp": "町外れの集落",
-  "en": "",
-  "status": "todo",
+  "en": "Outskirts Hamlet",
+  "status": "done",
   "slots": [
    "w:2c5c5c"
   ]
@@ -1493,8 +1493,8 @@
  {
   "id": "e:2c498f",
   "jp": "リョウタイ村",
-  "en": "",
-  "status": "todo",
+  "en": "Ryotai Village",
+  "status": "done",
   "slots": [
    "w:2c5c68"
   ]
@@ -1511,8 +1511,8 @@
  {
   "id": "e:2c49bb",
   "jp": "長老の家",
-  "en": "",
-  "status": "todo",
+  "en": "Elder's House",
+  "status": "done",
   "slots": [
    "w:2c5c74"
   ]
@@ -1529,8 +1529,8 @@
  {
   "id": "e:2c49f9",
   "jp": "反対派の住む家",
-  "en": "",
-  "status": "todo",
+  "en": "Opposition's House",
+  "status": "done",
   "slots": [
    "w:2c5c80"
   ]
@@ -1547,8 +1547,8 @@
  {
   "id": "e:2c4a3f",
   "jp": "シムーン町",
-  "en": "",
-  "status": "todo",
+  "en": "Simoon Town",
+  "status": "done",
   "slots": [
    "w:2c5c8c"
   ]
@@ -1565,8 +1565,8 @@
  {
   "id": "e:2c4a6b",
   "jp": "民宿",
-  "en": "",
-  "status": "todo",
+  "en": "Guesthouse",
+  "status": "done",
   "slots": [
    "w:2c5c98"
   ]
@@ -1583,8 +1583,8 @@
  {
   "id": "e:2c4a9b",
   "jp": "島民の家",
-  "en": "",
-  "status": "todo",
+  "en": "Islander's House",
+  "status": "done",
   "slots": [
    "w:2c5ca4"
   ]
@@ -1601,8 +1601,8 @@
  {
   "id": "e:2c4ac1",
   "jp": "新しい鍛冶屋",
-  "en": "",
-  "status": "todo",
+  "en": "New Smithy",
+  "status": "done",
   "slots": [
    "w:2c5cb0"
   ]
@@ -1619,8 +1619,8 @@
  {
   "id": "e:2c4af9",
   "jp": "港村トラント",
-  "en": "",
-  "status": "todo",
+  "en": "Port Village Toranto",
+  "status": "done",
   "slots": [
    "w:2c5cbc"
   ]
@@ -1637,8 +1637,8 @@
  {
   "id": "e:2c4b35",
   "jp": "アクセ村",
-  "en": "",
-  "status": "todo",
+  "en": "Acce Village",
+  "status": "done",
   "slots": [
    "w:2c5cc8"
   ]
@@ -1655,8 +1655,8 @@
  {
   "id": "e:2c4b6d",
   "jp": "海岸沿いの病院",
-  "en": "",
-  "status": "todo",
+  "en": "Coastal Hospital",
+  "status": "done",
   "slots": [
    "w:2c5cd4"
   ]
@@ -1673,8 +1673,8 @@
  {
   "id": "e:2c4ba5",
   "jp": "ジェンビーノ町",
-  "en": "",
-  "status": "todo",
+  "en": "Gembino Town",
+  "status": "done",
   "slots": [
    "w:2c5ce0"
   ]
@@ -1691,8 +1691,8 @@
  {
   "id": "e:2c4be7",
   "jp": "裕福都市キリナ",
-  "en": "",
-  "status": "todo",
+  "en": "Rich City Kirina",
+  "status": "done",
   "slots": [
    "w:2c5cec"
   ]
@@ -1709,8 +1709,8 @@
  {
   "id": "e:2c4c2d",
   "jp": "最古都市ルフイ",
-  "en": "",
-  "status": "todo",
+  "en": "Oldest City Rufui",
+  "status": "done",
   "slots": [
    "w:2c5cf8"
   ]
@@ -1727,8 +1727,8 @@
  {
   "id": "e:2c4c6b",
   "jp": "勇敢都市ユシャ",
-  "en": "",
-  "status": "todo",
+  "en": "Brave City Yusha",
+  "status": "done",
   "slots": [
    "w:2c5d04"
   ]
@@ -1745,8 +1745,8 @@
  {
   "id": "e:2c4c9f",
   "jp": "教会都市リイノ",
-  "en": "",
-  "status": "todo",
+  "en": "Church City Riino",
+  "status": "done",
   "slots": [
    "w:2c5d10"
   ]
@@ -1781,8 +1781,8 @@
  {
   "id": "e:2c4d09",
   "jp": "ケスタオ村",
-  "en": "",
-  "status": "todo",
+  "en": "Kestao Village",
+  "status": "done",
   "slots": [
    "w:2c5d28"
   ]
@@ -1799,8 +1799,8 @@
  {
   "id": "e:2c4d3f",
   "jp": "シノモリ村",
-  "en": "",
-  "status": "todo",
+  "en": "Shinomori Village",
+  "status": "done",
   "slots": [
    "w:2c5d34"
   ]
@@ -1817,8 +1817,8 @@
  {
   "id": "e:2c4d65",
   "jp": "イロノ村",
-  "en": "",
-  "status": "todo",
+  "en": "Irono Village",
+  "status": "done",
   "slots": [
    "w:2c5d40"
   ]
@@ -1835,8 +1835,8 @@
  {
   "id": "e:2c4d99",
   "jp": "ローレライ村",
-  "en": "",
-  "status": "todo",
+  "en": "Lorelei Village",
+  "status": "done",
   "slots": [
    "w:2c5d4c"
   ]
@@ -1853,8 +1853,8 @@
  {
   "id": "e:2c4dd3",
   "jp": "シレキ村",
-  "en": "",
-  "status": "todo",
+  "en": "Shireki Village",
+  "status": "done",
   "slots": [
    "w:2c5d58"
   ]
@@ -1871,8 +1871,8 @@
  {
   "id": "e:2c4df5",
   "jp": "愛護都市ツブド",
-  "en": "",
-  "status": "todo",
+  "en": "Pet City Tsubudo",
+  "status": "done",
   "slots": [
    "w:2c5d64"
   ]
@@ -1889,8 +1889,8 @@
  {
   "id": "e:2c4e2b",
   "jp": "緑色の廃屋",
-  "en": "",
-  "status": "todo",
+  "en": "Green Ruined House",
+  "status": "done",
   "slots": [
    "w:2c5d70"
   ]
@@ -1907,8 +1907,8 @@
  {
   "id": "e:2c4e5f",
   "jp": "泊まった宿屋",
-  "en": "",
-  "status": "todo",
+  "en": "The Inn We Stayed At",
+  "status": "done",
   "slots": [
    "w:2c5d7c"
   ]
@@ -1925,8 +1925,8 @@
  {
   "id": "e:2c4e97",
   "jp": "レイド村",
-  "en": "",
-  "status": "todo",
+  "en": "Raid Village",
+  "status": "done",
   "slots": [
    "w:2c5d88"
   ]
@@ -1943,8 +1943,8 @@
  {
   "id": "e:2c4ebf",
   "jp": "ゲルニ村",
-  "en": "",
-  "status": "todo",
+  "en": "Gerni Village",
+  "status": "done",
   "slots": [
    "w:2c5d94"
   ]
@@ -1961,8 +1961,8 @@
  {
   "id": "e:2c4ef9",
   "jp": "コロヨビ村",
-  "en": "",
-  "status": "todo",
+  "en": "Koroyobi Village",
+  "status": "done",
   "slots": [
    "w:2c5da0"
   ]
@@ -2051,8 +2051,8 @@
  {
   "id": "e:2c4fed",
   "jp": "ロウヒ村",
-  "en": "",
-  "status": "todo",
+  "en": "Rohi Village",
+  "status": "done",
   "slots": [
    "w:2c5ddc"
   ]
@@ -2069,8 +2069,8 @@
  {
   "id": "e:2c5025",
   "jp": "セツベイ病院",
-  "en": "",
-  "status": "todo",
+  "en": "Setsubei Hospital",
+  "status": "done",
   "slots": [
    "w:2c5de8"
   ]
@@ -2087,8 +2087,8 @@
  {
   "id": "e:2c5063",
   "jp": "グラン村",
-  "en": "",
-  "status": "todo",
+  "en": "Gran Village",
+  "status": "done",
   "slots": [
    "w:2c5df4"
   ]
@@ -2105,8 +2105,8 @@
  {
   "id": "e:2c509f",
   "jp": "風の祠",
-  "en": "",
-  "status": "todo",
+  "en": "Wind Shrine",
+  "status": "done",
   "slots": [
    "w:2c5e00"
   ]
@@ -2123,8 +2123,8 @@
  {
   "id": "e:2c50dd",
   "jp": "大地の祠",
-  "en": "",
-  "status": "todo",
+  "en": "Earth Shrine",
+  "status": "done",
   "slots": [
    "w:2c5e0c"
   ]
@@ -2141,8 +2141,8 @@
  {
   "id": "e:2c511d",
   "jp": "観光都市ビター",
-  "en": "",
-  "status": "todo",
+  "en": "Tourist City Bitter",
+  "status": "done",
   "slots": [
    "w:2c5e18"
   ]
@@ -2159,8 +2159,8 @@
  {
   "id": "e:2c5151",
   "jp": "加工都市アレン",
-  "en": "",
-  "status": "todo",
+  "en": "Craft City Allen",
+  "status": "done",
   "slots": [
    "w:2c5e24"
   ]
@@ -2177,8 +2177,8 @@
  {
   "id": "e:2c5195",
   "jp": "ミハエル村",
-  "en": "",
-  "status": "todo",
+  "en": "Michael Village",
+  "status": "done",
   "slots": [
    "w:2c5e30"
   ]
@@ -2195,8 +2195,8 @@
  {
   "id": "e:2c51d3",
   "jp": "灯台",
-  "en": "",
-  "status": "todo",
+  "en": "Lighthouse",
+  "status": "done",
   "slots": [
    "w:2c5e3c"
   ]
@@ -2213,8 +2213,8 @@
  {
   "id": "e:2c520d",
   "jp": "パメラ様支援隊",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela-sama Support Group",
+  "status": "done",
   "slots": [
    "w:2c5e48"
   ]
@@ -2231,8 +2231,8 @@
  {
   "id": "e:2c524f",
   "jp": "クヤフ村",
-  "en": "",
-  "status": "todo",
+  "en": "Kuyafu Village",
+  "status": "done",
   "slots": [
    "w:2c5e54"
   ]
@@ -2249,8 +2249,8 @@
  {
   "id": "e:2c5285",
   "jp": "世界樹広場",
-  "en": "",
-  "status": "todo",
+  "en": "World Tree Square",
+  "status": "done",
   "slots": [
    "w:2c5e60"
   ]
@@ -2267,8 +2267,8 @@
  {
   "id": "e:2c52bb",
   "jp": "海風の宿",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Breeze Inn",
+  "status": "done",
   "slots": [
    "w:2c5e6c"
   ]
@@ -2285,8 +2285,8 @@
  {
   "id": "e:2c52f7",
   "jp": "ショップギズミ",
-  "en": "",
-  "status": "todo",
+  "en": "Shop Gizmi",
+  "status": "done",
   "slots": [
    "w:2c5e78"
   ]
@@ -2303,8 +2303,8 @@
  {
   "id": "e:2c5331",
   "jp": "女系都市ナオン",
-  "en": "",
-  "status": "todo",
+  "en": "Matriarch City Naon",
+  "status": "done",
   "slots": [
    "w:2c5e84"
   ]
@@ -2321,8 +2321,8 @@
  {
   "id": "e:2c536d",
   "jp": "サワウ村",
-  "en": "",
-  "status": "todo",
+  "en": "Sawau Village",
+  "status": "done",
   "slots": [
    "w:2c5e90"
   ]
@@ -2339,8 +2339,8 @@
  {
   "id": "e:2c53a9",
   "jp": "音楽都市ポンテ",
-  "en": "",
-  "status": "todo",
+  "en": "Music City Ponte",
+  "status": "done",
   "slots": [
    "w:2c5e9c"
   ]
@@ -2357,8 +2357,8 @@
  {
   "id": "e:2c53e1",
   "jp": "風流都市シンジ",
-  "en": "",
-  "status": "todo",
+  "en": "Elegant City Shinji",
+  "status": "done",
   "slots": [
    "w:2c5ea8"
   ]
@@ -2375,8 +2375,8 @@
  {
   "id": "e:2c540b",
   "jp": "真っ白な灯台",
-  "en": "",
-  "status": "todo",
+  "en": "Pure White Lighthouse",
+  "status": "done",
   "slots": [
    "w:2c5eb4"
   ]
@@ -2393,8 +2393,8 @@
  {
   "id": "e:2c543f",
   "jp": "戦友達の墓",
-  "en": "",
-  "status": "todo",
+  "en": "Comrades' Graves",
+  "status": "done",
   "slots": [
    "w:2c5ec0"
   ]
@@ -2411,8 +2411,8 @@
  {
   "id": "e:2c5479",
   "jp": "滅んだ村",
-  "en": "",
-  "status": "todo",
+  "en": "Ruined Village",
+  "status": "done",
   "slots": [
    "w:2c5ecc"
   ]
@@ -2429,8 +2429,8 @@
  {
   "id": "e:2c54b5",
   "jp": "城下町",
-  "en": "",
-  "status": "todo",
+  "en": "Castle Town",
+  "status": "done",
   "slots": [
    "w:2c5ed8"
   ]
@@ -2447,8 +2447,8 @@
  {
   "id": "e:2c54f1",
   "jp": "バッソフォンド",
-  "en": "",
-  "status": "todo",
+  "en": "Bassofondo",
+  "status": "done",
   "slots": [
    "w:2c5ee4"
   ]
@@ -2465,8 +2465,8 @@
  {
   "id": "e:2c5529",
   "jp": "救護都市エンシ",
-  "en": "",
-  "status": "todo",
+  "en": "Relief City Enshi",
+  "status": "done",
   "slots": [
    "w:2c5ef0"
   ]
@@ -2483,8 +2483,8 @@
  {
   "id": "e:2c5567",
   "jp": "葬式場",
-  "en": "",
-  "status": "todo",
+  "en": "Funeral Hall",
+  "status": "done",
   "slots": [
    "w:2c5efc"
   ]
@@ -2501,8 +2501,8 @@
  {
   "id": "e:2c559b",
   "jp": "隠れ家",
-  "en": "",
-  "status": "todo",
+  "en": "Hideout",
+  "status": "done",
   "slots": [
    "w:2c5f08"
   ]
@@ -2519,8 +2519,8 @@
  {
   "id": "e:2c55c9",
   "jp": "金庫洞窟",
-  "en": "",
-  "status": "todo",
+  "en": "Vault Cave",
+  "status": "done",
   "slots": [
    "w:2c5f14"
   ]
@@ -2537,8 +2537,8 @@
  {
   "id": "e:2c55fd",
   "jp": "山の洞窟",
-  "en": "",
-  "status": "todo",
+  "en": "Mountain Cave",
+  "status": "done",
   "slots": [
    "w:2c5f20"
   ]
@@ -2555,8 +2555,8 @@
  {
   "id": "e:2c562b",
   "jp": "ダクノモ村",
-  "en": "",
-  "status": "todo",
+  "en": "Dakunomo Village",
+  "status": "done",
   "slots": [
    "w:2c5f2c"
   ]
@@ -2573,8 +2573,8 @@
  {
   "id": "e:2c5657",
   "jp": "小さな病院",
-  "en": "",
-  "status": "todo",
+  "en": "Small Hospital",
+  "status": "done",
   "slots": [
    "w:2c5f38"
   ]
@@ -2591,8 +2591,8 @@
  {
   "id": "e:2c568d",
   "jp": "性別整形外科",
-  "en": "",
-  "status": "todo",
+  "en": "Gender Surgery Clinic",
+  "status": "done",
   "slots": [
    "w:2c5f44"
   ]
@@ -2609,8 +2609,8 @@
  {
   "id": "e:2c56bf",
   "jp": "東砦",
-  "en": "",
-  "status": "todo",
+  "en": "East Fort",
+  "status": "done",
   "slots": [
    "w:2c5f50"
   ]
@@ -2627,8 +2627,8 @@
  {
   "id": "e:2c56d1",
   "jp": "西砦",
-  "en": "",
-  "status": "todo",
+  "en": "West Fort",
+  "status": "done",
   "slots": [
    "w:2c5f5c"
   ]
@@ -2645,8 +2645,8 @@
  {
   "id": "e:2c56e3",
   "jp": "トレイシーの家",
-  "en": "",
-  "status": "todo",
+  "en": "Tracey's House",
+  "status": "done",
   "slots": [
    "w:2c5f68"
   ]
@@ -2663,8 +2663,8 @@
  {
   "id": "e:2c5721",
   "jp": "イレンセ村",
-  "en": "",
-  "status": "todo",
+  "en": "Irense Village",
+  "status": "done",
   "slots": [
    "w:2c5f74"
   ]
@@ -2681,8 +2681,8 @@
  {
   "id": "e:2c575b",
   "jp": "シタテ村",
-  "en": "",
-  "status": "todo",
+  "en": "Shitate Village",
+  "status": "done",
   "slots": [
    "w:2c5f80"
   ]
@@ -2699,8 +2699,8 @@
  {
   "id": "e:2c5795",
   "jp": "美食都市メルグ",
-  "en": "",
-  "status": "todo",
+  "en": "Gourmet City Merg",
+  "status": "done",
   "slots": [
    "w:2c5f8c"
   ]
@@ -2717,8 +2717,8 @@
  {
   "id": "e:2c57c7",
   "jp": "舞踏都市ワルツ",
-  "en": "",
-  "status": "todo",
+  "en": "Dance City Waltz",
+  "status": "done",
   "slots": [
    "w:2c5f98"
   ]
@@ -2735,8 +2735,8 @@
  {
   "id": "e:2c5809",
   "jp": "グラン村",
-  "en": "",
-  "status": "todo",
+  "en": "Gran Village",
+  "status": "done",
   "slots": [
    "w:2c5fa4"
   ]
@@ -2753,8 +2753,8 @@
  {
   "id": "e:2c5845",
   "jp": "英雄都市ギイセ",
-  "en": "",
-  "status": "todo",
+  "en": "Hero City Giise",
+  "status": "done",
   "slots": [
    "w:2c5fb0"
   ]
@@ -2771,8 +2771,8 @@
  {
   "id": "e:2c5889",
   "jp": "救済都市エゴン",
-  "en": "",
-  "status": "todo",
+  "en": "Salvation City Egon",
+  "status": "done",
   "slots": [
    "w:2c5fbc"
   ]
@@ -2789,8 +2789,8 @@
  {
   "id": "e:2c58cd",
   "jp": "古代都市カムシ",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient City Kamushi",
+  "status": "done",
   "slots": [
    "w:2c5fc8"
   ]
@@ -2807,8 +2807,8 @@
  {
   "id": "e:2c590b",
   "jp": "魚拓マニアの家",
-  "en": "",
-  "status": "todo",
+  "en": "Fish Print Fanatic's House",
+  "status": "done",
   "slots": [
    "w:2c5fd4"
   ]
@@ -2825,8 +2825,8 @@
  {
   "id": "e:2c5949",
   "jp": "性転換研究所",
-  "en": "",
-  "status": "todo",
+  "en": "Sex Change Lab",
+  "status": "done",
   "slots": [
    "w:2c5fe0"
   ]
@@ -2843,8 +2843,8 @@
  {
   "id": "e:2c597b",
   "jp": "研究施設",
-  "en": "",
-  "status": "todo",
+  "en": "Research Facility",
+  "status": "done",
   "slots": [
    "w:2c5fec"
   ]
@@ -2861,8 +2861,8 @@
  {
   "id": "e:2c59a5",
   "jp": "集団墓地",
-  "en": "",
-  "status": "todo",
+  "en": "Mass Grave",
+  "status": "done",
   "slots": [
    "w:2c5ff8"
   ]
@@ -2879,8 +2879,8 @@
  {
   "id": "e:2c59db",
   "jp": "エルマーレ広場",
-  "en": "",
-  "status": "todo",
+  "en": "Elmare Plaza",
+  "status": "done",
   "slots": [
    "w:2c6004"
   ]
@@ -2897,8 +2897,8 @@
  {
   "id": "e:2c5a17",
   "jp": "研究施設",
-  "en": "",
-  "status": "todo",
+  "en": "Research Facility",
+  "status": "done",
   "slots": [
    "w:2c6010"
   ]
@@ -2915,8 +2915,8 @@
  {
   "id": "e:2c5a53",
   "jp": "コウコ村",
-  "en": "",
-  "status": "todo",
+  "en": "Koko Village",
+  "status": "done",
   "slots": [
    "w:2c601c"
   ]
@@ -2933,8 +2933,8 @@
  {
   "id": "e:2c5a83",
   "jp": "エルマーレ広場",
-  "en": "",
-  "status": "todo",
+  "en": "Elmare Plaza",
+  "status": "done",
   "slots": [
    "w:2c6028"
   ]
@@ -2951,8 +2951,8 @@
  {
   "id": "e:2c5ab7",
   "jp": "釣り小屋",
-  "en": "",
-  "status": "todo",
+  "en": "Fishing Hut",
+  "status": "done",
   "slots": [
    "w:2c6034"
   ]
@@ -2969,8 +2969,8 @@
  {
   "id": "e:2c5af5",
   "jp": "城内都市アゼン",
-  "en": "",
-  "status": "todo",
+  "en": "Castle City Azen",
+  "status": "done",
   "slots": [
    "w:2c6040"
   ]
@@ -2987,8 +2987,8 @@
  {
   "id": "e:2c5b33",
   "jp": "ルキア研究所",
-  "en": "",
-  "status": "todo",
+  "en": "Lukia Laboratory",
+  "status": "done",
   "slots": [
    "w:2c604c"
   ]
@@ -3005,8 +3005,8 @@
  {
   "id": "e:2c5b6d",
   "jp": "ＤＸホスピタル",
-  "en": "",
-  "status": "todo",
+  "en": "DX Hospital",
+  "status": "done",
   "slots": [
    "w:2c6058"
   ]
@@ -3023,8 +3023,8 @@
  {
   "id": "e:2c5ba7",
   "jp": "古代海道",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient Sea Road",
+  "status": "done",
   "slots": [
    "w:2c6064"
   ]
@@ -3041,8 +3041,8 @@
  {
   "id": "e:2c5be5",
   "jp": "マンタの壁画",
-  "en": "",
-  "status": "todo",
+  "en": "Manta Mural",
+  "status": "done",
   "slots": [
    "w:2c6070"
   ]
@@ -3188,8 +3188,8 @@
  {
   "id": "e:2cb757",
   "jp": "ゴーレム",
-  "en": "",
-  "status": "todo",
+  "en": "Golem",
+  "status": "done",
   "slots": [
    "w:2cb904"
   ]
@@ -3197,8 +3197,8 @@
  {
   "id": "e:2cb760",
   "jp": "スケルトン",
-  "en": "",
-  "status": "todo",
+  "en": "Skeleton",
+  "status": "done",
   "slots": [
    "w:2cb908"
   ]
@@ -3443,8 +3443,8 @@
  {
   "id": "e:2cb8a7",
   "jp": "シンフォニア",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia",
+  "status": "done",
   "slots": [
    "w:2cb9ac"
   ]
@@ -3602,8 +3602,8 @@
  {
   "id": "e:2cc5b7",
   "jp": "ゴーレム",
-  "en": "",
-  "status": "todo",
+  "en": "Golem",
+  "status": "done",
   "slots": [
    "w:2cc7b0"
   ]
@@ -3611,8 +3611,8 @@
  {
   "id": "e:2cc5c0",
   "jp": "スケルトン",
-  "en": "",
-  "status": "todo",
+  "en": "Skeleton",
+  "status": "done",
   "slots": [
    "w:2cc7c0"
   ]
@@ -3830,8 +3830,8 @@
  {
   "id": "e:2cc6e0",
   "jp": "シンフォニア",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia",
+  "status": "done",
   "slots": [
    "w:2cca50"
   ]

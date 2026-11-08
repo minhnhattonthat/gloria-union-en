@@ -1458,8 +1458,8 @@
  {
   "id": "s2046:0100ft",
   "jp": "海の犬",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Dogs",
+  "status": "done",
   "at": "0x1012",
   "max": 6,
   "who": "team name"
@@ -1476,8 +1476,8 @@
  {
   "id": "s2046:03fc3t",
   "jp": "海の犬",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Dogs",
+  "status": "done",
   "at": "0x3fc6",
   "max": 6,
   "who": "team name"

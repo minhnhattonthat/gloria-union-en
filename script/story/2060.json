@@ -2004,8 +2004,8 @@
  {
   "id": "s2060:020f8t",
   "jp": "ゴロツキ",
-  "en": "",
-  "status": "todo",
+  "en": "Thug",
+  "status": "done",
   "at": "0x20fb",
   "max": 8,
   "who": "team name"
@@ -2013,8 +2013,8 @@
  {
   "id": "s2060:02174t",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x2177",
   "max": 6,
   "who": "team name"

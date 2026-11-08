@@ -1655,8 +1655,8 @@
  {
   "id": "s2042:01bb6t",
   "jp": "トウミン団",
-  "en": "",
-  "status": "todo",
+  "en": "Islanders",
+  "status": "done",
   "at": "0x1bb9",
   "max": 10,
   "who": "team name"
@@ -1673,8 +1673,8 @@
  {
   "id": "s2042:0489at",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x489d",
   "max": 6,
   "who": "team name"
@@ -1682,8 +1682,8 @@
  {
   "id": "s2042:04930t",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x4933",
   "max": 6,
   "who": "team name"

@@ -1968,8 +1968,8 @@
  {
   "id": "s2043:02070t",
   "jp": "フィービー隊",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee Unit",
+  "status": "done",
   "at": "0x2073",
   "max": 12,
   "who": "team name"
@@ -1986,8 +1986,8 @@
  {
   "id": "s2043:06abbt",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x6abe",
   "max": 6,
   "who": "team name"
@@ -1995,8 +1995,8 @@
  {
   "id": "s2043:06b7dt",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x6b80",
   "max": 6,
   "who": "team name"

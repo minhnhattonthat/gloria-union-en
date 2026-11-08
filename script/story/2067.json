@@ -2767,8 +2767,8 @@
  {
   "id": "s2067:0323et",
   "jp": "ジゼル隊",
-  "en": "",
-  "status": "todo",
+  "en": "Giselle Unit",
+  "status": "done",
   "at": "0x3241",
   "max": 8,
   "who": "team name"

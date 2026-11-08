@@ -2080,8 +2080,8 @@
  {
   "id": "s2061:025dat",
   "jp": "ジゼル隊",
-  "en": "",
-  "status": "todo",
+  "en": "Giselle Unit",
+  "status": "done",
   "at": "0x25dd",
   "max": 8,
   "who": "team name"

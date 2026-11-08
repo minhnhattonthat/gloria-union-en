@@ -1639,8 +1639,8 @@
  {
   "id": "s2055:02058t",
   "jp": "レバレッジ商団",
-  "en": "",
-  "status": "todo",
+  "en": "Leverage Guild",
+  "status": "done",
   "at": "0x205b",
   "max": 14,
   "who": "team name"

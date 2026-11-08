@@ -2145,8 +2145,8 @@
  {
   "id": "e:284d84",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "slots": [
    "w:2f6d94"
   ]
@@ -2344,8 +2344,8 @@
  {
   "id": "e:285060",
   "jp": "海の犬",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Dogs",
+  "status": "done",
   "slots": [
    "w:2f6e18"
   ]
@@ -3597,8 +3597,8 @@
  {
   "id": "e:2869f0",
   "jp": "ゴーレム",
-  "en": "",
-  "status": "todo",
+  "en": "Golem",
+  "status": "done",
   "slots": [
    "w:2f7694"
   ]
@@ -3615,8 +3615,8 @@
  {
   "id": "e:286a48",
   "jp": "スケルトン",
-  "en": "",
-  "status": "todo",
+  "en": "Skeleton",
+  "status": "done",
   "slots": [
    "w:2f76b0"
   ]
@@ -3777,8 +3777,8 @@
  {
   "id": "e:286d8c",
   "jp": "サイード",
-  "en": "",
-  "status": "todo",
+  "en": "Saeed",
+  "status": "done",
   "slots": [
    "w:2f77ac"
   ]
@@ -3795,8 +3795,8 @@
  {
   "id": "e:286dec",
   "jp": "海ゴブリン",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblin",
+  "status": "done",
   "slots": [
    "w:2f77c8",
    "w:2f77e4"
@@ -3895,8 +3895,8 @@
  {
   "id": "e:286fbc",
   "jp": "幽霊",
-  "en": "",
-  "status": "todo",
+  "en": "Ghost",
+  "status": "done",
   "slots": [
    "w:2f7870"
   ]
@@ -6083,8 +6083,8 @@
  {
   "id": "e:289188",
   "jp": "航海日誌",
-  "en": "",
-  "status": "todo",
+  "en": "Ship's Log",
+  "status": "done",
   "slots": [
    "w:2f8418"
   ]
@@ -7481,8 +7481,8 @@
  {
   "id": "e:2aad88",
   "jp": "グロリア号",
-  "en": "",
-  "status": "todo",
+  "en": "The Gloria",
+  "status": "done",
   "slots": [
    "i:146a64:146a94"
   ]

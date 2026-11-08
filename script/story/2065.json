@@ -2230,8 +2230,8 @@
  {
   "id": "s2065:042adt",
   "jp": "レバレッジ商団",
-  "en": "",
-  "status": "todo",
+  "en": "Leverage Guild",
+  "status": "done",
   "at": "0x42b0",
   "max": 14,
   "who": "team name"

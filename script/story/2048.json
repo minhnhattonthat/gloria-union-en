@@ -2017,8 +2017,8 @@
  {
   "id": "s2048:0172ft",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x1732",
   "max": 6,
   "who": "team name"
@@ -2026,8 +2026,8 @@
  {
   "id": "s2048:0180dt",
   "jp": "黒い牙",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang",
+  "status": "done",
   "at": "0x1810",
   "max": 6,
   "who": "team name"
@@ -2044,8 +2044,8 @@
  {
   "id": "s2048:06273t",
   "jp": "ブラックモア",
-  "en": "",
-  "status": "todo",
+  "en": "Blackmore",
+  "status": "done",
   "at": "0x6276",
   "max": 12,
   "who": "team name"
