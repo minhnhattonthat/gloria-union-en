@@ -2688,7 +2688,7 @@
  {
   "id": "e:285534",
   "jp": "開発者トレイシー。\n彼女が開発を行う理由とは",
-  "en": "Tracey the Developer.\nWhy does she develop?",
+  "en": "Tracey the Developer.\nWhat drives her to\ndevelop?",
   "status": "done",
   "slots": [
    "w:2f6f00"
@@ -7043,7 +7043,7 @@
  {
   "id": "e:28a4ac",
   "jp": "■骸骨魔人ローガンを撃退せよ②",
-  "en": "■Drive off Rogan the skeleton demon!!",
+  "en": "■Drive off Rogan the skeleton fiend!!",
   "status": "done",
   "slots": [
    "w:2f9068"

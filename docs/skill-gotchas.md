@@ -1,6 +1,7 @@
 # Gotchas for the skill
 
 One line per gotcha: the reference file it belongs in, then the fact.
+- assets/batches.py + references/translation.md §Review: `merge --overwrite` rewrites every same-JP copy from the batch's .out.tsv, so review fixes made by editing `script/` directly get reverted when a later fix re-merges a stale .out.tsv that shares the JP (a story fix came back undone through an EBOOT copy). Make review fixes through the .out.tsv (tlfix) only, or have merge warn when the script's English differs from the .out.tsv's before overwriting; diff `script/` after every merge.
 
 - references/platform-psp.md: PGD (`\0PGD`, e.g. `INSDIR/DATA.DNS`) is not a blocker: with drm_type 1 the vkey comes from the MAC at 0x70 (amctrl `bbmac_getkey`), so no game key is needed. `tools/pgd.py` here is a ~100-line Python port; worth promoting.
 - references/platform-psp.md: `cpk.py` handles only TOC CPKs; ITOC-only CPKs (no names) need id-order walking with Align padding, see `tools/itoc.py`; `unlayla` there decompresses CRILAYLA. `Entry.parse` returns nothing and `list` prints nothing on these rather than failing.
