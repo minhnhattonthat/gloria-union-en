@@ -79,6 +79,10 @@ def render(font, pal):
         c = chr(0x20 + i)
         big = Image.new('L', (cw * 3, ch * 2), 0)
         ImageDraw.Draw(big).text((cw, s['top'] - htop + 1), c, font=f, fill=255)
+        if s.get('sx', 1) != 1:   # condensed: squeeze horizontally about the glyph origin (cw)
+            n = big.resize((round(big.width * s['sx']), big.height), Image.LANCZOS)
+            big = Image.new('L', big.size, 0)
+            big.paste(n, (round(cw * (1 - s['sx'])), 0))
         if s['shear']:
             # lean right: shift each row by shear * (baseline - y)
             base = s['top'] + s['cap']

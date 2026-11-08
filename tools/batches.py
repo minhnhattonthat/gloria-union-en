@@ -4,6 +4,7 @@
     python -X utf8 tools/batches.py check [bNNN ...]      a batch's .out.tsv; with no batch, all shipped English (for check.py)
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the English into script/
     python -X utf8 tools/batches.py fit ID "English"       wrapped lines with px per line against the entry's budget
+    python -X utf8 tools/batches.py sync                   copy script/ English into stale .out.tsv rows (check fails on them)
 
 Copied from the skill's assets/batches.py; the ADAPTER section is this game's. Batches hold each Japanese text once
 (19k entries, 13k distinct texts): merge gives the English to every entry with the same JP that has none yet.
@@ -346,6 +347,34 @@ def merge(new, overwrite, entries, groups):
     print(f"merged: {changed} entries changed")
 
 
+def stale(entries):
+    """Batch rows whose English differs from script/ (a fix made in script/ only): a later merge --overwrite would revert it."""
+    out = []
+    for path in existing():
+        o = path.with_suffix(".out.tsv")
+        if o.exists():
+            out += [(o, eid, en) for eid, en in read_out(o)
+                    if eid in entries and entries[eid].get("en") and shipped(entries[eid], en) != entries[eid]["en"]]
+    return out
+
+
+def sync(entries):
+    """Write script/'s English back into each stale batch row (unwrapped when the merge wraps it the same way)."""
+    by_file = {}
+    for o, eid, _ in stale(entries):
+        en = entries[eid]["en"]
+        flat = en.replace("\n", " ")
+        by_file.setdefault(o, {})[eid] = flat if shipped(entries[eid], flat) == en else en
+    for o, fx in by_file.items():
+        rows = read_out(o)
+        o.write_text("".join(f"{i}\t{fx.get(i, en).replace(chr(10), chr(92) + 'n')}\n" for i, en in rows),
+                     encoding="utf-8", newline="\n")
+        print(f"{o.name}: {len(fx)} rows from script/")
+    left = stale(entries)
+    print(f"{len(left)} rows still differ" + "".join(f"\n  {o.name} {i}: {en!r}" for o, i, en in left))
+    return 1 if left else 0
+
+
 def fit(eid, en):
     import vwf
     e = index()[eid]
@@ -364,6 +393,8 @@ def main(argv):
         return split(int(args[args.index("--size") + 1]) if "--size" in args else 3500)
     if cmd == "fit":
         return fit(*args)
+    if cmd == "sync":
+        return sync(index())
     overwrite = "--overwrite" in args
     names = [a for a in args if a != "--overwrite"]
     entries, terms = index(), glossary()
@@ -371,6 +402,7 @@ def main(argv):
         ps = [(i, p, e["en"]) for i, e in entries.items() if e.get("en") and e.get("status") != "data"
               for p in problems(e, e["en"], terms)]
         bad = [f"{i}: {p}: {en!r}" for i, p, en in ps if not p.startswith("WARN")]
+        bad += [f"{i}: {o.name} differs from script/ (run `batches.py sync`): {en!r}" for o, i, en in stale(entries)]
         print(f"{len(entries)} entries, {sum(1 for e in entries.values() if e.get('en'))} in English, "
               f"{len(bad)} problems, {len(ps) - len(bad)} warnings")
         print("\n".join(bad[:200]))

@@ -23,7 +23,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   - Anne Cormack: sultry, teasing (ウフフ -> "Hehehe", "dear", "naughty"). Blackmore: drawling, cynical, money.
   - Locomoco: small child Witch, third person ("Locomoco's nice!"), tantrums. Minesota: pompous scholar,
     formal ("I shall punish you!"), obsessed with "manners" ("A breach of manners!"); calls Ishut's lot "you".
-  - Raspberry: rookie devil cop of the Land of the Dead, っす speech -> eager, tacks on "sir" ("I found you, sir!").
+  - Raspberry: rookie devil cop of the Land of the Dead, っす speech -> eager, tacks on "sir" ("I found you, sir!"), "ma'am" to women.
   - Rogan: skeleton ex-Pirate King, pompous archaic ("Silence, girl!", "I am the PHOENIX!").
   - Pinger calls Zazarland 親っさん "Pops"; the crew call Elisha 姐さん "Sis".
   - Yggdra: earnest bounty hunter "of justice", polite, merciless to "evil", money-poor ("Hint: bounty hunting doesn't pay").
@@ -195,5 +195,42 @@ Woods, 砂漠の番人ラーサ Lhasa, Guardian of the Desert, 魔性のエン�
 Ripfaike the Devilish, 獅子王アレムロンド Lion King Allemronde, 煉獄の魔竜ブロンガ Brongaa, Dragon of Purgatory, 名を奪われ
 し天使 The Nameless Angel, 天使長フラウヴェル The Seraph Flauvel, 暁のゾイエック Daybreak Zoyeck, 灰被りのマイメイエ Mimeye
 of the Ashes, 告死天使キュルケ Grim Angel Kirke; Blaze Union's own: 狂風のネルガー Nergar, 加護のレティオル Retiol.
+## Terms coined in the batches (no official spelling; the lint enforces these rows too)
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| 海神バラトゥロ | Sea God Baraturo | | card character (b013) | |
+| 魔人ディヴァイン | Divine the Fiend | | card character | |
+| 大地神ダグザリア | Earth God Dagzaria | | card character | |
+| 風天アスティボーグ | Wind Deity Astiborg | | card character | |
+| 光冠のアルマスフィア | Almasphere of the Halo | | card character | |
+| デスティオ | Destio | | 魔利死天のデスティオ = Destio, Demon of Death | |
+| リボルク | Rivolk | | 神葬するリボルク = Rivolk the God-Burier | |
+| リウレウス | Riureus | | | |
+| ライカシルビア | Lycasilvia | | 人狼 = the Werewolf | |
+| アルビオン | Albion | | 巨人騎士 = the Giant Knight | |
+| ペルセラ | Persela | | | |
+| アンタレス | Antares | | | |
+| ベルリッケ | Berricke | | 渡し守 = the Ferryman | |
+| カレイドス | Kaleidos | | 魔性の鏡 = the Bewitching Mirror | |
+| コウアレス | Cowardless | | reading unsure | |
+| メデューテ | Medute | | reading unsure | |
+| 愛の貝殻 | Shells of Love | | item (b015) | |
+| 愛の紹介状 | Love Referral | | item | |
+| ウィルの結晶 | Will Crystal | | item | |
+| 毒沼 | poison swamp | | terrain (b011); capitalised in terrain menus | |
+| 水棲 | aquatic | | move type (b011) | |
+| 骸骨魔人 | skeleton fiend | | Rogan; "Rogan the Skeleton Fiend" in titles | skeletal fiend |
+
+Prose only (single kanji, or words with other meanings in dialogue, so no lint row): terrain Road/Bridge/Plains/
+Wasteland/Forest/Desert/Sea, Waterside/Ice/Village/City/Fortress; move types Cavalry/Flying/Teleport/Dragon Rider/Slow/
+Aquatic; elements fire/cold/lightning/holy/dark. UI text uses these words; dialogue may say "wilderness", "warp".
+
 ## Decisions from earlier batches
-- <batch> <JP> -> <EN> (reason)
+- b011 terrain, move types and elements as above; menus capitalise them.
+- b013 card characters with no official name: transliterated (rows above).
+- b016 `②` in the font is a "!!" glyph: kept as "!!".
+- b047 Locomoco's お姉ちゃん after a name: "-oneechan"; alone: "Big Sister" (style rules).
+- b061 宰相さん: "Chancellor-san" (the honorific check wants it).
+- b074-b082 Gangr's ガング noises: transliterated kana by kana; standalone ガング = "Gangr".
+- Blank boxes (fullwidth spaces only, ending letters 2080-2082 are images): no English, bytes kept.
+- Raspberry: "sir" to men, "ma'am" to women (Yggdra, Tracey, Melanie).
