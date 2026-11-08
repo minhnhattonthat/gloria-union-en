@@ -9,8 +9,11 @@ How it works (docs/re/text.md, Text renderer and VWF):
 - Its three calls to the glyph setter go through `wrap`: an ASCII glyph gets u, v, size and texture from our sheet
   (a PTX in the blob, already in its loaded form) and its width; every glyph in fonts 1-3 then gets a pixel x in
   cell +0 (previous cell's x + advance; grid x when the previous cell is empty or not VWF) and flags in +1E:
-  0x8000 = VWF, bits 8-14 = advance. The writer's flag reset clears bits 8-15 too.
+  0x8000 = VWF, bits 8-13 = advance, 0x4000 = placed by `chain`. The writer's flag reset clears bits 8-15 too.
 - The sprite builder uses +0 as x when 0x8000 is set (window x and offset still added), so windows can move.
+- Menus that place each cell themselves (re-layout helper 0xA3D74, absolute bit 0) do it for the original column
+  count at a fixed pitch: in the builder, `chain` puts a VWF cell right after an absolute VWF cell before it in the
+  row (x = its x + advance) and gives cells the menu didn't place (or chain placed) its y too.
 - setSize allocates 3x the columns, so a row holds about three times as many (narrow) characters.
 """
 import struct
@@ -107,6 +110,8 @@ def render(font, pal):
 
 def ptx_loaded(e, idx, pal):
     """Add a linear CLUT4 PTX in its loaded form (byte 3 = 1, palette and pixel offsets made absolute) to the blob."""
+    # the loader zeroes the alpha of magenta palette entries (seen in RAM on every loaded PTX); do the same
+    pal = b''.join(c[:3] + b'\0' if c[:3] == b'\xff\x00\xff' else c for c in (pal[i:i + 4] for i in range(0, 64, 4)))
     h, w = idx.shape
     lw = max(3, (w - 1).bit_length())
     lh = max(3, (h - 1).bit_length())
@@ -189,7 +194,7 @@ w_place:
   nop
   lh $t5, -0x24($a3)
   srl $t6, $t6, 8
-  andi $t6, $t6, 0x7f
+  andi $t6, $t6, 0x3f
   b w_set
   addu $t5, $t5, $t6
 w_grid:
@@ -202,7 +207,7 @@ w_set:
   sh $t5, 0($a3)
   lhu $t6, 0x1e($a3)
   andi $t6, $t6, 0xfe
-  andi $t1, $t1, 0x7f
+  andi $t1, $t1, 0x3f
   sll $t1, $t1, 8
   or $t6, $t6, $t1
   ori $t6, $t6, 0x8000
@@ -233,6 +238,46 @@ bstub:
 b_grid:
   jr $ra
   mult $a0, $a2
+chain:
+  lhu $t0, 0x1e($s0)
+  andi $t1, $t0, 0x8000
+  beqz $t1, ch_done
+  nop
+  blez $s4, ch_done
+  nop
+  lhu $t2, -6($s0)
+  andi $t3, $t2, 0x8001
+  ori $t4, $zero, 0x8001
+  bne $t3, $t4, ch_done
+  nop
+  lw $t3, -0x10($s0)
+  beqz $t3, ch_done
+  nop
+  lw $t3, -0x1c($s0)
+  lui $t4, 0xff00
+  and $t3, $t3, $t4
+  beqz $t3, ch_done
+  nop
+  lh $t3, -0x24($s0)
+  srl $t5, $t2, 8
+  andi $t5, $t5, 0x3f
+  addu $t3, $t3, $t5
+  sh $t3, 0($s0)
+  andi $t1, $t0, 1
+  beqz $t1, ch_y
+  nop
+  andi $t1, $t0, 0x4000
+  beqz $t1, ch_done
+  nop
+ch_y:
+  lh $t3, -0x22($s0)
+  sh $t3, 2($s0)
+  ori $t0, $t0, 0x4001
+  sh $t0, 0x1e($s0)
+ch_done:
+  lh $a0, 0($s0)
+  jr $ra
+  move $a1, $t0
 cols3:
   sll $t0, $s2, 1
   addu $s2, $s2, $t0
@@ -275,6 +320,10 @@ def patch(e):
     e.jal(0xA31A4, names['bstub'], expect='04000686', by='vwf: builder x')
     for a, exp in ((0xA31AC, '06000886'), (0xA31B0, '2130c700'), (0xA31B4, '18008600')):
         e.put(a, bytes(4), expect=exp, by='vwf: builder x')
+    # sprite builder: a VWF cell after an absolutely placed VWF cell follows it (menus that place 10 cells a row)
+    e.jal(0xA3188, names['chain'], expect='1e000596', by='vwf: chain after absolute cells')
+    # title OPTION rows: the menu places and fades in only 10 cells a row (loop at 0x12EBC0); cells 10+ follow by
+    # chain and show at once. Widening that loop to 30 hid cells 10+ (0xA4370 per column?): left as is.
     # setSize: 3x columns
     e.jal(0xA3C94, names['cols3'], expect='18005102', by='vwf: setSize 3x cols')
     # dialogue window (0x10BE88, story and tutorial talk): 4 rows at a 16 px pitch instead of 3 at 22, same box
