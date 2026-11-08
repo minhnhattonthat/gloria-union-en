@@ -2810,8 +2810,8 @@
  {
   "id": "c7:05e13",
   "jp": "なんだ？　アイツの持ってる武器。\n見た事ねぇぞ……。",
-  "en": "",
-  "status": "todo",
+  "en": "What's that weapon he's holdin'? Never\nseen one before...",
+  "status": "done",
   "slots": [
    "0xb6a"
   ],
@@ -2820,8 +2820,8 @@
  {
   "id": "c7:05e47",
   "jp": "あれ……ひょっとして、\n鎌じゃないの？",
-  "en": "",
-  "status": "todo",
+  "en": "That... Could it be a scythe?",
+  "status": "done",
   "slots": [
    "0xb7c"
   ],
@@ -2830,8 +2830,8 @@
  {
   "id": "c7:05e6d",
   "jp": "鎌ぁ？\nなんだそれ？",
-  "en": "",
-  "status": "todo",
+  "en": "A scythe? What's that?",
+  "status": "done",
   "slots": [
    "0xb8e"
   ],
@@ -2840,8 +2840,8 @@
  {
   "id": "c7:05e81",
   "jp": "『鎌』は\n剣兵・槍兵・斧兵のいずれにも\n有利に戦う事ができるの。",
-  "en": "",
-  "status": "todo",
+  "en": "A 'Scythe' has the advantage against\nsword, spear and axe units alike.",
+  "status": "done",
   "slots": [
    "0xba6"
   ],
@@ -2850,8 +2850,8 @@
  {
   "id": "c7:05ec0",
   "jp": "おまけに苦手なユニットもないって\nいう、とんでもない武器よ。",
-  "en": "",
-  "status": "todo",
+  "en": "And on top of that, it isn't weak against any\nunit. It's an outrageous weapon.",
+  "status": "done",
   "slots": [
    "0xbad"
   ],
@@ -2860,8 +2860,8 @@
  {
   "id": "c7:05efc",
   "jp": "はぁ！？　なんだよそれ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh!? What the hell!?",
+  "status": "done",
   "slots": [
    "0xbbf"
   ],
@@ -2870,8 +2870,8 @@
  {
   "id": "c7:05f17",
   "jp": "振り回すと味方まで斬っちゃうから\n誰も使いたがらなかったけど……。",
-  "en": "",
-  "status": "todo",
+  "en": "When you swing it around, you end up cutting\nyour allies too, so nobody wanted to use it,\nbut...",
+  "status": "done",
   "slots": [
    "0xbd1"
   ],
@@ -2880,8 +2880,8 @@
  {
   "id": "c7:05f59",
   "jp": "奴がそんなヘマするとは\n思えねぇな……。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't see that guy screwin' up like that...",
+  "status": "done",
   "slots": [
    "0xbe3"
   ],
@@ -2890,8 +2890,8 @@
  {
   "id": "c7:05f81",
   "jp": "敵はかなり手強いようね。\n気を引き締めましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "The enemy looks pretty tough. Let's stay\nsharp!",
+  "status": "done",
   "slots": [
    "0xbf5"
   ],
@@ -2910,8 +2910,8 @@
  {
   "id": "c7:05fb8",
   "jp": "しかしひでぇ雨だな。\nまともに前が見えねぇよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Damn, this rain is awful. I can't see a thing in\nfront of me.",
+  "status": "done",
   "slots": [
    "0x14c8"
   ],
@@ -2920,8 +2920,8 @@
  {
   "id": "c7:05fe6",
   "jp": "アンタはまだマシよ。\nさっきも言ったけど、あたしなんて\nまともに攻撃できないんだから！",
-  "en": "",
-  "status": "todo",
+  "en": "You've got it easy. Like I said earlier, I can\nbarely even attack!",
+  "status": "done",
   "slots": [
    "0x14da"
   ],
@@ -2930,8 +2930,8 @@
  {
   "id": "c7:0603b",
   "jp": "それは、エリーシャだけか？",
-  "en": "",
-  "status": "todo",
+  "en": "Is that just you, Elisha?",
+  "status": "done",
   "slots": [
    "0x14ec"
   ],
@@ -2940,8 +2940,8 @@
  {
   "id": "c7:06056",
   "jp": "いや、影響は\n銃火器全般にでてるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "No, it affects all firearms.",
+  "status": "done",
   "slots": [
    "0x14fe"
   ],
@@ -2950,8 +2950,8 @@
  {
   "id": "c7:0607a",
   "jp": "悪いけど、雨の中でガンナーと\nスナイパーはお荷物よ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, but in the rain, Gunners and Snipers\nare dead weight.",
+  "status": "done",
   "slots": [
    "0x1505"
   ],
@@ -2960,8 +2960,8 @@
  {
   "id": "c7:060ae",
   "jp": "そうか……まいったな。",
-  "en": "",
-  "status": "todo",
+  "en": "I see... That's a pain.",
+  "status": "done",
   "slots": [
    "0x1517"
   ],
@@ -2970,8 +2970,8 @@
  {
   "id": "c7:060c5",
   "jp": "あ、あと、ついでだから\n教えちゃうわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, and while I'm at it, I'll teach you this\ntoo.",
+  "status": "done",
   "slots": [
    "0x1529"
   ],
@@ -2980,8 +2980,8 @@
  {
   "id": "c7:060eb",
   "jp": "天候にはね。『雨』を含んだ\n三種類の天候があるの。",
-  "en": "",
-  "status": "todo",
+  "en": "There are three kinds of weather, 'Rain'\nincluded.",
+  "status": "done",
   "slots": [
    "0x1536"
   ],
@@ -2990,8 +2990,8 @@
  {
   "id": "c7:0611d",
   "jp": "まずは『晴れ』\nまぁこれはいつもの状態って事で、\n何の影響もないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "First, 'Clear'. Well, this is the usual state,\nso it has no effect at all.",
+  "status": "done",
   "slots": [
    "0x153d"
   ],
@@ -3000,8 +3000,8 @@
  {
   "id": "c7:06160",
   "jp": "次に、このウザったい『雨』\n銃火器を使うユニットの能力が\nガクッと下がるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Next, this annoying 'Rain'. Units that use\nfirearms drop sharply in ability.",
+  "status": "done",
   "slots": [
    "0x1544"
   ],
@@ -3010,8 +3010,8 @@
  {
   "id": "c7:061ab",
   "jp": "最後に『霧』\nコイツがまた厄介なのよねぇ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Last, 'Fog'. This one's a real nuisance too...",
+  "status": "done",
   "slots": [
    "0x154b"
   ],
@@ -3020,8 +3020,8 @@
  {
   "id": "c7:061d9",
   "jp": "確かに、霧が濃いと周りが見え\nづらくなりそうだな。",
-  "en": "",
-  "status": "todo",
+  "en": "True, if the fog's thick, it'd be hard to see\naround ya.",
+  "status": "done",
   "slots": [
    "0x155d"
   ],
@@ -3030,8 +3030,8 @@
  {
   "id": "c7:0620b",
   "jp": "そう！　その通りなのよ！\nだから、急に突撃なんてされた時は\n必ずパニックになっちゃうわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes! Exactly! So if someone suddenly\ncharges at you, you're bound to panic.",
+  "status": "done",
   "slots": [
    "0x156f"
   ],
@@ -3040,8 +3040,8 @@
  {
   "id": "c7:06262",
   "jp": "視界が悪いからユニオンの範囲も\n狭くなっちゃうのよ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Visibility's bad, so the Union's range gets\nnarrower too, you know!?",
+  "status": "done",
   "slots": [
    "0x1576"
   ],
@@ -3050,8 +3050,8 @@
  {
   "id": "c7:06298",
   "jp": "人は……天には敵わないのか……。",
-  "en": "",
-  "status": "todo",
+  "en": "So man... is no match for the heavens...",
+  "status": "done",
   "slots": [
    "0x1588"
   ],
@@ -3060,8 +3060,8 @@
  {
   "id": "c7:062b9",
   "jp": "なにふざけてんの？\n心配しなくても、時間がたてば\n天候は変わるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Quit fooling around. Don't worry, the\nweather changes as time passes.",
+  "status": "done",
   "slots": [
    "0x159a"
   ],
@@ -3070,8 +3070,8 @@
  {
   "id": "c7:062fa",
   "jp": "それまで待つ事しかできねぇか。\nくぅ～歯がゆいぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "So all I can do is wait till then. Gah, it's so\nfrustratin'!",
+  "status": "done",
   "slots": [
    "0x15ac"
   ],
@@ -3080,8 +3080,8 @@
  {
   "id": "c7:0632c",
   "jp": "その代わり、晴れたらドーンと\nうっぷんを晴らせばいいのよ！\nそれじゃあ、行くわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "In exchange, once it clears up, you can blow\noff all that steam with a bang! Now then,\nlet's go!",
+  "status": "done",
   "slots": [
    "0x15be"
   ],
@@ -3100,8 +3100,8 @@
  {
   "id": "c7:06384",
   "jp": "これが、遺跡のカードか……。",
-  "en": "",
-  "status": "todo",
+  "en": "So this is a ruin card...",
+  "status": "done",
   "slots": [
    "0xeb9"
   ],
@@ -3110,8 +3110,8 @@
  {
   "id": "c7:063a1",
   "jp": "“タイダルウェイブ”",
-  "en": "",
-  "status": "todo",
+  "en": "\"Tidal Wave\"",
+  "status": "done",
   "slots": [
    "0xecb"
   ],
@@ -3120,8 +3120,8 @@
  {
   "id": "c7:063b6",
   "jp": "敵のヘッド以外を問答無用で\n戦闘不能にする、強力なカードだよ",
-  "en": "",
-  "status": "todo",
+  "en": "It's a powerful card that takes out every\nenemy except the Head, no questions asked.",
+  "status": "done",
   "slots": [
    "0xed2"
   ],
@@ -3130,8 +3130,8 @@
  {
   "id": "c7:063f2",
   "jp": "すげぇ。手に持っただけで、\nウィルが根こそぎ吸い取られるのを\n感じる……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wow. Just holdin' it, I can feel it suckin' out\nevery last bit of my Will...",
+  "status": "done",
   "slots": [
    "0xee4"
   ],
@@ -3140,8 +3140,8 @@
  {
   "id": "c7:0643b",
   "jp": "普段使ってるカードじゃ、\nこうも大量には吸い取られねぇぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "The cards I normally use don't suck out this\nmuch.",
+  "status": "done",
   "slots": [
    "0xef6"
   ],
@@ -3150,8 +3150,8 @@
  {
   "id": "c7:06475",
   "jp": "古代ユーフォリアの力が詰った\nカードだもん。",
-  "en": "",
-  "status": "todo",
+  "en": "It's a card packed with the power of ancient\nEuforia, after all.",
+  "status": "done",
   "slots": [
    "0xf08"
   ],
@@ -3160,8 +3160,8 @@
  {
   "id": "c7:064a1",
   "jp": "普通の人が使ったら、\nあっという間にウィルが尽きて\n体が壊れちゃうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "If a normal person used it, their Will would\nrun out in no time and their body would\nbreak.",
+  "status": "done",
   "slots": [
    "0xf0f"
   ],
@@ -3170,8 +3170,8 @@
  {
   "id": "c7:064e6",
   "jp": "遺跡のカードは、人並み外れた\n意思の力を持ってないと使えない\nカードなんだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ruin cards can only be used by someone with\nextraordinary willpower.",
+  "status": "done",
   "slots": [
    "0xf16"
   ],
@@ -3180,8 +3180,8 @@
  {
   "id": "c7:06533",
   "jp": "強力な切り札だから、使いどころを\nよく考えてね！",
-  "en": "",
-  "status": "todo",
+  "en": "It's a powerful trump card, so think carefully\nabout when to use it!",
+  "status": "done",
   "slots": [
    "0xf1d"
   ],
