@@ -220,3 +220,30 @@ btn_card_data	カードデータ	Card Data
 btn_next_page	次のページへ	Next Page
 btn_skip_check	確認をスキップ	Skip Check
 btn_end	終了	End
+wx_clear	晴れ	Clear
+wx_rain	雨	Rain
+wx_fog	霧	Fog
+wx_snow	雪	Snow
+wx_storm	雷	Storm
+ter_bridge	架橋	Bridge
+ter_road	街道	Road
+ter_plains	草原	Plains
+ter_wasteland	荒野	Wasteland
+ter_forest	森林	Forest
+ter_desert	砂漠	Desert
+ter_swamp	毒沼	Poison Swamp
+ter_sea	海	Sea
+ter_ice	氷上	Ice
+ter_waterside	水辺	Waterside
+ter_village	集落	Village
+ter_city	都市	City
+ter_fortress	城砦	Fortress
+ter_beach	浜辺	Beach
+ter_street	街路	Street
+ter_ruins	遺跡	Ruins
+ter_alley	路地	Alley
+time_day	昼間	Day
+time_evening	夕方	Evening
+time_night	夜	Night
+stat_durability	耐久	Dur.
+stat_morale	士気	Mor.

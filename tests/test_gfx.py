@@ -50,3 +50,20 @@ def test_text_tsv_has_every_key():
     blank = {"cnt_cards", "cnt_people"}   # Japanese counters (枚, 人) English leaves out
     assert all(v.strip() for k, v in t.items() if k not in blank)
     assert all(not t[k] for k in blank)
+
+
+def test_pack_rects_free_and_capped():
+    """draw_pack: the moved words stay in the sheet, overlap neither each other nor a kept rect, and keep the width cap
+    (the field bar draws each at a fixed x)."""
+    a = gfx.ASSETS["hud_terrain"]
+    old = gfx.table_rects(*a["table"])
+    new = [[int(x) for x in ln.split()] for ln in (gfx.GFX / "hud_terrain.rects").read_text("utf8").split("\n") if ln]
+    moved = set(gfx.WEATHER) | set(range(9, 9 + len(gfx.TERRAIN)))   # a word may land on its old spot
+    assert all(o == n for i, (o, n) in enumerate(zip(old, new)) if i not in moved)
+    for i in moved:
+        u, v, w, h = new[i]
+        assert 0 <= u and u + w <= 224 and 0 <= v and v + h <= 202 and h == old[i][3]
+        assert w <= (28 if i in gfx.WEATHER else 40) + 1, (i, w)
+        for j, (u2, v2, w2, h2) in enumerate(new):
+            if j != i and (j in moved or j < 9):
+                assert u + w <= u2 or u2 + w2 <= u or v + h <= v2 or v2 + h2 <= v, (i, j)

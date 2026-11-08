@@ -636,6 +636,80 @@ def draw_sheet(a, rects, redraw, size, h=16, face="LiberationSans-Bold.ttf", str
     return out, [[*place[tuple(r)], pieces[tuple(r)].shape[1], pieces[tuple(r)].shape[0]] for r in rects]
 
 
+def _word(text, face, size, ink, stroke, h, wmax):
+    """One word piece h px high, at most wmax px wide: squeezed to 0.75 (font shrunk down to 9 px if need be), else
+    its two halves (split at a space) stacked in a smaller font."""
+    for s in range(size, 8, -1):
+        lt = layer_text(text, font(face, s), ink[0], stroke, ink[1], lines=True)
+        if wmax / (lt.width - 2) >= 0.75:
+            break
+    if wmax / (lt.width - 2) < 0.75:   # two lines below
+        lt = layer_text(text, font(face, size), ink[0], stroke, ink[1], lines=True)
+    elif lt.width - 2 > wmax:
+        lt = layer_text(text, font(face, s), ink[0], stroke, ink[1], (wmax + 2) / lt.width, lines=True)
+    if lt.width - 2 > wmax:
+        assert " " in text, f"{text!r}: wider than {wmax} px and no space to split at"
+        top, bot = text.split(" ", 1)
+        for s in range(size, 6, -1):
+            ls = [layer_text(x, font(face, s), ink[0], stroke, ink[1]) for x in (top, bot)]
+            if sum(x.height - 3 for x in ls) <= h + 1:
+                break
+        xs = min(1.0, (wmax + 2) / max(x.width for x in ls))
+        ls = [x.resize((max(1, round(x.width * xs)), x.height), Image.LANCZOS) for x in ls]
+        lt = Image.new("RGBA", (max(x.width for x in ls), h + 4), (0, 0, 0, 0))
+        y = max(0, (h + 4 - sum(x.height - 2 for x in ls)) // 2)
+        for x in ls:
+            lt.alpha_composite(x, ((lt.width - x.width) // 2, y))
+            y += x.height - 3
+    top = (lt.height - h) // 2
+    return np.array(lt.crop((1, top, lt.width - 1, top + h)))
+
+
+def draw_pack(a, rects, redraw, size, face="LiberationSans-Bold.ttf", stroke=1, wmax=999):
+    """Words too wide for their cells: rect i in redraw ({i: English}) is cleared and its English (one font size for
+    all, shrunk until every word fits, the old rect height, at most wmax ({i: px} or px) wide: _word) placed in the first free spot
+    of the sheet, longest first. Free = clear pixels outside every kept rect of the table. Returns (image, new rects)
+    for gfx.eboot."""
+    sub = np.zeros(a.shape[:2], bool)
+    inks = {}   # each word in its own old colours (time of day: orange, red, blue)
+    for i in redraw:
+        u, v, w, h = rects[i]
+        sub[v:v + h, u:u + w] = True
+        inks[i] = ink_colours(a[v:v + h, u:u + w])
+    out = a.copy()
+    out[sub] = 0
+    th, tw = a.shape[:2]
+    while True:
+        used = out[..., 3] > 0
+        for i, (u, v, w, h) in enumerate(rects):
+            if i not in redraw:
+                used[v:v + h, u:u + w] = True
+        layers = {}
+        for i, t in redraw.items():
+            layers[i] = _word(t, face, size, inks[i], stroke, rects[i][3], wmax.get(i, 999) if isinstance(wmax, dict) else wmax)
+        new, ok = [list(r) for r in rects], True
+        for i in sorted(layers, key=lambda i: -layers[i].shape[1]):
+            h, w = layers[i].shape[:2]
+            spot = next(((x, y) for y in range(th - h + 1) for x in range(tw - w + 1)
+                         if not used[y:y + h, x:x + w].any()), None)
+            if spot is None:
+                ok = False
+                break
+            x, y = spot
+            used[y:y + h, x:x + w] = True
+            new[i] = [x, y, w, h]
+        if ok:
+            break
+        size -= 1
+        assert size >= 9, "pack: no room"
+    im = Image.fromarray(out)
+    for i, p in layers.items():
+        im.alpha_composite(Image.fromarray(p), tuple(new[i][:2]))
+    res = np.array(im)
+    res[res[..., 3] == 0] = 0
+    return res, new
+
+
 def eboot(e):
     """insert.py: write each word sheet's new rects (gfx/NAME.rects) into its EBOOT table."""
     for name, a in ASSETS.items():
@@ -786,6 +860,8 @@ fixed("suspend_slot", 0x131ad0, 192, 78, [((0, 0, 151, 23), "slot_suspend", Fals
 fixed("counts", 0xEC350, 320, 40, [((261, 0, 52, 15), "cnt_sortie", False), ((261, 15, 56, 15), "cnt_selectable", False),
                                    ((140, 25, 76, 15), "cnt_cards_left", False), ((221, 11, 14, 14), "cnt_cards", False),
                                    ((234, 25, 16, 15), "cnt_people", False)], 13, pad=0)   # rects: EBOOT table 0x2f2808..
+fixed("stat_words", 0xEAED0, 128, 30, [((0, 15, 23, 15), "stat_durability", False), ((23, 15, 23, 15), "stat_morale", False)],
+      12, pad=0)   # table 0x2f2630 entries 11-12; the number after each is drawn at a fixed x, so 23 px is all there is
 fixed("range", 0xE0000, 320, 30, [((240, 16, 32, 14), "range", False)], 12, pad=0)   # table 0x2f2380 entry 11
 fixed("items", 0x3812e0, 272, 154, [((0, 45, 224, 22), "item_none", False), ((107, 79, 70, 12), "item_ship", False),
                                     ((0, 95, 54, 11), "item_status", False), ((73, 90, 137, 24), "item_equipped", False),
@@ -805,6 +881,23 @@ asset("hud_small", 3, "ptx", 0x398650, (0, 0, 224, 247),   # the 非戦闘ユニ
                                              ((71, 124, 42, 14), t["hud_on_board"], False)], 12, pad=0),
                               [((0, 166, 174, 34), t["checking_map"], False), ((0, 213, 133, 34), t["checking_status"], False)],
                               30, stroke=2, pad=0), section=14)
+
+
+TERRAIN = ["ter_bridge", "ter_road", "ter_plains", "ter_wasteland", "ter_forest", "ter_desert", "ter_swamp", "ter_sea",
+           "ter_ice", "ter_waterside", "ter_village", "ter_city", "ter_fortress", "ter_beach", "ter_street", "ter_ruins",
+           "ter_alley"]   # table 0x2f3368.., entries 9-25 of the run from 0x2f3320
+WEATHER = {1: "wx_clear", 2: "wx_rain", 3: "wx_fog", 4: "wx_snow", 5: "wx_storm"}   # 0x2f3328.. (entry 0: the slash)
+asset("hud_terrain", 3, "ptx", 0x1583a0, (0, 0, 224, 202),
+      lambda a, t: draw_pack(a, table_rects(0x2f3320, 26),
+                             {**{i: t[k] for i, k in WEATHER.items()}, **{9 + i: t[k] for i, k in enumerate(TERRAIN)}}, 13,
+                             wmax={**{i: 28 for i in WEATHER}, **{9 + i: 40 for i in range(len(TERRAIN))}}),
+      # the field bar draws each word at a fixed x: the sun icon ~30 px, "-20%" ~41 px right of it
+
+      table=(0x2f3320, 26))
+asset("hud_time", 3, "ptx", 0x15e1a0, (0, 0, 96, 110),
+      lambda a, t: draw_pack(a, table_rects(0x2f3478, 3), {0: t["time_day"], 1: t["time_evening"], 2: t["time_night"]}, 14,
+                             wmax=38),   # the "/" after it is ~40 px right
+      table=(0x2f3478, 3))
 
 
 BUTTONS = {4: "btn_confirm", 5: "btn_back", 6: "btn_data", 7: "btn_help", 8: "btn_switch_unit", 10: "btn_enemy_cards",
