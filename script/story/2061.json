@@ -2,8 +2,8 @@
  {
   "id": "s2061:00028",
   "jp": "ここが、腐海……。",
-  "en": "",
-  "status": "todo",
+  "en": "So this is the Rotting Sea...",
+  "status": "done",
   "slots": [
    "0x2909"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2061:0003f",
   "jp": "皇国軍と数百年も戦争をし続け\n未だに決着がつかない、かつての\n麗水都市シャンティエ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Once the City of Fair Waters, Chantier... at\nwar with the Imperial army for hundreds of\nyears, and still no end in sight...",
+  "status": "done",
   "slots": [
    "0x291b"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2061:0009a",
   "jp": "その成れの果てか……。",
-  "en": "",
-  "status": "todo",
+  "en": "So this is what's left of it...",
+  "status": "done",
   "slots": [
    "0x292d"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2061:000b5",
   "jp": "この海には、何千のウンディーネが\n眠っているんだね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Thousands of Undines sleep in this sea, don't\nthey...",
+  "status": "done",
   "slots": [
    "0x2950"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2061:000f1",
   "jp": "これが、本物の戦場ってやつさ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is what a real battlefield looks like.",
+  "status": "done",
   "slots": [
    "0x2965"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2061:00114",
   "jp": "この長きに亘る戦争を止めるため、\n私は増援を求め海へと旅立った。",
-  "en": "",
-  "status": "todo",
+  "en": "To stop this long war, I set out to sea in\nsearch of reinforcements.",
+  "status": "done",
   "slots": [
    "0x2995"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2061:00158",
   "jp": "そして、俺達と出会ったのか。\n最初は敵だったのに、\n今は随分と仲良くなったよな。",
-  "en": "",
-  "status": "todo",
+  "en": "And then ya met us. We were enemies at\nfirst, but we've gotten pretty close now,\nhuh?",
+  "status": "done",
   "slots": [
    "0x29ab"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2061:001ab",
   "jp": "フ、そうだな。\nしかし、私は自分の使命を\n忘れてはいない。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, I suppose so. But I have not forgotten\nmy mission.",
+  "status": "done",
   "slots": [
    "0x29c1"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2061:001e8",
   "jp": "悪いけど、今のあたし達じゃ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, but the way we are now...",
+  "status": "done",
   "slots": [
    "0x29d7"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2061:0020d",
   "jp": "付いてきたのは私の勝手だ。\n気にするな。",
-  "en": "",
-  "status": "todo",
+  "en": "I came along of my own accord. Think\nnothing of it.",
+  "status": "done",
   "slots": [
    "0x29ed"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2061:00239",
   "jp": "フィービー……。",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee...",
+  "status": "done",
   "slots": [
    "0x2a03"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2061:0024e",
   "jp": "フィービーおねえちゃん。\nどこかにいっちゃうの？",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee-oneechan, are you going away?",
+  "status": "done",
   "slots": [
    "0x2a15"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2061:00282",
   "jp": "いや、もうしばらくいよう。\nここにいれば、援軍を探すよりも\n大きなことができるかもしれない。",
-  "en": "",
-  "status": "todo",
+  "en": "No, I shall stay a while longer. Here, I may be\nable to do something bigger than finding\nreinforcements.",
+  "status": "done",
   "slots": [
    "0x2a2b"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2061:002e1",
   "jp": "でかいことっすか……。\n皇国軍を壊滅させる、とかっすか？",
-  "en": "",
-  "status": "todo",
+  "en": "Something big, sir...? Like wiping out the\nImperial army, sir?",
+  "status": "done",
   "slots": [
    "0x2a4f"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2061:0031d",
   "jp": "ハハハ、それは大きいな。",
-  "en": "",
-  "status": "todo",
+  "en": "Hahaha, that would be big.",
+  "status": "done",
   "slots": [
    "0x2a65"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2061:0033a",
   "jp": "できるさ、俺達なら。",
-  "en": "",
-  "status": "todo",
+  "en": "We can do it. Us guys can.",
+  "status": "done",
   "slots": [
    "0x2a7e"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2061:00353",
   "jp": "やるのは主にお前らだけどな。",
-  "en": "",
-  "status": "todo",
+  "en": "Mostly you lot doing it, mind you.",
+  "status": "done",
   "slots": [
    "0x2a93"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2061:00374",
   "jp": "働けダメ親父……。",
-  "en": "",
-  "status": "todo",
+  "en": "Do some work, you useless old man...",
+  "status": "done",
   "slots": [
    "0x2ab6"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2061:0038b",
   "jp": "増援ではなく、仲間を得たか。\nいいことではないか。",
-  "en": "",
-  "status": "todo",
+  "en": "Rather than reinforcements, you found\ncomrades. Is that not a good thing?",
+  "status": "done",
   "slots": [
    "0x2ad9"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2061:003c1",
   "jp": "あぁ、まったくだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, it truly is.",
+  "status": "done",
   "slots": [
    "0x2aef"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2061:003d8",
   "jp": "待たれよ。海賊達よ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hold, pirates.",
+  "status": "done",
   "slots": [
    "0x2b2d"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2061:003f1",
   "jp": "誰だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Who's there?",
+  "status": "done",
   "slots": [
    "0x2b42"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2061:003fc",
   "jp": "あ、あなた様は……！",
-  "en": "",
-  "status": "todo",
+  "en": "Y-Your Majesty...!",
+  "status": "done",
   "slots": [
    "0x2bfa"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2061:00415",
   "jp": "我が名はジゼル。\n麗水都市シャンティエの女王だ。\n貴様ら、グロリア海賊団じゃな？",
-  "en": "",
-  "status": "todo",
+  "en": "My name is Giselle. Queen of Chantier, the\nCity of Fair Waters. You are the Gloria\nPirates, are you not?",
+  "status": "done",
   "slots": [
    "0x2c1a"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2061:00468",
   "jp": "あぁ、そうだが？",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, what of it?",
+  "status": "done",
   "slots": [
    "0x2c33"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2061:0047d",
   "jp": "よし、ならばすまぬが、早々に\nその首を差し出してもらおう。\n総員、構え！",
-  "en": "",
-  "status": "todo",
+  "en": "Good. Then forgive me, but I must ask you to\nsurrender your heads at once. All troops,\nready!",
+  "status": "done",
   "slots": [
    "0x2c4c"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2061:004c8",
   "jp": "同志達……！",
-  "en": "",
-  "status": "todo",
+  "en": "My comrades...!",
+  "status": "done",
   "slots": [
    "0x2ea3"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2061:004d9",
   "jp": "敵兵！？　まったく。\nなんなのよいきなり！！",
-  "en": "",
-  "status": "todo",
+  "en": "Enemy soldiers!? Honestly, what's this all of\na sudden!?",
+  "status": "done",
   "slots": [
    "0x2ec3"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2061:00509",
   "jp": "すまんの。皇国軍が言うてきた\nのじゃ。グロリアを滅ぼせば\n戦争を止める、とな。",
-  "en": "",
-  "status": "todo",
+  "en": "Forgive me. The Imperial army has told us\nthey will end the war if we destroy the\nGloria.",
+  "status": "done",
   "slots": [
    "0x2edc"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2061:0055a",
   "jp": "皇国軍が……！？",
-  "en": "",
-  "status": "todo",
+  "en": "The Imperial army...!?",
+  "status": "done",
   "slots": [
    "0x2f0f"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2061:0056f",
   "jp": "そんな……それは、皇国の命に従う\nということですよ！？",
-  "en": "",
-  "status": "todo",
+  "en": "But... that means obeying the Empire's\norders!",
+  "status": "done",
   "slots": [
    "0x2f49"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2061:005a9",
   "jp": "私はもう百年耐えた……。\nこれ以上、娘の死ぬ姿は見たくない\nのだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I have endured a hundred years already... I\ncannot bear to watch my daughters die any\nlonger.",
+  "status": "done",
   "slots": [
    "0x2f62"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2061:005ee",
   "jp": "降伏するってぇのか……？",
-  "en": "",
-  "status": "todo",
+  "en": "You're surrenderin'...?",
+  "status": "done",
   "slots": [
    "0x2f89"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2061:0060b",
   "jp": "黙りなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Be silent!",
+  "status": "done",
   "slots": [
    "0x2fa2"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2061:0061c",
   "jp": "落ち着いてください。陛下！\n皇国は人の心を利用する悪党。\n騙されているんです！",
-  "en": "",
-  "status": "todo",
+  "en": "Please calm down, Your Majesty! The Empire\nis a villain that exploits people's hearts.\nYou're being deceived!",
+  "status": "done",
   "slots": [
    "0x2fc9"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2061:0066d",
   "jp": "ならばどうしろというのですか。\n皇国との強さの差は歴然。このまま\nジリ貧になるならいっそ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Then what would you have me do? The gap\nbetween our strength and the Empire's is\nplain. If we're only to wither away like this,\nthen we might as well...",
+  "status": "done",
   "slots": [
    "0x2fe2"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2061:006ce",
   "jp": "あの女王様、心が折れかかってる。",
-  "en": "",
-  "status": "todo",
+  "en": "That queen's heart is about to break.",
+  "status": "done",
   "slots": [
    "0x3009"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2061:006f3",
   "jp": "陛下……。",
-  "en": "",
-  "status": "todo",
+  "en": "Your Majesty...",
+  "status": "done",
   "slots": [
    "0x302d"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2061:00702",
   "jp": "こっちは連戦続きで\nほとんど兵糧が残ってない……。\n今戦うとマズイな。",
-  "en": "",
-  "status": "todo",
+  "en": "We've been fightin' one battle after\nanother, and we've got hardly any rations\nleft... Fightin' now would be bad.",
+  "status": "done",
   "slots": [
    "0x3054"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2061:0074b",
   "jp": "海の性質のせいで\n船底の腐食も速くなってやがる。\nまともに戦ってる暇はねぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "This sea's eatin' through the ship's hull\nfaster, too. We got no time for a real fight!",
+  "status": "done",
   "slots": [
    "0x3077"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2061:0079a",
   "jp": "逃がすと思うたか？\n“ダイヤモンドダスト”！！",
-  "en": "",
-  "status": "todo",
+  "en": "Did you think I would let you escape?\n\"Diamond Dust\"!!",
+  "status": "done",
   "slots": [
    "0x3090"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2061:007cc",
   "jp": "う、海が……！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-the sea...!",
+  "status": "done",
   "slots": [
    "0x30f4"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2061:007df",
   "jp": "凍っちゃったよーーー！！！",
-  "en": "",
-  "status": "todo",
+  "en": "It's frozeeeen!!!",
+  "status": "done",
   "slots": [
    "0x3109"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2061:007fe",
   "jp": "これだけの規模を一瞬で凍らせる\nなんて……。",
-  "en": "",
-  "status": "todo",
+  "en": "Freezing something this big in an instant,\nsir...",
+  "status": "done",
   "slots": [
    "0x311e"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2061:0082e",
   "jp": "さすがはウンディーネの始祖、\nということか。",
-  "en": "",
-  "status": "todo",
+  "en": "As expected of the first mother of the\nUndines, I suppose.",
+  "status": "done",
   "slots": [
    "0x314f"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2061:0085e",
   "jp": "我がダイヤモンドダストからは、\n逃げられんぞ！\nさぁ、覚悟しろ！",
-  "en": "",
-  "status": "todo",
+  "en": "There is no escape from my Diamond Dust!\nNow, prepare yourselves!",
+  "status": "done",
   "slots": [
    "0x3168"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2061:008a1",
   "jp": "陛下……不肖フィービー。\n一度だけ、陛下に逆らわせて\n頂きます！",
-  "en": "",
-  "status": "todo",
+  "en": "Your Majesty... Unworthy as I am, I, Fiebee,\nmust defy you, just this once!",
+  "status": "done",
   "slots": [
    "0x3231"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2061:008e4",
   "jp": "愚かな娘よ、シャンティエの誇りに\n逆らうか……！",
-  "en": "",
-  "status": "todo",
+  "en": "Foolish daughter, would you defy the pride\nof Chantier...!?",
+  "status": "done",
   "slots": [
    "0x324a"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2061:00918",
   "jp": "誇りはいつでもこの胸に！\nしかし！　今は一人のウンディーネ\nとして、アナタを止める！",
-  "en": "",
-  "status": "todo",
+  "en": "My pride is always in my heart! But now, as\none Undine, I will stop you!",
+  "status": "done",
   "slots": [
    "0x3268"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2061:0096f",
   "jp": "海が凍ったせいで船が動かせねぇ。\nなんとしても敵の攻撃を防ぐんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "The frozen sea's got the ship stuck. We\ngotta hold off their attack no matter what!",
+  "status": "done",
   "slots": [
    "0x328f"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2061:009b5",
   "jp": "御止めください陛下！\n皇国の命令に従うのですか！",
-  "en": "",
-  "status": "todo",
+  "en": "Please stop this, Your Majesty! Would you\nobey the Empire's command!?",
+  "status": "done",
   "slots": [
    "0x555d"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2061:009e9",
   "jp": "私はシャンティエの平和を第一に\n考えています。戦争が終わるなら、\n私は敵にさえ従いましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "The peace of Chantier comes first for me. If\nthe war will end, I would obey even the\nenemy!",
+  "status": "done",
   "slots": [
    "0x5576"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2061:00a48",
   "jp": "陛下……おのれ……おのれ\n皇国軍！！",
-  "en": "",
-  "status": "todo",
+  "en": "Your Majesty... Damn you... Damn you,\nImperial army!!",
+  "status": "done",
   "slots": [
    "0x5590"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2061:00a70",
   "jp": "さぁ、海の底へと沈むがよい！",
-  "en": "",
-  "status": "todo",
+  "en": "Now, sink to the bottom of the sea!",
+  "status": "done",
   "slots": [
    "0x4e5c"
   ],
@@ -595,8 +595,8 @@
  {
   "id": "s2061:00a8d",
   "jp": "ウンディーネの始祖だかなんだか\n知らないが、そう簡単にやられて\nたまるかよ！",
-  "en": "",
-  "status": "todo",
+  "en": "First mother of the Undines or whatever, I\nain't goin' down that easy!",
+  "status": "done",
   "slots": [
    "0x4e76"
   ],
@@ -605,8 +605,8 @@
  {
   "id": "s2061:00ad8",
   "jp": "貴様、獣人……ではないな。\n紛い物か。",
-  "en": "",
-  "status": "todo",
+  "en": "You, beastman... no, you are not. A fake,\nthen.",
+  "status": "done",
   "slots": [
    "0x4f60"
   ],
@@ -615,8 +615,8 @@
  {
   "id": "s2061:00afe",
   "jp": "紛い物だって立派な獣人ですよ。\n油断してると、怪我しますよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Even a fake is a proper beastman. Let your\nguard down and you'll get hurt, you know?",
+  "status": "done",
   "slots": [
    "0x4f7a"
   ],
@@ -625,8 +625,8 @@
  {
   "id": "s2061:00b3a",
   "jp": "シャンティエの為に、\nここで果ててゆけ！",
-  "en": "",
-  "status": "todo",
+  "en": "For the sake of Chantier, perish here!",
+  "status": "done",
   "slots": [
    "0x5064"
   ],
@@ -635,8 +635,8 @@
  {
   "id": "s2061:00b62",
   "jp": "気の毒だけど、\n私達だってここで負けるわけには\nいかないのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry for you, but we can't afford to lose\nhere either!",
+  "status": "done",
   "slots": [
    "0x507e"
   ],
@@ -645,8 +645,8 @@
  {
   "id": "s2061:00b9f",
   "jp": "うへぇ。氷上は歩きづらいねぇ。\n足がツルツルすべらぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh. Ice is hard to walk on. My feet keep\nslippin'.",
+  "status": "done",
   "slots": [
    "0x5152"
   ],
@@ -655,8 +655,8 @@
  {
   "id": "s2061:00bd5",
   "jp": "グロリア海賊団船長ザザーランド。\n貴様を討てば、シャンティエは\n平和になるのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland, captain of the Gloria Pirates. If I\nslay you, Chantier will have peace!",
+  "status": "done",
   "slots": [
    "0x516b"
   ],
@@ -665,8 +665,8 @@
  {
   "id": "s2061:00c24",
   "jp": "グロリア海賊団といた以上、\n貴様も我等の敵だ！",
-  "en": "",
-  "status": "todo",
+  "en": "As long as you were with the Gloria Pirates,\nyou too are our enemy!",
+  "status": "done",
   "slots": [
    "0x5255"
   ],
@@ -675,8 +675,8 @@
  {
   "id": "s2061:00c52",
   "jp": "ウンディーネの女王か……。\n侮れぬ相手だな。",
-  "en": "",
-  "status": "todo",
+  "en": "The Queen of the Undines... Not a foe to\ntake lightly.",
+  "status": "done",
   "slots": [
    "0x526f"
   ],
@@ -685,8 +685,8 @@
  {
   "id": "s2061:00c7e",
   "jp": "すまないな、童女よ。\nこれも、シャンティエの平和の為。",
-  "en": "",
-  "status": "todo",
+  "en": "Forgive me, little girl. This too is for the\npeace of Chantier.",
+  "status": "done",
   "slots": [
    "0x5359"
   ],
@@ -695,8 +695,8 @@
  {
   "id": "s2061:00cb4",
   "jp": "心配しなくてもいいよ。\nロコモコ、負けないから！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't worry. Locomoco won't lose!",
+  "status": "done",
   "slots": [
    "0x5373"
   ],
@@ -705,8 +705,8 @@
  {
   "id": "s2061:00ce4",
   "jp": "黄泉の国の者か……。\nフン、飽きもせずよく来るものだ。",
-  "en": "",
-  "status": "todo",
+  "en": "One from the Land of the Dead... Hmph, you\nnever tire of coming here.",
+  "status": "done",
   "slots": [
    "0x545d"
   ],
@@ -715,8 +715,8 @@
  {
   "id": "s2061:00d1a",
   "jp": "ここは世界で最も死人が\n多い所っすからねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, this is the place with the most dead\npeople in the world, sir.",
+  "status": "done",
   "slots": [
    "0x5477"
   ],
@@ -725,8 +725,8 @@
  {
   "id": "s2061:00d46",
   "jp": "これ以上、仕事を増やさないで\nくださいっすよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Please don't give me any more work, okay,\nma'am?",
+  "status": "done",
   "slots": [
    "0x5481"
   ],
@@ -735,8 +735,8 @@
  {
   "id": "s2061:00d74",
   "jp": "その体では、\n一度沈めば充分じゃろう。\nさぁ、沈むがよい！",
-  "en": "",
-  "status": "todo",
+  "en": "With that body, sinking once should be\nenough. Now, sink!",
+  "status": "done",
   "slots": [
    "0x567a"
   ],
@@ -745,8 +745,8 @@
  {
   "id": "s2061:00dad",
   "jp": "ガガガンガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagagangaa!",
+  "status": "done",
   "slots": [
    "0x5694"
   ],
@@ -755,8 +755,8 @@
  {
   "id": "s2061:00dba",
   "jp": "氷上では、その重い銃は上手く\n扱えまい！",
-  "en": "",
-  "status": "todo",
+  "en": "You cannot handle that heavy gun well on\nthe ice!",
+  "status": "done",
   "slots": [
    "0x577e"
   ],
@@ -765,8 +765,8 @@
  {
   "id": "s2061:00de2",
   "jp": "この程度の氷上で扱えなくなるほど\n私は柔ではありませんよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I am not so soft that a little ice like this\nkeeps me from using it!",
+  "status": "done",
   "slots": [
    "0x5798"
   ],
@@ -775,8 +775,8 @@
  {
   "id": "s2061:00e1c",
   "jp": "皇国軍！？\n何故、このような所に……！",
-  "en": "",
-  "status": "todo",
+  "en": "The Imperial army!? Why here, of all\nplaces...!?",
+  "status": "done",
   "slots": [
    "0x5889"
   ],
@@ -785,8 +785,8 @@
  {
   "id": "s2061:00e42",
   "jp": "僕はもう皇国軍の兵士ではない。",
-  "en": "",
-  "status": "todo",
+  "en": "I am no longer a soldier of the Imperial army.",
+  "status": "done",
   "slots": [
    "0x58a3"
   ],
@@ -795,8 +795,8 @@
  {
   "id": "s2061:00e61",
   "jp": "僕は、誇り高き海の戦士だ！",
-  "en": "",
-  "status": "todo",
+  "en": "I am a proud warrior of the sea!",
+  "status": "done",
   "slots": [
    "0x58ad"
   ],
@@ -805,8 +805,8 @@
  {
   "id": "s2061:00e7c",
   "jp": "グロリア海賊団！\n我が槍に沈め！",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates! Sink by my spear!",
+  "status": "done",
   "slots": [
    "0x599e"
   ],
@@ -815,8 +815,8 @@
  {
   "id": "s2061:00e9c",
   "jp": "女王様って言っても、\n煌びやかなモンでもないのねぇ。\nやっぱり海賊が一番だわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Queen or not, it isn't so glamorous, huh?\nBeing a pirate really is the best.",
+  "status": "done",
   "slots": [
    "0x59b8"
   ],
@@ -825,8 +825,8 @@
  {
   "id": "s2061:00ee9",
   "jp": "悲劇の女王様ねぇ。\nよくある話だわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "A tragic queen, huh? Same old story,\ndontcha know.",
+  "status": "done",
   "slots": [
    "0x5a8c"
   ],
@@ -835,8 +835,8 @@
  {
   "id": "s2061:00f0f",
   "jp": "そうだ。だからこの話は\nここで終わらせる。\nシャンティエは、平和になるのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Indeed. That is why this story ends here.\nChantier will have peace!",
+  "status": "done",
   "slots": [
    "0x5aa5"
   ],
@@ -845,8 +845,8 @@
  {
   "id": "s2061:00f5a",
   "jp": "シャンティエの平和の糧となれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Become the price of Chantier's peace!",
+  "status": "done",
   "slots": [
    "0x5b96"
   ],
@@ -855,8 +855,8 @@
  {
   "id": "s2061:00f79",
   "jp": "アナタの奏でる詩は、語るには\n悲しすぎますわ。",
-  "en": "",
-  "status": "todo",
+  "en": "The song you play is too sad to tell.",
+  "status": "done",
   "slots": [
    "0x5bb0"
   ],
@@ -865,8 +865,8 @@
  {
   "id": "s2061:00fa7",
   "jp": "だから、ここで終わらせます。",
-  "en": "",
-  "status": "todo",
+  "en": "So I shall end it here.",
+  "status": "done",
   "slots": [
    "0x5bc5"
   ],
@@ -875,8 +875,8 @@
  {
   "id": "s2061:00fc4",
   "jp": "シャンティエに……平和を……！\nうぅ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Peace... for Chantier...! Ugh...!",
+  "status": "done",
   "slots": [
    "0x5e9c"
   ],
@@ -886,8 +886,8 @@
  {
   "id": "s2061:00ff2",
   "jp": "陛下……。",
-  "en": "",
-  "status": "todo",
+  "en": "Your Majesty...",
+  "status": "done",
   "slots": [
    "0x670c"
   ],
@@ -897,8 +897,8 @@
  {
   "id": "s2061:01001",
   "jp": "百年もの間戦い続けていたアナタが\n……何故今になって、こんな……。",
-  "en": "",
-  "status": "todo",
+  "en": "You fought on for a hundred years... Why\nnow, of all times, would you...",
+  "status": "done",
   "slots": [
    "0x672c"
   ],
@@ -908,8 +908,8 @@
  {
   "id": "s2061:01047",
   "jp": "近年、急に強くなった皇国軍に、\nシャンティエは窮地に立たされた。",
-  "en": "",
-  "status": "todo",
+  "en": "In recent years the Imperial army suddenly\ngrew strong, and Chantier was driven into a\ncorner.",
+  "status": "done",
   "slots": [
    "0x6742"
   ],
@@ -919,8 +919,8 @@
  {
   "id": "s2061:0108b",
   "jp": "急に……？",
-  "en": "",
-  "status": "todo",
+  "en": "Suddenly...?",
+  "status": "done",
   "slots": [
    "0x675b"
   ],
@@ -930,8 +930,8 @@
  {
   "id": "s2061:0109a",
   "jp": "初めての絶望感だった……。\nそう戦っても勝てぬ相手に、\n私の心は簡単に打ち砕かれた。",
-  "en": "",
-  "status": "todo",
+  "en": "It was the first time I had felt despair...\nAgainst a foe I could not beat however I\nfought, my heart shattered so easily.",
+  "status": "done",
   "slots": [
    "0x6774"
   ],
@@ -941,8 +941,8 @@
  {
   "id": "s2061:010f1",
   "jp": "その心の隙間を、皇国軍に突かれた\nってわけね。",
-  "en": "",
-  "status": "todo",
+  "en": "And the Imperial army slipped right into\nthat crack in her heart.",
+  "status": "done",
   "slots": [
    "0x678a"
   ],
@@ -952,8 +952,8 @@
  {
   "id": "s2061:01123",
   "jp": "ルキア皇国が、そのような……。",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire did such a thing...",
+  "status": "done",
   "slots": [
    "0x67b3"
   ],
@@ -963,8 +963,8 @@
  {
   "id": "s2061:01146",
   "jp": "知らなかったのか？",
-  "en": "",
-  "status": "todo",
+  "en": "You didn't know?",
+  "status": "done",
   "slots": [
    "0x67c5"
   ],
@@ -974,8 +974,8 @@
  {
   "id": "s2061:0115d",
   "jp": "恐らく、一般兵は誰も知らない。",
-  "en": "",
-  "status": "todo",
+  "en": "I doubt any of the common soldiers know.",
+  "status": "done",
   "slots": [
    "0x67d7"
   ],
@@ -985,8 +985,8 @@
  {
   "id": "s2061:01180",
   "jp": "強くなったことを\n隠蔽しているのか……。\nこれは何かありそうだな。",
-  "en": "",
-  "status": "todo",
+  "en": "They are hiding that they've grown\nstronger... There must be something behind\nthis.",
+  "status": "done",
   "slots": [
    "0x67e9"
   ],
@@ -996,8 +996,8 @@
  {
   "id": "s2061:011c5",
   "jp": "情けない……。\n私は、全ウンディーネの母として、\n本当に情けないことをした……。",
-  "en": "",
-  "status": "todo",
+  "en": "How pitiful... As the mother of all Undines, I\nhave done something truly pitiful...",
+  "status": "done",
   "slots": [
    "0x6806"
   ],
@@ -1007,8 +1007,8 @@
  {
   "id": "s2061:01218",
   "jp": "娘よ、申し訳ないことをした。\n情けない母を、叱ってくれ。",
-  "en": "",
-  "status": "todo",
+  "en": "Daughter, I have wronged you. Scold your\npitiful mother.",
+  "status": "done",
   "slots": [
    "0x6820"
   ],
@@ -1018,8 +1018,8 @@
  {
   "id": "s2061:01254",
   "jp": "……陛下。まだ間に合いますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Your Majesty. It's not too late.",
+  "status": "done",
   "slots": [
    "0x6836"
   ],
@@ -1029,8 +1029,8 @@
  {
   "id": "s2061:01277",
   "jp": "なに……？",
-  "en": "",
-  "status": "todo",
+  "en": "What...?",
+  "status": "done",
   "slots": [
    "0x684c"
   ],
@@ -1040,8 +1040,8 @@
  {
   "id": "s2061:01286",
   "jp": "実は、私も一度、陛下と同じに\nなった時がありました。",
-  "en": "",
-  "status": "todo",
+  "en": "In truth, I too once became just as you did,\nYour Majesty.",
+  "status": "done",
   "slots": [
    "0x6862"
   ],
@@ -1051,8 +1051,8 @@
  {
   "id": "s2061:012be",
   "jp": "しかし私は立ち直りました。\n新たな仲間を得て。",
-  "en": "",
-  "status": "todo",
+  "en": "But I got back on my feet. I found new\ncomrades.",
+  "status": "done",
   "slots": [
    "0x6869"
   ],
@@ -1062,8 +1062,8 @@
  {
   "id": "s2061:012f0",
   "jp": "仲間……ですか。",
-  "en": "",
-  "status": "todo",
+  "en": "Comrades... is it?",
+  "status": "done",
   "slots": [
    "0x687f"
   ],
@@ -1073,8 +1073,8 @@
  {
   "id": "s2061:01305",
   "jp": "まだ手はありますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "There's still a way.",
+  "status": "done",
   "slots": [
    "0x68b8"
   ],
@@ -1095,8 +1095,8 @@
  {
   "id": "s2061:0132b",
   "jp": "エルマーレ連合国という国がある。\nルキア皇国を滅ぼすために\n作られた国だ。",
-  "en": "",
-  "status": "todo",
+  "en": "There's a country called the Elmare\nFederation. A country made to bring down\nthe Lukia Empire.",
+  "status": "done",
   "slots": [
    "0x68eb"
   ],
@@ -1106,8 +1106,8 @@
  {
   "id": "s2061:01378",
   "jp": "なるほど、そこに入れば、\n援軍も仲間も手に入るわね。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. Join them, and you'll get\nreinforcements and allies too.",
+  "status": "done",
   "slots": [
    "0x6904"
   ],
@@ -1117,8 +1117,8 @@
  {
   "id": "s2061:013b0",
   "jp": "そのような組織が……。",
-  "en": "",
-  "status": "todo",
+  "en": "Such an organisation exists...",
+  "status": "done",
   "slots": [
    "0x691a"
   ],
@@ -1128,8 +1128,8 @@
  {
   "id": "s2061:013cb",
   "jp": "よかったね。ジゼルさん。",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't that great, Giselle-san?",
+  "status": "done",
   "slots": [
    "0x6937"
   ],
@@ -1139,8 +1139,8 @@
  {
   "id": "s2061:013e8",
   "jp": "行きましょう、陛下。\n同志達が、待っていますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Let us go, Your Majesty. Our comrades are\nwaiting.",
+  "status": "done",
   "slots": [
    "0x696a"
   ],
@@ -1150,8 +1150,8 @@
  {
   "id": "s2061:0141c",
   "jp": "フィービー。あなたには、\nあなたの仲間がいるのでしょう。\n私は、もう一人でも大丈夫です。",
-  "en": "",
-  "status": "todo",
+  "en": "Fiebee. You have comrades of your own,\nhaven't you? I will be fine on my own now.",
+  "status": "done",
   "slots": [
    "0x6983"
   ],
@@ -1161,8 +1161,8 @@
  {
   "id": "s2061:01477",
   "jp": "……はい、お元気で、陛下。",
-  "en": "",
-  "status": "todo",
+  "en": "...Yes. Take care, Your Majesty.",
+  "status": "done",
   "slots": [
    "0x6999"
   ],
@@ -1172,8 +1172,8 @@
  {
   "id": "s2061:01496",
   "jp": "……ありがとう。",
-  "en": "",
-  "status": "todo",
+  "en": "...Thank you.",
+  "status": "done",
   "slots": [
    "0x69cb"
   ],
@@ -1183,8 +1183,8 @@
  {
   "id": "s2061:014ab",
   "jp": "あなた達には感謝しています。\nいずれまたどこかでお会いしたら、\nお礼をさせてください。",
-  "en": "",
-  "status": "todo",
+  "en": "I am grateful to you all. If we meet again\nsomewhere someday, please let me repay\nyou.",
+  "status": "done",
   "slots": [
    "0x69dd"
   ],
@@ -1194,8 +1194,8 @@
  {
   "id": "s2061:01504",
   "jp": "そん時は、綺麗なシャンティエを\n見せてくれよ？",
-  "en": "",
-  "status": "todo",
+  "en": "When that happens, show us a beautiful\nChantier, will ya?",
+  "status": "done",
   "slots": [
    "0x69f3"
   ],
@@ -1205,8 +1205,8 @@
  {
   "id": "s2061:01536",
   "jp": "鯛や平目の踊り食いも\n見せてくださいね。",
-  "en": "",
-  "status": "todo",
+  "en": "And show us the sea bream and flounder\ndancing, too. Preferably on our plates.",
+  "status": "done",
   "slots": [
    "0x6a17"
   ],
@@ -1216,8 +1216,8 @@
  {
   "id": "s2061:01562",
   "jp": "舞い踊りでしょ。\n踊り食ってどうするのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's \"dancing\", not \"dancing on our plates\".\nWhat would you even do with that?",
+  "status": "done",
   "slots": [
    "0x6a2d"
   ],
@@ -1227,8 +1227,8 @@
  {
   "id": "s2061:01590",
   "jp": "それでは、お元気で。",
-  "en": "",
-  "status": "todo",
+  "en": "Well then, take care.",
+  "status": "done",
   "slots": [
    "0x6a43"
   ],
@@ -1238,8 +1238,8 @@
  {
   "id": "s2061:015a9",
   "jp": "よっしゃあ！　\n俺達も行くとするか！",
-  "en": "",
-  "status": "todo",
+  "en": "Alright! Let's get goin' too!",
+  "status": "done",
   "slots": [
    "0x6aaa"
   ],
@@ -1249,8 +1249,8 @@
  {
   "id": "s2061:015d1",
   "jp": "おう！　やる気全開だぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah! I'm all fired up!",
+  "status": "done",
   "slots": [
    "0x6ac3"
   ],
@@ -1260,8 +1260,8 @@
  {
   "id": "s2061:015ee",
   "jp": "陛下、同志達。ご武運を祈ります。",
-  "en": "",
-  "status": "todo",
+  "en": "Your Majesty, my comrades. I pray for your\nfortune in battle.",
+  "status": "done",
   "slots": [
    "0x6b47"
   ],
@@ -1271,8 +1271,8 @@
  {
   "id": "s2061:01614",
   "jp": "ここには、数多くの同志達が\n眠っている。",
-  "en": "",
-  "status": "todo",
+  "en": "Many of our comrades sleep here.",
+  "status": "done",
   "slots": [
    "0x34b0"
   ],
@@ -1281,8 +1281,8 @@
  {
   "id": "s2061:0163c",
   "jp": "皆、明日の光を夢見て、死んだ。\nルキア皇国を破るという、明日を。",
-  "en": "",
-  "status": "todo",
+  "en": "They all died dreaming of tomorrow's light.\nA tomorrow where the Lukia Empire is\ndefeated.",
+  "status": "done",
   "slots": [
    "0x34b7"
   ],
@@ -1291,8 +1291,8 @@
  {
   "id": "s2061:0167c",
   "jp": "恥を忍んで頼む……女王陛下を……\n倒してくれ。",
-  "en": "",
-  "status": "todo",
+  "en": "I swallow my shame and ask you... please...\ndefeat Her Majesty the Queen.",
+  "status": "done",
   "slots": [
    "0x34be"
   ],
@@ -1301,8 +1301,8 @@
  {
   "id": "s2061:016aa",
   "jp": "私は、もう、ボロボロになっていく\n女王陛下を見たくはない……。\n頼む……！",
-  "en": "",
-  "status": "todo",
+  "en": "I can no longer bear to watch Her Majesty\nfall to pieces... I beg you...!",
+  "status": "done",
   "slots": [
    "0x352d"
   ],
@@ -1311,8 +1311,8 @@
  {
   "id": "s2061:016f3",
   "jp": "ルキア皇国に敗れて駒になるぐらい\nならいっそ……と思ったのだ。\nすまないな。",
-  "en": "",
-  "status": "todo",
+  "en": "If she was to lose to the Lukia Empire and\nbecome its pawn, I thought it better that...\nForgive me.",
+  "status": "done",
   "slots": [
    "0x3545"
   ],
@@ -1321,8 +1321,8 @@
  {
   "id": "s2061:0173e",
   "jp": "ここにはかつて村があった。\n小さくとも、明るく平和な村だ。",
-  "en": "",
-  "status": "todo",
+  "en": "There was once a village here. Small, but a\nbright and peaceful village.",
+  "status": "done",
   "slots": [
    "0x35d2"
   ],
@@ -1331,8 +1331,8 @@
  {
   "id": "s2061:01778",
   "jp": "滅びた理由は……言わなくても\nわかるな。\nそうだ、ルキア皇国にやられたのだ",
-  "en": "",
-  "status": "todo",
+  "en": "Why it was destroyed... I need not say, I\nthink. Yes, the Lukia Empire did it.",
+  "status": "done",
   "slots": [
    "0x35d9"
   ],
@@ -1341,8 +1341,8 @@
  {
   "id": "s2061:017c1",
   "jp": "かくいう私も、ここに住んでいた\nウンディーネの一人だ。",
-  "en": "",
-  "status": "todo",
+  "en": "I myself was one of the Undines who lived\nhere.",
+  "status": "done",
   "slots": [
    "0x35e0"
   ],
@@ -1351,8 +1351,8 @@
  {
   "id": "s2061:017f7",
   "jp": "私は、幽霊となって、\nある人物を待っていた……お前だ。",
-  "en": "",
-  "status": "todo",
+  "en": "I became a ghost and waited for a certain\nperson... You.",
+  "status": "done",
   "slots": [
    "0x35e7"
   ],
@@ -1361,8 +1361,8 @@
  {
   "id": "s2061:0182d",
   "jp": "お前なら、ルキア皇国軍を滅ぼせる\nそう確信した。\n安心しろ、私の勘は当たるんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I am certain you can destroy the Lukia\nImperial army. Rest assured, my hunches are\nalways right.",
+  "status": "done",
   "slots": [
    "0x3656"
   ],
@@ -1371,8 +1371,8 @@
  {
   "id": "s2061:0187c",
   "jp": "頼んだぞ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm counting on you...",
+  "status": "done",
   "slots": [
    "0x365d"
   ],
@@ -1381,8 +1381,8 @@
  {
   "id": "s2061:0188b",
   "jp": "誰もいないようだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like nobody's here...",
+  "status": "done",
   "slots": [
    "0x3675"
   ],
@@ -1391,8 +1391,8 @@
  {
   "id": "s2061:018a2",
   "jp": "女王陛下は、責任を感じている……\n数百年前の責任を。",
-  "en": "",
-  "status": "todo",
+  "en": "Her Majesty feels responsible... responsible\nfor something hundreds of years ago.",
+  "status": "done",
   "slots": [
    "0x3708"
   ],
@@ -1401,8 +1401,8 @@
  {
   "id": "s2061:018d6",
   "jp": "美しい女王陛下に一目惚れした\n皇帝の婚約の申し出を、\n女王陛下が断った……。",
-  "en": "",
-  "status": "todo",
+  "en": "The Emperor fell for the beautiful Queen at\nfirst sight and asked for her hand, and Her\nMajesty refused...",
+  "status": "done",
   "slots": [
    "0x370f"
   ],
@@ -1411,8 +1411,8 @@
  {
   "id": "s2061:01921",
   "jp": "たったそれだけの理由で、戦争が\n起こった……それだけの理由だから\nこそ、責任を感じておられる……。",
-  "en": "",
-  "status": "todo",
+  "en": "For that reason alone, a war began... And\nbecause it was for that reason alone, she\nfeels responsible...",
+  "status": "done",
   "slots": [
    "0x3716"
   ],
@@ -1421,8 +1421,8 @@
  {
   "id": "s2061:01982",
   "jp": "女王陛下は今、自らの意思を犠牲に\nして、戦争を止めようとしている\nのだ……うぅ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Her Majesty now means to stop the war by\nsacrificing her own will... Ugh...",
+  "status": "done",
   "slots": [
    "0x371d"
   ],
@@ -1431,8 +1431,8 @@
  {
   "id": "s2061:019d5",
   "jp": "これは……",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x37d5"
   ],
@@ -1441,8 +1441,8 @@
  {
   "id": "s2061:019e0",
   "jp": "このウンディーネが持っていた物か\n……悪いけど、借りてくぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Did this Undine have this...? Sorry, but I'm\nborrowin' it.",
+  "status": "done",
   "slots": [
    "0x382b"
   ],
@@ -1451,8 +1451,8 @@
  {
   "id": "s2061:01a1c",
   "jp": "本当に……死体が多いんですね。\nここは。",
-  "en": "",
-  "status": "todo",
+  "en": "There really are... a lot of bodies here.",
+  "status": "done",
   "slots": [
    "0x387e"
   ],
@@ -1461,8 +1461,8 @@
  {
   "id": "s2061:01a44",
   "jp": "勝手に形見にさせてもらいますよ。\n知らないウンディーネさん。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll take this as a keepsake without asking, if\nyou don't mind, Miss Undine I've never met.",
+  "status": "done",
   "slots": [
    "0x38c9"
   ],
@@ -1471,8 +1471,8 @@
  {
   "id": "s2061:01a80",
   "jp": "……ごめんね。",
-  "en": "",
-  "status": "todo",
+  "en": "...I'm sorry.",
+  "status": "done",
   "slots": [
    "0x3915"
   ],
@@ -1481,8 +1481,8 @@
  {
   "id": "s2061:01a8f",
   "jp": "絶対に、止めてみせるから……。",
-  "en": "",
-  "status": "todo",
+  "en": "I promise I'll stop it...",
+  "status": "done",
   "slots": [
    "0x3960"
   ],
@@ -1491,8 +1491,8 @@
  {
   "id": "s2061:01aae",
   "jp": "コレさえあれば戦況が有利に\nなるの……ごめんね。",
-  "en": "",
-  "status": "todo",
+  "en": "With this, the battle will turn in our favour...\nI'm sorry.",
+  "status": "done",
   "slots": [
    "0x39ac"
   ],
@@ -1501,8 +1501,8 @@
  {
   "id": "s2061:01ade",
   "jp": "……行くわよ、アンタ達。",
-  "en": "",
-  "status": "todo",
+  "en": "...Let's go, you lot.",
+  "status": "done",
   "slots": [
    "0x39f7"
   ],
@@ -1511,8 +1511,8 @@
  {
   "id": "s2061:01af7",
   "jp": "俺はアンタの名前は知らないし\n顔も知らねぇ。\n悪いが、もらっていくぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't know your name, and I don't know your\nface. Sorry, but I'm takin' this.",
+  "status": "done",
   "slots": [
    "0x3a43"
   ],
@@ -1521,8 +1521,8 @@
  {
   "id": "s2061:01b3c",
   "jp": "綺麗でなんていられるかよ。\n戦争じゃ、死人でさえ道具の一つだ",
-  "en": "",
-  "status": "todo",
+  "en": "Ain't no keepin' your hands clean. In war,\neven the dead are just another tool.",
+  "status": "done",
   "slots": [
    "0x3a8e"
   ],
@@ -1531,8 +1531,8 @@
  {
   "id": "s2061:01b78",
   "jp": "アクエリアス。\n水辺で地形スキルを使うための\n道具か。",
-  "en": "",
-  "status": "todo",
+  "en": "Aquarius. A tool for using terrain skills by\nthe water, I see.",
+  "status": "done",
   "slots": [
    "0x3ada"
   ],
@@ -1541,8 +1541,8 @@
  {
   "id": "s2061:01bad",
   "jp": "もらっておくよ。\n俺達も、負けられないんでね。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll take it. We can't afford to lose either.",
+  "status": "done",
   "slots": [
    "0x3b25"
   ],
@@ -1551,8 +1551,8 @@
  {
   "id": "s2061:01bdb",
   "jp": "お姉ちゃん、ごめんね。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, lady.",
+  "status": "done",
   "slots": [
    "0x3b71"
   ],
@@ -1561,8 +1561,8 @@
  {
   "id": "s2061:01bf2",
   "jp": "ロコモコ、お姉ちゃんの分まで\n頑張るから。",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco will do her best for you too, lady.",
+  "status": "done",
   "slots": [
    "0x3bbc"
   ],
@@ -1571,8 +1571,8 @@
  {
   "id": "s2061:01c1c",
   "jp": "お、アイテムゲット。\nこいつはラッキーっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, got an item. Lucky me, sir!",
+  "status": "done",
   "slots": [
    "0x3c0f"
   ],
@@ -1581,8 +1581,8 @@
  {
   "id": "s2061:01c48",
   "jp": "この人の意思は今頃黄泉の国\nっすかねぇ。\n課長、よろしく頼むっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder if this person's soul is in the Land of\nthe Dead by now, sir. Section chief, please\ntake care of them, sir.",
+  "status": "done",
   "slots": [
    "0x3c65"
   ],
@@ -1591,8 +1591,8 @@
  {
   "id": "s2061:01c8b",
   "jp": "同志よ……力を借りるぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "My comrade... I shall borrow your strength.",
+  "status": "done",
   "slots": [
    "0x3cb8"
   ],
@@ -1601,8 +1601,8 @@
  {
   "id": "s2061:01ca4",
   "jp": "同志の意思。このフィービーが\n受け取ったぞ……！",
-  "en": "",
-  "status": "todo",
+  "en": "My comrade's will... I, Fiebee, have received\nit...!",
+  "status": "done",
   "slots": [
    "0x3d03"
   ],
@@ -1611,8 +1611,8 @@
  {
   "id": "s2061:01cd4",
   "jp": "ごめんなさい。\n今は、戦争中なのです……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry. We are at war right now...",
+  "status": "done",
   "slots": [
    "0x3d4f"
   ],
@@ -1621,8 +1621,8 @@
  {
   "id": "s2061:01cfe",
   "jp": "この人の分まで、戦わなければ！",
-  "en": "",
-  "status": "todo",
+  "en": "I must fight for this person's share too!",
+  "status": "done",
   "slots": [
    "0x3d9a"
   ],
@@ -1631,8 +1631,8 @@
  {
   "id": "s2061:01d1d",
   "jp": "ガンガグ、ガングー",
-  "en": "",
-  "status": "todo",
+  "en": "Gangagu, gangu.",
+  "status": "done",
   "slots": [
    "0x3de6"
   ],
@@ -1641,8 +1641,8 @@
  {
   "id": "s2061:01d30",
   "jp": "ガグガガ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagugaga...",
+  "status": "done",
   "slots": [
    "0x3e31"
   ],
@@ -1651,8 +1651,8 @@
  {
   "id": "s2061:01d3f",
   "jp": "ハイ、なんかわからないけど\nアイテムゲットよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Okay, no idea what it is, but I got an item.",
+  "status": "done",
   "slots": [
    "0x3e7d"
   ],
@@ -1661,8 +1661,8 @@
  {
   "id": "s2061:01d6d",
   "jp": "死体漁りは趣味じゃないんだけど。\nどうも昔の癖がでちゃうわね。\nヤダヤダ。",
-  "en": "",
-  "status": "todo",
+  "en": "Looting corpses isn't my hobby, but old\nhabits die hard, I guess. Ugh, ugh.",
+  "status": "done",
   "slots": [
    "0x3ec8"
   ],
@@ -1671,8 +1671,8 @@
  {
   "id": "s2061:01db6",
   "jp": "すまぬ、御仁よ。\nしかしこれも戦争ゆえ、仕方が無い\nことなのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Forgive me, good sir. But this is war, and it\ncannot be helped!",
+  "status": "done",
   "slots": [
    "0x3f14"
   ],
@@ -1681,8 +1681,8 @@
  {
   "id": "s2061:01df5",
   "jp": "勝たなくては……！",
-  "en": "",
-  "status": "todo",
+  "en": "We must win...!",
+  "status": "done",
   "slots": [
    "0x3f5f"
   ],
@@ -1691,8 +1691,8 @@
  {
   "id": "s2061:01e08",
   "jp": "お、こりゃあ中々レアアイテム\nなんだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, this here's a pretty rare item, dontcha\nknow!",
+  "status": "done",
   "slots": [
    "0x3fab"
   ],
@@ -1701,8 +1701,8 @@
  {
   "id": "s2061:01e32",
   "jp": "死体の山は宝の山って、皮肉だけど\nよく言ったもんだわさ……。",
-  "en": "",
-  "status": "todo",
+  "en": "\"A mountain of corpses is a mountain of\ntreasure.\" Ironic, but they got that right,\ndontcha know...",
+  "status": "done",
   "slots": [
    "0x3ff6"
   ],
@@ -1711,8 +1711,8 @@
  {
   "id": "s2061:01e6e",
   "jp": "鎮魂歌を一曲プレゼント\nいたしますわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Allow me to present you with a requiem.",
+  "status": "done",
   "slots": [
    "0x4050"
   ],
@@ -1721,8 +1721,8 @@
  {
   "id": "s2061:01e94",
   "jp": "御代はこれで。\nその魂が安らかに眠らん事を……。",
-  "en": "",
-  "status": "todo",
+  "en": "This shall be my fee. May your soul rest in\npeace...",
+  "status": "done",
   "slots": [
    "0x409b"
   ],
@@ -1731,8 +1731,8 @@
  {
   "id": "s2061:01ec4",
   "jp": "チ、死体漁りは趣味じゃねぇぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, lootin' corpses ain't my hobby!",
+  "status": "done",
   "slots": [
    "0x40d7"
   ],
@@ -1741,8 +1741,8 @@
  {
   "id": "s2061:01ee3",
   "jp": "だが、勝つためだ。\n躊躇ってなんかいられねぇんだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "But it's to win. Can't afford to hesitate.",
+  "status": "done",
   "slots": [
    "0x4122"
   ],
@@ -1751,8 +1751,8 @@
  {
   "id": "s2061:01f17",
   "jp": "すげぇこの砂。真っ白だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, this sand. It's pure white.",
+  "status": "done",
   "slots": [
    "0x41d2"
   ],
@@ -1761,8 +1761,8 @@
  {
   "id": "s2061:01f30",
   "jp": "腐海とか言われてるけど……。\nそうでもなかったんだな。",
-  "en": "",
-  "status": "todo",
+  "en": "They call it the Rotting Sea, but... it ain't so\nbad after all.",
+  "status": "done",
   "slots": [
    "0x421d"
   ],
@@ -1771,8 +1771,8 @@
  {
   "id": "s2061:01f66",
   "jp": "綺麗な砂ですねぇ。\nまるで粉雪のようではないですか。",
-  "en": "",
-  "status": "todo",
+  "en": "What lovely sand. Isn't it just like powder\nsnow?",
+  "status": "done",
   "slots": [
    "0x428e"
   ],
@@ -1781,8 +1781,8 @@
  {
   "id": "s2061:01f9a",
   "jp": "これが、本来のシャンティエの姿\nなんでしょうね……。",
-  "en": "",
-  "status": "todo",
+  "en": "I suppose this is what Chantier really looked\nlike...",
+  "status": "done",
   "slots": [
    "0x42d9"
   ],
@@ -1791,8 +1791,8 @@
  {
   "id": "s2061:01fce",
   "jp": "綺麗な砂……。\nウィルなんかに頼らなくても、\n綺麗なものは生み出せるんだね。",
-  "en": "",
-  "status": "todo",
+  "en": "Such pretty sand... You can make beautiful\nthings without relying on Will, can't you.",
+  "status": "done",
   "slots": [
    "0x4351"
   ],
@@ -1801,8 +1801,8 @@
  {
   "id": "s2061:02019",
   "jp": "私が言っても、しまらないか。\nアハハ。",
-  "en": "",
-  "status": "todo",
+  "en": "That doesn't sound right coming from me,\nhuh? Ahaha.",
+  "status": "done",
   "slots": [
    "0x43a7"
   ],
@@ -1811,8 +1811,8 @@
  {
   "id": "s2061:0203f",
   "jp": "うわぁ、綺麗な砂ねぇ。\n手触りが気持ちいいわ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Wow, what pretty sand. It feels so nice to\ntouch.",
+  "status": "done",
   "slots": [
    "0x441f"
   ],
@@ -1821,8 +1821,8 @@
  {
   "id": "s2061:0206f",
   "jp": "かつての麗水都市ってのも、\n嘘じゃないみたいね。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like that \"City of Fair Waters\" thing\nwasn't a lie.",
+  "status": "done",
   "slots": [
    "0x446a"
   ],
@@ -1831,8 +1831,8 @@
  {
   "id": "s2061:0209f",
   "jp": "こいつぁ珍しい現象だな。\n俺も久しぶりに見たぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Now this is a rare sight. First time I've seen\nit in ages.",
+  "status": "done",
   "slots": [
    "0x44db"
   ],
@@ -1841,8 +1841,8 @@
  {
   "id": "s2061:020cf",
   "jp": "アイツラにも見せてやるか。\n驚くぜぇきっと。",
-  "en": "",
-  "status": "todo",
+  "en": "Maybe I'll show the others. Bet they'll be\nsurprised.",
+  "status": "done",
   "slots": [
    "0x4526"
   ],
@@ -1851,8 +1851,8 @@
  {
   "id": "s2061:020fb",
   "jp": "深海の雪……綺麗な海のみ現れる\n自然現象か……。",
-  "en": "",
-  "status": "todo",
+  "en": "Deep-sea snow... A natural phenomenon\nthat only appears in clean seas...",
+  "status": "done",
   "slots": [
    "0x4597"
   ],
@@ -1861,8 +1861,8 @@
  {
   "id": "s2061:0212b",
   "jp": "まだ完全になくなってないとすれば\n……シャンティエ。蘇るかもな。",
-  "en": "",
-  "status": "todo",
+  "en": "If it hasn't completely vanished yet...\nChantier might come back to life.",
+  "status": "done",
   "slots": [
    "0x45e2"
   ],
@@ -1871,8 +1871,8 @@
  {
   "id": "s2061:0216b",
   "jp": "うひゃ～きれいな砂浜～！",
-  "en": "",
-  "status": "todo",
+  "en": "Wowee, what a pretty beach!",
+  "status": "done",
   "slots": [
    "0x4653"
   ],
@@ -1881,8 +1881,8 @@
  {
   "id": "s2061:02184",
   "jp": "本物の雪みたぁ～い！\nみんなにも見せてあげよっと！",
-  "en": "",
-  "status": "todo",
+  "en": "It's just like real snooow! Locomoco's gonna\nshow everyone!",
+  "status": "done",
   "slots": [
    "0x469e"
   ],
@@ -1891,8 +1891,8 @@
  {
   "id": "s2061:021b6",
   "jp": "おぉ～綺麗な砂浜っすねぇ。\n見てるだけで癒されるっす～。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, what a pretty beach, sir. Just looking\nat it is so soothing, sir.",
+  "status": "done",
   "slots": [
    "0x4716"
   ],
@@ -1901,8 +1901,8 @@
  {
   "id": "s2061:021ee",
   "jp": "課長のお土産にでも\nとって行くっす！",
-  "en": "",
-  "status": "todo",
+  "en": "I'll take some back as a souvenir for my\nsection chief, sir!",
+  "status": "done",
   "slots": [
    "0x476c"
   ],
@@ -1911,8 +1911,8 @@
  {
   "id": "s2061:02212",
   "jp": "懐かしいな。\n昔はよくここで同志達と\n水遊びをしたものだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "This takes me back. My comrades and I often\nplayed in the water here...",
+  "status": "done",
   "slots": [
    "0x47e4"
   ],
@@ -1921,8 +1921,8 @@
  {
   "id": "s2061:0224f",
   "jp": "……よし。がんばろう。",
-  "en": "",
-  "status": "todo",
+  "en": "...Right. Let's keep going.",
+  "status": "done",
   "slots": [
    "0x482f"
   ],
@@ -1931,8 +1931,8 @@
  {
   "id": "s2061:02266",
   "jp": "素晴らしい砂浜ですね。\n戦時中だというのが嘘のよう……。",
-  "en": "",
-  "status": "todo",
+  "en": "What a wonderful beach. It's hard to believe\nwe're at war...",
+  "status": "done",
   "slots": [
    "0x48a7"
   ],
@@ -1941,8 +1941,8 @@
  {
   "id": "s2061:0229e",
   "jp": "この景色を守るため、私達は戦って\nいるんですね。",
-  "en": "",
-  "status": "todo",
+  "en": "We're fighting to protect this scenery,\naren't we.",
+  "status": "done",
   "slots": [
    "0x48fd"
   ],
@@ -1951,8 +1951,8 @@
  {
   "id": "s2061:022ce",
   "jp": "グガンガ、グガガガガガーン。",
-  "en": "",
-  "status": "todo",
+  "en": "Gugangaa, gugagagagagaan.",
+  "status": "done",
   "slots": [
    "0x4975"
   ],
@@ -1961,8 +1961,8 @@
  {
   "id": "s2061:022eb",
   "jp": "グガンガ、グガガガンガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gugangaa, gugagagangaa.",
+  "status": "done",
   "slots": [
    "0x49c0"
   ],
@@ -1971,8 +1971,8 @@
  {
   "id": "s2061:02304",
   "jp": "こんな毒々しい海にも、\nこんな物はあるもんね。",
-  "en": "",
-  "status": "todo",
+  "en": "Even a toxic sea like this has something like\nthis, huh?",
+  "status": "done",
   "slots": [
    "0x4a38"
   ],
@@ -1981,8 +1981,8 @@
  {
   "id": "s2061:02332",
   "jp": "こうやって小瓶に入れる事しか\nできないけど。\nこれも立派なお宝よん？",
-  "en": "",
-  "status": "todo",
+  "en": "All I can do is put it in a little bottle, but\nit's still real treasure, you know?",
+  "status": "done",
   "slots": [
    "0x4a8e"
   ],
@@ -1991,8 +1991,8 @@
  {
   "id": "s2061:02375",
   "jp": "なんと……戦場にも、この様な\n美しい光景が広がっていたのか。",
-  "en": "",
-  "status": "todo",
+  "en": "Incredible... Even a battlefield holds a sight\nas beautiful as this.",
+  "status": "done",
   "slots": [
    "0x4b0d"
   ],
@@ -2001,8 +2001,8 @@
  {
   "id": "s2061:023b1",
   "jp": "まるで雪のような砂浜だ。\n心が癒される。",
-  "en": "",
-  "status": "todo",
+  "en": "A beach like snow. It soothes the heart.",
+  "status": "done",
   "slots": [
    "0x4b63"
   ],
@@ -2011,8 +2011,8 @@
  {
   "id": "s2061:023d9",
   "jp": "はぁ～、こんなに白い砂浜。\nあるところにはあるのねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Wow, a beach this white. Guess they do\nexist somewhere.",
+  "status": "done",
   "slots": [
    "0x4bdb"
   ],
@@ -2021,8 +2021,8 @@
  {
   "id": "s2061:0240f",
   "jp": "あ、なんか、カキ氷食べたくなって\nきちゃっただわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, it's makin' me want some shaved ice,\ndontcha know.",
+  "status": "done",
   "slots": [
    "0x4c26"
   ],
@@ -2031,8 +2031,8 @@
  {
   "id": "s2061:02443",
   "jp": "綺麗な砂。まるで粉雪のようですわ",
-  "en": "",
-  "status": "todo",
+  "en": "Such lovely sand. Just like powder snow.",
+  "status": "done",
   "slots": [
    "0x4ca5"
   ],
@@ -2041,8 +2041,8 @@
  {
   "id": "s2061:02464",
   "jp": "腐海の片隅にある小さな楽園。\nこれは、いい詩ができそうですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "A small paradise in a corner of the Rotting\nSea. I feel a fine song coming on.",
+  "status": "done",
   "slots": [
    "0x4cf0"
   ],
@@ -2051,8 +2051,8 @@
  {
   "id": "s2061:024a2",
   "jp": "かぁ～、こういう砂浜。\nあるところにはあるんだなぁ。\n真っ白だぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, beaches like this really do exist\nsomewhere. Pure white.",
+  "status": "done",
   "slots": [
    "0x4d2c"
   ],
@@ -2061,8 +2061,8 @@
  {
   "id": "s2061:024e3",
   "jp": "ま、俺には関係ねぇか。",
-  "en": "",
-  "status": "todo",
+  "en": "Eh, nothin' to do with me.",
+  "status": "done",
   "slots": [
    "0x4d77"
   ],
@@ -2089,8 +2089,8 @@
  {
   "id": "s2061:0269et",
   "jp": "ルキア皇国軍",
-  "en": "",
-  "status": "todo",
+  "en": "Lukia Imperial Army",
+  "status": "done",
   "at": "0x26a1",
   "max": 12,
   "who": "team name"

@@ -2467,8 +2467,8 @@
  {
   "id": "s2059:080c4",
   "jp": "殴り合ったらそこに友情が芽生える\nってイシュトが言ってたよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut said that when you trade punches,\nfriendship starts to grow.",
+  "status": "done",
   "slots": [
    "0xad9a"
   ],
@@ -2478,8 +2478,8 @@
  {
   "id": "s2059:08104",
   "jp": "それはある特殊な条件下の\n男の人の場合なんですけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "That only applies to men, under very special\nconditions.",
+  "status": "done",
   "slots": [
    "0xadb0"
   ],
@@ -2489,8 +2489,8 @@
  {
   "id": "s2059:0813e",
   "jp": "改めて、エリーシャよ。\nよろしく、アンヌ。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's start over. I'm Elisha. Nice to meet\nyou, Anne.",
+  "status": "done",
   "slots": [
    "0xadc6"
   ],
@@ -2500,8 +2500,8 @@
  {
   "id": "s2059:0816c",
   "jp": "ウフフ。\nよろしく、エリーシャ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hehe. Nice to meet you, Elisha.",
+  "status": "done",
   "slots": [
    "0xaddc"
   ],

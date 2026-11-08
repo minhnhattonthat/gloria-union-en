@@ -13,8 +13,8 @@
  {
   "id": "s2060:0003b",
   "jp": "ん？　助けを求める声が聞こえる！",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? I hear someone crying for help!",
+  "status": "done",
   "slots": [
    "0x2331"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2060:00060",
   "jp": "どこぞのスーパーヒーローですか？",
-  "en": "",
-  "status": "todo",
+  "en": "What are you, some kind of superhero?",
+  "status": "done",
   "slots": [
    "0x2346"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2060:00085",
   "jp": "あぁ、子供のころよくやったな。\nごっこ遊びだったけど。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, I played that a lot as a kid. Just\npretend, though.",
+  "status": "done",
   "slots": [
    "0x235b"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2060:000bf",
   "jp": "懐かしいですね。\n私もよくやっていました。",
-  "en": "",
-  "status": "todo",
+  "en": "That takes me back. I used to play it often\ntoo.",
+  "status": "done",
   "slots": [
    "0x238a"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2060:000ed",
   "jp": "あんたのは“ごっこ”じゃなくなる\n気がしてならないわ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't shake the feeling yours wasn't\n\"pretend\" at all...",
+  "status": "done",
   "slots": [
    "0x23aa"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2060:0012b",
   "jp": "助けて～！　と言ってるでしょ！",
-  "en": "",
-  "status": "todo",
+  "en": "I said HEEELP!",
+  "status": "done",
   "slots": [
    "0x23c6"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2060:0014e",
   "jp": "ウヲッ！　だ、誰だ！　",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! Wh-who's there!?",
+  "status": "done",
   "slots": [
    "0x2484"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2060:00169",
   "jp": "て、敵襲か！？",
-  "en": "",
-  "status": "todo",
+  "en": "A-an enemy attack!?",
+  "status": "done",
   "slots": [
    "0x24ac"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2060:0017c",
   "jp": "こほん。\n私の名前はイータ。\n流浪の吟遊詩人です。",
-  "en": "",
-  "status": "todo",
+  "en": "Ahem. My name is Eater. A wandering bard.",
+  "status": "done",
   "slots": [
    "0x24cc"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2060:001b1",
   "jp": "綺麗な人だねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "She's so pretty...",
+  "status": "done",
   "slots": [
    "0x24f0"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2060:001c6",
   "jp": "そうっすねぇ。\nナイスボデーっす。",
-  "en": "",
-  "status": "todo",
+  "en": "Sure is. Nice bod, sir.",
+  "status": "done",
   "slots": [
    "0x2502"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2060:001ec",
   "jp": "アタシよりも美人なんて……\nゆ、許せないわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Prettier than me...? I-I won't stand for it!",
+  "status": "done",
   "slots": [
    "0x2535"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2060:0021c",
   "jp": "優雅さの中にも強さのある女性の\nように感じるな。",
-  "en": "",
-  "status": "todo",
+  "en": "She seems a woman of strength beneath\nthe grace.",
+  "status": "done",
   "slots": [
    "0x2561"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2060:00250",
   "jp": "う、美しい……。\nい、いや！　見惚れるな！\nボクには師匠がいるんだ……！",
-  "en": "",
-  "status": "todo",
+  "en": "S-so beautiful... N-no! Don't stare! I already\nhave my Master...!",
+  "status": "done",
   "slots": [
    "0x258d"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2060:0029b",
   "jp": "あの服暑くないのかしら……。",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't she hot in that outfit...?",
+  "status": "done",
   "slots": [
    "0x25a6"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2060:002bc",
   "jp": "あらアンタ、久しぶりね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, you. Long time no see.",
+  "status": "done",
   "slots": [
    "0x25ce"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2060:002d9",
   "jp": "お久しぶり。こんな所で会うなんて\n縁がありますね。",
-  "en": "",
-  "status": "todo",
+  "en": "Long time no see. Meeting you in a place like\nthis... It must be fate.",
+  "status": "done",
   "slots": [
    "0x25e7"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2060:0030f",
   "jp": "で？\nその吟遊詩人さんが、\n俺達になんのようだ？",
-  "en": "",
-  "status": "todo",
+  "en": "So? What does a bard want with the likes of\nus?",
+  "status": "done",
   "slots": [
    "0x260e"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2060:00342",
   "jp": "実は、悪い人に追われているのです",
-  "en": "",
-  "status": "todo",
+  "en": "Well, you see, a bad man is chasing me.",
+  "status": "done",
   "slots": [
    "0x2624"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2060:00367",
   "jp": "イッヒッヒ。待て待て～。",
-  "en": "",
-  "status": "todo",
+  "en": "Eehee hee. Come back here, missy!",
+  "status": "done",
   "slots": [
    "0x2829"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2060:00384",
   "jp": "ホントだ！\nん～でも、なんか変だよ？",
-  "en": "",
-  "status": "todo",
+  "en": "It's true! Hmm... but something's weird, isn't\nit?",
+  "status": "done",
   "slots": [
    "0x2842"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2060:003ac",
   "jp": "不自然というか……。",
-  "en": "",
-  "status": "todo",
+  "en": "It's kind of fake...",
+  "status": "done",
   "slots": [
    "0x2873"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2060:003c5",
   "jp": "助けてください！",
-  "en": "",
-  "status": "todo",
+  "en": "Please, save me!",
+  "status": "done",
   "slots": [
    "0x288c"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2060:003da",
   "jp": "めっちゃ強引にごまかしたっす！",
-  "en": "",
-  "status": "todo",
+  "en": "She just bulldozed right over that, sir!",
+  "status": "done",
   "slots": [
    "0x28a5"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2060:003fd",
   "jp": "見るからに怪しいですね。\n何か裏があるんじゃないですか？",
-  "en": "",
-  "status": "todo",
+  "en": "She looks suspicious as anything. Isn't there\na catch here?",
+  "status": "done",
   "slots": [
    "0x28d3"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2060:00439",
   "jp": "……どうするよ。",
-  "en": "",
-  "status": "todo",
+  "en": "...So what do we do?",
+  "status": "done",
   "slots": [
    "0x28e5"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2060:0044e",
   "jp": "あたし達の旅の目的はなに？\nもたもたしてると、またカードを\n奪われちゃうわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "What's the point of our voyage? Dawdle\naround and we'll get another card stolen,\nyou know.",
+  "status": "done",
   "slots": [
    "0x28f7"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2060:0049f",
   "jp": "そうだね。早く行かないと……\nでも、イータさんかわいそうだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's true. We have to hurry... But I feel\nbad for Eater-san.",
+  "status": "done",
   "slots": [
    "0x2928"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2060:004e1",
   "jp": "イシュト、お前に任せる。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, I'll leave it to you.",
+  "status": "done",
   "slots": [
    "0x293d"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2060:004fe",
   "jp": "あ、あぁ。わかった。",
-  "en": "",
-  "status": "todo",
+  "en": "Y-yeah. Got it.",
+  "status": "done",
   "slots": [
    "0x2960"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2060:00517",
   "jp": "ちくしょう！　\nこんな端金で死んでられっか！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it! I ain't dying for pocket change like\nthis!",
+  "status": "done",
   "slots": [
    "0x502d"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2060:00547",
   "jp": "おぉ～逃げてく逃げてく。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, look at 'im run, look at 'im run.",
+  "status": "done",
   "slots": [
    "0x5da2"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2060:00564",
   "jp": "思ったより時間がかかりましたね。",
-  "en": "",
-  "status": "todo",
+  "en": "That took longer than I expected.",
+  "status": "done",
   "slots": [
    "0x5dbb"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2060:00589",
   "jp": "うむ、ただの暴漢とは比べ物に\nならなかったな。",
-  "en": "",
-  "status": "todo",
+  "en": "Indeed, he was no match for a common thug.",
+  "status": "done",
   "slots": [
    "0x5de0"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2060:005bb",
   "jp": "はぁ～。\n日も沈んじゃったし、出立は明朝ね",
-  "en": "",
-  "status": "todo",
+  "en": "Haaah. The sun's gone down, too. We'll set\noff tomorrow morning.",
+  "status": "done",
   "slots": [
    "0x5df9"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2060:005e9",
   "jp": "まぁまぁ、人助けが出来たのだし\nいいではありませんか。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, now. We got to help someone, so isn't\nthat good enough?",
+  "status": "done",
   "slots": [
    "0x5e1e"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2060:00623",
   "jp": "イータさん。大丈夫だった？",
-  "en": "",
-  "status": "todo",
+  "en": "Eater-san, are you okay?",
+  "status": "done",
   "slots": [
    "0x5e3a"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2060:00642",
   "jp": "おう！　この通りピンピンしてる！\nお前らつえぇなぁ。\n俺ぁ気に入ったぞ！　うん。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah! Fit as a fiddle, see! You guys are damn\ntough. I like ya! Yep.",
+  "status": "done",
   "slots": [
    "0x5e53"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2060:00695",
   "jp": "さっきの礼儀正しい娘は、\nどこへ行った。",
-  "en": "",
-  "status": "todo",
+  "en": "Where did that polite young lady from\nbefore go?",
+  "status": "done",
   "slots": [
    "0x5e88"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2060:006c1",
   "jp": "あの美しい女性がこんな粗暴な\n言葉を……！\nやはりボクには師匠しかいない！",
-  "en": "",
-  "status": "todo",
+  "en": "That beautiful woman, using such crude\nwords...! It's true, there is no one for me but\nmy Master!",
+  "status": "done",
   "slots": [
    "0x5ead"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2060:0070e",
   "jp": "おいおい、なんかキャラどころか\n性別まで違くないか？",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, whoa, isn't it more than the\npersonality? Even the gender's different,\nisn't it?",
+  "status": "done",
   "slots": [
    "0x5ec9"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2060:00746",
   "jp": "あ？　あぁ、これね。体質。\n俺ってさぁ、夜になると男になるん\nだわ。面白ぇだろ。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Oh, this. It's just how I'm built. See, at\nnight I turn into a man. Funny, right?",
+  "status": "done",
   "slots": [
    "0x5ee2"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2060:00799",
   "jp": "体質で済まされる話なのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Can \"how I'm built\" really explain that?",
+  "status": "done",
   "slots": [
    "0x5efb"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2060:007b8",
   "jp": "……面白すぎて逆に笑えませんよ。",
-  "en": "",
-  "status": "todo",
+  "en": "...It's so funny I can't even laugh.",
+  "status": "done",
   "slots": [
    "0x5f0d"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2060:007dd",
   "jp": "風呂の途中で変わってしまったら\nどうするつもりなのだろうか……。",
-  "en": "",
-  "status": "todo",
+  "en": "What would she do if she changed halfway\nthrough a bath...?",
+  "status": "done",
   "slots": [
    "0x5f40"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2060:00821",
   "jp": "半分女で半分男、ねぇ。\nオカルトの領域じゃない。怖ッ。",
-  "en": "",
-  "status": "todo",
+  "en": "Half woman, half man, huh? That's occult\nterritory. Creepy.",
+  "status": "done",
   "slots": [
    "0x5f6c"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2060:0085b",
   "jp": "すごーい！",
-  "en": "",
-  "status": "todo",
+  "en": "Amaaazing!",
+  "status": "done",
   "slots": [
    "0x5f9d"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2060:0086a",
   "jp": "へぇ、そんな人もいるもんだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh, so there are people like that.",
+  "status": "done",
   "slots": [
    "0x5fb6"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2060:0088f",
   "jp": "この二人にはウケがいいみたいね。",
-  "en": "",
-  "status": "todo",
+  "en": "Seems these two are eating it up.",
+  "status": "done",
   "slots": [
    "0x5fcf"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2060:008b4",
   "jp": "哀れなり。",
-  "en": "",
-  "status": "todo",
+  "en": "How pitiful.",
+  "status": "done",
   "slots": [
    "0x5ffb"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2060:008c3",
   "jp": "……まぁ、それは置いといて。\nなんで俺達をハメた。\nあの男、お前が雇ったんだろ？",
-  "en": "",
-  "status": "todo",
+  "en": "...Well, putting that aside. Why'd you set us\nup? You hired that guy, didn't ya?",
+  "status": "done",
   "slots": [
    "0x601e"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2060:00916",
   "jp": "あぁ、やっぱりそうでしたか。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, so I was right.",
+  "status": "done",
   "slots": [
    "0x6033"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2060:00937",
   "jp": "暴漢にしては身なりがよすぎでした\nっすもんねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "He was way too well-dressed for a thug, sir.",
+  "status": "done",
   "slots": [
    "0x6053"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2060:0096b",
   "jp": "ハッハ、バレちまってたか。\n騙して悪かったな。実はさぁ、詩を\n作るために強い奴を探してんだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ha ha, ya saw through me, huh? Sorry for\nfoolin' ya. Truth is, I'm lookin' for strong\nfolks so I can write my songs.",
+  "status": "done",
   "slots": [
    "0x606c"
   ],
@@ -607,8 +607,8 @@
  {
   "id": "s2060:009cc",
   "jp": "その感じで言うと似合わないわねぇ",
-  "en": "",
-  "status": "todo",
+  "en": "That doesn't suit you at all, the way you\ntalk now.",
+  "status": "done",
   "slots": [
    "0x6085"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2060:009f1",
   "jp": "あんたらの強さに惚れた。\n頼む、俺を同行させてくれねぇか？",
-  "en": "",
-  "status": "todo",
+  "en": "I fell for how strong you lot are. Please, will\nya let me come along?",
+  "status": "done",
   "slots": [
    "0x60a2"
   ],
@@ -629,8 +629,8 @@
  {
   "id": "s2060:00a2f",
   "jp": "……どうする？",
-  "en": "",
-  "status": "todo",
+  "en": "...What do we do?",
+  "status": "done",
   "slots": [
    "0x60bb"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2060:00a42",
   "jp": "いいんじゃない？　そうじゃないと\n騙されてやった甲斐がないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Why not? Otherwise there'd be no point in\nletting ourselves get fooled.",
+  "status": "done",
   "slots": [
    "0x60d1"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2060:00a84",
   "jp": "私も賛成。仲間は多いほうが\nいいよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm for it too. The more friends, the better.",
+  "status": "done",
   "slots": [
    "0x60f1"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2060:00aac",
   "jp": "なにかと面白そうですしね。",
-  "en": "",
-  "status": "todo",
+  "en": "She does seem like she'd be fun, in a lot of\nways.",
+  "status": "done",
   "slots": [
    "0x6103"
   ],
@@ -673,8 +673,8 @@
  {
   "id": "s2060:00acb",
   "jp": "自分も賛成しよう。",
-  "en": "",
-  "status": "todo",
+  "en": "I shall agree as well.",
+  "status": "done",
   "slots": [
    "0x613f"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2060:00ae2",
   "jp": "みんなが言うなら、私も賛成っす。",
-  "en": "",
-  "status": "todo",
+  "en": "If everyone says so, I'm for it too, sir.",
+  "status": "done",
   "slots": [
    "0x6151"
   ],
@@ -695,8 +695,8 @@
  {
   "id": "s2060:00b07",
   "jp": "さんせ～い！",
-  "en": "",
-  "status": "todo",
+  "en": "Yaaay!",
+  "status": "done",
   "slots": [
    "0x6163"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "s2060:00b18",
   "jp": "彼女の詩は聞いていて心地がいい。\n賛成だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Her songs are pleasant to hear. I agree.",
+  "status": "done",
   "slots": [
    "0x61a0"
   ],
@@ -717,8 +717,8 @@
  {
   "id": "s2060:00b46",
   "jp": "ガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangaa!",
+  "status": "done",
   "slots": [
    "0x61cf"
   ],
@@ -728,8 +728,8 @@
  {
   "id": "s2060:00b55",
   "jp": "私も賛成です。共に戦いましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "I agree as well. Let us fight together.",
+  "status": "done",
   "slots": [
    "0x61fe"
   ],
@@ -739,8 +739,8 @@
  {
   "id": "s2060:00b7a",
   "jp": "ボクも大歓迎です！",
-  "en": "",
-  "status": "todo",
+  "en": "She's more than welcome!",
+  "status": "done",
   "slots": [
    "0x622d"
   ],
@@ -750,8 +750,8 @@
  {
   "id": "s2060:00b91",
   "jp": "ん～、ま、いいんじゃない？",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, well, why not?",
+  "status": "done",
   "slots": [
    "0x625c"
   ],
@@ -761,8 +761,8 @@
  {
   "id": "s2060:00bb0",
   "jp": "親父は、どうだ？",
-  "en": "",
-  "status": "todo",
+  "en": "What about you, Dad?",
+  "status": "done",
   "slots": [
    "0x628a"
   ],
@@ -772,8 +772,8 @@
  {
   "id": "s2060:00bc5",
   "jp": "ん～まぁ面白そうだし、いいぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, well, sounds like fun. Sure.",
+  "status": "done",
   "slots": [
    "0x62a3"
   ],
@@ -783,8 +783,8 @@
  {
   "id": "s2060:00be8",
   "jp": "本当か！？　すまねぇ！\n恩に着るぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Really!? Thanks a ton! I owe ya!",
+  "status": "done",
   "slots": [
    "0x62bc"
   ],
@@ -794,8 +794,8 @@
  {
   "id": "s2060:00c10",
   "jp": "今度は聞かせてね。アナタの詩。",
-  "en": "",
-  "status": "todo",
+  "en": "Next time, let me hear one of your songs.",
+  "status": "done",
   "slots": [
    "0x62d5"
   ],
@@ -805,8 +805,8 @@
  {
   "id": "s2060:00c33",
   "jp": "あぁ！　とびっきりのシャウトを\n聞かせてやるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Sure! I'll let ya hear one hell of a shout!",
+  "status": "done",
   "slots": [
    "0x62f9"
   ],
@@ -816,8 +816,8 @@
  {
   "id": "s2060:00c67",
   "jp": "頼むのは昼のイータさんにしよう。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll ask daytime Eater-san.",
+  "status": "done",
   "slots": [
    "0x6312"
   ],
@@ -827,8 +827,8 @@
  {
   "id": "s2060:00c8c",
   "jp": "ここで会ったが百年目！\nグロリア海賊団！　覚悟しやがれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now I've got you at last! Gloria Pirates!\nPrepare yourselves!",
+  "status": "done",
   "slots": [
    "0x4f13"
   ],
@@ -838,8 +838,8 @@
  {
   "id": "s2060:00cc8",
   "jp": "黒い牙の残党！？\nもぉ～！　\n結局戦闘になっちゃうんだから！",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang leftovers!? Oh, come ooon! It\nalways ends in a fight!",
+  "status": "done",
   "slots": [
    "0x4f31"
   ],
@@ -849,8 +849,8 @@
  {
   "id": "s2060:00d07",
   "jp": "さっさと倒して先に進もう！",
-  "en": "",
-  "status": "todo",
+  "en": "Let's beat them quick and move on!",
+  "status": "done",
   "slots": [
    "0x4f38"
   ],
@@ -860,8 +860,8 @@
  {
   "id": "s2060:00d26",
   "jp": "お、あったあった。\n親父ぃ、見つけたわよぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, there it is, there it is. Daaad, I found it!",
+  "status": "done",
   "slots": [
    "0x64d7"
   ],
@@ -871,8 +871,8 @@
  {
   "id": "s2060:00d56",
   "jp": "よぉし、じゃあ船に乗れ。\n海流に乗って次の島まで行くぞぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "Alriiight, then get on the ship. We'll ride the\ncurrent to the next island.",
+  "status": "done",
   "slots": [
    "0x64e9"
   ],
@@ -882,8 +882,8 @@
  {
   "id": "s2060:00d94",
   "jp": "まっくらで前がみえないよぉ～。",
-  "en": "",
-  "status": "todo",
+  "en": "It's all dark, I can't see anythiiing!",
+  "status": "done",
   "slots": [
    "0x64fb"
   ],
@@ -893,8 +893,8 @@
  {
   "id": "s2060:00db7",
   "jp": "はいはぁい、\n手を握っててあげるっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "There, there. I'll hold your hand, okay?",
+  "status": "done",
   "slots": [
    "0x650d"
   ],
@@ -904,8 +904,8 @@
  {
   "id": "s2060:00de3",
   "jp": "ラズベリーは暗くないの？",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry, isn't it dark for you?",
+  "status": "done",
   "slots": [
    "0x651f"
   ],
@@ -915,8 +915,8 @@
  {
   "id": "s2060:00e00",
   "jp": "これでも吸血鬼っすから、\n暗視はデフォルトっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm a vampire, after all, sir. Night vision\ncomes standard.",
+  "status": "done",
   "slots": [
    "0x6531"
   ],
@@ -926,8 +926,8 @@
  {
   "id": "s2060:00e36",
   "jp": "へぇ～便利ねぇ。羨ましいわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh, how handy. I'm jealous.",
+  "status": "done",
   "slots": [
    "0x6543"
   ],
@@ -937,8 +937,8 @@
  {
   "id": "s2060:00e57",
   "jp": "ラズベリーおねえちゃん\nすご～い！",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry-oneechan, that's amaaazing!",
+  "status": "done",
   "slots": [
    "0x6578"
   ],
@@ -948,8 +948,8 @@
  {
   "id": "s2060:00e7d",
   "jp": "いやぁ、ハハ。照れるっす。",
-  "en": "",
-  "status": "todo",
+  "en": "Aw, ha ha. You're making me blush, sir.",
+  "status": "done",
   "slots": [
    "0x658a"
   ],
@@ -959,8 +959,8 @@
  {
   "id": "s2060:00e9c",
   "jp": "それにしても……。\n早めに行動して正解だった。",
-  "en": "",
-  "status": "todo",
+  "en": "Anyway... Good thing we got moving early.",
+  "status": "done",
   "slots": [
    "0x659c"
   ],
@@ -970,8 +970,8 @@
  {
   "id": "s2060:00ece",
   "jp": "えぇ、彼女に構ってたら、\nお宝探しどころじゃ\nなくなってましたよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, if we'd let her drag us in, treasure\nhunting would've been the last thing on our\nminds.",
+  "status": "done",
   "slots": [
    "0x65c3"
   ],
@@ -981,8 +981,8 @@
  {
   "id": "s2060:00f13",
   "jp": "でも、悪いことしたかなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "But I wonder if we did something bad...",
+  "status": "done",
   "slots": [
    "0x65d5"
   ],
@@ -992,8 +992,8 @@
  {
   "id": "s2060:00f32",
   "jp": "いいのよ、\nあぁいう怪しいのに関わってたら、\n碌なことにならないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's fine. Get mixed up with someone that\nshady and nothing good ever comes of it.",
+  "status": "done",
   "slots": [
    "0x65e7"
   ],
@@ -1003,8 +1003,8 @@
  {
   "id": "s2060:00f79",
   "jp": "急ぎの旅であるしな。",
-  "en": "",
-  "status": "todo",
+  "en": "Our journey is an urgent one, after all.",
+  "status": "done",
   "slots": [
    "0x65f9"
   ],
@@ -1014,8 +1014,8 @@
  {
   "id": "s2060:00f92",
   "jp": "君子危うきに近寄らず。\nスルーして正解だろう。",
-  "en": "",
-  "status": "todo",
+  "en": "A wise man keeps away from danger.\nIgnoring her was the right call.",
+  "status": "done",
   "slots": [
    "0x662c"
   ],
@@ -1025,8 +1025,8 @@
  {
   "id": "s2060:00fc4",
   "jp": "チッ、根性なしどもが。せっかく\n俺が試してやったってのによ……。\nお前ら、引き揚げるぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, spineless bunch. And here I went to the\ntrouble of testin' 'em... Boys, we're pullin'\nout.",
+  "status": "done",
   "slots": [
    "0x6694"
   ],
@@ -1036,8 +1036,8 @@
  {
   "id": "s2060:0101f",
   "jp": "ヘイ！　旦那の姉さん！",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, sir! Ma'am! Sir-ma'am!",
+  "status": "done",
   "slots": [
    "0x66aa"
   ],
@@ -1047,8 +1047,8 @@
  {
   "id": "s2060:0103a",
   "jp": "紛らわしいからその呼び方止めろ。\n……さて、久々に、\nあのオカマにでも会いに行くか。",
-  "en": "",
-  "status": "todo",
+  "en": "Quit callin' me that, it's confusin'. ...Well\nthen, maybe I'll go see that drag queen for\nthe first time in ages.",
+  "status": "done",
   "slots": [
    "0x66c0"
   ],
@@ -1058,8 +1058,8 @@
  {
   "id": "s2060:01091",
   "jp": "しょうがねぇ。\n無視するわけにもいかねぇからな。",
-  "en": "",
-  "status": "todo",
+  "en": "Can't be helped. I can't just ignore it.",
+  "status": "done",
   "slots": [
    "0x3ed6"
   ],
@@ -1068,8 +1068,8 @@
  {
   "id": "s2060:010c1",
   "jp": "な、なんだテメェは！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-who the hell are you!?",
+  "status": "done",
   "slots": [
    "0x3eef"
   ],
@@ -1078,8 +1078,8 @@
  {
   "id": "s2060:010d6",
   "jp": "テメェらなんかに名乗るほど、\n俺の名は安くねぇよ！\nさっさと寝ろ！",
-  "en": "",
-  "status": "todo",
+  "en": "My name's way too good to waste on the\nlikes of you! Now go to sleep!",
+  "status": "done",
   "slots": [
    "0x3f09"
   ],
@@ -1088,8 +1088,8 @@
  {
   "id": "s2060:01117",
   "jp": "正義のネコ。\nピンガー仮面参上！",
-  "en": "",
-  "status": "todo",
+  "en": "The cat of justice, Masked Pinger, is here!",
+  "status": "done",
   "slots": [
    "0x3fe4"
   ],
@@ -1098,8 +1098,8 @@
  {
   "id": "s2060:01137",
   "jp": "な、なんだテメェは！\n仮面なんてつけてねぇじゃねぇか！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-who the hell are you!? You ain't even\nwearin' a mask!",
+  "status": "done",
   "slots": [
    "0x3ffd"
   ],
@@ -1108,8 +1108,8 @@
  {
   "id": "s2060:0116d",
   "jp": "問答無用！",
-  "en": "",
-  "status": "todo",
+  "en": "Silence!",
+  "status": "done",
   "slots": [
    "0x4017"
   ],
@@ -1118,8 +1118,8 @@
  {
   "id": "s2060:01178",
   "jp": "お姉さん！　今助けるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Lady! I'll save you!",
+  "status": "done",
   "slots": [
    "0x40eb"
   ],
@@ -1128,8 +1128,8 @@
  {
   "id": "s2060:01191",
   "jp": "ヘッ！　小娘一人で何ができる！\nテメェラ、やっちまえ！",
-  "en": "",
-  "status": "todo",
+  "en": "Heh! What can one little girl do? Get 'er,\nboys!",
+  "status": "done",
   "slots": [
    "0x4104"
   ],
@@ -1138,8 +1138,8 @@
  {
   "id": "s2060:011c7",
   "jp": "ま、しょうがないわね。\n助けてあげましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, can't be helped. Let's save her.",
+  "status": "done",
   "slots": [
    "0x41df"
   ],
@@ -1148,8 +1148,8 @@
  {
   "id": "s2060:011f3",
   "jp": "なんだお前は！\n……ってなんだ、女か。",
-  "en": "",
-  "status": "todo",
+  "en": "Who are you!? ...Oh, it's just a woman.",
+  "status": "done",
   "slots": [
    "0x41f8"
   ],
@@ -1158,8 +1158,8 @@
  {
   "id": "s2060:01219",
   "jp": "女だからって安心するんだ。\nそれって、三流以下のすることよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Relaxing just because I'm a woman? That's\nwhat third-raters do, you know.",
+  "status": "done",
   "slots": [
    "0x4212"
   ],
@@ -1168,15 +1168,15 @@
  {
   "id": "s2060:01255",
   "jp": "ま、ゴロツキなんて\nみんなそんなもんか。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, thugs are all like that, I guess.",
+  "status": "done",
   "slots": []
  },
  {
   "id": "s2060:0127d",
   "jp": "な、なななんだて、テメェは！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-wh-wh-who the h-hell are you!?",
+  "status": "done",
   "slots": [
    "0x4303"
   ],
@@ -1185,8 +1185,8 @@
  {
   "id": "s2060:0129a",
   "jp": "あぁ～、悪いようにはしねぇから、\nさっさとどっか行け。な？",
-  "en": "",
-  "status": "todo",
+  "en": "Aaah, I won't do you any harm, so just get\nlost. 'Kay?",
+  "status": "done",
   "slots": [
    "0x431d"
   ],
@@ -1195,8 +1195,8 @@
  {
   "id": "s2060:012d4",
   "jp": "淑女を狙うマナー違反の輩め。\n成敗してくれる！",
-  "en": "",
-  "status": "todo",
+  "en": "Ruffians who prey on a lady, a breach of\nmanners! I shall punish you!",
+  "status": "done",
   "slots": [
    "0x43f1"
   ],
@@ -1205,8 +1205,8 @@
  {
   "id": "s2060:01302",
   "jp": "うるせぇ野郎だ！\n黙らせてやる！",
-  "en": "",
-  "status": "todo",
+  "en": "What a noisy guy! I'll shut you up!",
+  "status": "done",
   "slots": [
    "0x440a"
   ],
@@ -1215,8 +1215,8 @@
  {
   "id": "s2060:01322",
   "jp": "女の人を傷つけるのはダメって\nお姉ちゃんが言ってたよ！",
-  "en": "",
-  "status": "todo",
+  "en": "My big sister said you mustn't hurt ladies!",
+  "status": "done",
   "slots": [
    "0x44de"
   ],
@@ -1225,8 +1225,8 @@
  {
   "id": "s2060:01358",
   "jp": "うるせぇガキ！\nガキは帰って飴でも舐めてやがれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Shut it, brat! Brats should go home and suck\non candy!",
+  "status": "done",
   "slots": [
    "0x44f7"
   ],
@@ -1235,8 +1235,8 @@
  {
   "id": "s2060:01388",
   "jp": "こらこら、あまり悪行が過ぎると\n地獄に落ちてしまうっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, now, if you overdo the evil deeds you'll\nend up in Hell, sir.",
+  "status": "done",
   "slots": [
    "0x45cb"
   ],
@@ -1245,8 +1245,8 @@
  {
   "id": "s2060:013c2",
   "jp": "あぁ？　なんだこの女。\n地獄に落ちるとか、電波系か？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? What's with this girl? \"End up in Hell\"?\nYou some kinda nutcase?",
+  "status": "done",
   "slots": [
    "0x45e4"
   ],
@@ -1255,8 +1255,8 @@
  {
   "id": "s2060:013f6",
   "jp": "貴様等の様な輩が海を汚すのだ。\n早々にこの場を立ち去れ！",
-  "en": "",
-  "status": "todo",
+  "en": "Riffraff like you are what fouls the seas.\nLeave this place at once!",
+  "status": "done",
   "slots": [
    "0x46b8"
   ],
@@ -1275,8 +1275,8 @@
  {
   "id": "s2060:0144d",
   "jp": "なんてわかりやすい悪！\nフフフ、腕が鳴るわ……！",
-  "en": "",
-  "status": "todo",
+  "en": "What blatant evil! Hehehe, my arm is\nitching...!",
+  "status": "done",
   "slots": [
    "0x47a5"
   ],
@@ -1285,8 +1285,8 @@
  {
   "id": "s2060:0147d",
   "jp": "な、なんだコイツ……危ねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what's with her...? She's dangerous.",
+  "status": "done",
   "slots": [
    "0x47be"
   ],
@@ -1295,8 +1295,8 @@
  {
   "id": "s2060:0149a",
   "jp": "ガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangaa!",
+  "status": "done",
   "slots": [
    "0x4892"
   ],
@@ -1305,8 +1305,8 @@
  {
   "id": "s2060:014a5",
   "jp": "な、なんだぁ？\nこの人形は？\nってわぁぁ！　襲ってきたぁ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what the? What's this doll? Whoa,\nwhoa! It's attacking!?",
+  "status": "done",
   "slots": [
    "0x48ab"
   ],
@@ -1315,8 +1315,8 @@
  {
   "id": "s2060:014e0",
   "jp": "麗しき婦女子を襲うなど、\n男の風上にも置けぬ奴等よ！\n覚悟せよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Assaulting a fair maiden! You are a disgrace\nto all men! Prepare yourselves!",
+  "status": "done",
   "slots": [
    "0x497f"
   ],
@@ -1325,8 +1325,8 @@
  {
   "id": "s2060:0151f",
   "jp": "ヘッ！　騎士気取りのお坊ちゃんは\n帰って素振りでもしてな！",
-  "en": "",
-  "status": "todo",
+  "en": "Heh! Run home and practise your swings,\nlittle lordling playin' knight!",
+  "status": "done",
   "slots": [
    "0x4998"
   ],
@@ -1335,8 +1335,8 @@
  {
   "id": "s2060:01559",
   "jp": "その身のこなし……。\nただのゴロツキじゃないようね。",
-  "en": "",
-  "status": "todo",
+  "en": "The way you move... You're no ordinary\nthug, are you?",
+  "status": "done",
   "slots": [
    "0x4a6c"
   ],
@@ -1345,8 +1345,8 @@
  {
   "id": "s2060:0158d",
   "jp": "ヘッヘッヘ。\n女だからって容赦しないぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh heh heh. Just 'cause you're a woman\ndon't mean I'll go easy.",
+  "status": "done",
   "slots": [
    "0x4a85"
   ],
@@ -1355,8 +1355,8 @@
  {
   "id": "s2060:015b5",
   "jp": "あのねぇ。\n演技するなら、もっとマシな\n演技をするんだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Look here. If you're gonna act, act a bit\nbetter than that, dontcha know.",
+  "status": "done",
   "slots": [
    "0x4b59"
   ],
@@ -1365,8 +1365,8 @@
  {
   "id": "s2060:015f0",
   "jp": "ギクッ！\nな……なんのことやら？",
-  "en": "",
-  "status": "todo",
+  "en": "Gulp! Wh-what are you talkin' about?",
+  "status": "done",
   "slots": [
    "0x4b72"
   ],
@@ -1375,8 +1375,8 @@
  {
   "id": "s2060:01610",
   "jp": "お嬢さん。\n俺が来たからにはもう大丈夫だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Miss, you're safe now that I'm here!",
+  "status": "done",
   "slots": [
    "0x3b3e"
   ],
@@ -1385,8 +1385,8 @@
  {
   "id": "s2060:0163a",
   "jp": "あ、あなたは……！？",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-who are you...!?",
+  "status": "done",
   "slots": [
    "0x3b57"
   ],
@@ -1395,8 +1395,8 @@
  {
   "id": "s2060:0164f",
   "jp": "俺の名はイシュト！\n通りすがりの……正義の味方さ！",
-  "en": "",
-  "status": "todo",
+  "en": "The name's Ishut! Just a passing... hero of\njustice!",
+  "status": "done",
   "slots": [
    "0x3b75"
   ],
@@ -1405,8 +1405,8 @@
  {
   "id": "s2060:01681",
   "jp": "……きまった！",
-  "en": "",
-  "status": "todo",
+  "en": "...Nailed it!",
+  "status": "done",
   "slots": [
    "0x3b7c"
   ],
@@ -1415,8 +1415,8 @@
  {
   "id": "s2060:01690",
   "jp": "おー！　イシュト、かっこいいー！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh! Ishut, you're so cool!",
+  "status": "done",
   "slots": [
    "0x3b9a"
   ],
@@ -1425,8 +1425,8 @@
  {
   "id": "s2060:016b1",
   "jp": "そ、そうか？　ヘヘッ。",
-  "en": "",
-  "status": "todo",
+  "en": "Y-you think? Heheh.",
+  "status": "done",
   "slots": [
    "0x3bb8"
   ],
@@ -1435,8 +1435,8 @@
  {
   "id": "s2060:016c8",
   "jp": "はいはい。満足したなら、\n早くイータさんを助けますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, yes. If you're satisfied, let's hurry up\nand save Eater-san.",
+  "status": "done",
   "slots": [
    "0x3bd6"
   ],
@@ -1455,8 +1455,8 @@
  {
   "id": "s2060:01705",
   "jp": "もう、バカなんだから……。",
-  "en": "",
-  "status": "todo",
+  "en": "Honestly, what an idiot...",
+  "status": "done",
   "slots": [
    "0x3c12"
   ],
@@ -1465,8 +1465,8 @@
  {
   "id": "s2060:01720",
   "jp": "ここコンチェル地域では、\n音楽が生活の一部になっていてね。\n年中音楽が鳴り止まない土地なのさ",
-  "en": "",
-  "status": "todo",
+  "en": "Here in the Concer region, music is part of\neveryday life. It's a land where the music\nnever stops, all year round.",
+  "status": "done",
   "slots": [
    "0x2aa4"
   ],
@@ -1475,8 +1475,8 @@
  {
   "id": "s2060:0177b",
   "jp": "音楽に包まれた生活、素晴らしいと\n思わないかい？",
-  "en": "",
-  "status": "todo",
+  "en": "A life wrapped in music. Don't you think it's\nwonderful?",
+  "status": "done",
   "slots": [
    "0x2aab"
   ],
@@ -1485,8 +1485,8 @@
  {
   "id": "s2060:017ab",
   "jp": "少しよろしいか？",
-  "en": "",
-  "status": "todo",
+  "en": "Might I have a moment?",
+  "status": "done",
   "slots": [
    "0x2b6d"
   ],
@@ -1495,8 +1495,8 @@
  {
   "id": "s2060:017bc",
   "jp": "おぬし、いい目をしておるの。\nこれをやろう。",
-  "en": "",
-  "status": "todo",
+  "en": "You have good eyes, young one. Here, take\nthis.",
+  "status": "done",
   "slots": [
    "0x2b74"
   ],
@@ -1505,8 +1505,8 @@
  {
   "id": "s2060:017e8",
   "jp": "このベルは、心が綺麗であれば\nあるほど美しい音色が鳴ると\nいわれている。",
-  "en": "",
-  "status": "todo",
+  "en": "They say the purer your heart, the more\nbeautiful this bell sounds.",
+  "status": "done",
   "slots": [
    "0x2be3"
   ],
@@ -1515,8 +1515,8 @@
  {
   "id": "s2060:0182f",
   "jp": "おぬしなら、さぞいい音色が\n出るじゃろう。\nホッホッホ。ではの。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sure you'll draw a fine tone from it. Ho ho\nho. Farewell.",
+  "status": "done",
   "slots": [
    "0x2bea"
   ],
@@ -1525,8 +1525,8 @@
  {
   "id": "s2060:0186e",
   "jp": "この世は音で溢れておる。\nよぉく耳を傾けるんじゃぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "This world overflows with sound. Listen\nclosely, now.",
+  "status": "done",
   "slots": [
    "0x2c02"
   ],
@@ -1535,8 +1535,8 @@
  {
   "id": "s2060:018a2",
   "jp": "いいね……いいねキミ！\nキミだよ、そこのキミ！",
-  "en": "",
-  "status": "todo",
+  "en": "Nice... You're nice! You, yes you, right there!",
+  "status": "done",
   "slots": [
    "0x2c26"
   ],
@@ -1545,8 +1545,8 @@
  {
   "id": "s2060:018d0",
   "jp": "キミみたいな悪魔役を\nボクは探してたんだ！\nもうボクはキミしか見えてないよ！",
-  "en": "",
-  "status": "todo",
+  "en": "You're just the devil I've been looking for! I\nhave eyes for no one but you now!",
+  "status": "done",
   "slots": [
    "0x2c95"
   ],
@@ -1555,8 +1555,8 @@
  {
   "id": "s2060:0191b",
   "jp": "公演は昼からだ！\n是非来てくれたまえよぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "The show starts at noon! Do come, I implore\nyou!",
+  "status": "done",
   "slots": [
    "0x2c9c"
   ],
@@ -1565,8 +1565,8 @@
  {
   "id": "s2060:01945",
   "jp": "なにをしているんだい！\nもうすぐ公演が始まるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "What are you doing!? The show's about to\nstart!",
+  "status": "done",
   "slots": [
    "0x2cb4"
   ],
@@ -1575,8 +1575,8 @@
  {
   "id": "s2060:01975",
   "jp": "あぁ、あの素晴らしい吟遊詩人は\nいったい誰だったのかしら。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, who could that wonderful bard have\nbeen?",
+  "status": "done",
   "slots": [
    "0x2d4f"
   ],
@@ -1585,8 +1585,8 @@
  {
   "id": "s2060:019af",
   "jp": "あの人の詩を聞いてから、私の心は\nあの人を追っていってしまったわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ever since I heard that bard's song, my\nheart has gone chasing after them.",
+  "status": "done",
   "slots": [
    "0x2d56"
   ],
@@ -1595,8 +1595,8 @@
  {
   "id": "s2060:019f1",
   "jp": "あなた、あの吟遊詩人さんと\nお知り合い？\nならば、これを……。",
-  "en": "",
-  "status": "todo",
+  "en": "Do you know that bard? Then, please take\nthis...",
+  "status": "done",
   "slots": [
    "0x2d5d"
   ],
@@ -1605,8 +1605,8 @@
  {
   "id": "s2060:01a2e",
   "jp": "あの人が持っていた楽譜です。\nあの人に返してあげてください。\nお願いしますね。",
-  "en": "",
-  "status": "todo",
+  "en": "It's sheet music that bard had. Please\nreturn it to them. I'm counting on you.",
+  "status": "done",
   "slots": [
    "0x2dcc"
   ],
@@ -1615,8 +1615,8 @@
  {
   "id": "s2060:01a7b",
   "jp": "あの人の詩はまるで風。\n優しく私を包み、緩やかに心を\n攫っていってしまうの……。",
-  "en": "",
-  "status": "todo",
+  "en": "That bard's songs are like the wind. They\nwrap gently around me and slowly steal my\nheart away...",
+  "status": "done",
   "slots": [
    "0x2de4"
   ],
@@ -1625,8 +1625,8 @@
  {
   "id": "s2060:01aca",
   "jp": "キュー！　キュキュキューキュ！\nキューキューキュ？",
-  "en": "",
-  "status": "todo",
+  "en": "Kyuu! Kyukyukyuukyu! Kyuukyuukyu?",
+  "status": "done",
   "slots": [
    "0x2e78"
   ],
@@ -1635,8 +1635,8 @@
  {
   "id": "s2060:01afc",
   "jp": "キュッキュー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyukkyuu!",
+  "status": "done",
   "slots": [
    "0x2ee7"
   ],
@@ -1645,8 +1645,8 @@
  {
   "id": "s2060:01b0b",
   "jp": "キュッキュッキュキュー!",
-  "en": "",
-  "status": "todo",
+  "en": "Kyukkyukkyukyuu!",
+  "status": "done",
   "slots": [
    "0x2f07"
   ],
@@ -1655,8 +1655,8 @@
  {
   "id": "s2060:01b23",
   "jp": "キュー！　キュキュキューキュ！\nキューキューキュ？",
-  "en": "",
-  "status": "todo",
+  "en": "Kyuu! Kyukyukyuukyu! Kyuukyuukyu?",
+  "status": "done",
   "slots": [
    "0x2f1f"
   ],
@@ -1665,8 +1665,8 @@
  {
   "id": "s2060:01b55",
   "jp": "キュー……。",
-  "en": "",
-  "status": "todo",
+  "en": "Kyuu...",
+  "status": "done",
   "slots": [
    "0x2f26"
   ],
@@ -1675,8 +1675,8 @@
  {
   "id": "s2060:01b62",
   "jp": "小腹が空いたな……っと！\n丁度いいところに！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm gettin' a little peckish... Oh! Perfect\ntiming!",
+  "status": "done",
   "slots": [
    "0x2fd5"
   ],
@@ -1685,8 +1685,8 @@
  {
   "id": "s2060:01b8e",
   "jp": "これで少しはしのげそうだな！",
-  "en": "",
-  "status": "todo",
+  "en": "This oughta tide me over a bit!",
+  "status": "done",
   "slots": [
    "0x302b"
   ],
@@ -1695,8 +1695,8 @@
  {
   "id": "s2060:01bab",
   "jp": "ふぃー。戦闘ってのは疲れますね。\n現地調達、現地調達っと。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew. Fighting sure is tiring. Living off the\nland, living off the land...",
+  "status": "done",
   "slots": [
    "0x307e"
   ],
@@ -1705,8 +1705,8 @@
  {
   "id": "s2060:01be5",
   "jp": "サバイバルですねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Real survival stuff.",
+  "status": "done",
   "slots": [
    "0x30c9"
   ],
@@ -1715,8 +1715,8 @@
  {
   "id": "s2060:01bfa",
   "jp": "お腹空いた……\nでも、遺跡のウィルなんて\n全然感じないよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm hungry... But I can't feel any ruin Will at\nall...",
+  "status": "done",
   "slots": [
    "0x311c"
   ],
@@ -1725,8 +1725,8 @@
  {
   "id": "s2060:01c37",
   "jp": "こんなのでも、\n足しにはなるのかなぁ？",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder if even this will help a little?",
+  "status": "done",
   "slots": [
    "0x3172"
   ],
@@ -1735,8 +1735,8 @@
  {
   "id": "s2060:01c5d",
   "jp": "確保できる食料は\n確保しておかないとね。",
-  "en": "",
-  "status": "todo",
+  "en": "Got to grab whatever food we can get.",
+  "status": "done",
   "slots": [
    "0x31cc"
   ],
@@ -1745,8 +1745,8 @@
  {
   "id": "s2060:01c85",
   "jp": "うん、バッチリ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yep, perfect!",
+  "status": "done",
   "slots": [
    "0x3222"
   ],
@@ -1755,8 +1755,8 @@
  {
   "id": "s2060:01c96",
   "jp": "ここで食っておかねぇと\n後がマズイな。",
-  "en": "",
-  "status": "todo",
+  "en": "If I don't eat here, I'll be in trouble later.",
+  "status": "done",
   "slots": [
    "0x3275"
   ],
@@ -1765,8 +1765,8 @@
  {
   "id": "s2060:01cbc",
   "jp": "どっかに酒が湧く湖とかねぇのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Ain't there a lake somewhere that springs\nbooze?",
+  "status": "done",
   "slots": [
    "0x32c0"
   ],
@@ -1775,8 +1775,8 @@
  {
   "id": "s2060:01cdd",
   "jp": "こういうサバイバルをする\n考古学者も、たまにいるんだよな。",
-  "en": "",
-  "status": "todo",
+  "en": "Now and then you meet archaeologists who\ndo this sort of survival.",
+  "status": "done",
   "slots": [
    "0x330c"
   ],
@@ -1785,8 +1785,8 @@
  {
   "id": "s2060:01d17",
   "jp": "自分はどちらかといえばソッチ側か",
-  "en": "",
-  "status": "todo",
+  "en": "I suppose I'm more on that side, if anything.",
+  "status": "done",
   "slots": [
    "0x3357"
   ],
@@ -1795,8 +1795,8 @@
  {
   "id": "s2060:01d38",
   "jp": "お腹空いた～。\nなにか食べられるのないかなぁ\n……あ！",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco's hungryyy. Isn't there anything\nto eat...? Oh!",
+  "status": "done",
   "slots": [
    "0x33aa"
   ],
@@ -1805,8 +1805,8 @@
  {
   "id": "s2060:01d6d",
   "jp": "これ、前にお兄ちゃんが\n食べてたから大丈夫だよね！",
-  "en": "",
-  "status": "todo",
+  "en": "Big Brother ate one of these before, so it's\nokay, right?",
+  "status": "done",
   "slots": [
    "0x3400"
   ],
@@ -1815,8 +1815,8 @@
  {
   "id": "s2060:01d9f",
   "jp": "ひえぇ、\nやっぱり戦闘はキツイっす。",
-  "en": "",
-  "status": "todo",
+  "en": "Yikes, fighting really is tough, sir.",
+  "status": "done",
   "slots": [
    "0x3453"
   ],
@@ -1825,8 +1825,8 @@
  {
   "id": "s2060:01dc3",
   "jp": "ちょっとお休みさせて\nもらいまっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll just take a little break, sir.",
+  "status": "done",
   "slots": [
    "0x349e"
   ],
@@ -1835,8 +1835,8 @@
  {
   "id": "s2060:01de9",
   "jp": "ふぅ、ここらで一呼吸おくか。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew. I'll catch my breath here.",
+  "status": "done",
   "slots": [
    "0x34f1"
   ],
@@ -1845,8 +1845,8 @@
  {
   "id": "s2060:01e06",
   "jp": "食事中とはいえ、気が抜けないな。",
-  "en": "",
-  "status": "todo",
+  "en": "Even while eating, I can't let my guard down.",
+  "status": "done",
   "slots": [
    "0x3547"
   ],
@@ -1855,8 +1855,8 @@
  {
   "id": "s2060:01e27",
   "jp": "弾の補充ついでに、食料を確保して\nしまいましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "While I restock my ammo, let's lay in some\nfood as well.",
+  "status": "done",
   "slots": [
    "0x359a"
   ],
@@ -1865,8 +1865,8 @@
  {
   "id": "s2060:01e59",
   "jp": "よし、元気リンリンです。",
-  "en": "",
-  "status": "todo",
+  "en": "Good, I'm full of pep.",
+  "status": "done",
   "slots": [
    "0x35e5"
   ],
@@ -1875,8 +1875,8 @@
  {
   "id": "s2060:01e72",
   "jp": "ガガングー、ガグン",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangu, gagun.",
+  "status": "done",
   "slots": [
    "0x3638"
   ],
@@ -1885,8 +1885,8 @@
  {
   "id": "s2060:01e85",
   "jp": "ガグンガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagungangaa!",
+  "status": "done",
   "slots": [
    "0x368e"
   ],
@@ -1895,8 +1895,8 @@
  {
   "id": "s2060:01e96",
   "jp": "お腹が減っちゃ、お宝探しは\nできないのよ？",
-  "en": "",
-  "status": "todo",
+  "en": "You can't hunt for treasure on an empty\nstomach, you know?",
+  "status": "done",
   "slots": [
    "0x36e1"
   ],
@@ -1905,8 +1905,8 @@
  {
   "id": "s2060:01ec0",
   "jp": "お宝探しの基本よね？",
-  "en": "",
-  "status": "todo",
+  "en": "That's Treasure Hunting 101, right?",
+  "status": "done",
   "slots": [
    "0x372c"
   ],
@@ -1915,8 +1915,8 @@
  {
   "id": "s2060:01ed5",
   "jp": "腹が減っては戦は出来ぬ！\n食料確保ぉぉぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "An army marches on its stomach! Securing\nprovisioooons!!",
+  "status": "done",
   "slots": [
    "0x377f"
   ],
@@ -1925,8 +1925,8 @@
  {
   "id": "s2060:01f01",
   "jp": "これで当分は凌げそうだな！",
-  "en": "",
-  "status": "todo",
+  "en": "This should tide me over for a while!",
+  "status": "done",
   "slots": [
    "0x37d5"
   ],
@@ -1935,8 +1935,8 @@
  {
   "id": "s2060:01f1c",
   "jp": "焦らない焦らない。\n一休み一休みだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "No rush, no rush. Take a breather, take a\nbreather, dontcha know.",
+  "status": "done",
   "slots": [
    "0x3828"
   ],
@@ -1945,8 +1945,8 @@
  {
   "id": "s2060:01f44",
   "jp": "さて、そろそろ行くだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, time to get going, dontcha know.",
+  "status": "done",
   "slots": [
    "0x3873"
   ],
@@ -1955,8 +1955,8 @@
  {
   "id": "s2060:01f5f",
   "jp": "歌い疲れてしまいましたわ。\nしばしおまちを。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm quite worn out from singing. Please wait\na moment.",
+  "status": "done",
   "slots": [
    "0x38d4"
   ],
@@ -1965,8 +1965,8 @@
  {
   "id": "s2060:01f8b",
   "jp": "自然の恵みを、いただきます。",
-  "en": "",
-  "status": "todo",
+  "en": "I gratefully receive nature's bounty.",
+  "status": "done",
   "slots": [
    "0x392a"
   ],
@@ -1975,8 +1975,8 @@
  {
   "id": "s2060:01fa8",
   "jp": "サバイバルは大好きだぜ。\nこの極限の緊張感とか、\nたまんねぇよな……。",
-  "en": "",
-  "status": "todo",
+  "en": "I love survival. That tension right at the\nedge... can't get enough of it...",
+  "status": "done",
   "slots": [
    "0x396d"
   ],
@@ -1985,8 +1985,8 @@
  {
   "id": "s2060:01fed",
   "jp": "そして、サバイバルを制するのは、\n安全に食料を確保できる奴なんだぜ",
-  "en": "",
-  "status": "todo",
+  "en": "And the one who wins at survival is the one\nwho can get food safely.",
+  "status": "done",
   "slots": [
    "0x39b8"
   ],

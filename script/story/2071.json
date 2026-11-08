@@ -1722,8 +1722,8 @@
  {
   "id": "s2071:01ef2t",
   "jp": "ルキア皇国軍",
-  "en": "",
-  "status": "todo",
+  "en": "Lukia Imperial Army",
+  "status": "done",
   "at": "0x1ef5",
   "max": 12,
   "who": "team name"

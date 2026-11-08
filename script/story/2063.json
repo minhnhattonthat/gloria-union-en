@@ -277,8 +277,8 @@
  {
   "id": "s2063:00441",
   "jp": "……どうする？",
-  "en": "",
-  "status": "todo",
+  "en": "...What do we do?",
+  "status": "done",
   "slots": [
    "0x2755"
   ],
