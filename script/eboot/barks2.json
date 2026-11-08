@@ -15519,46 +15519,51 @@
   "id": "e:24ca00",
   "jp": "",
   "en": "",
-  "status": "todo",
+  "status": "data",
   "slots": [
    "w:24cf90"
-  ]
+  ],
+  "notes": "binary"
  },
  {
   "id": "e:24ca12",
   "jp": "",
   "en": "",
-  "status": "todo",
+  "status": "data",
   "slots": [
    "w:24cfa0"
-  ]
+  ],
+  "notes": "binary"
  },
  {
   "id": "e:24cac6",
   "jp": "",
   "en": "",
-  "status": "todo",
+  "status": "data",
   "slots": [
    "w:24d008"
-  ]
+  ],
+  "notes": "binary"
  },
  {
   "id": "e:24cc52",
   "jp": "",
   "en": "",
-  "status": "todo",
+  "status": "data",
   "slots": [
    "w:24d0b8"
-  ]
+  ],
+  "notes": "binary"
  },
  {
   "id": "e:24cce8",
   "jp": "",
   "en": "",
-  "status": "todo",
+  "status": "data",
   "slots": [
    "w:24d118"
-  ]
+  ],
+  "notes": "binary"
  },
  {
   "id": "e:24e1f0",

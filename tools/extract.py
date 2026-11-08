@@ -35,9 +35,11 @@ NOT_TEXT = (
     (0x1CA384, 0x1CA3F0, "debug"), (0x1CA468, 0x1CA46A, "binary"), (0x1DCB28, 0x1DCB2A, "binary"),
     (0x1ED94C, 0x1ED94D, "binary"), (0x24F0E8, 0x24F350, "binary"), (0x2B7698, 0x2B769A, "binary"),
     (0x2C7510, 0x2C7512, "binary"), (0x2C858C, 0x2C858E, "binary"), (0x2F9180, 0x2F9182, "binary"), (0x2F9E00, 0x2FA2E0, "binary"),
-    (0x2537C0, 0x253874, "glyph list"), (0x253CD8, 0x253D10, "binary"), (0x25D030, 0x25DDF0, "debug"),
+    (0x2537C0, 0x253874, "glyph list"), (0x253874, 0x25388B, "digit table"),   # 0xA36B0: sprintf digits -> fullwidth
+    (0x253CD8, 0x253D10, "binary"), (0x25D030, 0x25DDF0, "debug"),
     (0x27FFC8, 0x2804A8, "debug"), (0x2823A8, 0x2823C0, "debug"), (0x2896E0, 0x2896F0, "binary"),
     (0x2AB000, 0x2B6630, "binary"), (0x2FA2E0, 0x2FA300, "library banner"),
+    (0x2BE3CA, 0x2BE626, "glyph table"),   # font bucket splits, ASCII->fullwidth map, font 4 codes (docs/re/text.md)
 )
 # EBOOT file groups by vaddr: what the block holds (read from the strings)
 GROUPS = (
@@ -128,6 +130,8 @@ def eboot_entries(d):
     for a, s in elf.pointed(d, elf.refs(d)).items():
         g = names[max(i for i, x in enumerate(starts) if x <= a)]
         why = next((w for lo, hi, w in NOT_TEXT if lo <= a < hi), None)
+        if not why and b"\xff" in s.raw:   # never in Shift-JIS text: -1 filled tables that happen to decode
+            why = "binary"
         e = {"id": f"e:{a:06x}", "jp": to_text(s.raw), "en": "", "status": "data" if why else "todo",
              "slots": [":".join([r[0]] + [f"{x:x}" for x in r[1:]]) for r in s.refs]}
         if why:

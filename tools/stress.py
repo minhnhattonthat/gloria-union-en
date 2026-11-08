@@ -39,13 +39,20 @@ def ruler(px, font, head=''):
     return s
 
 
+def box_px(r):
+    """A log row's line width for --fit: box_w, or cols x pitch when box_w is under 40 px; at most the screen."""
+    from boxes import CELL
+    font, px = int(r['font']) % 16, int(r['box_w'])
+    if px < 40: px = int(r['cols']) // 3 * ((int(r['cell_w']) or CELL.get(font, 20)) + int(r['spx']))
+    return min(px, 480)   # tickers report box widths up to 17500 px; past the screen tells nothing
+
+
 def fit(logdirs):
     """ID<tab>TEXT lines: every marked entry seen in the tour logs, each line filled to its window's box width
     (box_w; cols x pitch when box_w is under 40 px), as many lines as the original, at most the window's rows.
     Entries with printf codes or a byte limit (tbl/fmtbuf.tsv) keep their marker."""
     import csv, re
     from insert import FMT, buf_limits, load, short
-    from boxes import CELL
     ids = {short(e['id']): e for sub in ('story', 'common', 'eboot') for es in load(sub).values() for e in es}
     lim = buf_limits()   # byte-limited strings (sprintf buffers) keep their marker
     out = {}
@@ -55,10 +62,7 @@ def fit(logdirs):
                 m = re.match(r'\[([0-9a-z:]+)[\] ]', r['text'] or '')
                 e = m and ids.get(m.group(1))
                 if not e or FMT.search(e['jp']) or '[0A]' in e['jp'] or e['id'] in lim: continue
-                font = int(r['font']) % 16
-                px = int(r['box_w'])
-                if px < 40: px = int(r['cols']) // 3 * ((int(r['cell_w']) or CELL.get(font, 20)) + int(r['spx']))
-                px = min(px, 480)   # tickers report box widths up to 17500 px; past the screen tells nothing
+                font, px = int(r['font']) % 16, box_px(r)
                 n = max(1, min(e['jp'].count('\n') + 1, int(r['rows'])))
                 if e['id'] in out and out[e['id']][0] <= px: continue
                 out[e['id']] = (px, '\\n'.join(ruler(px, font, f'[{m.group(1)} {px}]' if i == 0 else f'{i + 1}') for i in range(n)))

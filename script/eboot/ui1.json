@@ -1555,10 +1555,11 @@
   "id": "e:253874",
   "jp": "０１２３４５６７８９　",
   "en": "",
-  "status": "todo",
+  "status": "data",
   "slots": [
    "i:a36cc:a36e0"
-  ]
+  ],
+  "notes": "digit table"
  },
  {
   "id": "e:25390c",
