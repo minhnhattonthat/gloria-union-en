@@ -1044,7 +1044,7 @@
  {
   "id": "s2041:0341a",
   "jp": "面白い……。\n胸を貸してやろう。\nかかってくるがいい！",
-  "en": "Interesting... I shall lend you my chest to\nstrike. Come at me!",
+  "en": "Interesting... Very well, I shall give you a\nlesson. Come at me!",
   "status": "done",
   "slots": [
    "0x5690"
@@ -1267,7 +1267,7 @@
  {
   "id": "s2041:0380b",
   "jp": "お、これさえあれば。",
-  "en": "Oh, if I just had this.",
+  "en": "Oh, with this...",
   "status": "done",
   "slots": [
    "0x1873",

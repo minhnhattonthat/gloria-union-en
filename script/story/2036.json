@@ -211,7 +211,7 @@
  {
   "id": "s2036:002b1",
   "jp": "さも当然のように言うわね……。",
-  "en": "He says that like it's the most natural thing\nin the world...",
+  "en": "She says that like it's the most natural\nthing in the world...",
   "status": "done",
   "slots": [
    "0xfa1"
@@ -739,7 +739,7 @@
  {
   "id": "s2036:0255c",
   "jp": "お姉ちゃん、魔法を知らないの？",
-  "en": "Big sis, don't you know about magic?",
+  "en": "Big Sister, don't you know about magic?",
   "status": "done",
   "slots": [
    "0x3796"

@@ -6,4 +6,5 @@ Minor review findings, deferred (references/translation.md §Review). Tick each 
 - [ ] e:1edc5c - %2d戦%2d勝 (15-byte buffer) shipped as "%2d fought %2dW": "W" is an abbreviation (D4 flag); a wider buffer (tbl/fmtbuf.tsv) would allow "won"
 - [ ] b020 card quotes e:2872ec-e:287e78 - attribution left-aligned (JP right-aligns it); check in the EXTRA card panel in phase 8
 - [ ] s2033:010c8t/010e8t/0113at - team name シャルル海賊団 (JP typo for シャルム) shipped "Charles Pirates": use "Charme Pirates" (team names are dead text: op 0x74)
+- [ ] s2039:00424 - Blackmore's 機械人形 at Ruru shipped "A wind-up doll": "machine doll" keeps the hint that he knows what she is
 - [ ] s2034:0096c - 船長を"もの"扱い: "Calling your captain a 'what'" reads oddly; "So your captain's a 'what' now? Poor guy, nobody loves him." or make Elisha's line say "what's mine"
