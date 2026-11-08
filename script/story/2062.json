@@ -1459,8 +1459,8 @@
  {
   "id": "s2062:019a2",
   "jp": "キーキー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kee-kee!",
+  "status": "done",
   "slots": [
    "0x4303"
   ],
@@ -1479,8 +1479,8 @@
  {
   "id": "s2062:019d9",
   "jp": "キシュー……。",
-  "en": "",
-  "status": "todo",
+  "en": "Kishuuu...",
+  "status": "done",
   "slots": [
    "0x4322"
   ],

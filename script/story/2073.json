@@ -2282,8 +2282,8 @@
  {
   "id": "s2073:01a82t",
   "jp": "盾のメラニー部隊",
-  "en": "",
-  "status": "todo",
+  "en": "Melanie Shield Unit",
+  "status": "done",
   "at": "0x1a85",
   "max": 16,
   "who": "team name"

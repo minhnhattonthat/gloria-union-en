@@ -1084,8 +1084,8 @@
  {
   "id": "s2061:0131e",
   "jp": "え……？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh...?",
+  "status": "done",
   "slots": [
    "0x68ce"
   ],

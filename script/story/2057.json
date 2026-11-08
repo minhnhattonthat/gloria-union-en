@@ -436,8 +436,8 @@
  {
   "id": "s2057:00848",
   "jp": "ルキア皇国騎士団……！\nシャンティエの騎士の誇りに賭けて\n貴様を倒す！",
-  "en": "",
-  "status": "todo",
+  "en": "Lukia Imperial Knights...! On my honour as a\nknight of Chantier, I will defeat you!",
+  "status": "done",
   "slots": [
    "0x639b"
   ],
@@ -446,8 +446,8 @@
  {
   "id": "s2057:0088d",
   "jp": "シャンティエの騎士か……。\n面白い！　受けて立とう！",
-  "en": "",
-  "status": "todo",
+  "en": "A knight of Chantier... Interesting! I accept\nyour challenge!",
+  "status": "done",
   "slots": [
    "0x63b0"
   ],
@@ -456,8 +456,8 @@
  {
   "id": "s2057:008c1",
   "jp": "賞金稼ぎが海賊とは、ミイラ取りが\nミイラとはこの事だな！",
-  "en": "",
-  "status": "todo",
+  "en": "A bounty hunter turned pirate! Talk about\nthe hunter becoming the hunted!",
+  "status": "done",
   "slots": [
    "0x649a"
   ],
@@ -466,8 +466,8 @@
  {
   "id": "s2057:008f9",
   "jp": "誰のせいでこうなったと\n思っているのですか！\nこの賞金首泥棒！",
-  "en": "",
-  "status": "todo",
+  "en": "Whose fault do you think this is!? You\nbounty thief!",
+  "status": "done",
   "slots": [
    "0x64af"
   ],
@@ -476,8 +476,8 @@
  {
   "id": "s2057:00936",
   "jp": "な、なんだ？　この面妖な物体は。\nま、まさか、敵が用意した\n殺戮兵器か！？",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this bizarre object? D-don't tell\nme it's a killing machine the enemy\nprepared!?",
+  "status": "done",
   "slots": [
    "0x6599"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2057:0097f",
   "jp": "ガーング。",
-  "en": "",
-  "status": "todo",
+  "en": "Gaaangu.",
+  "status": "done",
   "slots": [
    "0x65ae"
   ],
@@ -496,8 +496,8 @@
  {
   "id": "s2057:0098a",
   "jp": "そんなに気合入れて\n何が楽しいんだわさ。\nもっと気楽にできないのかしらねぇ",
-  "en": "",
-  "status": "todo",
+  "en": "What's so fun about getting all fired up like\nthat, dontcha know? Can't you take it a\nlittle easier?",
+  "status": "done",
   "slots": [
    "0x6692"
   ],
@@ -506,8 +506,8 @@
  {
   "id": "s2057:009d3",
   "jp": "戦場で気を抜くなど、戦士にとって\nあってはならぬ愚行！\n気楽になど、できるものか！",
-  "en": "",
-  "status": "todo",
+  "en": "Letting one's guard down on the battlefield\nis folly a warrior must never commit! How\ncould I take it easy!",
+  "status": "done",
   "slots": [
    "0x66a7"
   ],
@@ -516,8 +516,8 @@
  {
   "id": "s2057:00a24",
   "jp": "なんという、なんという凄まじい力\nなんだ、グロリア海賊団……！\n我等では太刀打ちできない……。",
-  "en": "",
-  "status": "todo",
+  "en": "What, what tremendous power is this,\nGloria Pirates...! We're no match for them...",
+  "status": "done",
   "slots": [
    "0x685b"
   ],
@@ -527,8 +527,8 @@
  {
   "id": "s2057:00a85",
   "jp": "だが、得る物は確かにあった！\n総員！　拠点に戻り、将軍殿に\n情報を報告するぞ！　撤退！",
-  "en": "",
-  "status": "todo",
+  "en": "But we did gain something! All troops! Back\nto base, we'll report our findings to the\ngeneral! Retreat!",
+  "status": "done",
   "slots": [
    "0x6870"
   ],
@@ -538,8 +538,8 @@
  {
   "id": "s2057:00ade",
   "jp": "申し訳ありませんメラニー将軍！！\n不肖カミュル！　\n敗北してしまいました！！",
-  "en": "",
-  "status": "todo",
+  "en": "My deepest apologies, General Melanie!!\nYour unworthy Kamuru! Has been defeated!!",
+  "status": "done",
   "slots": [
    "0x6f29"
   ],
@@ -549,8 +549,8 @@
  {
   "id": "s2057:00b2d",
   "jp": "そうか、新米とはいえ、\n貴様ほどの腕を持つ騎士がやられる\nとは、グロリアもやるではないか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. You may be a rookie, but for a knight\nof your skill to be beaten... The Gloria\nPirates are not bad.",
+  "status": "done",
   "slots": [
    "0x6f42"
   ],
@@ -560,8 +560,8 @@
  {
   "id": "s2057:00b8a",
   "jp": "はい！　それはもう！",
-  "en": "",
-  "status": "todo",
+  "en": "Yes! Very much so!",
+  "status": "done",
   "slots": [
    "0x6f58"
   ],
@@ -571,8 +571,8 @@
  {
   "id": "s2057:00ba3",
   "jp": "しかし、よもや逃げ帰ってくるとは\n思わなかったぞ、この臆病者め。",
-  "en": "",
-  "status": "todo",
+  "en": "However, I never imagined you would come\nrunning home, you coward.",
+  "status": "done",
   "slots": [
    "0x6f71"
   ],
@@ -582,8 +582,8 @@
  {
   "id": "s2057:00be7",
   "jp": "なッ！　ボ、ボクは、少しでも\nグロリアの情報をと……！",
-  "en": "",
-  "status": "todo",
+  "en": "Wha! I-I only wanted to bring back even a\nlittle information on the Gloria Pirates...!",
+  "status": "done",
   "slots": [
    "0x6f8a"
   ],
@@ -593,8 +593,8 @@
  {
   "id": "s2057:00c21",
   "jp": "そんなものは密偵がやっている！\nなにより敵前逃亡は騎士の恥だ！\n粛清を加える、首を出せ……！",
-  "en": "",
-  "status": "todo",
+  "en": "That is what spies are for! Above all,\nfleeing before the enemy is a disgrace to a\nknight! You will be purged. Bare your neck...!",
+  "status": "done",
   "slots": [
    "0x6fa8"
   ],
@@ -604,8 +604,8 @@
  {
   "id": "s2057:00c80",
   "jp": "クッ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh...!",
+  "status": "done",
   "slots": [
    "0x6fc1"
   ],
@@ -626,8 +626,8 @@
  {
   "id": "s2057:00ca6",
   "jp": "グロリア海賊団！？\nいい所に来てくれた！",
-  "en": "",
-  "status": "todo",
+  "en": "The Gloria Pirates!? You came at just the\nright time!",
+  "status": "done",
   "slots": [
    "0x70d6"
   ],
@@ -637,8 +637,8 @@
  {
   "id": "s2057:00cd2",
   "jp": "お前はさっきの……！\nリベンジでもしに来たのか？",
-  "en": "",
-  "status": "todo",
+  "en": "You're the guy from before...! Come for\nrevenge or somethin'?",
+  "status": "done",
   "slots": [
    "0x70ef"
   ],
@@ -648,8 +648,8 @@
  {
   "id": "s2057:00d06",
   "jp": "そうではない！\nそうではなくて……。",
-  "en": "",
-  "status": "todo",
+  "en": "That's not it! That's not it, it's...",
+  "status": "done",
   "slots": [
    "0x7108"
   ],
@@ -659,8 +659,8 @@
  {
   "id": "s2057:00d2e",
   "jp": "……不肖カミュル、一世一代の恥を\n忍んで、貴殿等に助けを求めたい！",
-  "en": "",
-  "status": "todo",
+  "en": "...Unworthy as I am, I, Kamuru, swallow the\ngreatest shame of my life to ask for your\nhelp!",
+  "status": "done",
   "slots": [
    "0x710f"
   ],
@@ -670,8 +670,8 @@
  {
   "id": "s2057:00d74",
   "jp": "助け？\nどういうことだ……？",
-  "en": "",
-  "status": "todo",
+  "en": "Help? What do you mean...?",
+  "status": "done",
   "slots": [
    "0x7125"
   ],
@@ -681,8 +681,8 @@
  {
   "id": "s2057:00d94",
   "jp": "気になるな……。\n訳を聞いてやる、話せ。",
-  "en": "",
-  "status": "todo",
+  "en": "Now I'm curious... I'll hear ya out. Talk.",
+  "status": "done",
   "slots": [
    "0x713b"
   ],
@@ -692,8 +692,8 @@
  {
   "id": "s2057:00dc0",
   "jp": "はい！\n実は……。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes! The truth is...",
+  "status": "done",
   "slots": [
    "0x7151"
   ],
@@ -703,8 +703,8 @@
  {
   "id": "s2057:00dd6",
   "jp": "――というわけで、\nボクは逃げてきた……。",
-  "en": "",
-  "status": "todo",
+  "en": "...And that's why I ran away...",
+  "status": "done",
   "slots": [
    "0x718e"
   ],
@@ -714,8 +714,8 @@
  {
   "id": "s2057:00e04",
   "jp": "なるほど……死んだら元も子も\nないってのになぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "I see... If ya die, it's all for nothin',\nthough.",
+  "status": "done",
   "slots": [
    "0x71a7"
   ],
@@ -725,8 +725,8 @@
  {
   "id": "s2057:00e38",
   "jp": "鬼将軍って感じだね。",
-  "en": "",
-  "status": "todo",
+  "en": "She sounds like a demon general.",
+  "status": "done",
   "slots": [
    "0x71c0"
   ],
@@ -736,8 +736,8 @@
  {
   "id": "s2057:00e51",
   "jp": "所詮皇国の将軍、人の心は無いの\nだろうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "She's an Imperial general, after all. She\nprobably has no heart.",
+  "status": "done",
   "slots": [
    "0x71e8"
   ],
@@ -747,8 +747,8 @@
  {
   "id": "s2057:00e7f",
   "jp": "敵とはいえ、\n少し同情してしまいますね。",
-  "en": "",
-  "status": "todo",
+  "en": "He may be an enemy, but I feel a little sorry\nfor him.",
+  "status": "done",
   "slots": [
    "0x721b"
   ],
@@ -758,8 +758,8 @@
  {
   "id": "s2057:00eab",
   "jp": "正直、アナタ達に助けを求めた\nところで、どうせ殺されるかと\n思っていましたが……。",
-  "en": "",
-  "status": "todo",
+  "en": "Honestly, I thought even if I asked you for\nhelp, you'd kill me anyway...",
+  "status": "done",
   "slots": [
    "0x7242"
   ],
@@ -769,8 +769,8 @@
  {
   "id": "s2057:00f00",
   "jp": "確かに皇国軍は我が敵。\nしかし、お前は少し違うようだ。",
-  "en": "",
-  "status": "todo",
+  "en": "The Imperial Army is indeed my enemy. But\nyou seem a little different.",
+  "status": "done",
   "slots": [
    "0x726b"
   ],
@@ -780,8 +780,8 @@
  {
   "id": "s2057:00f3a",
   "jp": "戦意のない相手を殺すのは、虐殺\nって言うのよ。グロリアはそんな\n非道なマネなんてしないわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Killing someone who's lost the will to fight\nis called a massacre. The Gloria Pirates\ndon't do anything that cruel.",
+  "status": "done",
   "slots": [
    "0x7288"
   ],
@@ -791,8 +791,8 @@
  {
   "id": "s2057:00f99",
   "jp": "なんと、寛大な……。",
-  "en": "",
-  "status": "todo",
+  "en": "How generous...",
+  "status": "done",
   "slots": [
    "0x729e"
   ],
@@ -802,8 +802,8 @@
  {
   "id": "s2057:00fb2",
   "jp": "なぁ、さっきから思ってたが、\nお前性格がおかしくなってないか？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, I've been thinkin' this for a while, but\nhasn't your personality gone weird?",
+  "status": "done",
   "slots": [
    "0x72b4"
   ],
@@ -813,8 +813,8 @@
  {
   "id": "s2057:00ff4",
   "jp": "あの熱血漢はどこへ行ったのですか",
-  "en": "",
-  "status": "todo",
+  "en": "Where did that hot-blooded guy go?",
+  "status": "done",
   "slots": [
    "0x72d8"
   ],
@@ -824,8 +824,8 @@
  {
   "id": "s2057:01019",
   "jp": "ボク、まだ戦場というものに慣れて\nいなくて。あぁも吹っ切れないと\n気が滅入ってしまうんですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm still not used to the battlefield. If I\ndon't let loose like that, I get depressed.",
+  "status": "done",
   "slots": [
    "0x72ee"
   ],
@@ -835,8 +835,8 @@
  {
   "id": "s2057:0107a",
   "jp": "そいつぁなんとも面白ぇ性格だな。",
-  "en": "",
-  "status": "todo",
+  "en": "Now that's a real interestin' personality.",
+  "status": "done",
   "slots": [
    "0x7307"
   ],
@@ -846,8 +846,8 @@
  {
   "id": "s2057:0109f",
   "jp": "変なだけじゃなぁいの……？",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't he just weird...?",
+  "status": "done",
   "slots": [
    "0x7333"
   ],
@@ -857,8 +857,8 @@
  {
   "id": "s2057:010c0",
   "jp": "わぁ、きれいなちょうちょ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wow, a pretty butterfly!",
+  "status": "done",
   "slots": [
    "0x2640",
    "0x83e5"
@@ -868,8 +868,8 @@
  {
   "id": "s2057:010db",
   "jp": "ね、ねぇ、そのちょうちょと\nわたしのお守り、こうかんして？",
-  "en": "",
-  "status": "todo",
+  "en": "H-hey, will you trade that butterfly for my\nlucky charm?",
+  "status": "done",
   "slots": [
    "0x2647",
    "0x83ec"
@@ -879,8 +879,8 @@
  {
   "id": "s2057:01115",
   "jp": "こうかんしてくれるの？\nわぁ、ありがとう！",
-  "en": "",
-  "status": "todo",
+  "en": "You'll trade with me? Wow, thank you!",
+  "status": "done",
   "slots": [
    "0x26b6",
    "0x845b"
@@ -890,8 +890,8 @@
  {
   "id": "s2057:0113f",
   "jp": "わぁい！\nきれいなちょうちょさん。\nこれからよろしくね！",
-  "en": "",
-  "status": "todo",
+  "en": "Yaaay! Pretty butterfly, let's be friends\nfrom now on!",
+  "status": "done",
   "slots": [
    "0x26d9",
    "0x847e"
@@ -901,8 +901,8 @@
  {
   "id": "s2057:01176",
   "jp": "はぁ～、どこかに、きれいな\nものないかなぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Haaah, isn't there anything pretty around\nhere...",
+  "status": "done",
   "slots": [
    "0x26f1",
    "0x8496"
@@ -912,8 +912,8 @@
  {
   "id": "s2057:011a6",
   "jp": "ここは加工都市アレン。\n一見なんの変哲もないものを\n色んなものに加工している所よ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is Craft City Allen. We turn things that\nlook completely ordinary into all sorts of\nstuff.",
+  "status": "done",
   "slots": [
    "0x34b3",
    "0x9258"
@@ -923,8 +923,8 @@
  {
   "id": "s2057:011f7",
   "jp": "あら、アナタ。\nいいもの持ってるわね、\nちょっと貸して。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, you. You've got something nice\nthere. Lend it to me for a sec.",
+  "status": "done",
   "slots": [
    "0x34ba",
    "0x925f"
@@ -934,8 +934,8 @@
  {
   "id": "s2057:0122e",
   "jp": "ハイ。こうやって、ただの貝殻も\nセクシーな胸当てに大変身ってわけ",
-  "en": "",
-  "status": "todo",
+  "en": "There. Just like that, a plain old seashell\ngets a total makeover into a sexy\nbreastplate.",
+  "status": "done",
   "slots": [
    "0x352e",
    "0x92d3"
@@ -945,8 +945,8 @@
  {
   "id": "s2057:0126e",
   "jp": "他に何か加工したかったら、\nいつでもここに来てね。",
-  "en": "",
-  "status": "todo",
+  "en": "If you want anything else crafted, come\nhere any time.",
+  "status": "done",
   "slots": [
    "0x3562",
    "0x9307"
@@ -956,8 +956,8 @@
  {
   "id": "s2057:012a0",
   "jp": "あ、男のアナタには必要ない\nわよね。\n変な噂立っちゃったらゴメンね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, but a man like you wouldn't need that,\nwould you? Sorry if it starts any weird\nrumours.",
+  "status": "done",
   "slots": [
    "0x3572",
    "0x9317"
@@ -967,8 +967,8 @@
  {
   "id": "s2057:012e3",
   "jp": "さて、私も職場に戻らないとね。\n人気加工師はツライわぁ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, I'd better get back to work too. It's\ntough being a popular craftswoman.",
+  "status": "done",
   "slots": [
    "0x3595",
    "0x933a"
@@ -978,8 +978,8 @@
  {
   "id": "s2057:0131d",
   "jp": "ここは加工都市アレン。\n一見なんの変哲もないものを\n色んなものに加工している所よ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is Craft City Allen. We turn things that\nlook completely ordinary into all sorts of\nstuff.",
+  "status": "done",
   "slots": [
    "0x35ad",
    "0x9352"
@@ -989,8 +989,8 @@
  {
   "id": "s2057:0136e",
   "jp": "何か加工したかったら、\nいつでもここに来てね。",
-  "en": "",
-  "status": "todo",
+  "en": "If you want anything crafted, come here any\ntime.",
+  "status": "done",
   "slots": [
    "0x35b4",
    "0x9359"
@@ -1000,8 +1000,8 @@
  {
   "id": "s2057:0139c",
   "jp": "勝負は見た目から！",
-  "en": "",
-  "status": "todo",
+  "en": "A fight is won on looks!",
+  "status": "done",
   "slots": [
    "0x437b",
    "0xa120"
@@ -1011,8 +1011,8 @@
  {
   "id": "s2057:013af",
   "jp": "見た目にインパクトがあれば、敵は\n萎縮し本来の実力が出せなくなる。",
-  "en": "",
-  "status": "todo",
+  "en": "If your looks have impact, the enemy shrinks\nback and can't show their true strength.",
+  "status": "done",
   "slots": [
    "0x4382",
    "0xa127"
@@ -1022,8 +1022,8 @@
  {
   "id": "s2057:013f1",
   "jp": "お前もこれを身につけて、\n敵を気圧してやれ！",
-  "en": "",
-  "status": "todo",
+  "en": "You put this on too, and overwhelm your\nenemies!",
+  "status": "done",
   "slots": [
    "0x4472",
    "0xa217"
@@ -1033,8 +1033,8 @@
  {
   "id": "s2057:0141d",
   "jp": "ただの虚仮脅しだって？\nそれは言っちゃいけない！",
-  "en": "",
-  "status": "todo",
+  "en": "Just a bluff, you say? You mustn't say that!",
+  "status": "done",
   "slots": [
    "0x448a",
    "0xa22f"
@@ -1044,8 +1044,8 @@
  {
   "id": "s2057:0144d",
   "jp": "キーキー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kee-kee!",
+  "status": "done",
   "slots": [
    "0xa2c3"
   ],
@@ -1054,8 +1054,8 @@
  {
   "id": "s2057:01458",
   "jp": "キーキー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kee-kee!",
+  "status": "done",
   "slots": [
    "0xa332"
   ],
@@ -1064,8 +1064,8 @@
  {
   "id": "s2057:01463",
   "jp": "キーキー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kee-kee!",
+  "status": "done",
   "slots": [
    "0xa352"
   ],
@@ -1074,8 +1074,8 @@
  {
   "id": "s2057:0146e",
   "jp": "キシュー……。",
-  "en": "",
-  "status": "todo",
+  "en": "Kishuuu...",
+  "status": "done",
   "slots": [
    "0xa36a"
   ],
@@ -1084,8 +1084,8 @@
  {
   "id": "s2057:0147d",
   "jp": "お、きれいな貝殻みっけ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, found a pretty seashell.",
+  "status": "done",
   "slots": [
    "0x453e",
    "0xa42c"
@@ -1095,8 +1095,8 @@
  {
   "id": "s2057:01496",
   "jp": "なぁんか集めたくなるんだよなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Somehow it makes me wanna collect 'em.",
+  "status": "done",
   "slots": [
    "0x4594",
    "0xa482"
@@ -1106,8 +1106,8 @@
  {
   "id": "s2057:014b7",
   "jp": "お、きれいな貝殻ですねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, what a pretty seashell.",
+  "status": "done",
   "slots": [
    "0x45ee",
    "0xa4dc"
@@ -1117,8 +1117,8 @@
  {
   "id": "s2057:014d2",
   "jp": "兄貴は綺麗な貝殻好きですからねぇ\nきっと喜んでくれるはずです。",
-  "en": "",
-  "status": "todo",
+  "en": "The Boss loves pretty seashells. I'm sure\nhe'll be happy.",
+  "status": "done",
   "slots": [
    "0x4644",
    "0xa532"
@@ -1128,8 +1128,8 @@
  {
   "id": "s2057:01510",
   "jp": "貝殻だ……きれいだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "A seashell... It's so pretty.",
+  "status": "done",
   "slots": [
    "0x469e",
    "0xa58c"
@@ -1139,8 +1139,8 @@
  {
   "id": "s2057:01529",
   "jp": "もって帰ろーっと。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll take it home!",
+  "status": "done",
   "slots": [
    "0x46f4",
    "0xa5e2"
@@ -1150,8 +1150,8 @@
  {
   "id": "s2057:0153c",
   "jp": "戦闘中だってのに、\n砂浜は静かなもんねぇ。\nお、貝殻発見。",
-  "en": "",
-  "status": "todo",
+  "en": "Even in the middle of a battle, the beach is\nso quiet. Oh, found a seashell.",
+  "status": "done",
   "slots": [
    "0x4747",
    "0xa635"
@@ -1161,8 +1161,8 @@
  {
   "id": "s2057:01575",
   "jp": "まぁ、たまには悪くないかもね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, it's not bad once in a while.",
+  "status": "done",
   "slots": [
    "0x4792",
    "0xa680"
@@ -1172,8 +1172,8 @@
  {
   "id": "s2057:01594",
   "jp": "貝殻集めかぁ。\nガキの頃よくやったもんだぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Collectin' seashells, huh? Did that a lot\nwhen I was a kid.",
+  "status": "done",
   "slots": [
    "0x47de",
    "0xa6cc"
@@ -1183,8 +1183,8 @@
  {
   "id": "s2057:015c0",
   "jp": "ま、たまにはいいんじゃねぇか？",
-  "en": "",
-  "status": "todo",
+  "en": "Well, once in a while's fine, ain't it?",
+  "status": "done",
   "slots": [
    "0x4829",
    "0xa717"
@@ -1194,8 +1194,8 @@
  {
   "id": "s2057:015df",
   "jp": "貝殻の中には、\n時として高額なものが存在する\n可能性がある。",
-  "en": "",
-  "status": "todo",
+  "en": "Among seashells, there may at times be\nsome that are worth a great deal.",
+  "status": "done",
   "slots": [
    "0x487c",
    "0xa76a"
@@ -1205,8 +1205,8 @@
  {
   "id": "s2057:0161a",
   "jp": "おぉ、これなんかいいんじゃ\nないのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, wouldn't this one be good?",
+  "status": "done",
   "slots": [
    "0x48d2",
    "0xa7c0"
@@ -1216,8 +1216,8 @@
  {
   "id": "s2057:01640",
   "jp": "むむ、この貝殻！",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, this seashell!",
+  "status": "done",
   "slots": [
    "0x492c",
    "0xa81a"
@@ -1227,8 +1227,8 @@
  {
   "id": "s2057:01651",
   "jp": "とってもきれい～。\nしまっちゃお～、フンフフ～ン。",
-  "en": "",
-  "status": "todo",
+  "en": "It's so pretty! Locomoco's putting it away,\nhmm hmm hmmm~",
+  "status": "done",
   "slots": [
    "0x4982",
    "0xa870"
@@ -1238,8 +1238,8 @@
  {
   "id": "s2057:01683",
   "jp": "随分と貝殻が多い砂浜っすねぇ。\nどれどれ",
-  "en": "",
-  "status": "todo",
+  "en": "This beach sure has a lot of seashells, sir.\nLet's see...",
+  "status": "done",
   "slots": [
    "0x49dc",
    "0xa8ca"
@@ -1249,8 +1249,8 @@
  {
   "id": "s2057:016ab",
   "jp": "おぉ～これなんか綺麗でいいんじゃ\nないですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Oooh, isn't this one nice and pretty, sir?",
+  "status": "done",
   "slots": [
    "0x4a32",
    "0xa920"
@@ -1260,8 +1260,8 @@
  {
   "id": "s2057:016d9",
   "jp": "貝殻集めか。童心に帰るな。",
-  "en": "",
-  "status": "todo",
+  "en": "Collecting seashells. It takes me back to my\nchildhood.",
+  "status": "done",
   "slots": [
    "0x4a8c",
    "0xa97a"
@@ -1271,8 +1271,8 @@
  {
   "id": "s2057:016f4",
   "jp": "よく同志達で、綺麗な貝殻を競い\n合ったものだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "My comrades and I often competed for the\nprettiest seashells.",
+  "status": "done",
   "slots": [
    "0x4ae2",
    "0xa9d0"
@@ -1282,8 +1282,8 @@
  {
   "id": "s2057:01726",
   "jp": "まぁ、きれいな貝殻ですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, what a pretty seashell.",
+  "status": "done",
   "slots": [
    "0x4b35",
    "0xaa23"
@@ -1293,8 +1293,8 @@
  {
   "id": "s2057:01741",
   "jp": "いいですね。こういう自然的な\n美しさというものは。",
-  "en": "",
-  "status": "todo",
+  "en": "How nice. This kind of natural beauty.",
+  "status": "done",
   "slots": [
    "0x4b80",
    "0xaa6e"
@@ -1304,8 +1304,8 @@
  {
   "id": "s2057:01773",
   "jp": "ガンガガガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gangagaga.",
+  "status": "done",
   "slots": [
    "0x4bd3",
    "0xaac1"
@@ -1315,8 +1315,8 @@
  {
   "id": "s2057:01780",
   "jp": "ガガンガガー。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangagaa.",
+  "status": "done",
   "slots": [
    "0x4c29",
    "0xab17"
@@ -1326,8 +1326,8 @@
  {
   "id": "s2057:0178f",
   "jp": "貝殻、ねぇ。\nなんでこんなきれいなものが\nお金にならないのかしらね？",
-  "en": "",
-  "status": "todo",
+  "en": "Seashells, huh. Why don't pretty things like\nthese make any money, I wonder?",
+  "status": "done",
   "slots": [
    "0x4c7c",
    "0xab6a"
@@ -1337,8 +1337,8 @@
  {
   "id": "s2057:017d2",
   "jp": "ほら、これなんて、真珠に勝る\n美しさだと思わない？",
-  "en": "",
-  "status": "todo",
+  "en": "Look, don't you think this one's prettier than\na pearl?",
+  "status": "done",
   "slots": [
    "0x4cc7",
    "0xabb5"
@@ -1348,8 +1348,8 @@
  {
   "id": "s2057:01804",
   "jp": "幼少の頃は、よく母上と貝殻集めを\n競い合ったものだな。",
-  "en": "",
-  "status": "todo",
+  "en": "When I was little, Mother and I often\ncompeted at collecting seashells.",
+  "status": "done",
   "slots": [
    "0x4d13",
    "0xac01"
@@ -1359,8 +1359,8 @@
  {
   "id": "s2057:0183a",
   "jp": "母上、元気にしているだろうか。",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder if Mother is well.",
+  "status": "done",
   "slots": [
    "0x4d5e",
    "0xac4c"
@@ -1370,8 +1370,8 @@
  {
   "id": "s2057:01859",
   "jp": "そういえば、この世界の貝類は\n研究外だったわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Come to think of it, I never researched this\nworld's shellfish, dontcha know.",
+  "status": "done",
   "slots": [
    "0x4db1",
    "0xac9f"
@@ -1381,8 +1381,8 @@
  {
   "id": "s2057:01889",
   "jp": "へぇ～見たこともない貝の殻だわさ\nきれいねぇ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, a shell I've never seen before, dontcha\nknow. So pretty!",
+  "status": "done",
   "slots": [
    "0x4e07",
    "0xacf5"
@@ -1392,8 +1392,8 @@
  {
   "id": "s2057:018b9",
   "jp": "いいですわね。こういう自然の\n美しさというのは。",
-  "en": "",
-  "status": "todo",
+  "en": "How nice. This kind of natural beauty.",
+  "status": "done",
   "slots": [
    "0x4e68",
    "0xad56"
@@ -1403,8 +1403,8 @@
  {
   "id": "s2057:018e9",
   "jp": "この美しい貝殻のような女性に\n私はなりたいですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "I wish to become a woman like this beautiful\nseashell.",
+  "status": "done",
   "slots": [
    "0x4eb3",
    "0xada1"
@@ -1414,8 +1414,8 @@
  {
   "id": "s2057:0191b",
   "jp": "なんだよなんだよ。\n戦いの雰囲気がちっともねぇなぁ。\nこの砂浜は！",
-  "en": "",
-  "status": "todo",
+  "en": "What's this, what's this? There ain't any\nfeel of battle at all on this beach!",
+  "status": "done",
   "slots": [
    "0x4ef6",
    "0xade4"
@@ -1425,8 +1425,8 @@
  {
   "id": "s2057:0195c",
   "jp": "ま、一時休戦としておいてやらぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, I'll call a truce for now.",
+  "status": "done",
   "slots": [
    "0x4f4c",
    "0xae3a"
@@ -1436,8 +1436,8 @@
  {
   "id": "s2057:0197d",
   "jp": "痛ッ！\nなんか踏んだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ow! I stepped on somethin'!",
+  "status": "done",
   "slots": [
    "0x5007",
    "0xaef5"
@@ -1447,8 +1447,8 @@
  {
   "id": "s2057:01993",
   "jp": "って、うおぉ！\nうにじゃねぇか！\nラッキー！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! Ain't that a sea urchin! Lucky!",
+  "status": "done",
   "slots": [
    "0x505d",
    "0xaf4b"
@@ -1458,8 +1458,8 @@
  {
   "id": "s2057:019be",
   "jp": "こ、この黒い塊、まさか！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this black lump... could it be!",
+  "status": "done",
   "slots": [
    "0x50b0",
    "0xaf9e"
@@ -1469,8 +1469,8 @@
  {
   "id": "s2057:019d7",
   "jp": "やっぱりでした！\nうにゲットー！\n今夜はご馳走ですよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I knew it! Got a sea urchin! Tonight's a feast!",
+  "status": "done",
   "slots": [
    "0x50fb",
    "0xafe9"
@@ -1480,8 +1480,8 @@
  {
   "id": "s2057:01a0c",
   "jp": "いたっ！\nいたーい！　何か踏んだよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ow! Owww! I stepped on something!",
+  "status": "done",
   "slots": [
    "0x514e",
    "0xb03c"
@@ -1491,8 +1491,8 @@
  {
   "id": "s2057:01a30",
   "jp": "わっ。こ、これって、とっても\n高級なやつだよね？\nイシュトが言ってたよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa. Th-this is a really fancy one, right?\nIshut told me.",
+  "status": "done",
   "slots": [
    "0x51a4",
    "0xb092"
@@ -1502,8 +1502,8 @@
  {
   "id": "s2057:01a77",
   "jp": "いったーい！",
-  "en": "",
-  "status": "todo",
+  "en": "Owwww!",
+  "status": "done",
   "slots": [
    "0x51fe",
    "0xb0ec"
@@ -1513,8 +1513,8 @@
  {
   "id": "s2057:01a84",
   "jp": "あちゃー、うにを踏んでたわけね。\nん～まぁ高級食材だし、痛みわけね",
-  "en": "",
-  "status": "todo",
+  "en": "Oops, so I stepped on a sea urchin. Well, it's\na fancy delicacy, so I'd say we're even.",
+  "status": "done",
   "slots": [
    "0x5254",
    "0xb142"
@@ -1524,8 +1524,8 @@
  {
   "id": "s2057:01ac6",
   "jp": "ん？　なんか踏んだか？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Did I step on somethin'?",
+  "status": "done",
   "slots": [
    "0x52ae",
    "0xb19c"
@@ -1535,8 +1535,8 @@
  {
   "id": "s2057:01add",
   "jp": "おぉ！　うにじゃあねぇか！\nこいつぁツイてるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh! Ain't that a sea urchin! Now that's\nlucky!",
+  "status": "done",
   "slots": [
    "0x5304",
    "0xb1f2"
@@ -1546,8 +1546,8 @@
  {
   "id": "s2057:01b0d",
   "jp": "いい感じの磯だな。\nどれどれ……。",
-  "en": "",
-  "status": "todo",
+  "en": "A fine stretch of rocky shore. Let's see...",
+  "status": "done",
   "slots": [
    "0x535e",
    "0xb24c"
@@ -1557,8 +1557,8 @@
  {
   "id": "s2057:01b2f",
   "jp": "ホラ！　これはいいうにだ！",
-  "en": "",
-  "status": "todo",
+  "en": "There! This is a fine sea urchin!",
+  "status": "done",
   "slots": [
    "0x53b4",
    "0xb2a2"
@@ -1568,8 +1568,8 @@
  {
   "id": "s2057:01b4a",
   "jp": "あ、うにみーっけ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, found a sea urchin!",
+  "status": "done",
   "slots": [
    "0x540e",
    "0xb2fc"
@@ -1579,8 +1579,8 @@
  {
   "id": "s2057:01b5d",
   "jp": "みんなにあげよーっと。",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco's gonna give it to everyone.",
+  "status": "done",
   "slots": [
    "0x5464",
    "0xb352"
@@ -1590,8 +1590,8 @@
  {
   "id": "s2057:01b74",
   "jp": "ん？　なんすか？\nあの黒い物体は。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? What's that black thing, sir?",
+  "status": "done",
   "slots": [
    "0x54be",
    "0xb3ac"
@@ -1601,8 +1601,8 @@
  {
   "id": "s2057:01b96",
   "jp": "おぉー。うにじゃないっすか！\nこいつはツイてるっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, isn't that a sea urchin, sir! That's lucky!",
+  "status": "done",
   "slots": [
    "0x5514",
    "0xb402"
@@ -1612,8 +1612,8 @@
  {
   "id": "s2057:01bca",
   "jp": "おや、こんな所にうにの大群が。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, a whole swarm of sea urchins here.",
+  "status": "done",
   "slots": [
    "0x5567",
    "0xb455"
@@ -1623,8 +1623,8 @@
  {
   "id": "s2057:01be9",
   "jp": "すまない。これも生きるためだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Forgive me. This too is for survival.",
+  "status": "done",
   "slots": [
    "0x55b2",
    "0xb4a0"
@@ -1634,8 +1634,8 @@
  {
   "id": "s2057:01c08",
   "jp": "あら、これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, this is...",
+  "status": "done",
   "slots": [
    "0x5605",
    "0xb4f3"
@@ -1645,8 +1645,8 @@
  {
   "id": "s2057:01c1b",
   "jp": "これは……うに！\n高級食材ではありませんか！\n早速いただきましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "This is... a sea urchin! Isn't it a delicacy?\nLet's have it right away!",
+  "status": "done",
   "slots": [
    "0x565b",
    "0xb549"
@@ -1656,8 +1656,8 @@
  {
   "id": "s2057:01c5e",
   "jp": "ガンガグンガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gangagunga.",
+  "status": "done",
   "slots": [
    "0x56b5",
    "0xb5a3"
@@ -1667,8 +1667,8 @@
  {
   "id": "s2057:01c6d",
   "jp": "グ、グンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gu, gungaa!",
+  "status": "done",
   "slots": [
    "0x570b",
    "0xb5f9"
@@ -1678,8 +1678,8 @@
  {
   "id": "s2057:01c7c",
   "jp": "やったー、うにゲットォ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yaaay, got a sea urchin!",
+  "status": "done",
   "slots": [
    "0x575e",
    "0xb64c"
@@ -1689,8 +1689,8 @@
  {
   "id": "s2057:01c95",
   "jp": "新鮮獲れたて！\n早速いただくわよぉ～！",
-  "en": "",
-  "status": "todo",
+  "en": "Fresh off the rocks! Time to dig in!",
+  "status": "done",
   "slots": [
    "0x57a9",
    "0xb697"
@@ -1700,8 +1700,8 @@
  {
   "id": "s2057:01cbb",
   "jp": "ぬあ！\nあ、足に激痛が……！",
-  "en": "",
-  "status": "todo",
+  "en": "Nwah! A-agonising pain in my foot...!",
+  "status": "done",
   "slots": [
    "0x57fc",
    "0xb6ea"
@@ -1711,8 +1711,8 @@
  {
   "id": "s2057:01cd7",
   "jp": "こ、これはうに！\n高級食材ではないか！\nフフフ、今日のボクはツイてるぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this is a sea urchin! Isn't it a delicacy?\nHehehe, I'm lucky today!",
+  "status": "done",
   "slots": [
    "0x5852",
    "0xb740"
@@ -1722,8 +1722,8 @@
  {
   "id": "s2057:01d1e",
   "jp": "ん！　どこからか美味しい\n気配がするだわさ！\n……ここだぁー！",
-  "en": "",
-  "status": "todo",
+  "en": "Mm! I sense something yummy somewhere,\ndontcha know! ...Right heeere!",
+  "status": "done",
   "slots": [
    "0x58ac",
    "0xb79a"
@@ -1733,8 +1733,8 @@
  {
   "id": "s2057:01d5b",
   "jp": "うひょー！　うにゲットォ！",
-  "en": "",
-  "status": "todo",
+  "en": "Woohoo! Got a sea urchin!",
+  "status": "done",
   "slots": [
    "0x5902",
    "0xb7f0"
@@ -1744,8 +1744,8 @@
  {
   "id": "s2057:01d76",
   "jp": "む、なにやら魅力的な\n気配がしますわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Mm, I sense something rather attractive.",
+  "status": "done",
   "slots": [
    "0x596a",
    "0xb858"
@@ -1755,8 +1755,8 @@
  {
   "id": "s2057:01d9c",
   "jp": "これは、高級うに！\nん～さすが私ですわ！",
-  "en": "",
-  "status": "todo",
+  "en": "It's a fine sea urchin! Mmm, as expected of\nme!",
+  "status": "done",
   "slots": [
    "0x59c0",
    "0xb8ae"
@@ -1766,8 +1766,8 @@
  {
   "id": "s2057:01dc4",
   "jp": "ん？　なんかチクッとしたぜ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Somethin' just pricked me.",
+  "status": "done",
   "slots": [
    "0x5a0a",
    "0xb8f8"
@@ -1777,8 +1777,8 @@
  {
   "id": "s2057:01de1",
   "jp": "おぉ、うにじゃねぇか！\nラッキー。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, ain't that a sea urchin! Lucky.",
+  "status": "done",
   "slots": [
    "0x5a60",
    "0xb94e"
@@ -1788,8 +1788,8 @@
  {
   "id": "s2057:07490",
   "jp": "見つけたぞ、カミュル。",
-  "en": "",
-  "status": "todo",
+  "en": "There you are, Kamuru.",
+  "status": "done",
   "slots": [
    "0x81d5"
   ],
@@ -1799,8 +1799,8 @@
  {
   "id": "s2057:074ab",
   "jp": "メラニー将軍。真に勝手ながら\nこのカミュル、ただいまをもって\n騎士団を退団いたします。",
-  "en": "",
-  "status": "todo",
+  "en": "General Melanie. Selfish as it is of me, I,\nKamuru, hereby resign from the Knights as\nof this moment.",
+  "status": "done",
   "slots": [
    "0x81ee"
   ],
@@ -1810,8 +1810,8 @@
  {
   "id": "s2057:07504",
   "jp": "問題ない。既に貴様は死んだことに\nなっている！",
-  "en": "",
-  "status": "todo",
+  "en": "No problem. You've already been declared\ndead!",
+  "status": "done",
   "slots": [
    "0x8207"
   ],
@@ -1821,8 +1821,8 @@
  {
   "id": "s2057:07536",
   "jp": "役に立たない人間はすぐに捨てる。\nこれが皇国のやり方か……。",
-  "en": "",
-  "status": "todo",
+  "en": "Discarding anyone the moment they're\nuseless. So this is the Empire's way...",
+  "status": "done",
   "slots": [
    "0x8238"
   ],
@@ -1832,8 +1832,8 @@
  {
   "id": "s2057:07576",
   "jp": "隊列に一切の乱れがない。\nよく訓練されていますね。",
-  "en": "",
-  "status": "todo",
+  "en": "Not a single flaw in their ranks. They're well\ntrained.",
+  "status": "done",
   "slots": [
    "0x8270"
   ],
@@ -1843,8 +1843,8 @@
  {
   "id": "s2057:075ac",
   "jp": "総員！　迎え撃つぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "All hands! We meet 'em head-on!",
+  "status": "done",
   "slots": [
    "0x8295"
   ],
@@ -1854,8 +1854,8 @@
  {
   "id": "s2057:075c5",
   "jp": "ボウヤ、\nなかなかいい目をしているな。\nフフ、強い男は好きだぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Little boy, you have quite good eyes. Hehe, I\nlike strong men.",
+  "status": "done",
   "slots": [
    "0xba42"
   ],
@@ -1865,8 +1865,8 @@
  {
   "id": "s2057:07608",
   "jp": "おわっ、な、なんだ、背中に寒気が",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, wh-what's this chill down my spine?",
+  "status": "done",
   "slots": [
    "0xba57"
   ],
@@ -1876,8 +1876,8 @@
  {
   "id": "s2057:0762d",
   "jp": "貴様がザザーランドの娘か。\nフン、見るだけでイライラする顔だ",
-  "en": "",
-  "status": "todo",
+  "en": "So you're Zazarland's daughter. Hmph, your\nface irritates me just to look at.",
+  "status": "done",
   "slots": [
    "0xbc48"
   ],
@@ -1887,8 +1887,8 @@
  {
   "id": "s2057:0766d",
   "jp": "な！　失礼な奴！",
-  "en": "",
-  "status": "todo",
+  "en": "What! How rude!",
+  "status": "done",
   "slots": [
    "0xbc5d"
   ],
@@ -1898,8 +1898,8 @@
  {
   "id": "s2057:07682",
   "jp": "久々だな！　\nこうして剣を交えるのは！",
-  "en": "",
-  "status": "todo",
+  "en": "It's been a while! Since we crossed swords\nlike this!",
+  "status": "done",
   "slots": [
    "0xbe4e"
   ],
@@ -1909,8 +1909,8 @@
  {
   "id": "s2057:076ac",
   "jp": "悪いが、今回は本気だぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, but this time I'm serious.",
+  "status": "done",
   "slots": [
    "0xbe63"
   ],
@@ -1920,8 +1920,8 @@
  {
   "id": "s2057:076c9",
   "jp": "フン、獣が。\n人間に勝てるとでも\n思っているのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph, a beast. Do you think you can beat a\nhuman?",
+  "status": "done",
   "slots": [
    "0xbb41"
   ],
@@ -1930,8 +1930,8 @@
  {
   "id": "s2057:076fa",
   "jp": "思ってないよ。\n少なくとも、兄貴には負けっぱなし\nだからね。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't. After all, I keep losing to the Boss,\nat least.",
+  "status": "done",
   "slots": [
    "0xbb56"
   ],
@@ -1940,8 +1940,8 @@
  {
   "id": "s2057:07735",
   "jp": "羅針盤、貴様は捕獲対象だ。\n速やかに捕らえるぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Compass, you are a target for capture. I will\ntake you at once!",
+  "status": "done",
   "slots": [
    "0xbd47"
   ],
@@ -1950,8 +1950,8 @@
  {
   "id": "s2057:07765",
   "jp": "ふふん。\nやれるものならやってみるんだね。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph. Try it if you can.",
+  "status": "done",
   "slots": [
    "0xbd5c"
   ],
@@ -1960,8 +1960,8 @@
  {
   "id": "s2057:0778f",
   "jp": "まだ残っていたとは。\nグロリア海賊団は、どんな恩を\nアナタに売ったというのか。",
-  "en": "",
-  "status": "todo",
+  "en": "You're still with them? What favour could\nthe Gloria Pirates have done you?",
+  "status": "done",
   "slots": [
    "0xbf4d"
   ],
@@ -1970,8 +1970,8 @@
  {
   "id": "s2057:077dc",
   "jp": "恩？　そんな大したことじゃない。\nただの、私利私欲さ。",
-  "en": "",
-  "status": "todo",
+  "en": "A favour? Nothing so grand. Merely my own\nselfish interests.",
+  "status": "done",
   "slots": [
    "0xbf62"
   ],
@@ -1980,8 +1980,8 @@
  {
   "id": "s2057:07812",
   "jp": "貴様の攻撃など、まさしく児戯。\n我が隊には通用せぬ！",
-  "en": "",
-  "status": "todo",
+  "en": "Your attacks are truly child's play. They\nwon't work against my unit!",
+  "status": "done",
   "slots": [
    "0xc04c"
   ],
@@ -1990,8 +1990,8 @@
  {
   "id": "s2057:07846",
   "jp": "いいんだ？　そんなこと言って。\n後悔するよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Are you sure you should say that? You'll\nregret it!",
+  "status": "done",
   "slots": [
    "0xc061"
   ],
@@ -2000,8 +2000,8 @@
  {
   "id": "s2057:07872",
   "jp": "黄泉の国か……フフ。\nそこへ帰るのは、お前の方だ！",
-  "en": "",
-  "status": "todo",
+  "en": "The Land of the Dead... Hehe. You're the one\nwho'll be going back there!",
+  "status": "done",
   "slots": [
    "0xc14b"
   ],
@@ -2010,8 +2010,8 @@
  {
   "id": "s2057:078a4",
   "jp": "帰りたいのは山々っすけど。\nこっちの仕事はまだ\n終わってないっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'd love to go back, ma'am, but my job here\nisn't finished yet.",
+  "status": "done",
   "slots": [
    "0xc160"
   ],
@@ -2020,8 +2020,8 @@
  {
   "id": "s2057:078e7",
   "jp": "シャンティエ如きが。\n我等ルキア皇国に敵うとでも\n思っているのか！",
-  "en": "",
-  "status": "todo",
+  "en": "The likes of Chantier think they can rival us,\nthe Lukia Empire!?",
+  "status": "done",
   "slots": [
    "0xc24a"
   ],
@@ -2030,8 +2030,8 @@
  {
   "id": "s2057:07928",
   "jp": "貴様……！\nその自信、我が槍で貫いて\nくれよう……！",
-  "en": "",
-  "status": "todo",
+  "en": "You...! I'll pierce that confidence of yours\nwith my spear...!",
+  "status": "done",
   "slots": [
    "0xc25f"
   ],
@@ -2040,8 +2040,8 @@
  {
   "id": "s2057:0795b",
   "jp": "賞金稼ぎが海賊に成り下がったか。\n愚かな。",
-  "en": "",
-  "status": "todo",
+  "en": "A bounty hunter fallen so low as to become\na pirate. How foolish.",
+  "status": "done",
   "slots": [
    "0xc350"
   ],
@@ -2050,8 +2050,8 @@
  {
   "id": "s2057:07985",
   "jp": "あら、力ばかりを振りかざす\n戦争屋さんよりかは、海賊の方が\n幾分かマシですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, a pirate is somewhat better than a\nwarmonger who only brandishes her power.",
+  "status": "done",
   "slots": [
    "0xc365"
   ],
@@ -2060,8 +2060,8 @@
  {
   "id": "s2057:079d2",
   "jp": "貴様……ルキア皇国を愚弄するとは\n許さんぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "You... I won't forgive you for mocking the\nLukia Empire!",
+  "status": "done",
   "slots": [
    "0xc37a"
   ],
@@ -2070,8 +2070,8 @@
  {
   "id": "s2057:079fe",
   "jp": "機械の様な単調な攻撃。\n防ぐのは容易い！",
-  "en": "",
-  "status": "todo",
+  "en": "Monotonous attacks, like a machine. Easy to\nblock!",
+  "status": "done",
   "slots": [
    "0xc464"
   ],
@@ -2080,8 +2080,8 @@
  {
   "id": "s2057:07a26",
   "jp": "あらら、将軍のお出まし？\nもう、メンドクサイんだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, the general herself? Ugh, what a\nhassle, dontcha know.",
+  "status": "done",
   "slots": [
    "0xc541"
   ],
@@ -2090,8 +2090,8 @@
  {
   "id": "s2057:07a5c",
   "jp": "フン、奇妙な女だ……。\nそうやって余裕でいられるのも\n今のうちだぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph, a strange woman... You can only stay\nso relaxed for now!",
+  "status": "done",
   "slots": [
    "0xc556"
   ],
@@ -2100,8 +2100,8 @@
  {
   "id": "s2057:07a9f",
   "jp": "チ、人員不足が祟ったか……。\nカミュル軍曹、皇国を裏切った罪を\n必ず思い知らしてやるぞ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, our lack of men has cost us... Sergeant\nKamuru, I will make you pay for the crime of\nbetraying the Empire...!",
+  "status": "done",
   "slots": [
    "0xc754"
   ],
@@ -2111,8 +2111,8 @@
  {
   "id": "s2057:07afe",
   "jp": "総員、撤退だ！",
-  "en": "",
-  "status": "todo",
+  "en": "All troops, retreat!",
+  "status": "done",
   "slots": [
    "0xc769"
   ],
@@ -2122,8 +2122,8 @@
  {
   "id": "s2057:07b11",
   "jp": "すごい……あのメラニー将軍を\n退かせるなんて……！",
-  "en": "",
-  "status": "todo",
+  "en": "Amazing... They made General Melanie\nherself withdraw...!",
+  "status": "done",
   "slots": [
    "0xcf0a"
   ],
@@ -2133,8 +2133,8 @@
  {
   "id": "s2057:07b47",
   "jp": "うんうん。それでこそ私が惚れた\n方々ですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, yes. That's what I'd expect from the\npeople I fell for.",
+  "status": "done",
   "slots": [
    "0xcf36"
   ],
@@ -2144,8 +2144,8 @@
  {
   "id": "s2057:07b77",
   "jp": "これぐらいやんなきゃ、\nあたし達の中では目立てないわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "You've got to do at least this much to stand\nout among us.",
+  "status": "done",
   "slots": [
    "0xcf56"
   ],
@@ -2155,8 +2155,8 @@
  {
   "id": "s2057:07bb3",
   "jp": "なんという威厳あるお言葉……！\nエリーシャさん、いや師匠！\nボクにご指導をお願いします！！",
-  "en": "",
-  "status": "todo",
+  "en": "Such dignified words...! Elisha-san, no,\nMaster! Please train me!!",
+  "status": "done",
   "slots": [
    "0xcf73"
   ],
@@ -2166,8 +2166,8 @@
  {
   "id": "s2057:07c10",
   "jp": "え、ええぇ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-whaaat!?",
+  "status": "done",
   "slots": [
    "0xcf8c"
   ],
@@ -2177,8 +2177,8 @@
  {
   "id": "s2057:07c23",
   "jp": "ハッハッハ！\nよかったじゃないかエリーシャ、\n弟子ができたぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hahaha! Good for you, Elisha, you've got\nyourself an apprentice!",
+  "status": "done",
   "slots": [
    "0xcfa5"
   ],
@@ -2188,8 +2188,8 @@
  {
   "id": "s2057:07c64",
   "jp": "また変な仲間が増えたわさ。\nエリーシャ、相手よろしくねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Another weirdo joins the crew, dontcha\nknow. Elisha, he's all yours.",
+  "status": "done",
   "slots": [
    "0xcfdc"
   ],
@@ -2199,8 +2199,8 @@
  {
   "id": "s2057:07ca2",
   "jp": "じょ、冗談じゃないわよぉも～！",
-  "en": "",
-  "status": "todo",
+  "en": "Y-you've got to be kidding me!",
+  "status": "done",
   "slots": [
    "0xcffc"
   ],
@@ -2219,8 +2219,8 @@
  {
   "id": "s2057:01ee3t",
   "jp": "カミュル騎馬隊",
-  "en": "",
-  "status": "todo",
+  "en": "Kamuru Cavalry",
+  "status": "done",
   "at": "0x1ee6",
   "max": 14,
   "who": "team name"
@@ -2237,8 +2237,8 @@
  {
   "id": "s2057:07d59t",
   "jp": "盾のメラニー部隊",
-  "en": "",
-  "status": "todo",
+  "en": "Melanie Shield Unit",
+  "status": "done",
   "at": "0x7d5c",
   "max": 16,
   "who": "team name"

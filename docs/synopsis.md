@@ -46,3 +46,24 @@ b072-b082) hold tutorial and shared talk.
 - **2045:** Bordolese Island (everything, coffins too, kept in barrels; skeletons in them). Anne loses a treasure
   race to Elisha and runs off ("a woman can go back on her word").
 - **2046:** The Sea Dogs "protect sea creatures" by killing Sea Goblins (who hoard treasure) for their loot.
+
+## Chapter 4 (2047-2059, translated session 10)
+- **2047:** Flashback: Elisha's first battle, beside Zazarland against Blackmore ("first mate" of a two-person crew).
+- **2048:** Blackmore's island of slaves, in the rain (guns weak). Pinger steals the cannons ("cat burglar"). Beaten,
+  Blackmore offers to sell out his client and Ruru's secret (she holds the key to an ancient weapon: the ruins'
+  cards) and is shot dead by Ashrey with the fire card Volcanon. Six cards: water, fire, earth, wind, dark, light.
+  Zazarland: **Ashrey is the new Emperor of Lukia and Ishut's twin brother** (Ishut = descendant of the Euforian
+  royal family; Ashrey put the bounty on him).
+- **2049:** Garm (First Unit, spear) and Melanie (Third Unit, shield) block the sea; only a scout force. Branch:
+  Wind God's Road or Earth Spear first (2051/2054 and 2052/2055 are mirror versions).
+- **2050:** Yggdra (bounty hunter, "Fantasinia Brigade", Gatling gun Centurio Buster) attacks, then joins for pay.
+- **2051/2054:** Ajo-Grafor, mad scientist, with Ruru Mk-II (a copy of the "unfinished original" Ruru). The
+  Selector (crystal oracle) accepts Ishut as king: Lost Material is the king's proof.
+- **2052/2055:** Tracey (head of the Leverage Guild, "the Developer", alchemist; uses two cards) already holds the
+  wind and earth cards. **She turned the orphan Pinger from a human into a beastman** and threw her away. Anne
+  Cormack is **Tracey's younger sister**. Ajo-Grafor returns berserk.
+- **2053:** Gangr, a ruin-guardian robot, is fished up; only Ruru understands him; he joins.
+- **2056:** "Velgas" returns, half machine, with a card's Will in his body; Ishut refuses to believe it.
+- **2057:** Kamuru, loud rookie knight, loses, is condemned by Melanie, defects; makes Elisha his "Master".
+- **2058:** Pamela (same homeland as Locomoco, magic, "dontcha know") joins for ruin shards. Rogan returns.
+- **2059:** Beach episode at Lattato Celeste; Elisha and Anne team up against Rogan's pestering.

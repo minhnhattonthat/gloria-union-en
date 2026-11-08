@@ -325,7 +325,7 @@ def merge(new, overwrite, entries, groups):
     target = {}
     for eid, en in new.items():
         for m in groups[entries[eid]["jp"]]:
-            if m["id"] == eid or not m.get("en"):
+            if overwrite or m["id"] == eid or not m.get("en"):  # overwrite: the copies of the same JP too
                 target[m["id"]] = shipped(m, en)
     if not overwrite:
         for eid, en in target.items():

@@ -26,6 +26,12 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   - Raspberry: rookie devil cop of the Land of the Dead, っす speech -> eager, tacks on "sir" ("I found you, sir!").
   - Rogan: skeleton ex-Pirate King, pompous archaic ("Silence, girl!", "I am the PHOENIX!").
   - Pinger calls Zazarland 親っさん "Pops"; the crew call Elisha 姐さん "Sis".
+  - Yggdra: earnest bounty hunter "of justice", polite, merciless to "evil", money-poor ("Hint: bounty hunting doesn't pay").
+  - Pamela: だわさ -> ", dontcha know" (also "the Great Pamela-sama"). Eater: refined ですわ ("Oh my", "gentlemen").
+  - Kamuru: loud hot-blooded rookie knight, ボク, "Unworthy as I am, I, Kamuru..." (不肖カミュル); calls Elisha "Master".
+  - Ajo-Grafor: mad scientist, ボク, chirpy then stuttering berserk ("I'll d-d-dissect you!"); Ruru Mk-II and Gangr's
+    machine lines: stilted, full stops between chunks ("Commencing. Battle."). Gangr's ガング noises keep his name: "Gagan-Gangr".
+  - The Selector (crystal oracle, speaker shown as Ishut): archaic "I am the Selector... O king".
 - Groups suffixes on unit names: 〜団 (a crew/gang) -> "<Name> Crew"; 〜隊 (a squad) -> "<Name> Unit".
 - Katakana doubles of kanji unit names (コウコク兵 = 皇国兵) are the same word: translate them the same or as a
   plural.
@@ -91,9 +97,15 @@ Spellings below are official: the game's own name plates (ids 1534-1580, crests 
 | シャンティエ | Chantier | | 腐海都市 = Rotting Sea City | |
 | バッソフォンド | Bassofondo | | | |
 | 世界樹 | World Tree | | | |
+| 加工都市アレン | Craft City Allen | | | |
+| ストレガッタ | Stregatta | | region, World Tree | |
+| ラッタートチェレステビーチ | Lattato Celeste Beach | | | |
+| ニンフェッタ海岸 | Nymphetta Coast | | | |
 
 ## Items / skills / terms
 Item names fit 134 px of font 2 (~17 letters, EXTRA item page): the item batches b005/b006 hold the binding names.
+Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "Fire Dragon Castle" (Fire Castle Shard),
+風神の道 "Wind God's Road" (Wind Road Shard), 大地の槍 "Earth Spear" (Earth Spear Shard). Tracey's nickname 開発者 = "the Developer".
 
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
@@ -112,6 +124,15 @@ Item names fit 134 px of font 2 (~17 letters, EXTRA item page): the item batches
 | 天上への担い手 | Bearer to the Heavens | | the manta (EBOOT 2c5bf2) | |
 | 海の平和を守る会 | Society to Protect the Peace of the Seas | | NPC group | |
 | 商団 (unit) | Guild | | trading guild | |
+| 遺跡の欠片 | ruin shard | | Ruru's food; items `<ruin> Shard` | |
+| ロストマテリアル | Lost Material | | item; the Selector's "proof of a king" | |
+| 選定者 | the Selector | | crystal oracle | |
+| ヴォルカノン / バーストウィング | Volcanon / Burst Wing | | fire / wind cards; six cards: water, fire, earth, wind, dark, light | |
+| ファンタジニア旅団 | Fantasinia Brigade | | Yggdra's bounty hunters | |
+| センチュリオバスター | Centurio Buster | | Yggdra's Gatling gun (item: Centurio B) | |
+| 一番隊 / 三番隊 | First Unit / Third Unit | | Lukia Imperial Knights; Garm "the Divine Spear", Melanie "the Guardian" | |
+| スターダスト / ダークマター | Stardust / Dark Matter | | ores | |
+| 魔水晶 | magic crystal | | ore | |
 
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)
