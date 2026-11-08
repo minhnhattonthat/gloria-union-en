@@ -348,3 +348,20 @@ wpn_staff	杖	Staff
 wpn_club	塊	Club
 wpn_scythe	鎌	Scythe
 wpn_harp	琴	Harp
+strat_left	残された戦略は…	Strategies left...
+strat_cards	あと	Left:
+sc_difficulty	難易度	Difficulty
+opt_normal	(通常設定)	(Standard)
+opt_hard	(荒波設定)	(Rough Seas)
+opt_battle_q	バトルの難易度を設定してください。	Set the battle difficulty.
+opt_event_voice	>>イベントシーンでのボイス(音声)を再生するかを設定します	>>Sets whether voices play in event scenes
+opt_battle_voice	>>バトルシーンでのボイス(音声)を再生するかを設定します	>>Sets whether voices play in battle scenes
+opt_tutorial	>>ゲーム中のチュートリアルを受けるかどうかを設定します	>>Sets whether tutorials appear during play
+opt_boost	>>バトルシーンでさらに高速化するかどうかを設定します	>>Sets whether battle scenes run even faster
+opt_to_title	タイトルへ戻る	To Title
+opt_install	>>データインストールを使用するかどうかを設定します	>>Sets whether to use the data install
+opt_cancel	キャンセル	Cancel
+res_max_level	すでに最高レベルに達しています	Already at the highest level
+res_no_exp	EXPが加算されないユニットです	This unit gains no EXP
+equip_q	このアイテムを装備しますか?	Equip this item?
+scenario_q	このシナリオでよろしいですか?	Choose this scenario?

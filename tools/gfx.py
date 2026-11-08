@@ -893,6 +893,7 @@ for _n, _o, _kw in (("ok_battle", 0x36f4c0, dict(face="LiberationSerif-Bold.ttf"
           section=14)
 
 
+REGULAR = "LiberationSans-Regular.ttf"   # small light lettering with a 1 px rim: bold closes up below ~15 px
 WHITE_INK = ((255, 255, 255, 255), (6, 6, 6, 251))   # plain white dialog text with its near-black rim
 
 
@@ -901,10 +902,12 @@ def id3_section(off):
     return 14 if 0x36f230 <= off < 0x450e90 else 16 if off >= 0x4a6910 else None
 
 
-def fixed(name, off, w, h, items, size, **kw):
-    """An id 3 PTX redrawn inside the old words' ink boxes (items: (rect, text key, dark_fill)); no table change."""
-    asset(name, 3, "ptx", off, (0, 0, w, h),
-          lambda a, t: draw_fixed(a, [(r, t[k], d) for r, k, d in items], size, **kw), section=id3_section(off))
+def fixed(name, off, w, h, items, size, file=3, **kw):
+    """A PTX (id 3 unless file=) redrawn inside the old words' ink boxes (items: (rect, text key, dark_fill)); no
+    table change."""
+    asset(name, file, "ptx", off, (0, 0, w, h),
+          lambda a, t: draw_fixed(a, [(r, t[k], d) for r, k, d in items], size, **kw),
+          section=id3_section(off) if file == 3 else None)
 
 
 fixed("forecast", 0x33cb90, 96, 84, [((0, 0, 84, 15), "fc_survivors", False), ((0, 17, 45, 15), "fc_stat_gap", False),
@@ -1138,16 +1141,49 @@ def draw_status_labels(a, t):
 asset("status_labels", 3, "ptx", 0x10ad90, (50, 23, 154, 59), draw_status_labels)
 
 
-def draw_condition_chip(a, text):
-    """2419 card data: 使用条件 in white on a brown pill (x 41-79, rows 61-71), left of a white triangle."""
+def draw_condition_chip(a, text, rect=(43, 61, 36, 11)):
+    """使用条件 in white on a brown pill (2419 card data: x 41-79, rows 61-71, left of a white triangle)."""
+    x, y, w, h = rect
     out = a.copy()
-    out[61:72, 43:79] = (77, 67, 53, 255)
+    out[y:y + h, x:x + w] = (77, 67, 53, 255)
     white = (255, 255, 255, 255)
-    return draw_fixed(out, [((43, 61, 36, 11), text, False)], 10, stroke=0, ink=(white, white), clear=False,
-                      center=True)
+    return draw_fixed(out, [(rect, text, False)], 10, stroke=0, ink=(white, white), clear=False, center=True)
 
 
 asset("condition_chip", 2419, "ptx", 0x24570, (43, 61, 36, 11), lambda a, t: draw_condition_chip(a, t["cd_condition"]))
+asset("card_select_chip", 2426, "ptx", 0x20, (286, 18, 33, 11),   # CARD SELECT header: the same chip, x 281-322
+      lambda a, t: draw_condition_chip(a, t["cd_condition"], (286, 18, 33, 11)))
+fixed("strategies", 0x3520, 176, 62, [((0, 0, 116, 15), "strat_left", False), ((0, 17, 29, 17), "strat_cards", False),
+                                       ((31, 16, 15, 18), "cnt_cards", False)], 14, file=2426,
+      ink=((255, 253, 247, 255), (8, 5, 6, 254)))   # あと<n>枚 -> "Left: <n>"
+def draw_box_word(a, rect, text, size, fill=(1, 1, 1, 255)):
+    """White word on a filled dark box (the box's inside refilled, then the English centred in it)."""
+    x, y, w, h = rect
+    out = a.copy()
+    out[y:y + h, x:x + w] = fill
+    white = (255, 255, 255, 255)
+    return draw_fixed(out, [(rect, text, False)], size, face=REGULAR, stroke=0, ink=(white, white), clear=False,
+                      center=True)
+
+
+asset("difficulty", 2427, "ptx", 0xd220, (19, 13, 32, 15),   # 難易度 on a black box x 18-51 rows 12-28, right of an X icon
+      lambda a, t: draw_box_word(a, (19, 13, 32, 15), t["sc_difficulty"], 12))
+fixed("opt_battle", 0x60910, 384, 44, [((181, 0, 70, 21), "opt_normal", False), ((301, 0, 71, 21), "opt_hard", False),
+                                       ((2, 22, 279, 21), "opt_battle_q", False)], 18, file=4, face=REGULAR, stroke=0)
+asset("opt_help", 4, "ptx", 0x64ba0, (0, 0, 304, 96),   # a moon icon at x 266-282 stays
+      lambda a, t: draw_fixed(draw_fixed(a, [((0, 1, 284, 11), t["opt_event_voice"], False),
+                                             ((0, 14, 274, 11), t["opt_battle_voice"], False),
+                                             ((0, 26, 264, 12), t["opt_tutorial"], False),
+                                             ((0, 39, 256, 12), t["opt_boost"], False),
+                                             ((0, 69, 245, 11), t["opt_install"], False)], 12, face=REGULAR,
+                                        ink=((255, 247, 200, 255), (6, 6, 6, 252))),   # rim alpha 252: ink_colours skips it
+                              [((83, 52, 85, 16), t["opt_to_title"], False), ((1, 81, 64, 15), t["opt_cancel"], False)],
+                              17, face=REGULAR, ink=((255, 255, 255, 255), (6, 6, 6, 252))))
+fixed("result_msgs", 0x6fd10, 256, 90, [((1, 63, 236, 14), "res_max_level", False), ((1, 77, 236, 13), "res_no_exp", False)],
+      15, file=1581, face=REGULAR, stroke=0, ink=((255, 255, 255, 255),) * 2)   # plain white, no rim   # RESULT above and the black block at x 240-255 stay
+for _n, _f, _o, _kw in (("equip_q", 2422, 0x20, dict(size=22)), ("scenario_q", 2427, 0xecc0, dict(size=14))):
+    asset(_n, _f, "ptg", _o, (0, 0, 512, 512),
+          lambda a, t, n=_n, kw=_kw: draw_label(a, t[n], "LiberationSans-Bold.ttf", dark_fill=False, **kw), resize=True)
 SMALL_MOVES = ["mv_foot", "mv_slow", "mv_flying", "mv_aquatic", "mv_dragon", "mv_cavalry", "mv_teleport"]
 
 

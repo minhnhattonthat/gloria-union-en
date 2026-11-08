@@ -16,7 +16,8 @@ out = Path(args[0])
 out.mkdir(parents=True, exist_ok=True)
 b = (Path(__file__).resolve().parents[1] / "work" / "re" / "files" / f"{opt['--file']:05d}.bin").read_bytes()
 for o in args[1:]:
-    a = ptx.decode(b, ptx.parse(b, int(o, 16)))
+    t = ptx.parse(b, int(o, 16))
+    a = ptx.decode(b, t) if t else ptx.ptg(b, int(o, 16))   # not a PTX: a PTG composite
     bg = Image.new("RGBA", (a.shape[1], a.shape[0]), (128, 128, 128, 255))
     bg.alpha_composite(Image.fromarray(a))
     bg.resize((a.shape[1] * zoom, a.shape[0] * zoom), Image.NEAREST).save(out / f"{o}.png")
