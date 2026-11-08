@@ -83,6 +83,8 @@ def write(b, a, img):
         out = ptx.encode(b, t, img)
         b[t["do"]:t["do"] + len(out)] = out
     else:
+        if a["resize"]:   # the PNG sets the canvas: rebuild the PTG's atlas and sprites for it (the file size changes)
+            ptx.ptg_resize(b, a["off"], img.shape[1], img.shape[0])
         base, pieces, sprites = ptx.ptg_parts(b, a["off"])
         size = struct.unpack_from("<I", b, a["off"] + 12)[0]
         block = bytearray(b[base:base + size] if size else b[base:])
@@ -162,9 +164,12 @@ def grow(m, n=1):
     return m
 
 
-def layer_text(text, f, fill, stroke=0, stroke_fill=None, xscale=1.0, shear=0.0):
-    """Text on a tight transparent layer (stroke included), optionally squeezed and slanted."""
+def layer_text(text, f, fill, stroke=0, stroke_fill=None, xscale=1.0, shear=0.0, lines=False):
+    """Text on a tight transparent layer (stroke included), optionally squeezed and slanted. lines: the height spans
+    the font's capitals and descenders whatever the text, so every word shares one baseline."""
     l, t, r, bt = f.getbbox(text, stroke_width=stroke)
+    if lines:
+        _, t, _, bt = f.getbbox("Hgy" + text, stroke_width=stroke)
     im = Image.new("RGBA", (r - l + 4, bt - t + 4), (0, 0, 0, 0))
     ImageDraw.Draw(im).text((2 - l, 2 - t), text, font=f, fill=fill, stroke_width=stroke, stroke_fill=stroke_fill)
     if xscale != 1.0:
@@ -395,13 +400,101 @@ def draw_title(a, text, vertical):
     return out
 
 
+# --- event banners (1945-1991: PTP entry 1 = the word, a PTG over the 480-wide art) ------------------------------
+
+BANNER_ITALIC = {1955, 1961, 1974, 1977, 1982, 1983, 1986, 1987}   # 110x48 white italic words with a black rim
+
+
+def banner_layer(text, italic, size, xscale=1.0):
+    if italic:
+        return layer_text(text, font("LiberationSans-BoldItalic.ttf", size), (255, 255, 255, 255), 2, (0, 0, 0, 255), xscale,
+                          lines=True)
+    return layer_text(text, font("LiberationSerif-Bold.ttf", size), (2, 2, 2, 255), 2, (255, 255, 255, 255), xscale,
+                      lines=True)
+
+
+def fit_canvas(layer, size, wmax, clear):
+    """For a resize PTG: layer(size, xscale) on one line, squeezed to fit wmax (to 0.8 at worst, then a smaller
+    font), centred on a canvas cut to the text (height rounded up to the 8-row bands)."""
+    while True:
+        lt = layer(size, 1.0)
+        xs = min(1.0, wmax / lt.width)
+        if xs >= 0.8:
+            break
+        size -= 1
+    lt = layer(size, xs) if xs < 1 else lt
+    w, h = lt.width + lt.width % 2, -(-lt.height // 8) * 8
+    im = Image.new("RGBA", (w, h), clear)
+    im.alpha_composite(lt, ((w - lt.width) // 2, (h - lt.height) // 2))
+    out = np.array(im)
+    out[out[..., 3] == 0] = clear
+    return out
+
+
+def draw_banner(fid, off, text):
+    b = (FILES / f"{fid:05d}.bin").read_bytes()
+    assert struct.unpack_from("<I", b, 0x14)[0] == off, f"{fid}: PTP entry 1 is not at {off:#x}"
+    italic = fid in BANNER_ITALIC
+    return fit_canvas(lambda s, xs: banner_layer(text, italic, s, xs), 30 if italic else 28, 240,
+                      (255, 0, 255, 0) if italic else (255, 255, 255, 0))
+
+
+# --- team banners (26-65: "<team> advances!", one PTG per file, shown in the field's Info bar) -------------------
+
+def team_layer(text, rim, size, xscale):
+    """White slanted serif, a thick rim in the team colour and a soft translucent halo of it."""
+    f = font("LiberationSerif-Bold.ttf", size)
+    body = layer_text(text, f, (249, 249, 249, 255), 2, rim + (255,), xscale, 0.25, lines=True)
+    halo = Image.new("RGBA", (body.width + 4, body.height + 4), (0, 0, 0, 0))
+    mask = Image.new("L", halo.size, 0)
+    mask.paste(body.split()[3], (2, 2))
+    halo.paste(Image.new("RGBA", halo.size, rim + (191,)), mask=mask.filter(ImageFilter.MaxFilter(3)).filter(ImageFilter.GaussianBlur(1)))
+    halo.alpha_composite(body, (2, 2))
+    return halo
+
+
+def draw_team(fid, a, text):
+    vals, counts = np.unique(a[(a[..., 3] == 255) & (a[..., :3].max(2) < 120)][:, :3], axis=0, return_counts=True)
+    rim = tuple(int(v) for v in vals[counts.argmax()])   # the commonest dark colour: the rim
+    return fit_canvas(lambda s, xs: team_layer(text, rim, s, xs), 24, 320, (255, 255, 255, 0))
+
+
+# --- OK? dialog titles (2020 +20 再開 blue, +1580 中断 red) -------------------------------------------------------
+
+def draw_okq(a, text, w=242):
+    """Black serif on the white plate, the [bracketed] word in the plate's own red or blue (中断 / 再開)."""
+    a = a.copy()
+    px = a[:, :w].reshape(-1, 4)
+    sat = px[(px[:, 3] == 255) & (np.ptp(px[:, :3].astype(int), 1) > 60)]
+    vals, counts = np.unique(sat, axis=0, return_counts=True)
+    key = tuple(int(v) for v in vals[counts.argmax()])
+    a[:, :w] = (255, 255, 255, 255)
+    im = Image.fromarray(a)
+    pre, word, post = text.replace("]", "[").split("[")
+    size = 30
+    while True:
+        f = font("LiberationSerif-Bold.ttf", size)
+        parts = [(s, c) for s, c in ((pre, (0, 0, 0, 255)), (word, key), (post, (0, 0, 0, 255))) if s]
+        width = sum(f.getlength(s) for s, _ in parts)
+        if width <= w - 10 or size <= 16:
+            break
+        size -= 1
+    x, d = 6.0, ImageDraw.Draw(im)
+    top = (a.shape[0] - (f.getbbox("Hg")[3] - f.getbbox("Hg")[1])) // 2 - f.getbbox("Hg")[1]
+    for s, c in parts:
+        d.text((x, top), s, font=f, fill=c)
+        x += f.getlength(s)
+    return np.array(im)
+
+
 # --- registry ---------------------------------------------------------------------------------------------------
 
 ASSETS = {}
 
 
-def asset(name, file, kind, off, rect, draw):
-    ASSETS[name] = dict(name=name, file=file, kind=kind, off=off, rect=rect, draw=draw)
+def asset(name, file, kind, off, rect, draw, resize=False):
+    """resize (ptg only): the redraw may have another w x h than the original; write() repacks the sprites to it."""
+    ASSETS[name] = dict(name=name, file=file, kind=kind, off=off, rect=rect, draw=draw, resize=resize)
 
 
 for _n in range(1, 8):
@@ -414,6 +507,13 @@ for _f, _n in ((1850, 2), (1852, 1), (1853, 1), (1854, 2), (1856, 2), (1858, 2),
     _ids = tuple(range(_f, _f + _n))
     asset(f"title{_f}", _ids, "ptx", 0x30, (0, 0, 300, 72), lambda a, t, f=_f: draw_title(a, t[f"title{f}"], False))
     asset(f"title{_f}v", _ids, "ptx", 0x2d90, (0, 0, 32, 180), lambda a, t, f=_f: draw_title(a, t[f"title{f}"], True))
+for _f in range(1945, 1992):
+    _o = 0x8B40 if _f == 1986 else 0x8940 if _f in BANNER_ITALIC else 0x5C40
+    asset(f"banner{_f}", _f, "ptg", _o, (0, 0, 0, 0), lambda a, t, f=_f, o=_o: draw_banner(f, o, t[f"banner{f}"]), resize=True)
+for _f in range(26, 66):
+    asset(f"team{_f}", _f, "ptg", 0, (0, 0, 0, 0), lambda a, t, f=_f: draw_team(f, a, t[f"team{f}"]), resize=True)
+asset("ok_resume", 2020, "ptx", 0x20, (0, 0, 242, 38), lambda a, t: draw_okq(a, t["ok_resume"]))
+asset("ok_suspend", 2020, "ptx", 0x1580, (0, 0, 242, 38), lambda a, t: draw_okq(a, t["ok_suspend"]))
 asset("credits", 1992, "stack", [0x1640 + 0xE060 * i for i in range(9)], (0, 0, CRED_W, 4159), draw_credits)
 
 
@@ -427,12 +527,14 @@ def gen(names=None):
         for i in files(a)[1:]:
             assert np.array_equal(read((FILES / f"{i:05d}.bin").read_bytes(), a), orig), f"{name}: {i} differs"
         new = fit(b, a, a["draw"](orig, t))
-        x, y, w, h = a["rect"]
-        keep = np.ones(orig.shape[:2], bool)
-        keep[y:y + h, x:x + w] = False
-        new[keep] = orig[keep]
+        if new.shape == orig.shape:
+            x, y, w, h = a["rect"]
+            keep = np.ones(orig.shape[:2], bool)
+            keep[y:y + h, x:x + w] = False
+            new[keep] = orig[keep]
         Image.fromarray(new).save(GFX / f"{name}.png")
-        print(name, (new != orig).any(2).sum(), "pixels changed")
+        print(name, f"{new.shape[1]}x{new.shape[0]} (was {orig.shape[1]}x{orig.shape[0]})" if new.shape != orig.shape
+              else f"{(new != orig).any(2).sum()} pixels changed")
 
 
 if __name__ == "__main__":

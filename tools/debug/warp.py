@@ -14,7 +14,8 @@ from gu import psp
 from scenes import KEYS, scenes
 
 ROOT = 'work/qa/warp'
-WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000}   # kinds that may need mashing to the proof; the rest are there
+BANNER_CALL, BANNER_STAGE = 0x11A0BC, 3   # op 0x4A handler's call to the banner loader (a1 = banner number)
+WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000, 'banner': 24000}   # kinds that may need mashing to the proof; the rest are there
 # stage scripts open before the fade in
 SHOT_AFTERS = [40]   # frames from a text's first draw to its shots (log_text shots): past window fade-ins; --shot-after
 STATE_AT = [None, None]   # --state-at TEXT F: (text to wait for, state file)
@@ -87,12 +88,21 @@ def go(name, iso, state_out=None, text_log=False):
     try:
         if kind == 'outcome': g.warp(3)
         elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy', 'skill'): g.warp(arg)
+        elif kind == 'banner': g.warp(BANNER_STAGE)
         if kind == 'boot': g.title(); g.tap('circle', 6, 240)
         elif kind == 'title': g.title(); g.tap('circle', 6, 240)
         elif kind == 'cleared': g.title(); g.cleared(); g.tap('circle', 6, 240)
         elif kind == 'extra': g.title(); g.to_extra()
         elif kind == 'mode': g.title(); g.wr32(gu.MODE, arg); g.tap('circle', 6, 120)
         else: g.new_game()
+        if kind == 'banner':   # op 0x4A shows event banner n (file 1945 + n): swap the stage's first one for ARG
+            def banner(g, r):
+                g.setreg('a1', arg)
+                if not getattr(g, 'banner_shot', False):   # the first one; it slides in by +30 and out after +70
+                    g.banner_shot = True
+                    g.later.append((g.frame() + 50, lambda g: g.shot('proof.png'), ''))
+            g.hook(BANNER_CALL, banner)
+            g.to_ready(); g.tap('circle', 6, 60)
         if kind == 'select': g.to_select()
         elif kind == 'ready': g.to_ready()
         elif kind in ('field', 'outcome', 'fight', 'enemy', 'skill'): g.to_field()
@@ -105,7 +115,7 @@ def go(name, iso, state_out=None, text_log=False):
         press(g, KEYS.get(name, ()))
         ok = g.until(lambda g: reached(g, proof), WAITS[kind]) if kind in WAITS else g.until(lambda g: reached(g, proof), 300, None)
         g.run(SETTLE.get(name, SETTLE.get(kind, 180)))   # past the fade-in, so the shot shows the scene
-        g.shot('proof.png')
+        g.shot('end.png' if kind == 'banner' else 'proof.png')   # banner: the run ends on Tactics Card select (team banner)
         with open(f'{ROOT}/{name}/files.txt', 'w') as f: f.write(' '.join(map(str, g.files)))
         if state_out: g.save_state(state_out)
         return ok and not psp.blank(f'{ROOT}/{name}/proof.png'), f'mode {g.mode()} frame {g.f}'

@@ -6,6 +6,8 @@
 
 - **Split textures** (verified: `tests/test_ptx.py`, stacked render of id 2): palette offset 0 means the piece shares the previous piece's palette; `scan()` resolves it. A palette offset of 0 with no earlier piece means the palette is outside the PTX (PTA): `decode()` falls back to a grey ramp.
 - **PTG@** (verified: `ptx.ptg()`, names in id 3 and cut-ins read correctly): +4 vertex offset, +8 PTX block offset, +C block size (0 = one PTX at the offset, length unrecorded), +10 u16 w, h. The PTX pieces stack vertically into one atlas; the vertices are GE sprite pairs (top-left, bottom-right) of u16 u, v, x, y, z. The image is cut into 8-line bands, trimmed of transparency, and packed, so raw PTX pieces look like thin noise strips. **Editing a PTG means re-packing bands and rewriting the vertex list**, or keeping the vertices and drawing inside the existing runs.
+- **Header +0x14: u16 sprite count per piece** (verified 2026-11-09: in all 1991 PTGs the counts sum to the vertex pairs; at most 2 pieces). The first count[0] sprites read piece 0, the rest piece 1. The earlier "v restarts" rule missed banners whose second piece starts on the same v (ghost rows under 2-piece composites).
+- **Resizing (verified in game 2026-11-09, banner 1945):** the game draws a PTG centred on its header w, h, and takes the texture size from the PTX header, so a PTG can be rebuilt for a bigger English canvas: `ptx.ptg_resize` (one piece, more 8-row strips, exact vertex table, PTP entry offsets moved; the CPK repack takes the new file size). PTX +0x14, +0x15 must be 15 - log2 tw, 15 - log2 th, else the game draws garbage. `gfx.py` assets with `resize=True` use it; the PNG's size is the canvas.
 - **Pieces are not stacked (fixed 2026-11-08, was "junk in the last rows"):** each sprite reads one piece and v counts from that piece's top; v dropping back means the next piece. A scan of all 1991 PTGs in the CPK: 857 restart v, none reads past piece 0's height. `ptx.ptg_parts()` walks the sprites; `gfx.write()` writes a redrawn composite back through them (bands are a continuous row stream: a 480-wide image packs into a 512-wide piece as 480 + 32 + 448 + 64...).
 - **PTA** ids 163-211, 1421-1469 and tiles between the bust sets (guess: bust and sprite animation, since each bust set has one beside it): same 8-line band packing, palette outside the PTX, vertex tables not decoded, so these render as grey noise. Whether they hold text is unknown until the tour.
 
@@ -65,7 +67,7 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | id 3 +4444d0, +4494f0 | Save the record of voyage: はい いいえ; ここまでの航海の記録をセーブしますか?; ソフトリセット dialog | yes | PTX |
 | id 3 +0xF0390, +0xE0000, +0xEC350, +0xEAED0 | button labels (決定 戻る データ ヘルプ キャラ変更 敵のカード 切り替え 選択 カーソル移動 ...), 枚, 残りカード, 耐久 士気 Lv, 出撃可能, 選択可能 | yes | PTX |
 | id 4 +60910, +64ba0 | option text: Battle Setting NORMAL (通常設定) HARD (荒波設定), バトルの難易度を設定してください, option descriptions | yes | PTX |
-| ids 26-65 | 200-px red banners: イシュト海賊団進撃! and 39 more team variants | yes | PTX/PTG |
+| ids 26-65 | team banners `<team>進撃！` (red; blue for 26, 28), one PTG per file, shown in the field Info bar on Tactics Card select. **Done 2026-11-09** (`team<id>`, "<Team> Advance(s)!") | yes | PTG |
 | ids 122-159 | stage clear titles: **all English** (`Repulsed An Enemy`...), several with odd grammar | no | PTG |
 | ids 296-~400 | skill cut-ins, card (256x272) then text (288x230): English motto + big English name + kana + `<title><name>` line (`メイクドール / 傀儡師エクシール`) | yes, 2 lines each | about 50 pairs |
 | ids ~1047-1362 | character busts, 256x272, no text in the sheets viewed | no | |
@@ -80,9 +82,9 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | id 1757 +fc0 | skill name list | yes | PTX |
 | id 1758 +16b0, +3310 | リトライするタイトル画面に戻る, ゲームオーバー | yes | PTX |
 | ids 1850-1905 | stage titles, each horizontal (+30) and vertical (+2d90): ハジマリの青 海と空と君と, 黒い牙, 大海の覇者... up to 55 pairs (count not taken) | yes | PTX |
-| ids 1945-1991 | event banners: big kanji word + English subline (増援 / Help has arrived.) about 47; +5c40 or +8940 is the kanji | yes | PTX |
+| ids 1945-1991 | event banners: big kanji word + English subline (増援 / Help has arrived.), 47; PTP entry 1 (+5c40, or +8940/+8b40 for the 8 italic ones) is the word. Shown by script op 0x4A (`4a 07 00 <n> ...`, handler 0x11A070, loader 0x10FEC4 opens 1945 + n), 1:1 at the screen top, 50 frames after the op. **Done 2026-11-09** (`banner<id>` in gfx/text.tsv, warp scenes `banner00`-`banner46`) | yes | PTG |
 | id 1992 +1640.. | credits, 8 pages; D3 says English | yes | PTX |
-| id 2020 +20, +1580 | ゲーム再開OK?, ゲーム中断OK? | yes | PTX |
+| id 2020 +20, +1580 | ゲーム再開OK? (+20, blue), ゲーム中断OK? (+1580, red); +2ae0, +3740 already English. **Done 2026-11-09** | yes | PTX |
 | id 2021 +50 | character profile labels (kana names + `Garlot is...`, weapon types) | yes | PTX |
 | id 2022 +58a60 | **body**: prologue page | yes | PTX |
 | id 2023 +d0..+11b660 | tutorial plates: 25 titled panels with Japanese callouts | yes | PTX |

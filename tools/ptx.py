@@ -3,7 +3,8 @@
     python -X utf8 tools/ptx.py sheet OUT.png FILE [FILE ...]   # one PNG per sheet, every PTX@ in the files
 
 Header: +4 log2 tw, +5 log2 th, +6 u16 stride px, +8 u16 used w, +A u16 h, +C GE format (4/5), +D swizzled,
-+E clut format (3 = 8888), +10 u32 colours, +18 u32 palette offset, +1C u32 pixel offset.
++E clut format (3 = 8888), +10 u32 colours, +14 15 - log2 tw, +15 15 - log2 th, +18 u32 palette offset,
++1C u32 pixel offset.
 """
 import struct
 import sys
@@ -122,23 +123,93 @@ def ptg_parts(b, o=0):
     """(block start, PTX pieces with offsets relative to the block, sprites) of the PTG@ at o.
 
     Header: +4 vertex offset, +8 PTX block offset, +C its size (0 = one PTX at the offset, length unrecorded),
-    +10 u16 w, h. Vertices are GE sprite pairs (top-left, bottom-right) of u16 u, v, x, y, z. Each sprite reads
-    piece k; v counts from the top of that piece, so v going back down means the next piece (verified: chapter
-    cards 1582-1588, whose last 8 rows come from the 448x8 second piece). A scan of all 1991 PTGs in the CPK: 857
-    restart v, none reads past piece 0's height. Sprite = (k, u0, v0, u1, v1, x0, y0, x1, y1).
+    +10 u16 w, h, +14 u16 sprite count per piece. Vertices are GE sprite pairs (top-left, bottom-right) of u16
+    u, v, x, y, z; the first count[0] sprites read piece 0, the next count[1] piece 1, with u, v from that piece's
+    top-left (verified: chapter cards 1582-1588, last 8 rows from the 448x8 second piece; event banners 1955.., whose
+    second piece starts at u 0 on the same v). Sprite = (k, u0, v0, u1, v1, x0, y0, x1, y1).
     """
     vo, to, size = struct.unpack_from("<III", b, o + 4)
     base = o + to
     block = bytes(b[base:base + size]) if size else bytes(b[base:])
     pieces = scan(block) if size else [parse(block)]
     v = list(struct.iter_unpack("<5H", b[o + vo:o + vo + (to - vo) // 10 * 10]))
-    sprites, k, last = [], 0, 0
-    for (u0, v0, x0, y0, _), (u1, v1, x1, y1, _) in zip(v[::2], v[1::2]):
-        if v0 < last and k + 1 < len(pieces):   # v restarted: the next piece
-            k += 1
-        last = v0
-        sprites.append((k, u0, v0, u1, v1, x0, y0, x1, y1))
+    # +0x14: u16 sprite count per piece (all 1991 PTGs: the counts sum to the vertex pairs, at most 2 pieces)
+    ks = [k for k, c in enumerate(struct.unpack_from("<6H", b, o + 0x14)) for _ in range(c)]
+    sprites = [(ks[i], u0, v0, u1, v1, x0, y0, x1, y1)
+               for i, ((u0, v0, x0, y0, _), (u1, v1, x1, y1, _)) in enumerate(zip(v[::2], v[1::2])) if i < len(ks)]
     return base, pieces, sprites
+
+
+def ptg_resize(b, o, w, h):
+    """Rebuild the PTG@ at o in bytearray b for a w x h image, in place: one PTX piece (piece 0's header and palette,
+    its strip width, as many 8-row strips as the bands need, blank pixels), an exact vertex table, then
+    ptg_relayout. The file grows or shrinks; a PTP container's later entry offsets move with it (16-aligned).
+    The pixels are written afterwards (gfx.write). Used where the old atlas is too small for the English."""
+    vo, to, size = struct.unpack_from("<III", b, o + 4)
+    base, pieces, sprites = ptg_parts(b, o)
+    t = pieces[0]
+    old_end = base + size if size else t["do"] + base + stride(t) * ((t["h"] + 7) & ~7)
+    sw = t["w"]
+    strips, x, n = 1, 0, 0   # count strips and sprites the bands need (same packing as ptg_relayout)
+    for _ in range(0, h, 8):
+        left = w
+        while left:
+            k = min(left, sw - x)
+            left, x, n = left - k, x + k, n + 1
+            if x == sw:
+                strips, x = strips + 1, 0
+    strips -= x == 0
+    rows = strips * 8
+    po, do = t["po"] - t["off"], t["do"] - t["off"]
+    piece = bytearray(b[base + t["off"]:base + t["off"] + do])
+    piece[5] = max(3, (rows - 1).bit_length())   # log2 texture height
+    piece[0x15] = 15 - piece[5]   # +14, +15 = 15 - log2 w, 15 - log2 h in every PTX (the game draws garbage otherwise)
+    struct.pack_into("<H", piece, 0xA, rows)
+    piece += bytes(stride(t) * rows)
+    table = (0x20 + 20 * n + 15) & ~15
+    head = bytearray(b[o:o + 0x20])
+    struct.pack_into("<III", head, 4, 0x20, table, len(piece) if size else 0)
+    new = head + bytes(table - 0x20) + piece
+    new += bytes(-len(new) % 16)
+    old_len = old_end - o
+    old_len += -old_len % 16
+    if b[:4] == b"PTP\0":   # entry offsets from +0x10: the PTG runs to the next entry
+        cnt = struct.unpack_from("<I", b, 4)[0]
+        ents = struct.unpack_from(f"<{cnt}I", b, 0x10)
+        old_len = min([e for e in ents if e > o] + [len(b)]) - o
+        for i, e in enumerate(ents):
+            if e > o:
+                struct.pack_into("<I", b, 0x10 + 4 * i, e + len(new) - old_len)
+    b[o:o + old_len] = new
+    ptg_relayout(b, o, w, h)
+
+
+def ptg_relayout(b, o, w, h):
+    """Rewrite the PTG@ at o in bytearray b as a w x h image: header size, per-piece counts and vertices, with the
+    bands packed in order through the pieces' 8-row strips (a band that runs off a strip continues on the next).
+    The PTX pieces are untouched, so the pixels are written afterwards (gfx.write). Fails if the atlas or the vertex
+    table is too small; unused vertex slots are zeroed (the game reads the counts)."""
+    vo, to, _ = struct.unpack_from("<III", b, o + 4)
+    _, pieces, _ = ptg_parts(b, o)
+    strips = [(k, r * 8, t["w"]) for k, t in enumerate(pieces) for r in range(t["h"] // 8)]
+    sprites, s, u = [], 0, 0
+    for y in range(0, h, 8):
+        x = 0
+        while x < w:
+            assert s < len(strips), f"atlas too small for {w}x{h}"
+            k, v, sw = strips[s]
+            n = min(w - x, sw - u)
+            sprites.append((k, u, v, u + n, v + 8, x, y, x + n, y + 8))
+            x, u = x + n, u + n
+            if u == sw:
+                s, u = s + 1, 0
+    cap = (to - vo) // 20
+    assert len(sprites) <= cap, f"{len(sprites)} sprites, room for {cap}"
+    counts = [sum(1 for sp in sprites if sp[0] == k) for k in range(6)]
+    struct.pack_into("<HH6H", b, o + 0x10, w, h, *counts)
+    table = b"".join(struct.pack("<10H", u0, v0, x0, y0, 0, u1, v1, x1, y1, 0)
+                     for _, u0, v0, u1, v1, x0, y0, x1, y1 in sprites)
+    b[o + vo:o + to] = table + bytes(to - vo - len(table))
 
 
 def ptg(b, o=0):

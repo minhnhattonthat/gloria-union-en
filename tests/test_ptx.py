@@ -48,9 +48,9 @@ def test_second_piece_shares_the_palette():
 
 def test_ptg_stacks_pieces_and_places_quads():
     block = tex(4, 2, bytes(8), [RED, BLUE]) + tex(4, 2, bytes([1]) * 8)
-    # quad 1: piece 0 (1,1)-(3,2) at (2,0); quad 2: v restarts at 0, so piece 1 (0,0)-(2,1) at (2,1)
+    # quad 1: piece 0 (1,1)-(3,2) at (2,0); quad 2: piece 1 (0,0)-(2,1) at (2,1); +0x14 counts: 1 quad per piece
     verts = struct.pack("<20H", 1, 1, 2, 0, 0, 3, 2, 4, 1, 0, 0, 0, 2, 1, 0, 2, 1, 4, 2, 0)
-    b = b"PTG@" + struct.pack("<IIIHH", 0x20, 0x20 + len(verts), len(block), 6, 3) + b"\0" * 12 + verts + block
+    b = b"PTG@" + struct.pack("<IIIHHHH", 0x20, 0x20 + len(verts), len(block), 6, 3, 1, 1) + b"\0" * 8 + verts + block
     out = ptx.ptg(b)
     assert out.shape == (3, 6, 4)
     assert tuple(out[0, 2]) == (255, 0, 0, 255)  # first piece
