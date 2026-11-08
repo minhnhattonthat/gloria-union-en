@@ -17,6 +17,7 @@ ROOT = 'work/qa/warp'
 WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000}   # kinds that may need mashing to the proof; the rest are there
 # stage scripts open before the fade in
 SHOT_AFTERS = [40]   # frames from a text's first draw to its shots (log_text shots): past window fade-ins; --shot-after
+STATE_AT = [None, None]   # --state-at TEXT F: (text to wait for, state file)
 SETTLE = {'stage': 480, 'game_over': 900, 'skill_cutin': 270}   # the defeat line types out; the skill's card and motto are up about 270 frames after it fires
 
 
@@ -71,6 +72,9 @@ def log_text(g, path, shots=False):
         f.write(f'{r["a0"]:x}\t{r["t0"]}\t{s16(r["a1"])}\t{s16(r["a2"])}\t{geo[0]}\t{geo[1]}\t{geo[2]}\t{geo[3]}\t{geo[4]}\t{geo[6]}\t'
                 f'{cols}\t{rows}\t{cw}\t{ch}\t{t}\t{shot_name(g)}\n')
         f.flush()
+        if STATE_AT[0] and STATE_AT[0] in t:   # --state-at: a state one frame after this text first draws
+            p, STATE_AT[0] = STATE_AT[1], None
+            g.later.append((g.frame() + 1, lambda g: g.save_state(p), ''))
     g.hook(0xA222C, hit)
     return f
 
@@ -116,10 +120,12 @@ def main():
     ap.add_argument('--shots', action='store_true', help='with --text-log: a shot of each new text (t000.png...)')
     ap.add_argument('--root', default=ROOT, help=f'output folder (default {ROOT})')
     ap.add_argument('--shot-after', default='40', help='with --shots: frame delays after a text first draws, e.g. 40,150,400')
+    ap.add_argument('--state-at', nargs=2, metavar=('TEXT', 'F'), help='with --text-log: save state F when a drawn text first contains TEXT (e.g. a marker id)')
     ap.add_argument('--all', action='store_true'); ap.add_argument('--jobs', type=int, default=4); ap.add_argument('--match', default='')
     a = ap.parse_args()
     globals()['ROOT'] = a.root
     SHOT_AFTERS[:] = [int(x) for x in a.shot_after.split(',')]
+    if a.state_at: STATE_AT[:] = a.state_at
     flags = ['--root', a.root, '--shot-after', a.shot_after] + ['--text-log'] * a.text_log + ['--shots'] * a.shots
     if not a.all:
         try: ok, info = go(a.scene, a.iso, a.state_out, a.text_log and ('shots' if a.shots else 'log'))

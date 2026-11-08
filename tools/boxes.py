@@ -76,11 +76,44 @@ BUDGETS = {
     # and run to the screen edge; list rows are byte-limited (tbl/fmtbuf.tsv), item descriptions wrap by build
     '2/30/14/25': (195, 3, 'measured: extra3/sheet/a.png scenario/card/music/drama/character panels, x 282 to the '
                            'screen edge'),
+    # session 7: stage_clear from work/states/stage_clear_fit.ppst + step waits; popups from warp.py --state-at
+    '1/11/20/2': (220, 1, 'measured: sc6/z.png War record rows from x ~190 under the label art, its right edge ~410 '
+                          '(= 11 cols x 20); one entry per row'),
+    '1/20/20/2': (235, 1, 'measured: sc6/z.png morale bonus line in the yellow bar, x 28 to the morale icon at ~265'),
+    '1/15/20/2': (185, 2, 'measured: treas3/za.png treasure bubble (card name, code 0x10ec80 at x 284 y 96): text from x '
+                          '285, the bubble grows past the screen edge; scenario desc bar (scensel2/z6.png) x 197, row 2 '
+                          'stops at the difficulty stars ~405'),
+    '1/15/20/3': (185, 3, 'guess: same window as 1/15/20/2 (code 0x10f570, x 284 y 96), item drop in battle_result; '
+                          'never seen on screen'),
+    '1/18/20/1': (180, 1, 'guess: "this scenario?" (e:2bc632) never seen drawn; the same question is a PTX at top left '
+                          '(id 2426/2427, scensel2/z7.png), 180 px before the FAME bar'),
 }
 # entries of a fmtbuf.tsv group (matched in its note) shown in a narrower field than their window class says
 GROUPS = {'item name': (134, 1, 'measured: itemdesc2/z.png EXTRA item page name, x 298 to the dotted strip at ~432')}
 # a line also stops at 3 x the original columns (setSize), whatever its width: see cell_cap()
 DEFAULT = {'story': '1/16/18/4', 'common': '1/16/18/4'}
+# EBOOT entries never seen on a tour: a pointer table (w: slots no more than 0x40 apart, table_classes()) with a seen
+# entry lends its classes to the rest; tables with none seen take a class by what they hold (slot address ranges,
+# first slot inclusive), all 'guess'. Groups and why: docs/re/windows.md.
+SOURCE = [
+    (0x1f1000, 0x247fff, '1/20/20/1', 'battle barks and skill mottos: bark bubble (seen tables of both kinds draw there)'),
+    (0x2bb824, 0x2bb8ec, '1/21/20/3', 'skill cannot be used: battle message panel'),
+    (0x2c5c20, 0x2c6074, '1/30/18/1', 'place names: like the map overview table next to it'),
+    (0x2c8744, 0x2c8780, '1/21/20/3', 'morale messages'), (0x2cb13c, 0x2cb178, '1/21/20/3', 'morale messages'),
+    (0x2caa5c, 0x2caa7c, '1/21/20/3', 'morale messages'),
+    (0x2ca560, 0x2ca650, '2/15/14/2', 'item/card conditions: card data effect lines'),
+    (0x2cb8dc, 0x2cb9c0, '2/10/14/7', 'unit class names: card list name column'),
+    (0x2cc710, 0x2cc8c0, '2/10/14/7', 'unit class names: card list name column'),
+    (0x25e1d4, 0x25e34c, '2/30/14/25', 'EXTRA music titles (28-byte rows, tbl/fmtbuf.tsv)'),
+    (0x2f6ca4, 0x2f6d1c, '2/30/14/25', 'EXTRA quotes'), (0x2f7eec, 0x2f7fec, '2/30/14/25', 'EXTRA card conditions'),
+    (0x2f8e14, 0x2f8e1c, '1/21/20/3', 'EXTRA contents added notice'),
+    (0x2f68a8, 0x2f68f4, '1/30/18/1', 'character catchphrases: character select bottom line'),
+    (0x2f3960, 0x2f3d40, '1/30/20/6', 'stage outcome and recap lines: battle_result black page'),
+    (0x2edd04, 0x2eddac, 'sys', 'PSP system message dialog (savedata/install): firmware font, it wraps itself'),
+    (0x2f9570, 0x2f95e8, 'sys', 'PSP system message dialog (savedata/install)'),
+]
+GUESS = {'sys': (400, 6, 'guess: PSP system dialog wraps its own text; [0A] are its line breaks')}
+I_DEFAULT = ('1/21/20/3', 'single strings built in code (i: slots): messages and menu rows')
 
 
 def cell_cap(k):
@@ -182,13 +215,46 @@ def classes():
     return {r.split('\t')[0]: r.split('\t')[1].split() for r in rows}
 
 
+def table_classes(seen):
+    """{eboot entry id: [class]} for unseen entries in a pointer table (w: slots <= 0x40 apart) with seen entries."""
+    rows = sorted((int(e['slots'][0][2:], 16), e['id']) for es in load('eboot').values() for e in es
+                  if e.get('slots') and e['slots'][0].startswith('w:'))
+    out, run = {}, []
+    for i, r in enumerate(rows + [(1 << 40, None)]):
+        if run and r[0] - run[-1][0] > 0x40:
+            ks = sorted({k for _, j in run for k in seen.get(j, [])})
+            if ks: out.update((j, ks) for _, j in run if j not in seen)
+            run = []
+        run.append(r)
+    return out
+
+
+def source_class(entry):
+    """(class, note) for an EBOOT entry never seen and in no seen table, from SOURCE / I_DEFAULT."""
+    s = (entry.get('slots') or ['?'])[0]
+    if s.startswith('w:'):
+        a = int(s[2:], 16)
+        for lo, hi, k, note in SOURCE:
+            if lo <= a <= hi: return k, note
+    if s.startswith('i:'): return I_DEFAULT
+    return None
+
+
 def budget(entry, _cache={}):
-    """-> (px per line, lines, class, measured?) or None when nothing is known."""
-    if 'c' not in _cache: _cache['c'] = classes()
+    """-> (px per line, lines, class, measured?) or None when nothing is known. measured? is False for an entry never
+    seen on a tour (table or source class) or a class whose budget is a guess."""
+    if 'c' not in _cache:
+        _cache['c'] = classes()
+        _cache['t'] = table_classes(_cache['c'])
     ks = _cache['c'].get(entry['id'])
+    seen = bool(ks) or entry['id'][0] in 'sc'   # story and common text all goes to the dialogue window
     if not ks:
         sub = {'s': 'story', 'c': 'common'}.get(entry['id'][0])
-        ks = [DEFAULT[sub]] if sub else []
+        ks = [DEFAULT[sub]] if sub else _cache['t'].get(entry['id'])
+    if not ks and entry['id'].startswith('e:'):
+        sc = source_class(entry)
+        if sc and sc[0] in GUESS: return (*GUESS[sc[0]][:2], sc[0], False)
+        ks = [sc[0]] if sc else []
     if 'g' not in _cache:
         rows = [r.split('\t') for r in (ROOT / 'tbl/fmtbuf.tsv').read_text('utf8').splitlines()[1:]]
         _cache['g'] = {r[0]: g for r in rows for g in GROUPS if g in r[4]}
@@ -196,7 +262,7 @@ def budget(entry, _cache={}):
     if entry['id'] in _cache['g']: cand.append((GROUPS[_cache['g'][entry['id']]], _cache['g'][entry['id']]))
     best = None
     for (px, lines, how), k in cand:
-        if best is None or px < best[0]: best = (px, lines, k, how.startswith('measured'))
+        if best is None or px < best[0]: best = (px, lines, k, how.startswith('measured') and (seen or k in GROUPS))
     return best
 
 
