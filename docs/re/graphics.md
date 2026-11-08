@@ -107,3 +107,12 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 **Still to prove with the tour** (phase 2 debug tool, phase 8): PTA strips contain no text; id 3 small popups are complete; which `+` offsets are drawn from the font rather than from these images (several lists also exist as strings: compare with `script/` in phase 4 before redrawing any).
 
 **Cost note for phase 5:** ids 1589-1639, 1651, 2022 are full pages of story text with no string behind them. Redraw needs a generated page per paragraph (`gen_gfx.py`, `typeset.py`, the skill's `references/graphics.md`), with the wording from a reader transcribing the image. Cut-in kana lines appear on about 50 textures. PTG band packing means a redraw needs a band packer (`ptx.ptg` is the inverse to write).
+
+## Sister game: Yggdra Union (USA) (verified 2026-11-08, from a Blaze Union project note)
+
+Same Sting engine family: Gloria's EBOOT holds `YggdraUnion.Sys` (0x280058) and `PSP/YGGDRAUNION 2007.1006` / `PSP/BRAZE UNION` (0x25e529, sister-save checks), and both games use PTX@/PTG@/PTP/FCT/PTA. Yggdra (USA, Atlus, official English; ISO SHA-1 `c982fec7fa6309d20e8bc5170db1acf49df72e95`) sits in the Blaze repo at `H:/translation/blaze-union-story-to-reach-the-future-en/rom/`; its art is in `PSP_GAME/USRDIR/Data/data0.afs` (format in `tools/yggmatch.py`), its EBOOT is encrypted (dump it with windowed PPSSPP, `DumpFileTypes = 7`; card names at 0x18ec30).
+
+- `python -X utf8 tools/yggmatch.py <yggdra.iso>`: **44 byte-identical PTX pixel blocks** (e.g. id 3 `Worth of the Card`/`Break Out!`, `Pow.Up` digits, id 4 STING logo, id 2362 `PERFORMANCE` labels, card backs ids 324-360, 2021, id 1703 catapult strips, ids 1955-1986 and 2378-2396 bands). All read on `work/qa/ygg/shared.png`: textless or already English, so nothing to import from exact matches.
+- Still worth doing when phase 8 redraws Japanese art: Blaze's method (render both games, pair same-size sprites, score pixels outside the text boxes) finds art that differs only in its lettering; Blaze found 171 such textures. Not run here. Code to reuse: Blaze's `tools/ygg.py`, `gen_gfx.py` styles `ygg`/`splice`, `leftover.py` (stray 1-3 px slivers outside the cleared ink box).
+- **Names:** Yggdra cameos (ユグドラ Yggdra, パメラ Pamela, and any other Yggdra character, card or item) take Yggdra (USA) spellings (D2). Blaze's `glossary.md` lists the ones it confirmed from Yggdra's EBOOT and card art.
+- A sister game's rules can differ: read before importing a tutorial or help page.

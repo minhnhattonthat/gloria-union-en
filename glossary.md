@@ -14,7 +14,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - <voice notes per character, or point to docs/style-reference.md>
 
 ## Characters
-Spellings below are official: the game's own name plates (ids 1534-1580, crests in id 3). No English release exists (web search 2026-11-08: the 2021 FHD Edition is Japanese only), so D2 stops here.
+Spellings below are official: the game's own name plates (ids 1534-1580, crests in id 3). No English release exists (web search 2026-11-08: the 2021 FHD Edition is Japanese only), so D2 stops here. Exception: Yggdra Union characters, cards, items and places that appear here take Yggdra Union (USA, Atlus) spellings, which outrank a plate (sister game, same engine: `docs/re/graphics.md` §Sister game; confirmed list in the Blaze Union repo's `glossary.md`).
 
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
