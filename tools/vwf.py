@@ -1,13 +1,13 @@
-"""VWF for engine fonts 1-3: ASCII drawn from new glyph sheets in the EBOOT blob, placed at proportional x.
+"""VWF for engine fonts 1-4: ASCII drawn from new glyph sheets in the EBOOT blob, placed at proportional x.
 
     import vwf; vwf.patch(eboot)                      # called from build.py
     python -X utf8 tools/vwf.py preview OUT.png       # the three sheets plus sample lines, as the engine spaces them
 
 How it works (docs/re/text.md, Text renderer and VWF):
-- The writer (0xA222C) maps ASCII in fonts 1-3 to glyph 0x8000 | c instead of the fullwidth lookup; the ligature
+- The writer (0xA222C) maps ASCII in fonts 1-4 to glyph 0x8000 | c instead of the fullwidth lookup; the ligature
   checks (`!?`, `Lv`, ...) are skipped.
 - Its three calls to the glyph setter go through `wrap`: an ASCII glyph gets u, v, size and texture from our sheet
-  (a PTX in the blob, already in its loaded form) and its width; every glyph in fonts 1-3 then gets a pixel x in
+  (a PTX in the blob, already in its loaded form) and its width; every glyph in fonts 1-4 then gets a pixel x in
   cell +0 (previous cell's x + advance; grid x when the previous cell is empty or not VWF) and flags in +1E:
   0x8000 = VWF, bits 8-13 = advance, 0x4000 = placed by `chain`. The writer's flag reset clears bits 8-15 too.
 - The sprite builder uses +0 as x when 0x8000 is set (window x and offset still added), so windows can move.
@@ -31,8 +31,9 @@ STYLE = {
     1: dict(cw=20, ch=20, key=0, edge=1, fill=14, cap=10, top=3, shear=0.0),    # dialogue: font A; ink in rows 2-17
     2: dict(cw=14, ch=16, key=15, edge=0, fill=14, cap=11, top=1, shear=0.0),   # font C, small
     3: dict(cw=24, ch=24, key=0, edge=1, fill=15, cap=14, top=4, shear=0.2),    # name tags: font B, italic
+    4: dict(cw=12, ch=12, key=0, edge=2, fill=1, cap=8, top=2, shear=0.0),      # small battle font: white, black edge
 }
-PAGE = {1: (1, 2), 2: (5, 6), 3: (3, 4)}   # engine font -> (texture, index) sub of id 3 section 1
+PAGE = {1: (1, 2), 2: (5, 6), 3: (3, 4), 4: (0, None)}   # engine font -> (texture, index) sub of id 3 section 1
 COLS = 16                                   # glyphs per sheet row; glyph c at ((c-0x20) % 16, (c-0x20) // 16)
 
 
@@ -132,7 +133,7 @@ def ptx_loaded(e, idx, pal):
 WRAP = """
 wrap:
   addiu $t0, $a1, -1
-  sltiu $t0, $t0, 3
+  sltiu $t0, $t0, 4
   bnez $t0, w_vwf
   nop
   j 0xa20e4
@@ -217,7 +218,7 @@ w_set:
   addiu $sp, $sp, 16
 asc:
   addiu $t0, $a1, -1
-  sltiu $t0, $t0, 3
+  sltiu $t0, $t0, 4
   beqz $t0, asc_jp
   nop
   jr $ra
@@ -290,7 +291,7 @@ def patch(e):
     """Apply the VWF to an eboot.Eboot. Returns the blob vaddrs of the routines, for tests and notes."""
     import eboot
     recs, sheets = [], {}
-    for font in (1, 2, 3):
+    for font in (1, 2, 3, 4):
         pal = palette(font)
         idx, widths = render(font, pal)
         sheets[font] = (idx, widths)
@@ -298,7 +299,7 @@ def patch(e):
         wt = e.add(bytes(x for p in widths for x in p))
         recs.append((tex, wt, STYLE[font]['cw'], STYLE[font]['ch']))
     data = e.add(b''.join(struct.pack('<IIHHI', *r, 0) for r in recs), 16)
-    for i in range(3):
+    for i in range(4):
         e.reloc(data + 16 * i, 'R_MIPS_32')
         e.reloc(data + 16 * i + 4, 'R_MIPS_32')
     # getdata comes first in the code, so its bal return address is known: code + 12
@@ -310,7 +311,7 @@ def patch(e):
     src = getdata + WRAP
     assert e.code(src) == c
     names = _labels(src, c)
-    # writer: skip the ligature checks; ASCII in fonts 1-3 -> 0x8000 | c; setter calls through wrap
+    # writer: skip the ligature checks; ASCII in fonts 1-4 -> 0x8000 | c; setter calls through wrap
     e.put(0xA2648, struct.pack('<I', 0x10000000 | ((0xA26D4 - 0xA264C) >> 2)), expect='0c00c714', by='vwf: no ligatures')
     e.jal(0xA26FC, names['asc'], expect='ee87020c', by='vwf: ascii glyphs')
     for site in (0xA2764, 0xA2828, 0xA2844):
@@ -349,7 +350,7 @@ _widths = {}
 
 
 def advances(font):
-    """[advance px] for 0x20-0x7F in engine font 1-3 (what the engine adds per character)."""
+    """[advance px] for 0x20-0x7F in engine font 1-4 (what the engine adds per character)."""
     if font not in _widths:
         _widths[font] = [a for _, a in render(font, palette(font))[1]]
     return _widths[font]
@@ -357,8 +358,8 @@ def advances(font):
 
 def line_px(s, font=1):
     """Pixel width of one line of ASCII as the engine lays it out (start of the first glyph to the end of the last).
-    Fonts 0 and 4 have no VWF: a fixed cell per character (8 and 12 px, before any window spacing)."""
-    if font in (0, 4): return len(s) * (8 if font == 0 else 12)
+    Font 0 has no VWF: a fixed 8 px cell per character (before any window spacing)."""
+    if font == 0: return len(s) * 8
     adv = advances(font)
     return sum(adv[ord(c) - 0x20] for c in s if 0x20 <= ord(c) < 0x80) + (1 if s else 0)
 
@@ -367,7 +368,7 @@ def preview(path):
     """Each font's sheet and a sample line laid out with its advances, 4x."""
     sample = 'The quick brown fox jumps over the lazy dog. "Hi!" (Lv 99) 1,234G?'
     parts = []
-    for font in (1, 2, 3):
+    for font in (1, 2, 3, 4):
         pal = palette(font)
         idx, widths = render(font, pal)
         s = STYLE[font]

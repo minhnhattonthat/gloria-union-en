@@ -35,8 +35,30 @@ BUDGETS = {
     '1/10/20/5': (190, 1, 'measured: gate2/01 title_option, On/Off starts ~195 px in; the ruler stopped at the 30-cell cap'),
     '1/15/17/6': (200, 6, 'measured: gate2/04 card_data, screen edge at ~202 px'),
     '2/6/14/9': (84, 9, 'measured: gate2/37 terrain list, 84 px ends before the first icon'),
+    # fit sweep 2 shots re-picked by boxes.py shots (work/qa/gate3/NN_<class>.png, sheets gate3/sheet/a-e.png)
+    '1/20/20/22': (350, 22, 'measured: gate3/12 tutorial list, rulers stop at the 60-cell cap (~355 px); screen allows ~440'),
+    '1/30/17/7': (245, 7, 'measured: gate3/14 object list, text from x 233, screen edge at +247'),
+    '1/30/18/1': (460, 1, 'measured: gate3/15 character select bottom line, screen edge at ~465'),
+    '1/30/20/1': (145, 1, 'measured: gate3/19 unit status Notice rows, screen edge at ~150'),
+    '1/30/20/2': (600, 2, 'measured: gate3/20 CAUTION bar scrolls (ticker); 90-cell cap'),
+    '1/30/20/6': (445, 6, 'measured: gate3/21 battle_result black page, text from x 32 to the screen edge'),
+    '1/6/20/1': (125, 1, 'measured: gate3/23 battle_result win count field, x 350 to the screen edge'),
+    '1/8/20/5': (150, 5, 'measured: gate3/24 battle_result unit name, next field at +158'),
+    '2/10/14/7': (135, 7, 'measured: gate3/26 card list name, Pow. starts at +138'),
+    '2/12/14/1': (168, 1, 'measured: gate3/27 VS screen skill tag, 168 px clear'),
+    '2/12/14/5': (145, 5, 'measured: gate3/28 skill notice on the map, screen edge at ~150'),
+    '2/13/14/1': (190, 1, 'measured: gate3/29 tactics card Info bar, screen edge at +197'),
+    '2/15/14/2': (195, 2, 'measured: gate3/30 card data effect lines, screen edge at ~200'),
+    '2/15/376/1': (480, 1, 'measured: gate3/31 card data top ticker (scrolls); 45-cell cap'),
+    '2/22/14/2': (225, 2, 'measured: gate3/33 card select bottom, line 2 starts after its label and meets Total Move at ~227'),
 }
+# a line also stops at 3 x the original columns (setSize), whatever its width: see cell_cap()
 DEFAULT = {'story': '1/16/18/4', 'common': '1/16/18/4'}
+
+
+def cell_cap(k):
+    """Characters a line of class k can hold at most: setSize gives 3 x the original columns."""
+    return 3 * int(k.split('/')[1])
 
 
 def klass(row):
