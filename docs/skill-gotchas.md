@@ -58,3 +58,5 @@ One line per gotcha: the reference file it belongs in, then the fact.
 - tools/gfx.py quantize (and any palette quantizer): map alpha-0 pixels to the palette's clear entry explicitly; by RGBA distance a clear (0,0,0,0) lands on a dark opaque colour and fills the canvas.
 - references/platform-psp.md: id 3 word sheets: the field bar draws each piece at a fixed screen x from its rect top-left (no centring, no layout by width), so a wider English word runs under the next piece; cap widths per slot (gloria-union-en gfx.draw_pack wmax).
 - references/graphics.md: finding which texture holds a visible word: slide a 14x12 opaque screenshot patch over every decoded texture of the files the scene loaded (diff 0 = exact): gloria-union-en tools/find_tex.py; worth a skill script.
+references/platform-psp.md: one PTP file with two resized PTGs: the first resize moves the second entry, so re-find PTG offsets by PTP entry number before each write (gloria tools/gfx.py moved()).
+references/graphics.md: text squeezed with a Lanczos resize leaves faint alpha specks that palette quantize turns into visible dots; zero alpha < ~48 after the resize.
