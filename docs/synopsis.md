@@ -20,3 +20,17 @@ b072-b082) hold tutorial and shared talk.
   can cast Meteor, looks for "Symphonia" and throws a tantrum. They free Zazarland, Elisha's huge, lazy, hard-drinking
   father and captain of the Gloria Pirates, who let himself stay caught. Minesota Gray, a pompous archaeologist lost
   in the ruins, attacks them for letting Ruru eat precious minerals.
+
+## Chapter 2 (2038-2042, translated session 9)
+- **2038:** Velgas, jealous of Ishut all his life, fights him fair and square. Blackmore shoots through Velgas to hit
+  Ishut; Velgas holds Blackmore back, tells Ishut "head for the north treasury" and is cut down (fate left open).
+  The crew escapes by sea; Ishut runs back alone.
+- **2039:** At the north treasury Ishut releases a Crystal: it becomes the card "Tidal Wave". Zazarland reveals the
+  Gloria Pirates' aim: stop the Lukia Empire's "Euforia Project" (rule the world with the ruins' Will), which needs
+  Ishut, his sword (the Key) and Ruru (the compass). Ishut joins the Gloria Pirates; Zazarland makes him his son
+  ("call me Dad"). Dr. Deluxe: optional sex-change doctor (needs a letter of referral).
+- **2040:** Locomoco, chased by a trading guild after her rare magic (Tracey leads them), joins under Elisha's wing.
+- **2041:** Poison-swamp island. Raspberry, rookie devil from the Land of the Dead, hunts the escaped sinner Rogan, a
+  skeleton Pirate King of centuries ago revived by an unknown "benefactor"; he escapes into the swamp; she joins.
+  Pirate King Kidd's gravestone talks. 
+- **2042:** An island sacrifices to the sea god because of a recent "prophecy"; the prophet is under the cliff.

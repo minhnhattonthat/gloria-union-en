@@ -2407,8 +2407,8 @@
  {
   "id": "s2058:0234dt",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x2350",
   "max": 14,
   "who": "team name"
@@ -2416,8 +2416,8 @@
  {
   "id": "s2058:023fat",
   "jp": "商団",
-  "en": "",
-  "status": "todo",
+  "en": "Guild",
+  "status": "done",
   "at": "0x23fd",
   "max": 4,
   "who": "team name"
@@ -2425,8 +2425,8 @@
  {
   "id": "s2058:0588dt",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x5890",
   "max": 14,
   "who": "team name"
@@ -2434,8 +2434,8 @@
  {
   "id": "s2058:058adt",
   "jp": "ローガン屍兵軍団",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan's Corpses",
+  "status": "done",
   "at": "0x58b0",
   "max": 16,
   "who": "team name"

@@ -1630,8 +1630,8 @@
  {
   "id": "s2055:01fc1t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x1fc4",
   "max": 14,
   "who": "team name"
@@ -1657,8 +1657,8 @@
  {
   "id": "s2055:02188t",
   "jp": "シャルム海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Charme Pirates",
+  "status": "done",
   "at": "0x218b",
   "max": 14,
   "who": "team name"

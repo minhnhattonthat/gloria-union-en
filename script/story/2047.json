@@ -79,8 +79,8 @@
  {
   "id": "s2047:00149",
   "jp": "親父……。",
-  "en": "",
-  "status": "todo",
+  "en": "Dad...",
+  "status": "done",
   "slots": [
    "0xa02"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2047:00654t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x657",
   "max": 14,
   "who": "team name"
@@ -572,8 +572,8 @@
  {
   "id": "s2047:0068bt",
   "jp": "黒い牙精鋭部隊",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang Elite",
+  "status": "done",
   "at": "0x68e",
   "max": 14,
   "who": "team name"
@@ -581,8 +581,8 @@
  {
   "id": "s2047:01cf9t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x1cfc",
   "max": 14,
   "who": "team name"
@@ -590,8 +590,8 @@
  {
   "id": "s2047:01d3ft",
   "jp": "黒い牙精鋭部隊",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang Elite",
+  "status": "done",
   "at": "0x1d42",
   "max": 14,
   "who": "team name"

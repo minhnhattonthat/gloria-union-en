@@ -1762,8 +1762,8 @@
  {
   "id": "s2059:01f25",
   "jp": "こ、これは……！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this...!",
+  "status": "done",
   "slots": [
    "0x418d",
    "0x9396"
@@ -2511,8 +2511,8 @@
  {
   "id": "s2059:02a01t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x2a04",
   "max": 14,
   "who": "team name"
@@ -2529,8 +2529,8 @@
  {
   "id": "s2059:081abt",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x81ae",
   "max": 14,
   "who": "team name"
@@ -2538,8 +2538,8 @@
  {
   "id": "s2059:08207t",
   "jp": "シャルム海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Charme Pirates",
+  "status": "done",
   "at": "0x820a",
   "max": 14,
   "who": "team name"
@@ -2547,8 +2547,8 @@
  {
   "id": "s2059:08245t",
   "jp": "ローガン屍兵軍団",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan's Corpses",
+  "status": "done",
   "at": "0x8248",
   "max": 16,
   "who": "team name"

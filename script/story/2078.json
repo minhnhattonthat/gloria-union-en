@@ -354,8 +354,8 @@
  {
   "id": "s2078:004c4",
   "jp": "親父……。",
-  "en": "",
-  "status": "todo",
+  "en": "Dad...",
+  "status": "done",
   "slots": [
    "0x1737"
   ],
@@ -1004,8 +1004,8 @@
  {
   "id": "s2078:00ef5",
   "jp": "親父……。",
-  "en": "",
-  "status": "todo",
+  "en": "Dad...",
+  "status": "done",
   "slots": [
    "0x31ab"
   ],
@@ -1059,8 +1059,8 @@
  {
   "id": "s2078:00fc5t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0xfc8",
   "max": 14,
   "who": "team name"

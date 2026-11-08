@@ -2,8 +2,8 @@
  {
   "id": "s2060:00028",
   "jp": "た、助けて～！",
-  "en": "",
-  "status": "todo",
+  "en": "H-heeelp!",
+  "status": "done",
   "slots": [
    "0x231c"
   ],
@@ -1995,8 +1995,8 @@
  {
   "id": "s2060:02086t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x2089",
   "max": 14,
   "who": "team name"

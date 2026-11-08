@@ -902,8 +902,8 @@
  {
   "id": "s2071:00fdb",
   "jp": "なんですって！？",
-  "en": "",
-  "status": "todo",
+  "en": "He what!?",
+  "status": "done",
   "slots": [
    "0x4f2f"
   ],
@@ -1704,8 +1704,8 @@
  {
   "id": "s2071:01d91t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x1d94",
   "max": 14,
   "who": "team name"

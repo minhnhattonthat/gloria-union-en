@@ -2,8 +2,8 @@
  {
   "id": "s2042:00028",
   "jp": "海の神よ！　怒りを静めたまえ！",
-  "en": "",
-  "status": "todo",
+  "en": "O god of the sea! Calm your wrath!",
+  "status": "done",
   "slots": [
    "0x1dbe"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2042:00056",
   "jp": "どうやら、この島では生贄の習慣が\nまだあるようですね。",
-  "en": "",
-  "status": "todo",
+  "en": "It seems this island still practices human\nsacrifice.",
+  "status": "done",
   "slots": [
    "0x1df1"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2042:00090",
   "jp": "生贄か……嫌な感じだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Sacrifices, huh... I don't like this.",
+  "status": "done",
   "slots": [
    "0x1e15"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2042:000ad",
   "jp": "習慣って、昔からしてたってこと\nだよね。こんなことを、もう何年も\nやってるんだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "A practice means they've done it since long\nago, right? They've been doing this for\nyears...",
+  "status": "done",
   "slots": [
    "0x1e35"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2042:00104",
   "jp": "そんなことしても、\nどうにもならないのにね。",
-  "en": "",
-  "status": "todo",
+  "en": "Even though doing that won't change\nanything.",
+  "status": "done",
   "slots": [
    "0x1e4e"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2042:00134",
   "jp": "黄泉の国にも、あぁやって生贄に\nなって来る人は結構多いっす。\nみんな、悲しい目をしてるっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Lots of people come to the Land of the Dead\nafter being sacrificed like that, sir. They all\nhave such sad eyes.",
+  "status": "done",
   "slots": [
    "0x1e81"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2042:00195",
   "jp": "……なぁ、俺達で止めようぜ。\nそれで、無駄だってわからせて\nやろう。",
-  "en": "",
-  "status": "todo",
+  "en": "...Hey, let's stop it ourselves. And make 'em\nsee it's pointless.",
+  "status": "done",
   "slots": [
    "0x1ea1"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2042:001dc",
   "jp": "おいおい、俺達の目的はなんだ？\nもたもたしてっとブラックモアの\n野郎にまた奪われちまうぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey, what's our goal here? Dawdle and\nthat Blackmore bastard'll beat us to it\nagain.",
+  "status": "done",
   "slots": [
    "0x1ec1"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2042:00239",
   "jp": "うぐ……ご、ごめん。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh... s-sorry.",
+  "status": "done",
   "slots": [
    "0x1ede"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2042:00252",
   "jp": "親っさん……。",
-  "en": "",
-  "status": "todo",
+  "en": "Pops...",
+  "status": "done",
   "slots": [
    "0x1ef4"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2042:00265",
   "jp": "親父ぃ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Daaad...",
+  "status": "done",
   "slots": [
    "0x1f11"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2042:00276",
   "jp": "……ルルゥ、いいのか？",
-  "en": "",
-  "status": "todo",
+  "en": "...Ruru, you okay with this?",
+  "status": "done",
   "slots": [
    "0x1f2e"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2042:00291",
   "jp": "うん……だって、見ちゃったから。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah... I mean, we saw it.",
+  "status": "done",
   "slots": [
    "0x1f47"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2042:002b6",
   "jp": "お人好しどもめ……。\nさっさと終わらせろよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Bunch of softies... Wrap it up quick.",
+  "status": "done",
   "slots": [
    "0x1f60"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2042:002e6",
   "jp": "あぁ、もちろんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, you bet!",
+  "status": "done",
   "slots": [
    "0x1f87"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2042:002fd",
   "jp": "イシュト、とりあえず村に行って\n情報を聞きましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, let's go to the village first and ask\naround.",
+  "status": "done",
   "slots": [
    "0x1fa0"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2042:00335",
   "jp": "どうしてそんな面倒くさいマネ\nしなきゃならないんだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Why do we gotta go through all that\nhassle?",
+  "status": "done",
   "slots": [
    "0x1fb6"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2042:0036f",
   "jp": "情報は大事ですよ。\n聞いておいて損はないと思います。",
-  "en": "",
-  "status": "todo",
+  "en": "Information is important. It can't hurt to\nask.",
+  "status": "done",
   "slots": [
    "0x1fcc"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2042:003a7",
   "jp": "やっぱり、俺は我慢できねぇよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I can't stand it after all!",
+  "status": "done",
   "slots": [
    "0x2d75"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2042:003ca",
   "jp": "な、なんじゃ貴様らは！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what are you people!?",
+  "status": "done",
   "slots": [
    "0x2d8b"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2042:003e5",
   "jp": "あんたのやってることはただの\n人殺しだ、即刻止めろ！",
-  "en": "",
-  "status": "todo",
+  "en": "What you're doin' is plain murder! Stop it\nright now!",
+  "status": "done",
   "slots": [
    "0x2da9"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2042:0041d",
   "jp": "儀式を邪魔するとは何たること！\n村人達よ！　奴等をここから\n追い出せ！",
-  "en": "",
-  "status": "todo",
+  "en": "How dare you interrupt the ritual! Villagers!\nDrive them out of here!",
+  "status": "done",
   "slots": [
    "0x2dbf"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2042:00466",
   "jp": "イシュト、殺しちゃダメだからね！",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, you can't kill anyone, okay!?",
+  "status": "done",
   "slots": [
    "0x2ddd"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2042:0048b",
   "jp": "手加減は苦手だが、まかせろ！",
-  "en": "",
-  "status": "todo",
+  "en": "Holdin' back ain't my strong suit, but leave it\nto me!",
+  "status": "done",
   "slots": [
    "0x2dfb"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2042:004ac",
   "jp": "ふぅ、まさか全員でかかってくる\nとは。\n……大丈夫か？　娘さん。",
-  "en": "",
-  "status": "todo",
+  "en": "Whew, didn't think they'd all come at us.\n...You alright, miss?",
+  "status": "done",
   "slots": [
    "0x3834"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2042:004ef",
   "jp": "あ、イシュトさん、\n無闇に話かけたら！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, Ishut-san, don't just talk to her like\nthat!",
+  "status": "done",
   "slots": [
    "0x3865"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2042:00519",
   "jp": "お爺ちゃん……お爺ちゃん！！\nあなた達！　お爺ちゃんに\nなんてことするの！",
-  "en": "",
-  "status": "todo",
+  "en": "Grandpa... Grandpa!! You people! What did\nyou do to my grandpa!?",
+  "status": "done",
   "slots": [
    "0x3882"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2042:0056f",
   "jp": "あー、地雷踏んだっぽいな。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, looks like we stepped on a landmine.",
+  "status": "done",
   "slots": [
    "0x38b9"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2042:0058e",
   "jp": "まぁ急に横から現れて親族を\nボコボコにしたんすから、\n当然っすよね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, we popped up out of nowhere and beat\nher relatives to a pulp, so of course, sir.",
+  "status": "done",
   "slots": [
    "0x38ea"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2042:005d5",
   "jp": "えぇ！？　どどどどうするの？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaa!? Wh-wh-wh-what do we do?",
+  "status": "done",
   "slots": [
    "0x390f"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2042:005f6",
   "jp": "逃げましょうか。",
-  "en": "",
-  "status": "todo",
+  "en": "Shall we run?",
+  "status": "done",
   "slots": [
    "0x3957"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2042:0060b",
   "jp": "そうね。面倒なことになりそうだし",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah. This looks like it's gonna get messy.",
+  "status": "done",
   "slots": [
    "0x3975"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2042:00630",
   "jp": "ロコモコ、なんか最近逃げて\nばっかりな気がする……。",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco feels like all we do lately is run\naway...",
+  "status": "done",
   "slots": [
    "0x39a6"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2042:00668",
   "jp": "我慢が足りないということだ。\n反省しろ、イシュト。",
-  "en": "",
-  "status": "todo",
+  "en": "That's what you get for no patience. Reflect\non that, Ishut.",
+  "status": "done",
   "slots": [
    "0x39d2"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2042:0069e",
   "jp": "悪い噂が広がらなければ\nいいんだけどな。",
-  "en": "",
-  "status": "todo",
+  "en": "I hope no bad rumors spread about us.",
+  "status": "done",
   "slots": [
    "0x39f0"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2042:006ca",
   "jp": "うぅ……まだまだ修行が足りないぜ",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh... I still got a lot of trainin' to do.",
+  "status": "done",
   "slots": [
    "0x3a06"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2042:006ef",
   "jp": "やっほーい。聞いてきたわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yoo-hoo. I asked around.",
+  "status": "done",
   "slots": [
    "0x3b18"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2042:00710",
   "jp": "さんきゅ。で、どうだった？",
-  "en": "",
-  "status": "todo",
+  "en": "Thanks. So, how'd it go?",
+  "status": "done",
   "slots": [
    "0x3b2e"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2042:0072f",
   "jp": "生贄が行われたのは意外にも\n最近からで、ある人物の\nお告げがあったからだそうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Surprisingly, the sacrifices only started\nrecently, because of a prophecy from a\ncertain person.",
+  "status": "done",
   "slots": [
    "0x3b49"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2042:00782",
   "jp": "お告げ？　\n津波が来るから生贄を出せー、\nって？",
-  "en": "",
-  "status": "todo",
+  "en": "A prophecy? Like, \"A tidal wave is coming,\nso offer a sacrifice!\"?",
+  "status": "done",
   "slots": [
    "0x3b64"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2042:007b9",
   "jp": "……怪しいですね。",
-  "en": "",
-  "status": "todo",
+  "en": "...Sounds fishy.",
+  "status": "done",
   "slots": [
    "0x3b7f"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2042:007d0",
   "jp": "そのお告げをした人ってのは、\n今どこにいるのかわかるか？",
-  "en": "",
-  "status": "todo",
+  "en": "Do you know where the person who made\nthat prophecy is now?",
+  "status": "done",
   "slots": [
    "0x3b9a"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2042:0080c",
   "jp": "それが……今儀式が行われている\n崖の下で見た人がいるみたいなの。",
-  "en": "",
-  "status": "todo",
+  "en": "Well... apparently someone saw them at the\nfoot of the cliff where the ritual's being\nheld right now.",
+  "status": "done",
   "slots": [
    "0x3bed"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2042:00850",
   "jp": "なるほど。そういうことか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. So that's how it is.",
+  "status": "done",
   "slots": [
    "0x3c0b"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2042:0086f",
   "jp": "え？　どういうことなんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? How what is?",
+  "status": "done",
   "slots": [
    "0x3c24"
   ],
@@ -1646,8 +1646,8 @@
  {
   "id": "s2042:01b11t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x1b14",
   "max": 14,
   "who": "team name"
@@ -1664,8 +1664,8 @@
  {
   "id": "s2042:04822t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x4825",
   "max": 14,
   "who": "team name"

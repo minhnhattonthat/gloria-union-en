@@ -1255,8 +1255,8 @@
  {
   "id": "s2037:04f5c",
   "jp": "あの鉱物は古代ユーフォリア兵器に\n使われていたとされるもの……。\nそれを食べるとは、ゆ、許せーん！",
-  "en": "",
-  "status": "todo",
+  "en": "That mineral is said to have been used in the\nweapons of ancient Euforia... And you EAT\nit!? Un-for-giv-able!",
+  "status": "done",
   "slots": [
    "0x6250"
   ],
@@ -1266,8 +1266,8 @@
  {
   "id": "s2037:04fc1",
   "jp": "もぉ～！　\nあたしこのオッサン嫌いだよぉ～！",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh! I hate this old geezer!",
+  "status": "done",
   "slots": [
    "0x632c"
   ],
@@ -1277,8 +1277,8 @@
  {
   "id": "s2037:04ff1",
   "jp": "自分はまだ２６だヴァカモーン！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm only twenty-six, you fooool!",
+  "status": "done",
   "slots": [
    "0x6345"
   ],
@@ -1288,8 +1288,8 @@
  {
   "id": "s2037:05014",
   "jp": "貴様は彼等の保護者か！？\n監督不行き届きで貴様も成敗だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Are you their guardian!? For failing to\nsupervise them, I shall punish you too!",
+  "status": "done",
   "slots": [
    "0x6437"
   ],
@@ -1299,8 +1299,8 @@
  {
   "id": "s2037:05050",
   "jp": "おいおい、本気かよ。\n連戦は疲れるのによー。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey, you serious? Back-to-back fights\nwear a guy out.",
+  "status": "done",
   "slots": [
    "0x6451"
   ],
@@ -1310,8 +1310,8 @@
  {
   "id": "s2037:05080",
   "jp": "むぅ！　その攻撃、マナーの悪い者\nには出来ない動きだ！\nもしやお前達は……！",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm! Those attacks... no one with bad\nmanners could move like that! Could it be\nthat you are...!",
+  "status": "done",
   "slots": [
    "0x665c"
   ],
@@ -1321,8 +1321,8 @@
  {
   "id": "s2037:050cf",
   "jp": "最初ッからそう言ってるじゃねぇか\n……ったく。",
-  "en": "",
-  "status": "todo",
+  "en": "That's what I've been sayin' from the start!\n...Geez.",
+  "status": "done",
   "slots": [
    "0x6671"
   ],
@@ -1332,8 +1332,8 @@
  {
   "id": "s2037:05101",
   "jp": "先ほどは、真に申し訳なかった！\n自分は怒ると周りが見えなくなる\n人間でな！　ハッハッハ。",
-  "en": "",
-  "status": "todo",
+  "en": "My deepest apologies for earlier! When I get\nangry, I lose sight of everything around me!\nHa ha ha!",
+  "status": "done",
   "slots": [
    "0x6ce0"
   ],
@@ -1343,8 +1343,8 @@
  {
   "id": "s2037:0515c",
   "jp": "まぁ、遺跡を食べる女の子も\nなかなかにぶっ飛んでますけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, a girl who eats ruins is pretty out\nthere too.",
+  "status": "done",
   "slots": [
    "0x6cf6"
   ],
@@ -1354,8 +1354,8 @@
  {
   "id": "s2037:0519c",
   "jp": "それを簡単に受け入れた\nあたし達もね。",
-  "en": "",
-  "status": "todo",
+  "en": "So are we, for taking it in stride.",
+  "status": "done",
   "slots": [
    "0x6d0c"
   ],
@@ -1365,8 +1365,8 @@
  {
   "id": "s2037:051c6",
   "jp": "ところであんた。\n考古学者ってのは本当か？",
-  "en": "",
-  "status": "todo",
+  "en": "By the way, you. You really an\narchaeologist?",
+  "status": "done",
   "slots": [
    "0x6d29"
   ],
@@ -1376,8 +1376,8 @@
  {
   "id": "s2037:051f4",
   "jp": "もちろん！\n教授職にも就いているぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Of course! I even hold a professorship.",
+  "status": "done",
   "slots": [
    "0x6d3f"
   ],
@@ -1387,8 +1387,8 @@
  {
   "id": "s2037:0521c",
   "jp": "実は、すごい人だったんだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh, so you're actually somebody amazing.",
+  "status": "done",
   "slots": [
    "0x6d5c"
   ],
@@ -1398,8 +1398,8 @@
  {
   "id": "s2037:0523d",
   "jp": "とすると、地理にも詳しいか？",
-  "en": "",
-  "status": "todo",
+  "en": "Then you know your way around here?",
+  "status": "done",
   "slots": [
    "0x6d72"
   ],
@@ -1409,8 +1409,8 @@
  {
   "id": "s2037:0525e",
   "jp": "研究所から出てここまでの道のりは\n完璧に覚えている。",
-  "en": "",
-  "status": "todo",
+  "en": "I remember the route from my laboratory to\nthis spot perfectly.",
+  "status": "done",
   "slots": [
    "0x6d88"
   ],
@@ -1420,8 +1420,8 @@
  {
   "id": "s2037:05296",
   "jp": "なら、出口もわかるな？",
-  "en": "",
-  "status": "todo",
+  "en": "So you know where the exit is?",
+  "status": "done",
   "slots": [
    "0x6dac"
   ],
@@ -1431,8 +1431,8 @@
  {
   "id": "s2037:052b1",
   "jp": "無論だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Naturally.",
+  "status": "done",
   "slots": [
    "0x6dc2"
   ],
@@ -1442,8 +1442,8 @@
  {
   "id": "s2037:052be",
   "jp": "おおぉ！　凄いなあんた！\nよし、そうと決まれば、脱出だ！\n……あれ？　なんか忘れてるような",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! You're amazing! Alright, that settles\nit: we're breakin' out! ...Huh? Feels like I'm\nforgettin' something.",
+  "status": "done",
   "slots": [
    "0x6ddb"
   ],
@@ -1471,8 +1471,8 @@
  {
   "id": "s2037:03087t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x308a",
   "max": 14,
   "who": "team name"
@@ -1480,8 +1480,8 @@
  {
   "id": "s2037:030f0t",
   "jp": "シャルム海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Charme Pirates",
+  "status": "done",
   "at": "0x30f3",
   "max": 14,
   "who": "team name"
@@ -1489,8 +1489,8 @@
  {
   "id": "s2037:05336t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x5339",
   "max": 14,
   "who": "team name"
@@ -1498,8 +1498,8 @@
  {
   "id": "s2037:0539ft",
   "jp": "ミネソタ探検隊",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota Party",
+  "status": "done",
   "at": "0x53a2",
   "max": 14,
   "who": "team name"

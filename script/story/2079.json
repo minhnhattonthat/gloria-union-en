@@ -2,8 +2,8 @@
  {
   "id": "s2079:00028",
   "jp": "イシュト……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut...",
+  "status": "done",
   "slots": [
    "0x18cc"
   ],
@@ -1309,8 +1309,8 @@
  {
   "id": "s2079:01698t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x169b",
   "max": 14,
   "who": "team name"

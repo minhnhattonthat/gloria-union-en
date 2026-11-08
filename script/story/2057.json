@@ -615,8 +615,8 @@
  {
   "id": "s2057:00c8f",
   "jp": "逃がすな！　追え！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't let 'em get away! After 'em!",
+  "status": "done",
   "slots": [
    "0x7013"
   ],
@@ -2210,8 +2210,8 @@
  {
   "id": "s2057:01e66t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x1e69",
   "max": 14,
   "who": "team name"
@@ -2228,8 +2228,8 @@
  {
   "id": "s2057:07ce4t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x7ce7",
   "max": 14,
   "who": "team name"

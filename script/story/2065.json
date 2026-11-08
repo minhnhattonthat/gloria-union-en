@@ -746,8 +746,8 @@
  {
   "id": "s2065:00e7e",
   "jp": "こ、これは！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this!",
+  "status": "done",
   "slots": [
    "0x5716"
   ],
@@ -2194,8 +2194,8 @@
  {
   "id": "s2065:0115ct",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x115f",
   "max": 14,
   "who": "team name"
@@ -2203,8 +2203,8 @@
  {
   "id": "s2065:011d9t",
   "jp": "商団",
-  "en": "",
-  "status": "todo",
+  "en": "Guild",
+  "status": "done",
   "at": "0x11dc",
   "max": 4,
   "who": "team name"
@@ -2212,8 +2212,8 @@
  {
   "id": "s2065:0123dt",
   "jp": "商団",
-  "en": "",
-  "status": "todo",
+  "en": "Guild",
+  "status": "done",
   "at": "0x1240",
   "max": 4,
   "who": "team name"
@@ -2221,8 +2221,8 @@
  {
   "id": "s2065:04240t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x4243",
   "max": 14,
   "who": "team name"
@@ -2239,8 +2239,8 @@
  {
   "id": "s2065:04393t",
   "jp": "商団",
-  "en": "",
-  "status": "todo",
+  "en": "Guild",
+  "status": "done",
   "at": "0x4396",
   "max": 4,
   "who": "team name"

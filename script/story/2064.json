@@ -1026,8 +1026,8 @@
  {
   "id": "s2064:01349",
   "jp": "ベルガス……。",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas...",
+  "status": "done",
   "slots": [
    "0x6501"
   ],
@@ -1103,8 +1103,8 @@
  {
   "id": "s2064:014a5",
   "jp": "親父……。",
-  "en": "",
-  "status": "todo",
+  "en": "Dad...",
+  "status": "done",
   "slots": [
    "0x65d2"
   ],
@@ -1301,8 +1301,8 @@
  {
   "id": "s2064:01853",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "",
-  "status": "todo",
+  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "status": "done",
   "slots": [
    "0x4159",
    "0x919e"
@@ -1356,8 +1356,8 @@
  {
   "id": "s2064:0196a",
   "jp": "なぁんか、落ち着かねぇなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Man, I just can't settle down like this.",
+  "status": "done",
   "slots": [
    "0x4204",
    "0x9249"
@@ -1368,8 +1368,8 @@
  {
   "id": "s2064:0198b",
   "jp": "心なしか、逞しくなった気が\nしますね。",
-  "en": "",
-  "status": "todo",
+  "en": "I feel like I've gotten a bit more rugged,\nsomehow.",
+  "status": "done",
   "slots": [
    "0x4248",
    "0x928d"
@@ -1380,8 +1380,8 @@
  {
   "id": "s2064:019b5",
   "jp": "う～ん。なんか変な感じ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmmm. This feels kinda weird...",
+  "status": "done",
   "slots": [
    "0x428c",
    "0x92d1"
@@ -1392,8 +1392,8 @@
  {
   "id": "s2064:019d6",
   "jp": "悪か……ねぇか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not bad... is it?",
+  "status": "done",
   "slots": [
    "0x4314",
    "0x9359"
@@ -1404,8 +1404,8 @@
  {
   "id": "s2064:019eb",
   "jp": "変わってない？\nいい度胸ね。\nちょっと面貸しなさいよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I haven't changed? You've got some nerve.\nStep outside for a minute.",
+  "status": "done",
   "slots": [
    "0x42d0",
    "0x9315"
@@ -1416,8 +1416,8 @@
  {
   "id": "s2064:01a24",
   "jp": "こんな知識は……いらない。",
-  "en": "",
-  "status": "todo",
+  "en": "This is knowledge... I did not need.",
+  "status": "done",
   "slots": [
    "0x4358",
    "0x939d"
@@ -1428,8 +1428,8 @@
  {
   "id": "s2064:01a43",
   "jp": "わーい！　おとこおとこー！",
-  "en": "",
-  "status": "todo",
+  "en": "Yaaay! A boy, a boooy!",
+  "status": "done",
   "slots": [
    "0x43aa",
    "0x93ef"
@@ -1440,8 +1440,8 @@
  {
   "id": "s2064:01a62",
   "jp": "男らしくなったっすか？",
-  "en": "",
-  "status": "todo",
+  "en": "Am I more manly now?",
+  "status": "done",
   "slots": [
    "0x43fc",
    "0x9441"
@@ -1452,8 +1452,8 @@
  {
   "id": "s2064:01a7d",
   "jp": "ガガ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Gaga...",
+  "status": "done",
   "slots": [
    "0x444e",
    "0x9493"
@@ -1464,8 +1464,8 @@
  {
   "id": "s2064:01a8c",
   "jp": "これは……ある意味、歴史的瞬間\nなのかもしれない……。",
-  "en": "",
-  "status": "todo",
+  "en": "This may be... in a sense, a historic\nmoment...",
+  "status": "done",
   "slots": [
    "0x44a0",
    "0x94e5"
@@ -1488,8 +1488,8 @@
  {
   "id": "s2064:01af8",
   "jp": "涙が、涙が止まらないいいいぃぃ！",
-  "en": "",
-  "status": "todo",
+  "en": "The tears, the tears won't stoooooop!",
+  "status": "done",
   "slots": [
    "0x4544",
    "0x9589"
@@ -1500,8 +1500,8 @@
  {
   "id": "s2064:01b1d",
   "jp": "こんなの、初めてです……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is a first for me...",
+  "status": "done",
   "slots": [
    "0x4596",
    "0x95db"
@@ -1512,8 +1512,8 @@
  {
   "id": "s2064:01b3c",
   "jp": "新、天、地だわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "A whole, new, world, dontcha know!",
+  "status": "done",
   "slots": [
    "0x45e8",
    "0x962d"
@@ -1524,8 +1524,8 @@
  {
   "id": "s2064:01b53",
   "jp": "うふふ、私には無意味ですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ufufu, it means nothing to me.",
+  "status": "done",
   "slots": [
    "0x4644",
    "0x9689"
@@ -1536,8 +1536,8 @@
  {
   "id": "s2064:01b74",
   "jp": "意味ねぇことしてねぇで、\nさっさと戦闘に戻れぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Quit messin' around with pointless stuff and\nget back to the fight.",
+  "status": "done",
   "slots": [
    "0x4682",
    "0x96c7"
@@ -1562,8 +1562,8 @@
  {
   "id": "s2064:01be4",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "",
-  "status": "todo",
+  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "status": "done",
   "slots": [
    "0x46a3",
    "0x96e8"
@@ -2899,8 +2899,8 @@
  {
   "id": "s2064:07466",
   "jp": "ベルガス……。",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas...",
+  "status": "done",
   "slots": [
    "0xb007"
   ],
@@ -3009,8 +3009,8 @@
  {
   "id": "s2064:07612",
   "jp": "イシュト……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut...",
+  "status": "done",
   "slots": [
    "0xb212"
   ],
@@ -3086,8 +3086,8 @@
  {
   "id": "s2064:02a68t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x2a6b",
   "max": 14,
   "who": "team name"
@@ -3104,8 +3104,8 @@
  {
   "id": "s2064:07721t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x7724",
   "max": 14,
   "who": "team name"

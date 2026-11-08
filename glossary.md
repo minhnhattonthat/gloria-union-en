@@ -22,7 +22,10 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   - Elisha: sharp-tongued, bossy, "Dad" for 親父; Zazarland: big, lazy, jovial drinker, "ya".
   - Anne Cormack: sultry, teasing (ウフフ -> "Hehehe", "dear", "naughty"). Blackmore: drawling, cynical, money.
   - Locomoco: small child Witch, third person ("Locomoco's nice!"), tantrums. Minesota: pompous scholar,
-    formal ("I shall punish you!").
+    formal ("I shall punish you!"), obsessed with "manners" ("A breach of manners!"); calls Ishut's lot "you".
+  - Raspberry: rookie devil cop of the Land of the Dead, っす speech -> eager, tacks on "sir" ("I found you, sir!").
+  - Rogan: skeleton ex-Pirate King, pompous archaic ("Silence, girl!", "I am the PHOENIX!").
+  - Pinger calls Zazarland 親っさん "Pops"; the crew call Elisha 姐さん "Sis".
 - Groups suffixes on unit names: 〜団 (a crew/gang) -> "<Name> Crew"; 〜隊 (a squad) -> "<Name> Unit".
 - Katakana doubles of kanji unit names (コウコク兵 = 皇国兵) are the same word: translate them the same or as a
   plural.
@@ -100,6 +103,15 @@ Item names fit 134 px of font 2 (~17 letters, EXTRA item page): the item batches
 | 海ドゼウ | Sea Loach | | | |
 | プロテイモ | Protato | | protein + potato pun | |
 | 賢者の石 | Sage's Stone | | | |
+| 海賊王 | Pirate King | | Zazarland, Rogan, Kidd (キッド) | |
+| 黄泉の国 / 黄泉 | Land of the Dead | | Raspberry's world; 悪魔局死人管理部罪人課 = Devil Bureau, Department of Dead Management, Sinners Section | Underworld |
+| ユーフォリア計画 | Euforia Project | | the Empire's plan | |
+| ユーフォリアの鍵 / 羅針盤 | Key of Euforia / compass | | Ishut's sword / Ruru | |
+| タイダルウェイブ | Tidal Wave | | first Crystal card | |
+| 紹介状 | letter of referral | | Dr. Deluxe's sex change | |
+| 天上への担い手 | Bearer to the Heavens | | the manta (EBOOT 2c5bf2) | |
+| 海の平和を守る会 | Society to Protect the Peace of the Seas | | NPC group | |
+| 商団 (unit) | Guild | | trading guild | |
 
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)

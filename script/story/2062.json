@@ -1829,8 +1829,8 @@
  {
   "id": "s2062:01fc5",
   "jp": "こ、これは……！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this...!",
+  "status": "done",
   "slots": [
    "0x4f9c"
   ],
@@ -1979,8 +1979,8 @@
  {
   "id": "s2062:02231",
   "jp": "こ、これは……！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this...!",
+  "status": "done",
   "slots": [
    "0x53c4"
   ],
@@ -2779,8 +2779,8 @@
  {
   "id": "s2062:03026t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x3029",
   "max": 14,
   "who": "team name"

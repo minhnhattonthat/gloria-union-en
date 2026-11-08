@@ -1179,8 +1179,8 @@
  {
   "id": "s2046:03ae6",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "",
-  "status": "todo",
+  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "status": "done",
   "slots": [
    "0x5f2e"
   ],
@@ -1229,8 +1229,8 @@
  {
   "id": "s2046:03bd4",
   "jp": "なぁんか、落ち着かねぇなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Man, I just can't settle down like this.",
+  "status": "done",
   "slots": [
    "0x5fd9"
   ],
@@ -1240,8 +1240,8 @@
  {
   "id": "s2046:03bf5",
   "jp": "心なしか、逞しくなった気が\nしますね。",
-  "en": "",
-  "status": "todo",
+  "en": "I feel like I've gotten a bit more rugged,\nsomehow.",
+  "status": "done",
   "slots": [
    "0x601d"
   ],
@@ -1251,8 +1251,8 @@
  {
   "id": "s2046:03c1f",
   "jp": "う～ん。なんか変な感じ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmmm. This feels kinda weird...",
+  "status": "done",
   "slots": [
    "0x6061"
   ],
@@ -1262,8 +1262,8 @@
  {
   "id": "s2046:03c40",
   "jp": "悪か……ねぇか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not bad... is it?",
+  "status": "done",
   "slots": [
    "0x60e9"
   ],
@@ -1273,8 +1273,8 @@
  {
   "id": "s2046:03c55",
   "jp": "変わってない？\nいい度胸ね。\nちょっと面貸しなさいよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I haven't changed? You've got some nerve.\nStep outside for a minute.",
+  "status": "done",
   "slots": [
    "0x60a5"
   ],
@@ -1284,8 +1284,8 @@
  {
   "id": "s2046:03c8e",
   "jp": "こんな知識は……いらない。",
-  "en": "",
-  "status": "todo",
+  "en": "This is knowledge... I did not need.",
+  "status": "done",
   "slots": [
    "0x612d"
   ],
@@ -1295,8 +1295,8 @@
  {
   "id": "s2046:03cad",
   "jp": "わーい！　おとこおとこー！",
-  "en": "",
-  "status": "todo",
+  "en": "Yaaay! A boy, a boooy!",
+  "status": "done",
   "slots": [
    "0x617f"
   ],
@@ -1306,8 +1306,8 @@
  {
   "id": "s2046:03ccc",
   "jp": "男らしくなったっすか？",
-  "en": "",
-  "status": "todo",
+  "en": "Am I more manly now?",
+  "status": "done",
   "slots": [
    "0x61d1"
   ],
@@ -1317,8 +1317,8 @@
  {
   "id": "s2046:03ce7",
   "jp": "ガガ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Gaga...",
+  "status": "done",
   "slots": [
    "0x6223"
   ],
@@ -1328,8 +1328,8 @@
  {
   "id": "s2046:03cf6",
   "jp": "これは……ある意味、歴史的瞬間\nなのかもしれない……。",
-  "en": "",
-  "status": "todo",
+  "en": "This may be... in a sense, a historic\nmoment...",
+  "status": "done",
   "slots": [
    "0x6275"
   ],
@@ -1350,8 +1350,8 @@
  {
   "id": "s2046:03d62",
   "jp": "涙が、涙が止まらないいいいぃぃ！",
-  "en": "",
-  "status": "todo",
+  "en": "The tears, the tears won't stoooooop!",
+  "status": "done",
   "slots": [
    "0x6319"
   ],
@@ -1361,8 +1361,8 @@
  {
   "id": "s2046:03d87",
   "jp": "こんなの、初めてです……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is a first for me...",
+  "status": "done",
   "slots": [
    "0x636b"
   ],
@@ -1372,8 +1372,8 @@
  {
   "id": "s2046:03da6",
   "jp": "新、天、地だわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "A whole, new, world, dontcha know!",
+  "status": "done",
   "slots": [
    "0x63bd"
   ],
@@ -1383,8 +1383,8 @@
  {
   "id": "s2046:03dbd",
   "jp": "うふふ、私には無意味ですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ufufu, it means nothing to me.",
+  "status": "done",
   "slots": [
    "0x6419"
   ],
@@ -1394,8 +1394,8 @@
  {
   "id": "s2046:03dde",
   "jp": "意味ねぇことしてねぇで、\nさっさと戦闘に戻れぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Quit messin' around with pointless stuff and\nget back to the fight.",
+  "status": "done",
   "slots": [
    "0x6457"
   ],
@@ -1422,8 +1422,8 @@
  {
   "id": "s2046:03e7f",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "",
-  "status": "todo",
+  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "status": "done",
   "slots": [
    "0x647f"
   ],
@@ -1449,8 +1449,8 @@
  {
   "id": "s2046:00f92t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0xf95",
   "max": 14,
   "who": "team name"
@@ -1467,8 +1467,8 @@
  {
   "id": "s2046:03f73t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x3f76",
   "max": 14,
   "who": "team name"

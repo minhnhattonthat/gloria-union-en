@@ -653,8 +653,8 @@
  {
   "id": "s2077:00bfe",
   "jp": "イシュト……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut...",
+  "status": "done",
   "slots": [
    "0x2cfc"
   ],
@@ -1115,8 +1115,8 @@
  {
   "id": "s2077:011fc",
   "jp": "兄貴……。",
-  "en": "",
-  "status": "todo",
+  "en": "Boss...",
+  "status": "done",
   "slots": [
    "0x387a"
   ],
@@ -1445,8 +1445,8 @@
  {
   "id": "s2077:016b1t",
   "jp": "グロリア海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates",
+  "status": "done",
   "at": "0x16b4",
   "max": 14,
   "who": "team name"
