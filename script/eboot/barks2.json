@@ -12971,7 +12971,7 @@
  {
   "id": "e:23b7db",
   "jp": "さぁ、蜂の巣になりなさい！",
-  "en": "Now, become a beehive!",
+  "en": "Now, let me turn you into Swiss cheese!",
   "status": "done",
   "slots": [
    "w:24557c"
@@ -12980,7 +12980,7 @@
  {
   "id": "e:23b7f6",
   "jp": "さぁ、蜂の巣になりなさい！",
-  "en": "Now, become a beehive!",
+  "en": "Now, let me turn you into Swiss cheese!",
   "status": "done",
   "slots": [
    "w:245584"
@@ -12989,7 +12989,7 @@
  {
   "id": "e:23b811",
   "jp": "さぁ、蜂の巣になりなさい！",
-  "en": "Now, become a beehive!",
+  "en": "Now, let me turn you into Swiss cheese!",
   "status": "done",
   "slots": [
    "w:24558c"
@@ -12998,7 +12998,7 @@
  {
   "id": "e:23b82c",
   "jp": "さぁ、蜂の巣になりなさい！",
-  "en": "Now, become a beehive!",
+  "en": "Now, let me turn you into Swiss cheese!",
   "status": "done",
   "slots": [
    "w:245594"
@@ -13007,7 +13007,7 @@
  {
   "id": "e:23b847",
   "jp": "さぁ、蜂の巣になりなさい！",
-  "en": "Now, become a beehive!",
+  "en": "Now, let me turn you into Swiss cheese!",
   "status": "done",
   "slots": [
    "w:24559c"
@@ -14033,7 +14033,7 @@
  {
   "id": "e:24b38b",
   "jp": "俺の生前より弱ェ！",
-  "en": "You're weaker than I was alive!",
+  "en": "You're weaker than I was when I was alive!",
   "status": "done",
   "slots": [
    "w:24c3ac"
@@ -14060,7 +14060,7 @@
  {
   "id": "e:24b3b6",
   "jp": "勝つからこそ正義なのだ！",
-  "en": "We're just because we win!",
+  "en": "We are justice, because we win!",
   "status": "done",
   "slots": [
    "w:24c3c4"
@@ -14618,7 +14618,7 @@
  {
   "id": "e:24b924",
   "jp": "イシュトのくせに……！",
-  "en": "He's just Ishut...!",
+  "en": "Losing to Ishut, of all people...!",
   "status": "done",
   "slots": [
    "w:24c5b4"
@@ -15185,7 +15185,7 @@
  {
   "id": "e:24be5f",
   "jp": "アンヌ……様。",
-  "en": "Anne... -sama.",
+  "en": "Anne-sama...",
   "status": "done",
   "slots": [
    "w:24c7ac"

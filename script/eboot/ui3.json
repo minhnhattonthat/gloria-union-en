@@ -2046,7 +2046,7 @@
  {
   "id": "e:284ba0",
   "jp": "はっ、ダメダメ！\n早くみんなの所にもどらなくちゃ！",
-  "en": "Ah, no no! I have to get\nback to everyone!",
+  "en": "Ah, no no! Locomoco has\nto get back to everyone!",
   "status": "done",
   "slots": [
    "w:2f6cfc"
@@ -2308,7 +2308,7 @@
  {
   "id": "e:284fd4",
   "jp": "古代ユーフォリアの遺産",
-  "en": "Legacy of Euforia",
+  "en": "Ancient Euforia's Legacy",
   "status": "done",
   "slots": [
    "w:2f6e00"

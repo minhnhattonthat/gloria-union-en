@@ -515,7 +515,7 @@
  {
   "id": "e:1ee3c4",
   "jp": "こちらのペースに引き込め！",
-  "en": "Drag them into our pace!",
+  "en": "Make them play at our pace!",
   "status": "done",
   "slots": [
    "w:1f15b4"
@@ -884,7 +884,7 @@
  {
   "id": "e:1ee687",
   "jp": "やったな！？",
-  "en": "You did it now!?",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:1f16fc"
@@ -911,7 +911,7 @@
  {
   "id": "e:1ee6be",
   "jp": "これぐらいの攻撃！",
-  "en": "An attack like this!",
+  "en": "An attack like this is nothing!",
   "status": "done",
   "slots": [
    "w:1f1714"
@@ -965,7 +965,7 @@
  {
   "id": "e:1ee72a",
   "jp": "やったなぁ！",
-  "en": "You did it now!",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:1f1744"
@@ -1127,7 +1127,7 @@
  {
   "id": "e:1ee88a",
   "jp": "効かないな！",
-  "en": "That didn't work!",
+  "en": "Didn't even hurt!",
   "status": "done",
   "slots": [
    "w:1f1814"
@@ -1424,7 +1424,7 @@
  {
   "id": "e:1eeab7",
   "jp": "届いてないな！",
-  "en": "That didn't reach!",
+  "en": "You didn't even reach me!",
   "status": "done",
   "slots": [
    "w:1f1994"
@@ -1559,7 +1559,7 @@
  {
   "id": "e:1eebbe",
   "jp": "効かないな。",
-  "en": "That didn't work.",
+  "en": "Didn't even sting.",
   "status": "done",
   "slots": [
    "w:1f1a0c"
@@ -1586,7 +1586,7 @@
  {
   "id": "e:1eebfd",
   "jp": "やぁったな～！？",
-  "en": "You diiid it now~!?",
+  "en": "You'll paaay for that~!",
   "status": "done",
   "slots": [
    "w:1f1a24"
@@ -2459,7 +2459,7 @@
  {
   "id": "e:1ef436",
   "jp": "俺の生前より弱ェ！",
-  "en": "You're weaker than I was alive!",
+  "en": "You're weaker than I was when I was alive!",
   "status": "done",
   "slots": [
    "w:1f1d2c"
@@ -2486,7 +2486,7 @@
  {
   "id": "e:1ef461",
   "jp": "勝つからこそ正義なのだ！",
-  "en": "We're just because we win!",
+  "en": "We are justice, because we win!",
   "status": "done",
   "slots": [
    "w:1f1d44"
@@ -3026,7 +3026,7 @@
  {
   "id": "e:1ef99d",
   "jp": "なんて強さなのかしら……。",
-  "en": "What strength, I wonder...",
+  "en": "My, what strength...",
   "status": "done",
   "slots": [
    "w:1f1f24"
@@ -5528,7 +5528,7 @@
  {
   "id": "e:1f1041",
   "jp": "痛ぅ！　やったな！？",
-  "en": "Ow! You did it now!?",
+  "en": "Ow! You'll pay for that!",
   "status": "done",
   "slots": [
    "w:1f28ac"
@@ -6059,7 +6059,7 @@
  {
   "id": "e:1f3f0a",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:203d54"
@@ -6068,7 +6068,7 @@
  {
   "id": "e:1f3f1f",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:203d5c"
@@ -6077,7 +6077,7 @@
  {
   "id": "e:1f3f34",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:203d64"
@@ -6086,7 +6086,7 @@
  {
   "id": "e:1f3f49",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:203d6c"
@@ -6095,7 +6095,7 @@
  {
   "id": "e:1f3f5e",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:203d74"
@@ -6266,7 +6266,7 @@
  {
   "id": "e:1f40b7",
   "jp": "その攻撃、褒めてやろう！",
-  "en": "I'll praise that attack!",
+  "en": "That attack deserves praise!",
   "status": "done",
   "slots": [
    "w:203e0c"
@@ -6851,7 +6851,7 @@
  {
   "id": "e:1f44e2",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:204014"
@@ -6860,7 +6860,7 @@
  {
   "id": "e:1f44ef",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:20401c"
@@ -6869,7 +6869,7 @@
  {
   "id": "e:1f44fc",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:204024"
@@ -6878,7 +6878,7 @@
  {
   "id": "e:1f4509",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:20402c"
@@ -6887,7 +6887,7 @@
  {
   "id": "e:1f4516",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:204034"
@@ -7742,7 +7742,7 @@
  {
   "id": "e:1f4abd",
   "jp": "棒立ちだ！",
-  "en": "Standing like a post!",
+  "en": "They're just standing there!",
   "status": "done",
   "slots": [
    "w:20432c"
@@ -10046,7 +10046,7 @@
  {
   "id": "e:1f5a3d",
   "jp": "落ち着け……私。",
-  "en": "Calm down... me.",
+  "en": "Stay calm... stay calm.",
   "status": "done",
   "slots": [
    "w:20529c"
@@ -10055,7 +10055,7 @@
  {
   "id": "e:1f5a4e",
   "jp": "落ち着け……私。",
-  "en": "Calm down... me.",
+  "en": "Stay calm... stay calm.",
   "status": "done",
   "slots": [
    "w:2052a4"
@@ -10064,7 +10064,7 @@
  {
   "id": "e:1f5a5f",
   "jp": "落ち着け……私。",
-  "en": "Calm down... me.",
+  "en": "Stay calm... stay calm.",
   "status": "done",
   "slots": [
    "w:2052ac"
@@ -10073,7 +10073,7 @@
  {
   "id": "e:1f5a70",
   "jp": "落ち着け……私。",
-  "en": "Calm down... me.",
+  "en": "Stay calm... stay calm.",
   "status": "done",
   "slots": [
    "w:2052b4"
@@ -10082,7 +10082,7 @@
  {
   "id": "e:1f5a81",
   "jp": "落ち着け……私。",
-  "en": "Calm down... me.",
+  "en": "Stay calm... stay calm.",
   "status": "done",
   "slots": [
    "w:2052bc"
@@ -18911,7 +18911,7 @@
  {
   "id": "e:1fa84c",
   "jp": "勝利をこの手に！",
-  "en": "Victory into my hands!",
+  "en": "Victory will be mine!",
   "status": "done",
   "slots": [
    "w:20a334"
@@ -19721,7 +19721,7 @@
  {
   "id": "e:1fb016",
   "jp": "共に熱く戦うぞぉぉぉ！！",
-  "en": "Let's fight hot-bloodedly togetheeer!!",
+  "en": "Let's fight together with burning passiooon!!",
   "status": "done",
   "slots": [
    "w:20a884"
@@ -24455,7 +24455,7 @@
  {
   "id": "e:1fd6df",
   "jp": "やったな！？",
-  "en": "You did it now!?",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20c24c"
@@ -24482,7 +24482,7 @@
  {
   "id": "e:1fd716",
   "jp": "これぐらいの攻撃！",
-  "en": "An attack like this!",
+  "en": "An attack like this is nothing!",
   "status": "done",
   "slots": [
    "w:20c264"
@@ -24536,7 +24536,7 @@
  {
   "id": "e:1fd782",
   "jp": "やったなぁ！",
-  "en": "You did it now!",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20c294"
@@ -24698,7 +24698,7 @@
  {
   "id": "e:1fd8e8",
   "jp": "効かないな！",
-  "en": "That didn't work!",
+  "en": "Didn't even hurt!",
   "status": "done",
   "slots": [
    "w:20c364"
@@ -24995,7 +24995,7 @@
  {
   "id": "e:1fdb24",
   "jp": "届いてないな！",
-  "en": "That didn't reach!",
+  "en": "You didn't even reach me!",
   "status": "done",
   "slots": [
    "w:20c4e4"
@@ -25130,7 +25130,7 @@
  {
   "id": "e:1fdc2b",
   "jp": "効かないな。",
-  "en": "That didn't work.",
+  "en": "Didn't even sting.",
   "status": "done",
   "slots": [
    "w:20c55c"
@@ -25157,7 +25157,7 @@
  {
   "id": "e:1fdc6a",
   "jp": "やぁったな～！？",
-  "en": "You diiid it now~!?",
+  "en": "You'll paaay for that~!",
   "status": "done",
   "slots": [
    "w:20c574"
@@ -25499,7 +25499,7 @@
  {
   "id": "e:1fdf9d",
   "jp": "なんて強さなのかしら……。",
-  "en": "What strength, I wonder...",
+  "en": "My, what strength...",
   "status": "done",
   "slots": [
    "w:20c6a4"
@@ -27677,7 +27677,7 @@
  {
   "id": "e:1ff2ad",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:20ce34"
@@ -27686,7 +27686,7 @@
  {
   "id": "e:1ff2c2",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:20ce3c"
@@ -27695,7 +27695,7 @@
  {
   "id": "e:1ff2d7",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:20ce44"
@@ -27704,7 +27704,7 @@
  {
   "id": "e:1ff2ec",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:20ce4c"
@@ -27713,7 +27713,7 @@
  {
   "id": "e:1ff301",
   "jp": "やってくれたわね！？",
-  "en": "You did it now, didn't you!?",
+  "en": "You'll pay for that, you hear!?",
   "status": "done",
   "slots": [
    "w:20ce54"
@@ -27884,7 +27884,7 @@
  {
   "id": "e:1ff456",
   "jp": "その攻撃、褒めてやろう！",
-  "en": "I'll praise that attack!",
+  "en": "That attack deserves praise!",
   "status": "done",
   "slots": [
    "w:20ceec"
@@ -28469,7 +28469,7 @@
  {
   "id": "e:1ff881",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:20d0f4"
@@ -28478,7 +28478,7 @@
  {
   "id": "e:1ff88e",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:20d0fc"
@@ -28487,7 +28487,7 @@
  {
   "id": "e:1ff89b",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:20d104"
@@ -28496,7 +28496,7 @@
  {
   "id": "e:1ff8a8",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:20d10c"
@@ -28505,7 +28505,7 @@
  {
   "id": "e:1ff8b5",
   "jp": "なんて奴だ！",
-  "en": "What a guy!",
+  "en": "What a monster!",
   "status": "done",
   "slots": [
    "w:20d114"
@@ -28595,7 +28595,7 @@
  {
   "id": "e:1ff953",
   "jp": "あ！　やりやがったな！？",
-  "en": "Ah! You did it now, didn't ya!?",
+  "en": "Ah! You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d164"
@@ -28604,7 +28604,7 @@
  {
   "id": "e:1ff96c",
   "jp": "あ！　やりやがったな！？",
-  "en": "Ah! You did it now, didn't ya!?",
+  "en": "Ah! You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d16c"
@@ -28613,7 +28613,7 @@
  {
   "id": "e:1ff985",
   "jp": "あ！　やりやがったな！？",
-  "en": "Ah! You did it now, didn't ya!?",
+  "en": "Ah! You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d174"
@@ -28622,7 +28622,7 @@
  {
   "id": "e:1ff99e",
   "jp": "あ！　やりやがったな！？",
-  "en": "Ah! You did it now, didn't ya!?",
+  "en": "Ah! You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d17c"
@@ -28631,7 +28631,7 @@
  {
   "id": "e:1ff9b7",
   "jp": "あ！　やりやがったな！？",
-  "en": "Ah! You did it now, didn't ya!?",
+  "en": "Ah! You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d184"
@@ -28640,7 +28640,7 @@
  {
   "id": "e:1ff9d0",
   "jp": "あ！　やりやがったな！？",
-  "en": "Ah! You did it now, didn't ya!?",
+  "en": "Ah! You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d18c"
@@ -29180,7 +29180,7 @@
  {
   "id": "e:1ffe12",
   "jp": "やってくれたわね！",
-  "en": "You did it now!",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d36c"
@@ -29189,7 +29189,7 @@
  {
   "id": "e:1ffe25",
   "jp": "やってくれたわね！",
-  "en": "You did it now!",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d374"
@@ -29198,7 +29198,7 @@
  {
   "id": "e:1ffe38",
   "jp": "やってくれたわね！",
-  "en": "You did it now!",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d37c"
@@ -29207,7 +29207,7 @@
  {
   "id": "e:1ffe4b",
   "jp": "やってくれたわね！",
-  "en": "You did it now!",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d384"
@@ -29216,7 +29216,7 @@
  {
   "id": "e:1ffe5e",
   "jp": "やってくれたわね！",
-  "en": "You did it now!",
+  "en": "You'll pay for that!",
   "status": "done",
   "slots": [
    "w:20d38c"
@@ -29567,7 +29567,7 @@
  {
   "id": "e:20015d",
   "jp": "ッ！？　しまった……！",
-  "en": "!? Oh no...!",
+  "en": "Wha-!? Oh no...!",
   "status": "done",
   "slots": [
    "w:20d4c4"
@@ -29576,7 +29576,7 @@
  {
   "id": "e:200174",
   "jp": "ッ！？　しまった……！",
-  "en": "!? Oh no...!",
+  "en": "Wha-!? Oh no...!",
   "status": "done",
   "slots": [
    "w:20d4cc"
@@ -29585,7 +29585,7 @@
  {
   "id": "e:20018b",
   "jp": "ッ！？　しまった……！",
-  "en": "!? Oh no...!",
+  "en": "Wha-!? Oh no...!",
   "status": "done",
   "slots": [
    "w:20d4d4"
@@ -29594,7 +29594,7 @@
  {
   "id": "e:2001a2",
   "jp": "ッ！？　しまった……！",
-  "en": "!? Oh no...!",
+  "en": "Wha-!? Oh no...!",
   "status": "done",
   "slots": [
    "w:20d4dc"
@@ -29603,7 +29603,7 @@
  {
   "id": "e:2001b9",
   "jp": "ッ！？　しまった……！",
-  "en": "!? Oh no...!",
+  "en": "Wha-!? Oh no...!",
   "status": "done",
   "slots": [
    "w:20d4e4"
@@ -31781,7 +31781,7 @@
  {
   "id": "e:20166f",
   "jp": "我が剣の錆となれ！",
-  "en": "Become rust on my blade!",
+  "en": "Your blood will stain my blade!",
   "status": "done",
   "slots": [
    "w:20e404"
@@ -31790,7 +31790,7 @@
  {
   "id": "e:201682",
   "jp": "我が剣の錆となれ！",
-  "en": "Become rust on my blade!",
+  "en": "Your blood will stain my blade!",
   "status": "done",
   "slots": [
    "w:20e40c"
@@ -31799,7 +31799,7 @@
  {
   "id": "e:201695",
   "jp": "我が剣の錆となれ！",
-  "en": "Become rust on my blade!",
+  "en": "Your blood will stain my blade!",
   "status": "done",
   "slots": [
    "w:20e414"
@@ -31808,7 +31808,7 @@
  {
   "id": "e:2016a8",
   "jp": "我が剣の錆となれ！",
-  "en": "Become rust on my blade!",
+  "en": "Your blood will stain my blade!",
   "status": "done",
   "slots": [
    "w:20e41c"
@@ -31817,7 +31817,7 @@
  {
   "id": "e:2016bb",
   "jp": "我が剣の錆となれ！",
-  "en": "Become rust on my blade!",
+  "en": "Your blood will stain my blade!",
   "status": "done",
   "slots": [
    "w:20e424"
@@ -32789,7 +32789,7 @@
  {
   "id": "e:20206f",
   "jp": "蜂の巣になりなさい！",
-  "en": "Become a beehive!",
+  "en": "I'll make Swiss cheese of you!",
   "status": "done",
   "slots": [
    "w:20ecb4"
@@ -32798,7 +32798,7 @@
  {
   "id": "e:202084",
   "jp": "蜂の巣になりなさい！",
-  "en": "Become a beehive!",
+  "en": "I'll make Swiss cheese of you!",
   "status": "done",
   "slots": [
    "w:20ecbc"
@@ -34841,7 +34841,7 @@
  {
   "id": "e:202cb5",
   "jp": "思い知ったか。",
-  "en": "Now do you understand.",
+  "en": "Learned your lesson?",
   "status": "done",
   "slots": [
    "w:20f75c"
@@ -35417,7 +35417,7 @@
  {
   "id": "e:2032af",
   "jp": "後悔するなよ？",
-  "en": "Don't regret it.",
+  "en": "Don't say I didn't warn you.",
   "status": "done",
   "slots": [
    "w:20f98c"

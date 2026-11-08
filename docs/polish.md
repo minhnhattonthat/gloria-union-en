@@ -11,4 +11,5 @@ Minor review findings, deferred (references/translation.md §Review). Tick each 
 - [ ] s2068:02b02 - Zazarland 罪人でもなかっただろうに shipped "And I bet they weren't even a criminal": "And I bet whoever wore 'em wasn't even a criminal."
 - [ ] s2077:01174 - Elisha 正論、ね shipped "...She's right, isn't she." (Pinger spoke last, but the argument is Zazarland's): "...Makes sense, I guess."
 - [ ] s2039:00424 - Blackmore's 機械人形 at Ruru shipped "A wind-up doll": "machine doll" keeps the hint that he knows what she is
+- [ ] e:25df84 - scenario title 黒の終止符 shipped "The Black Full Stop" ("full stop" is British, D12): "The Black Curtain Call" or "Black Finale" (check its byte limit)
 - [ ] s2034:0096c - 船長を"もの"扱い: "Calling your captain a 'what'" reads oddly; "So your captain's a 'what' now? Poor guy, nobody loves him." or make Elisha's line say "what's mine"
