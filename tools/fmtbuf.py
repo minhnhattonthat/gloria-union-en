@@ -90,6 +90,13 @@ def main():
                     rows.append((e['id'], s, 'sprintf', f'sp+{off:#x}', f'{orig} (heuristic gave {size - 1}: original length)'))
                 else:
                     rows.append((e['id'], s, 'sprintf', f'sp+{off:#x}', str(size - 1) if size else 'unknown'))
+    # prefixes with no printf code (not found above): 0x40C1C-0x40C5C sprintf one of them into sp+0x44, then strcat
+    # (0x14F170) the output of e:1ed9ac `%d％` (sp+0x5c) onto it: prefix + that output must fit sp+0x44's buffer
+    start = func_start(0x40C24)
+    above = sorted(o for o in sp_offsets(start, start + 0x4000) if o > 0x44)
+    pct = next((int(r[4].split()[0]) for r in rows if r[0] == 'e:1ed9ac'), 5)
+    for eid, s in (('e:1ed9a0', 'i:40c1c:40c28'), ('e:1ed9a4', 'i:40c3c:40c48'), ('e:1ed9a8', 'i:40c38:40c5c')):
+        rows.append((eid, s, 'sprintf+strcat', 'sp+0x44', f'{above[0] - 0x44 - 1 - pct} (buffer minus e:1ed9ac output)'))
     out = ROOT / 'tbl' / 'fmtbuf.tsv'
     with out.open('w', encoding='utf8', newline='\n') as f:
         f.write('id\tslot\tcall\tbuffer\tmax_bytes\n')

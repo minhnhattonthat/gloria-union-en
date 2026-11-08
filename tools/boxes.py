@@ -29,6 +29,11 @@ BUDGETS = {
     # dialogue window 0x10BE88 (story, tutorial talk): 4 rows of 288 px in our build (vwf.py), the 4th clears the
     # page arrow; work/qa/talk/stage_1_02_AP/p01.png (4 x 288 px stress lines inside the box)
     '1/16/18/4': (288, 4, 'measured: work/qa/talk/stage_1_02_AP/p01.png'),
+    # fit sweep 2 (work/qa/fitsweep2, one shot per class in work/qa/gate2/NN_<class>.png): ruler read off the frame
+    '1/10/18/1': (160, 1, 'measured: gate2/00 equip_tab, the "3 map" art covers the line past ~165 px'),
+    '1/10/20/5': (190, 1, 'measured: gate2/01 title_option, On/Off starts ~195 px in; the ruler stopped at the 30-cell cap'),
+    '1/15/17/6': (200, 6, 'measured: gate2/04 card_data, screen edge at ~202 px'),
+    '2/6/14/9': (84, 9, 'measured: gate2/37 terrain list, 84 px ends before the first icon'),
 }
 DEFAULT = {'story': '1/16/18/4', 'common': '1/16/18/4'}
 

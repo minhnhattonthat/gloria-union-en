@@ -42,18 +42,19 @@ def ruler(px, font, head=''):
 def fit(logdirs):
     """ID<tab>TEXT lines: every marked entry seen in the tour logs, each line filled to its window's box width
     (box_w; cols x pitch when box_w is under 40 px), as many lines as the original, at most the window's rows.
-    Entries with printf codes keep their marker (args must match)."""
+    Entries with printf codes or a byte limit (tbl/fmtbuf.tsv) keep their marker."""
     import csv, re
-    from insert import FMT, load, short
+    from insert import FMT, buf_limits, load, short
     from boxes import CELL
     ids = {short(e['id']): e for sub in ('story', 'common', 'eboot') for es in load(sub).values() for e in es}
+    lim = buf_limits()   # byte-limited strings (sprintf buffers) keep their marker
     out = {}
     for d in logdirs:
         for p in Path(d).glob('*/text.tsv'):
             for r in csv.DictReader(p.open(encoding='utf8'), delimiter='\t', quoting=csv.QUOTE_NONE):
                 m = re.match(r'\[([0-9a-z:]+)[\] ]', r['text'] or '')
                 e = m and ids.get(m.group(1))
-                if not e or FMT.search(e['jp']) or '[0A]' in e['jp']: continue
+                if not e or FMT.search(e['jp']) or '[0A]' in e['jp'] or e['id'] in lim: continue
                 font = int(r['font']) % 16
                 px = int(r['box_w'])
                 if px < 40: px = int(r['cols']) // 3 * ((int(r['cell_w']) or CELL.get(font, 20)) + int(r['spx']))

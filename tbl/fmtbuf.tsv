@@ -64,3 +64,6 @@ e:258c04	i:e6964:e6974	sprintf	sp+0x10	31
 e:2896ac	i:13973c:139750	sprintf	sp+0x10	59
 e:2896c4	i:1397e8:1397f0	sprintf	sp+0x4c	59
 e:2896cc	i:139868:139878	sprintf	sp+0x4c	59
+e:1ed9a0	i:40c1c:40c28	sprintf+strcat	sp+0x44	10 (buffer minus e:1ed9ac output)
+e:1ed9a4	i:40c3c:40c48	sprintf+strcat	sp+0x44	10 (buffer minus e:1ed9ac output)
+e:1ed9a8	i:40c38:40c5c	sprintf+strcat	sp+0x44	10 (buffer minus e:1ed9ac output)
