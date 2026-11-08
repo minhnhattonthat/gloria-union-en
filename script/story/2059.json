@@ -930,8 +930,8 @@
  {
   "id": "s2059:00fb2",
   "jp": "ふぅ……。\nあぁ気持ちよかった。\nそろそろあがろうかしらね。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew... Ah, that felt wonderful. Shall I get\nout soon, I wonder?",
+  "status": "done",
   "slots": [
    "0x5324"
   ],
@@ -963,8 +963,8 @@
  {
   "id": "s2059:0108f",
   "jp": "おぉ～、きもちぃもんですね。\n何かに目覚めてしまいそうです。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, this feels nice. I might awaken to\nsomething.",
+  "status": "done",
   "slots": [
    "0x556b"
   ],
@@ -985,8 +985,8 @@
  {
   "id": "s2059:01124",
   "jp": "……さて、そろそろ行きますか。\n皆さんいますかねぇ？",
-  "en": "",
-  "status": "todo",
+  "en": "...Well, shall we get going? Is everyone here,\nI wonder?",
+  "status": "done",
   "slots": [
    "0x5579"
   ],
@@ -1018,8 +1018,8 @@
  {
   "id": "s2059:011e5",
   "jp": "ん～！　水がとうめいでとっても\nきれい！",
-  "en": "",
-  "status": "todo",
+  "en": "Mmm! The water's so clear and pretty!",
+  "status": "done",
   "slots": [
    "0x57c7"
   ],
@@ -1029,8 +1029,8 @@
  {
   "id": "s2059:01211",
   "jp": "なんか水に入ってないみたい～。",
-  "en": "",
-  "status": "todo",
+  "en": "It's like I'm not even in the water!",
+  "status": "done",
   "slots": [
    "0x57ce"
   ],
@@ -1040,8 +1040,8 @@
  {
   "id": "s2059:01234",
   "jp": "ぶくぶくぶく……ぷはぁ！\nあ～、気持ちよかった！",
-  "en": "",
-  "status": "todo",
+  "en": "Blub blub blub... pwah! Ahh, that felt great!",
+  "status": "done",
   "slots": [
    "0x57de"
   ],
@@ -1073,8 +1073,8 @@
  {
   "id": "s2059:012bf",
   "jp": "あー！　風がきもちー！\n水もつめたいし、さいこーだね！",
-  "en": "",
-  "status": "todo",
+  "en": "Aah! The wind feels great! And the water's\ncold, it's the best!",
+  "status": "done",
   "slots": [
    "0x5a2c"
   ],
@@ -1095,8 +1095,8 @@
  {
   "id": "s2059:01329",
   "jp": "はっ、ダメダメ！\n早くみんなの所にもどらなくちゃ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, no no! I have to get back to everyone!",
+  "status": "done",
   "slots": [
    "0x5a3a"
   ],
@@ -1128,8 +1128,8 @@
  {
   "id": "s2059:013d7",
   "jp": "ふい～。冷たくてきんもちぃっす。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew. It's cold and feels so good, sir.",
+  "status": "done",
   "slots": [
    "0x5c81"
   ],
@@ -1139,8 +1139,8 @@
  {
   "id": "s2059:013fc",
   "jp": "課長もたまにはこういう癒しを\nくれないっすかねぇ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Wish my section chief gave us a break like\nthis now and then, sir.",
+  "status": "done",
   "slots": [
    "0x5c88"
   ],
@@ -1150,8 +1150,8 @@
  {
   "id": "s2059:01434",
   "jp": "……なんか、仕事のことを思い出し\nたら落ち着かなくなってきて\nしまったっす。",
-  "en": "",
-  "status": "todo",
+  "en": "...Thinking about work kinda made me\nrestless, sir.",
+  "status": "done",
   "slots": [
    "0x5c8f"
   ],
