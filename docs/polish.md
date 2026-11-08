@@ -13,3 +13,5 @@ Minor review findings, deferred (references/translation.md §Review). Tick each 
 - [ ] s2039:00424 - Blackmore's 機械人形 at Ruru shipped "A wind-up doll": "machine doll" keeps the hint that he knows what she is
 - [ ] e:25df84 - scenario title 黒の終止符 shipped "The Black Full Stop" ("full stop" is British, D12): "The Black Curtain Call" or "Black Finale" (check its byte limit)
 - [ ] s2034:0096c - 船長を"もの"扱い: "Calling your captain a 'what'" reads oddly; "So your captain's a 'what' now? Poor guy, nobody loves him." or make Elisha's line say "what's mine"
+- [ ] HUD enemy panel (right, right-aligned): the name has ~68 px before the gauge pips, the player panel 72; names of 69-72 px (Mystery Woman, Shifty-Eyed Guy, Mystery Beauty, Bassofondo Man, Opposition Man, Kind Old Woman) may touch the pips by a few px on the enemy side (work/qa/hud2_r.png). Shorten if seen in phase 8.
+- [ ] Unit abilities (e:2552b8-e:2561ec) rephrased to one line of 145 px (they show in the 1-row VS skill tag): check terse ones read well in context: 'Strong Attack+' / 'Strong Attack a lot' / 'Strong Attack: lots', 'Weak save lightning', 'No Back-to-Back', 'Card Encyclopedia' (= unlocks it).
