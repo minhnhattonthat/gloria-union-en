@@ -2,8 +2,8 @@
  {
   "id": "s2068:00028",
   "jp": "イタイヨ……タスケテ、カエリタイ",
-  "en": "",
-  "status": "todo",
+  "en": "It hurts... Help me. I want to go home.",
+  "status": "done",
   "slots": [
    "0x38e5"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2068:00064",
   "jp": "酷いことするわね……。",
-  "en": "",
-  "status": "todo",
+  "en": "What a cruel thing to do...",
+  "status": "done",
   "slots": [
    "0x3927"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2068:0007f",
   "jp": "ウゥ、オェ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh, hurk...!",
+  "status": "done",
   "slots": [
    "0x3947"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2068:00094",
   "jp": "ロコモコちゃん、\nあまり、見ない方がいいっす……。",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco-chan, better not look too much,\nokay...",
+  "status": "done",
   "slots": [
    "0x397c"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2068:000ca",
   "jp": "うん……。",
-  "en": "",
-  "status": "todo",
+  "en": "Okay...",
+  "status": "done",
   "slots": [
    "0x3995"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2068:000d9",
   "jp": "ベルガスと同じ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Same as Velgas...",
+  "status": "done",
   "slots": [
    "0x39ae"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2068:000f2",
   "jp": "ガンガ、ガング……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ganga, Gangr...",
+  "status": "done",
   "slots": [
    "0x39da"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2068:0010b",
   "jp": "人間と兵器を一体化させる\n人体実験……。",
-  "en": "",
-  "status": "todo",
+  "en": "Human experiments... fusing people with\nweapons...",
+  "status": "done",
   "slots": [
    "0x39fa"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2068:00137",
   "jp": "実験？　私には地獄にしか\n見えないわ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Experiments? It looks like nothing but hell to\nme...",
+  "status": "done",
   "slots": [
    "0x3a26"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2068:00165",
   "jp": "まんまとハメられたって事かよ……\nクソッ！",
-  "en": "",
-  "status": "todo",
+  "en": "So they played us like fools... Damn it!",
+  "status": "done",
   "slots": [
    "0x3a5b"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2068:00193",
   "jp": "ハズシテ。ダレカ、コノカラダ……\nハズシテ",
-  "en": "",
-  "status": "todo",
+  "en": "Take it off. Someone, this body... Take it\noff.",
+  "status": "done",
   "slots": [
    "0x3a71"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2068:001c1",
   "jp": "ウィルの流れがグチャグチャ……。\n絵の具を混ぜたみたいになってる。",
-  "en": "",
-  "status": "todo",
+  "en": "The Will is flowing all jumbled up... Like\npaints all mixed together.",
+  "status": "done",
   "slots": [
    "0x3a9f"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2068:00207",
   "jp": "どうして……こんなことに。",
-  "en": "",
-  "status": "todo",
+  "en": "How could... this happen?",
+  "status": "done",
   "slots": [
    "0x3ae7"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2068:00226",
   "jp": "兵器と人間は流れるウィルが違う。\nだから、拒絶反応が出てるんだ……",
-  "en": "",
-  "status": "todo",
+  "en": "The Will that flows in weapons is different\nfrom a human's. That's why their bodies are\nrejecting it...",
+  "status": "done",
   "slots": [
    "0x3b07"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2068:0026c",
   "jp": "なんとか抑えようとしているみたい\nだけど、逆にそれがあの子達を\n苦しめているんだわさ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like something's trying to hold it\ndown, but that only makes those kids suffer\nmore, dontcha know...",
+  "status": "done",
   "slots": [
    "0x3b3a"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2068:002c9",
   "jp": "これではなぶり殺しです……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is a slow, tormented death...",
+  "status": "done",
   "slots": [
    "0x3b6d"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2068:002ea",
   "jp": "人間のやることとは思えないわね。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't believe a human being would do this.",
+  "status": "done",
   "slots": [
    "0x3b8d"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2068:0030f",
   "jp": "おやおや、それはヒドイ物言い\nですね。これも世界平和のために\n必要な事なんですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "My, my, what a cruel thing to say. This is\nnecessary too, you know. For world peace.",
+  "status": "done",
   "slots": [
    "0x3ba5"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2068:00364",
   "jp": "……オ久シブリデス。",
-  "en": "",
-  "status": "todo",
+  "en": "...Long. Time. No see.",
+  "status": "done",
   "slots": [
    "0x3c95"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2068:0037d",
   "jp": "ガガンガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaganga!",
+  "status": "done",
   "slots": [
    "0x3cc1"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2068:0038c",
   "jp": "オ久シブリデスネ。プロトタイプ。\nエネルギーハ足リテマスカ？",
-  "en": "",
-  "status": "todo",
+  "en": "Long time no see. Prototype. Is your energy.\nSufficient?",
+  "status": "done",
   "slots": [
    "0x3cdf"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2068:003cc",
   "jp": "ガグンガンガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagunganga!",
+  "status": "done",
   "slots": [
    "0x3cf8"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2068:003df",
   "jp": "アジョー・グラフォー……。\n反皇国の人間だったのか。",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo-Grafor... So you were with the\nanti-Imperials.",
+  "status": "done",
   "slots": [
    "0x3d26"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2068:00417",
   "jp": "そして、この実験を行ったのも……",
-  "en": "",
-  "status": "todo",
+  "en": "And the one who ran these experiments...",
+  "status": "done",
   "slots": [
    "0x3d3f"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2068:0043c",
   "jp": "ベルガスを改造したのも、お前だな",
-  "en": "",
-  "status": "todo",
+  "en": "The one who rebuilt Velgas... that was you,\ntoo.",
+  "status": "done",
   "slots": [
    "0x3d5f"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2068:00461",
   "jp": "彼は素晴らしかったよ。\n我々に新たな可能性を\n教えてくれた。",
-  "en": "",
-  "status": "todo",
+  "en": "He was wonderful. He showed us new\npossibilities.",
+  "status": "done",
   "slots": [
    "0x3d78"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2068:004a0",
   "jp": "可能性……ねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Possibilities... huh.",
+  "status": "done",
   "slots": [
    "0x3dab"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2068:004b5",
   "jp": "なにが可能性よ……ただ人体実験の\n道具にしただけじゃない！",
-  "en": "",
-  "status": "todo",
+  "en": "Possibilities, my foot... You just made him a\ntool for your human experiments!",
+  "status": "done",
   "slots": [
    "0x3dcb"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2068:004f3",
   "jp": "新たな可能性……。\n体を機械化しての正常作動の\nことだね……。",
-  "en": "",
-  "status": "todo",
+  "en": "New possibilities... You mean a body turned\ninto a machine that still works properly...",
+  "status": "done",
   "slots": [
    "0x3de4"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2068:00534",
   "jp": "同じ兵器でも、Ｍｋ－２のパーツを\n使うことによって、拒絶反応を\n極限まで抑えることができる。",
-  "en": "",
-  "status": "todo",
+  "en": "Same weapon parts, but by using Mk-II's\nparts, I could keep the rejection down to\nthe bare minimum.",
+  "status": "done",
   "slots": [
    "0x3e12"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2068:00593",
   "jp": "Ｍｋ－２のウィルがベルガスくんの\nウィルに対応して変化したんだ。\nん～素晴らしい成果だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Mk-II's Will changed to match Velgas-kun's\nWill. Mmm, a wonderful result.",
+  "status": "done",
   "slots": [
    "0x3e1c"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2068:005ee",
   "jp": "ウィルの性質を\n人工的に変質させるなんて、\n不可能だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Changing the nature of Will artificially...\nThat's impossible!",
+  "status": "done",
   "slots": [
    "0x3e35"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2068:00629",
   "jp": "確かに、現代の技術力じゃ\n到底無理だ……なら、古代の知識を\n借りようじゃないか。",
-  "en": "",
-  "status": "todo",
+  "en": "True, it's far beyond today's technology...\nSo why not borrow the knowledge of the\nancients?",
+  "status": "done",
   "slots": [
    "0x3e4e"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2068:0067c",
   "jp": "え……！？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh...!?",
+  "status": "done",
   "slots": [
    "0x3e67"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2068:0068b",
   "jp": "キミは、遺跡に含まれるウィルを\n摂取しているらしいね。",
-  "en": "",
-  "status": "todo",
+  "en": "I hear you eat the Will in the ruins.",
+  "status": "done",
   "slots": [
    "0x3e80"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2068:006c5",
   "jp": "……それが、なんなの。",
-  "en": "",
-  "status": "todo",
+  "en": "...So what if I do?",
+  "status": "done",
   "slots": [
    "0x3eb5"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2068:006e0",
   "jp": "なんで摂取できるんだい？　\n普通なら拒絶反応を起こして\n“あぁ”なるのに。",
-  "en": "",
-  "status": "todo",
+  "en": "How can you eat it? Normally the body\nrejects it and you end up like \"that\".",
+  "status": "done",
   "slots": [
    "0x3ece"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2068:0072d",
   "jp": "ウゥ……アァ……",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh... Aah...",
+  "status": "done",
   "slots": [
    "0x3ee4"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2068:00742",
   "jp": "それはね、摂取したウィルを\nエネルギーに変換する機能が\nキミの体内にあるからだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's because your body has a function that\nturns the Will you take in into energy.",
+  "status": "done",
   "slots": [
    "0x3f06"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2068:00797",
   "jp": "こいつ、さっきから何言ってやがる",
-  "en": "",
-  "status": "todo",
+  "en": "What the hell's this guy goin' on about?",
+  "status": "done",
   "slots": [
    "0x3f34"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2068:007bc",
   "jp": "回りくどい事言ってないで\nハッキリ言いなさいよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Stop beating around the bush and say it\nplainly.",
+  "status": "done",
   "slots": [
    "0x3f4d"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2068:007f0",
   "jp": "遺跡のカードに含まれる強大な\nウィル。それを何枚もエネルギーに\n変換して撃ちだしたら、どうなる？",
-  "en": "",
-  "status": "todo",
+  "en": "The cards of the ruins hold enormous Will.\nWhat would happen if you turned card after\ncard into energy and fired it off?",
+  "status": "done",
   "slots": [
    "0x3f66"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2068:00853",
   "jp": "あの量のウィルを、\nエネルギーに変換……。",
-  "en": "",
-  "status": "todo",
+  "en": "That much Will, turned into energy...",
+  "status": "done",
   "slots": [
    "0x3f9b"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2068:00881",
   "jp": "そんなことしたら……！",
-  "en": "",
-  "status": "todo",
+  "en": "If I did that...!",
+  "status": "done",
   "slots": [
    "0x3fb4"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2068:0089c",
   "jp": "島１つ吹き飛ぶだけじゃ\nすまないわよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "It wouldn't stop at blowing away one\nisland...",
+  "status": "done",
   "slots": [
    "0x3fd4"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2068:008ca",
   "jp": "大陸ごと沈むかもしれないわね。",
-  "en": "",
-  "status": "todo",
+  "en": "A whole continent might sink.",
+  "status": "done",
   "slots": [
    "0x400e"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2068:008ed",
   "jp": "なるほど、超強力な兵器の\n出来上がりってわけか……。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. So that makes her one super-powerful\nweapon...",
+  "status": "done",
   "slots": [
    "0x403c"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2068:00925",
   "jp": "正式名称“シンフォニア”\nそれが、キミの本当の名前だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Official designation: \"Symphonia\". That is\nyour real name.",
+  "status": "done",
   "slots": [
    "0x4055"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2068:0095f",
   "jp": "シンフォニア……！？",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia...!?",
+  "status": "done",
   "slots": [
    "0x406e"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2068:00978",
   "jp": "そんな……\n私は、そんな力なんか……。",
-  "en": "",
-  "status": "todo",
+  "en": "No... I don't have that kind of power...",
+  "status": "done",
   "slots": [
    "0x4095"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2068:009a2",
   "jp": "変換機能の開発は成功した。あとは\nカードを手に入れるだけ。悪いけど\n君達には死んでもらおう。",
-  "en": "",
-  "status": "todo",
+  "en": "I've succeeded in developing the conversion\nfunction. All that's left is to get the cards.\nSorry, but I'll have you all die now.",
+  "status": "done",
   "slots": [
    "0x40ae"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2068:00a01",
   "jp": "チクショウ！　これも、平和の為の\n犠牲だって言うのかよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it! Ya gonna tell me this is a sacrifice\nfor peace too!?",
+  "status": "done",
   "slots": [
    "0x41c4"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2068:00a3d",
   "jp": "考えるのは後だ！　\n今は目の前の敵と、この胸糞悪い\n研究室をぶっ壊す事を考えろ！",
-  "en": "",
-  "status": "todo",
+  "en": "Think about it later! Right now, think about\nthe enemy in front of you and smashing this\ndisgusting lab to bits!",
+  "status": "done",
   "slots": [
    "0x41e2"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2068:00a90",
   "jp": "オウ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah!",
+  "status": "done",
   "slots": [
    "0x41fb"
   ],
@@ -607,8 +607,8 @@
  {
   "id": "s2068:00a9b",
   "jp": "知らなかったよ。ルルゥがそんなに\nすごい奴だったなんて。",
-  "en": "",
-  "status": "todo",
+  "en": "I didn't know Ruru was such an amazing girl.",
+  "status": "done",
   "slots": [
    "0x5f56"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2068:00ad7",
   "jp": "そう。キミには有り余る存在だ。\nだから大人しくカードを渡してくれ\nないか？",
-  "en": "",
-  "status": "todo",
+  "en": "Right. She's far too much for the likes of\nyou. So won't you be a good boy and hand\nover the cards?",
+  "status": "done",
   "slots": [
    "0x5f6f"
   ],
@@ -629,8 +629,8 @@
  {
   "id": "s2068:00b24",
   "jp": "渡すかバカ！",
-  "en": "",
-  "status": "todo",
+  "en": "Like hell I will, idiot!",
+  "status": "done",
   "slots": [
    "0x5f89"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2068:00b35",
   "jp": "イシュト、ワタシヲコワスノ？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut. Are you going. To destroy me?",
+  "status": "done",
   "slots": [
    "0x6ea6"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2068:00b56",
   "jp": "悪いな。それと、ありがとうな。\nお前のおかげでベルガスと戦えた。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry. And thanks. Thanks to you, I got to\nfight Velgas.",
+  "status": "done",
   "slots": [
    "0x6ec0"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2068:00b9a",
   "jp": "イシュト、ワタシヲコワスノ？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut. Are you going. To destroy me?",
+  "status": "done",
   "slots": [
    "0x6ede"
   ],
@@ -673,8 +673,8 @@
  {
   "id": "s2068:00bbb",
   "jp": "あぁ。\nどうせなら、派手に壊してやんよ。\nこの剣でな！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah. If I'm doin' it anyway, I'll wreck ya with\na bang. With this sword!",
+  "status": "done",
   "slots": [
    "0x6ef8"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2068:00bf4",
   "jp": "アナタはここで倒さなきゃダメ。\nこれ以上、研究はさせない！",
-  "en": "",
-  "status": "todo",
+  "en": "We have to beat you here. I won't let you do\nany more research!",
+  "status": "done",
   "slots": [
    "0x6169"
   ],
@@ -695,8 +695,8 @@
  {
   "id": "s2068:00c32",
   "jp": "なら僕を殺すことだね。\n研究は僕にとって酸素みたいなもの\nだから。",
-  "en": "",
-  "status": "todo",
+  "en": "Then you'll have to kill me. Research is like\noxygen to me.",
+  "status": "done",
   "slots": [
    "0x6182"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "s2068:00c77",
   "jp": "ゴメンね。\nもし違うところで出会えていたら、\nアナタと姉妹になりたかったよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry. If we'd met somewhere else, I'd\nhave liked to be your sister.",
+  "status": "done",
   "slots": [
    "0x70cd"
   ],
@@ -717,8 +717,8 @@
  {
   "id": "s2068:00cc6",
   "jp": "アナタは危険デス。排除シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "You are dangerous. Eliminating.",
+  "status": "done",
   "slots": [
    "0x70eb"
   ],
@@ -728,8 +728,8 @@
  {
   "id": "s2068:00ce9",
   "jp": "どうだい？\nルルゥの素晴らしさが\nわかっただろう？",
-  "en": "",
-  "status": "todo",
+  "en": "Well? Now you see how wonderful Ruru is,\ndon't you?",
+  "status": "done",
   "slots": [
    "0x6073"
   ],
@@ -738,8 +738,8 @@
  {
   "id": "s2068:00d1a",
   "jp": "そんなのとっくにわかってますよ。\nなんせ、兄貴が惚れた女の子\nなんですからね。",
-  "en": "",
-  "status": "todo",
+  "en": "We knew that long ago. She's the girl the\nBoss fell for, after all.",
+  "status": "done",
   "slots": [
    "0x608d"
   ],
@@ -748,8 +748,8 @@
  {
   "id": "s2068:00d67",
   "jp": "アンタみたいなのを、\n外道っていうのよ。\n覚悟しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "People like you are what we call scum. Get\nready!",
+  "status": "done",
   "slots": [
    "0x6256"
   ],
@@ -758,8 +758,8 @@
  {
   "id": "s2068:00d9e",
   "jp": "道を外れて何が悪いんだい？\nたまに道をそれないと見えない\n景色だってあるんだよ？",
-  "en": "",
-  "status": "todo",
+  "en": "What's wrong with leaving the path? Some\nviews you can only see if you stray from it\nnow and then, you know?",
+  "status": "done",
   "slots": [
    "0x626f"
   ],
@@ -768,8 +768,8 @@
  {
   "id": "s2068:00ded",
   "jp": "一つだけ教えろ。\nこの研究にエンリエッタは\n協力しているのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Tell me one thing. Is Enryetta helping with\nthis research?",
+  "status": "done",
   "slots": [
    "0x634a"
   ],
@@ -778,8 +778,8 @@
  {
   "id": "s2068:00e2a",
   "jp": "モチロン！\n彼女はこの研究所を提供し、\n研究費まで負担してくれた！",
-  "en": "",
-  "status": "todo",
+  "en": "Of course! She gave me this lab and even\npaid for the research!",
+  "status": "done",
   "slots": [
    "0x6363"
   ],
@@ -788,8 +788,8 @@
  {
   "id": "s2068:00e6b",
   "jp": "ただ、彼女は忙しいようでね。\nなかなか研究を見に来て\nくれないんだよ。もったいない。",
-  "en": "",
-  "status": "todo",
+  "en": "She seems busy, though. She hardly ever\ncomes to see the research. Such a waste.",
+  "status": "done",
   "slots": [
    "0x636d"
   ],
@@ -798,8 +798,8 @@
  {
   "id": "s2068:00ebe",
   "jp": "……そうか。",
-  "en": "",
-  "status": "todo",
+  "en": "...I see.",
+  "status": "done",
   "slots": [
    "0x6387"
   ],
@@ -808,8 +808,8 @@
  {
   "id": "s2068:00ecb",
   "jp": "僕は、アナタの論文はなかなか\n気に入ってるんだよ？",
-  "en": "",
-  "status": "todo",
+  "en": "I'm quite fond of your papers, you know?",
+  "status": "done",
   "slots": [
    "0x6478"
   ],
@@ -818,8 +818,8 @@
  {
   "id": "s2068:00efd",
   "jp": "よかったら、協力しないかい？",
-  "en": "",
-  "status": "todo",
+  "en": "If you like, why not work with me?",
+  "status": "done",
   "slots": [
    "0x6482"
   ],
@@ -828,8 +828,8 @@
  {
   "id": "s2068:00f1a",
   "jp": "断る！\n貴様の様な外道と協力など、\n死んでもするものか！",
-  "en": "",
-  "status": "todo",
+  "en": "I refuse! I would sooner die than work with\nscum like you!",
+  "status": "done",
   "slots": [
    "0x649c"
   ],
@@ -838,8 +838,8 @@
  {
   "id": "s2068:00f51",
   "jp": "そういえば、魔法使いの機械化は\nまだやってなかったなぁ……フフフ",
-  "en": "",
-  "status": "todo",
+  "en": "Come to think of it, I haven't turned a magic\nuser into a machine yet... Heh heh heh.",
+  "status": "done",
   "slots": [
    "0x6586"
   ],
@@ -848,8 +848,8 @@
  {
   "id": "s2068:00f91",
   "jp": "こ、この人、怖いよ……。\nもう、絶対負けられないんだから！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this man is scary... Now Locomoco really\ncan't lose!",
+  "status": "done",
   "slots": [
    "0x65a0"
   ],
@@ -858,8 +858,8 @@
  {
   "id": "s2068:00fcb",
   "jp": "あぁあ、こんな事して。\n罪人課のお世話になること\n決定ですよ？　アナタ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh dear, doing stuff like this. That's a sure\ntrip to the Sinners Section, you know? You,\nsir.",
+  "status": "done",
   "slots": [
    "0x6674"
   ],
@@ -868,8 +868,8 @@
  {
   "id": "s2068:01012",
   "jp": "罪人！？　バカな！\n僕は未来に残す偉大な研究を\nしているというのに！",
-  "en": "",
-  "status": "todo",
+  "en": "A sinner!? Nonsense! I'm doing great\nresearch to leave to the future!",
+  "status": "done",
   "slots": [
    "0x668d"
   ],
@@ -878,8 +878,8 @@
  {
   "id": "s2068:01055",
   "jp": "……みんなそう言うんすよ。\nウチに来る罪人さんは。",
-  "en": "",
-  "status": "todo",
+  "en": "...That's what they all say, sir. The sinners\nwho come to us.",
+  "status": "done",
   "slots": [
    "0x66a7"
   ],
@@ -888,8 +888,8 @@
  {
   "id": "s2068:01087",
   "jp": "ウンディーネの研究はもう\nし飽きたんだよねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "I've had enough of studying Undines already.",
+  "status": "done",
   "slots": [
    "0x6791"
   ],
@@ -898,8 +898,8 @@
  {
   "id": "s2068:010b5",
   "jp": "シャンティエは研究材料に\n困らないからね。",
-  "en": "",
-  "status": "todo",
+  "en": "Chantier is never short of research\nmaterial, after all.",
+  "status": "done",
   "slots": [
    "0x679b"
   ],
@@ -908,8 +908,8 @@
  {
   "id": "s2068:010df",
   "jp": "貴様……許さんぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "You... I will not forgive you!",
+  "status": "done",
   "slots": [
    "0x67b5"
   ],
@@ -918,8 +918,8 @@
  {
   "id": "s2068:010f2",
   "jp": "ガガング、グガガンガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangr, Gugaganga!",
+  "status": "done",
   "slots": [
    "0x689f"
   ],
@@ -928,8 +928,8 @@
  {
   "id": "s2068:01109",
   "jp": "怒ってるのかい？\nそうだろうね。",
-  "en": "",
-  "status": "todo",
+  "en": "Are you angry? I'm sure you are.",
+  "status": "done",
   "slots": [
    "0x68b8"
   ],
@@ -938,8 +938,8 @@
  {
   "id": "s2068:01129",
   "jp": "この研究には、キミのパーツの\n一部も使われてるんだから。",
-  "en": "",
-  "status": "todo",
+  "en": "After all, some of your parts went into this\nresearch too.",
+  "status": "done",
   "slots": [
    "0x68c2"
   ],
@@ -948,8 +948,8 @@
  {
   "id": "s2068:01161",
   "jp": "グガガガ、ガガン！",
-  "en": "",
-  "status": "todo",
+  "en": "Gugagaga, Gagan!",
+  "status": "done",
   "slots": [
    "0x68dc"
   ],
@@ -958,8 +958,8 @@
  {
   "id": "s2068:01174",
   "jp": "アナタの様な悪は、私が滅します！",
-  "en": "",
-  "status": "todo",
+  "en": "I will destroy evil like you!",
+  "status": "done",
   "slots": [
    "0x69b0"
   ],
@@ -968,8 +968,8 @@
  {
   "id": "s2068:01195",
   "jp": "自分の価値観で善悪を決めるとは、\n頭の悪い人はこれだから……。",
-  "en": "",
-  "status": "todo",
+  "en": "Deciding good and evil by your own values...\nThat's stupid people for you...",
+  "status": "done",
   "slots": [
    "0x69c9"
   ],
@@ -978,8 +978,8 @@
  {
   "id": "s2068:011d3",
   "jp": "貴様の様な輩を、\n許すわけにはいかない！\n覚悟しろぉぉぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "I can't let vermin like you go unpunished!\nPrepare yourselfff!",
+  "status": "done",
   "slots": [
    "0x6a9d"
   ],
@@ -988,8 +988,8 @@
  {
   "id": "s2068:0120c",
   "jp": "キミに許されたところで\nなんだというんだい？",
-  "en": "",
-  "status": "todo",
+  "en": "And what would it matter if you forgave\nme?",
+  "status": "done",
   "slots": [
    "0x6ab6"
   ],
@@ -998,8 +998,8 @@
  {
   "id": "s2068:01238",
   "jp": "ま、いいか。\nただの凡人に、僕の考えは\n理解できないだろうからね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, never mind. An ordinary person couldn't\nunderstand my ideas anyway.",
+  "status": "done",
   "slots": [
    "0x6ac0"
   ],
@@ -1008,8 +1008,8 @@
  {
   "id": "s2068:01279",
   "jp": "アンタを見てると、\n姉さんを思い出すわね。\nま、ここまで酷くないけど。",
-  "en": "",
-  "status": "todo",
+  "en": "Looking at you reminds me of my sister. Not\nthat she was this bad, though.",
+  "status": "done",
   "slots": [
    "0x6b94"
   ],
@@ -1018,8 +1018,8 @@
  {
   "id": "s2068:012be",
   "jp": "彼女は唯一僕の意思を\n理解できた人だよ。\n惜しい人を亡くしたものだね。",
-  "en": "",
-  "status": "todo",
+  "en": "She was the only one who understood my\nvision. Such a loss.",
+  "status": "done",
   "slots": [
    "0x6bad"
   ],
@@ -1028,8 +1028,8 @@
  {
   "id": "s2068:01303",
   "jp": "アンタみたいなタイプは見た事ない\nから、結構面白かったけど。\nどうやら、ここまでのようね。",
-  "en": "",
-  "status": "todo",
+  "en": "I've never seen a type like you, so it was\npretty fun. But looks like this is as far as you\ngo.",
+  "status": "done",
   "slots": [
    "0x6c81"
   ],
@@ -1038,8 +1038,8 @@
  {
   "id": "s2068:0135c",
   "jp": "ここまで？　馬鹿を言わないでくれ",
-  "en": "",
-  "status": "todo",
+  "en": "As far as I go? Don't be silly.",
+  "status": "done",
   "slots": [
    "0x6c9a"
   ],
@@ -1048,8 +1048,8 @@
  {
   "id": "s2068:0137d",
   "jp": "本当の研究は、\n今日から始まるのさ！",
-  "en": "",
-  "status": "todo",
+  "en": "The real research starts today!",
+  "status": "done",
   "slots": [
    "0x6ca4"
   ],
@@ -1058,8 +1058,8 @@
  {
   "id": "s2068:013a1",
   "jp": "キミは、どこか人とは違う雰囲気が\nするね……面白そうだ。",
-  "en": "",
-  "status": "todo",
+  "en": "There's something about you that's not like\nother people... Interesting.",
+  "status": "done",
   "slots": [
    "0x6d8e"
   ],
@@ -1068,8 +1068,8 @@
  {
   "id": "s2068:013d9",
   "jp": "この世で最も醜い音は、人の悲鳴。\nその音を自らかき鳴らす者は、\n誰であろうと許しません！",
-  "en": "",
-  "status": "todo",
+  "en": "The ugliest sound in this world is a human\nscream. Anyone who plays that sound with\ntheir own hands, I will not forgive, whoever\nthey may be!",
+  "status": "done",
   "slots": [
    "0x6da8"
   ],
@@ -1078,8 +1078,8 @@
  {
   "id": "s2068:01430",
   "jp": "かわいそうですけど、\n破壊させてもらいますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I feel sorry for you, but I'm going to break\nyou.",
+  "status": "done",
   "slots": [
    "0x6fd3"
   ],
@@ -1088,8 +1088,8 @@
  {
   "id": "s2068:0145e",
   "jp": "対象ノウィルノ上昇ヲ確認。\n迎撃シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Target's Will. Rising. Intercepting.",
+  "status": "done",
   "slots": [
    "0x6ff1"
   ],
@@ -1098,8 +1098,8 @@
  {
   "id": "s2068:01486",
   "jp": "悪いわね。\n恨むなら、アンタを作ったあの男を\n恨みなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry. If you want to blame someone, blame\nthat man who made you!",
+  "status": "done",
   "slots": [
    "0x71bf"
   ],
@@ -1108,8 +1108,8 @@
  {
   "id": "s2068:014bf",
   "jp": "敵、ガンナー、攻撃態勢。\n迎撃ヲ開始シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Enemy. Gunner. Attack stance. Beginning\ninterception.",
+  "status": "done",
   "slots": [
    "0x71dd"
   ],
@@ -1118,8 +1118,8 @@
  {
   "id": "s2068:014eb",
   "jp": "敵、危険度Ａ。\n直チニ攻撃ヲ開始シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Enemy. Danger level A. Attacking at once.",
+  "status": "done",
   "slots": [
    "0x72cc"
   ],
@@ -1128,8 +1128,8 @@
  {
   "id": "s2068:01513",
   "jp": "悪いが、娘のコピーなんかに\n負ける訳にはいかねぇんでな。\n破壊させてもらうぜぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, but I ain't losin' to some copy of my\ndaughter. I'm gonna break ya.",
+  "status": "done",
   "slots": [
    "0x72e6"
   ],
@@ -1138,8 +1138,8 @@
  {
   "id": "s2068:01562",
   "jp": "本来、ここまで人に近い機械は\n世界的に見ても貴重なのだが……。",
-  "en": "",
-  "status": "todo",
+  "en": "Normally a machine this close to human\nwould be precious, even worldwide...",
+  "status": "done",
   "slots": [
    "0x73ba"
   ],
@@ -1148,8 +1148,8 @@
  {
   "id": "s2068:015a0",
   "jp": "兵器として生まれた事を、\n後悔するんだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Regret that you were born a weapon.",
+  "status": "done",
   "slots": [
    "0x73c4"
   ],
@@ -1168,8 +1168,8 @@
  {
   "id": "s2068:015d1",
   "jp": "バイバイ、もう一人のお姉ちゃん。\n一回でもいいから、\n普通に遊びたかったよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Bye-bye, other Big Sister. Just once,\nLocomoco wanted to play like normal.",
+  "status": "done",
   "slots": [
    "0x74b6"
   ],
@@ -1178,8 +1178,8 @@
  {
   "id": "s2068:0161c",
   "jp": "ウィルノ特殊ナ活用法、魔法ヲ感知\n排除シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Special use of Will. Magic. Detected.\nEliminating.",
+  "status": "done",
   "slots": [
    "0x74d4"
   ],
@@ -1188,8 +1188,8 @@
  {
   "id": "s2068:0164a",
   "jp": "これほど人に近づいたアナタは、\n黄泉の国に行けるんすかねぇ？",
-  "en": "",
-  "status": "todo",
+  "en": "You got so close to being human... I wonder,\ncan you go to the Land of the Dead, sir?",
+  "status": "done",
   "slots": [
    "0x75a8"
   ],
@@ -1208,8 +1208,8 @@
  {
   "id": "s2068:0168d",
   "jp": "貴様の様な兵器に情はかけん。\n今すぐこの場で、破壊してやろう！",
-  "en": "",
-  "status": "todo",
+  "en": "I show no mercy to a weapon like you. I'll\ndestroy you right here and now!",
+  "status": "done",
   "slots": [
    "0x769a"
   ],
@@ -1218,8 +1218,8 @@
  {
   "id": "s2068:016cb",
   "jp": "ターゲット補足。\n破壊シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Target. Acquired. Destroying.",
+  "status": "done",
   "slots": [
    "0x76b8"
   ],
@@ -1228,8 +1228,8 @@
  {
   "id": "s2068:016e9",
   "jp": "ググン……グガンガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gugun... Gugangr.",
+  "status": "done",
   "slots": [
    "0x778c"
   ],
@@ -1238,8 +1238,8 @@
  {
   "id": "s2068:016fe",
   "jp": "目標、プロトタイプ。\n破壊シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Target. Prototype. Destroying.",
+  "status": "done",
   "slots": [
    "0x77aa"
   ],
@@ -1248,8 +1248,8 @@
  {
   "id": "s2068:01720",
   "jp": "あの研究者に加担した以上、\nアナタも悪の一員です。\n覚悟しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Since you sided with that researcher, you\ntoo are a part of evil. Prepare yourself!",
+  "status": "done",
   "slots": [
    "0x787e"
   ],
@@ -1258,8 +1258,8 @@
  {
   "id": "s2068:01761",
   "jp": "敵、所有武器カラ\n高エネルギー反応。\n直チニ迎撃シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Enemy weapon. High-energy reading.\nIntercepting at once.",
+  "status": "done",
   "slots": [
    "0x789c"
   ],
@@ -1268,8 +1268,8 @@
  {
   "id": "s2068:01798",
   "jp": "あのルルゥさんと瓜二つのこの人に\n果たして僕の槍が通用するのか…。",
-  "en": "",
-  "status": "todo",
+  "en": "Will my spear even work on someone who's\nthe spitting image of Ruru-san...?",
+  "status": "done",
   "slots": [
    "0x7970"
   ],
@@ -1278,8 +1278,8 @@
  {
   "id": "s2068:017da",
   "jp": "戦闘準備、ＯＫ。\n戦闘ヲ、開始シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Battle preparation. OK. Commencing.\nBattle.",
+  "status": "done",
   "slots": [
    "0x798e"
   ],
@@ -1288,8 +1288,8 @@
  {
   "id": "s2068:01800",
   "jp": "アナタを壊して、そのパーツを\n売ったら、どれほどのお金に\nなるんでしょうね？",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder how much money your parts would\nbring if I broke you and sold them?",
+  "status": "done",
   "slots": [
    "0x7a62"
   ],
@@ -1298,8 +1298,8 @@
  {
   "id": "s2068:0184b",
   "jp": "目標、グロリア海賊団。\n攻撃ヲ、開始シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Target. Gloria Pirates. Commencing.\nAttack.",
+  "status": "done",
   "slots": [
    "0x7a80"
   ],
@@ -1308,8 +1308,8 @@
  {
   "id": "s2068:01877",
   "jp": "偽者なんかじゃ、このパメラ様には\n勝てないんだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "A fake can't beat the Great Pamela-sama,\ndontcha know!",
+  "status": "done",
   "slots": [
    "0x7b54"
   ],
@@ -1318,8 +1318,8 @@
  {
   "id": "s2068:018ab",
   "jp": "攻撃目標、補足。",
-  "en": "",
-  "status": "todo",
+  "en": "Attack target. Acquired.",
+  "status": "done",
   "slots": [
    "0x7b72"
   ],
@@ -1328,8 +1328,8 @@
  {
   "id": "s2068:018bc",
   "jp": "感情という音を持たない機械に、\n用はありませんわ。\nさぁ、大人しくしていなさいな。",
-  "en": "",
-  "status": "todo",
+  "en": "I have no use for a machine without the\nsound called feeling. Now, be a good girl and\nkeep still.",
+  "status": "done",
   "slots": [
    "0x7c46"
   ],
@@ -1338,8 +1338,8 @@
  {
   "id": "s2068:0190d",
   "jp": "敵本体ニ大型ノウィルヲ感知。\n直チニ迎撃ヲ行イマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Large Will. Detected in enemy body.\nIntercepting at once.",
+  "status": "done",
   "slots": [
    "0x7c64"
   ],
@@ -1348,8 +1348,8 @@
  {
   "id": "s2068:01941",
   "jp": "身体損傷……全体ダメージ、９０％\nを越えました……修理を……修……\n理……を……。",
-  "en": "",
-  "status": "todo",
+  "en": "Body damage... total damage, over 90%...\nrepair... re... pair...",
+  "status": "done",
   "slots": [
    "0x85df"
   ],
@@ -1359,8 +1359,8 @@
  {
   "id": "s2068:01996",
   "jp": "あああぁあぁぁあああぁあ！！\n僕の！　僕の娘がああああぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Aaaaaaaaaah!! My! My daughteeeer!!",
+  "status": "done",
   "slots": [
    "0x85f4"
   ],
@@ -1370,8 +1370,8 @@
  {
   "id": "s2068:019d8",
   "jp": "私が……古代兵器……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm... an ancient weapon...",
+  "status": "done",
   "slots": [
    "0x867b"
   ],
@@ -1381,8 +1381,8 @@
  {
   "id": "s2068:019f3",
   "jp": "カードが本当の動力源だったなんて\n……そりゃあ燃費が悪くて当たり前\nですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "So cards were her real power source... No\nwonder she burns through fuel so fast.",
+  "status": "done",
   "slots": [
    "0x8694"
   ],
@@ -1392,8 +1392,8 @@
  {
   "id": "s2068:01a42",
   "jp": "黒い牙がルルゥを攫おうとした訳が\n今更だけどわかったわね。",
-  "en": "",
-  "status": "todo",
+  "en": "It's late, but now we know why the Black\nFang tried to kidnap Ruru.",
+  "status": "done",
   "slots": [
    "0x86aa"
   ],
@@ -1403,8 +1403,8 @@
  {
   "id": "s2068:01a80",
   "jp": "私が……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm...",
+  "status": "done",
   "slots": [
    "0x86c3"
   ],
@@ -1414,8 +1414,8 @@
  {
   "id": "s2068:01a8f",
   "jp": "ルルゥ、元気出してくれよ。\nルルゥがどんな奴だからって、\n俺は態度を変えたりしないからさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru, cheer up. Whatever kind of girl you\nare, I ain't gonna treat ya any different.",
+  "status": "done",
   "slots": [
    "0x86dc"
   ],
@@ -1425,8 +1425,8 @@
  {
   "id": "s2068:01aec",
   "jp": "遺跡を貪り始めた時点で、\nあなたを普通の女の子とは\n思っていませんでしたよ。",
-  "en": "",
-  "status": "todo",
+  "en": "From the moment you started devouring\nruins, I never thought you were an ordinary\ngirl.",
+  "status": "done",
   "slots": [
    "0x86f5"
   ],
@@ -1436,8 +1436,8 @@
  {
   "id": "s2068:01b3b",
   "jp": "イシュト……ピンガー……。\nありがと。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut... Pinger... Thanks.",
+  "status": "done",
   "slots": [
    "0x870b"
   ],
@@ -1447,8 +1447,8 @@
  {
   "id": "s2068:01b65",
   "jp": "もともと変な面子の集りなんだから\n今更そんなの気にしないわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "We were a bunch of weirdos to begin with.\nNobody's gonna care about that now.",
+  "status": "done",
   "slots": [
    "0x8721"
   ],
@@ -1458,8 +1458,8 @@
  {
   "id": "s2068:01ba7",
   "jp": "変とはなんだ変とは。\n不意な中傷はマナー違反だぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "What do you mean, weird? An unprovoked\ninsult is a breach of manners!",
+  "status": "done",
   "slots": [
    "0x8737"
   ],
@@ -1469,8 +1469,8 @@
  {
   "id": "s2068:01bdd",
   "jp": "そうねぇ。確かに思ったよりも\n驚かないんだわさ。\n他にもスゴイ人なんて沢山いるし。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, true, I'm less surprised than I thought\nI'd be, dontcha know. There are loads of\nother amazing people around.",
+  "status": "done",
   "slots": [
    "0x8771"
   ],
@@ -1480,8 +1480,8 @@
  {
   "id": "s2068:01c32",
   "jp": "ある意味古代兵器なんか目じゃない\n危険さよね、私達って。",
-  "en": "",
-  "status": "todo",
+  "en": "In a way, we're a lot more dangerous than\nany ancient weapon, aren't we?",
+  "status": "done",
   "slots": [
    "0x87a4"
   ],
@@ -1491,8 +1491,8 @@
  {
   "id": "s2068:01c6e",
   "jp": "可愛くて最強なんて、最高に心躍る\n組み合わせですわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Cute and the strongest! What a thrilling\ncombination!",
+  "status": "done",
   "slots": [
    "0x87d7"
   ],
@@ -1502,8 +1502,8 @@
  {
   "id": "s2068:01ca6",
   "jp": "最強！　なんといい響きでしょう。\nボクは、ルルゥさんを尊敬します！",
-  "en": "",
-  "status": "todo",
+  "en": "The strongest! What a wonderful ring that\nhas. I look up to you, Ruru-san!",
+  "status": "done",
   "slots": [
    "0x880a"
   ],
@@ -1513,8 +1513,8 @@
  {
   "id": "s2068:01cec",
   "jp": "私なんか吸血鬼っすからねぇ。\n古代兵器なんかより課長のほうが\n怖いですし……。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, I'm a vampire, after all. And my section\nchief is scarier than any ancient weapon...",
+  "status": "done",
   "slots": [
    "0x8838"
   ],
@@ -1524,8 +1524,8 @@
  {
   "id": "s2068:01d3d",
   "jp": "憧れのシンフォニアが\nルルゥおねえちゃんだったなんて、\nロコモコ大感動だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "The Symphonia Locomoco always dreamed\nof was Ruru-oneechan! Locomoco is soooo\nmoved!",
+  "status": "done",
   "slots": [
    "0x8851"
   ],
@@ -1535,8 +1535,8 @@
  {
   "id": "s2068:01d8c",
   "jp": "ガング！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangr!",
+  "status": "done",
   "slots": [
    "0x887d"
   ],
@@ -1546,8 +1546,8 @@
  {
   "id": "s2068:01d99",
   "jp": "ホント、改めて見ると\n濃いメンバーよね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Honestly, looking at us again... we're one\ncolourful bunch...",
+  "status": "done",
   "slots": [
    "0x88a4"
   ],
@@ -1557,8 +1557,8 @@
  {
   "id": "s2068:01dc9",
   "jp": "そしてエリーシャさんも、その一員",
-  "en": "",
-  "status": "todo",
+  "en": "And you're one of them too, Elisha-san.",
+  "status": "done",
   "slots": [
    "0x88d6"
   ],
@@ -1568,8 +1568,8 @@
  {
   "id": "s2068:01dee",
   "jp": "あたしはまともよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm normal!",
+  "status": "done",
   "slots": [
    "0x88fa"
   ],
@@ -1579,8 +1579,8 @@
  {
   "id": "s2068:01e05",
   "jp": "フフ……アハハハ。\nうん、ありがとう。みんな。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh... Ahahaha. Yeah, thank you. Everyone.",
+  "status": "done",
   "slots": [
    "0x8910"
   ],
@@ -1590,8 +1590,8 @@
  {
   "id": "s2068:01e37",
   "jp": "お前ら……\n友情を深めるのも結構だが、\nヤベェのが来たぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "You lot... Bonding's all well and good, but\nsomethin' nasty's comin'.",
+  "status": "done",
   "slots": [
    "0x8929"
   ],
@@ -1601,8 +1601,8 @@
  {
   "id": "s2068:01e74",
   "jp": "総員突撃！　目標は疲弊している！\n今が勝負だ！",
-  "en": "",
-  "status": "todo",
+  "en": "All troops, charge! The enemy is exhausted!\nNow is our chance!",
+  "status": "done",
   "slots": [
    "0x8bd1"
   ],
@@ -1612,8 +1612,8 @@
  {
   "id": "s2068:01ea6",
   "jp": "隊列を崩すな！　\n一丸となって押し込めぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't break formation! Push in as one!",
+  "status": "done",
   "slots": [
    "0x8bea"
   ],
@@ -1623,8 +1623,8 @@
  {
   "id": "s2068:01ed4",
   "jp": "皇国軍！？　\nこんな時に……！",
-  "en": "",
-  "status": "todo",
+  "en": "The Imperial army!? At a time like this...!",
+  "status": "done",
   "slots": [
    "0x8c1f"
   ],
@@ -1634,8 +1634,8 @@
  {
   "id": "s2068:01ef6",
   "jp": "なんてタイミングよ……\n狙ってやったとしか思えないわね。",
-  "en": "",
-  "status": "todo",
+  "en": "What timing... They must have planned it.",
+  "status": "done",
   "slots": [
    "0x8c38"
   ],
@@ -1645,8 +1645,8 @@
  {
   "id": "s2068:01f32",
   "jp": "そうだろうな。",
-  "en": "",
-  "status": "todo",
+  "en": "Most likely.",
+  "status": "done",
   "slots": [
    "0x8c5f"
   ],
@@ -1667,8 +1667,8 @@
  {
   "id": "s2068:01f52",
   "jp": "弱音を吐いた奴から死ぬぞ！\nオメェら！　気合入れろ！",
-  "en": "",
-  "status": "todo",
+  "en": "The first one to whine is the first one to die!\nYou lot! Get fired up!",
+  "status": "done",
   "slots": [
    "0x8c9f"
   ],
@@ -1689,8 +1689,8 @@
  {
   "id": "s2068:01fd7",
   "jp": "キミの手にある鎖。\nそれは世界とキミを繋いでいる\n忌まわしき鎖だ。",
-  "en": "",
-  "status": "todo",
+  "en": "The chain in your hand. It is the cursed chain\nthat binds you to the world.",
+  "status": "done",
   "slots": [
    "0x593f",
    "0xa8f6"
@@ -1700,8 +1700,8 @@
  {
   "id": "s2068:02018",
   "jp": "その鎖、私の手で断ち切って\nやろうではないか！",
-  "en": "",
-  "status": "todo",
+  "en": "Allow me to sever that chain with my own\nhands!",
+  "status": "done",
   "slots": [
    "0x5946",
    "0xa8fd"
@@ -1711,8 +1711,8 @@
  {
   "id": "s2068:02046",
   "jp": "これでキミは、性という鎖から\n解放された。\n喜びたまえ。",
-  "en": "",
-  "status": "todo",
+  "en": "There. You have been freed from the chain\nof gender. Rejoice.",
+  "status": "done",
   "slots": [
    "0x5956",
    "0xa90d"
@@ -1914,15 +1914,15 @@
  {
   "id": "s2068:022bb",
   "jp": "え？　鎖ではなくて、壁を\n破壊するんじゃないのかって？",
-  "en": "",
-  "status": "todo",
+  "en": "What? Isn't it a wall you break, not a chain?",
+  "status": "done",
   "slots": []
  },
  {
   "id": "s2068:022f1",
   "jp": "んもぅ、細かい事気にしないでよ！\n器の小さい子は嫌われちゃうわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, come on, don't fuss over the little\nthings! Small-minded kids don't get any love,\nyou know?",
+  "status": "done",
   "slots": []
  },
  {
@@ -1939,8 +1939,8 @@
  {
   "id": "s2068:02380",
   "jp": "キミも性転換をしたいのかい？\nその志は見事。\nただ一つ、残念なお知らせだ。",
-  "en": "",
-  "status": "todo",
+  "en": "You too wish to change your gender? A\nsplendid aspiration. There is just one piece\nof bad news.",
+  "status": "done",
   "slots": [
    "0x5e82",
    "0xae39"
@@ -1950,8 +1950,8 @@
  {
   "id": "s2068:023c9",
   "jp": "性転換をするにはあるアイテムが\n必要なのだが、キミは持っていない\nようだ。出直したまえ。",
-  "en": "",
-  "status": "todo",
+  "en": "A certain item is needed for a sex change,\nand it seems you don't have it. Come back\nlater.",
+  "status": "done",
   "slots": [
    "0x5e89",
    "0xae40"
@@ -1961,15 +1961,15 @@
  {
   "id": "s2068:02420",
   "jp": "アイテムを見つけ出すことが\nできたのなら、また来るといい。",
-  "en": "",
-  "status": "todo",
+  "en": "If you manage to find the item, come again.",
+  "status": "done",
   "slots": []
  },
  {
   "id": "s2068:0245c",
   "jp": "ここはドクターの研究施設です。",
-  "en": "",
-  "status": "todo",
+  "en": "This is the Doctor's research facility.",
+  "status": "done",
   "slots": [
    "0x42e6",
    "0x928f"
@@ -1979,8 +1979,8 @@
  {
   "id": "s2068:0247b",
   "jp": "私もドクターに追いつく為に、\n日夜研究を行っているのですが、\nなかなか追いつきませんね。",
-  "en": "",
-  "status": "todo",
+  "en": "I do research day and night to catch up with\nthe Doctor, but I just can't seem to.",
+  "status": "done",
   "slots": [
    "0x42ed",
    "0x9296"
@@ -1990,8 +1990,8 @@
  {
   "id": "s2068:024d2",
   "jp": "まぁ、彼は古代ユーフォリア文字を\n読める唯一の人物ですから、仕方が\nないと言えば仕方がないんですが。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, he's the only person who can read\nancient Euforian script, so it can't be helped,\nI suppose.",
+  "status": "done",
   "slots": [
    "0x42f4",
    "0x929d"
@@ -2001,8 +2001,8 @@
  {
   "id": "s2068:02535",
   "jp": "何か大きな事をすれば、近づけると\n思うんですけどね……。",
-  "en": "",
-  "status": "todo",
+  "en": "I think if I did something big, I could get\ncloser...",
+  "status": "done",
   "slots": [
    "0x42fb",
    "0x92a4"
@@ -2012,8 +2012,8 @@
  {
   "id": "s2068:0256d",
   "jp": "そうだなぁ。\nドクターが言っていたクリスタルと\n海底の薔薇があれば……。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's see. If I had the Crystal the Doctor\ntalked about, and the Seabed Rose...",
+  "status": "done",
   "slots": [
    "0x4313",
    "0x92bc"
@@ -2023,8 +2023,8 @@
  {
   "id": "s2068:025b4",
   "jp": "なぁ、知ってるか？\nここにある墓の主。\n全部、実験で失敗した人間なんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, ya know? The people in these graves.\nEvery one of 'em is someone an experiment\nfailed on.",
+  "status": "done",
   "slots": [
    "0x43a7",
    "0xa76b"
@@ -2034,8 +2034,8 @@
  {
   "id": "s2068:025fb",
   "jp": "どうだ？\nたくさんいるだろ？\n土地が足りなくなるぐらい、さ。",
-  "en": "",
-  "status": "todo",
+  "en": "Well? There's a lot of 'em, right? So many\nwe're runnin' out of land.",
+  "status": "done",
   "slots": [
    "0x43ae",
    "0xa772"
@@ -2045,8 +2045,8 @@
  {
   "id": "s2068:02636",
   "jp": "俺はさ、色んな研究をして、\n人の役に立つものを\n開発したかったんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Me, I wanted to do all kinds of research and\ninvent stuff that helps people.",
+  "status": "done",
   "slots": [
    "0x43b5",
    "0xa779"
@@ -2056,8 +2056,8 @@
  {
   "id": "s2068:02679",
   "jp": "だから、エネルギー体である\nウィルと体が不自由な人間を一体化\nさせる実験には賛成派なんだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "That's why I'm all for the experiments that\nfuse Will, a kind of energy, with people\nwhose bodies don't work right...",
+  "status": "done",
   "slots": [
    "0x43bc",
    "0xa780"
@@ -2067,8 +2067,8 @@
  {
   "id": "s2068:026d6",
   "jp": "だけど……その実験で多くの人間が\n死んでるんだ……矛盾してるよな。",
-  "en": "",
-  "status": "todo",
+  "en": "But... those experiments've killed so many\npeople... Kinda contradictory, huh?",
+  "status": "done",
   "slots": [
    "0x43c3",
    "0xa787"
@@ -2078,8 +2078,8 @@
  {
   "id": "s2068:02718",
   "jp": "なぁ、その日記、俺にくれないか？\nそれ読んで、もう一度、\n人ってもんを知りてぇんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, would ya give me that diary? I wanna\nread it and learn what people really are, one\nmore time.",
+  "status": "done",
   "slots": [
    "0x43ca",
    "0xa78e"
@@ -2089,8 +2089,8 @@
  {
   "id": "s2068:0276b",
   "jp": "変わりにそれやるよ。\n俺が作った、まぁオモチャみてぇな\nモンだけどな。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll give ya this in return. Somethin' I made.\nKinda like a toy, though.",
+  "status": "done",
   "slots": [
    "0x4439",
    "0xa7fd"
@@ -2100,8 +2100,8 @@
  {
   "id": "s2068:027b0",
   "jp": "どうしたらいいのかな、俺は……。",
-  "en": "",
-  "status": "todo",
+  "en": "What am I supposed to do...?",
+  "status": "done",
   "slots": [
    "0x4459"
   ],
@@ -2110,8 +2110,8 @@
  {
   "id": "s2068:027d1",
   "jp": "そうか、ドクターの研究所は\nもう潰れたのか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see, so the Doctor's lab's been shut down.",
+  "status": "done",
   "slots": [
    "0xa81d"
   ],
@@ -2120,8 +2120,8 @@
  {
   "id": "s2068:027fd",
   "jp": "あぁ、いいよ。俺は。\nもう辞める気だったし。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, it's fine. Me, I was gonna quit anyway.",
+  "status": "done",
   "slots": [
    "0xa824"
   ],
@@ -2130,8 +2130,8 @@
  {
   "id": "s2068:02829",
   "jp": "じゃあな。",
-  "en": "",
-  "status": "todo",
+  "en": "See ya.",
+  "status": "done",
   "slots": [
    "0xa82b"
   ],
@@ -2140,8 +2140,8 @@
  {
   "id": "s2068:02834",
   "jp": "なぁ、知ってるか？\nここにある墓の主。\n全部、実験で失敗した人間なんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, ya know? The people in these graves.\nEvery one of 'em is someone an experiment\nfailed on.",
+  "status": "done",
   "slots": [
    "0x4471",
    "0xa843"
@@ -2151,8 +2151,8 @@
  {
   "id": "s2068:0287b",
   "jp": "どうだ？\nたくさんいるだろ？\n土地が足りなくなるぐらい、さ。",
-  "en": "",
-  "status": "todo",
+  "en": "Well? There's a lot of 'em, right? So many\nwe're runnin' out of land.",
+  "status": "done",
   "slots": [
    "0x4478",
    "0xa84a"
@@ -2162,8 +2162,8 @@
  {
   "id": "s2068:028b6",
   "jp": "俺はさ、色んな研究をして、\n人の役に立つものを\n開発したかったんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Me, I wanted to do all kinds of research and\ninvent stuff that helps people.",
+  "status": "done",
   "slots": [
    "0x447f",
    "0xa851"
@@ -2173,8 +2173,8 @@
  {
   "id": "s2068:028f9",
   "jp": "だから、エネルギー体である\nウィルと体が不自由な人間を一体化\nさせる実験には賛成派なんだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "That's why I'm all for the experiments that\nfuse Will, a kind of energy, with people\nwhose bodies don't work right...",
+  "status": "done",
   "slots": [
    "0x4486",
    "0xa858"
@@ -2184,8 +2184,8 @@
  {
   "id": "s2068:02956",
   "jp": "だけど……その実験で多くの人間が\n死んでるんだ……矛盾してるよな。",
-  "en": "",
-  "status": "todo",
+  "en": "But... those experiments've killed so many\npeople... Kinda contradictory, huh?",
+  "status": "done",
   "slots": [
    "0x448d",
    "0xa85f"
@@ -2195,8 +2195,8 @@
  {
   "id": "s2068:02998",
   "jp": "どうしたらいいのかな、俺は……。",
-  "en": "",
-  "status": "todo",
+  "en": "What am I supposed to do...?",
+  "status": "done",
   "slots": [
    "0x4494",
    "0xa866"
@@ -2206,8 +2206,8 @@
  {
   "id": "s2068:029b9",
   "jp": "この足枷、\nかなりの血がついてるな……。",
-  "en": "",
-  "status": "todo",
+  "en": "These shackles... there's a lot of blood on\n'em...",
+  "status": "done",
   "slots": [
    "0x4540",
    "0x9368"
@@ -2217,8 +2217,8 @@
  {
   "id": "s2068:029e1",
   "jp": "チッ！\n胸くそ悪すぎるぜ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Tch! This is just sickening...!",
+  "status": "done",
   "slots": [
    "0x4596",
    "0x93be"
@@ -2228,8 +2228,8 @@
  {
   "id": "s2068:029ff",
   "jp": "足枷、ですか……。\nここにあるということは……。",
-  "en": "",
-  "status": "todo",
+  "en": "Shackles, huh... If they're out here, then...",
+  "status": "done",
   "slots": [
    "0x45f0",
    "0x9418"
@@ -2239,8 +2239,8 @@
  {
   "id": "s2068:02a2f",
   "jp": "トコトン外道ですよ。\nあのマッドサイエンティストは。",
-  "en": "",
-  "status": "todo",
+  "en": "He's scum through and through. That mad\nscientist.",
+  "status": "done",
   "slots": [
    "0x4646",
    "0x946e"
@@ -2250,8 +2250,8 @@
  {
   "id": "s2068:02a63",
   "jp": "この足枷、とても悲しいウィルを\n感じる……。",
-  "en": "",
-  "status": "todo",
+  "en": "I feel a very sad Will in these shackles...",
+  "status": "done",
   "slots": [
    "0x4699",
    "0x94c1"
@@ -2261,8 +2261,8 @@
  {
   "id": "s2068:02a8f",
   "jp": "悲しいね。とても……。",
-  "en": "",
-  "status": "todo",
+  "en": "It's sad. So very...",
+  "status": "done",
   "slots": [
    "0x46e4",
    "0x950c"
@@ -2272,8 +2272,8 @@
  {
   "id": "s2068:02aa6",
   "jp": "足枷をされても、\nなお、ここまで逃げてきたのね。",
-  "en": "",
-  "status": "todo",
+  "en": "Even in shackles, they still made it all the\nway here.",
+  "status": "done",
   "slots": [
    "0x4730",
    "0x9558"
@@ -2283,8 +2283,8 @@
  {
   "id": "s2068:02ad6",
   "jp": "アナタの無念、あたし達が\n晴らしてあげるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "We'll settle your grudge for you.",
+  "status": "done",
   "slots": [
    "0x477b",
    "0x95a3"
@@ -2294,8 +2294,8 @@
  {
   "id": "s2068:02b02",
   "jp": "足枷か……罪人でもなかった\nだろうに。",
-  "en": "",
-  "status": "todo",
+  "en": "Shackles, huh... And I bet they weren't even\na criminal.",
+  "status": "done",
   "slots": [
    "0x47c7",
    "0x95ef"
@@ -2305,8 +2305,8 @@
  {
   "id": "s2068:02b28",
   "jp": "これをつけるのにはもっと相応しい\n奴がいるだろう、なぁ？",
-  "en": "",
-  "status": "todo",
+  "en": "There's somebody a lot more deserving of\nthese, ain't there?",
+  "status": "done",
   "slots": [
    "0x4812",
    "0x963a"
@@ -2316,8 +2316,8 @@
  {
   "id": "s2068:02b60",
   "jp": "捕虜の脱走を防止するための\n足枷か……。",
-  "en": "",
-  "status": "todo",
+  "en": "Shackles to keep prisoners from escaping...",
+  "status": "done",
   "slots": [
    "0x485e",
    "0x9686"
@@ -2327,8 +2327,8 @@
  {
   "id": "s2068:02b88",
   "jp": "罪人にこそ相応しいだろうに……。",
-  "en": "",
-  "status": "todo",
+  "en": "Such things are fit only for criminals...",
+  "status": "done",
   "slots": [
    "0x48a9",
    "0x96d1"
@@ -2338,8 +2338,8 @@
  {
   "id": "s2068:02ba9",
   "jp": "この足枷の人、\nとってもかわいそう……。",
-  "en": "",
-  "status": "todo",
+  "en": "The person in these shackles... it's so sad...",
+  "status": "done",
   "slots": [
    "0x48f5",
    "0x971d"
@@ -2349,8 +2349,8 @@
  {
   "id": "s2068:02bd1",
   "jp": "グスッ……なみだが、出てくるよ。",
-  "en": "",
-  "status": "todo",
+  "en": "*Sniff*... Locomoco's crying...",
+  "status": "done",
   "slots": [
    "0x4940",
    "0x9768"
@@ -2360,8 +2360,8 @@
  {
   "id": "s2068:02bf2",
   "jp": "相変わらず、現世のやり方は\nえげつないっすね……。",
-  "en": "",
-  "status": "todo",
+  "en": "The living world's ways are as nasty as\never...",
+  "status": "done",
   "slots": [
    "0x498c",
    "0x97b4"
@@ -2371,8 +2371,8 @@
  {
   "id": "s2068:02c24",
   "jp": "こんなんだから、私の仕事が\n減らないんすよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is why my work never gets any\nlighter...",
+  "status": "done",
   "slots": [
    "0x49d7",
    "0x97ff"
@@ -2382,8 +2382,8 @@
  {
   "id": "s2068:02c54",
   "jp": "足枷とは……なんと非道な！",
-  "en": "",
-  "status": "todo",
+  "en": "Shackles... How inhuman!",
+  "status": "done",
   "slots": [
    "0x4a23",
    "0x984b"
@@ -2393,8 +2393,8 @@
  {
   "id": "s2068:02c6f",
   "jp": "許すわけにはいかない……。\nこの足枷をつけた奴らを！",
-  "en": "",
-  "status": "todo",
+  "en": "I cannot forgive them... Those who put\nthese shackles on!",
+  "status": "done",
   "slots": [
    "0x4a6e",
    "0x9896"
@@ -2404,8 +2404,8 @@
  {
   "id": "s2068:02ca3",
   "jp": "足枷……きっと、ここまで必死に\n逃げてきたのですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Shackles... They must have fled all this way,\ndesperately.",
+  "status": "done",
   "slots": [
    "0x4aba",
    "0x98e2"
@@ -2415,8 +2415,8 @@
  {
   "id": "s2068:02cd7",
   "jp": "残虐非道……悪は、滅びるべきです",
-  "en": "",
-  "status": "todo",
+  "en": "Brutal and inhuman... Evil must be\ndestroyed.",
+  "status": "done",
   "slots": [
    "0x4b05",
    "0x992d"
@@ -2426,8 +2426,8 @@
  {
   "id": "s2068:02cf8",
   "jp": "ガガガグガ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagagaguga...",
+  "status": "done",
   "slots": [
    "0x4b58",
    "0x9980"
@@ -2437,8 +2437,8 @@
  {
   "id": "s2068:02d09",
   "jp": "ガグガガンガ！　ググガンガグ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagugaganga! Guguganga-gu!",
+  "status": "done",
   "slots": [
    "0x4bae",
    "0x99d6"
@@ -2448,8 +2448,8 @@
  {
   "id": "s2068:02d28",
   "jp": "この捕虜……。\n必死に逃げて、茂みの中に\n隠れた所で、息絶えちゃったのね。",
-  "en": "",
-  "status": "todo",
+  "en": "This prisoner... ran for their life, hid in the\nbushes, and died right here.",
+  "status": "done",
   "slots": [
    "0x4c01",
    "0x9a29"
@@ -2459,8 +2459,8 @@
  {
   "id": "s2068:02d71",
   "jp": "アタシも、あと一歩間違えてれば\nこうなっていたのかもね……。",
-  "en": "",
-  "status": "todo",
+  "en": "One wrong step, and I might have ended up\nlike this too...",
+  "status": "done",
   "slots": [
    "0x4c4c",
    "0x9a74"
@@ -2470,8 +2470,8 @@
  {
   "id": "s2068:02dad",
   "jp": "騎士団時代に見慣れていたと\n思っていましたが。\n今こうして見ると……。",
-  "en": "",
-  "status": "todo",
+  "en": "I thought I'd grown used to this in my days in\nthe knights. But seeing it now...",
+  "status": "done",
   "slots": [
    "0x4c98",
    "0x9ac0"
@@ -2481,8 +2481,8 @@
  {
   "id": "s2068:02df2",
   "jp": "複雑な心境です……。",
-  "en": "",
-  "status": "todo",
+  "en": "I have mixed feelings...",
+  "status": "done",
   "slots": [
    "0x4ce3",
    "0x9b0b"
@@ -2492,8 +2492,8 @@
  {
   "id": "s2068:02e07",
   "jp": "……………。",
-  "en": "",
-  "status": "todo",
+  "en": ".........",
+  "status": "done",
   "slots": [
    "0x4d2f",
    "0x9b57"
@@ -2503,8 +2503,8 @@
  {
   "id": "s2068:02e14",
   "jp": "相変わらず腐ってるわね。\n一部の人間は。",
-  "en": "",
-  "status": "todo",
+  "en": "Some people are as rotten as ever.",
+  "status": "done",
   "slots": [
    "0x4d7a",
    "0x9ba2"
@@ -2525,8 +2525,8 @@
  {
   "id": "s2068:02e49",
   "jp": "どれだけの悲しい詩を作れば、\nこの足枷の人物の悲しみを\n伝えられるのでしょうかね……。",
-  "en": "",
-  "status": "todo",
+  "en": "How many sad songs would I have to write\nto convey the sorrow of the one in these\nshackles...",
+  "status": "done",
   "slots": [
    "0x4e1f",
    "0x9c47"
@@ -2536,8 +2536,8 @@
  {
   "id": "s2068:02e9e",
   "jp": "……………。",
-  "en": "",
-  "status": "todo",
+  "en": ".........",
+  "status": "done",
   "slots": [
    "0x4e62",
    "0x9c8a"
@@ -2547,8 +2547,8 @@
  {
   "id": "s2068:02eab",
   "jp": "チッ、胸くそ悪いぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, this is sickening.",
+  "status": "done",
   "slots": [
    "0x4eb8",
    "0x9ce0"
@@ -2558,8 +2558,8 @@
  {
   "id": "s2068:02ec0",
   "jp": "これ、遺跡の欠片か？\nでも、光の海域って\n感じじゃねぇな。",
-  "en": "",
-  "status": "todo",
+  "en": "Is this a ruin shard? Don't feel like the Sea\nof Light, though.",
+  "status": "done",
   "slots": [
    "0x4f6c",
    "0x9d94"
@@ -2569,8 +2569,8 @@
  {
   "id": "s2068:02ef9",
   "jp": "禍々しい感じがする……。\nなんなんだ、これ。",
-  "en": "",
-  "status": "todo",
+  "en": "It feels sinister... What the hell is this?",
+  "status": "done",
   "slots": [
    "0x4fb7",
    "0x9ddf"
@@ -2580,8 +2580,8 @@
  {
   "id": "s2068:02f25",
   "jp": "これ、なんでしょうか？",
-  "en": "",
-  "status": "todo",
+  "en": "What could this be?",
+  "status": "done",
   "slots": [
    "0x5003",
    "0x9e2b"
@@ -2591,8 +2591,8 @@
  {
   "id": "s2068:02f3c",
   "jp": "遺跡の欠片のように思えますけど、\n何か違いますね……。",
-  "en": "",
-  "status": "todo",
+  "en": "It looks like a ruin shard, but something's\ndifferent...",
+  "status": "done",
   "slots": [
    "0x504e",
    "0x9e76"
@@ -2602,8 +2602,8 @@
  {
   "id": "s2068:02f72",
   "jp": "これ、闇の遺跡の欠片！？\nなんでこんな所に……。",
-  "en": "",
-  "status": "todo",
+  "en": "Is this a ruin shard from the ruin of\ndarkness!? Why is it here...?",
+  "status": "done",
   "slots": [
    "0x509a",
    "0x9ec2"
@@ -2613,8 +2613,8 @@
  {
   "id": "s2068:02fa2",
   "jp": "エルマーレ連合国は、\nもう闇の遺跡を見つけたってこと？\nだとしたらマズイよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Does that mean the Elmare Federation's\nalready found the ruin of darkness? If so,\nthat's bad!",
+  "status": "done",
   "slots": [
    "0x50e5",
    "0x9f0d"
@@ -2624,8 +2624,8 @@
  {
   "id": "s2068:02fed",
   "jp": "この石、まさか遺跡の欠片……\nの、わけないわよね？",
-  "en": "",
-  "status": "todo",
+  "en": "This stone... it can't be a ruin shard... can\nit?",
+  "status": "done",
   "slots": [
    "0x5131",
    "0x9f59"
@@ -2635,8 +2635,8 @@
  {
   "id": "s2068:0301f",
   "jp": "だって、明らかに雰囲気が\n違うもの、むしろ真逆だし……。\n気のせいよ、気のせい。",
-  "en": "",
-  "status": "todo",
+  "en": "I mean, it clearly feels different. More like\nthe exact opposite... It's my imagination,\nthat's all.",
+  "status": "done",
   "slots": [
    "0x517c",
    "0x9fa4"
@@ -2657,8 +2657,8 @@
  {
   "id": "s2068:0307f",
   "jp": "これがあるってことは。\nクソッ、どこかに奴等がいるな！",
-  "en": "",
-  "status": "todo",
+  "en": "If this is here... Damn it, they're around here\nsomewhere!",
+  "status": "done",
   "slots": [
    "0x5213",
    "0xa03b"
@@ -2668,8 +2668,8 @@
  {
   "id": "s2068:030b5",
   "jp": "これは、紛れもなく遺跡の欠片！",
-  "en": "",
-  "status": "todo",
+  "en": "This is without a doubt a ruin shard!",
+  "status": "done",
   "slots": [
    "0x525f",
    "0xa087"
@@ -2679,8 +2679,8 @@
  {
   "id": "s2068:030d4",
   "jp": "だが、光の海域のものとは\n違うようだ。\nこれはいったい……。",
-  "en": "",
-  "status": "todo",
+  "en": "But it doesn't appear to be from the Sea of\nLight. What on earth is this...",
+  "status": "done",
   "slots": [
    "0x52aa",
    "0xa0d2"
@@ -2690,8 +2690,8 @@
  {
   "id": "s2068:0310f",
   "jp": "あれ？　この欠片？\nなんか変だよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? This shard? Something's weird about\nit.",
+  "status": "done",
   "slots": [
    "0x52f6",
    "0xa11e"
@@ -2701,8 +2701,8 @@
  {
   "id": "s2068:03131",
   "jp": "明らかにこの近辺のウィル\nじゃない。\nどこから持ってきたんだろう？",
-  "en": "",
-  "status": "todo",
+  "en": "That's clearly not Will from around here.\nWhere did it come from?",
+  "status": "done",
   "slots": [
    "0x5341",
    "0xa169"
@@ -2712,8 +2712,8 @@
  {
   "id": "s2068:03172",
   "jp": "なんかこの欠片、私と同じ雰囲気が\nするっす。",
-  "en": "",
-  "status": "todo",
+  "en": "This shard kinda feels like me, sir.",
+  "status": "done",
   "slots": [
    "0x538d",
    "0xa1b5"
@@ -2723,8 +2723,8 @@
  {
   "id": "s2068:0319e",
   "jp": "なんでしょう、これ？",
-  "en": "",
-  "status": "todo",
+  "en": "What is this thing?",
+  "status": "done",
   "slots": [
    "0x53d8",
    "0xa200"
@@ -2734,8 +2734,8 @@
  {
   "id": "s2068:031b3",
   "jp": "なんだこの欠片は……。\n持っているだけで、こう。\n不安になってくるというか……。",
-  "en": "",
-  "status": "todo",
+  "en": "What is this shard... Just holding it makes\nme feel... uneasy, somehow...",
+  "status": "done",
   "slots": [
    "0x5424",
    "0xa24c"
@@ -2745,8 +2745,8 @@
  {
   "id": "s2068:03202",
   "jp": "ルルゥの所へ持っていって\nみるか。",
-  "en": "",
-  "status": "todo",
+  "en": "Perhaps I should take it to Ruru.",
+  "status": "done",
   "slots": [
    "0x546f",
    "0xa297"
@@ -2756,8 +2756,8 @@
  {
   "id": "s2068:03224",
   "jp": "この欠片、なんだか持ってるだけで\n気持ち悪くなってきますね。",
-  "en": "",
-  "status": "todo",
+  "en": "Just holding this shard makes me feel sick,\nsomehow.",
+  "status": "done",
   "slots": [
    "0x54bb",
    "0xa2e3"
@@ -2767,8 +2767,8 @@
  {
   "id": "s2068:03260",
   "jp": "さっさとしまってしまいましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's put it away quickly.",
+  "status": "done",
   "slots": [
    "0x5506",
    "0xa32e"
@@ -2778,8 +2778,8 @@
  {
   "id": "s2068:03281",
   "jp": "ガググガグググガグガ、ガングン。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagugugagugugaguga, Gangun.",
+  "status": "done",
   "slots": [
    "0x5559",
    "0xa381"
@@ -2789,8 +2789,8 @@
  {
   "id": "s2068:032a2",
   "jp": "ガガングー、グーガン、ガンガー。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangu, Gugan, Gangaa.",
+  "status": "done",
   "slots": [
    "0x55af",
    "0xa3d7"
@@ -2800,8 +2800,8 @@
  {
   "id": "s2068:032c3",
   "jp": "うわぁ、なにこの欠片。\n呪われてるっぽいわねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ew, what's with this shard? Looks cursed.",
+  "status": "done",
   "slots": [
    "0x5602",
    "0xa42a"
@@ -2811,8 +2811,8 @@
  {
   "id": "s2068:032f3",
   "jp": "まぁ、\nこういう物ほど高いっていうし。\nもらっておくわね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, they say things like this fetch the\nhighest price. I'll take it.",
+  "status": "done",
   "slots": [
    "0x564d",
    "0xa475"
@@ -2822,8 +2822,8 @@
  {
   "id": "s2068:0332c",
   "jp": "な、なんだこの欠片！\nボクの気合が、吸い取られていく\nような……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this shard! It's like it's sucking\nout my fighting spirit...",
+  "status": "done",
   "slots": [
    "0x5699",
    "0xa4c1"
@@ -2833,8 +2833,8 @@
  {
   "id": "s2068:0336d",
   "jp": "あ、悪魔の欠片だ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I-it's a devil's shard...",
+  "status": "done",
   "slots": [
    "0x56e4",
    "0xa50c"
@@ -2844,8 +2844,8 @@
  {
   "id": "s2068:03384",
   "jp": "あらぁ！　遺跡の欠片じゃない！\nラッキーだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my! Isn't this a ruin shard! Lucky, dontcha\nknow!",
+  "status": "done",
   "slots": [
    "0x5730",
    "0xa558"
@@ -2855,8 +2855,8 @@
  {
   "id": "s2068:033b4",
   "jp": "きっと誰かが落としたんだわさ。\nオマヌケだわさ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Someone must have dropped it, dontcha\nknow. What a dummy~.",
+  "status": "done",
   "slots": [
    "0x577b",
    "0xa5a3"
@@ -2866,8 +2866,8 @@
  {
   "id": "s2068:033e6",
   "jp": "あら、なんだか嫌な雰囲気の\n欠片ですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, what a nasty-feeling shard.",
+  "status": "done",
   "slots": [
    "0x57d5",
    "0xa5fd"
@@ -2877,8 +2877,8 @@
  {
   "id": "s2068:0340e",
   "jp": "きっと闇の遺跡の欠片ですわね。\nあぁヤダヤダ、ですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "It must be a ruin shard from the ruin of\ndarkness. Oh, how dreadful.",
+  "status": "done",
   "slots": [
    "0x5820",
    "0xa648"
@@ -2888,8 +2888,8 @@
  {
   "id": "s2068:03444",
   "jp": "うお、この欠片。\n闇の力が宿ってやがる。\n気持ち悪いぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, this shard. There's dark power in it.\nCreepy.",
+  "status": "done",
   "slots": [
    "0x585c",
    "0xa684"
@@ -2899,8 +2899,8 @@
  {
   "id": "s2068:0347b",
   "jp": "闇の戦士ってのもカッコイイが、\nやっぱり男は光の戦士だろ！",
-  "en": "",
-  "status": "todo",
+  "en": "A warrior of darkness sounds cool, but a real\nman's a warrior of light!",
+  "status": "done",
   "slots": [
    "0x58a7",
    "0xa6cf"
@@ -2910,8 +2910,8 @@
  {
   "id": "s2068:08edc",
   "jp": "ガルム将軍、そろそろ。",
-  "en": "",
-  "status": "todo",
+  "en": "General Garm, it's time.",
+  "status": "done",
   "slots": [
    "0xb013"
   ],
@@ -2921,8 +2921,8 @@
  {
   "id": "s2068:08ef7",
   "jp": "そうだな。\nよし！　撤退だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Right. All right! Retreat!",
+  "status": "done",
   "slots": [
    "0xb029"
   ],
@@ -2932,8 +2932,8 @@
  {
   "id": "s2068:08f17",
   "jp": "ハァ、ハァ。\nて、撤退していく……？",
-  "en": "",
-  "status": "todo",
+  "en": "Hah, hah. Th-they're retreating...?",
+  "status": "done",
   "slots": [
    "0xb7a5"
   ],
@@ -2943,8 +2943,8 @@
  {
   "id": "s2068:08f3f",
   "jp": "戦略的撤退っぽかったなぁ。\nまだ何かあるのか……？",
-  "en": "",
-  "status": "todo",
+  "en": "Looked like a tactical retreat. Is there\nsomethin' else...?",
+  "status": "done",
   "slots": [
    "0xb7be"
   ],
@@ -2954,8 +2954,8 @@
  {
   "id": "s2068:08f75",
   "jp": "追いつきましたよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I've caught up with you...",
+  "status": "done",
   "slots": [
    "0xb85c"
   ],
@@ -2965,8 +2965,8 @@
  {
   "id": "s2068:08f90",
   "jp": "なるほど、こういうわけか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. So that's how it is.",
+  "status": "done",
   "slots": [
    "0xb875"
   ],
@@ -3012,8 +3012,8 @@
  {
   "id": "s2068:08fe6t",
   "jp": "槍のガルム騎馬隊",
-  "en": "",
-  "status": "todo",
+  "en": "Garm's Cavalry",
+  "status": "done",
   "at": "0x8fe9",
   "max": 16,
   "who": "team name"

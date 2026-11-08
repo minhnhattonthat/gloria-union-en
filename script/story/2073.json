@@ -1003,8 +1003,8 @@
  {
   "id": "s2073:01354",
   "jp": "……そうか。",
-  "en": "",
-  "status": "todo",
+  "en": "...I see.",
+  "status": "done",
   "slots": [
    "0x5c57"
   ],
@@ -2273,8 +2273,8 @@
  {
   "id": "s2073:0199at",
   "jp": "槍のガルム騎馬隊",
-  "en": "",
-  "status": "todo",
+  "en": "Garm's Cavalry",
+  "status": "done",
   "at": "0x199d",
   "max": 16,
   "who": "team name"

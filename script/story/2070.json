@@ -2,8 +2,8 @@
  {
   "id": "s2070:00028",
   "jp": "黒幕とは、随分なご挨拶じゃないか\nザザーランド。",
-  "en": "",
-  "status": "todo",
+  "en": "\"The man pulling the strings\"? Quite a\ngreeting, Zazarland.",
+  "status": "done",
   "slots": [
    "0x173c"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2070:0005c",
   "jp": "黒い牙を裏で動かし、トレイシーに\n情報とカードを与えたお前を、\n誰が黒幕じゃないって言うんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "You worked the Black Fang from the\nshadows and gave Tracey information and\ncards. Who'd say you ain't the one pullin' the\nstrings?",
+  "status": "done",
   "slots": [
    "0x1755"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2070:000bd",
   "jp": "クク、良くわかったな。\n成長したものだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh heh, you figured it out. You've grown...",
+  "status": "done",
   "slots": [
    "0x176e"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2070:000ed",
   "jp": "反吐が出るぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Makes me wanna puke.",
+  "status": "done",
   "slots": [
    "0x1787"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2070:00100",
   "jp": "まぁ、そう言うな。\n同じ軍で汗を流した仲じゃないか。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, don't say that. We sweated together\nin the same army, didn't we?",
+  "status": "done",
   "slots": [
    "0x17a0"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2070:00138",
   "jp": "同じ、軍？",
-  "en": "",
-  "status": "todo",
+  "en": "The same... army?",
+  "status": "done",
   "slots": [
    "0x17b9"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2070:00147",
   "jp": "あの頃はよかったなぁ。\nもう一度戻りたいって思わねぇか？",
-  "en": "",
-  "status": "todo",
+  "en": "Those were good days. Don't ya wish you\ncould go back?",
+  "status": "done",
   "slots": [
    "0x17d2"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2070:00183",
   "jp": "クク、確かに。\nだが、戻ったとしても結末は\n同じであろうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh heh, indeed. But even if we went back, it\nwould end the same way.",
+  "status": "done",
   "slots": [
    "0x17f9"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2070:001c2",
   "jp": "そうだな。\n俺がお前を殺して、終わりだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah. With me killin' you, and that's the end.",
+  "status": "done",
   "slots": [
    "0x1812"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2070:001ee",
   "jp": "よくいう……。",
-  "en": "",
-  "status": "todo",
+  "en": "Big talk...",
+  "status": "done",
   "slots": [
    "0x182b"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2070:00201",
   "jp": "これは……どういうことだ？",
-  "en": "",
-  "status": "todo",
+  "en": "What... is going on?",
+  "status": "done",
   "slots": [
    "0x1844"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2070:00220",
   "jp": "親父は昔、皇国軍の将軍だったの。",
-  "en": "",
-  "status": "todo",
+  "en": "Dad was a general in the Imperial army once.",
+  "status": "done",
   "slots": [
    "0x185d"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2070:00254",
   "jp": "親父が……ルキア皇国の、将軍？",
-  "en": "",
-  "status": "todo",
+  "en": "Dad was... a general of the Lukia Empire?",
+  "status": "done",
   "slots": [
    "0x18ab"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2070:00277",
   "jp": "何かしらの繋がりはある\nと思っていましたが……。",
-  "en": "",
-  "status": "todo",
+  "en": "I did think there was some connection, but...",
+  "status": "done",
   "slots": [
    "0x18c4"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2070:002ab",
   "jp": "話してなかったのか？\n相変わらず部下の統率が\n下手くそだな。",
-  "en": "",
-  "status": "todo",
+  "en": "You didn't tell them? You're as bad at\nleading your men as ever.",
+  "status": "done",
   "slots": [
    "0x18da"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2070:002ea",
   "jp": "いいんだよ。\n俺が話したくなかったんだからな。",
-  "en": "",
-  "status": "todo",
+  "en": "It's fine. I didn't wanna tell 'em, that's all.",
+  "status": "done",
   "slots": [
    "0x18f3"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2070:0031c",
   "jp": "自分勝手甚だしいな。\nその脳筋さえなければ、今頃は俺と\nお前で世界を支配できたのだがな。",
-  "en": "",
-  "status": "todo",
+  "en": "Selfish as ever. If not for that thick skull of\nyours, you and I would be ruling the world by\nnow.",
+  "status": "done",
   "slots": [
    "0x190c"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2070:00377",
   "jp": "平和を生むのはお前の“力”でも、\nエンリエッタの“犠牲”でもねぇ。\n俺の“自由”さ。",
-  "en": "",
-  "status": "todo",
+  "en": "Peace don't come from your \"power\", or\nfrom Enryetta's \"sacrifice\". It comes from\nmy \"freedom\".",
+  "status": "done",
   "slots": [
    "0x1925"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2070:003ce",
   "jp": "力強き者が世界を制する。\n誰も逆らえぬ力は、戦を無くし！\n平和を生むのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "The strong rule the world. A power no one\ncan defy ends war! And brings peace!",
+  "status": "done",
   "slots": [
    "0x193e"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2070:0041b",
   "jp": "それは、闇のカード……！？\nなんでアナタが持っているの！？",
-  "en": "",
-  "status": "todo",
+  "en": "That's the dark card...!? Why do you have\nit!?",
+  "status": "done",
   "slots": [
    "0x1995"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2070:00459",
   "jp": "ルキア皇国は闇の遺跡“闇の邪域”\nを基に作られていてな。",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire was built upon the ruin of\ndarkness, the \"Dark Realm\".",
+  "status": "done",
   "slots": [
    "0x19ab"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2070:00495",
   "jp": "クリスタルは王家の秘宝として\n代々伝わっているのだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "The Crystal has been handed down as a\ntreasure of the royal family for\ngenerations.",
+  "status": "done",
   "slots": [
    "0x19b2"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2070:004cf",
   "jp": "エンリエッタの他にも、普通の体で\nカードを使えるほどのウィルを\n持っている人がいたなんて……！",
-  "en": "",
-  "status": "todo",
+  "en": "Besides Enryetta, there's someone else\nwith an ordinary body who has enough Will\nto use a card...!",
+  "status": "done",
   "slots": [
    "0x19e7"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2070:00530",
   "jp": "言っただろう。\n貴様らの１７年と、私達の１７年を\n一緒にするなと！",
-  "en": "",
-  "status": "todo",
+  "en": "I told you. Don't compare your seventeen\nyears with ours!",
+  "status": "done",
   "slots": [
    "0x1a00"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2070:00575",
   "jp": "さぁ、お喋りはこれまでだ。\nメギドの闇に沈んでもらおうか！",
-  "en": "",
-  "status": "todo",
+  "en": "Now, enough talk. Let me sink you into the\ndarkness of Megiddo!",
+  "status": "done",
   "slots": [
    "0x1a15"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2070:005b3",
   "jp": "貴様らさえ葬れば、我が\n“ユーフォリア計画”は完成する！",
-  "en": "",
-  "status": "todo",
+  "en": "Once I bury you, my \"Euforia Project\" will be\ncomplete!",
+  "status": "done",
   "slots": [
    "0x1b2c"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2070:005ef",
   "jp": "ユーフォリア……計画。",
-  "en": "",
-  "status": "todo",
+  "en": "Euforia... Project.",
+  "status": "done",
   "slots": [
    "0x1b45"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2070:0060a",
   "jp": "させねぇよ……！\nそのために、俺は今まで\n生きてきたんだからなぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "I won't let ya...! That's what I've lived for\nall this time!",
+  "status": "done",
   "slots": [
    "0x1b63"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2070:0064f",
   "jp": "闇のカード“メギド”は、\n渇望のウィルを力に変える！\n俺の意思は、力への渇望！",
-  "en": "",
-  "status": "todo",
+  "en": "The dark card \"Megiddo\" turns the Will of\ncraving into power! My will is the craving for\npower!",
+  "status": "done",
   "slots": [
    "0x1dbf"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2070:006a0",
   "jp": "コイツもエンリエッタみたいに\nカードを使えるのかよ……！",
-  "en": "",
-  "status": "todo",
+  "en": "This guy can use a card too, like Enryetta...!",
+  "status": "done",
   "slots": [
    "0x1dd9"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2070:006dc",
   "jp": "例え残り五枚のカードを使おうが、\nお前らは俺には勝てない！",
-  "en": "",
-  "status": "todo",
+  "en": "Even if you used the other five cards, you\ncould never beat me!",
+  "status": "done",
   "slots": [
    "0x1df2"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2070:00725",
   "jp": "な、何よ、人の顔をジロジロと。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what? Quit staring at my face.",
+  "status": "done",
   "slots": [
    "0x210a"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2070:00748",
   "jp": "……お前、本当にザザーランドの\n娘か？",
-  "en": "",
-  "status": "todo",
+  "en": "...Are you really Zazarland's daughter?",
+  "status": "done",
   "slots": [
    "0x2120"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2070:00772",
   "jp": "その質問、正直され慣れたけど……\nあたしは正真正銘、親父の娘よ！\n親父譲りの力、見せてあげるわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Honestly, I'm used to that question... but I'm\nDad's daughter, the real deal! I'll show you\nthe strength I got from him!",
+  "status": "done",
   "slots": [
    "0x213a"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2070:007d5",
   "jp": "どんなに力を底上げしても、\n俺には勝てないぜ、宰相さんよぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "However much ya boost your power, ya\ncan't beat me, Mr. Chancellor.",
+  "status": "done",
   "slots": [
    "0x221d"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2070:00815",
   "jp": "なぜ俺が態々ここに赴いたか\nわかるか？　貴様を殺すためだよ。\nザザーランド！",
-  "en": "",
-  "status": "todo",
+  "en": "Do you know why I came here in person? To\nkill you. Zazarland!",
+  "status": "done",
   "slots": [
    "0x2236"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2070:00864",
   "jp": "グロリア海賊団の団員は皆殺しだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Every member of the Gloria Pirates dies!",
+  "status": "done",
   "slots": [
    "0x1edc"
   ],
@@ -430,8 +430,8 @@
  {
   "id": "s2070:00885",
   "jp": "この人が敵の親玉ですか……。\n流石に、威圧感がありますね。",
-  "en": "",
-  "status": "todo",
+  "en": "So this is the enemy's ringleader... He really\nis intimidating.",
+  "status": "done",
   "slots": [
    "0x1ef6"
   ],
@@ -440,8 +440,8 @@
  {
   "id": "s2070:008bf",
   "jp": "貴様はユーフォリア計画には\n重要な存在だ！\nさぁ、共に来るのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "You are vital to the Euforia Project! Now,\ncome with me!",
+  "status": "done",
   "slots": [
    "0x1fe0"
   ],
@@ -450,8 +450,8 @@
  {
   "id": "s2070:008fe",
   "jp": "私は絶対にアナタと行かない！\n絶対に、イシュトと一緒に\nいるんだから！",
-  "en": "",
-  "status": "todo",
+  "en": "I'll never go with you! I'm staying with Ishut,\nno matter what!",
+  "status": "done",
   "slots": [
    "0x1ffa"
   ],
@@ -460,8 +460,8 @@
  {
   "id": "s2070:00943",
   "jp": "そこまで絶対的力を持って……。\n恐怖政治でも布くつもりか？",
-  "en": "",
-  "status": "todo",
+  "en": "With power that absolute... Do you mean to\nrule by terror?",
+  "status": "done",
   "slots": [
    "0x230a"
   ],
@@ -470,8 +470,8 @@
  {
   "id": "s2070:0097d",
   "jp": "人を支配するのに、\n恐怖は丁度いいんだよ。\nそして、恐怖を生むのは、力だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Fear is just right for ruling people. And what\ncreates fear is power!",
+  "status": "done",
   "slots": [
    "0x2323"
   ],
@@ -480,8 +480,8 @@
  {
   "id": "s2070:009c6",
   "jp": "なんて禍々しいウィル。\n闇のカードが扱えるわけだよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "What a sinister Will. No wonder he can\nhandle the dark card...",
+  "status": "done",
   "slots": [
    "0x23f0"
   ],
@@ -490,8 +490,8 @@
  {
   "id": "s2070:009fe",
   "jp": "この人に、これ以上力を与えちゃ\nダメ……絶対に、止めないと！",
-  "en": "",
-  "status": "todo",
+  "en": "We can't let this man get any more power...\nWe have to stop him, no matter what!",
+  "status": "done",
   "slots": [
    "0x23fa"
   ],
@@ -500,8 +500,8 @@
  {
   "id": "s2070:00a3a",
   "jp": "すごいウィルっすね……。\n黄泉の国でも、これだけのウィルを\n持った人はいないっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "What an amazing Will, sir... Not even in the\nLand of the Dead is there anyone with this\nmuch Will.",
+  "status": "done",
   "slots": [
    "0x24c0"
   ],
@@ -510,8 +510,8 @@
  {
   "id": "s2070:00a8d",
   "jp": "負けられないっすね……。",
-  "en": "",
-  "status": "todo",
+  "en": "We can't lose, sir...",
+  "status": "done",
   "slots": [
    "0x24ca"
   ],
@@ -520,8 +520,8 @@
  {
   "id": "s2070:00aa6",
   "jp": "コイツが、ルキア皇国の宰相……。\n同志達の、仇！",
-  "en": "",
-  "status": "todo",
+  "en": "So this is the Lukia Empire's Chancellor...\nThe enemy of my comrades!",
+  "status": "done",
   "slots": [
    "0x2597"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2070:00ad6",
   "jp": "必ず……必ず討つ！",
-  "en": "",
-  "status": "todo",
+  "en": "I will... I will strike you down!",
+  "status": "done",
   "slots": [
    "0x25ac"
   ],
@@ -540,8 +540,8 @@
  {
   "id": "s2070:00ae9",
   "jp": "戦力は多いほうがいいな。\nよし、無駄な頭脳は抜いて、\n砲台として活用しようか。",
-  "en": "",
-  "status": "todo",
+  "en": "The more fighting strength, the better.\nYes, let's pull out that useless brain and use\nyou as a gun turret.",
+  "status": "done",
   "slots": [
    "0x2696"
   ],
@@ -550,8 +550,8 @@
  {
   "id": "s2070:00b36",
   "jp": "ガガガガ、ガガンガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagagaga, Gaganga!",
+  "status": "done",
   "slots": [
    "0x26b0"
   ],
@@ -560,8 +560,8 @@
  {
   "id": "s2070:00b4b",
   "jp": "これが、この世界最大の悪。\n諸悪の根源……！",
-  "en": "",
-  "status": "todo",
+  "en": "So this is the greatest evil in this world.\nThe root of all evil...!",
+  "status": "done",
   "slots": [
    "0x277d"
   ],
@@ -570,8 +570,8 @@
  {
   "id": "s2070:00b77",
   "jp": "なんて、\n禍々しい力なのでしょうか……。",
-  "en": "",
-  "status": "todo",
+  "en": "What a sinister power...",
+  "status": "done",
   "slots": [
    "0x2787"
   ],
@@ -580,8 +580,8 @@
  {
   "id": "s2070:00b9f",
   "jp": "貴様、裏切り者だそうだな。\nフン、ザザーランドの下につくなど\n気が知れんな。",
-  "en": "",
-  "status": "todo",
+  "en": "I hear you're a traitor. Hmph, I can't fathom\nserving under Zazarland.",
+  "status": "done",
   "slots": [
    "0x286a"
   ],
@@ -590,8 +590,8 @@
  {
   "id": "s2070:00bea",
   "jp": "僕は、彼等の意思に賛同したのだ！\nもう皇国軍には戻らない！",
-  "en": "",
-  "status": "todo",
+  "en": "I agreed with their will! I'm never going back\nto the Imperial army!",
+  "status": "done",
   "slots": [
    "0x2884"
   ],
@@ -600,8 +600,8 @@
  {
   "id": "s2070:00c24",
   "jp": "例え裏切り者と言われようとも、\n僕はルキア皇国を討つ！",
-  "en": "",
-  "status": "todo",
+  "en": "Even if they call me a traitor, I will strike\ndown the Lukia Empire!",
+  "status": "done",
   "slots": [
    "0x288e"
   ],
@@ -610,8 +610,8 @@
  {
   "id": "s2070:00c5a",
   "jp": "うわ、スゴイ覇気ね。\nなんだか自分が場違いに思えて\nきちゃうわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Wow, what an aura. Makes me feel kind of\nout of place.",
+  "status": "done",
   "slots": [
    "0x295b"
   ],
@@ -620,8 +620,8 @@
  {
   "id": "s2070:00c99",
   "jp": "船のお宝持って、\nトンズラしちゃおうかしら？",
-  "en": "",
-  "status": "todo",
+  "en": "Maybe I'll grab the ship's treasure and make\na run for it?",
+  "status": "done",
   "slots": [
    "0x2965"
   ],
@@ -630,8 +630,8 @@
  {
   "id": "s2070:00cc5",
   "jp": "いやぁ、ここまでこわ～いウィル。\nまるで伝説の魔竜みたいなんだわさ",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, such a scaaary Will. Just like a\nlegendary demon dragon, dontcha know.",
+  "status": "done",
   "slots": [
    "0x2a2b"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2070:00d07",
   "jp": "果たして、私達の中に、\n勇者様はいるのかしらねぇ？",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder if there's a hero among us, though?",
+  "status": "done",
   "slots": [
    "0x2a35"
   ],
@@ -650,8 +650,8 @@
  {
   "id": "s2070:00d39",
   "jp": "ヘッ、陰湿メガネヤローが……。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, you creepy four-eyed bastard...",
+  "status": "done",
   "slots": [
    "0x2b02"
   ],
@@ -660,8 +660,8 @@
  {
   "id": "s2070:00d58",
   "jp": "そのひん曲がった性根。\n俺が打ん殴ってやるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "That twisted nature of yours, I'll punch it\nstraight!",
+  "status": "done",
   "slots": [
    "0x2b17"
   ],
@@ -670,8 +670,8 @@
  {
   "id": "s2070:00d86",
   "jp": "力が必要なのだ！\n戦う意思すら撃ち砕く力が！\n誰も逆らえない、絶対無敵の力が！",
-  "en": "",
-  "status": "todo",
+  "en": "Power is what's needed! Power that\nshatters even the will to fight! Absolute,\ninvincible power that no one can defy!",
+  "status": "done",
   "slots": [
    "0x2cd7"
   ],
@@ -681,8 +681,8 @@
  {
   "id": "s2070:00dd7",
   "jp": "無敵の力なんて存在しねぇ！\n強ければその分、戦争は激化する\nだけだ！",
-  "en": "",
-  "status": "todo",
+  "en": "There ain't no such thing as invincible\npower! The stronger ya are, the fiercer the\nwar gets, that's all!",
+  "status": "done",
   "slots": [
    "0x2cf5"
   ],
@@ -692,8 +692,8 @@
  {
   "id": "s2070:00e1e",
   "jp": "その力を掴むまで、俺の意思は\n死なない！",
-  "en": "",
-  "status": "todo",
+  "en": "Until I seize that power, my will shall not\ndie!",
+  "status": "done",
   "slots": [
    "0x2d0e"
   ],
@@ -703,8 +703,8 @@
  {
   "id": "s2070:00e4a",
   "jp": "逃げやがったか……！\n追うぞ、お前ら！",
-  "en": "",
-  "status": "todo",
+  "en": "He ran for it...! After him, you lot!",
+  "status": "done",
   "slots": [
    "0x33df"
   ],
@@ -714,8 +714,8 @@
  {
   "id": "s2070:00e74",
   "jp": "そうは……行きません。",
-  "en": "",
-  "status": "todo",
+  "en": "I won't... let you.",
+  "status": "done",
   "slots": [
    "0x33f7"
   ],
@@ -725,8 +725,8 @@
  {
   "id": "s2070:00e8f",
   "jp": "何故止める。\nお前らだって、ルキア皇国を倒す\nのが目的なんだろ",
-  "en": "",
-  "status": "todo",
+  "en": "Why stop us? Bringin' down the Lukia\nEmpire's your goal too, ain't it?",
+  "status": "done",
   "slots": [
    "0x34ac"
   ],
@@ -736,8 +736,8 @@
  {
   "id": "s2070:00ed0",
   "jp": "そうよ！　それなら協力だって",
-  "en": "",
-  "status": "todo",
+  "en": "That's right! Then we could work together...",
+  "status": "done",
   "slots": [
    "0x34ca"
   ],
@@ -747,8 +747,8 @@
  {
   "id": "s2070:00ef1",
   "jp": "無理よ。私は、アナタ達に協力する\nことはできないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't. I can't work with you.",
+  "status": "done",
   "slots": [
    "0x34e3"
   ],
@@ -758,8 +758,8 @@
  {
   "id": "s2070:00f29",
   "jp": "何故だ！　何故……ッ！",
-  "en": "",
-  "status": "todo",
+  "en": "Why! Why...!",
+  "status": "done",
   "slots": [
    "0x3501"
   ],
@@ -769,8 +769,8 @@
  {
   "id": "s2070:00f44",
   "jp": "犠牲にしてきた人達の為にも、\n私が彼を討たなければ。\n犠牲になった人達が、眠れないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "For the people I sacrificed, I must be the one\nto strike him down. Or the people who were\nsacrificed will never rest.",
+  "status": "done",
   "slots": [
    "0x351a"
   ],
@@ -780,8 +780,8 @@
  {
   "id": "s2070:00f9d",
   "jp": "……そうか。\n結局、キミは人の為に戦うんだな。",
-  "en": "",
-  "status": "todo",
+  "en": "...I see. In the end, you fight for other\npeople.",
+  "status": "done",
   "slots": [
    "0x3538"
   ],
@@ -791,8 +791,8 @@
  {
   "id": "s2070:00fcf",
   "jp": "そうよ。それに……。\n夫の間違いを正すのは、\n妻の役目でしょ？",
-  "en": "",
-  "status": "todo",
+  "en": "That's right. Besides... setting her\nhusband's mistakes right is a wife's job, isn't\nit?",
+  "status": "done",
   "slots": [
    "0x3551"
   ],
@@ -802,8 +802,8 @@
  {
   "id": "s2070:01010",
   "jp": "ハッ。\nそうだな……その通りだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hah. Yeah... You're right about that.",
+  "status": "done",
   "slots": [
    "0x356f"
   ],
@@ -1652,8 +1652,8 @@
  {
   "id": "s2070:0458bt",
   "jp": "エンリエッタ連合本隊",
-  "en": "",
-  "status": "todo",
+  "en": "Enryetta Main Force",
+  "status": "done",
   "at": "0x458e",
   "max": 20,
   "who": "team name"

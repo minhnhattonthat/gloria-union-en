@@ -2672,8 +2672,8 @@
  {
   "id": "s2067:03000",
   "jp": "しかし、ここに居座って早三年。\nそれも珍しく思わなくなって\nきちまったなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Still, I've been parked here three years\nalready. Even that's stopped feelin' rare to\nme.",
+  "status": "done",
   "slots": [
    "0x6088",
    "0xb55f"
@@ -2683,8 +2683,8 @@
  {
   "id": "s2067:0304b",
   "jp": "刺激が欲しいねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "I could use some excitement.",
+  "status": "done",
   "slots": [
    "0x608f",
    "0xb566"
@@ -2694,8 +2694,8 @@
  {
   "id": "s2067:0305e",
   "jp": "どっかに、見たことのねぇ\n珍魚でもいねぇかなぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ain't there some rare fish around I've never\nseen before...?",
+  "status": "done",
   "slots": [
    "0x60a7",
    "0xb57e"
@@ -2705,8 +2705,8 @@
  {
   "id": "s2067:08b20",
   "jp": "急げ！\n絶対に止まるな！",
-  "en": "",
-  "status": "todo",
+  "en": "Hurry! Don't stop for anything!",
+  "status": "done",
   "slots": [
    "0x90b0"
   ],
@@ -2716,8 +2716,8 @@
  {
   "id": "s2067:08b3c",
   "jp": "ハァ、ハァ……。\nな、なんとか振り切ったか……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hah, hah... D-did we shake 'em...?",
+  "status": "done",
   "slots": [
    "0xbdd4"
   ],
@@ -2727,8 +2727,8 @@
  {
   "id": "s2067:08b70",
   "jp": "ここはエルマーレ連合国の\n総本山よ。完全に逃げ切るには、\nここを出ないと。",
-  "en": "",
-  "status": "todo",
+  "en": "This is the Elmare Federation's\nheadquarters. To get away for good, we\nhave to get out of here.",
+  "status": "done",
   "slots": [
    "0xbded"
   ],
@@ -2738,8 +2738,8 @@
  {
   "id": "s2067:08bbd",
   "jp": "それなら、早く行きましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "Then let's go, quickly!",
+  "status": "done",
   "slots": [
    "0xbe06"
   ],
@@ -2758,8 +2758,8 @@
  {
   "id": "s2067:031b2t",
   "jp": "エンリエッタ連合本隊",
-  "en": "",
-  "status": "todo",
+  "en": "Enryetta Main Force",
+  "status": "done",
   "at": "0x31b5",
   "max": 20,
   "who": "team name"
@@ -2785,8 +2785,8 @@
  {
   "id": "s2067:08c81t",
   "jp": "エルマーレ連合軍",
-  "en": "",
-  "status": "todo",
+  "en": "Elmare Army",
+  "status": "done",
   "at": "0x8c84",
   "max": 16,
   "who": "team name"
