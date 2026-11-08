@@ -32,6 +32,12 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   - Ajo-Grafor: mad scientist, ボク, chirpy then stuttering berserk ("I'll d-d-dissect you!"); Ruru Mk-II and Gangr's
     machine lines: stilted, full stops between chunks ("Commencing. Battle."). Gangr's ガング noises keep his name: "Gagan-Gangr".
   - The Selector (crystal oracle, speaker shown as Ishut): archaic "I am the Selector... O king".
+  - Eater (speaker #15 at night): a man at night ("it's how I'm built"): rough 俺 voice, "ya", "ain't", loves "fired up",
+    "champion"; by day refined ですわ. Giselle: archaic queen (じゃ/のう: "I must ask you...", "Forgive me"), polite when broken.
+    Enryetta: calm, polite, ruthless ("a sacrifice for peace"; "the Judge"). Velgas (cyborg, #31): same rough voice; dying
+    lines broken into odd chunks.
+  - Locomoco's おねえちゃん/おにいちゃん after a name: "-oneechan" ("Raspberry-oneechan"); alone: "Big Sister" / "Big Brother".
+  - Raspberry's 課長: "my section chief" (lowercase).
 - Groups suffixes on unit names: 〜団 (a crew/gang) -> "<Name> Crew"; 〜隊 (a squad) -> "<Name> Unit".
 - Katakana doubles of kanji unit names (コウコク兵 = 皇国兵) are the same word: translate them the same or as a
   plural.
@@ -101,11 +107,17 @@ Spellings below are official: the game's own name plates (ids 1534-1580, crests 
 | ストレガッタ | Stregatta | | region, World Tree | |
 | ラッタートチェレステビーチ | Lattato Celeste Beach | | | |
 | ニンフェッタ海岸 | Nymphetta Coast | | | |
+| 麗水都市 / 腐海 | City of Fair Waters / Rotting Sea | | Chantier | |
+| コンチェル地域 | Concer region | | music land (2060) | |
+| 舞踏都市ワルツ | Dance City Waltz | | Tracey's home island (2065); plate b00x | |
+| 救済都市エゴン | Salvation City Egon | | plate b00x | |
+| ギイセ | Giise | | 2067 NPC | |
 
 ## Items / skills / terms
 Item names fit 134 px of font 2 (~17 letters, EXTRA item page): the item batches b005/b006 hold the binding names.
 Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "Fire Dragon Castle" (Fire Castle Shard),
-風神の道 "Wind God's Road" (Wind Road Shard), 大地の槍 "Earth Spear" (Earth Spear Shard). Tracey's nickname 開発者 = "the Developer".
+風神の道 "Wind God's Road" (Wind Road Shard), 大地の槍 "Earth Spear" (Earth Spear Shard), 光の海域 "Sea of Light"
+(Light Sea Shard; Elmare Federation HQ). 屍兵 (Rogan's) "undead soldiers" (unit name: Undead). Tracey's nickname 開発者 = "the Developer".
 
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
@@ -133,6 +145,13 @@ Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "
 | 一番隊 / 三番隊 | First Unit / Third Unit | | Lukia Imperial Knights; Garm "the Divine Spear", Melanie "the Guardian" | |
 | スターダスト / ダークマター | Stardust / Dark Matter | | ores | |
 | 魔水晶 | magic crystal | | ore | |
+| ウンディーネ | Undine | | Fiebee's race; Giselle = their first mother (始祖) | |
+| ダイヤモンドダスト | Diamond Dust | | Giselle's skill | |
+| ホーリー | Holy | | light card | |
+| キスオブデス | Kiss of Death | | card | |
+| 反皇国連合 / 総裁 | Anti-Imperial Federation / President | | = Elmare Federation; Enryetta | |
+| 審判者 | the Judge | | what Enryetta means to become | |
+| オルディーン | Ordene | | Yggdra's father (Yggdra Union USA) | |
 
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)

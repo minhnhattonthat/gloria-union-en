@@ -67,3 +67,25 @@ b072-b082) hold tutorial and shared talk.
 - **2057:** Kamuru, loud rookie knight, loses, is condemned by Melanie, defects; makes Elisha his "Master".
 - **2058:** Pamela (same homeland as Locomoco, magic, "dontcha know") joins for ruin shards. Rogan returns.
 - **2059:** Beach episode at Lattato Celeste; Elisha and Anne team up against Rogan's pestering.
+
+## Chapter 5 (2060-2067, translated session 11)
+- **2060:** Concer region (music everywhere). Eater, a "wandering bard" (refined by day), stages a fake rescue with a
+  hired thug to find strong people for her songs; **at night she turns into a man** (rough voice, speaker #15). Joins.
+- **2061:** The Rotting Sea, Chantier. Queen Giselle (first mother of the Undines, 100 years at war) was promised peace
+  by the Empire if she destroys the Gloria; freezes the sea (Diamond Dust). Beaten, she learns the Empire suddenly grew
+  stronger in recent years (hidden from its own soldiers); the crew sends her to the Elmare Federation. Running joke:
+  Pinger's "sea bream and flounder dancing" (Urashima Taro) eaten alive.
+- **2062:** Bassofondo, front line of a revolt against Lukia; food rationed by battle honours, so the townsfolk hate the
+  crew for "stealing" their victory. Mayor Saeed fights with a bone through his skin. A ruin shard in the sand: the war
+  is a cover for taking the fire Crystal (Fire Dragon Castle). Ishut "isn't strong enough to change the rules yet".
+- **2063:** Ghosts after a pendant; Elisha gives hers to a gentle ghost and gets a holy keepsake.
+- **2064:** Tracey's island. Rogan's "benefactor" = Tracey (failed resurrection alchemy that blew ten corpses apart); Rogan
+  fades for good (Raspberry's job done). Cyborg Velgas powered by the wind/earth card; Zazarland tells Ishut to follow his
+  own will; Ishut fights Velgas, both cry, Velgas dies ("I'll go on ahead"). Pinger vows to kill Tracey.
+- **2065:** Dance City Waltz. Tracey was a small-town doctor; her failed cure-all killed the children who called her
+  "Doctor"; she dies hoping to see their smiles. Anne: same orphanage, 20 years ago. Ruru: Velgas's "other Will" was hers;
+  rebuilt not by Tracey but by Lukia, says **Enryetta, President of the Anti-Imperial (Elmare) Federation: Elisha's mother**,
+  Zazarland's ex (her photo in his room).
+- **2067:** Federation HQ, the Sea of Light (ruin of light). Ishut unseals the light card "Holy"; Enryetta steals it and
+  attacks with Giselle ("a sacrifice for peace", she'll be "the Judge"). Giselle dies to be reborn as a baby; Fiebee
+  keeps Chantier ("Our will lies in Chantier"). Anyone can use a card; only Ishut can unseal; Enryetta's Will is abnormal.
