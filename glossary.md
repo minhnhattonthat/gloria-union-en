@@ -158,7 +158,7 @@ Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "
 | 審判者 | the Judge | | what Enryetta means to become | |
 | オルディーン | Ordene | | Yggdra's father (Yggdra Union USA) | |
 | メギド | Megiddo | | dark card (Gariored, then Ashrey) | Megido |
-| グランドスピアー | Grand Spear | | earth card | |
+| グランドスピアー | Ground Spear | | earth card; official: EXTRA card page art (2430 PTG) | Grand Spear |
 | 闇の邪域 | Dark Realm | | ruin of darkness under the Imperial castle; item: Dark Realm Shard | |
 | 宰相 | Chancellor | | Gariored | |
 | シンフォニア (Ruru) | Symphonia | | Ruru's "official designation" (2068) | |
@@ -212,7 +212,7 @@ of the Ashes, 告死天使キュルケ Grim Angel Kirke; Blaze Union's own: 狂�
 | アンタレス | Antares | | | |
 | ベルリッケ | Berricke | | 渡し守 = the Ferryman | |
 | カレイドス | Kaleidos | | 魔性の鏡 = the Bewitching Mirror | |
-| コウアレス | Cowardless | | reading unsure | |
+| コウアレス | Coalesce | | official: EXTRA card page art (2430 PTG) | Cowardless |
 | メデューテ | Medute | | reading unsure | |
 | 愛の貝殻 | Shells of Love | | item (b015) | |
 | 愛の紹介状 | Love Referral | | item | |

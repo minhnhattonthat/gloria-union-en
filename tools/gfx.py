@@ -1107,6 +1107,67 @@ asset("cards_medium", 2419, "ptx", 0x59b0, (0, 0, 160, 485),
 asset("cards_large", 2419, "ptx", 0xf380, (0, 0, 320, 420),
       lambda a, t: draw_card_names(a, 0x2c9ce2, 39, 19, "LiberationSans-BoldItalic.ttf", 2, True))
 
+# EXTRA card page: the developer's English card names, drawn faded behind the card art (2433 PTX 50 and 51: two columns
+# of 161x30 cells, 10 rows, cards 1-39 in order). Yggdra Union (USA) spellings outrank them (glossary), so the cells
+# whose name differs from the text's are redrawn in the sheet's style: one gold, sentence case, serif, baseline y 22.
+EX_CARD_ART = ["Make doll", "Necro gate", "Medusa eye", "Poison breath", "Gravity chaos", "Item break", "Steal",
+               "Bloody claw", "Chariot", "Shield barrier", "Flame", "Blizzard", "Thunder bolt", "Banish",
+               "Dragon killer", "Earthquake", "Mind change", "Revolution", "Jihad", "Sanctuary", "Refreshment",
+               "Kiss of death", "Fortune", "Mirage", "Banshee's cry", "Ivy whip", "Sand storm", "Mantrap", "Rock fall",
+               "Ace guard", "Genocide", "Reincarnation", "Revellion", "Oblivious dawn", "Coma karma", "Judgment zero",
+               "Rauher", "Insanity", "Vise"]
+
+
+def ex_card_redraws(first):
+    """{cell: sentence-case English} for the 20 cells of the sheet starting at card `first` (0 or 20)."""
+    out = {}
+    for i, (old, en) in enumerate(zip(EX_CARD_ART[first:first + 20], card_names()[first:first + 20])):
+        en = en[0] + en[1:].lower()
+        if en != old:
+            out[i] = en
+    return out
+
+
+def draw_ex_card_art(a, first):
+    out, ink = a.copy(), tuple(int(v) for v in a[a[..., 3] == 255][0])
+    for i, en in ex_card_redraws(first).items():
+        x, y = 161 * (i // 10), 30 * (i % 10)
+        out[y:y + 30, x:x + 161] = 0
+        f = font("LiberationSerif-Regular.ttf", 30)
+        w = f.getbbox(en, anchor="ls")[2] + 2
+        im = Image.new("RGBA", (w, 30), (0, 0, 0, 0))
+        ImageDraw.Draw(im).text((0, 22), en, font=f, fill=ink, anchor="ls")
+        if w > 160:   # shortcut: squeeze, no smaller size; fine while the longest is "Angelic thunder"
+            im = im.resize((160, 30), Image.LANCZOS)
+        lay = np.array(im)
+        lay[lay[..., 3] < 24] = 0
+        out[y:y + 30, x:x + lay.shape[1]] = lay
+    return out
+
+
+def draw_ex_card_plate(a, text):
+    """2430 PTGs 3-50: the faded card name the EXTRA card page shows (grey condensed sans, one alpha ramp, ink from x 1,
+    baseline row 31). Sans Regular squeezed to the width the original "Make Doll" has at the same cap height."""
+    f = font("LiberationSans-Regular.ttf", 42)
+    xs = 114 / f.getbbox("Make Doll", anchor="ls")[2]
+    w = int(f.getbbox(text, anchor="ls")[2] * xs) + 3
+    im = Image.new("RGBA", (int(w / xs) + 4, a.shape[0]), (0, 0, 0, 0))
+    ImageDraw.Draw(im).text((0, 32), text, font=f, fill=(147, 147, 148, 255), anchor="ls")
+    lay = np.array(im.resize((w, a.shape[0]), Image.LANCZOS))
+    lay[lay[..., 3] < 24] = 0
+    out = np.zeros((a.shape[0], max(a.shape[1], w + 1), 4), np.uint8)
+    out[:, 1:1 + w] = lay
+    return out
+
+
+# card plates whose art name differs from the text's (Yggdra Union USA spellings): PTG offset in 2430 -> card number
+for _o, _c in ((0x11240, 1), (0x172a0, 13), (0x1e490, 29)):
+    asset(f"ex_plate{_c}", 2430, "ptg", _o, (0, 0, 512, 512),
+          lambda a, t, c=_c: draw_ex_card_plate(a, card_names()[c - 1]), resize=True)
+
+asset("ex_card_art1", 2433, "ptx", 0x1a1330, (0, 0, 322, 300), lambda a, t: draw_ex_card_art(a, 0))
+asset("ex_card_art2", 2433, "ptx", 0x1ae750, (0, 0, 322, 300), lambda a, t: draw_ex_card_art(a, 20))
+
 
 # --- status screen (id 3) -------------------------------------------------------------------------------------------
 

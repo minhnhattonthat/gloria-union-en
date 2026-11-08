@@ -234,7 +234,7 @@
  {
   "id": "e:2524b8",
   "jp": "騎馬タイプのみ",
-  "en": "Cavalry Types only",
+  "en": "Cavalry types only",
   "status": "done",
   "slots": [
    "w:2bca90"

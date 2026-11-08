@@ -102,7 +102,7 @@ b072-b082) hold tutorial and shared talk.
   the sword) burns Gariored with Volcanon: "Thank you for raising me. I've wanted to kill you for a long time."
 - **2072-2073:** Imperial castle (= Dark Realm, a castle-city). Ashrey wants only "euphoria" (the meaning of Euforia).
   Garm and Melanie die for him. Euforia rises; Ashrey awakens Symphonia (Ruru) and takes the cards.
-- **2074:** Symphonia installs five cards (Tidal Wave, Volcanon, Grand Spear, Burst Wing, Holy); Ishut knocks her back
+- **2074:** Symphonia installs five cards (Tidal Wave, Volcanon, Ground Spear, Burst Wing, Holy); Ishut knocks her back
   to normal ("1+1?" "A window!"); she gives him the cards.
 - **2075:** Kyra, genderless ancient (scythe), made Ruru and the cards and sealed Euforia (fell ~1000 years ago when the
   world's Will ran dry); the two royal swords are the keys. Manta mural: the "Bearer to the Heavens" speaks to Ishut.

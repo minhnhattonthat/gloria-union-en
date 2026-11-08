@@ -785,7 +785,7 @@
  {
   "id": "e:2bcf03",
   "jp": "グランドスピアー",
-  "en": "Grand Spear",
+  "en": "Ground Spear",
   "status": "done",
   "slots": [
    "w:2bd1b8"
@@ -830,7 +830,7 @@
  {
   "id": "e:2bcf44",
   "jp": "コウアレス",
-  "en": "Cowardless",
+  "en": "Coalesce",
   "status": "done",
   "slots": [
    "w:2bd1f4"

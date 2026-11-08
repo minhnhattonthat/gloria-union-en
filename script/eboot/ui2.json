@@ -4231,7 +4231,7 @@
  {
   "id": "e:25742c",
   "jp": "重装備可能な男性",
-  "en": "Men who can\nwear heavy gear",
+  "en": "Heavy-gear men",
   "status": "done",
   "slots": [
    "w:2ca5c0"
@@ -4411,7 +4411,7 @@
  {
   "id": "e:257580",
   "jp": "騎馬・水棲タイプ以外",
-  "en": "Not cavalry or\naquatic types",
+  "en": "No cavalry or aquatic",
   "status": "done",
   "slots": [
    "w:2ca610"
@@ -4420,7 +4420,7 @@
  {
   "id": "e:257598",
   "jp": "騎馬タイプのみ",
-  "en": "Cavalry Types only",
+  "en": "Cavalry types only",
   "status": "done",
   "slots": [
    "w:2ca614"
@@ -4447,7 +4447,7 @@
  {
   "id": "e:2575c4",
   "jp": "甘系が苦手でない人",
-  "en": "Those who don't\nmind sweets",
+  "en": "Sweets lovers",
   "status": "done",
   "slots": [
    "w:2ca620"
@@ -4519,7 +4519,7 @@
  {
   "id": "e:257650",
   "jp": "派手なものが好きな人",
-  "en": "Those who like\nflashy things",
+  "en": "Lovers of flashy things",
   "status": "done",
   "slots": [
    "w:2ca640"
@@ -4537,7 +4537,7 @@
  {
   "id": "e:257674",
   "jp": "牛乳嫌いな人以外",
-  "en": "Anyone who\ndoesn't hate milk",
+  "en": "Milk drinkers",
   "status": "done",
   "slots": [
    "w:2ca648"
@@ -4933,7 +4933,7 @@
  {
   "id": "e:257994",
   "jp": "グランドスピアー",
-  "en": "Grand Spear",
+  "en": "Ground Spear",
   "status": "done",
   "slots": [
    "w:2ca9c4"
@@ -4978,7 +4978,7 @@
  {
   "id": "e:2579e0",
   "jp": "コウアレス",
-  "en": "Cowardless",
+  "en": "Coalesce",
   "status": "done",
   "slots": [
    "w:2ca9d8"

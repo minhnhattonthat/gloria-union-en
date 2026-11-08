@@ -101,6 +101,8 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | id 2430 +28f00, +2aed0, +2e7d0, +30b10, +37bf0 | EXTRA menu: gallery labels, names, CONTENTS, グロリア新海記 | yes (done, sessions 37-38) | PTX |
 | id 2432 +49400..+5d130 | music titles ♪ 怒れる炎..., 12 | **unused** (session 38) | PTG |
 
+**EXTRA card page names (session 39):** the faded name behind the card art is 2430 PTG 3-50 (`ptg_list.py 2430`: grey condensed sans, 48 names in EXTRA list order, cards ジハード, ジェノサイド, リィンカーネーション, リヴェリオン, ラウーガー are not in that list; PTG 1 "No Data"). English already; plates redrawn only where the script's name differs (`ex_plate*`, D16). 2433 PTX 50/51 (352x300) is a second, serif list of cards 1-39 (redrawn the same way, `ex_card_art1/2`), PTX 49 a Japanese name list and 52-54 Japanese effect/condition sheets: none seen on any screen yet (the card Back tab draws its lines as text), probably leftovers like those below. 2434 is ADX audio (card voices: "(c)CRI" sections), no images. Textures in RAM have their PTX@ header stripped by the loader: `ptx.scan` on a RAM dump finds only raw files still in memory, so find a screen's texture by file (`ptg_list.py`) rather than in RAM.
+
 **Unused prototype leftovers (session 38, `tools/ptg_list.py 2430|2432 --sheet`):** 2430 PTGs 51-110 (125x16, item conditions)
 and 111-259 (127x15, item/card effects), 260-330 (200x16, scene titles), all 62 PTGs of 2432 (130x24, ♪ music titles). The
 screens draw the same lines as EBOOT strings (EXTRA item Data tab: conditions `0x2f7f00` table and effects as text, seen in
