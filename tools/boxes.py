@@ -222,6 +222,8 @@ def classes():
 SPLITS = {0x2ef27c: 'unit name records (0x2ee82c, 12 bytes, HUD) end; a 4-byte place list follows (fight screen '
                     'place bar, e:2816e4 seen in 1/15/20/1)',
           0x2eda40: "the game's own storage messages (window) end; PSP system dialog messages follow (SOURCE 'sys')",
+          0x2c96a8: 'card character lines (■name, seen in the 1-row card data ticker 2/15/376/1) end; card effect '
+                    'detail lines (■Power=..., card data effect lines 2/15/14/2) follow',
           0x2ca150: 'card skill effects (seen only in the card select bottom 2/22/14/2) end; skill use conditions '
                     '(Info bar 2/13/14/1, e:25704c) follow'}
 
@@ -309,6 +311,8 @@ def budget(entry, _cache={}):
     for (px, lines, how), k in cand:
         if best is None or px < best[0]:
             best = (px, lines, k, how.startswith('measured') and (seen or k in GROUPS or k in rc))
+    if best:   # the fewest lines of any window it is drawn in (a 1-line tag and a 5-line list: 1 line)
+        best = (best[0], min(c[0][1] for c in cand), *best[2:])
     return best
 
 

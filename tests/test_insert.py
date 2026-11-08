@@ -49,7 +49,8 @@ def test_scripts_point_at_markers(marker):
         for x in entries:
             if 'at' in x:
                 at, mx = int(x['at'], 16), x['max']
-                assert new[at:at + mx].rstrip(b'\0') == from_text(insert.marker(x))[:mx].rstrip(b'\0')
+                # op 0x74 skips strlen bytes, so the in-place string keeps its exact length (space padded)
+                assert cstr(new, at) == from_text(insert.marker(x))[:mx].ljust(mx, b' '), x['id']
                 continue
             for s in x['slots']:
                 p = struct.unpack_from('<I', new, int(s, 16))[0]

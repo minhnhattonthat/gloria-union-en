@@ -647,7 +647,7 @@
  {
   "id": "e:2552c8",
   "jp": "全属性攻撃無効",
-  "en": "Nullifies all\nelements",
+  "en": "Nullifies elements",
   "status": "done",
   "slots": [
    "w:2c8e40"
@@ -701,7 +701,7 @@
  {
   "id": "e:255328",
   "jp": "全属性攻撃に弱い",
-  "en": "Weak to all\nelements",
+  "en": "Weak to elements",
   "status": "done",
   "slots": [
    "w:2c8e70"
@@ -773,7 +773,7 @@
  {
   "id": "e:2553ac",
   "jp": "雷撃以外を無効",
-  "en": "Nullifies all but\nlightning",
+  "en": "Null all but lightning",
   "status": "done",
   "slots": [
    "w:2c8eb0"
@@ -818,7 +818,7 @@
  {
   "id": "e:2553fc",
   "jp": "雷撃以外に弱い",
-  "en": "Weak to all but\nlightning",
+  "en": "Weak save lightning",
   "status": "done",
   "slots": [
    "w:2c8ed8"
@@ -836,7 +836,7 @@
  {
   "id": "e:25541c",
   "jp": "暗黒以外に弱い",
-  "en": "Weak to all but\ndark",
+  "en": "Weak but to dark",
   "status": "done",
   "slots": [
    "w:2c8ee8"
@@ -890,7 +890,7 @@
  {
   "id": "e:25548c",
   "jp": "グリフライダーに強い",
-  "en": "Strong vs Griffon\nRiders",
+  "en": "Strong vs Griffons",
   "status": "done",
   "slots": [
    "w:2c8f18"
@@ -917,7 +917,7 @@
  {
   "id": "e:2554c8",
   "jp": "ネクロマンサーに強い",
-  "en": "Strong vs\nNecromancers",
+  "en": "Strong vs Necros",
   "status": "done",
   "slots": [
    "w:2c8f30"
@@ -944,7 +944,7 @@
  {
   "id": "e:255500",
   "jp": "スケルトンに強い",
-  "en": "Strong vs\nSkeletons",
+  "en": "Beats Skeletons",
   "status": "done",
   "slots": [
    "w:2c8f48"
@@ -1007,7 +1007,7 @@
  {
   "id": "e:255588",
   "jp": "グリフライダーに弱い",
-  "en": "Weak vs Griffon\nRiders",
+  "en": "Weak vs Griffons",
   "status": "done",
   "slots": [
    "w:2c8f80"
@@ -1034,7 +1034,7 @@
  {
   "id": "e:2555c4",
   "jp": "ネクロマンサーに弱い",
-  "en": "Weak vs\nNecromancers",
+  "en": "Weak vs Necros",
   "status": "done",
   "slots": [
    "w:2c8f98"
@@ -1133,7 +1133,7 @@
  {
   "id": "e:255684",
   "jp": "毒沼地形が得意",
-  "en": "Good in Poison\nSwamp",
+  "en": "Good in Swamp",
   "status": "done",
   "slots": [
    "w:2c8ff0"
@@ -1142,7 +1142,7 @@
  {
   "id": "e:255694",
   "jp": "海、水辺地形が得意",
-  "en": "Good on Sea,\nWaterside",
+  "en": "Good on sea, shore",
   "status": "done",
   "slots": [
    "w:2c8ff8"
@@ -1241,7 +1241,7 @@
  {
   "id": "e:255748",
   "jp": "毒沼地形が苦手",
-  "en": "Bad in Poison\nSwamp",
+  "en": "Poison Swamp: bad",
   "status": "done",
   "slots": [
    "w:2c9050"
@@ -1250,7 +1250,7 @@
  {
   "id": "e:255758",
   "jp": "海、水辺地形が苦手",
-  "en": "Bad on Sea,\nWaterside",
+  "en": "Bad on sea, shore",
   "status": "done",
   "slots": [
    "w:2c9058"
@@ -1313,7 +1313,7 @@
  {
   "id": "e:2557d4",
   "jp": "移動タイプが転移に",
-  "en": "Move type:\nTeleport",
+  "en": "Moves by Teleport",
   "status": "done",
   "slots": [
    "w:2c9090"
@@ -1322,7 +1322,7 @@
  {
   "id": "e:2557e8",
   "jp": "移動タイプが竜騎に",
-  "en": "Move type: Dragon\nRider",
+  "en": "Move: Dragon Rider",
   "status": "done",
   "slots": [
    "w:2c9098"
@@ -1349,7 +1349,7 @@
  {
   "id": "e:255824",
   "jp": "毒沼地形を無効化",
-  "en": "Ignores Poison\nSwamp",
+  "en": "Poison Swamp: safe",
   "status": "done",
   "slots": [
    "w:2c90b0"
@@ -1358,7 +1358,7 @@
  {
   "id": "e:255838",
   "jp": "オブジェクト破壊可",
-  "en": "Can destroy\nobjects",
+  "en": "Can break objects",
   "status": "done",
   "slots": [
    "w:2c90b8"
@@ -1394,7 +1394,7 @@
  {
   "id": "e:25588c",
   "jp": "全地形効果を０％",
-  "en": "All terrain effects\n0%",
+  "en": "No terrain effects",
   "status": "done",
   "slots": [
    "w:2c90d8"
@@ -1403,7 +1403,7 @@
  {
   "id": "e:2558a0",
   "jp": "相手の地形効果０％",
-  "en": "Foe's terrain\neffect 0%",
+  "en": "Foe's terrain 0%",
   "status": "done",
   "slots": [
    "w:2c90e0"
@@ -1475,7 +1475,7 @@
  {
   "id": "e:25590c",
   "jp": "必ずエースになれる",
-  "en": "Always becomes\nthe Ace",
+  "en": "Always the Ace",
   "status": "done",
   "slots": [
    "w:2c9120"
@@ -1484,7 +1484,7 @@
  {
   "id": "e:255920",
   "jp": "連戦ハンデなし",
-  "en": "No Back-to-Back\nHandicap",
+  "en": "No Back-to-Back",
   "status": "done",
   "slots": [
    "w:2c9128"
@@ -1520,7 +1520,7 @@
  {
   "id": "e:255974",
   "jp": "同ダメージで反撃",
-  "en": "Counters for equal\ndamage",
+  "en": "Counters in kind",
   "status": "done",
   "slots": [
    "w:2c9148"
@@ -1547,7 +1547,7 @@
  {
   "id": "e:2559a8",
   "jp": "突撃を完全ガード",
-  "en": "Fully guards\ncharges",
+  "en": "Blocks all charges",
   "status": "done",
   "slots": [
    "w:2c9160"
@@ -1556,7 +1556,7 @@
  {
   "id": "e:2559bc",
   "jp": "投石と支援砲撃をガード",
-  "en": "Guards rocks and\nbombards",
+  "en": "Blocks rocks, shells",
   "status": "done",
   "slots": [
    "w:2c9168"
@@ -1565,7 +1565,7 @@
  {
   "id": "e:2559d4",
   "jp": "反撃を完全ガード",
-  "en": "Fully guards\ncounters",
+  "en": "Blocks all counters",
   "status": "done",
   "slots": [
    "w:2c9170"
@@ -1601,7 +1601,7 @@
  {
   "id": "e:255a24",
   "jp": "反撃不可",
-  "en": "Can't\ncounterattack",
+  "en": "Can't counter",
   "status": "done",
   "slots": [
    "w:2c9190"
@@ -1637,7 +1637,7 @@
  {
   "id": "e:255a68",
   "jp": "ゲージ／レート高速蓄積",
-  "en": "Gauge/Rate fill\nfast",
+  "en": "Fast Gauge/Rate",
   "status": "done",
   "slots": [
    "w:2c91b0"
@@ -1673,7 +1673,7 @@
  {
   "id": "e:255ab0",
   "jp": "スキル持続時間２倍",
-  "en": "Skills last twice as\nlong",
+  "en": "Skills last 2x longer",
   "status": "done",
   "slots": [
    "w:2c91d0"
@@ -1682,7 +1682,7 @@
  {
   "id": "e:255ac4",
   "jp": "どこでも地形スキル",
-  "en": "Terrain skills\nanywhere",
+  "en": "Terrain skill: any",
   "status": "done",
   "slots": [
    "w:2c91d8"
@@ -1691,7 +1691,7 @@
  {
   "id": "e:255ad8",
   "jp": "海、水辺で地形スキル可",
-  "en": "Terrain skills on\nsea, shore",
+  "en": "Terrain skill at sea",
   "status": "done",
   "slots": [
    "w:2c91e0"
@@ -1718,7 +1718,7 @@
  {
   "id": "e:255b1c",
   "jp": "全属性攻撃力絶大",
-  "en": "Huge power, all\nelements",
+  "en": "All elements: huge",
   "status": "done",
   "slots": [
    "w:2c91f8"
@@ -1790,7 +1790,7 @@
  {
   "id": "e:255bb8",
   "jp": "相手が必ず猛反撃",
-  "en": "Foe always\ncounters hard",
+  "en": "Foe counters hard",
   "status": "done",
   "slots": [
    "w:2c9238"
@@ -1799,7 +1799,7 @@
  {
   "id": "e:255bcc",
   "jp": "ステータス異常回復",
-  "en": "Cures status\nailments",
+  "en": "Cures ailments",
   "status": "done",
   "slots": [
    "w:2c9240"
@@ -1844,7 +1844,7 @@
  {
   "id": "e:255c30",
   "jp": "勝利で士気吸収",
-  "en": "Absorb morale on\nwins",
+  "en": "Win: absorb morale",
   "status": "done",
   "slots": [
    "w:2c9268"
@@ -1863,7 +1863,7 @@
  {
   "id": "e:255c54",
   "jp": "確実に戦利品出現",
-  "en": "Loot always\nappears",
+  "en": "Always drops loot",
   "status": "done",
   "slots": [
    "w:2c9278"
@@ -1917,7 +1917,7 @@
  {
   "id": "e:255cbc",
   "jp": "徐々に士気回復",
-  "en": "Morale recovers\nslowly",
+  "en": "Morale slowly rises",
   "status": "done",
   "slots": [
    "w:2c92a8"
@@ -1926,7 +1926,7 @@
  {
   "id": "e:255ccc",
   "jp": "少しずつ士気回復",
-  "en": "Morale recovers a\nlittle",
+  "en": "Morale rises a bit",
   "status": "done",
   "slots": [
    "w:2c92b0"
@@ -1935,7 +1935,7 @@
  {
   "id": "e:255ce0",
   "jp": "海、水辺で士気回復",
-  "en": "Morale up on sea,\nshore",
+  "en": "Morale up at sea",
   "status": "done",
   "slots": [
    "w:2c92b8"
@@ -1944,7 +1944,7 @@
  {
   "id": "e:255cf4",
   "jp": "劣勢で士気回復",
-  "en": "Morale up when\nlosing",
+  "en": "Losing: morale up",
   "status": "done",
   "slots": [
    "w:2c92c0"
@@ -1953,7 +1953,7 @@
  {
   "id": "e:255d04",
   "jp": "少しずつ士気低下",
-  "en": "Morale drops little\nby little",
+  "en": "Morale slowly falls",
   "status": "done",
   "slots": [
    "w:2c92c8"
@@ -1962,7 +1962,7 @@
  {
   "id": "e:255d18",
   "jp": "移動で士気回復",
-  "en": "Morale up when\nmoving",
+  "en": "Moving: morale up",
   "status": "done",
   "slots": [
    "w:2c92d0"
@@ -1971,7 +1971,7 @@
  {
   "id": "e:255d28",
   "jp": "移動で士気低下",
-  "en": "Morale down when\nmoving",
+  "en": "Move: morale down",
   "status": "done",
   "slots": [
    "w:2c92d8"
@@ -1980,7 +1980,7 @@
  {
   "id": "e:255d38",
   "jp": "夜間移動で士気回復",
-  "en": "Morale up moving\nat night",
+  "en": "Night walk +morale",
   "status": "done",
   "slots": [
    "w:2c92e0"
@@ -1989,7 +1989,7 @@
  {
   "id": "e:255d4c",
   "jp": "夕方移動で士気回復",
-  "en": "Morale up moving\nat dusk",
+  "en": "Dusk walk +morale",
   "status": "done",
   "slots": [
    "w:2c92e8"
@@ -1998,7 +1998,7 @@
  {
   "id": "e:255d60",
   "jp": "昼間移動で士気回復",
-  "en": "Morale up moving\nby day",
+  "en": "Day walk +morale",
   "status": "done",
   "slots": [
    "w:2c92f0"
@@ -2052,7 +2052,7 @@
  {
   "id": "e:255dd8",
   "jp": "食べて何かがアップ",
-  "en": "Eat: something\ngoes up",
+  "en": "Eat: a stat goes up",
   "status": "done",
   "slots": [
    "w:2c9320"
@@ -2106,7 +2106,7 @@
  {
   "id": "e:255e4c",
   "jp": "装備変更不可",
-  "en": "Can't change\nequipment",
+  "en": "Can't change gear",
   "status": "done",
   "slots": [
    "w:2c9350"
@@ -2115,7 +2115,7 @@
  {
   "id": "e:255e5c",
   "jp": "ドラゴンナイトになる",
-  "en": "Become a Dragon\nKnight",
+  "en": "Be a Dragon Knight",
   "status": "done",
   "slots": [
    "w:2c9358"
@@ -2124,7 +2124,7 @@
  {
   "id": "e:255e74",
   "jp": "士気回復専用",
-  "en": "Morale restore\nonly",
+  "en": "For morale only",
   "status": "done",
   "slots": [
    "w:2c9360"
@@ -2133,7 +2133,7 @@
  {
   "id": "e:255e84",
   "jp": "カード事典開覧可",
-  "en": "Unlocks Card\nEncyclopedia",
+  "en": "Card Encyclopedia",
   "status": "done",
   "slots": [
    "w:2c9368"
@@ -2151,7 +2151,7 @@
  {
   "id": "e:255eac",
   "jp": "アイテム図鑑閲覧可",
-  "en": "Unlocks Item\nEncyclopedia",
+  "en": "Item Encyclopedia",
   "status": "done",
   "slots": [
    "w:2c9378"
@@ -2160,7 +2160,7 @@
  {
   "id": "e:255ec0",
   "jp": "キャライラスト閲覧可",
-  "en": "Unlocks Character\nArt",
+  "en": "Character Art",
   "status": "done",
   "slots": [
    "w:2c9380"
@@ -2169,7 +2169,7 @@
  {
   "id": "e:255ed8",
   "jp": "グロリア航海記閲覧可",
-  "en": "Unlocks Gloria\nLogbook",
+  "en": "Gloria Logbook",
   "status": "done",
   "slots": [
    "w:2c9388"
@@ -2178,7 +2178,7 @@
  {
   "id": "e:255ef0",
   "jp": "集落破壊可能",
-  "en": "Can destroy\nvillages",
+  "en": "Destroys villages",
   "status": "done",
   "slots": [
    "w:2c9390"
@@ -2187,7 +2187,7 @@
  {
   "id": "e:255f00",
   "jp": "アイテム奪われない",
-  "en": "Items can't be\nstolen",
+  "en": "Can't be robbed",
   "status": "done",
   "slots": [
    "w:2c9398"
@@ -2196,7 +2196,7 @@
  {
   "id": "e:255f14",
   "jp": "地形の影響なし",
-  "en": "Unaffected by\nterrain",
+  "en": "Ignores terrain",
   "status": "done",
   "slots": [
    "w:2c93a0"
@@ -2223,7 +2223,7 @@
  {
   "id": "e:255f4c",
   "jp": "特定アイテムの情報",
-  "en": "Info on a certain\nitem",
+  "en": "Hint about an item",
   "status": "done",
   "slots": [
    "w:2c93b8"
@@ -2268,7 +2268,7 @@
  {
   "id": "e:255fa4",
   "jp": "常にゲージ減少",
-  "en": "Gauge always\ndrains",
+  "en": "Gauge always falls",
   "status": "done",
   "slots": [
    "w:2c93e8"
@@ -2277,7 +2277,7 @@
  {
   "id": "e:255fb4",
   "jp": "常時Ｒａｇｅ以上",
-  "en": "Always Rage or\nhigher",
+  "en": "Always at Rage+",
   "status": "done",
   "slots": [
    "w:2c93f0"
@@ -2367,7 +2367,7 @@
  {
   "id": "e:25607c",
   "jp": "一定確率で士気回復",
-  "en": "Morale up by\nchance",
+  "en": "Chance: morale up",
   "status": "done",
   "slots": [
    "w:2c9440"
@@ -2376,7 +2376,7 @@
  {
   "id": "e:256090",
   "jp": "街道・架橋地形が得意",
-  "en": "Good on Road,\nBridge",
+  "en": "Road, Bridge: good",
   "status": "done",
   "slots": [
    "w:2c9448"
@@ -2385,7 +2385,7 @@
  {
   "id": "e:2560a8",
   "jp": "銃突撃を完全ガード",
-  "en": "Fully guards gun\ncharges",
+  "en": "Blocks gun charges",
   "status": "done",
   "slots": [
    "w:2c9450"
@@ -2394,7 +2394,7 @@
  {
   "id": "e:2560bc",
   "jp": "強攻撃ダメージ補正",
-  "en": "Strong Attack\ndamage up",
+  "en": "Strong Attack+",
   "status": "done",
   "slots": [
    "w:2c9458"
@@ -2403,7 +2403,7 @@
  {
   "id": "e:2560d0",
   "jp": "強攻撃の頻度が増加",
-  "en": "More Strong\nAttacks",
+  "en": "Strong Attack a lot",
   "status": "done",
   "slots": [
    "w:2c9460"
@@ -2412,7 +2412,7 @@
  {
   "id": "e:2560e4",
   "jp": "強攻撃の頻度が激増",
-  "en": "Far more Strong\nAttacks",
+  "en": "Strong Attack: lots",
   "status": "done",
   "slots": [
    "w:2c9468"
@@ -2421,7 +2421,7 @@
  {
   "id": "e:2560f8",
   "jp": "砂漠移動制限を無視",
-  "en": "Ignores desert\nlimits",
+  "en": "No desert limit",
   "status": "done",
   "slots": [
    "w:2c9470"
@@ -2430,7 +2430,7 @@
  {
   "id": "e:25610c",
   "jp": "極限で士気全回復",
-  "en": "Full morale in a\npinch",
+  "en": "Pinch: full morale",
   "status": "done",
   "slots": [
    "w:2c9478"
@@ -2448,7 +2448,7 @@
  {
   "id": "e:256134",
   "jp": "水上の敵に強い",
-  "en": "Strong vs foes on\nwater",
+  "en": "Strong vs sea foes",
   "status": "done",
   "slots": [
    "w:2c9488"
@@ -2457,7 +2457,7 @@
  {
   "id": "e:256144",
   "jp": "雪道・雪原地形が得意",
-  "en": "Good on Snow\nRoads, Fields",
+  "en": "Snow terrain: good",
   "status": "done",
   "slots": [
    "w:2c9490"
@@ -2484,7 +2484,7 @@
  {
   "id": "e:256184",
   "jp": "全属性攻撃力アップ",
-  "en": "All element attacks\nup",
+  "en": "All elements up",
   "status": "done",
   "slots": [
    "w:2c94a8"
@@ -2538,7 +2538,7 @@
  {
   "id": "e:2561ec",
   "jp": "オーディオドラマ閲覧可",
-  "en": "Unlocks Audio\nDrama",
+  "en": "Opens Audio Drama",
   "status": "done",
   "slots": [
    "w:2c94d8"
@@ -2637,7 +2637,7 @@
  {
   "id": "e:2562e8",
   "jp": "■大魔導マゼンデ",
-  "en": "■Masende, the High\nSorceress",
+  "en": "■Masende, the High Sorceress",
   "status": "done",
   "slots": [
    "w:2c95f8"
@@ -2700,7 +2700,7 @@
  {
   "id": "e:256378",
   "jp": "■戦女神ニルヴァーナ",
-  "en": "■Nirvana, Goddess of\nBattle",
+  "en": "■Nirvana, Goddess of Battle",
   "status": "done",
   "slots": [
    "w:2c9614"
@@ -2727,7 +2727,7 @@
  {
   "id": "e:2563bc",
   "jp": "■聖泉の精霊キュリン",
-  "en": "■Cullin Fairy of the Holy\nSpring",
+  "en": "■Cullin Fairy of the Holy Spring",
   "status": "done",
   "slots": [
    "w:2c9620"
@@ -2736,7 +2736,7 @@
  {
   "id": "e:2563d4",
   "jp": "■闇の女帝ヴァネッサ",
-  "en": "■Vanessa, Empress of\nDarkness",
+  "en": "■Vanessa, Empress of Darkness",
   "status": "done",
   "slots": [
    "w:2c9624"
@@ -2772,7 +2772,7 @@
  {
   "id": "e:25641c",
   "jp": "■樹木の精霊ドリアデ",
-  "en": "■Dryad, Nymph of the\nWoods",
+  "en": "■Dryad, Nymph of the Woods",
   "status": "done",
   "slots": [
    "w:2c9634"
@@ -2781,7 +2781,7 @@
  {
   "id": "e:256434",
   "jp": "■砂漠の番人ラーサ",
-  "en": "■Lhasa, Guardian of the\nDesert",
+  "en": "■Lhasa, Guardian of the Desert",
   "status": "done",
   "slots": [
    "w:2c9638"
@@ -2790,7 +2790,7 @@
  {
   "id": "e:256448",
   "jp": "■魔性のエンドメイラ",
-  "en": "■Endomayla the\nEnchantress",
+  "en": "■Endomayla the Enchantress",
   "status": "done",
   "slots": [
    "w:2c963c"
@@ -2817,7 +2817,7 @@
  {
   "id": "e:256490",
   "jp": "■煉獄の魔竜ブロンガ",
-  "en": "■Brongaa, Dragon of\nPurgatory",
+  "en": "■Brongaa, Dragon of Purgatory",
   "status": "done",
   "slots": [
    "w:2c9648"
@@ -2871,7 +2871,7 @@
  {
   "id": "e:256514",
   "jp": "■ヘグゼーの従順たる獣人",
-  "en": "■Hegze's Obedient\nBeastman",
+  "en": "■Hegze's Obedient Beastman",
   "status": "done",
   "slots": [
    "w:2c9660"
@@ -3024,7 +3024,7 @@
  {
   "id": "e:25668c",
   "jp": "■魔性の鏡カレイドス",
-  "en": "■Kaleidos the Bewitching\nMirror",
+  "en": "■Kaleidos the Bewitching Mirror",
   "status": "done",
   "slots": [
    "w:2c96a4"

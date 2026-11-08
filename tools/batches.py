@@ -150,11 +150,11 @@ def width_problems(entry, en):
     rows = TOKEN.sub("", shipped(entry, en)).split("\n")
     cap = boxes.cell_cap(k) if k.count("/") == 3 else 999   # a GROUPS budget ('item name') has no class
     wide = [r for r in rows if vwf.line_px(r, font) > px or len(r) > cap]
-    if len(rows) > lines or wide:
-        what = f"{len(rows)} lines of max {lines}" if len(rows) > lines else \
-            f"{vwf.line_px(wide[0], font)} px / {len(wide[0])} chars over {px} px"
+    if len(rows) > lines:   # always an error: rows past a window's cell array overwrite memory (the fight crash)
+        out.append(f"{len(rows)} lines of max {lines} ({k})")
+    elif wide:
         out.append(("WARN unmeasured window (measure it, don't abbreviate; docs/re/windows.md): " if not measured else "")
-                   + what)
+                   + f"{vwf.line_px(wide[0], font)} px / {len(wide[0])} chars over {px} px")
     return out
 
 

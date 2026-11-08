@@ -209,7 +209,8 @@ class Inserter:
             if 'at' in x:   # in place, no pointer
                 at, mx = int(x['at'], 16), x['max']
                 raw = from_text(t)[:mx]
-                b[at:at + mx] = raw.ljust(mx, b'\0')
+                assert b[at + mx] == 0 and 0 not in b[at:at + mx], x['id']
+                b[at:at + mx] = raw.ljust(mx, b' ')   # the VM skips strlen bytes: the length must not change
                 continue
             if not x['slots']:
                 continue   # no pointer: nothing reads it

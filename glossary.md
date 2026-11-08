@@ -166,7 +166,7 @@ Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "
 | ユニオン | Union | | ユニオンリーダー Union Leader; tutorial pun ユニオン/オニオン "Union"/"Onion" | |
 | タクティクスカード | Tactics Card | | | |
 | デュエルオーダー | Duel Order | | | |
-| 連戦ハンデ | Back-to-Back Handicap | | | |
+| 連戦ハンデ | Back-to-Back Handicap / Back-to-Back | | "Back-to-Back" alone only where the field can't hold more (unit abilities, 145 px one line: "No Back-to-Back") | |
 | リンク展開 | Link Expansion | | | |
 | ターン終了 | End Turn | | menu command | |
 | 船長選択 | Captain Change | | ship screen (its art says so) | |

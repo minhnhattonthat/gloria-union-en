@@ -48,3 +48,10 @@ def test_row_of_shared_window():
     e = {x['id']: x for x in entries()}
     assert boxes.budget(e['e:256a10'])[:3] == (290, 1, '2/22/14/1')      # skill effect: line 1
     assert boxes.budget(e['e:257084'])[:3] == (225, 2, '2/22/14/2')      # use condition: line 2
+
+
+def test_fewest_lines_of_all_windows():
+    """An entry drawn in a 1-row window (VS skill tag) gets 1 line even if a 5-row list shows it too: a second row
+    writes past the window's cells (the battle_result crash, "Strong Attack\\ndamage up")."""
+    e = {x['id']: x for x in entries()}
+    assert boxes.budget(e['e:2560bc'])[:2] == (145, 1)
