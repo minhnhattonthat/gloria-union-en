@@ -2,7 +2,8 @@
 
     python -X utf8 tools/boxes.py scan [LOGDIR ...]   read <scene>/text.tsv from warp.py --text-log / talk.py --text-log
                                                      runs on a marker build; writes tbl/boxes.tsv; prints the classes
-    python -X utf8 tools/boxes.py show                classes, budgets and how many entries each holds
+    python -X utf8 tools/boxes.py shots LOGDIR OUT    one shot per class from a --shots tour (OUT/index.tsv)
+    python -X utf8 tools/boxes.py show               classes, budgets and how many entries each holds
 
 A window class is (font, original columns, cell pitch, rows): the writer's window as the Japanese build sized it
 (setSize gives 3x columns in our build, so columns are divided by 3). BUDGETS holds the measured limit per class:
@@ -27,9 +28,9 @@ CELL = {0: 8, 1: 20, 2: 14, 3: 24, 4: 12}
 BUDGETS = {
     # dialogue window 0x10BE88 (story, tutorial talk): 4 rows of 288 px in our build (vwf.py), the 4th clears the
     # page arrow; work/qa/talk/stage_1_02_AP/p01.png (4 x 288 px stress lines inside the box)
-    '1/16/18/3': (288, 4, 'measured: work/qa/talk/stage_1_02_AP/p01.png'),
+    '1/16/18/4': (288, 4, 'measured: work/qa/talk/stage_1_02_AP/p01.png'),
 }
-DEFAULT = {'story': '1/16/18/3', 'common': '1/16/18/3'}
+DEFAULT = {'story': '1/16/18/4', 'common': '1/16/18/4'}
 
 
 def klass(row):
@@ -65,6 +66,25 @@ def scan(dirs):
     print(len(seen), 'entries seen')
 
 
+def shots(logdir, out):
+    """One shot per class from a warp.py --text-log --shots tour: OUT/<n>_<class>.png (the first marked text of that
+    class with a shot) and OUT/index.tsv (n, class, scene, shot, text), for reading budgets off the frame."""
+    out = Path(out)
+    out.mkdir(parents=True, exist_ok=True)
+    got = {}
+    for p in sorted(Path(logdir).glob('*/text.tsv')):
+        for row in csv.DictReader(p.open(encoding='utf8'), delimiter='\t', quoting=csv.QUOTE_NONE):
+            if not re.match(r'\[([0-9a-z:]+)[\] ]', row['text'] or '') or not row.get('shot'): continue
+            if not (p.parent / row['shot']).exists(): continue   # the run died before the shot
+            got.setdefault(klass(row), (p.parent.name, row['shot'], row['text'], row))
+    with (out / 'index.tsv').open('w', encoding='utf8') as f:
+        for n, (k, (scene, shot, text, row)) in enumerate(sorted(got.items())):
+            name = f'{n:02d}_{k.replace("/", "-")}.png'
+            (out / name).write_bytes((Path(logdir) / scene / shot).read_bytes())
+            f.write(f'{n}\t{k}\t{scene}\t{shot}\tx{row["x"]} y{row["y"]} box{row["box_w"]}x{row["box_h"]}\t{text[:80]}\n')
+    print(len(got), 'classes ->', out)
+
+
 def classes():
     """{entry id: [class]} from tbl/boxes.tsv."""
     if not TSV.exists(): return {}
@@ -88,7 +108,9 @@ def budget(entry, _cache={}):
 
 
 if __name__ == '__main__':
-    if sys.argv[1:2] == ['scan']:
+    if sys.argv[1:2] == ['shots']:
+        shots(sys.argv[2], sys.argv[3])
+    elif sys.argv[1:2] == ['scan']:
         scan(sys.argv[2:] or [ROOT / 'work/qa/warp', ROOT / 'work/qa/talk'])
     else:
         c = Counter(k for ks in classes().values() for k in ks)

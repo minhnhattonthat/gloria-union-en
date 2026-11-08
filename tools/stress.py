@@ -45,6 +45,7 @@ def fit(logdirs):
     Entries with printf codes keep their marker (args must match)."""
     import csv, re
     from insert import FMT, load, short
+    from boxes import CELL
     ids = {short(e['id']): e for sub in ('story', 'common', 'eboot') for es in load(sub).values() for e in es}
     out = {}
     for d in logdirs:
@@ -55,7 +56,8 @@ def fit(logdirs):
                 if not e or FMT.search(e['jp']) or '[0A]' in e['jp']: continue
                 font = int(r['font']) % 16
                 px = int(r['box_w'])
-                if px < 40: px = int(r['cols']) // 3 * (int(r['cell_w']) or 20) + int(r['spx']) * (int(r['cols']) // 3)
+                if px < 40: px = int(r['cols']) // 3 * ((int(r['cell_w']) or CELL.get(font, 20)) + int(r['spx']))
+                px = min(px, 480)   # tickers report box widths up to 17500 px; past the screen tells nothing
                 n = max(1, min(e['jp'].count('\n') + 1, int(r['rows'])))
                 if e['id'] in out and out[e['id']][0] <= px: continue
                 out[e['id']] = (px, '\\n'.join(ruler(px, font, f'[{m.group(1)} {px}]' if i == 0 else f'{i + 1}') for i in range(n)))
