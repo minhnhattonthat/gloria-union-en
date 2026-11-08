@@ -2,8 +2,8 @@
  {
   "id": "s2057:00028",
   "jp": "遂に見つけたぞグロリア海賊団！！",
-  "en": "",
-  "status": "todo",
+  "en": "At last I've found you, Gloria Pirates!!",
+  "status": "done",
   "slots": [
    "0x20e5"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2057:0004d",
   "jp": "うおっ！　なんだなんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! What's this, what's this?",
+  "status": "done",
   "slots": [
    "0x217b"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2057:0006a",
   "jp": "あの旗印、皇国軍だよ！？",
-  "en": "",
-  "status": "todo",
+  "en": "That flag is the Imperial Army's!?",
+  "status": "done",
   "slots": [
    "0x2190"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2057:00087",
   "jp": "あの船首で叫んでる人、\nまだ若いっすねぇ。\n新兵の方っすか？",
-  "en": "",
-  "status": "todo",
+  "en": "The guy shouting at the bow is still pretty\nyoung, sir. A new recruit?",
+  "status": "done",
   "slots": [
    "0x21a5"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2057:000c6",
   "jp": "だとしたら相当図々しいわね。\n格好の的ってわからないのかしら？",
-  "en": "",
-  "status": "todo",
+  "en": "If so, he's got some nerve. Doesn't he know\nhe's a sitting duck?",
+  "status": "done",
   "slots": [
    "0x21ba"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2057:00108",
   "jp": "単身乗り込んでくるとは、愚かな！",
-  "en": "",
-  "status": "todo",
+  "en": "Boarding alone? How foolish!",
+  "status": "done",
   "slots": [
    "0x21e2"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2057:0012d",
   "jp": "面倒くさそうだから、\nもうここから狙撃しちゃえばぁ？",
-  "en": "",
-  "status": "todo",
+  "en": "He looks like a pain, so why not just snipe\nhim from here?",
+  "status": "done",
   "slots": [
    "0x2211"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2057:00165",
   "jp": "うふふ、殿方はあれぐらい元気が\nあったほうがいいですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hehehe, it's better for a gentleman to have\nthat much energy.",
+  "status": "done",
   "slots": [
    "0x2240"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2057:001a1",
   "jp": "皇国騎士団カミュルの豪槍！！\nその身に受けてみよおぉぉぉ！！！",
-  "en": "",
-  "status": "todo",
+  "en": "The mighty spear of Kamuru of the Imperial\nKnights!! Take it with your bodyyyy!!!",
+  "status": "done",
   "slots": [
    "0x227c"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2057:001e3",
   "jp": "あうぅ、耳をふさいでも\n聞こえてくるよぅ。",
-  "en": "",
-  "status": "todo",
+  "en": "Auuu, I can hear him even with my ears\ncovered.",
+  "status": "done",
   "slots": [
    "0x2295"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2057:00211",
   "jp": "うるさい人ですねぇ。心なしか\n波が高くなった気がします。",
-  "en": "",
-  "status": "todo",
+  "en": "What a loud person. I'd almost say the\nwaves have got higher.",
+  "status": "done",
   "slots": [
    "0x22aa"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2057:0024d",
   "jp": "海の生物達も脅えていなくなって\nしまったぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Even the sea creatures got scared and left.",
+  "status": "done",
   "slots": [
    "0x22d2"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2057:0027d",
   "jp": "いい迷惑ね。\nさっさと追い払いましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "What a nuisance. Let's chase him off\nalready.",
+  "status": "done",
   "slots": [
    "0x22f5"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2057:002a9",
   "jp": "ウヲオォォォォォォォ！！！\n総員！！　突撃ィィ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Uwoooooooooh!!! All troops!! Chaaarge!!",
+  "status": "done",
   "slots": [
    "0x230e"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2057:002df",
   "jp": "イシュト、あの男、あんなんだが\nなかなかできそうだぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, that guy may be like that, but he\nlooks like he's pretty good.",
+  "status": "done",
   "slots": [
    "0x242f"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2057:00319",
   "jp": "突撃！　突撃！　突撃ダァァァ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Charge! Charge! Chaaaarge!!",
+  "status": "done",
   "slots": [
    "0x2448"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2057:0033e",
   "jp": "え？　なに？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? What?",
+  "status": "done",
   "slots": [
    "0x2461"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2057:0034f",
   "jp": "だから、あの男、印象とは違って\n強そうだぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "I SAID, that guy looks strong, unlike how he\ncomes across!",
+  "status": "done",
   "slots": [
    "0x247f"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2057:0037f",
   "jp": "ビアローフォーメーションを組め！\n敵を真正面からねじ伏せろおぉぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "Form the Bi-Arrow Formation! Crush the\nenemy head-on!!",
+  "status": "done",
   "slots": [
    "0x2498"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2057:003c5",
   "jp": "え？　ごめん、聞こえない！",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Sorry, I can't hear you!",
+  "status": "done",
   "slots": [
    "0x24b1"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2057:003e4",
   "jp": "……総員突撃！！！\nあの野郎の陣を粉砕しろ！！！",
-  "en": "",
-  "status": "todo",
+  "en": "...ALL TROOPS, CHARGE!!! SMASH THAT\nBASTARD'S RANKS!!!",
+  "status": "done",
   "slots": [
    "0x24cf"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2057:00418",
   "jp": "えッ！　りょ、了解！！\n……やべぇ、怒らせちまったかな？",
-  "en": "",
-  "status": "todo",
+  "en": "Wha! R-roger!! ...Uh-oh, did I make him mad?",
+  "status": "done",
   "slots": [
    "0x24fd"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2057:00454",
   "jp": "兄貴のせいではないと思います。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't think it's your fault, Boss.",
+  "status": "done",
   "slots": [
    "0x252e"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2057:00477",
   "jp": "粉骨！　砕身！　突撃ィ！",
-  "en": "",
-  "status": "todo",
+  "en": "Grind bones! Smash bodies! Chaaarge!",
+  "status": "done",
   "slots": [
    "0x5b60"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2057:00494",
   "jp": "粉骨砕身は自分にかける言葉で\nあって、相手を粉々にすること\nじゃないんだぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "\"Grind your bones to dust\" is about workin'\nyourself hard, not about smashin' the other\nguy to bits!",
+  "status": "done",
   "slots": [
    "0x5b75"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2057:004e3",
   "jp": "ヌヌ！　猫の獣人だと！？\nこのぉ！　愛らしい姿でたぶらかす\n気だなぁ！！？",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh! A cat beastman!? Curses! You plan to\nbewitch me with your adorable looks, don't\nyou!?",
+  "status": "done",
   "slots": [
    "0x5c67"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2057:00530",
   "jp": "なに勝手に顔赤らめてるんですか？\nあいにくボクには想い人がいるんで",
-  "en": "",
-  "status": "todo",
+  "en": "Why are you blushing all on your own? Sorry,\nbut I already have someone I love.",
+  "status": "done",
   "slots": [
    "0x5c7c"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2057:00576",
   "jp": "なんと美しきご婦人よ！\nグロリアに攫われたのだな！？\nよぉし！　今助けるぞ！！",
-  "en": "",
-  "status": "todo",
+  "en": "What a beautiful lady! The Gloria Pirates\nkidnapped you, didn't they!? All right! I'll\nsave you now!!",
+  "status": "done",
   "slots": [
    "0x5d6e"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2057:005c7",
   "jp": "うわぁ、あたしが一番苦手で嫌いな\nタイプだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh, he's exactly the type I hate and can't\ndeal with the most...",
+  "status": "done",
   "slots": [
    "0x5d83"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2057:005fb",
   "jp": "うるさい人は嫌い！　あっち行って",
-  "en": "",
-  "status": "todo",
+  "en": "I don't like loud people! Go away!",
+  "status": "done",
   "slots": [
    "0x5e75"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2057:00620",
   "jp": "うるさいのではない！！　\nこれは気合というものだ！！",
-  "en": "",
-  "status": "todo",
+  "en": "It's not loud!! This is what you call fighting\nspirit!!",
+  "status": "done",
   "slots": [
    "0x5e8a"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2057:00658",
   "jp": "俺ぁ空気の読めない奴が大嫌い\nなんだよ！！",
-  "en": "",
-  "status": "todo",
+  "en": "I hate guys who can't read the room!!",
+  "status": "done",
   "slots": [
    "0x5f83"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2057:00686",
   "jp": "フハハ！　たしかに戦場の空気を\n読めない騎士など二流！！　だが、\nボクは空気の読める一流だ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Fwahaha! Indeed, a knight who cannot read\nthe mood of the battlefield is second-rate!!\nBut I'm a first-rate one who can read the\nroom!!",
+  "status": "done",
   "slots": [
    "0x5f98"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2057:006e7",
   "jp": "……てめぇとはもう一生話さねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "...I ain't ever talkin' to you again as long as\nI live.",
+  "status": "done",
   "slots": [
    "0x5fad"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2057:0070c",
   "jp": "気合があるのはいい事だが、\nあまりうるさすぎるのは\nマナー違反だぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Fighting spirit is all well and good, but being\ntoo loud is a breach of manners.",
+  "status": "done",
   "slots": [
    "0x609e"
   ],
@@ -386,8 +386,8 @@
  {
   "id": "s2057:0074f",
   "jp": "なに！？\n戦闘しながら規律を気にする\n余裕があるとは……侮りがたし！",
-  "en": "",
-  "status": "todo",
+  "en": "What!? You have the leisure to worry about\ndiscipline in the middle of battle... I cannot\nunderestimate you!",
+  "status": "done",
   "slots": [
    "0x60b3"
   ],
@@ -396,8 +396,8 @@
  {
   "id": "s2057:00792",
   "jp": "子供……？\nここは戦場だぞ！？\n早く逃げるんだ！！",
-  "en": "",
-  "status": "todo",
+  "en": "A child...? This is a battlefield!? Run away,\nquick!!",
+  "status": "done",
   "slots": [
    "0x619d"
   ],
@@ -406,8 +406,8 @@
  {
   "id": "s2057:007c3",
   "jp": "む！\nロコモコはもう子供じゃないよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph! Locomoco's not a kid anymore!",
+  "status": "done",
   "slots": [
    "0x61b2"
   ],
@@ -416,8 +416,8 @@
  {
   "id": "s2057:007e7",
   "jp": "な、なんと禍々しい姿だ！\nこ、この悪魔めぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what a sinister figure! Y-you devil!",
+  "status": "done",
   "slots": [
    "0x629c"
   ],
@@ -426,8 +426,8 @@
  {
   "id": "s2057:00813",
   "jp": "おぉ～！\nは、初めて私を怖がってくれる\n人がいたっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooooh! S-somebody's actually scared of me\nfor the first time, sir!",
+  "status": "done",
   "slots": [
    "0x62b1"
   ],

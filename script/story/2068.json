@@ -1198,8 +1198,8 @@
  {
   "id": "s2068:01686",
   "jp": "……？",
-  "en": "",
-  "status": "todo",
+  "en": "...?",
+  "status": "done",
   "slots": [
    "0x75c6"
   ],
@@ -2985,8 +2985,8 @@
  {
   "id": "s2068:035c5t",
   "jp": "アジョー研究団",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo Research Team",
+  "status": "done",
   "at": "0x35c8",
   "max": 14,
   "who": "team name"

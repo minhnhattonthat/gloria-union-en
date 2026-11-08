@@ -2,8 +2,8 @@
  {
   "id": "s2066:00028",
   "jp": "俺がルルゥに会ってから、\nもうだいぶ月日が流れたなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "A lot of time has passed since I met Ruru,\nhuh.",
+  "status": "done",
   "slots": [
    "0x1678"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2066:00062",
   "jp": "あの時はごめんね。\nいきなり押しかけちゃって。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry about back then. Barging in on you out\nof nowhere.",
+  "status": "done",
   "slots": [
    "0x168a"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2066:00094",
   "jp": "いやぁ、むしろ嬉しかったって。",
-  "en": "",
-  "status": "todo",
+  "en": "Nah, if anything I was happy about it.",
+  "status": "done",
   "slots": [
    "0x169c"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2066:000b7",
   "jp": "変態",
-  "en": "",
-  "status": "todo",
+  "en": "Pervert.",
+  "status": "done",
   "slots": [
    "0x16ae"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2066:000fe",
   "jp": "性的に嬉しかったのですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Were you sexually happy about it?",
+  "status": "done",
   "slots": [
    "0x16f2"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2066:0011d",
   "jp": "んなわけないだろ！\nなんで真顔でそんなこと聞くんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Of course not! Why are you askin' that with\na straight face!?",
+  "status": "done",
   "slots": [
    "0x1707"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2066:00155",
   "jp": "あの時は、まだ純粋に楽しんで\nやってましたね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Back then, I was still doing this purely for\nfun...",
+  "status": "done",
   "slots": [
    "0x172a"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2066:0018b",
   "jp": "お前なぁ、\nせっかくの楽しい雰囲気を\nしんみりさせるんじゃないよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Come on, don't go spoilin' the fun mood by\ngettin' all gloomy.",
+  "status": "done",
   "slots": [
    "0x173c"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2066:0020e",
   "jp": "えぇー……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ewww...",
+  "status": "done",
   "slots": [
    "0x179c"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2066:0021f",
   "jp": "だから違うってぇ！\nそして銃をむけるな！\nエリーシャ、お前もだ！",
-  "en": "",
-  "status": "todo",
+  "en": "I told you, that's not it! And quit pointin'\nyour gun at me! You too, Elisha!",
+  "status": "done",
   "slots": [
    "0x17b1"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2066:002bd",
   "jp": "俺はまだ、自分の中の海賊ってのを\n見つけてないからな。それまでは\n落ち込んでらんねぇって！",
-  "en": "",
-  "status": "todo",
+  "en": "I still haven't found the pirate inside me. Till\nthen, I can't afford to mope!",
+  "status": "done",
   "slots": [
    "0x17fe"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2066:0031a",
   "jp": "ハハハ。ずいぶんと立派な事を\n言うようになったな。",
-  "en": "",
-  "status": "todo",
+  "en": "Hahaha. You've started sayin' some pretty\nfine things.",
+  "status": "done",
   "slots": [
    "0x1836"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2066:00350",
   "jp": "親父、あんたには感謝してるよ。\nあんたがいなかったら、今でも俺は\n船乗りのガキのままだったと思う。",
-  "en": "",
-  "status": "todo",
+  "en": "Dad, I'm grateful to you. If it weren't for\nyou, I think I'd still be a sailor brat.",
+  "status": "done",
   "slots": [
    "0x184b"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2066:003b5",
   "jp": "俺だけじゃねぇ、お前の仲間や、\n死んだお前のダチのおかげでもある",
-  "en": "",
-  "status": "todo",
+  "en": "It ain't just me. It's thanks to your crew too,\nand your friend who died.",
+  "status": "done",
   "slots": [
    "0x1860"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2066:003f9",
   "jp": "そっか……そうだよな。\nありがとう、みんな。",
-  "en": "",
-  "status": "todo",
+  "en": "I see... Yeah, you're right. Thanks, everyone.",
+  "status": "done",
   "slots": [
    "0x1875"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2066:00429",
   "jp": "感謝しなさいよね。",
-  "en": "",
-  "status": "todo",
+  "en": "You'd better be grateful.",
+  "status": "done",
   "slots": [
    "0x18a6"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2066:00440",
   "jp": "えっへん。どういたしまして！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahem. You're welcome!",
+  "status": "done",
   "slots": [
    "0x18bb"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2066:00461",
   "jp": "なんか最終回みたいなノリですね。",
-  "en": "",
-  "status": "todo",
+  "en": "This feels kind of like a final episode.",
+  "status": "done",
   "slots": [
    "0x18de"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2066:00486",
   "jp": "夕日に向かって走るんだよね。",
-  "en": "",
-  "status": "todo",
+  "en": "Now we run off into the sunset, right?",
+  "status": "done",
   "slots": [
    "0x18f0"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2066:004a7",
   "jp": "これからもグロリア海賊団の旅は\n続いていく！　ってか？",
-  "en": "",
-  "status": "todo",
+  "en": "\"And the Gloria Pirates' journey continues!\"\nSomethin' like that?",
+  "status": "done",
   "slots": [
    "0x1933"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2066:004e1",
   "jp": "おいおい、まだ主人公も出てない\nってぇのに終わらすんじゃねぇよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey, don't go wrappin' things up when\nthe main character ain't even shown up yet!",
+  "status": "done",
   "slots": [
    "0x194b"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2066:00525",
   "jp": "声！　どこから……！？",
-  "en": "",
-  "status": "todo",
+  "en": "That voice! Where's it coming from...!?",
+  "status": "done",
   "slots": [
    "0x1960"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2066:00540",
   "jp": "ガーガー、ガグンガーガン！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaagaa, gagungaagan!",
+  "status": "done",
   "slots": [
    "0x1a18"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2066:0055f",
   "jp": "後方に敵影！\n旗は……無印！？",
-  "en": "",
-  "status": "todo",
+  "en": "Enemy ship behind us! Its flag is... blank!?",
+  "status": "done",
   "slots": [
    "0x1ae3"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2066:00581",
   "jp": "所属を隠してる……なんのためだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hidin' who they belong to... What for?",
+  "status": "done",
   "slots": [
    "0x1af8"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2066:005a6",
   "jp": "あの声まさか……。\nいや、そんなハズがねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "That voice... It can't be... No, there's no\nway.",
+  "status": "done",
   "slots": [
    "0x1b0d"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2066:00606",
   "jp": "ベルガス！！？",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas!!?",
+  "status": "done",
   "slots": [
    "0x1c5a"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2066:00619",
   "jp": "そんな……ありえません！",
-  "en": "",
-  "status": "todo",
+  "en": "No... That's impossible!",
+  "status": "done",
   "slots": [
    "0x1c8b"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2066:00636",
   "jp": "きっと敵が用意した偽者よ！",
-  "en": "",
-  "status": "todo",
+  "en": "It must be a fake the enemy set up!",
+  "status": "done",
   "slots": [
    "0x1cb0"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2066:00655",
   "jp": "……え！？　嘘！",
-  "en": "",
-  "status": "todo",
+  "en": "...Huh!? No way!",
+  "status": "done",
   "slots": [
    "0x1cce"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2066:0066a",
   "jp": "どうした、ルルゥ。",
-  "en": "",
-  "status": "todo",
+  "en": "What's wrong, Ruru?",
+  "status": "done",
   "slots": [
    "0x1ce7"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2066:006e7",
   "jp": "どうするよ、イシュト……。",
-  "en": "",
-  "status": "todo",
+  "en": "What'll we do, Ishut...",
+  "status": "done",
   "slots": [
    "0x1d4f"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2066:00706",
   "jp": "まぁまぁ、今日は挨拶だけだ。\n俺はここらで失礼するぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, now, I'm just here to say hi today. I'll\nbe takin' my leave now.",
+  "status": "done",
   "slots": [
    "0x1d8b"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2066:00740",
   "jp": "ッ！　待ちやがれ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh! Wait, damn you!!",
+  "status": "done",
   "slots": [
    "0x1db3"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2066:00759",
   "jp": "何者だったんだろう、あの男の人。",
-  "en": "",
-  "status": "todo",
+  "en": "Who was that man, I wonder?",
+  "status": "done",
   "slots": [
    "0x4561"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2066:0077e",
   "jp": "体の半分が機械など、\n現代の技術ではありえん。\nカードの力を取り込むなら尚更だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Half a body made of machinery is impossible\nwith modern technology. All the more so if\nit takes in a card's power.",
+  "status": "done",
   "slots": [
    "0x4576"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2066:007d1",
   "jp": "なぜ、体の機械化は不可能なのだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Why is it impossible to mechanise a body?",
+  "status": "done",
   "slots": [
    "0x459b"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2066:007f6",
   "jp": "機械にもウィルがあるからな。\n繋ぎ合わせようとすると拒絶反応が\n出て、まともに動きはしない。",
-  "en": "",
-  "status": "todo",
+  "en": "Because machines have Will too. If you try\nto join them, a rejection reaction occurs,\nand nothing works properly.",
+  "status": "done",
   "slots": [
    "0x45ad"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2066:00855",
   "jp": "ガンググ、ガガング、ガガン。",
-  "en": "",
-  "status": "todo",
+  "en": "Gangugu, gagangu, gagan.",
+  "status": "done",
   "slots": [
    "0x45dc"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2066:00876",
   "jp": "ガングも、カードのウィルを\n感じたって。",
-  "en": "",
-  "status": "todo",
+  "en": "Gangr says he felt the card's Will too.",
+  "status": "done",
   "slots": [
    "0x45f1"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2066:008a2",
   "jp": "まさか、本当に。",
-  "en": "",
-  "status": "todo",
+  "en": "Don't tell me it's really...",
+  "status": "done",
   "slots": [
    "0x460d"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2066:008b7",
   "jp": "そんなわけないだろ！！\nアイツは……ベルガスは死んだ！",
-  "en": "",
-  "status": "todo",
+  "en": "No way!! He... Velgas is dead!",
+  "status": "done",
   "slots": [
    "0x4622"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2066:008f1",
   "jp": "あ。すいません……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah. Sorry...",
+  "status": "done",
   "slots": [
    "0x4637"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2066:0090a",
   "jp": "イシュト、落ち着きなさい。\nピンガーに当たるなんて、\nあなたらしくないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, calm down. Taking it out on Pinger\nisn't like you.",
+  "status": "done",
   "slots": [
    "0x467a"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2066:00957",
   "jp": "……すまん。熱くなっちまった。",
-  "en": "",
-  "status": "todo",
+  "en": "...Sorry. I got worked up.",
+  "status": "done",
   "slots": [
    "0x468c"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2066:009a8",
   "jp": "ベルガスさんって兄弟とかいたの？",
-  "en": "",
-  "status": "todo",
+  "en": "Did Velgas-san have any brothers?",
+  "status": "done",
   "slots": [
    "0x46b3"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2066:00a07",
   "jp": "ローガンと同じで、黄泉の国から\n逃げ出したんじゃ。",
-  "en": "",
-  "status": "todo",
+  "en": "Maybe he escaped from the Land of the\nDead, like Rogan?",
+  "status": "done",
   "slots": [
    "0x46f6"
   ],
@@ -607,8 +607,8 @@
  {
   "id": "s2066:00a3d",
   "jp": "それなら私に連絡がくるはずっす。\n体が機械化していましたし……\nその線は薄いっすね。",
-  "en": "",
-  "status": "todo",
+  "en": "Then I'd have been contacted about it, sir.\nAnd his body was mechanised... That's not\nvery likely.",
+  "status": "done",
   "slots": [
    "0x4708"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2066:00a94",
   "jp": "となると……ますます怪しいわね。",
-  "en": "",
-  "status": "todo",
+  "en": "In that case... it's even more suspicious.",
+  "status": "done",
   "slots": [
    "0x471a"
   ],
@@ -629,8 +629,8 @@
  {
   "id": "s2066:00ab9",
   "jp": "もしかしたら……いや、待てよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Maybe... No, wait a moment?",
+  "status": "done",
   "slots": [
    "0x472c"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2066:00adc",
   "jp": "どうしたピンガー。",
-  "en": "",
-  "status": "todo",
+  "en": "What is it, Pinger?",
+  "status": "done",
   "slots": [
    "0x473e"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2066:00af3",
   "jp": "あぁ、いや。なんでもないです。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, no. It's nothing.",
+  "status": "done",
   "slots": [
    "0x4750"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2066:00b16",
   "jp": "悪いが、考えてる暇はねぇ。\n先を急ぐぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, but there ain't time to think. Let's\nhurry on.",
+  "status": "done",
   "slots": [
    "0x4781"
   ],
@@ -673,8 +673,8 @@
  {
   "id": "s2066:00b42",
   "jp": "あの偽者野郎、\n俺のダチの死を冒涜しやがって……\n絶対許さねぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "That fake bastard, desecratin' my friend's\ndeath... I'll never forgive him!",
+  "status": "done",
   "slots": [
    "0x4796"
   ],
@@ -834,8 +834,8 @@
  {
   "id": "s2066:00e61",
   "jp": "これは、もしかして、遺跡の欠片\nかしら……？",
-  "en": "",
-  "status": "todo",
+  "en": "Could this be... a ruin shard?",
+  "status": "done",
   "slots": [
    "0x3479"
   ],
@@ -1122,8 +1122,8 @@
  {
   "id": "s2066:013e0t",
   "jp": "ベルガス海賊団？",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas Pirates?",
+  "status": "done",
   "at": "0x13e3",
   "max": 16,
   "who": "team name"

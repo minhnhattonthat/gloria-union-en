@@ -189,8 +189,8 @@
  {
   "id": "s2079:002fe",
   "jp": "どうした、ルルゥ。",
-  "en": "",
-  "status": "todo",
+  "en": "What's wrong, Ruru?",
+  "status": "done",
   "slots": [
    "0x1ae1"
   ],

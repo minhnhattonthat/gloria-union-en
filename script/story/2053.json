@@ -2,8 +2,8 @@
  {
   "id": "s2053:00028",
   "jp": "……ッ！\nお兄ちゃん、ひいてる！\nひいてるよっ！",
-  "en": "",
-  "status": "todo",
+  "en": "...! Big Brother, you've got a bite! A bite!",
+  "status": "done",
   "slots": [
    "0x13a3"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2053:0005b",
   "jp": "うをおおおおお！　こ、コイツは、\nデ、デカイぞおぉぉぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoooaaa! Th-this one's h-h-huuuge!!",
+  "status": "done",
   "slots": [
    "0x13bc"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2053:00099",
   "jp": "イシュト！　頑張れ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut! You can do it!",
+  "status": "done",
   "slots": [
    "0x13d5"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2053:000b2",
   "jp": "何日かぶりのご馳走っすよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Our first feast in days, sir!",
+  "status": "done",
   "slots": [
    "0x13ee"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2053:000d1",
   "jp": "ファイトーーーーーーーー！！",
-  "en": "",
-  "status": "todo",
+  "en": "Fiiiiiiiight!!",
+  "status": "done",
   "slots": [
    "0x1407"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2053:000f2",
   "jp": "その先は言わねぇぞおおおお\nおおりゃあぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "I ain't sayin' the rest of that one!\nOoorryaaah!!",
+  "status": "done",
   "slots": [
    "0x1420"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2053:00124",
   "jp": "おおぉぉぉ！　ぉぉお、お？",
-  "en": "",
-  "status": "todo",
+  "en": "Ooooooh! Ooo... oh?",
+  "status": "done",
   "slots": [
    "0x14f3"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2053:0014e",
   "jp": "……なに、これ。",
-  "en": "",
-  "status": "todo",
+  "en": "...What is this?",
+  "status": "done",
   "slots": [
    "0x1529"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2053:00163",
   "jp": "……変わった魚っすね。",
-  "en": "",
-  "status": "todo",
+  "en": "...What an odd fish, sir.",
+  "status": "done",
   "slots": [
    "0x153f"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2053:0017e",
   "jp": "どこからどう見ても\n魚じゃないだろう！？",
-  "en": "",
-  "status": "todo",
+  "en": "However you look at it, that's no fish!",
+  "status": "done",
   "slots": [
    "0x1568"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2053:001aa",
   "jp": "アッ、ハハハハハハ！！\nヒー、ヒー！　は、腹いてぇ！\nおおお！！　だってよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, hahahahahaha!! Hee, hee! M-my gut\nhurts! \"Whoooaaa!!\" he says!",
+  "status": "done",
   "slots": [
    "0x1588"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2053:001f9",
   "jp": "笑うな親父！　クソ！\nなんだよ、コイツ！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't laugh, Dad! Damn it! What the hell is\nthis thing!?",
+  "status": "done",
   "slots": [
    "0x15c4"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2053:00225",
   "jp": "ガ、ガン……ガ……",
-  "en": "",
-  "status": "todo",
+  "en": "Ga, gan... ga...",
+  "status": "done",
   "slots": [
    "0x15dd"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2053:0023c",
   "jp": "あん？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x15f6"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2053:00247",
   "jp": "ガ、ガーーーガガガ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Ga, gaaaagagaga!!",
+  "status": "done",
   "slots": [
    "0x160f"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2053:00262",
   "jp": "うぉわあぁぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Uwaaaaah!",
+  "status": "done",
   "slots": [
    "0x1628"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2053:00275",
   "jp": "お、襲ってきた！？",
-  "en": "",
-  "status": "todo",
+  "en": "I-it's attacking!?",
+  "status": "done",
   "slots": [
    "0x1641"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2053:0028c",
   "jp": "ガーーーーガガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaaaaagaga!",
+  "status": "done",
   "slots": [
    "0x16f5"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2053:002a1",
   "jp": "馬鹿な！？　独りでに動く鎧など\n聞いたことがないぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Impossible!? I have never heard of armour\nthat moves on its own!",
+  "status": "done",
   "slots": [
    "0x1726"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2053:002d9",
   "jp": "魔法で操ってる感じもないし……\nなによこれぇ！？",
-  "en": "",
-  "status": "todo",
+  "en": "It doesn't feel like magic is controlling it...\nWhat is this thing!?",
+  "status": "done",
   "slots": [
    "0x175e"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2053:0030d",
   "jp": "こいつぁ、\n厄介なモンを釣り上げたもんだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, you sure reeled in a troublesome one.",
+  "status": "done",
   "slots": [
    "0x1783"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2053:0033d",
   "jp": "す、すまん",
-  "en": "",
-  "status": "todo",
+  "en": "S-sorry.",
+  "status": "done",
   "slots": [
    "0x179c"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2053:0034c",
   "jp": "そこ、のん気に話してない！\n早く止めないとなんかヤバそうよ！",
-  "en": "",
-  "status": "todo",
+  "en": "You two, stop chatting! If we don't stop it\nfast, this looks bad!",
+  "status": "done",
   "slots": [
    "0x17ba"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2053:0038c",
   "jp": "ガガン！　ガガガガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagan! Gagagaga!",
+  "status": "done",
   "slots": [
    "0x24f1"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2053:003a5",
   "jp": "痛い？　助けて？　……ッ！\nなんで？　私、アナタの言葉が\nわかる！",
-  "en": "",
-  "status": "todo",
+  "en": "It hurts? Help you? ...! How? I can\nunderstand what you're saying!",
+  "status": "done",
   "slots": [
    "0x250b"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2053:003ea",
   "jp": "てめぇこの野郎！\nよくも俺に恥をかかせたな！\n成敗してやる！",
-  "en": "",
-  "status": "todo",
+  "en": "You bastard! How dare you embarrass me!\nI'll punish you!",
+  "status": "done",
   "slots": [
    "0x22f9"
   ],
@@ -298,8 +298,8 @@
  {
   "id": "s2053:00425",
   "jp": "ガーーーーーーーー！！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaaaaaaaaaa!!!",
+  "status": "done",
   "slots": [
    "0x2312"
   ],
@@ -308,8 +308,8 @@
  {
   "id": "s2053:0043e",
   "jp": "ん～、なんか。迫力に欠ける\n外見ですねぇ。\n力が抜ける気がしますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, somehow. Its looks lack punch. It kind\nof takes the fight out of me.",
+  "status": "done",
   "slots": [
    "0x23e6"
   ],
@@ -318,8 +318,8 @@
  {
   "id": "s2053:00481",
   "jp": "ガガンガガガ、ガガ、ガンガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangagaga, gaga, ganga!",
+  "status": "done",
   "slots": [
    "0x23ff"
   ],
@@ -328,8 +328,8 @@
  {
   "id": "s2053:0049e",
   "jp": "うわ！　今銃弾ハジかなかった！？\nどんな体してんのよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! Did it just deflect my bullet!? What\nkind of body does it have...",
+  "status": "done",
   "slots": [
    "0x25df"
   ],
@@ -338,8 +338,8 @@
  {
   "id": "s2053:004d8",
   "jp": "ガンガン、ガガガガン！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangan, gagagagan!",
+  "status": "done",
   "slots": [
    "0x25f8"
   ],
@@ -348,8 +348,8 @@
  {
   "id": "s2053:004ef",
   "jp": "鉄は斬った事ねぇからなぁ。\nどうなんだ？　これ。",
-  "en": "",
-  "status": "todo",
+  "en": "I ain't ever cut iron before. How's this gonna\ngo?",
+  "status": "done",
   "slots": [
    "0x26cc"
   ],
@@ -358,8 +358,8 @@
  {
   "id": "s2053:0051f",
   "jp": "ガッガッガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaggagga!",
+  "status": "done",
   "slots": [
    "0x26e5"
   ],
@@ -368,8 +368,8 @@
  {
   "id": "s2053:0052c",
   "jp": "これは……もしかすると大発見\nなのかもしれない。",
-  "en": "",
-  "status": "todo",
+  "en": "This... may just be a great discovery.",
+  "status": "done",
   "slots": [
    "0x27c0"
   ],
@@ -378,8 +378,8 @@
  {
   "id": "s2053:0055c",
   "jp": "なんとしてでも生け捕るんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "We must capture it alive at all costs!",
+  "status": "done",
   "slots": [
    "0x27d5"
   ],
@@ -388,8 +388,8 @@
  {
   "id": "s2053:00579",
   "jp": "ガ、ガ、ガーーーーーーーー！",
-  "en": "",
-  "status": "todo",
+  "en": "Ga, ga, gaaaaaaaaaa!",
+  "status": "done",
   "slots": [
    "0x27ee"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2053:00596",
   "jp": "うーん、\nゴーレムとも違うみたいだし。\nなんなんだろう？　この子。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, it doesn't seem like a golem either.\nWhat is this thing?",
+  "status": "done",
   "slots": [
    "0x28c9"
   ],
@@ -408,8 +408,8 @@
  {
   "id": "s2053:005d7",
   "jp": "ガングガ、ガングガ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangga, gangga!",
+  "status": "done",
   "slots": [
    "0x28e2"
   ],
@@ -418,8 +418,8 @@
  {
   "id": "s2053:005ec",
   "jp": "まぁまぁ落ち着いて、\nここはお茶でも飲んで、\n一休みっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, now, calm down. Let's have some tea\nand take a break, sir.",
+  "status": "done",
   "slots": [
    "0x29b6"
   ],
@@ -428,8 +428,8 @@
  {
   "id": "s2053:00627",
   "jp": "ガーーーーガッガガ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaaaaagaggaga!!",
+  "status": "done",
   "slots": [
    "0x29cf"
   ],
@@ -438,8 +438,8 @@
  {
   "id": "s2053:0063e",
   "jp": "海に浸かってもまだ動くのか。\nすごいな、この機械。",
-  "en": "",
-  "status": "todo",
+  "en": "It still moves even after being soaked in the\nsea. Amazing, this machine.",
+  "status": "done",
   "slots": [
    "0x2aa3"
   ],
@@ -448,8 +448,8 @@
  {
   "id": "s2053:00670",
   "jp": "ガーーーーーーーーーー！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaaaaaaaaaaa!!",
+  "status": "done",
   "slots": [
    "0x2abc"
   ],
@@ -458,8 +458,8 @@
  {
   "id": "s2053:0068b",
   "jp": "この暴走がなければ、\nもっとよかったのだが……。",
-  "en": "",
-  "status": "todo",
+  "en": "If only it didn't go berserk, it'd be even\nbetter...",
+  "status": "done",
   "slots": [
    "0x2ad6"
   ],
@@ -468,8 +468,8 @@
  {
   "id": "s2053:006bb",
   "jp": "ガガガガ、ガ、ガ……ガ……ガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagagaga, ga, ga... ga... ga.",
+  "status": "done",
   "slots": [
    "0x2f17"
   ],
@@ -479,8 +479,8 @@
  {
   "id": "s2053:006de",
   "jp": "なんとか治まったようですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like it's finally calmed down.",
+  "status": "done",
   "slots": [
    "0x3620"
   ],
@@ -490,8 +490,8 @@
  {
   "id": "s2053:006ff",
   "jp": "これだけ攻撃しても止まるだけ\nなんて、反則よぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "All that attacking and it only stopped?\nThat's cheating.",
+  "status": "done",
   "slots": [
    "0x3639"
   ],
@@ -501,8 +501,8 @@
  {
   "id": "s2053:00733",
   "jp": "ガガガンガガング、ガング。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagagan-ga-Gangr, Gangr.",
+  "status": "done",
   "slots": [
    "0x3652"
   ],
@@ -512,8 +512,8 @@
  {
   "id": "s2053:00752",
   "jp": "私の名前はガングです。\n先ほどは申し訳ありませんでした。\nって言ってるよ。",
-  "en": "",
-  "status": "todo",
+  "en": "It says, \"My name is Gangr. I apologise for\nearlier.\"",
+  "status": "done",
   "slots": [
    "0x366b"
   ],
@@ -523,8 +523,8 @@
  {
   "id": "s2053:0079f",
   "jp": "ルルゥ、わかるのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru, you can understand it?",
+  "status": "done",
   "slots": [
    "0x3684"
   ],
@@ -534,8 +534,8 @@
  {
   "id": "s2053:007b8",
   "jp": "うん、なんとなくだけど。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, kind of.",
+  "status": "done",
   "slots": [
    "0x369d"
   ],
@@ -545,8 +545,8 @@
  {
   "id": "s2053:007d5",
   "jp": "人工知能まであるのか……。\nもしや、遺跡が関係している\n可能性もあるな。",
-  "en": "",
-  "status": "todo",
+  "en": "It even has artificial intelligence... Perhaps\nit may be connected to the ruins.",
+  "status": "done",
   "slots": [
    "0x36b6"
   ],
@@ -556,8 +556,8 @@
  {
   "id": "s2053:00820",
   "jp": "本当！？　\nでも、なんで海に沈んでたの？",
-  "en": "",
-  "status": "todo",
+  "en": "Really!? But why was it sunk in the sea?",
+  "status": "done",
   "slots": [
    "0x36f9"
   ],
@@ -567,8 +567,8 @@
  {
   "id": "s2053:0084c",
   "jp": "ガガンガング、ガガグガググンガ",
-  "en": "",
-  "status": "todo",
+  "en": "Gagan-Gangr, gagagugugunga.",
+  "status": "done",
   "slots": [
    "0x3712"
   ],
@@ -578,8 +578,8 @@
  {
   "id": "s2053:0086f",
   "jp": "遺跡に入った侵入者が、\nガングを海に落としたみたい。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like an intruder in the ruins knocked\nGangr into the sea.",
+  "status": "done",
   "slots": [
    "0x372b"
   ],
@@ -589,8 +589,8 @@
  {
   "id": "s2053:008a7",
   "jp": "なるほど、彼（？）は\n遺跡を守るようプログラムされた。\nいわば古代兵器というやつか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. He (?) was programmed to guard the\nruins. An ancient weapon, so to speak.",
+  "status": "done",
   "slots": [
    "0x3744"
   ],
@@ -600,8 +600,8 @@
  {
   "id": "s2053:008fe",
   "jp": "そ、そ、そ、それじゃあ！\nこの子が、ロコモコの探していた、\nシンフォニア！？",
-  "en": "",
-  "status": "todo",
+  "en": "Th-th-th-then! Is this the Symphonia\nLocomoco's been looking for!?",
+  "status": "done",
   "slots": [
    "0x375d"
   ],
@@ -611,8 +611,8 @@
  {
   "id": "s2053:0094d",
   "jp": "ガンガンガガガ、ガガング。",
-  "en": "",
-  "status": "todo",
+  "en": "Gangangagaga, gagangu.",
+  "status": "done",
   "slots": [
    "0x3784"
   ],
@@ -622,8 +622,8 @@
  {
   "id": "s2053:0096c",
   "jp": "残念ながら、違います。だって。",
-  "en": "",
-  "status": "todo",
+  "en": "It says, \"Unfortunately, no.\"",
+  "status": "done",
   "slots": [
    "0x379d"
   ],
@@ -633,8 +633,8 @@
  {
   "id": "s2053:0098f",
   "jp": "そっかぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh...",
+  "status": "done",
   "slots": [
    "0x37b3"
   ],
@@ -644,8 +644,8 @@
  {
   "id": "s2053:009a2",
   "jp": "どこの遺跡から流れてきたの\nかしら？",
-  "en": "",
-  "status": "todo",
+  "en": "Which ruins did it drift from, I wonder?",
+  "status": "done",
   "slots": [
    "0x37f3"
   ],
@@ -655,8 +655,8 @@
  {
   "id": "s2053:009ca",
   "jp": "この方向からだと……土の遺跡\n“大地の槍”だね。",
-  "en": "",
-  "status": "todo",
+  "en": "From this direction... the earth ruins, \"Earth\nSpear\".",
+  "status": "done",
   "slots": [
    "0x3809"
   ],
@@ -666,8 +666,8 @@
  {
   "id": "s2053:009fe",
   "jp": "槍？　遺跡って建物じゃないのか？",
-  "en": "",
-  "status": "todo",
+  "en": "A spear? Ain't ruins supposed to be\nbuildings?",
+  "status": "done",
   "slots": [
    "0x381f"
   ],
@@ -677,8 +677,8 @@
  {
   "id": "s2053:00a23",
   "jp": "俗称なんだから、しょうがない\nんじゃないですか？",
-  "en": "",
-  "status": "todo",
+  "en": "It's a nickname, so I guess it can't be helped?",
+  "status": "done",
   "slots": [
    "0x3835"
   ],
@@ -688,8 +688,8 @@
  {
   "id": "s2053:00a57",
   "jp": "まぁそんなもんだよな。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, that's how it goes.",
+  "status": "done",
   "slots": [
    "0x385c"
   ],
@@ -699,8 +699,8 @@
  {
   "id": "s2053:00a72",
   "jp": "大地の槍かぁ……どんなところ\nなんだろうなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Earth Spear, huh... Wonder what kind of\nplace it is.",
+  "status": "done",
   "slots": [
    "0x3875"
   ],
@@ -710,8 +710,8 @@
  {
   "id": "s2053:00aa4",
   "jp": "ガ……ガガガガガガガ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ga... gagagagagagaga...!",
+  "status": "done",
   "slots": [
    "0x2b8a"
   ],
@@ -721,8 +721,8 @@
  {
   "id": "s2053:00ac3",
   "jp": "おいおい、なんか様子がおかしいぞ\nコイツ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey, somethin's wrong with this thing!",
+  "status": "done",
   "slots": [
    "0x2ba3"
   ],
@@ -732,8 +732,8 @@
  {
   "id": "s2053:00af1",
   "jp": "ダメージガ一定ヲ通過。\n自爆プログラム、作動シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Damage has passed. Threshold. Activating\nself-destruct. Program.",
+  "status": "done",
   "slots": [
    "0x2bbc"
   ],
@@ -743,8 +743,8 @@
  {
   "id": "s2053:00b29",
   "jp": "なにいいいいぃぃぃ！！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaaaaaaat!!?",
+  "status": "done",
   "slots": [
    "0x2bd9"
   ],
@@ -754,8 +754,8 @@
  {
   "id": "s2053:00b46",
   "jp": "どうゆうことですか！？",
-  "en": "",
-  "status": "todo",
+  "en": "What does that mean!?",
+  "status": "done",
   "slots": [
    "0x2bf7"
   ],
@@ -765,8 +765,8 @@
  {
   "id": "s2053:00b61",
   "jp": "うーん、どうやら一気に士気を\n下げすぎたようだね。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, looks like we lowered its morale too\nmuch all at once.",
+  "status": "done",
   "slots": [
    "0x2c12"
   ],
@@ -776,8 +776,8 @@
  {
   "id": "s2053:00b97",
   "jp": "冷静だなぁオイ！",
-  "en": "",
-  "status": "todo",
+  "en": "You're awful calm about it!",
+  "status": "done",
   "slots": [
    "0x2c2b"
   ],
@@ -787,8 +787,8 @@
  {
   "id": "s2053:00bac",
   "jp": "自爆まで、\n３……２……１……０",
-  "en": "",
-  "status": "todo",
+  "en": "Self-destruct in 3... 2... 1... 0.",
+  "status": "done",
   "slots": [
    "0x2c44"
   ],
@@ -858,8 +858,8 @@
  {
   "id": "s2053:00cbf",
   "jp": "これは、もしかして、遺跡の欠片\nかしら……？",
-  "en": "",
-  "status": "todo",
+  "en": "Could this be... a ruin shard?",
+  "status": "done",
   "slots": [
    "0x1a7b"
   ],
@@ -988,8 +988,8 @@
  {
   "id": "s2053:00e93",
   "jp": "この石……\n不思議な感じがしますね。",
-  "en": "",
-  "status": "todo",
+  "en": "This stone... It feels strange.",
+  "status": "done",
   "slots": [
    "0x1e25"
   ],
@@ -998,8 +998,8 @@
  {
   "id": "s2053:00eb7",
   "jp": "持ってるだけで力が湧いてくると\n言うか。地面からエネルギーを\n吸い取ってるような感じがします。",
-  "en": "",
-  "status": "todo",
+  "en": "Just holding it, I feel power welling up, or\nrather... it feels like it's drawing energy\nfrom the ground.",
+  "status": "done",
   "slots": [
    "0x1e70"
   ],
@@ -1008,8 +1008,8 @@
  {
   "id": "s2053:00f14",
   "jp": "ガンググガググガググ、ガング！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangugugagugugagugu, Gangr!",
+  "status": "done",
   "slots": [
    "0x1ebc"
   ],
@@ -1018,8 +1018,8 @@
  {
   "id": "s2053:00f33",
   "jp": "ガガングー、ガグー、ガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaganguu, gaguu, gangaa!",
+  "status": "done",
   "slots": [
    "0x1f07"
   ],
@@ -1028,8 +1028,8 @@
  {
   "id": "s2053:00f52",
   "jp": "ウフフ、これ、絶対お宝よね？",
-  "en": "",
-  "status": "todo",
+  "en": "Hehehe, this is treasure for sure, right?",
+  "status": "done",
   "slots": [
    "0x1f53"
   ],
@@ -1038,8 +1038,8 @@
  {
   "id": "s2053:00f6f",
   "jp": "絶対そうよ！\nアタシの鼻は正確よ！",
-  "en": "",
-  "status": "todo",
+  "en": "It has to be! My nose is never wrong!",
+  "status": "done",
   "slots": [
    "0x1f9e"
   ],
@@ -1048,8 +1048,8 @@
  {
   "id": "s2053:00f91",
   "jp": "な、なんだこの不思議な石は。\n見た目以上に重く感じる……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this strange stone? It feels\nheavier than it looks...",
+  "status": "done",
   "slots": [
    "0x1ff1"
   ],
@@ -1058,8 +1058,8 @@
  {
   "id": "s2053:00fcb",
   "jp": "ひょっとしたらスゴイものかも\nしれません！\n師匠に見ていただきましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "It might be something amazing! I'll have\nMaster take a look at it!",
+  "status": "done",
   "slots": [
    "0x2047"
   ],
@@ -1068,8 +1068,8 @@
  {
   "id": "s2053:01012",
   "jp": "大地の槍の欠片、ゲッツ！",
-  "en": "",
-  "status": "todo",
+  "en": "Earth Spear shard, gotcha!",
+  "status": "done",
   "slots": [
    "0x209a"
   ],
@@ -1078,8 +1078,8 @@
  {
   "id": "s2053:0102b",
   "jp": "このパメラ様センサーから\n逃れられないお宝なんて\nないんだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "No treasure can escape the Great\nPamela-sama's sensor, dontcha know!",
+  "status": "done",
   "slots": [
    "0x20e5"
   ],
@@ -1088,8 +1088,8 @@
  {
   "id": "s2053:0106a",
   "jp": "この石、なにか威圧感と言うか、\n圧迫感のようなものを感じますね。",
-  "en": "",
-  "status": "todo",
+  "en": "This stone gives off a kind of pressure, or\nrather an oppressive feeling.",
+  "status": "done",
   "slots": [
    "0x213f"
   ],
@@ -1098,8 +1098,8 @@
  {
   "id": "s2053:010aa",
   "jp": "まぁ、簡単に言うと\n見た目より重く感じる。\nというだけなんですけど……。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, to put it simply, it just feels heavier\nthan it looks...",
+  "status": "done",
   "slots": [
    "0x218a"
   ],
@@ -1108,8 +1108,8 @@
  {
   "id": "s2053:010f1",
   "jp": "お？　なんだこの石。\n見た目より随分と重いな。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? What's this stone? It's a lot heavier\nthan it looks.",
+  "status": "done",
   "slots": [
    "0x21cd"
   ],
@@ -1118,8 +1118,8 @@
  {
   "id": "s2053:0111f",
   "jp": "筋トレに最適だぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Perfect for muscle trainin'!",
+  "status": "done",
   "slots": [
    "0x2223"
   ],

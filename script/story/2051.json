@@ -431,8 +431,8 @@
  {
   "id": "s2051:006e2",
   "jp": "おや？　キミ珍しい身体してるね。\nちょっと身体の中を見せてくれない\nかな？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? You have an unusual body. Would you let\nme take a little look inside it?",
+  "status": "done",
   "slots": [
    "0x2897"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2051:0072f",
   "jp": "き、きもい……",
-  "en": "",
-  "status": "todo",
+  "en": "C-creepy...",
+  "status": "done",
   "slots": [
    "0x28b1"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2051:00742",
   "jp": "キミ“オリジナル”だろ？\nこんなところにいたんだね。",
-  "en": "",
-  "status": "todo",
+  "en": "You're the \"original\", aren't you? So this is\nwhere you were.",
+  "status": "done",
   "slots": [
    "0x29a3"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2051:0077a",
   "jp": "だから、なに？",
-  "en": "",
-  "status": "todo",
+  "en": "So what?",
+  "status": "done",
   "slots": [
    "0x29bd"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2051:0078d",
   "jp": "べぇつに。\nただ君をバラせば、娘の完成が\n早まるかなぁ、と思っただけ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, nothing. I just thought that if I took you\napart, my daughter might be finished\nsooner.",
+  "status": "done",
   "slots": [
    "0x29d6"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2051:007d6",
   "jp": "ホントにそっくり。\nどこで、私のことを\n知ったんだろう……。",
-  "en": "",
-  "status": "todo",
+  "en": "She really looks just like me. Where did he\nfind out about me...?",
+  "status": "done",
   "slots": [
    "0x33eb"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2051:00815",
   "jp": "……戦闘開始。\n目標ヲ攻撃シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "...Commencing battle. Attacking target.",
+  "status": "done",
   "slots": [
    "0x3409"
   ],
@@ -518,8 +518,8 @@
  {
   "id": "s2051:00842",
   "jp": "よく見ると、違いがハッキリ\nわかってきますね。",
-  "en": "",
-  "status": "todo",
+  "en": "Looking closely, the differences are pretty\nobvious.",
+  "status": "done",
   "slots": [
    "0x3308"
   ],
@@ -528,8 +528,8 @@
  {
   "id": "s2051:00870",
   "jp": "エリーシャさん。\n案外鈍いんですかねぇ？",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha-san. Maybe you're slower than you\nlook?",
+  "status": "done",
   "slots": [
    "0x330f"
   ],
@@ -538,8 +538,8 @@
  {
   "id": "s2051:00898",
   "jp": "ちょっとちょっと。\nキミの相手は僕じゃないよ。\nルルゥＭｋ－２だよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey. I'm not your opponent. Ruru Mk-II\nis.",
+  "status": "done",
   "slots": [
    "0x2ac0"
   ],
@@ -548,8 +548,8 @@
  {
   "id": "s2051:008db",
   "jp": "こういうのはねぇ、後ろを先に\n倒せばいいって決まってるのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "With this kind of thing, the rule is you take\nout the one in the back first!",
+  "status": "done",
   "slots": [
    "0x2ada"
   ],
@@ -558,8 +558,8 @@
  {
   "id": "s2051:00917",
   "jp": "よくも私を騙したわね！？\n覚悟しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "How dare you fool me!? Get ready!",
+  "status": "done",
   "slots": [
    "0x34dd"
   ],
@@ -568,8 +568,8 @@
  {
   "id": "s2051:0093f",
   "jp": "……戦闘、開始。",
-  "en": "",
-  "status": "todo",
+  "en": "...Commencing. Battle.",
+  "status": "done",
   "slots": [
    "0x34fb"
   ],
@@ -578,8 +578,8 @@
  {
   "id": "s2051:00950",
   "jp": "ザザーランド。\n貴重な戦闘サンプルだ。\n簡単にやられないでくれよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland. You're a valuable combat sample.\nDon't go down too easily, okay?",
+  "status": "done",
   "slots": [
    "0x2bc4"
   ],
@@ -588,8 +588,8 @@
  {
   "id": "s2051:00991",
   "jp": "アァ？\nもしかしてそれ\n俺に言ってんのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? You talkin' to me, by any chance?",
+  "status": "done",
   "slots": [
    "0x2bde"
   ],
@@ -598,8 +598,8 @@
  {
   "id": "s2051:009ba",
   "jp": "ルルゥの複製品……。\nなるほど、これが先回りの正体か。",
-  "en": "",
-  "status": "todo",
+  "en": "A copy of Ruru... I see, so this is how they\ngot ahead of us.",
+  "status": "done",
   "slots": [
    "0x35cf"
   ],
@@ -608,8 +608,8 @@
  {
   "id": "s2051:009f0",
   "jp": "戦闘、開始シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Commencing. Battle.",
+  "status": "done",
   "slots": [
    "0x35ed"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2051:00a03",
   "jp": "これはこれは、\nミネソタ・グレイ教授じゃないか。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, well, if it isn't Professor Minesota\nGray.",
+  "status": "done",
   "slots": [
    "0x2cc8"
   ],
@@ -628,8 +628,8 @@
  {
   "id": "s2051:00a33",
   "jp": "アジョー・グラフォー博士。\n噂はかねがね聞いてるよ。\n賛否両論だがね。",
-  "en": "",
-  "status": "todo",
+  "en": "Dr. Ajo-Grafor. I have heard a great deal\nabout you. Opinions are divided, however.",
+  "status": "done",
   "slots": [
    "0x2ce2"
   ],
@@ -638,8 +638,8 @@
  {
   "id": "s2051:00a78",
   "jp": "他人の評価なんて興味ないよ。\nさぁ、僕の研究成果を\n見てもらおうか！",
-  "en": "",
-  "status": "todo",
+  "en": "Other people's opinions don't interest me.\nNow, let me show you my research results!",
+  "status": "done",
   "slots": [
    "0x2cfb"
   ],
@@ -648,8 +648,8 @@
  {
   "id": "s2051:00abb",
   "jp": "クローン……というわけでは\nないようだな。\nどうなっているんだ……？",
-  "en": "",
-  "status": "todo",
+  "en": "It doesn't seem to be a clone... What is going\non...?",
+  "status": "done",
   "slots": [
    "0x36c1"
   ],
@@ -658,8 +658,8 @@
  {
   "id": "s2051:00afe",
   "jp": "戦闘開始。\n早急ニ終ワラセマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Commencing battle. Will finish. Promptly.",
+  "status": "done",
   "slots": [
    "0x36df"
   ],
@@ -668,8 +668,8 @@
  {
   "id": "s2051:00b1e",
   "jp": "よくもお姉ちゃんを虐めたな！\nロコモコの魔法でお返しだ！",
-  "en": "",
-  "status": "todo",
+  "en": "How dare you pick on Big Sister! Locomoco's\nmagic will pay you back!",
+  "status": "done",
   "slots": [
    "0x2dcf"
   ],
@@ -678,8 +678,8 @@
  {
   "id": "s2051:00b56",
   "jp": "魔法の技術は\n僕の専門外なんだけどなぁ。\nまぁいいや。お相手しよう。",
-  "en": "",
-  "status": "todo",
+  "en": "Magic isn't really my field, but oh well. I'll\ntake you on.",
+  "status": "done",
   "slots": [
    "0x2de8"
   ],
@@ -688,8 +688,8 @@
  {
   "id": "s2051:00b99",
   "jp": "お姉ちゃんの偽者なんて、\nお姉ちゃんじゃない！\n偽お姉ちゃんだ！！",
-  "en": "",
-  "status": "todo",
+  "en": "A fake Big Sister isn't Big Sister! You're Fake\nBig Sister!!",
+  "status": "done",
   "slots": [
    "0x37b3"
   ],
@@ -698,8 +698,8 @@
  {
   "id": "s2051:00bda",
   "jp": "……？",
-  "en": "",
-  "status": "todo",
+  "en": "...?",
+  "status": "done",
   "slots": [
    "0x37d1"
   ],
@@ -708,8 +708,8 @@
  {
   "id": "s2051:00be1",
   "jp": "キミ……空を飛べるのかい？\nフフ、実に興味深い。",
-  "en": "",
-  "status": "todo",
+  "en": "You... can fly? Hehe, truly fascinating.",
+  "status": "done",
   "slots": [
    "0x2ed2"
   ],
@@ -718,8 +718,8 @@
  {
   "id": "s2051:00c11",
   "jp": "うぅ。\nな、なんか寒気が……！",
-  "en": "",
-  "status": "todo",
+  "en": "Uuu. I-I've got the chills...!",
+  "status": "done",
   "slots": [
    "0x2eec"
   ],
@@ -728,8 +728,8 @@
  {
   "id": "s2051:00c2f",
   "jp": "ほぉ～こりゃあそっくりっすねぇ。\nまるで双子みたいっす。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, she's a perfect match, sir. Just like\ntwins.",
+  "status": "done",
   "slots": [
    "0x38a5"
   ],
@@ -748,8 +748,8 @@
  {
   "id": "s2051:00c6e",
   "jp": "陸地に上がったウンディーネなんて\n怖くもなんともないよ。",
-  "en": "",
-  "status": "todo",
+  "en": "An Undine up on dry land doesn't scare me\none bit.",
+  "status": "done",
   "slots": [
    "0x2fd6"
   ],
@@ -758,8 +758,8 @@
  {
   "id": "s2051:00ca6",
   "jp": "フン。その言葉、私の槍で\n取り消させてやろう。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph. My spear will make you take those\nwords back.",
+  "status": "done",
   "slots": [
    "0x2ff0"
   ],
@@ -768,8 +768,8 @@
  {
   "id": "s2051:00cd4",
   "jp": "ルルゥの偽者とわかった以上、\n容赦はしないぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now that I know you're a fake Ruru, I won't\nhold back!",
+  "status": "done",
   "slots": [
    "0x3997"
   ],
@@ -778,8 +778,8 @@
  {
   "id": "s2051:00d02",
   "jp": "戦闘モードニ移行。\n戦闘、開始シマス。",
-  "en": "",
-  "status": "todo",
+  "en": "Switching to battle mode. Commencing.\nBattle.",
+  "status": "done",
   "slots": [
    "0x39b5"
   ],
@@ -788,8 +788,8 @@
  {
   "id": "s2051:00d28",
   "jp": "アナタからは悪の気配が\nプンプンします！\n覚悟しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "You reek of evil! Get ready!",
+  "status": "done",
   "slots": [
    "0x30c4"
   ],
@@ -798,8 +798,8 @@
  {
   "id": "s2051:00d5f",
   "jp": "ひどいなぁ。\n僕はただの研究者だよ？\n勝手に疑うなんて……解剖するよ？",
-  "en": "",
-  "status": "todo",
+  "en": "How cruel. I'm just a researcher, you know?\nSuspecting me like that... I'll dissect you,\nokay?",
+  "status": "done",
   "slots": [
    "0x30dd"
   ],
@@ -808,8 +808,8 @@
  {
   "id": "s2051:00da4",
   "jp": "私の親友を攻撃するとは……。\n許せません！",
-  "en": "",
-  "status": "todo",
+  "en": "Attacking my dear friend... I won't forgive\nyou!",
+  "status": "done",
   "slots": [
    "0x3a89"
   ],
@@ -828,8 +828,8 @@
  {
   "id": "s2051:00dd5",
   "jp": "本体へのダメージが深刻です。\n直ちに修理をお願いします……。",
-  "en": "",
-  "status": "todo",
+  "en": "Damage to main body is critical. Please\nrepair immediately...",
+  "status": "done",
   "slots": [
    "0x3dc5"
   ],
@@ -839,8 +839,8 @@
  {
   "id": "s2051:00e15",
   "jp": "あ……ああぁ、ボクの……ボクの\n最高傑作が……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah... aaah, my... my masterpiece...",
+  "status": "done",
   "slots": [
    "0x3dde"
   ],
@@ -850,8 +850,8 @@
  {
   "id": "s2051:00e49",
   "jp": "自分もボロボロのクセにＭｋ－２の\n心配だけしてやがる……。",
-  "en": "",
-  "status": "todo",
+  "en": "He's in pieces himself, and he's only worried\nabout Mk-II...",
+  "status": "done",
   "slots": [
    "0x4579"
   ],
@@ -861,8 +861,8 @@
  {
   "id": "s2051:00e87",
   "jp": "よかったねルルゥ、大事にされてて",
-  "en": "",
-  "status": "todo",
+  "en": "Good for you, Ruru, being so cherished.",
+  "status": "done",
   "slots": [
    "0x4592"
   ],
@@ -872,8 +872,8 @@
  {
   "id": "s2051:00eac",
   "jp": "冗談でも止めてはったおすよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Even as a joke, cut it out or I'll smack you,\nokay?",
+  "status": "done",
   "slots": [
    "0x45ab"
   ],
@@ -883,8 +883,8 @@
  {
   "id": "s2051:00ecd",
   "jp": "すいません調子に乗ってました。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, I got carried away.",
+  "status": "done",
   "slots": [
    "0x45c4"
   ],
@@ -894,8 +894,8 @@
  {
   "id": "s2051:00ef0",
   "jp": "バカやってないで、\n早いとこ風のクリスタルを\n取っちゃいましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "Stop fooling around and let's grab the wind\nCrystal, quick!",
+  "status": "done",
   "slots": [
    "0x45dd"
   ],
@@ -905,8 +905,8 @@
  {
   "id": "s2051:00f35",
   "jp": "そうだな。コイツ一人でここにいる\nとは考えづらい。",
-  "en": "",
-  "status": "todo",
+  "en": "Right. Hard to believe he's here all by\nhimself.",
+  "status": "done",
   "slots": [
    "0x4601"
   ],
@@ -916,8 +916,8 @@
  {
   "id": "s2051:00f6b",
   "jp": "なぁ親父、\nアジョー・グラフォーは\nルキア皇国の人間じゃないのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, Dad. Ain't Ajo-Grafor one of the Lukia\nEmpire's people?",
+  "status": "done",
   "slots": [
    "0x4617"
   ],
@@ -927,8 +927,8 @@
  {
   "id": "s2051:00fb0",
   "jp": "ルキア皇国は科学者を前線に\n出すほど馬鹿じゃねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire ain't dumb enough to send\na scientist to the front line.",
+  "status": "done",
   "slots": [
    "0x4630"
   ],
@@ -938,8 +938,8 @@
  {
   "id": "s2051:00fe6",
   "jp": "みんな早くぅ！",
-  "en": "",
-  "status": "todo",
+  "en": "Everyone, hurry!",
+  "status": "done",
   "slots": [
    "0x4683"
   ],
@@ -949,8 +949,8 @@
  {
   "id": "s2051:00ff9",
   "jp": "そうか。わかった。\n待ってくれルルゥ、今行くぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "I see. Got it. Wait up, Ruru, I'm comin'!",
+  "status": "done",
   "slots": [
    "0x469c"
   ],
@@ -960,8 +960,8 @@
  {
   "id": "s2051:01030",
   "jp": "我は選定者。王なる者を決め、\n王ならぬ者を排除するもの。",
-  "en": "",
-  "status": "todo",
+  "en": "I am the Selector. I decide who shall be king,\nand cast out who shall not.",
+  "status": "done",
   "slots": [
    "0x1f42"
   ],
@@ -970,8 +970,8 @@
  {
   "id": "s2051:01068",
   "jp": "失われし物質。この世ならざる物質\nそれが、王の証。",
-  "en": "",
-  "status": "todo",
+  "en": "Lost Material. Material not of this world.\nThat is the proof of a king.",
+  "status": "done",
   "slots": [
    "0x1f49"
   ],
@@ -980,8 +980,8 @@
  {
   "id": "s2051:0109a",
   "jp": "選ばれる者よ。証をここに……。",
-  "en": "",
-  "status": "todo",
+  "en": "O chosen one. Place the proof here...",
+  "status": "done",
   "slots": [
    "0x1f50"
   ],
@@ -990,8 +990,8 @@
  {
   "id": "s2051:010b9",
   "jp": "選定は終了した。我はそなたを\n王と認めよう。\nしかし、王の力はまだか弱い。",
-  "en": "",
-  "status": "todo",
+  "en": "The selection is complete. I acknowledge\nyou as king. But the power of a king is yet\nweak.",
+  "status": "done",
   "slots": [
    "0x1fbf"
   ],
@@ -1000,8 +1000,8 @@
  {
   "id": "s2051:01102",
   "jp": "偉大なるウィルに煌く時。\nその玉の名を聞けるであろう。",
-  "en": "",
-  "status": "todo",
+  "en": "When it shines with great Will, you shall\nhear the name of the orb.",
+  "status": "done",
   "slots": [
    "0x1fc6"
   ],
@@ -1010,8 +1010,8 @@
  {
   "id": "s2051:01138",
   "jp": "精進せよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Strive onward.",
+  "status": "done",
   "slots": [
    "0x1fcd"
   ],
@@ -1020,8 +1020,8 @@
  {
   "id": "s2051:01143",
   "jp": "王が道を踏み外した時。\nその玉もまた歪む。",
-  "en": "",
-  "status": "todo",
+  "en": "Should the king stray from the path, so too\nwill the orb be warped.",
+  "status": "done",
   "slots": [
    "0x2024"
   ],
@@ -1030,8 +1030,8 @@
  {
   "id": "s2051:0116d",
   "jp": "道を踏み外すな。王よ。",
-  "en": "",
-  "status": "todo",
+  "en": "Do not stray from the path, O king.",
+  "status": "done",
   "slots": [
    "0x202b"
   ],
@@ -1040,8 +1040,8 @@
  {
   "id": "s2051:01184",
   "jp": "我は選定者。王なる者を決め。\n王ならぬ者を排除するもの。",
-  "en": "",
-  "status": "todo",
+  "en": "I am the Selector. I decide who shall be king,\nand cast out who shall not.",
+  "status": "done",
   "slots": [
    "0x2043"
   ],
@@ -1050,8 +1050,8 @@
  {
   "id": "s2051:011bc",
   "jp": "失われし物質。この世ならざる物質\nそれが、王の証。",
-  "en": "",
-  "status": "todo",
+  "en": "Lost Material. Material not of this world.\nThat is the proof of a king.",
+  "status": "done",
   "slots": [
    "0x204a"
   ],
@@ -1060,8 +1060,8 @@
  {
   "id": "s2051:011ee",
   "jp": "選ばれる者よ。証をここに……。",
-  "en": "",
-  "status": "todo",
+  "en": "O chosen one. Place the proof here...",
+  "status": "done",
   "slots": [
    "0x2051"
   ],
@@ -1070,8 +1070,8 @@
  {
   "id": "s2051:0120d",
   "jp": "お、これ、なんだかいい匂いだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, this smells kinda nice.",
+  "status": "done",
   "slots": [
    "0x20eb"
   ],
@@ -1080,8 +1080,8 @@
  {
   "id": "s2051:0122e",
   "jp": "気に入った。\nちょっともらっていくぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "I like it. I'll take a little.",
+  "status": "done",
   "slots": [
    "0x2136"
   ],
@@ -1090,8 +1090,8 @@
  {
   "id": "s2051:01254",
   "jp": "最近、兄貴がお疲れのよう\nですからね。\nちょっと摘んでいきますか。",
-  "en": "",
-  "status": "todo",
+  "en": "The Boss seems tired lately. Maybe I'll pick\nsome.",
+  "status": "done",
   "slots": [
    "0x2182"
   ],
@@ -1100,8 +1100,8 @@
  {
   "id": "s2051:01295",
   "jp": "さっそく、\n兄貴に持っていってあげますか。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's take it to the Boss right away.",
+  "status": "done",
   "slots": [
    "0x21cd"
   ],
@@ -1110,8 +1110,8 @@
  {
   "id": "s2051:012bf",
   "jp": "あ、ハーブだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, herbs.",
+  "status": "done",
   "slots": [
    "0x2219"
   ],
@@ -1120,8 +1120,8 @@
  {
   "id": "s2051:012ce",
   "jp": "ん～いい匂い。",
-  "en": "",
-  "status": "todo",
+  "en": "Mmm, nice smell.",
+  "status": "done",
   "slots": [
    "0x2264"
   ],
@@ -1130,8 +1130,8 @@
  {
   "id": "s2051:012dd",
   "jp": "あら、ハーブ。\nこんな所に自生してるのね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, herbs. So they grow wild in places like\nthis.",
+  "status": "done",
   "slots": [
    "0x22b0"
   ],
@@ -1140,8 +1140,8 @@
  {
   "id": "s2051:01307",
   "jp": "ん～いい匂い。\nもうちょっともらっていこうかしら",
-  "en": "",
-  "status": "todo",
+  "en": "Mmm, nice smell. Maybe I'll take a little\nmore.",
+  "status": "done",
   "slots": [
    "0x22fb"
   ],
@@ -1150,8 +1150,8 @@
  {
   "id": "s2051:01337",
   "jp": "お、ハーブじゃねぇか。\nヘヘ、ちょっと拝借。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, ain't these herbs? Heheh, I'll borrow a\nfew.",
+  "status": "done",
   "slots": [
    "0x2347"
   ],
@@ -1160,8 +1160,8 @@
  {
   "id": "s2051:01363",
   "jp": "これで口が寂しくなくなるな。",
-  "en": "",
-  "status": "todo",
+  "en": "That'll keep my mouth busy.",
+  "status": "done",
   "slots": [
    "0x2392"
   ],
@@ -1170,8 +1170,8 @@
  {
   "id": "s2051:01380",
   "jp": "お、これはハーブだな？\nどれ、一つもらおうか",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, these are herbs, are they not? Let's\nsee, I shall take one.",
+  "status": "done",
   "slots": [
    "0x23de"
   ],
@@ -1180,8 +1180,8 @@
  {
   "id": "s2051:013ac",
   "jp": "これはいいハーブだな。\n口だけでなく、頭の中まで\nスッキリしてきたぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "These are fine herbs. Not just my mouth,\nbut even my head feels refreshed.",
+  "status": "done",
   "slots": [
    "0x2429"
   ],
@@ -1190,8 +1190,8 @@
  {
   "id": "s2051:013f1",
   "jp": "ハーブだぁ。\nいい匂いだなぁ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Herbs! They smell so nice...",
+  "status": "done",
   "slots": [
    "0x2475"
   ],
@@ -1200,8 +1200,8 @@
  {
   "id": "s2051:01411",
   "jp": "口の中がスースーして\n気持ちいいね！",
-  "en": "",
-  "status": "todo",
+  "en": "It's all minty in Locomoco's mouth! Feels\ngood!",
+  "status": "done",
   "slots": [
    "0x24c0"
   ],
@@ -1210,8 +1210,8 @@
  {
   "id": "s2051:01435",
   "jp": "お、ハーブ畑っすか。\nいい匂いっすねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, an herb patch, sir? Smells nice.",
+  "status": "done",
   "slots": [
    "0x250c"
   ],
@@ -1220,8 +1220,8 @@
  {
   "id": "s2051:0145d",
   "jp": "はぁ～癒されるっす～。",
-  "en": "",
-  "status": "todo",
+  "en": "Haaah, so soothing...",
+  "status": "done",
   "slots": [
    "0x2557"
   ],
@@ -1230,8 +1230,8 @@
  {
   "id": "s2051:01474",
   "jp": "これは……ハーブか？",
-  "en": "",
-  "status": "todo",
+  "en": "Are these... herbs?",
+  "status": "done",
   "slots": [
    "0x25a3"
   ],
@@ -1240,8 +1240,8 @@
  {
   "id": "s2051:01489",
   "jp": "ん、いいものだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Mm, these are good.",
+  "status": "done",
   "slots": [
    "0x25ee"
   ],
@@ -1250,8 +1250,8 @@
  {
   "id": "s2051:0149c",
   "jp": "あら、ハーブではないですか。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, aren't these herbs?",
+  "status": "done",
   "slots": [
    "0x263a"
   ],
@@ -1260,8 +1260,8 @@
  {
   "id": "s2051:014b9",
   "jp": "早速、ハーブティーにして\nいただきましょうか。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's make some herbal tea right away.",
+  "status": "done",
   "slots": [
    "0x2685"
   ],
@@ -1279,8 +1279,8 @@
  {
   "id": "s2051:015c5t",
   "jp": "アジョー研究団",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo Research Team",
+  "status": "done",
   "at": "0x15c8",
   "max": 14,
   "who": "team name"
