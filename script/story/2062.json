@@ -233,7 +233,7 @@
  {
   "id": "s2062:003d6",
   "jp": "一応、この都市の長をしておる。\nサイードというものじゃ。",
-  "en": "I serve as the elder of this city, for what\nit's worth. The name is Saeed.",
+  "en": "I serve as the mayor of this city, for what\nit's worth. The name is Saeed.",
   "status": "done",
   "slots": [
    "0x370f"
@@ -244,7 +244,7 @@
  {
   "id": "s2062:00412",
   "jp": "長！？\nおま……アナタが、ですか？",
-  "en": "The elder!? Y-you... I mean, you are, sir?",
+  "en": "The mayor!? Y-you... I mean, you are, sir?",
   "status": "done",
   "slots": [
    "0x3741"
@@ -629,7 +629,7 @@
  {
   "id": "s2062:00a6f",
   "jp": "長でさえも、そんな状況なのか……\nクッ。",
-  "en": "Even the elder is in such a state... Kh.",
+  "en": "Even the mayor is in such a state... Kh.",
   "status": "done",
   "slots": [
    "0x79e2"
