@@ -171,6 +171,8 @@ Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "
 | ターン終了 | End Turn | | menu command | |
 | 船長選択 | Captain Change | | ship screen (its art says so) | |
 | ナンパ勝負 | flirting contest | | | |
+| 妖しの果実 | Bewitching Fruit | | item (b016 copy of the item list; blue, cursed, 2063 dialogue) | |
+| 癒しのハーブ | Healing Herb | | revive item (c8 lines) | |
 
 Game-system words (b072-b074 tutorials; prose, not rows, because story lines use the same kanji loosely):
 Ｍｏｖ Mov, Ｐｏｗ Pow, エースタイプ Ace Type, スキル Skill, スキルゲージ Skill Gauge, チャージゲージ Charge Gauge,

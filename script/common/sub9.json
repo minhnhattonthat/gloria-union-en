@@ -2,8 +2,8 @@
  {
   "id": "c9:00158",
   "jp": "カードがねぇ……。\nこれじゃなにもできねぇぜ……！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm outta cards... I can't do a damn thing like\nthis...!",
+  "status": "done",
   "slots": [
    "0x3e"
   ],
@@ -12,8 +12,8 @@
  {
   "id": "c9:0018a",
   "jp": "カードがない……作戦ミスか！",
-  "en": "",
-  "status": "todo",
+  "en": "No cards left... My strategy failed!",
+  "status": "done",
   "slots": [
    "0x73"
   ],
@@ -22,8 +22,8 @@
  {
   "id": "c9:001a7",
   "jp": "カードが……！\nクッ、作戦を誤ったわね……。",
-  "en": "",
-  "status": "todo",
+  "en": "My cards...! Tch, I got the strategy wrong...",
+  "status": "done",
   "slots": [
    "0xdd"
   ],
@@ -32,8 +32,8 @@
  {
   "id": "c9:001d3",
   "jp": "カードがない、だと……！？\nこんなもんだったのか、俺の力は！",
-  "en": "",
-  "status": "todo",
+  "en": "No cards left, ya say...!? Is this all my\nstrength amounted to!?",
+  "status": "done",
   "slots": [
    "0x112"
   ],
@@ -42,8 +42,8 @@
  {
   "id": "c9:0020f",
   "jp": "これで終わりなのか！\nここまで来て、クソッ！　クソォ！",
-  "en": "",
-  "status": "todo",
+  "en": "Is this the end!? After coming this far,\ndammit! Dammit!",
+  "status": "done",
   "slots": [
    "0xa8"
   ],
@@ -52,8 +52,8 @@
  {
   "id": "c9:00245",
   "jp": "オイオイ、あともう少しじゃねぇか\n……終わりか。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey, we were almost there... So it's\nover.",
+  "status": "done",
   "slots": [
    "0x147"
   ],
