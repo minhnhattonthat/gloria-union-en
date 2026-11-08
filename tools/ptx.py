@@ -38,6 +38,39 @@ def unswizzle(raw, rowbytes, rows):
     return out
 
 
+def swizzle(lin, rowbytes, rows):
+    """Inverse of unswizzle: linear rows -> PSP 16x8-byte blocks."""
+    src = np.asarray(lin, dtype=np.uint8).reshape(rows, rowbytes)
+    return src.reshape(rows // 8, 8, rowbytes // 16, 16).transpose(0, 2, 1, 3).tobytes()
+
+
+def encode(b, t, rgba, nearest=False):
+    """New pixel bytes for texture t (same size, same palette) drawing the h x w x 4 image rgba. Each colour must be in
+    the palette (the first index holding it wins) unless nearest; padding columns and rows keep their old bytes.
+    Write back with b[t['do']:t['do'] + len(out)] = out."""
+    bpp = 8 if t["fmt"] == 5 else 4
+    rb = stride(t)
+    rows = (t["h"] + 7) & ~7 if t["sw"] else t["h"]
+    raw = bytes(b[t["do"]:t["do"] + rb * rows]).ljust(rb * rows, b"\0")
+    lin = (unswizzle(raw, rb, rows) if t["sw"] else np.frombuffer(raw, dtype=np.uint8)).reshape(rows, rb).copy()
+    pal = np.frombuffer(bytes(b), dtype=np.uint8, count=t["n"] * 4, offset=t["po"]).reshape(-1, 4).astype(int)
+    img = np.asarray(rgba, dtype=int)
+    assert img.shape == (t["h"], t["w"], 4), (img.shape, t["h"], t["w"])
+    d = np.abs(img[:, :, None, :] - pal[None, None, :, :]).sum(3)   # h x w x n distances
+    idx = d.argmin(2).astype(np.uint8)   # argmin takes the first of equal colours
+    if not nearest and (bad := d.min(2) > 0).any():
+        y, x = np.argwhere(bad)[0]
+        raise ValueError(f"{bad.sum()} pixels not in the palette, first at ({x},{y}): {tuple(img[y, x])}")
+    if bpp == 4:
+        px = np.zeros((rows, rb * 2), dtype=np.uint8)
+        px[:, 0::2], px[:, 1::2] = lin & 15, lin >> 4
+        px[:t["h"], :t["w"]] = idx
+        lin = (px[:, 0::2] | (px[:, 1::2] << 4)).astype(np.uint8)
+    else:
+        lin[:t["h"], :t["w"]] = idx
+    return swizzle(lin, rb, rows) if t["sw"] else lin.tobytes()
+
+
 def stride(t):
     bpp = 8 if t["fmt"] == 5 else 4
     rb = (t["w"] * bpp + 7) // 8

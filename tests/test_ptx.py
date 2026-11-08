@@ -18,6 +18,27 @@ def tex(w, h, pixels, palette=None):
 RED, BLUE = bytes((255, 0, 0, 255)), bytes((0, 0, 255, 255))
 
 
+def test_encode_roundtrip_and_palette_check():
+    """encode(decode(x)) gives the original bytes (CLUT8 and swizzled CLUT4); a colour outside the palette fails."""
+    import numpy as np
+    import pytest
+    b = tex(4, 2, bytes([0, 1, 1, 0, 1, 0, 0, 1]), [RED, BLUE])
+    t = ptx.parse(b)
+    assert ptx.encode(b, t, ptx.decode(b, t)) == b[t["do"]:]
+    img = ptx.decode(b, t).copy()
+    img[0, 0] = (0, 255, 0, 255)
+    with pytest.raises(ValueError):
+        ptx.encode(b, t, img)
+    assert ptx.encode(b, t, img, nearest=True)[0] in (0, 1)
+    # swizzled CLUT4, 32x8 (16 bytes a row: one block column)
+    px = bytes(np.random.default_rng(1).integers(0, 256, 32 * 8 // 2, dtype=np.uint8))
+    head = b"PTX@" + struct.pack("<BBHHHBBB", 5, 3, 32, 32, 8, 4, 1, 3) + b"\0" + struct.pack("<I", 16) + b"\0" * 4
+    pal = b"".join(bytes((i * 16, 0, 0, 255)) for i in range(16))
+    b4 = head + struct.pack("<II", 0x20, 0x60) + pal + px
+    t4 = ptx.parse(b4)
+    assert ptx.encode(b4, t4, ptx.decode(b4, t4)) == px
+
+
 def test_second_piece_shares_the_palette():
     b = tex(4, 2, bytes(8), [RED, BLUE]) + tex(4, 2, bytes([1]) * 8)
     a, c = ptx.scan(b)
