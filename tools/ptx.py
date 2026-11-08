@@ -140,19 +140,20 @@ def ptg_parts(b, o=0):
     return base, pieces, sprites
 
 
-def ptg_resize(b, o, w, h):
+def ptg_resize(b, o, w, h, spans=None):
     """Rebuild the PTG@ at o in bytearray b for a w x h image, in place: one PTX piece (piece 0's header and palette,
     its strip width, as many 8-row strips as the bands need, blank pixels), an exact vertex table, then
     ptg_relayout. The file grows or shrinks; a PTP container's later entry offsets move with it (16-aligned).
-    The pixels are written afterwards (gfx.write). Used where the old atlas is too small for the English."""
+    The pixels are written afterwards (gfx.write). Used where the old atlas is too small for the English.
+    spans: per 8-row band, the (x0, x1) runs to keep (the rest is clear and gets no sprite); default the whole width."""
+    spans = spans or [[(0, w)]] * ((h + 7) // 8)
     vo, to, size = struct.unpack_from("<III", b, o + 4)
     base, pieces, sprites = ptg_parts(b, o)
     t = pieces[0]
     old_end = base + size if size else t["do"] + base + stride(t) * ((t["h"] + 7) & ~7)
     sw = t["w"]
     strips, x, n = 1, 0, 0   # count strips and sprites the bands need (same packing as ptg_relayout)
-    for _ in range(0, h, 8):
-        left = w
+    for left in [x1 - x0 for band in spans for x0, x1 in band]:
         while left:
             k = min(left, sw - x)
             left, x, n = left - k, x + k, n + 1
@@ -181,25 +182,25 @@ def ptg_resize(b, o, w, h):
             if e > o:
                 struct.pack_into("<I", b, 0x10 + 4 * i, e + len(new) - old_len)
     b[o:o + old_len] = new
-    ptg_relayout(b, o, w, h)
+    ptg_relayout(b, o, w, h, spans)
 
 
-def ptg_relayout(b, o, w, h):
+def ptg_relayout(b, o, w, h, spans=None):
     """Rewrite the PTG@ at o in bytearray b as a w x h image: header size, per-piece counts and vertices, with the
     bands packed in order through the pieces' 8-row strips (a band that runs off a strip continues on the next).
     The PTX pieces are untouched, so the pixels are written afterwards (gfx.write). Fails if the atlas or the vertex
     table is too small; unused vertex slots are zeroed (the game reads the counts)."""
+    spans = spans or [[(0, w)]] * ((h + 7) // 8)
     vo, to, _ = struct.unpack_from("<III", b, o + 4)
     _, pieces, _ = ptg_parts(b, o)
     strips = [(k, r * 8, t["w"]) for k, t in enumerate(pieces) for r in range(t["h"] // 8)]
     sprites, s, u = [], 0, 0
-    for y in range(0, h, 8):
-        x = 0
-        while x < w:
+    for y, x, end in [(8 * i, x0, x1) for i, band in enumerate(spans) for x0, x1 in band]:
+        while x < end:
             assert s < len(strips), f"atlas too small for {w}x{h}"
             k, v, sw = strips[s]
-            n = min(w - x, sw - u)
-            sprites.append((k, u, v, u + n, v + 8, x, y, x + n, y + 8))
+            n, rows = min(end - x, sw - u), min(8, h - y)   # the last band of a height that isn't a multiple of 8
+            sprites.append((k, u, v, u + n, v + rows, x, y, x + n, y + rows))
             x, u = x + n, u + n
             if u == sw:
                 s, u = s + 1, 0

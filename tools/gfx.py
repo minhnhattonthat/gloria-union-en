@@ -97,6 +97,19 @@ def read(b, a):
 
 def fit(b, a, img):
     """Quantize img to the palette(s) it will be written with (stack: each texture's own)."""
+    if a["kind"] == "ptg" and not a["resize"] and a["section"] is None:
+        base, pieces, sprites = ptx.ptg_parts(b, moved(b, a)["off"])
+        pals = [np.frombuffer(bytes(b), np.uint8, t["n"] * 4, base + t["po"]).reshape(-1, 4).astype(int) for t in pieces]
+        if len({p.tobytes() for p in pals}) > 1:   # pieces with their own palettes: each sprite in its piece's palette
+            img = np.asarray(img)
+            out = np.zeros_like(img)
+            shown = np.zeros(img.shape[:2], bool)
+            for k, u0, v0, u1, v1, x0, y0, x1, y1 in sprites:
+                out[y0:y1, x0:x1] = quantize(img[y0:y1, x0:x1], pals[k])
+                shown[y0:y1, x0:x1] = True
+            lost = (img[..., 3] > 0) & ~shown   # dropped: a few rim specks are fine, whole letters are not
+            assert lost.sum() <= 120, f"{a['name']}: {lost.sum()} pixels outside every sprite, first {np.argwhere(lost)[0][::-1]}"
+            return out
     if a["kind"] != "stack":
         return quantize(img, palette(b, a))
     img = np.asarray(img)
@@ -123,7 +136,7 @@ def write(b, a, img):
         b[t["do"]:t["do"] + len(out)] = out
     else:
         if a["resize"]:   # the PNG sets the canvas: rebuild the PTG's atlas and sprites for it (the file size changes)
-            ptx.ptg_resize(b, a["off"], img.shape[1], img.shape[0])
+            ptx.ptg_resize(b, a["off"], img.shape[1], img.shape[0], a.get("trim") and spans(img))
         base, pieces, sprites = ptx.ptg_parts(b, a["off"])
         size = struct.unpack_from("<I", b, a["off"] + 12)[0]
         block = bytearray(b[base:base + size] if size else b[base:])
@@ -137,6 +150,23 @@ def write(b, a, img):
     bad = np.argwhere(~same(read(b, a), img))
     if len(bad):
         raise ValueError(f"{a['name']}: {len(bad)} pixels can't be drawn (outside every sprite?), first {bad[0][::-1]}")
+
+
+def spans(img, gap=16):
+    """Per 8-row band, the (x0, x1) runs holding any non-clear pixel (runs closer than gap merged): a trimmed resize
+    gives sprites only to these, so the file grows little (the game loads some files into fixed buffers: file 2023
+    at twice its size hung the tutorial)."""
+    out = []
+    for y in range(0, img.shape[0], 8):
+        cols = np.flatnonzero(img[y:y + 8, :, 3].any(0))
+        runs = []
+        for c in cols:
+            if runs and c - runs[-1][1] < gap:
+                runs[-1][1] = c + 1
+            else:
+                runs.append([c, c + 1])
+        out.append([tuple(map(int, r)) for r in runs])
+    return out
 
 
 def same(got, img):
@@ -819,14 +849,14 @@ def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1, 
 ASSETS = {}
 
 
-def asset(name, file, kind, off, rect, draw, resize=False, table=None, section=None):
+def asset(name, file, kind, off, rect, draw, resize=False, table=None, section=None, trim=False):
     """resize (ptg only): the redraw may have another w x h than the original; write() repacks the sprites to it.
     table (vaddr, n): an EBOOT rect table the draw function re-lays out (it returns (image, rects)).
     section: the FCT section (a PTP) of file id 3 holding the texture; off stays the offset in the whole file. Needed
     for a resize there (the section grows; insert.cpk re-lays id 3 the same way for the common scripts)."""
     assert not (resize and file == 3 and section is None), "a resize in id 3 needs its section"
     ASSETS[name] = dict(name=name, file=file, kind=kind, off=off, rect=rect, draw=draw, resize=resize, table=table,
-                        section=section)
+                        section=section, trim=trim)
 
 
 def words(name, file, off, w, h, table, keys, size):
@@ -1389,6 +1419,150 @@ def draw_glyph_words(a, t):
 
 asset("glyph_words", 3, "ptx", 0x3e8e70, (0, 0, 96, 272), draw_glyph_words, table=[(0x2c6a02, 36), (0x2c6b4a, 9)],
       section=14)
+
+
+# --- tutorial plates (file 2023: 45 PTGs 320x150/152, a title top right + yellow/white callouts; +11b660 the header) -
+# gfx/tutorial.tsv: plate offset, rect (x,y,w,h, or "title"), align l/c/r (+w: only white lettering is old text, +y:
+# only yellow; +s: serif), Japanese, English ("\n" breaks lines).
+# A callout rect is loose: the old lettering inside it (light fill + the dark rim around it) is found and inpainted,
+# and the English drawn over where it was, using the rect's width if it needs it.
+
+def tutorial_tsv():
+    out = {}
+    for ln in (GFX / "tutorial.tsv").read_text("utf8").splitlines()[1:]:
+        if ln.strip():
+            off, rect, align, _jp, en = (ln.split("\t") + [""])[:5]   # no English: cleared only
+            out.setdefault(int(off, 16), []).append((rect, align, en.replace("\\n", "\n")))
+    return out
+
+
+def _tut_title(out, text, size=16):
+    """Clear the title (the run of white/blue lettering in rows 0-23 ending nearest the right edge, with its black drop
+    shadow) and draw the English right-aligned to the same edge: white bold italic, blue rim, black shadow."""
+    top = out[:24]
+    px = top[..., :3].astype(int)
+    m = (top[..., 3] > 0) & ((px[..., 2] > px[..., 0] + 60) | (px.min(2) > 200))
+    cols = np.flatnonzero(m.any(0))
+    x1 = x0 = cols[-1]
+    for c in cols[::-1]:
+        if x0 - c > 12:
+            break
+        x0 = c
+    rows = np.flatnonzero(m[:, x0:x1 + 1].any(1))
+    y0, y1 = rows[0], rows[-1]
+    blue = px[m & (px[..., 2] > px[..., 0] + 60) & (top[..., 3] >= 250)]   # some plates' rim is alpha 253
+    vals, counts = np.unique(blue, axis=0, return_counts=True)
+    rim = tuple(int(v) for v in vals[counts.argmax()]) + (255,)
+    box = np.zeros(out.shape[:2], bool)
+    box[max(0, y0 - 1):min(24, y1 + 4), max(0, x0 - 2):min(out.shape[1], x1 + 4)] = True
+    p = out[..., :3].astype(int)
+    old = box & (out[..., 3] > 0) & ((p[..., 2] > p[..., 0] + 40) | (p.min(2) > 180) | (p.max(2) < 70) | (out[..., 3] < 255))
+    out[old] = 0
+    f = font("LiberationSans-BoldItalic.ttf", size)
+    lt = layer_text(text, f, (255, 255, 255, 255), 2, rim, lines=True)
+    room = x1 - 6   # never run into the left edge
+    if lt.width > room:
+        lt = layer_text(text, f, (255, 255, 255, 255), 2, rim, room / lt.width, lines=True)
+    sh = np.array(lt)
+    sh[..., :3] = 0
+    sh[..., 3] = np.where(sh[..., 3] > 100, 255, 0)
+    im = Image.fromarray(out)
+    x, y = x1 - 1 - lt.width, (y0 + y1) // 2 - lt.height // 2   # the shadow ends where the old ink did
+    im.alpha_composite(Image.fromarray(sh), (x + 2, y + 2))
+    im.alpha_composite(lt, (x, y))
+    return np.array(im)
+
+
+def _tut_callout(out, rect, align, text):
+    x, y, w, h = rect
+    sub = out[y:y + h, x:x + w]
+    px, al = sub[..., :3].astype(int), sub[..., 3]
+    yellow = (al > 200) & (px[..., 0] > 190) & (px[..., 1] > 140) & (px[..., 2] < 150) & (px[..., 0] - px[..., 2] > 70)
+    serif = "s" in align   # the snow plates' Mincho: grey-to-white fill, a thicker black rim
+    white = (al > 200) & ((px.min(2) > 140) & (px.max(2) - px.min(2) < 40) if serif else (px.min(2) > 215))
+    if "w" in align:   # white lettering on a yellow banner: keep the banner
+        yellow = yellow & False
+    elif "y" in align:
+        white = white & False
+    face = "LiberationSerif-Bold.ttf" if serif else "LiberationSans-Bold.ttf"
+    align = align[0]
+    fill = yellow | white
+    dark = (al > 0) & ((px.max(2) < 90) | (al < 255))
+    m = grow(fill | (dark & grow(fill, 5 if serif else 3)), 1)
+    if not m.any():
+        raise ValueError(f"tutorial callout {rect}: no lettering found")
+    ink = px[yellow if yellow.sum() > white.sum() else white]
+    vals, counts = np.unique(ink, axis=0, return_counts=True)
+    fillc = tuple(int(v) for v in vals[counts.argmax()]) + (255,)
+    ys, xs = np.nonzero(m)
+    by0, by1, bx0, bx1 = ys.min(), ys.max() + 1, xs.min(), xs.max() + 1
+    # inpaint in a margin around the rect, then snap alpha: over the clear background the hole stays clear
+    mx0, my0 = max(0, x - 4), max(0, y - 4)
+    crop = out[my0:y + h + 4, mx0:x + w + 4]
+    cm = np.zeros(crop.shape[:2], bool)
+    cm[y - my0:y - my0 + h, x - mx0:x - mx0 + w] = m
+    fixed = inpaint(crop, cm)
+    fixed[cm & (fixed[..., 3] < 128)] = 0
+    fixed[cm & (fixed[..., 3] >= 128), 3] = 255
+    crop[:] = fixed
+    if not text:   # cleared only (a Japanese name the English tag beside it already gives)
+        return out
+    lines = text.split("\n")
+    # room from where the old ink starts (l) or ends (r) to the rect's far edge; the layer has 2 px padding each side
+    room = w - bx0 if align == "l" else bx1 if align == "r" else w
+    for s in range(15, 7, -1):   # the Japanese is ~14 px; 15 px English has about the same x-height to cap height
+        f = font(face, s)
+        lts = [layer_text(ln, f, fillc, 2, (0, 0, 0, 255), lines=True) for ln in lines]
+        lh = s + 2
+        tall = lh * len(lines) + 4
+        wide = max(lt.width for lt in lts)
+        if tall <= max(by1 - by0, h) + 4 and (wide - 4) * 0.8 <= room:
+            break
+    xs_ = min(1.0, (room + 4) / wide)
+    if xs_ < 1:
+        lts = [layer_text(ln, f, fillc, 2, (0, 0, 0, 255), xs_, lines=True) for ln in lines]
+    im = Image.fromarray(out)
+    cy = y + (by0 + by1) // 2
+    ty = max(0, min(out.shape[0] - tall + 2, cy - tall // 2))
+    for i, lt in enumerate(lts):
+        if align == "l":
+            lx = x + bx0 - 2
+        elif align == "r":
+            lx = x + bx1 + 2 - lt.width
+        else:
+            lx = x + (bx0 + bx1) // 2 - lt.width // 2
+        lx = max(0, min(out.shape[1] - lt.width, lx))
+        im.alpha_composite(lt, (lx, ty + i * lh))
+    return np.array(im)
+
+
+def _tut_pill(out, text):
+    """The header's blue pill: チュートリアル (x 122-200) cleared by copying the clean column x 120, white English."""
+    out[112:132, 121:203] = out[112:132, 120:121]
+    im = Image.fromarray(out)
+    lt = layer_text(text, font("LiberationSans-Bold.ttf", 11), (255, 255, 255, 255), lines=True)
+    im.alpha_composite(lt, (161 - lt.width // 2, 122 - lt.height // 2))
+    return np.array(im)
+
+
+def draw_tutorial(a, items):
+    out = a.copy()
+    for rect, align, text in items:
+        if rect.startswith("title"):   # title[:font size]
+            out = _tut_title(out, text, int(rect[6:] or 16))
+        elif rect == "pill":
+            out = _tut_pill(out, text)
+        else:
+            out = _tut_callout(out, tuple(map(int, rect.split(","))), align, text)
+    out[out[..., 3] == 0] = 0
+    return out
+
+
+if (GFX / "tutorial.tsv").exists():
+    for _o, _items in tutorial_tsv().items():
+        asset(f"tut{_o:06x}", 2023, "ptg", _o, (0, 0, 320, 152), lambda a, t, it=_items: draw_tutorial(a, it),
+              resize=_o != 0xd21b0, trim=True)   # resize: the callouts reach texels the old atlas has no sprite for; d21b0
+        # has two palettes (a resize keeps piece 0's), so it is written into its old sprites
 
 
 def gen(names=None):

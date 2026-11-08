@@ -1,0 +1,156 @@
+off	rect	align	japanese	english
+d0	title	r	まずはカードを選択！	First, Pick a Card!
+d0	14,114,120,37	l	方向キーで選んで\n◎ボタンで決定！	D-Pad to choose,\nCircle to confirm!
+8c30	title	r	カードで決まること	What a Card Decides
+8c30	5,6,86,20	l	エースタイプ	Ace Type
+8c30	218,41,56,19	l	パワー	Power
+8c30	198,82,78,19	cw	スティール	Steal
+8c30	224,102,56,22	l	スキル	Skill
+8c30	2,115,52,20	l	機動性	Mobility
+f4d0	title	r	ユニットを移動させよう	Move a Unit
+f4d0	13,115,142,38	l	◎ボタンで\nユニットをキャッチ！	Press Circle to\ngrab a unit!
+18270	title	r	移動できる方向は…	Which Way You Can Move...
+18270	86,71,116,36	l	ユニットは\n方向キーで移動！	Move the unit\nwith the D-Pad!
+1bc50	title	r	アタックモードへの切り替え	Switching to Attack Mode
+1bc50	14,115,118,35	l	□ボタンで\nアタックモードに！	Press Square for\nAttack Mode!
+24970	title	r	バトル勝敗を予想印で判断	Read the Forecast Marks
+24970	176,25,140,20	l	優勢と予想	Advantage expected
+24970	176,89,140,20	l	劣勢と予想	Disadvantage expected
+27520	title	r	バトル突入への最終確認	Final Check Before Battle
+27520	15,129,170,21	l	◎ボタンでバトルへ突入！	Press Circle to fight!
+2fec0	title	r	残った移動力が使えるぞ！	Use Your Leftover Moves!
+2fec0	16,113,124,38	l	移動のやり方は\nいつもと同じ	Move the same\nway as always
+38c70	title	r	すべてが終わるとターン終了	All Done? End the Turn
+38c70	13,130,150,20	l	◎ボタンでターン終了	Circle ends the turn
+415d0	title	r	フォーメーション（×タイプ）	Formation (X Type)
+415d0	48,66,108,52	l	男リーダーの\n斜め方向にいる\nユニットが参戦！	Units diagonal\nto a male leader\njoin the fight!
+45e70	title	r	フォーメーション（＋タイプ）	Formation (+ Type)
+45e70	48,66,108,52	l	女リーダーの\n縦横方向にいる\nユニットが参戦！	Units in line with\na female leader\njoin the fight!
+49fe0	title	r	連戦ハンデ	Back-to-Back Handicap
+49fe0	112,26,66,18	l	1.イシュト	1.Ishut
+49fe0	111,51,74,19	l	2.ピンガー	2.Pinger
+49fe0	111,76,63,18	l	3.ルルゥ	3.Ruru
+49fe0	111,100,68,18	l	4.イシュト	4.Ishut
+49fe0	111,124,75,19	l	5.ピンガー	5.Pinger
+49fe0	3,104,84,38	l	連戦につき\nメンバー減少	Back-to-back:\nfewer members
+50070	title	r	アイコンも要チェック！	Check the Icons Too!
+57fd0	title	r	武器タイプ間の相性（その１）	Weapon Matchups (Part 1)
+57fd0	112,21,80,22	l	槍が強い！	Spear wins!
+57fd0	227,72,80,22	l	斧が強い！	Axe wins!
+57fd0	81,109,80,22	l	剣が強い！	Sword wins!
+5bc90	title	r	武器タイプ間の相性（その２）	Weapon Matchups (Part 2)
+5bc90	37,22,138,22	l	剣．槍．斧．が強い！	Sword, Spear, Axe win!
+5bc90	205,73,80,22	l	杖が強い！	Staff wins!
+5bc90	61,113,80,22	l	銃が強い！	Gun wins!
+60990	title	r	銃ユニットの特徴	Gun Unit Traits
+60990	120,30,198,20	l	突撃すると、反撃されない	Its attacks draw no counter
+60990	120,94,198,20	l	突撃されると、反撃できない	It can't counter when attacked
+65ce0	title	r	スキルを使うための必要条件	What a Skill Needs
+65ce0	4,23,114,17	l	選んだカードの	The chosen card's
+65ce0	4,40,86,17	l	エースタイプ	Ace Type
+65ce0	222,24,80,35	l	リーダーの\n武器タイプ	The leader's\nweapon type
+65ce0	12,129,150,20	l	同じであることが条件！	They must match!
+6d120	title	r	スキルの使用タイプを確認	Check the Skill Type
+6d120	56,26,240,20	c	満タンになったゲージのココに注目！	Look here when the gauge is full!
+762b0	title	r	スキル（Ｃｈａｒｇｅタイプ）の使い方	How to Use Charge Skills
+762b0	148,34,170,36	r	1.□ボタンを押して\nチャージゲージを溜める	1. Hold Square to\nfill the Charge Gauge
+762b0	148,96,162,24	r	2.満タンで離すと発動！	2. Release when full!
+762b0	100,125,142,23	c	ゲージは一瞬で空に！	Gauge empties at once!
+81070	title	r	スキル（ＫｅｅｐＯｎタイプ）の使い方	How to Use KeepOn Skills
+81070	14,24,170,20	l	1.□ボタンを押すと発動！	1. Press Square to activate!
+81070	38,44,170,33	l	2.押し続けている間、\nスキル効果が持続する	2. The effect lasts as\nlong as you hold it
+81070	116,110,140,34	c	スキル持続中は、\nゲージが減っていく！	While it lasts,\nthe gauge drains!
+88150	title	r	敵もスキルを使ってくる！	Enemies Use Skills Too!
+88150	15,115,160,35	l	ＭＡＸ状態になると、\n敵がスキルを使うことも！	At MAX, the enemy\nmay use a skill too!
+90ee0	title	r	海上、水辺地形の移動について	Moving on Sea and Waterside
+90ee0	76,26,226,33	c	海上、水辺地形に入れるユニットは\n「水棲」の移動タイプだけ！	Only Aquatic units can\nenter Sea and Waterside!
+90ee0	113,113,70,17	c	移動不可	Can't move
+90ee0	205,113,56,17	c	移動可	Can move
+96f40	title	r	氷上地形の移動について	Moving on Ice
+96f40	95,27,186,47	c	凍結して、氷上地形になると\n誰でも移動できますが、\n船の移動はできません	Frozen into Ice, the water\nlets anyone walk on it,\nbut ships can't move
+96f40	120,122,56,19	c	移動可	Can move
+96f40	196,122,70,19	c	移動不可	Can't move
+9c820	title	r	砲台について	About Cannons
+9c820	142,34,176,68	l	砲台所有勢力は\n範囲内の敵全員に\n士気ダメージを与える\n（夜間は除く）	The cannon's owner\ndeals Morale damage\nto every foe in range\n(except at night)
+a22f0	title	r	投石器について	About Catapults
+a22f0	96,87,158,50	c	フォーメーションに\n投石器を含めればＯＫ！\n（突撃時のみ有効）	Include a Catapult\nin the formation!\n(Only when attacking)
+a7b80	title	r	リンク展開の仕組み	How Link Expansion Works
+a7b80	16,114,234,33	l	参戦するユニットの周囲にも、\nさらにフォーメーションを拡張します	The formation spreads further\naround each joining unit
+ad280	title	r	リンク展開の仕組み	How Link Expansion Works
+ad280	79,23,66,20	l	＋タイプ	+ Type
+ad280	197,23,65,20	l	×タイプ	X Type
+ad280	15,112,158,31	l	各フォーメーションを\n小さくした形となります	Each one is a smaller\nversion of the formation
+b2130	title	r	砂漠地形の移動について	Moving on Desert
+b2130	96,24,202,50	c	「飛行」の移動タイプ以外は、\n砂漠地形は１ターンにつき、\n１スクエアずつしか進めません	Units that aren't Flying\ncan cross Desert only\n1 square per turn
+b2130	108,107,83,20	c	移動ＳＴＯＰ	Stops here
+b2130	204,107,60,20	c	移動可	Can move
+b7e00	title	r	毒沼地形の移動について	Moving on Poison Swamp
+b7e00	98,22,198,52	c	「飛行」の移動タイプ以外は、\n毒沼地形は１ターンにつき、\n１スクエアずつしか進めません	Units that aren't Flying\ncan cross Poison Swamp\nonly 1 square per turn
+b7e00	203,83,83,20	c	移動ＳＴＯＰ	Stops here
+b7e00	105,107,164,35	c	さらには、「瘴気」による\n士気ダメージを受けます	They also take Morale\ndamage from the miasma
+bea90	97,0,212,21	rws	雪原地形の移動について	Moving on Snow Field
+bea90	17,42,40,24	cws	雪原	Snow\nField
+bea90	100,24,206,50	c	「飛行」の移動タイプ以外は、\n雪原地形は１ターンにつき、\n１スクエアずつしか進めません	Units that aren't Flying\ncan cross Snow Field\nonly 1 square per turn
+bea90	107,108,82,19	c	移動ＳＴＯＰ	Stops here
+bea90	206,108,56,19	c	移動可	Can move
+c4d80	120,0,190,20	rws	吹雪ダメージについて	Blizzard Damage
+c4d80	33,52,42,27	cws	雪道	Snow\nRoad
+c4d80	165,52,42,27	cws	雪原	Snow\nField
+c4d80	118,92,160,51	c	雪道・雪原上で夜間を\n迎えると「吹雪」による\n士気ダメージを受けます	Night on a Snow Road or\nSnow Field brings Morale\ndamage from the blizzard
+cabc0	title:14	r	ステータス異常とは…	Status Ailments
+cabc0	70,26,248,21	l	冒毒… 士気ダメージ＋防御力低下	Morale damage + Defense down
+cabc0	72,52,240,21	l	呪縛… 移動力低下＋攻撃力低下	Movement down + Attack down
+cabc0	69,78,250,20	l	昏睡… 移動不可＋戦闘時に無抵抗	Can't move + defenseless in battle
+cabc0	69,103,150,21	l	炎上… 士気ダメージ	Morale damage
+d21b0	title:14	r	ステータス異常とは…	Status Ailments
+d21b0	84,26,54,20	l	マヒ…
+d21b0	139,26,69,20	l	移動不可	Can't move
+d21b0	80,52,58,20	l	鈍足…
+d21b0	139,52,84,20	l	移動力低下	Movement down
+d21b0	80,78,58,20	l	石化…
+d21b0	139,78,178,20	l	移動不可＋デュエル不可	Can't move or Duel
+d21b0	80,103,58,20	l	火傷…
+d21b0	139,103,178,20	l	デュエル中にＨＰが減少	HP drops during Duels
+d8a10	title	r	船について	About Ships
+d8a10	17,115,104,35	l	性能は船長に\nよって変化する	Its stats change\nwith the captain
+e0e50	title	r	船について	About Ships
+e0e50	94,99,150,20	c	味方の船のみ通行可	Only allied ships can pass
+e0e50	55,116,237,20	c	（船の上に止まると収納されます）	(A unit that stops on a ship boards it)
+e4060	title	r	船について	About Ships
+e4060	149,74,100,18	l	船の移動	Moves the ship
+e4060	149,94,170,19	l	収納されたユニットの出撃	Sends out the units aboard
+e4060	149,114,168,37	l	マップ上に砲撃\n（夜間は除く）	Bombards the map\n(except at night)
+eb0a0	title	r	船について	About Ships
+eb0a0	112,87,128,50	c	フォーメーションに\n船を含めればＯＫ！\n（突撃時のみ有効）	Include a ship\nin the formation!\n(Only when attacking)
+f0500	title	r	イータの特性（女編）	Eater Traits (Female)
+f0500	120,28,198,20	l	突撃すると、反撃されない	Its attacks draw no counter
+f0500	118,53,200,20	l	突撃されると、反撃できない	It can't counter when attacked
+f0500	118,79,200,20	l	どのユニットにも互角	Even against every unit
+f0500	118,105,200,20	l	エースを無視してスキル使用可	Uses skills whatever the Ace
+f6750	title	r	イータの特性（男編）	Eater Traits (Male)
+f6750	120,28,180,20	l	どのユニットにも有利	Advantage against every unit
+f6750	118,53,150,20	l	スキル使用不可	Can't use skills
+f9df0	title	r	イータの特性	Eater Traits
+f9df0	99,29,174,34	l	フォーメーションタイプも\n時間帯によって変化	The formation type also\nchanges with the time of day
+ff2f0	title	r	ミッション選択	Mission Select
+ff2f0	125,34,190,36	l	Ｌボタン\nＲボタン ：ミッション選択	L/R Button:\nChoose a mission
+ff2f0	123,75,190,20	l	◎ボタン： ミッション実行	Circle: Start the mission
+105b80	title	r	ミッション選択	Mission Select
+105b80	214,35,100,19	l	ミッション名	Mission Name
+105b80	217,72,100,19	l	ミッション概要	Mission Summary
+105b80	216,119,100,20	l	難易度	Difficulty
+105b80	9,94,62,16	l	幼き魔法少女	Young Magical Girl
+105b80	13,113,152,12	l	嬢ちゃんが襲われてるぜ？	A girl's bein' attacked, ya know?
+105b80	13,125,120,13	l	助けるか？	Gonna help her?
+105b80	139,123,34,13	l	難易度	Difficulty
+10c300	title	r	武器タイプ間の相性（その３）	Weapon Matchups (Part 3)
+10c300	78,28,80,22	l	鎌が強い！	Scythe wins!
+10c300	2,125,154,22	r	銃・杖と互角！	Even with Gun and Staff!
+110770	title	r	天候について	About the Weather
+110770	44,27,140,21	l	晴れ… 通常の状態	Clear... Normal
+110770	50,52,222,20	l	雨… 銃火器系の攻撃がダウン	Rain... Firearm attacks down
+110770	49,80,236,20	l	霧… 突撃時に高確率でパニック	Fog... Panic likely when attacking
+110770	74,103,200,20	l	… ユニオン範囲が縮小	...Union range shrinks
+115ca0	title	r	遺跡カードについて	About Ruin Cards
+115ca0	112,109,180,36	r	ウィルの強い者のみ\n使用可能！！	Only those with strong\nWill can use it!!
+11b660	pill	c	チュートリアル	How to Play

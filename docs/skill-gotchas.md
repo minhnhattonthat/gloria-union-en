@@ -60,3 +60,6 @@ One line per gotcha: the reference file it belongs in, then the fact.
 - references/graphics.md: finding which texture holds a visible word: slide a 14x12 opaque screenshot patch over every decoded texture of the files the scene loaded (diff 0 = exact): gloria-union-en tools/find_tex.py; worth a skill script.
 references/platform-psp.md: one PTP file with two resized PTGs: the first resize moves the second entry, so re-find PTG offsets by PTP entry number before each write (gloria tools/gfx.py moved()).
 references/graphics.md: text squeezed with a Lanczos resize leaves faint alpha specks that palette quantize turns into visible dots; zero alpha < ~48 after the resize.
+- references/emulator-qa.md: a PPSSPP savestate carries the CPK TOC in RAM; on a build where a file changed size, files loaded after the state come from stale offsets (black screen). Remake the state on the same build (cold boot) before judging a texture change.
+- references/platform-psp.md: a PTG resized to its full canvas can double a PTP file (2023: 1.18 -> 2.28 MB); give sprites only to non-clear runs per 8-row band (gfx.spans). Also clamp the last band to h % 8 rows.
+- (agent tooling) the Edit tool drops a trailing tab at the end of old/new strings: TSV rows ending in an empty field lose it; make TSV readers pad missing trailing fields.
