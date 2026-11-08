@@ -456,8 +456,8 @@
  {
   "id": "s2069:008e4",
   "jp": "覚悟しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Prepare yourself!",
+  "status": "done",
   "slots": [
    "0x20c2"
   ],

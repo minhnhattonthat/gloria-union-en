@@ -442,8 +442,8 @@
  {
   "id": "s2034:00754",
   "jp": "兄貴！",
-  "en": "",
-  "status": "todo",
+  "en": "Boss!",
+  "status": "done",
   "slots": [
    "0x1a95"
   ],

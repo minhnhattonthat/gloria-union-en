@@ -4112,8 +4112,8 @@
  {
   "id": "e:2872ec",
   "jp": "毒に冒され\n非業の死を遂げた探求者…\n　　　　‐復讐のバルダック",
-  "en": "",
-  "status": "todo",
+  "en": "A seeker poisoned, dead\nby a cruel fate...\n-Baldack the Avenger",
+  "status": "done",
   "slots": [
    "w:2f7b10"
   ]
@@ -4121,8 +4121,8 @@
  {
   "id": "e:28732c",
   "jp": "光を奪われ\n翼を封じられた天使…\n　　　　　‐堕天のエイミア",
-  "en": "",
-  "status": "todo",
+  "en": "An angel robbed of light,\nher wings sealed...\n-Aymia the Fallen",
+  "status": "done",
   "slots": [
    "w:2f7b14"
   ]
@@ -4130,8 +4130,8 @@
  {
   "id": "e:287368",
   "jp": "歴戦の中で磨かれた\n華麗なる剣技…\n　　　　　　‐伝説のホーク",
-  "en": "",
-  "status": "todo",
+  "en": "A dazzling sword skill\nhoned in many battles...\n-The Legendary Hawk",
+  "status": "done",
   "slots": [
    "w:2f7b18"
   ]
@@ -4139,8 +4139,8 @@
  {
   "id": "e:2873a8",
   "jp": "風を裂き\n如何なるものも奪い取る影…\n　　　　　　‐風魔サエザル",
-  "en": "",
-  "status": "todo",
+  "en": "A shadow splitting the\nwind, stealing anything...\n-Saezar the Wind Demon",
+  "status": "done",
   "slots": [
    "w:2f7b1c"
   ]
@@ -4148,8 +4148,8 @@
  {
   "id": "e:2873e8",
   "jp": "紅の月の夜に現れる\n狂気の悪魔…\n　　　　‐赤月の悪魔アノン",
-  "en": "",
-  "status": "todo",
+  "en": "A mad demon who comes\non crimson-moon nights...\n-Anon of the Red Moon",
+  "status": "done",
   "slots": [
    "w:2f7b20"
   ]
@@ -4157,8 +4157,8 @@
  {
   "id": "e:287424",
   "jp": "戦場を蹂躙する\n鋼鉄の人馬…\n　　　　　‐鋼鉄騎士ガラド",
-  "en": "",
-  "status": "todo",
+  "en": "Iron cavalry that trample\nthe battlefield...\n-Gallad, the Steel Knight",
+  "status": "done",
   "slots": [
    "w:2f7b24"
   ]
@@ -4166,8 +4166,8 @@
  {
   "id": "e:28745c",
   "jp": "戦塵の中に現れる\n聖杖の賢者…\n　　　　‐護人ハシャハティ",
-  "en": "",
-  "status": "todo",
+  "en": "A holy-staffed sage in the\ndust of war... -Hasha Hatti\nthe Protector",
+  "status": "done",
   "slots": [
    "w:2f7b28"
   ]
@@ -4175,8 +4175,8 @@
  {
   "id": "e:287498",
   "jp": "地獄の業火を纏った\n紅の魔導師…\n　　　　　‐大魔導マゼンデ",
-  "en": "",
-  "status": "todo",
+  "en": "A crimson mage clad in the\nfires of hell... -Masende,\nthe High Sorceress",
+  "status": "done",
   "slots": [
    "w:2f7b2c"
   ]
@@ -4184,8 +4184,8 @@
  {
   "id": "e:2874d4",
   "jp": "幾多の悲しみを閉じ込める\n氷の柩…\n　　　　‐氷葬のエンリュケ",
-  "en": "",
-  "status": "todo",
+  "en": "A coffin of ice locking in\ncountless sorrows...\n-Ice Crusher Enreuke",
+  "status": "done",
   "slots": [
    "w:2f7b30"
   ]
@@ -4193,8 +4193,8 @@
  {
   "id": "e:287514",
   "jp": "閃光と共に天空を駆ける\n気まぐれな雷神…\n　　　　　‐天空のルキオン",
-  "en": "",
-  "status": "todo",
+  "en": "A whimsical thunder god,\nflashing across the sky...\n-Ruquion of the Heavens",
+  "status": "done",
   "slots": [
    "w:2f7b34"
   ]
@@ -4202,8 +4202,8 @@
  {
   "id": "e:287558",
   "jp": "地に生を受けながら\nその心は天上にあり…\n　　　　‐聖アスタ＝ナレフ",
-  "en": "",
-  "status": "todo",
+  "en": "Born on earth, yet his\nheart dwells in heaven...\n-San Asta Narev",
+  "status": "done",
   "slots": [
    "w:2f7b38"
   ]
@@ -4211,8 +4211,8 @@
  {
   "id": "e:28759c",
   "jp": "神に代わりて\n断罪を行なう怒れる巨人…\n　　　‐怒りの巨人ドークス",
-  "en": "",
-  "status": "todo",
+  "en": "An angry giant who passes\njudgment in God's place...\n-Doekes, Lord of Rage",
+  "status": "done",
   "slots": [
    "w:2f7b3c"
   ]
@@ -4220,8 +4220,8 @@
  {
   "id": "e:2875e0",
   "jp": "片翼を持って生まれた\n双生の女神…\n　　　　‐双生のアリステラ",
-  "en": "",
-  "status": "todo",
+  "en": "A twin goddess born with\nonly one wing...\n-Gemini Aristella",
+  "status": "done",
   "slots": [
    "w:2f7b40"
   ]
@@ -4229,8 +4229,8 @@
  {
   "id": "e:287620",
   "jp": "悲劇的な革命の中に生まれた\n伝説の戦乙女…\n　　　‐戦女神ニルヴァーナ",
-  "en": "",
-  "status": "todo",
+  "en": "A war maiden born of\ntragic revolt... -Nirvana,\nGoddess of Battle",
+  "status": "done",
   "slots": [
    "w:2f7b44"
   ]
@@ -4238,8 +4238,8 @@
  {
   "id": "e:287668",
   "jp": "深き森の中の\n知られざる聖域に棲む乙女…\n　　　‐半獣の乙女ラクシミ",
-  "en": "",
-  "status": "todo",
+  "en": "A maiden of a hidden\nsanctuary in the woods...\n-Laksimi the Half-Beast",
+  "status": "done",
   "slots": [
    "w:2f7b48"
   ]
@@ -4247,8 +4247,8 @@
  {
   "id": "e:2876ac",
   "jp": "全ての穢れを落とす\nと云われる聖なる泉…\n　　　‐聖泉の精霊キュリン",
-  "en": "",
-  "status": "todo",
+  "en": "A holy spring said to wash\nall stains away... -Cullin\nFairy of the Holy Spring",
+  "status": "done",
   "slots": [
    "w:2f7b4c"
   ]
@@ -4256,8 +4256,8 @@
  {
   "id": "e:2876f0",
   "jp": "漆黒の闇より出でる\n妖艶なる悪魔…\n　　　‐闇の女帝ヴァネッサ",
-  "en": "",
-  "status": "todo",
+  "en": "A bewitching demon from\nthe dark... -Vanessa,\nEmpress of Darkness",
+  "status": "done",
   "slots": [
    "w:2f7b50"
   ]
@@ -4265,8 +4265,8 @@
  {
   "id": "e:287730",
   "jp": "光見えぬ目で未来を見\n物言わぬ口で語る占師…\n　　　　　　‐占師パスラハ",
-  "en": "",
-  "status": "todo",
+  "en": "Blind, a seer sees the\nfuture; mute, he speaks...\n-Vasuraha the Beholder",
+  "status": "done",
   "slots": [
    "w:2f7b54"
   ]
@@ -4274,8 +4274,8 @@
  {
   "id": "e:287778",
   "jp": "気まぐれな妖精と\n虹色の水晶玉…\n　　　　　　‐夢見のルビナ",
-  "en": "",
-  "status": "todo",
+  "en": "A whimsical fairy and a\nrainbow crystal ball...\n-Rubina the Dreamer",
+  "status": "done",
   "slots": [
    "w:2f7b58"
   ]
@@ -4283,8 +4283,8 @@
  {
   "id": "e:2877b4",
   "jp": "死に逝く者を選定し\n死を告げる乙女…\n　　　　　　‐葬送のイオナ",
-  "en": "",
-  "status": "todo",
+  "en": "A maiden who chooses the\ndying, telling of death...\n-Iona the Gravedigger",
+  "status": "done",
   "slots": [
    "w:2f7b5c"
   ]
@@ -4292,8 +4292,8 @@
  {
   "id": "e:2877f4",
   "jp": "樹木とともに生きる\n気高き精霊…\n　　　‐樹木の精霊ドリアデ",
-  "en": "",
-  "status": "todo",
+  "en": "A noble spirit living with\nthe trees... -Dryad, Nymph\nof the Woods",
+  "status": "done",
   "slots": [
    "w:2f7b60"
   ]
@@ -4301,8 +4301,8 @@
  {
   "id": "e:287830",
   "jp": "大いなる砂の海を\n見守る番人…\n　　　　‐砂漠の番人ラーサ",
-  "en": "",
-  "status": "todo",
+  "en": "A guardian over the great\nsea of sand... -Lhasa,\nGuardian of the Desert",
+  "status": "done",
   "slots": [
    "w:2f7b64"
   ]
@@ -4310,8 +4310,8 @@
  {
   "id": "e:28786c",
   "jp": "女神にその美貌を\n妬まれし娘…\n　　　‐魔性のエンドメイラ",
-  "en": "",
-  "status": "todo",
+  "en": "A girl so lovely a goddess\nenvied her... -Endomayla\nthe Enchantress",
+  "status": "done",
   "slots": [
    "w:2f7b68"
   ]
@@ -4319,8 +4319,8 @@
  {
   "id": "e:2878a8",
   "jp": "人里離れた荒野に棲む\n悪戯好きの小悪魔…\n　　‐小悪魔リップフェイク",
-  "en": "",
-  "status": "todo",
+  "en": "A mischievous little devil\nliving in the far wilds...\n-Ripfaike the Devilish",
+  "status": "done",
   "slots": [
    "w:2f7b6c"
   ]
@@ -4328,8 +4328,8 @@
  {
   "id": "e:2878ec",
   "jp": "幾多の外敵から\n国を守りぬいた稀代の皇帝…\n　　　‐獅子王アレムロンド",
-  "en": "",
-  "status": "todo",
+  "en": "A peerless emperor who\nsaved his land from foes...\n-Lion King Allemronde",
+  "status": "done",
   "slots": [
    "w:2f7b70"
   ]
@@ -4337,8 +4337,8 @@
  {
   "id": "e:287934",
   "jp": "暁を呼ぶ賢者が\n黎明の鐘を打ち鳴らすとき…\n　　　　　‐暁のゾイエック",
-  "en": "",
-  "status": "todo",
+  "en": "When the dawn sage rings\nthe bell of daybreak...\n-Daybreak Zoyeck",
+  "status": "done",
   "slots": [
    "w:2f7b74"
   ]
@@ -4346,8 +4346,8 @@
  {
   "id": "e:28797c",
   "jp": "忌み人の衣を纏い\nまどろみに生きる妖魔…\n　　　‐灰被りのマイメイエ",
-  "en": "",
-  "status": "todo",
+  "en": "A demon in outcasts'\nrobes, living in slumber...\n-Mimeye of the Ashes",
+  "status": "done",
   "slots": [
    "w:2f7b78"
   ]
@@ -4355,8 +4355,8 @@
  {
   "id": "e:2879c0",
   "jp": "持たざる者の手によりて\n紡がれた漆黒の翼…\n　　　　‐告死天使キュルケ",
-  "en": "",
-  "status": "todo",
+  "en": "Pitch-black wings woven\nby one who has nothing...\n-Grim Angel Kirke",
+  "status": "done",
   "slots": [
    "w:2f7b7c"
   ]
@@ -4364,8 +4364,8 @@
  {
   "id": "e:287a08",
   "jp": "人々に災いを運ぶ\n狂気の悪魔…\n　　　　　‐狂風のネルガー",
-  "en": "",
-  "status": "todo",
+  "en": "A mad demon who brings\npeople disaster...\n-Nergar of the Mad Wind",
+  "status": "done",
   "slots": [
    "w:2f7b80"
   ]
@@ -4373,8 +4373,8 @@
  {
   "id": "e:287a44",
   "jp": "奇跡を引き寄せ\n逆境を越える不屈の射手…\n　　　　‐加護のレティオル",
-  "en": "",
-  "status": "todo",
+  "en": "An unyielding archer who\ndraws miracles...\n-Retiol of Protection",
+  "status": "done",
   "slots": [
    "w:2f7b84"
   ]
@@ -4382,8 +4382,8 @@
  {
   "id": "e:287a88",
   "jp": "深淵より出で\n全てを飲み込む濁流の巨腕\n　　　　　‐海神バラトゥロ",
-  "en": "",
-  "status": "todo",
+  "en": "From the abyss, a\ntorrent's arm swallows all\n-Sea God Baraturo",
+  "status": "done",
   "slots": [
    "w:2f7b88"
   ]
@@ -4391,8 +4391,8 @@
  {
   "id": "e:287acc",
   "jp": "地獄の鎌の番人は\n触れるもの皆焼き尽くす\n　　　　‐魔人ディヴァイン",
-  "en": "",
-  "status": "todo",
+  "en": "The guardian of hell's\nscythe burns all it touches\n-Divine the Fiend",
+  "status": "done",
   "slots": [
    "w:2f7b8c"
   ]
@@ -4400,8 +4400,8 @@
  {
   "id": "e:287b10",
   "jp": "大地の化身、即ち神\n彼に逆らうものは貫かれる\n　　　　‐大地神ダグザリア",
-  "en": "",
-  "status": "todo",
+  "en": "Earth incarnate, a god;\ndefy him and be pierced\n-Earth God Dagzaria",
+  "status": "done",
   "slots": [
    "w:2f7b90"
   ]
@@ -4409,8 +4409,8 @@
  {
   "id": "e:287b58",
   "jp": "一陣の風が吹いた時\nそこにあるのは惨劇のみ\n　　　‐風天アスティボーグ",
-  "en": "",
-  "status": "todo",
+  "en": "When a gust blows, only\ntragedy remains\n-Wind Deity Astiborg",
+  "status": "done",
   "slots": [
    "w:2f7b94"
   ]
@@ -4418,8 +4418,8 @@
  {
   "id": "e:287ba0",
   "jp": "光背を浴びる聖女\n彼女は全てを統べる者\n　　‐光冠のアルマスフィア",
-  "en": "",
-  "status": "todo",
+  "en": "A holy woman bathed in a\nhalo. She rules over all\n-Almasphere of the Halo",
+  "status": "done",
   "slots": [
    "w:2f7b98"
   ]
@@ -4427,8 +4427,8 @@
  {
   "id": "e:287be4",
   "jp": "永遠に満ちぬ欲望の闇\n欲しい、まだ欲しい…\n　　‐魔利死天のデスティオ",
-  "en": "",
-  "status": "todo",
+  "en": "Darkness of desire never\nfilled. I want, want more...\n-Destio, Demon of Death",
+  "status": "done",
   "slots": [
    "w:2f7b9c"
   ]
@@ -4436,8 +4436,8 @@
  {
   "id": "e:287c2c",
   "jp": "神を穿つ槍を持つ人間\n神を見下し、神を葬る…\n　　　　‐神葬するリボルク",
-  "en": "",
-  "status": "todo",
+  "en": "A man with a god-piercing\nspear, who scorns gods...\n-Rivolk the God-Burier",
+  "status": "done",
   "slots": [
    "w:2f7ba0"
   ]
@@ -4445,8 +4445,8 @@
  {
   "id": "e:287c74",
   "jp": "拡散した軍勢が一になる時\n一人の英雄が生まれる…\n　　　　‐リウレウスの軍勢",
-  "en": "",
-  "status": "todo",
+  "en": "When a scattered army is\none, a hero is born...\n-The Legions of Riureus",
+  "status": "done",
   "slots": [
    "w:2f7ba4"
   ]
@@ -4454,8 +4454,8 @@
  {
   "id": "e:287cc0",
   "jp": "一度目覚めた獣の血は\n飢えが止むまで暴れ続ける\n　　　‐人狼ライカシルビア",
-  "en": "",
-  "status": "todo",
+  "en": "Wakened beast blood\nrages till its hunger ends\n-Lycasilvia the Werewolf",
+  "status": "done",
   "slots": [
    "w:2f7ba8"
   ]
@@ -4463,8 +4463,8 @@
  {
   "id": "e:287d0c",
   "jp": "巨人の騎士に敵などなく\n巨人は容易に国を滅ぼした\n　　　‐巨人騎士アルビオン",
-  "en": "",
-  "status": "todo",
+  "en": "The giant knight had no\nfoe; nations fell with ease\n-Albion, the Giant Knight",
+  "status": "done",
   "slots": [
    "w:2f7bac"
   ]
@@ -4472,8 +4472,8 @@
  {
   "id": "e:287d58",
   "jp": "己の命を差し出した聖人\nその命は民を救った\n　　　　　　‐聖人ペルセラ",
-  "en": "",
-  "status": "todo",
+  "en": "A saint who offered up a\nlife, and that life saved\nthe people\n-Saint Persela",
+  "status": "done",
   "slots": [
    "w:2f7bb0"
   ]
@@ -4481,8 +4481,8 @@
  {
   "id": "e:287da0",
   "jp": "降り注ぐ星に意思はなく\n白銀の炎は地上を燃やす\n　　　　　‐恒星アンタレス",
-  "en": "",
-  "status": "todo",
+  "en": "The falling stars have no\nwill; silver flames burn the\nland\n-Antares the Star",
+  "status": "done",
   "slots": [
    "w:2f7bb4"
   ]
@@ -4490,8 +4490,8 @@
  {
   "id": "e:287dec",
   "jp": "不浄を祓う清廉の乙女は\n黄金の意思で身を包む\n　‐清廉なる乙女ディーヴァ",
-  "en": "",
-  "status": "todo",
+  "en": "The maiden who purges\nfilth is clad in golden will\n-Diva the Pure Maiden",
+  "status": "done",
   "slots": [
    "w:2f7bb8"
   ]
@@ -4499,8 +4499,8 @@
  {
   "id": "e:287e34",
   "jp": "魂を黄泉へ送る箱舟\n彼は今日も魂を待つ…\n　　　‐渡し守のベルリッケ",
-  "en": "",
-  "status": "todo",
+  "en": "An ark bearing souls to\nthe Land of the Dead...\n-Berricke the Ferryman",
+  "status": "done",
   "slots": [
    "w:2f7bbc"
   ]
@@ -4508,8 +4508,8 @@
  {
   "id": "e:287e78",
   "jp": "鏡は決して表を映さない\n映すのは裏の根底のみ…\n　　　‐魔性の鏡カレイドス",
-  "en": "",
-  "status": "todo",
+  "en": "A mirror that never shows\nthe surface... -Kaleidos\nthe Bewitching Mirror",
+  "status": "done",
   "slots": [
    "w:2f7bc0"
   ]
@@ -4517,8 +4517,8 @@
  {
   "id": "e:287ecc",
   "jp": "・ＦＲＡＧＩＬＥ",
-  "en": "",
-  "status": "todo",
+  "en": "- FRAGILE",
+  "status": "done",
   "slots": [
    "w:2f7eec"
   ]
@@ -4526,8 +4526,8 @@
  {
   "id": "e:287ee0",
   "jp": "・ＤＥＴＥＣＴ",
-  "en": "",
-  "status": "todo",
+  "en": "- DETECT",
+  "status": "done",
   "slots": [
    "w:2f7ef0"
   ]
@@ -4535,8 +4535,8 @@
  {
   "id": "e:287ef0",
   "jp": "・ＴＯ ＥＡＴ",
-  "en": "",
-  "status": "todo",
+  "en": "- TO EAT",
+  "status": "done",
   "slots": [
    "w:2f7ef4"
   ]
@@ -4544,8 +4544,8 @@
  {
   "id": "e:287f00",
   "jp": "・使用可能マップ数…",
-  "en": "",
-  "status": "todo",
+  "en": "- Maps it can be used on...",
+  "status": "done",
   "slots": [
    "w:2f7ef8"
   ]
@@ -4553,8 +4553,8 @@
  {
   "id": "e:287f18",
   "jp": "・イシュト専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Ishut only",
+  "status": "done",
   "slots": [
    "w:2f7f00"
   ]
@@ -4562,8 +4562,8 @@
  {
   "id": "e:287f28",
   "jp": "・ピンガー専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Pinger only",
+  "status": "done",
   "slots": [
    "w:2f7f04"
   ]
@@ -4571,8 +4571,8 @@
  {
   "id": "e:287f38",
   "jp": "・ルルゥ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Ruru only",
+  "status": "done",
   "slots": [
    "w:2f7f08"
   ]
@@ -4580,8 +4580,8 @@
  {
   "id": "e:287f48",
   "jp": "・エリーシャ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Elisha only",
+  "status": "done",
   "slots": [
    "w:2f7f0c"
   ]
@@ -4589,8 +4589,8 @@
  {
   "id": "e:287f5c",
   "jp": "・ザザーランド専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Zazarland only",
+  "status": "done",
   "slots": [
    "w:2f7f10"
   ]
@@ -4598,8 +4598,8 @@
  {
   "id": "e:287f70",
   "jp": "・ミネソタ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Minesota only",
+  "status": "done",
   "slots": [
    "w:2f7f14"
   ]
@@ -4607,8 +4607,8 @@
  {
   "id": "e:287f80",
   "jp": "・ロコモコ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Locomoco only",
+  "status": "done",
   "slots": [
    "w:2f7f18"
   ]
@@ -4616,8 +4616,8 @@
  {
   "id": "e:287f90",
   "jp": "・ラズベリー専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Raspberry only",
+  "status": "done",
   "slots": [
    "w:2f7f1c"
   ]
@@ -4625,8 +4625,8 @@
  {
   "id": "e:287fa4",
   "jp": "・ガング専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Gangr only",
+  "status": "done",
   "slots": [
    "w:2f7f20"
   ]
@@ -4634,8 +4634,8 @@
  {
   "id": "e:287fb4",
   "jp": "・フィービー専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Fiebee only",
+  "status": "done",
   "slots": [
    "w:2f7f24"
   ]
@@ -4643,8 +4643,8 @@
  {
   "id": "e:287fc8",
   "jp": "・アンヌ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Anne only",
+  "status": "done",
   "slots": [
    "w:2f7f28"
   ]
@@ -4652,8 +4652,8 @@
  {
   "id": "e:287fd8",
   "jp": "・カミュル専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Kamuru only",
+  "status": "done",
   "slots": [
    "w:2f7f2c"
   ]
@@ -4661,8 +4661,8 @@
  {
   "id": "e:287fe8",
   "jp": "・ユグドラ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Yggdra only",
+  "status": "done",
   "slots": [
    "w:2f7f30"
   ]
@@ -4670,8 +4670,8 @@
  {
   "id": "e:287ff8",
   "jp": "・パメラ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Pamela only",
+  "status": "done",
   "slots": [
    "w:2f7f34"
   ]
@@ -4679,8 +4679,8 @@
  {
   "id": "e:288008",
   "jp": "・イータ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Eater only",
+  "status": "done",
   "slots": [
    "w:2f7f38"
   ]
@@ -4688,8 +4688,8 @@
  {
   "id": "e:288018",
   "jp": "・ユーフォリアの王のみ",
-  "en": "",
-  "status": "todo",
+  "en": "- The King of Euforia only",
+  "status": "done",
   "slots": [
    "w:2f7f3c"
   ]
@@ -4697,8 +4697,8 @@
  {
   "id": "e:288030",
   "jp": "・力持ちの人",
-  "en": "",
-  "status": "todo",
+  "en": "- The strong",
+  "status": "done",
   "slots": [
    "w:2f7f40"
   ]
@@ -4706,8 +4706,8 @@
  {
   "id": "e:288040",
   "jp": "・ガング以外",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone but Gangr",
+  "status": "done",
   "slots": [
    "w:2f7f44"
   ]
@@ -4715,8 +4715,8 @@
  {
   "id": "e:288050",
   "jp": "・イシュト以外の男性",
-  "en": "",
-  "status": "todo",
+  "en": "- Men other than Ishut",
+  "status": "done",
   "slots": [
    "w:2f7f48"
   ]
@@ -4724,8 +4724,8 @@
  {
   "id": "e:288068",
   "jp": "・ガング以外の男性",
-  "en": "",
-  "status": "todo",
+  "en": "- Men other than Gangr",
+  "status": "done",
   "slots": [
    "w:2f7f4c"
   ]
@@ -4733,8 +4733,8 @@
  {
   "id": "e:28807c",
   "jp": "・イータ以外の女性",
-  "en": "",
-  "status": "todo",
+  "en": "- Women other than Eater",
+  "status": "done",
   "slots": [
    "w:2f7f50"
   ]
@@ -4742,8 +4742,8 @@
  {
   "id": "e:288090",
   "jp": "・男性専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Men only",
+  "status": "done",
   "slots": [
    "w:2f7f54"
   ]
@@ -4751,8 +4751,8 @@
  {
   "id": "e:28809c",
   "jp": "・女性専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Women only",
+  "status": "done",
   "slots": [
    "w:2f7f58"
   ]
@@ -4760,8 +4760,8 @@
  {
   "id": "e:2880a8",
   "jp": "・重装備可能な男性",
-  "en": "",
-  "status": "todo",
+  "en": "- Men who can wear heavy\ngear",
+  "status": "done",
   "slots": [
    "w:2f7f5c"
   ]
@@ -4769,8 +4769,8 @@
  {
   "id": "e:2880bc",
   "jp": "・男性の槍タイプのみ",
-  "en": "",
-  "status": "todo",
+  "en": "- Male spear types only",
+  "status": "done",
   "slots": [
    "w:2f7f60"
   ]
@@ -4778,8 +4778,8 @@
  {
   "id": "e:2880d4",
   "jp": "・一部の女性のみ",
-  "en": "",
-  "status": "todo",
+  "en": "- Only some women",
+  "status": "done",
   "slots": [
    "w:2f7f64"
   ]
@@ -4787,8 +4787,8 @@
  {
   "id": "e:2880e8",
   "jp": "・Ｌｖ5以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "- Requires Lv 5 or higher",
+  "status": "done",
   "slots": [
    "w:2f7f68"
   ]
@@ -4796,8 +4796,8 @@
  {
   "id": "e:2880f8",
   "jp": "・Ｌｖ7以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "- Requires Lv 7 or higher",
+  "status": "done",
   "slots": [
    "w:2f7f6c"
   ]
@@ -4805,8 +4805,8 @@
  {
   "id": "e:288108",
   "jp": "・Ｌｖ8以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "- Requires Lv 8 or higher",
+  "status": "done",
   "slots": [
    "w:2f7f70"
   ]
@@ -4814,8 +4814,8 @@
  {
   "id": "e:288118",
   "jp": "・Ｌｖ9以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "- Requires Lv 9 or higher",
+  "status": "done",
   "slots": [
    "w:2f7f74"
   ]
@@ -4823,8 +4823,8 @@
  {
   "id": "e:288128",
   "jp": "・Ｌｖ10以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "- Requires Lv 10 or higher",
+  "status": "done",
   "slots": [
    "w:2f7f78"
   ]
@@ -4832,8 +4832,8 @@
  {
   "id": "e:28813c",
   "jp": "・Ｌｖ15以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "- Requires Lv 15 or higher",
+  "status": "done",
   "slots": [
    "w:2f7f7c"
   ]
@@ -4841,8 +4841,8 @@
  {
   "id": "e:288150",
   "jp": "・Ｌｖ18以上必要",
-  "en": "",
-  "status": "todo",
+  "en": "- Requires Lv 18 or higher",
+  "status": "done",
   "slots": [
    "w:2f7f80"
   ]
@@ -4850,8 +4850,8 @@
  {
   "id": "e:288164",
   "jp": "・剣タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Sword types only",
+  "status": "done",
   "slots": [
    "w:2f7f84"
   ]
@@ -4859,8 +4859,8 @@
  {
   "id": "e:288174",
   "jp": "・槍タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Spear types only",
+  "status": "done",
   "slots": [
    "w:2f7f88"
   ]
@@ -4868,8 +4868,8 @@
  {
   "id": "e:288184",
   "jp": "・斧タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Axe types only",
+  "status": "done",
   "slots": [
    "w:2f7f8c"
   ]
@@ -4877,8 +4877,8 @@
  {
   "id": "e:288194",
   "jp": "・銃タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Gun types only",
+  "status": "done",
   "slots": [
    "w:2f7f90"
   ]
@@ -4886,8 +4886,8 @@
  {
   "id": "e:2881a4",
   "jp": "・杖タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Staff types only",
+  "status": "done",
   "slots": [
    "w:2f7f94"
   ]
@@ -4895,8 +4895,8 @@
  {
   "id": "e:2881b4",
   "jp": "・鎌タイプ専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Scythe types only",
+  "status": "done",
   "slots": [
    "w:2f7f98"
   ]
@@ -4904,8 +4904,8 @@
  {
   "id": "e:2881c4",
   "jp": "・剣、槍、斧専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Swords, spears, axes only",
+  "status": "done",
   "slots": [
    "w:2f7f9c"
   ]
@@ -4913,8 +4913,8 @@
  {
   "id": "e:2881d8",
   "jp": "・銃タイプ以外",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone but gun types",
+  "status": "done",
   "slots": [
    "w:2f7fa0"
   ]
@@ -4922,8 +4922,8 @@
  {
   "id": "e:2881e8",
   "jp": "・ウィッチ系専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Witch types only",
+  "status": "done",
   "slots": [
    "w:2f7fa4"
   ]
@@ -4931,8 +4931,8 @@
  {
   "id": "e:2881fc",
   "jp": "・水棲タイプ以外",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone but aquatic\ntypes",
+  "status": "done",
   "slots": [
    "w:2f7fa8"
   ]
@@ -4940,8 +4940,8 @@
  {
   "id": "e:288210",
   "jp": "・騎馬・水棲タイプ以外",
-  "en": "",
-  "status": "todo",
+  "en": "- No cavalry or aquatic\ntypes",
+  "status": "done",
   "slots": [
    "w:2f7fac"
   ]
@@ -4949,8 +4949,8 @@
  {
   "id": "e:288228",
   "jp": "・騎馬タイプのみ",
-  "en": "",
-  "status": "todo",
+  "en": "- Cavalry types only",
+  "status": "done",
   "slots": [
    "w:2f7fb0"
   ]
@@ -4958,8 +4958,8 @@
  {
   "id": "e:28823c",
   "jp": "・18歳未満服用禁止",
-  "en": "",
-  "status": "todo",
+  "en": "- Not for anyone under 18",
+  "status": "done",
   "slots": [
    "w:2f7fb4"
   ]
@@ -4967,8 +4967,8 @@
  {
   "id": "e:288250",
   "jp": "・船専用",
-  "en": "",
-  "status": "todo",
+  "en": "- Ships only",
+  "status": "done",
   "slots": [
    "w:2f7fb8"
   ]
@@ -4976,8 +4976,8 @@
  {
   "id": "e:28825c",
   "jp": "・甘系が苦手でない人",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone who likes sweets",
+  "status": "done",
   "slots": [
    "w:2f7fbc"
   ]
@@ -4985,8 +4985,8 @@
  {
   "id": "e:288274",
   "jp": "・魔力を持つ者",
-  "en": "",
-  "status": "todo",
+  "en": "- Those with magic power",
+  "status": "done",
   "slots": [
    "w:2f7fc0"
   ]
@@ -4994,8 +4994,8 @@
  {
   "id": "e:288284",
   "jp": "・読解力のある者",
-  "en": "",
-  "status": "todo",
+  "en": "- Those who can read well",
+  "status": "done",
   "slots": [
    "w:2f7fc4"
   ]
@@ -5003,8 +5003,8 @@
  {
   "id": "e:288298",
   "jp": "・ラズベリー以外",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone but Raspberry",
+  "status": "done",
   "slots": [
    "w:2f7fc8"
   ]
@@ -5012,8 +5012,8 @@
  {
   "id": "e:2882ac",
   "jp": "・ゲテモノOKな人",
-  "en": "",
-  "status": "todo",
+  "en": "- Those who eat weird\nfood",
+  "status": "done",
   "slots": [
    "w:2f7fcc"
   ]
@@ -5021,8 +5021,8 @@
  {
   "id": "e:2882c0",
   "jp": "・菜食主義者以外",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone but vegetarians",
+  "status": "done",
   "slots": [
    "w:2f7fd0"
   ]
@@ -5030,8 +5030,8 @@
  {
   "id": "e:2882d4",
   "jp": "・指が細い人のみ",
-  "en": "",
-  "status": "todo",
+  "en": "- Slender fingers only",
+  "status": "done",
   "slots": [
    "w:2f7fd4"
   ]
@@ -5039,8 +5039,8 @@
  {
   "id": "e:2882e8",
   "jp": "・シッポの似合う人",
-  "en": "",
-  "status": "todo",
+  "en": "- Those who suit a tail",
+  "status": "done",
   "slots": [
    "w:2f7fd8"
   ]
@@ -5048,8 +5048,8 @@
  {
   "id": "e:2882fc",
   "jp": "・派手なものが好きな人",
-  "en": "",
-  "status": "todo",
+  "en": "- Those who love flashy\nthings",
+  "status": "done",
   "slots": [
    "w:2f7fdc"
   ]
@@ -5057,8 +5057,8 @@
  {
   "id": "e:288314",
   "jp": "・指の太い人",
-  "en": "",
-  "status": "todo",
+  "en": "- Those with thick fingers",
+  "status": "done",
   "slots": [
    "w:2f7fe0"
   ]
@@ -5066,8 +5066,8 @@
  {
   "id": "e:288324",
   "jp": "・牛乳嫌いな人以外",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone who doesn't\nhate milk",
+  "status": "done",
   "slots": [
    "w:2f7fe4"
   ]
@@ -5075,8 +5075,8 @@
  {
   "id": "e:288338",
   "jp": "・全員装備可能",
-  "en": "",
-  "status": "todo",
+  "en": "- Anyone can equip",
+  "status": "done",
   "slots": [
    "w:2f7fe8"
   ]
@@ -5084,8 +5084,8 @@
  {
   "id": "e:288348",
   "jp": "・全員装備不可",
-  "en": "",
-  "status": "todo",
+  "en": "- No one can equip",
+  "status": "done",
   "slots": [
    "w:2f7fec"
   ]
@@ -5093,8 +5093,8 @@
  {
   "id": "e:288358",
   "jp": "栄光の海へ",
-  "en": "",
-  "status": "todo",
+  "en": "To the Sea of Glory",
+  "status": "done",
   "slots": [
    "w:2f8098"
   ]
@@ -5102,8 +5102,8 @@
  {
   "id": "e:288364",
   "jp": "【オープニング曲】\n大海には何が待っているのか",
-  "en": "",
-  "status": "todo",
+  "en": "[Opening Theme]\nWhat awaits on the open\nsea?",
+  "status": "done",
   "slots": [
    "w:2f809c"
   ]
@@ -5111,8 +5111,8 @@
  {
   "id": "e:288394",
   "jp": "ＧＬＯＲＩＡ",
-  "en": "",
-  "status": "todo",
+  "en": "GLORIA",
+  "status": "done",
   "slots": [
    "w:2f80a8"
   ]
@@ -5120,8 +5120,8 @@
  {
   "id": "e:2883a4",
   "jp": "【タイトル画面】\n栄光の海賊達の物語が始まる！",
-  "en": "",
-  "status": "todo",
+  "en": "[Title Screen]\nThe tale of glorious\npirates begins!",
+  "status": "done",
   "slots": [
    "w:2f80ac"
   ]
@@ -5129,8 +5129,8 @@
  {
   "id": "e:2883d4",
   "jp": "古代ユーフォリア",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient Euforia",
+  "status": "done",
   "slots": [
    "w:2f80b8"
   ]
@@ -5138,8 +5138,8 @@
  {
   "id": "e:2883e8",
   "jp": "古代ユーフォリア文明の謎…\nその謎が、今明かされる…！",
-  "en": "",
-  "status": "todo",
+  "en": "The mystery of ancient\nEuforia... Now it is\nrevealed...!",
+  "status": "done",
   "slots": [
    "w:2f80bc"
   ]
@@ -5147,8 +5147,8 @@
  {
   "id": "e:288420",
   "jp": "戦場の戦慄き",
-  "en": "",
-  "status": "todo",
+  "en": "Tremor of the Battlefield",
+  "status": "done",
   "slots": [
    "w:2f80c8"
   ]
@@ -5156,8 +5156,8 @@
  {
   "id": "e:288430",
   "jp": "戦の空気が辺りを包み\n闘志が沸々と湧き上がる！",
-  "en": "",
-  "status": "todo",
+  "en": "The air of war fills the\nfield, and fighting spirit\nboils up!",
+  "status": "done",
   "slots": [
    "w:2f80cc"
   ]
@@ -5165,8 +5165,8 @@
  {
   "id": "e:288460",
   "jp": "Ｔｏ　Ｖｉｃｔｏｒｙ",
-  "en": "",
-  "status": "todo",
+  "en": "To Victory",
+  "status": "done",
   "slots": [
    "w:2f80d8"
   ]
@@ -5174,8 +5174,8 @@
  {
   "id": "e:288478",
   "jp": "勝つ為、手に入れる為。\n海賊達は万全の準備を進める",
-  "en": "",
-  "status": "todo",
+  "en": "To win, to take it all. The\npirates make ready for\nbattle",
+  "status": "done",
   "slots": [
    "w:2f80dc"
   ]
@@ -5183,8 +5183,8 @@
  {
   "id": "e:2884ac",
   "jp": "大海へ出でよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Set Out to Sea!",
+  "status": "done",
   "slots": [
    "w:2f80e8"
   ]
@@ -5192,8 +5192,8 @@
  {
   "id": "e:2884bc",
   "jp": "海賊達よ、海へ出ろ！\n無限に広がる夢を求めて！",
-  "en": "",
-  "status": "todo",
+  "en": "Pirates, out to sea! Chase\nyour boundless dreams!",
+  "status": "done",
   "slots": [
    "w:2f80ec"
   ]
@@ -5201,8 +5201,8 @@
  {
   "id": "e:2884ec",
   "jp": "遊撃戦",
-  "en": "",
-  "status": "todo",
+  "en": "Skirmish",
+  "status": "done",
   "slots": [
    "w:2f80f8"
   ]
@@ -5210,8 +5210,8 @@
  {
   "id": "e:2884f4",
   "jp": "的確に戦況を読み\n戦場を支配するのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Read the battle right and\nrule the field!",
+  "status": "done",
   "slots": [
    "w:2f80fc"
   ]
@@ -5219,8 +5219,8 @@
  {
   "id": "e:28851c",
   "jp": "突破・救出作戦",
-  "en": "",
-  "status": "todo",
+  "en": "Breakout and Rescue",
+  "status": "done",
   "slots": [
    "w:2f8108"
   ]
@@ -5228,8 +5228,8 @@
  {
   "id": "e:28852c",
   "jp": "囚われた仲間を見捨てることは\n海賊にとって一番の恥である！",
-  "en": "",
-  "status": "todo",
+  "en": "Abandoning a captured\nmate is a pirate's greatest\nshame!",
+  "status": "done",
   "slots": [
    "w:2f810c"
   ]
@@ -5237,8 +5237,8 @@
  {
   "id": "e:288568",
   "jp": "防衛戦",
-  "en": "",
-  "status": "todo",
+  "en": "Defensive Battle",
+  "status": "done",
   "slots": [
    "w:2f8118"
   ]
@@ -5246,8 +5246,8 @@
  {
   "id": "e:288570",
   "jp": "迫り来る敵の猛威！\n鉄壁の防御で守りぬけ！",
-  "en": "",
-  "status": "todo",
+  "en": "The foe's fury closes in!\nHold fast with an iron\ndefense!",
+  "status": "done",
   "slots": [
    "w:2f811c"
   ]
@@ -5255,8 +5255,8 @@
  {
   "id": "e:28859c",
   "jp": "海上決戦！",
-  "en": "",
-  "status": "todo",
+  "en": "Showdown at Sea!",
+  "status": "done",
   "slots": [
    "w:2f8128"
   ]
@@ -5264,8 +5264,8 @@
  {
   "id": "e:2885a8",
   "jp": "大海を制すもの闘いを制す！\n我は海の化身、我は海神なり！",
-  "en": "",
-  "status": "todo",
+  "en": "Who rules the sea rules the\nfight! I am the sea, the\ngod of the sea!",
+  "status": "done",
   "slots": [
    "w:2f812c"
   ]
@@ -5273,8 +5273,8 @@
  {
   "id": "e:2885e0",
   "jp": "激突！",
-  "en": "",
-  "status": "todo",
+  "en": "Clash!",
+  "status": "done",
   "slots": [
    "w:2f8138"
   ]
@@ -5282,8 +5282,8 @@
  {
   "id": "e:2885e8",
   "jp": "両軍が真っ向からぶつかる瞬間\n世界を揺るがす戦争が始まる！",
-  "en": "",
-  "status": "todo",
+  "en": "The moment two armies\ncollide, a war to shake the\nworld begins!",
+  "status": "done",
   "slots": [
    "w:2f813c"
   ]
@@ -5291,8 +5291,8 @@
  {
   "id": "e:288624",
   "jp": "神に抗う人",
-  "en": "",
-  "status": "todo",
+  "en": "Those Who Defy the Gods",
+  "status": "done",
   "slots": [
    "w:2f8148"
   ]
@@ -5300,8 +5300,8 @@
  {
   "id": "e:288630",
   "jp": "神に抗う事は罪ではない！\n諦める事こそが罪なのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Defying the gods is no sin!\nGiving up is the real sin!",
+  "status": "done",
   "slots": [
    "w:2f814c"
   ]
@@ -5309,8 +5309,8 @@
  {
   "id": "e:288664",
   "jp": "海賊たち",
-  "en": "",
-  "status": "todo",
+  "en": "Pirates",
+  "status": "done",
   "slots": [
    "w:2f8158"
   ]
@@ -5318,8 +5318,8 @@
  {
   "id": "e:288670",
   "jp": "戦う海族達の狂騒は\n獣の咆哮となり世界を揺らす！",
-  "en": "",
-  "status": "todo",
+  "en": "Fighting pirates' frenzy\nbecomes a beast's roar\nthat shakes the world!",
+  "status": "done",
   "slots": [
    "w:2f815c"
   ]
@@ -5327,8 +5327,8 @@
  {
   "id": "e:2886a0",
   "jp": "その牙、世界を喰らう",
-  "en": "",
-  "status": "todo",
+  "en": "Fangs That Devour the\nWorld",
+  "status": "done",
   "slots": [
    "w:2f8168"
   ]
@@ -5336,8 +5336,8 @@
  {
   "id": "e:2886b8",
   "jp": "膨れ上がった悪意の牙は\nこの世の全てを喰らいつくす！",
-  "en": "",
-  "status": "todo",
+  "en": "Fangs swollen with malice\nwill devour all in this\nworld!",
+  "status": "done",
   "slots": [
    "w:2f816c"
   ]
@@ -5345,8 +5345,8 @@
  {
   "id": "e:2886ec",
   "jp": "出でる敵、潜む策",
-  "en": "",
-  "status": "todo",
+  "en": "Foes Appear, Schemes\nLurk",
+  "status": "done",
   "slots": [
    "w:2f8178"
   ]
@@ -5354,8 +5354,8 @@
  {
   "id": "e:288700",
   "jp": "幾重にも練られた策は脅威の証\n商人を、甘く見るな！",
-  "en": "",
-  "status": "todo",
+  "en": "Layers of schemes prove\nthe threat. Don't take\nmerchants lightly!",
+  "status": "done",
   "slots": [
    "w:2f817c"
   ]
@@ -5363,8 +5363,8 @@
  {
   "id": "e:288734",
   "jp": "屍を抱く聖女",
-  "en": "",
-  "status": "todo",
+  "en": "The Saint Who Holds the\nDead",
+  "status": "done",
   "slots": [
    "w:2f8188"
   ]
@@ -5372,8 +5372,8 @@
  {
   "id": "e:288744",
   "jp": "平和を願う光背の聖女は\n屍の山から世界を照らしていた",
-  "en": "",
-  "status": "todo",
+  "en": "The haloed saint of peace\nlit the world from a\nmountain of corpses",
+  "status": "done",
   "slots": [
    "w:2f818c"
   ]
@@ -5381,8 +5381,8 @@
  {
   "id": "e:288778",
   "jp": "光を求める者たち",
-  "en": "",
-  "status": "todo",
+  "en": "Those Who Seek the Light",
+  "status": "done",
   "slots": [
    "w:2f8198"
   ]
@@ -5390,8 +5390,8 @@
  {
   "id": "e:28878c",
   "jp": "世界最強のルキア皇国軍\n負けることは許されない！",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire's army,\nstrongest in the world.\nDefeat is not allowed!",
+  "status": "done",
   "slots": [
    "w:2f819c"
   ]
@@ -5399,8 +5399,8 @@
  {
   "id": "e:2887bc",
   "jp": "聖戦の系譜",
-  "en": "",
-  "status": "todo",
+  "en": "Lineage of the Holy War",
+  "status": "done",
   "slots": [
    "w:2f81a8"
   ]
@@ -5408,8 +5408,8 @@
  {
   "id": "e:2887c8",
   "jp": "数千年の歴史を経て蘇りし力\n世界は再び滅ぶのであろうか…",
-  "en": "",
-  "status": "todo",
+  "en": "A power reborn after\nmillennia. Will the world\nfall once more...?",
+  "status": "done",
   "slots": [
    "w:2f81ac"
   ]
@@ -5417,8 +5417,8 @@
  {
   "id": "e:288800",
   "jp": "仲間への信頼",
-  "en": "",
-  "status": "todo",
+  "en": "Trust in Comrades",
+  "status": "done",
   "slots": [
    "w:2f81b8"
   ]
@@ -5426,8 +5426,8 @@
  {
   "id": "e:288810",
   "jp": "【ユニオン結成のテーマ】\n絆の力は無限の意思を生む！",
-  "en": "",
-  "status": "todo",
+  "en": "[Union Theme]\nThe power of bonds gives\nrise to endless Will!",
+  "status": "done",
   "slots": [
    "w:2f81bc"
   ]
@@ -5435,8 +5435,8 @@
  {
   "id": "e:288844",
   "jp": "蒼海の少年",
-  "en": "",
-  "status": "todo",
+  "en": "Boy of the Blue Sea",
+  "status": "done",
   "slots": [
    "w:2f81c8"
   ]
@@ -5444,8 +5444,8 @@
  {
   "id": "e:288850",
   "jp": "【イシュトのテーマ】\n少年はその剣で大海を斬る！",
-  "en": "",
-  "status": "todo",
+  "en": "[Ishut's Theme]\nThe boy cleaves the great\nsea with his sword!",
+  "status": "done",
   "slots": [
    "w:2f81cc"
   ]
@@ -5453,8 +5453,8 @@
  {
   "id": "e:288880",
   "jp": "ユーフォリアへ導く者",
-  "en": "",
-  "status": "todo",
+  "en": "She Who Guides to Euforia",
+  "status": "done",
   "slots": [
    "w:2f81d8"
   ]
@@ -5462,8 +5462,8 @@
  {
   "id": "e:288898",
   "jp": "【ルルゥのテーマ】\n少女は少年を運命劇へと導く",
-  "en": "",
-  "status": "todo",
+  "en": "[Ruru's Theme]\nThe girl leads the boy into\na drama of fate",
+  "status": "done",
   "slots": [
    "w:2f81dc"
   ]
@@ -5471,8 +5471,8 @@
  {
   "id": "e:2888c8",
   "jp": "双銃は戦場で歌う",
-  "en": "",
-  "status": "todo",
+  "en": "Twin Guns Sing on the\nField",
+  "status": "done",
   "slots": [
    "w:2f81e8"
   ]
@@ -5480,8 +5480,8 @@
  {
   "id": "e:2888dc",
   "jp": "【エリーシャのテーマ】\n戦場を舞う一輪の火炎華！",
-  "en": "",
-  "status": "todo",
+  "en": "[Elisha's Theme]\nA flower of flame dancing\non the battlefield!",
+  "status": "done",
   "slots": [
    "w:2f81ec"
   ]
@@ -5489,8 +5489,8 @@
  {
   "id": "e:28890c",
   "jp": "【ザザーランドのテーマ】\n大海の覇者は戦場を蹂躙する！",
-  "en": "",
-  "status": "todo",
+  "en": "[Zazarland's Theme]\nThe ruler of the seas\ntramples the field!",
+  "status": "done",
   "slots": [
    "w:2f81fc"
   ]
@@ -5498,8 +5498,8 @@
  {
   "id": "e:288944",
   "jp": "猫耳の海賊",
-  "en": "",
-  "status": "todo",
+  "en": "The Cat-Eared Pirate",
+  "status": "done",
   "slots": [
    "w:2f8208"
   ]
@@ -5507,8 +5507,8 @@
  {
   "id": "e:288950",
   "jp": "【ピンガーのテーマ】\n愛する人の為に荒野を駆ける！",
-  "en": "",
-  "status": "todo",
+  "en": "[Pinger's Theme]\nRunning through the wilds\nfor the one she loves!",
+  "status": "done",
   "slots": [
    "w:2f820c"
   ]
@@ -5516,8 +5516,8 @@
  {
   "id": "e:288984",
   "jp": "戦う考古学者！",
-  "en": "",
-  "status": "todo",
+  "en": "The Fighting\nArchaeologist!",
+  "status": "done",
   "slots": [
    "w:2f8218"
   ]
@@ -5525,8 +5525,8 @@
  {
   "id": "e:288994",
   "jp": "【ミネソタ・グレイのテーマ】\n正しきマナーを貫き通す！",
-  "en": "",
-  "status": "todo",
+  "en": "[Minesota Gray's Theme]\nProper manners, upheld to\nthe end!",
+  "status": "done",
   "slots": [
    "w:2f821c"
   ]
@@ -5534,8 +5534,8 @@
  {
   "id": "e:2889cc",
   "jp": "キャンディーパワー！",
-  "en": "",
-  "status": "todo",
+  "en": "Candy Power!",
+  "status": "done",
   "slots": [
    "w:2f8228"
   ]
@@ -5543,8 +5543,8 @@
  {
   "id": "e:2889e4",
   "jp": "【ロコモコのテーマ】\n幼き笑みは流星の輝き！",
-  "en": "",
-  "status": "todo",
+  "en": "[Locomoco's Theme]\nA young smile shines like a\nshooting star!",
+  "status": "done",
   "slots": [
    "w:2f822c"
   ]
@@ -5552,8 +5552,8 @@
  {
   "id": "e:288a10",
   "jp": "魔槍を持つ吸血鬼",
-  "en": "",
-  "status": "todo",
+  "en": "Vampire with a Demon\nSpear",
+  "status": "done",
   "slots": [
    "w:2f8238"
   ]
@@ -5561,8 +5561,8 @@
  {
   "id": "e:288a24",
   "jp": "【ラズベリーのテーマ】\nその魔槍は罪人を穿つ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Raspberry's Theme]\nThat demon spear pierces\nsinners!",
+  "status": "done",
   "slots": [
    "w:2f823c"
   ]
@@ -5570,8 +5570,8 @@
  {
   "id": "e:288a54",
   "jp": "流れる清廉の意思",
-  "en": "",
-  "status": "todo",
+  "en": "Flowing Pure Will",
+  "status": "done",
   "slots": [
    "w:2f8248"
   ]
@@ -5579,8 +5579,8 @@
  {
   "id": "e:288a68",
   "jp": "【フィービーのテーマ】\n故郷の為にその槍を振るう！",
-  "en": "",
-  "status": "todo",
+  "en": "[Fiebee's Theme]\nShe wields her spear for\nher homeland!",
+  "status": "done",
   "slots": [
    "w:2f824c"
   ]
@@ -5588,8 +5588,8 @@
  {
   "id": "e:288a9c",
   "jp": "ガガガガング！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagagaga-Gangr!",
+  "status": "done",
   "slots": [
    "w:2f8258"
   ]
@@ -5597,8 +5597,8 @@
  {
   "id": "e:288aac",
   "jp": "【ガングのテーマ】\n堅牢なる遺跡の守護者！",
-  "en": "",
-  "status": "todo",
+  "en": "[Gangr's Theme]\nThe sturdy guardian of\nthe ruins!",
+  "status": "done",
   "slots": [
    "w:2f825c"
   ]
@@ -5606,8 +5606,8 @@
  {
   "id": "e:288ad8",
   "jp": "【ユグドラのテーマ】\n可憐な乙女は悪を滅する！",
-  "en": "",
-  "status": "todo",
+  "en": "[Yggdra's Theme]\nA lovely maiden destroys\nevil!",
+  "status": "done",
   "slots": [
    "w:2f826c"
   ]
@@ -5615,8 +5615,8 @@
  {
   "id": "e:288b08",
   "jp": "Ｂｒａｖｅ！",
-  "en": "",
-  "status": "todo",
+  "en": "Brave!",
+  "status": "done",
   "slots": [
    "w:2f8278"
   ]
@@ -5624,8 +5624,8 @@
  {
   "id": "e:288b18",
   "jp": "【カミュルのテーマ】\n気合の雄叫びは敵を震わせる！",
-  "en": "",
-  "status": "todo",
+  "en": "[Kamuru's Theme]\nA spirited war cry makes\nfoes tremble!",
+  "status": "done",
   "slots": [
    "w:2f827c"
   ]
@@ -5633,8 +5633,8 @@
  {
   "id": "e:288b4c",
   "jp": "強欲なる女海賊",
-  "en": "",
-  "status": "todo",
+  "en": "The Greedy Pirate Woman",
+  "status": "done",
   "slots": [
    "w:2f8288"
   ]
@@ -5642,8 +5642,8 @@
  {
   "id": "e:288b5c",
   "jp": "【アンヌのテーマ】\n全ては宝を手に入れる為に！",
-  "en": "",
-  "status": "todo",
+  "en": "[Anne's Theme]\nAll to get her hands on\ntreasure!",
+  "status": "done",
   "slots": [
    "w:2f828c"
   ]
@@ -5651,8 +5651,8 @@
  {
   "id": "e:288b8c",
   "jp": "パメラ様だわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela-sama, Dontcha\nKnow!",
+  "status": "done",
   "slots": [
    "w:2f8298"
   ]
@@ -5660,8 +5660,8 @@
  {
   "id": "e:288ba0",
   "jp": "【パメラのテーマ】\n異彩を放つ伝説の魔法少女！",
-  "en": "",
-  "status": "todo",
+  "en": "[Pamela's Theme]\nThe one-of-a-kind\nlegendary magical girl!",
+  "status": "done",
   "slots": [
    "w:2f829c"
   ]
@@ -5669,8 +5669,8 @@
  {
   "id": "e:288bd0",
   "jp": "可憐に、獰猛に",
-  "en": "",
-  "status": "todo",
+  "en": "Lovely and Ferocious",
+  "status": "done",
   "slots": [
    "w:2f82a8"
   ]
@@ -5678,8 +5678,8 @@
  {
   "id": "e:288be0",
   "jp": "【イータのテーマ】\n戦場に響く琴の音色と拳の音色",
-  "en": "",
-  "status": "todo",
+  "en": "[Eater's Theme]\nHarp strings and fists ring\nout on the battlefield",
+  "status": "done",
   "slots": [
    "w:2f82ac"
   ]
@@ -5687,8 +5687,8 @@
  {
   "id": "e:288c10",
   "jp": "大海に夢を託した者達",
-  "en": "",
-  "status": "todo",
+  "en": "Dreams Entrusted to the\nSea",
+  "status": "done",
   "slots": [
    "w:2f82b8"
   ]
@@ -5696,8 +5696,8 @@
  {
   "id": "e:288c28",
   "jp": "【海賊のテーマ】\nまだ見ぬ海賊達が彼らを待つ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Pirates' Theme]\nUnknown pirates await\nthem!",
+  "status": "done",
   "slots": [
    "w:2f82bc"
   ]
@@ -5705,8 +5705,8 @@
  {
   "id": "e:288c58",
   "jp": "垂涎する牙",
-  "en": "",
-  "status": "todo",
+  "en": "Drooling Fangs",
+  "status": "done",
   "slots": [
    "w:2f82c8"
   ]
@@ -5714,8 +5714,8 @@
  {
   "id": "e:288c64",
   "jp": "【黒い牙子分のテーマ】\nその牙は死体すらも貪る！",
-  "en": "",
-  "status": "todo",
+  "en": "[Black Fang Lackeys'\nTheme]\nThose fangs devour even\ncorpses!",
+  "status": "done",
   "slots": [
    "w:2f82cc"
   ]
@@ -5723,8 +5723,8 @@
  {
   "id": "e:288c94",
   "jp": "極上の悪意",
-  "en": "",
-  "status": "todo",
+  "en": "Choice Malice",
+  "status": "done",
   "slots": [
    "w:2f82d8"
   ]
@@ -5732,8 +5732,8 @@
  {
   "id": "e:288ca0",
   "jp": "【黒い牙ボスのテーマ】\n無情で冷酷な剣が襲い掛かる！",
-  "en": "",
-  "status": "todo",
+  "en": "[Black Fang Boss Theme]\nA cold, merciless blade\nstrikes!",
+  "status": "done",
   "slots": [
    "w:2f82dc"
   ]
@@ -5741,8 +5741,8 @@
  {
   "id": "e:288cd4",
   "jp": "欲塗れの商人達",
-  "en": "",
-  "status": "todo",
+  "en": "Merchants Steeped in\nGreed",
+  "status": "done",
   "slots": [
    "w:2f82e8"
   ]
@@ -5750,8 +5750,8 @@
  {
   "id": "e:288ce4",
   "jp": "【商団団員のテーマ】\n武装した商人の実力を見よ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Guild Members' Theme]\nBehold the might of\narmed merchants!",
+  "status": "done",
   "slots": [
    "w:2f82ec"
   ]
@@ -5759,8 +5759,8 @@
  {
   "id": "e:288d14",
   "jp": "逸れないレールの上で",
-  "en": "",
-  "status": "todo",
+  "en": "On Rails That Never Stray",
+  "status": "done",
   "slots": [
    "w:2f82f8"
   ]
@@ -5768,8 +5768,8 @@
  {
   "id": "e:288d2c",
   "jp": "【商団ボスのテーマ】\n巧妙な策、見破れるか…！",
-  "en": "",
-  "status": "todo",
+  "en": "[Guild Boss Theme]\nCan you see through the\ncunning scheme...!",
+  "status": "done",
   "slots": [
    "w:2f82fc"
   ]
@@ -5777,8 +5777,8 @@
  {
   "id": "e:288d5c",
   "jp": "明日の希望の為に…",
-  "en": "",
-  "status": "todo",
+  "en": "For Tomorrow's Hope...",
+  "status": "done",
   "slots": [
    "w:2f8308"
   ]
@@ -5786,8 +5786,8 @@
  {
   "id": "e:288d70",
   "jp": "【反皇国連合のテーマ】\n皇国を挫く為、その腕を振る！",
-  "en": "",
-  "status": "todo",
+  "en": "[Anti-Imperial Federation\nTheme]\nSwing your arm to break\nthe Empire!",
+  "status": "done",
   "slots": [
    "w:2f830c"
   ]
@@ -5795,8 +5795,8 @@
  {
   "id": "e:288da4",
   "jp": "捧げられた聖女",
-  "en": "",
-  "status": "todo",
+  "en": "The Offered Saint",
+  "status": "done",
   "slots": [
    "w:2f8318"
   ]
@@ -5804,8 +5804,8 @@
  {
   "id": "e:288db4",
   "jp": "【エンリエッタのテーマ】\nその全ては平和の為の犠牲…",
-  "en": "",
-  "status": "todo",
+  "en": "[Enryetta's Theme]\nAll of it a sacrifice for\npeace...",
+  "status": "done",
   "slots": [
    "w:2f831c"
   ]
@@ -5813,8 +5813,8 @@
  {
   "id": "e:288de8",
   "jp": "進軍！！",
-  "en": "",
-  "status": "todo",
+  "en": "March!!",
+  "status": "done",
   "slots": [
    "w:2f8328"
   ]
@@ -5822,8 +5822,8 @@
  {
   "id": "e:288df4",
   "jp": "【ルキア皇国軍のテーマ】\n絶対的勝利へと、進軍せよ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Lukia Imperial Army\nTheme]\nMarch on to absolute\nvictory!",
+  "status": "done",
   "slots": [
    "w:2f832c"
   ]
@@ -5831,8 +5831,8 @@
  {
   "id": "e:288e28",
   "jp": "最強にして不破の豪傑",
-  "en": "",
-  "status": "todo",
+  "en": "Strongest, Unbreakable\nHero",
+  "status": "done",
   "slots": [
    "w:2f8338"
   ]
@@ -5840,8 +5840,8 @@
  {
   "id": "e:288e40",
   "jp": "【皇国騎士団将軍のテーマ】\n決して破られる事はない！",
-  "en": "",
-  "status": "todo",
+  "en": "[Imperial Knights' General\nTheme]\nNever to be broken!",
+  "status": "done",
   "slots": [
    "w:2f833c"
   ]
@@ -5849,8 +5849,8 @@
  {
   "id": "e:288e74",
   "jp": "求める者",
-  "en": "",
-  "status": "todo",
+  "en": "The Seeker",
+  "status": "done",
   "slots": [
    "w:2f8348"
   ]
@@ -5858,8 +5858,8 @@
  {
   "id": "e:288e80",
   "jp": "【ルキア皇国ボスのテーマ】\n力を我に！　幸福を我に！",
-  "en": "",
-  "status": "todo",
+  "en": "[Lukia Empire Boss Theme]\nPower to me! Happiness\nto me!",
+  "status": "done",
   "slots": [
    "w:2f834c"
   ]
@@ -5867,8 +5867,8 @@
  {
   "id": "e:288eb4",
   "jp": "ユーフォリアの力",
-  "en": "",
-  "status": "todo",
+  "en": "The Power of Euforia",
+  "status": "done",
   "slots": [
    "w:2f8358"
   ]
@@ -5876,8 +5876,8 @@
  {
   "id": "e:288ec8",
   "jp": "【ユーフォリアのテーマ】\nこれが、世界を支配した力だ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Euforia's Theme]\nThis is the power that\nonce ruled the world!",
+  "status": "done",
   "slots": [
    "w:2f835c"
   ]
@@ -5885,8 +5885,8 @@
  {
   "id": "e:288f00",
   "jp": "勝利！",
-  "en": "",
-  "status": "todo",
+  "en": "Victory!",
+  "status": "done",
   "slots": [
    "w:2f8368"
   ]
@@ -5894,8 +5894,8 @@
  {
   "id": "e:288f08",
   "jp": "【勝利ジングル】\n勝利の美酒に酔え！",
-  "en": "",
-  "status": "todo",
+  "en": "[Victory Jingle]\nDrink deep the wine of\nvictory!",
+  "status": "done",
   "slots": [
    "w:2f836c"
   ]
@@ -5903,8 +5903,8 @@
  {
   "id": "e:288f2c",
   "jp": "不屈",
-  "en": "",
-  "status": "todo",
+  "en": "Indomitable",
+  "status": "done",
   "slots": [
    "w:2f8378"
   ]
@@ -5912,8 +5912,8 @@
  {
   "id": "e:288f34",
   "jp": "【敗北ジングル】\n次こそは負けない！",
-  "en": "",
-  "status": "todo",
+  "en": "[Defeat Jingle]\nNext time I won't lose!",
+  "status": "done",
   "slots": [
    "w:2f837c"
   ]
@@ -5921,8 +5921,8 @@
  {
   "id": "e:288f58",
   "jp": "戦いは続く",
-  "en": "",
-  "status": "todo",
+  "en": "The Fight Goes On",
+  "status": "done",
   "slots": [
    "w:2f8388"
   ]
@@ -5930,8 +5930,8 @@
  {
   "id": "e:288f64",
   "jp": "【勝利ジングル】\n次なる勝利へ精進せよ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Victory Jingle]\nTrain hard for the next\nvictory!",
+  "status": "done",
   "slots": [
    "w:2f838c"
   ]
@@ -5939,8 +5939,8 @@
  {
   "id": "e:288f8c",
   "jp": "戦いの果てに",
-  "en": "",
-  "status": "todo",
+  "en": "At the End of Battle",
+  "status": "done",
   "slots": [
    "w:2f8398"
   ]
@@ -5948,8 +5948,8 @@
  {
   "id": "e:288f9c",
   "jp": "【リザルト画面】\n戦いの行方は…！？",
-  "en": "",
-  "status": "todo",
+  "en": "[Results Screen]\nHow did the battle turn\nout...!?",
+  "status": "done",
   "slots": [
    "w:2f839c"
   ]
@@ -5957,8 +5957,8 @@
  {
   "id": "e:288fc0",
   "jp": "勝利の宴",
-  "en": "",
-  "status": "todo",
+  "en": "Victory Feast",
+  "status": "done",
   "slots": [
    "w:2f83a8"
   ]
@@ -5966,8 +5966,8 @@
  {
   "id": "e:288fcc",
   "jp": "【シナリオクリアジングル】\n勝利の喜びは友と分かち合え！",
-  "en": "",
-  "status": "todo",
+  "en": "[Scenario Clear Jingle]\nShare the joy of victory\nwith friends!",
+  "status": "done",
   "slots": [
    "w:2f83ac"
   ]
@@ -5975,8 +5975,8 @@
  {
   "id": "e:289004",
   "jp": "深淵へ消える意思",
-  "en": "",
-  "status": "todo",
+  "en": "Will Lost to the Abyss",
+  "status": "done",
   "slots": [
    "w:2f83b8"
   ]
@@ -5984,8 +5984,8 @@
  {
   "id": "e:289018",
   "jp": "【シナリオ未クリアジングル】\n戦略を改め、再戦を誓え！",
-  "en": "",
-  "status": "todo",
+  "en": "[Scenario Failed Jingle]\nRethink your plan and vow\na rematch!",
+  "status": "done",
   "slots": [
    "w:2f83bc"
   ]
@@ -5993,8 +5993,8 @@
  {
   "id": "e:289050",
   "jp": "流れるままの日々",
-  "en": "",
-  "status": "todo",
+  "en": "Days Adrift",
+  "status": "done",
   "slots": [
    "w:2f83c8"
   ]
@@ -6002,8 +6002,8 @@
  {
   "id": "e:289064",
   "jp": "【民衆のテーマ】\n戦いの無い緩やかで平和な日常",
-  "en": "",
-  "status": "todo",
+  "en": "[Townsfolk Theme]\nCalm, peaceful days\nwithout war",
+  "status": "done",
   "slots": [
    "w:2f83cc"
   ]
@@ -6011,8 +6011,8 @@
  {
   "id": "e:289094",
   "jp": "覚醒する意思の力",
-  "en": "",
-  "status": "todo",
+  "en": "Power of Awakening Will",
+  "status": "done",
   "slots": [
    "w:2f83d8"
   ]
@@ -6020,8 +6020,8 @@
  {
   "id": "e:2890a8",
   "jp": "【勇壮のテーマ】\n我等の意思を受けてみよ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Heroic Theme]\nTake the force of our will!",
+  "status": "done",
   "slots": [
    "w:2f83dc"
   ]
@@ -6029,8 +6029,8 @@
  {
   "id": "e:2890d4",
   "jp": "一触即発",
-  "en": "",
-  "status": "todo",
+  "en": "A Hair's Breadth from War",
+  "status": "done",
   "slots": [
    "w:2f83e8"
   ]
@@ -6038,8 +6038,8 @@
  {
   "id": "e:2890e0",
   "jp": "【対峙のテーマ】\n奴にだけは負けてはならない！",
-  "en": "",
-  "status": "todo",
+  "en": "[Standoff Theme]\nHim, of all people, I can't\nlose to!",
+  "status": "done",
   "slots": [
    "w:2f83ec"
   ]
@@ -6047,8 +6047,8 @@
  {
   "id": "e:289110",
   "jp": "瀬戸際の攻防",
-  "en": "",
-  "status": "todo",
+  "en": "Fighting on the Brink",
+  "status": "done",
   "slots": [
    "w:2f83f8"
   ]
@@ -6056,8 +6056,8 @@
  {
   "id": "e:289120",
   "jp": "【侵略のテーマ】\nこのピンチ。どう乗り切る…！",
-  "en": "",
-  "status": "todo",
+  "en": "[Invasion Theme]\nHow will we get out of\nthis pinch...!",
+  "status": "done",
   "slots": [
    "w:2f83fc"
   ]
@@ -6065,8 +6065,8 @@
  {
   "id": "e:289150",
   "jp": "海の涙",
-  "en": "",
-  "status": "todo",
+  "en": "Tears of the Sea",
+  "status": "done",
   "slots": [
    "w:2f8408"
   ]
@@ -6074,8 +6074,8 @@
  {
   "id": "e:289158",
   "jp": "【運命のテーマ】\n一つの運命が終わりを遂げる…",
-  "en": "",
-  "status": "todo",
+  "en": "[Fate Theme]\nOne fate comes to its\nend...",
+  "status": "done",
   "slots": [
    "w:2f840c"
   ]
@@ -6092,8 +6092,8 @@
  {
   "id": "e:289194",
   "jp": "【エクストラコンテンツ】\n記録された海賊達の歴史",
-  "en": "",
-  "status": "todo",
+  "en": "[Extra Contents]\nThe recorded history of\nthe pirates",
+  "status": "done",
   "slots": [
    "w:2f841c"
   ]
@@ -6101,8 +6101,8 @@
  {
   "id": "e:2891c4",
   "jp": "戦いの歴史",
-  "en": "",
-  "status": "todo",
+  "en": "History of Battle",
+  "status": "done",
   "slots": [
    "w:2f8428"
   ]
@@ -6110,8 +6110,8 @@
  {
   "id": "e:2891d0",
   "jp": "【セーブ画面】\n次の物語が、彼等を待つ！",
-  "en": "",
-  "status": "todo",
+  "en": "[Save Screen]\nThe next story awaits\nthem!",
+  "status": "done",
   "slots": [
    "w:2f842c"
   ]
@@ -6119,8 +6119,8 @@
  {
   "id": "e:2891f8",
   "jp": "蒼海と共に…",
-  "en": "",
-  "status": "todo",
+  "en": "With the Blue Sea...",
+  "status": "done",
   "slots": [
    "w:2f8438"
   ]
@@ -6128,8 +6128,8 @@
  {
   "id": "e:289208",
   "jp": "【エンディングテーマ曲】\n彼等の意思は永遠に生き続ける",
-  "en": "",
-  "status": "todo",
+  "en": "[Ending Theme]\nTheir will lives on forever",
+  "status": "done",
   "slots": [
    "w:2f843c"
   ]
@@ -6137,8 +6137,8 @@
  {
   "id": "e:289240",
   "jp": "栄光へと続く航路",
-  "en": "",
-  "status": "todo",
+  "en": "The Voyage to Glory",
+  "status": "done",
   "slots": [
    "w:2f8448"
   ]
@@ -6146,8 +6146,8 @@
  {
   "id": "e:289254",
   "jp": "【スタッフロール曲】\n栄光への航路に終わりはない！",
-  "en": "",
-  "status": "todo",
+  "en": "[Staff Roll Theme]\nThe voyage to glory never\nends!",
+  "status": "done",
   "slots": [
    "w:2f844c"
   ]
@@ -6155,8 +6155,8 @@
  {
   "id": "e:289288",
   "jp": "グロリア創世記",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Genesis",
+  "status": "done",
   "slots": [
    "w:2f8458"
   ]
@@ -6164,8 +6164,8 @@
  {
   "id": "e:289298",
   "jp": "グロリア海賊団結成当時の\n懐かしい思い出話",
-  "en": "",
-  "status": "todo",
+  "en": "Fond memories of the\ndays when the Gloria\nPirates were formed",
+  "status": "done",
   "slots": [
    "w:2f845c"
   ]
@@ -6173,8 +6173,8 @@
  {
   "id": "e:2892c4",
   "jp": "今の三人　昔の三人",
-  "en": "",
-  "status": "todo",
+  "en": "The Three Now and Then",
+  "status": "done",
   "slots": [
    "w:2f8468"
   ]
@@ -6182,8 +6182,8 @@
  {
   "id": "e:2892d8",
   "jp": "時間の波に流されて、\n過去と現在は重なり合う",
-  "en": "",
-  "status": "todo",
+  "en": "Swept by the waves of\ntime, past and present\noverlap",
+  "status": "done",
   "slots": [
    "w:2f846c"
   ]
@@ -6191,8 +6191,8 @@
  {
   "id": "e:289304",
   "jp": "ピンガーの独り言",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger Talks to Herself",
+  "status": "done",
   "slots": [
    "w:2f8478"
   ]
@@ -6200,8 +6200,8 @@
  {
   "id": "e:289318",
   "jp": "マスコットキャラクター\nピンガーの独り語り",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger, our mascot\ncharacter, talks on her\nown",
+  "status": "done",
   "slots": [
    "w:2f847c"
   ]
@@ -6209,8 +6209,8 @@
  {
   "id": "e:289344",
   "jp": "シャワー室にて……",
-  "en": "",
-  "status": "todo",
+  "en": "In the Shower Room...",
+  "status": "done",
   "slots": [
    "w:2f8488"
   ]
@@ -6218,8 +6218,8 @@
  {
   "id": "e:289358",
   "jp": "二人のヒロインによる\nゆる～い世間話",
-  "en": "",
-  "status": "todo",
+  "en": "Laid-baaack small talk\nbetween two heroines",
+  "status": "done",
   "slots": [
    "w:2f848c"
   ]
@@ -6227,8 +6227,8 @@
  {
   "id": "e:28937c",
   "jp": "贈り物は何にする？",
-  "en": "",
-  "status": "todo",
+  "en": "What Gift Should I Give?",
+  "status": "done",
   "slots": [
    "w:2f8498"
   ]
@@ -6236,8 +6236,8 @@
  {
   "id": "e:289390",
   "jp": "イシュトへプレゼントを\n贈ろうとするルルゥの話",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru tries to give Ishut a\npresent",
+  "status": "done",
   "slots": [
    "w:2f849c"
   ]
@@ -6245,8 +6245,8 @@
  {
   "id": "e:2893c0",
   "jp": "グロリア号の人々",
-  "en": "",
-  "status": "todo",
+  "en": "Life Aboard the Gloria",
+  "status": "done",
   "slots": [
    "w:2f84a8"
   ]
@@ -6254,8 +6254,8 @@
  {
   "id": "e:2893d4",
   "jp": "グロリア海賊団による、\n平和な一日の過ごし方",
-  "en": "",
-  "status": "todo",
+  "en": "How the Gloria Pirates\nspend a peaceful day",
+  "status": "done",
   "slots": [
    "w:2f84ac"
   ]
@@ -6263,8 +6263,8 @@
  {
   "id": "e:289400",
   "jp": "考古学者・兼・海賊？",
-  "en": "",
-  "status": "todo",
+  "en": "Archaeologist and Pirate?",
+  "status": "done",
   "slots": [
    "w:2f84b8"
   ]
@@ -6272,8 +6272,8 @@
  {
   "id": "e:289418",
   "jp": "ミネソタ・グレイ。\n悩める考古学者である",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota Gray. A troubled\narchaeologist",
+  "status": "done",
   "slots": [
    "w:2f84bc"
   ]
@@ -6281,8 +6281,8 @@
  {
   "id": "e:289440",
   "jp": "吸血鬼と魔女",
-  "en": "",
-  "status": "todo",
+  "en": "The Vampire and the\nWitch",
+  "status": "done",
   "slots": [
    "w:2f84c8"
   ]
@@ -6290,8 +6290,8 @@
  {
   "id": "e:289450",
   "jp": "異世界に住む二人の\nプライベートとは？",
-  "en": "",
-  "status": "todo",
+  "en": "The private lives of two\nwho live in another\nworld?",
+  "status": "done",
   "slots": [
    "w:2f84cc"
   ]
@@ -6299,8 +6299,8 @@
  {
   "id": "e:289478",
   "jp": "何言ってるの？",
-  "en": "",
-  "status": "todo",
+  "en": "What Are You Saying?",
+  "status": "done",
   "slots": [
    "w:2f84d8"
   ]
@@ -6308,8 +6308,8 @@
  {
   "id": "e:289488",
   "jp": "全部聞き取れたら\nアナタも今日から古代人！",
-  "en": "",
-  "status": "todo",
+  "en": "Catch every word, and\nyou too are an ancient\nfrom today!",
+  "status": "done",
   "slots": [
    "w:2f84dc"
   ]
@@ -6317,8 +6317,8 @@
  {
   "id": "e:2894b4",
   "jp": "唸れセンチュリオバスター",
-  "en": "",
-  "status": "todo",
+  "en": "Roar, Centurio Buster",
+  "status": "done",
   "slots": [
    "w:2f84e8"
   ]
@@ -6326,8 +6326,8 @@
  {
   "id": "e:2894d0",
   "jp": "正義の味方にだって\n悩みの一つはあるんです。",
-  "en": "",
-  "status": "todo",
+  "en": "Even a champion of justice\nhas a worry or two.",
+  "status": "done",
   "slots": [
    "w:2f84ec"
   ]
@@ -6335,8 +6335,8 @@
  {
   "id": "e:2894fc",
   "jp": "情熱の新米騎士",
-  "en": "",
-  "status": "todo",
+  "en": "The Passionate Rookie\nKnight",
+  "status": "done",
   "slots": [
    "w:2f84f8"
   ]
@@ -6344,8 +6344,8 @@
  {
   "id": "e:28950c",
   "jp": "新米騎士カミュル。\n一流目指して今日も特訓！",
-  "en": "",
-  "status": "todo",
+  "en": "Kamuru the rookie knight.\nTraining again today to be\nfirst-rate!",
+  "status": "done",
   "slots": [
    "w:2f84fc"
   ]
@@ -6353,8 +6353,8 @@
  {
   "id": "e:289538",
   "jp": "姉さん、出番です！",
-  "en": "",
-  "status": "todo",
+  "en": "Sis, You're On!",
+  "status": "done",
   "slots": [
    "w:2f8508"
   ]
@@ -6362,8 +6362,8 @@
  {
   "id": "e:28954c",
   "jp": "全身から溢れ出す色気。\n大人の女性の魅力全開！",
-  "en": "",
-  "status": "todo",
+  "en": "Allure oozing from head\nto toe. Grown-up charm\nat full blast!",
+  "status": "done",
   "slots": [
    "w:2f850c"
   ]
@@ -6371,8 +6371,8 @@
  {
   "id": "e:28957c",
   "jp": "酔いどれザザーランド",
-  "en": "",
-  "status": "todo",
+  "en": "Drunken Zazarland",
+  "status": "done",
   "slots": [
    "w:2f8518"
   ]
@@ -6380,8 +6380,8 @@
  {
   "id": "e:289594",
   "jp": "戦場では脅威の豪傑でも、\n娘の前ではただの父親。",
-  "en": "",
-  "status": "todo",
+  "en": "A fearsome hero on the\nbattlefield, just a dad to\nhis daughter.",
+  "status": "done",
   "slots": [
    "w:2f851c"
   ]
@@ -6389,8 +6389,8 @@
  {
   "id": "e:2895c4",
   "jp": "デジャヴュ？",
-  "en": "",
-  "status": "todo",
+  "en": "Deja Vu?",
+  "status": "done",
   "slots": [
    "w:2f8528"
   ]
@@ -6398,8 +6398,8 @@
  {
   "id": "e:2895d4",
   "jp": "少し周りとは空気が違う\n彼女（？）の秘密とは",
-  "en": "",
-  "status": "todo",
+  "en": "A little out of step with\neveryone else. What is her\n(?) secret?",
+  "status": "done",
   "slots": [
    "w:2f852c"
   ]
@@ -6407,8 +6407,8 @@
  {
   "id": "e:289600",
   "jp": "ベテランの風格",
-  "en": "",
-  "status": "todo",
+  "en": "A Veteran's Air",
+  "status": "done",
   "slots": [
    "w:2f8538"
   ]
@@ -6416,8 +6416,8 @@
  {
   "id": "e:289610",
   "jp": "至る所に現れる魔法少女。\n次はドコに現れるのか？",
-  "en": "",
-  "status": "todo",
+  "en": "The magical girl who turns\nup everywhere. Where will\nshe appear next?",
+  "status": "done",
   "slots": [
    "w:2f853c"
   ]
@@ -6425,8 +6425,8 @@
  {
   "id": "e:289640",
   "jp": "シャンティエの誇り",
-  "en": "",
-  "status": "todo",
+  "en": "Pride of Chantier",
+  "status": "done",
   "slots": [
    "w:2f8548"
   ]
@@ -6434,8 +6434,8 @@
  {
   "id": "e:289654",
   "jp": "彼女の意思と誇りは\nシャンティエの名の下に！",
-  "en": "",
-  "status": "todo",
+  "en": "Her will and pride, in the\nname of Chantier!",
+  "status": "done",
   "slots": [
    "w:2f854c"
   ]
@@ -6443,8 +6443,8 @@
  {
   "id": "e:28969c",
   "jp": "・エースタイプ",
-  "en": "",
-  "status": "todo",
+  "en": "- Ace Type",
+  "status": "done",
   "slots": [
    "i:1396e4:139708"
   ]
@@ -6452,8 +6452,8 @@
  {
   "id": "e:2896ac",
   "jp": "・機動性　　　　%d",
-  "en": "",
-  "status": "todo",
+  "en": "- Mobility       %d",
+  "status": "done",
   "slots": [
    "i:13973c:139750"
   ]
@@ -6461,8 +6461,8 @@
  {
   "id": "e:2896c4",
   "jp": "・%s",
-  "en": "",
-  "status": "todo",
+  "en": "- %s",
+  "status": "done",
   "slots": [
    "i:1397e8:1397f0"
   ]
@@ -6470,8 +6470,8 @@
  {
   "id": "e:2896cc",
   "jp": "　%s",
-  "en": "",
-  "status": "todo",
+  "en": "%s",
+  "status": "done",
   "slots": [
    "i:139868:139878"
   ]
@@ -6479,8 +6479,8 @@
  {
   "id": "e:289768",
   "jp": "ＥＸＴＲＡ　ＣＯＮＴＥＮＴＳが\n追加されました。",
-  "en": "",
-  "status": "todo",
+  "en": "EXTRA CONTENTS\nhave been added.",
+  "status": "done",
   "slots": [
    "w:2f8e14"
   ]
@@ -6488,8 +6488,8 @@
  {
   "id": "e:289798",
   "jp": "難易度「ＨＡＲＤ」が\n追加されました。",
-  "en": "",
-  "status": "todo",
+  "en": "Difficulty \"HARD\"\nhas been added.",
+  "status": "done",
   "slots": [
    "w:2f8e18"
   ]
@@ -6497,8 +6497,8 @@
  {
   "id": "e:2897c0",
   "jp": "ＯＰＴＩＯＮに「バトルブーストの設定」が\n追加されました。",
-  "en": "",
-  "status": "todo",
+  "en": "\"Battle Boost Settings\" has been\nadded to OPTION.",
+  "status": "done",
   "slots": [
    "w:2f8e1c"
   ]
@@ -6506,8 +6506,8 @@
  {
   "id": "e:289c38",
   "jp": "■いずれかのメンバーが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If any member dies...",
+  "status": "done",
   "slots": [
    "w:2f8ea8"
   ]
@@ -6515,8 +6515,8 @@
  {
   "id": "e:289c5c",
   "jp": "■イシュトが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut dies...",
+  "status": "done",
   "slots": [
    "w:2f8eac"
   ]
@@ -6524,8 +6524,8 @@
  {
   "id": "e:289c78",
   "jp": "■ザザーランドが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Zazarland dies...",
+  "status": "done",
   "slots": [
    "w:2f8eb0"
   ]
@@ -6533,8 +6533,8 @@
  {
   "id": "e:289c98",
   "jp": "■エリーシャが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Elisha dies...",
+  "status": "done",
   "slots": [
    "w:2f8eb4"
   ]
@@ -6542,8 +6542,8 @@
  {
   "id": "e:289cb4",
   "jp": "■アンヌ・コーマックが負けてしまうと…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Anne Cormack is defeated...",
+  "status": "done",
   "slots": [
    "w:2f8eb8"
   ]
@@ -6551,8 +6551,8 @@
  {
   "id": "e:289cdc",
   "jp": "■イシュトorピンガーが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Pinger dies...",
+  "status": "done",
   "slots": [
    "w:2f8ebc"
   ]
@@ -6560,8 +6560,8 @@
  {
   "id": "e:289d00",
   "jp": "■イシュトorルルゥが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Ruru dies...",
+  "status": "done",
   "slots": [
    "w:2f8ec0"
   ]
@@ -6569,8 +6569,8 @@
  {
   "id": "e:289d24",
   "jp": "■イシュトorザザーランドが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Zazarland dies...",
+  "status": "done",
   "slots": [
    "w:2f8ec4"
   ]
@@ -6578,8 +6578,8 @@
  {
   "id": "e:289d4c",
   "jp": "■イシュトorエリーシャが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Elisha dies...",
+  "status": "done",
   "slots": [
    "w:2f8ec8"
   ]
@@ -6587,8 +6587,8 @@
  {
   "id": "e:289d74",
   "jp": "■イシュトorロコモコが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Locomoco dies...",
+  "status": "done",
   "slots": [
    "w:2f8ecc"
   ]
@@ -6596,8 +6596,8 @@
  {
   "id": "e:289d98",
   "jp": "■イシュトorラズベリーが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Raspberry dies...",
+  "status": "done",
   "slots": [
    "w:2f8ed0"
   ]
@@ -6605,8 +6605,8 @@
  {
   "id": "e:289dc0",
   "jp": "■イシュトorフィービーが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Fiebee dies...",
+  "status": "done",
   "slots": [
    "w:2f8ed4"
   ]
@@ -6614,8 +6614,8 @@
  {
   "id": "e:289de8",
   "jp": "■イシュトorカミュルが戦死すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Ishut or Kamuru dies...",
+  "status": "done",
   "slots": [
    "w:2f8ed8"
   ]
@@ -6623,8 +6623,8 @@
  {
   "id": "e:289e0c",
   "jp": "■ザザーランドorエリーシャが敗北すると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Zazarland or Elisha is defeated...",
+  "status": "done",
   "slots": [
    "w:2f8edc"
   ]
@@ -6632,8 +6632,8 @@
  {
   "id": "e:289e38",
   "jp": "■グロリア号に接触されると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If the Gloria is reached...",
+  "status": "done",
   "slots": [
    "w:2f8ee0"
   ]
@@ -6641,8 +6641,8 @@
  {
   "id": "e:289e58",
   "jp": "■カードを使い果たすと…",
-  "en": "",
-  "status": "todo",
+  "en": "■If you run out of cards...",
+  "status": "done",
   "slots": [
    "w:2f8ee4"
   ]
@@ -6650,8 +6650,8 @@
  {
   "id": "e:289e74",
   "jp": "■海ゴブリンに接触されると…",
-  "en": "",
-  "status": "todo",
+  "en": "■If a Sea Goblin reaches you...",
+  "status": "done",
   "slots": [
    "w:2f8ee8"
   ]
@@ -6659,8 +6659,8 @@
  {
   "id": "e:289e94",
   "jp": "■ガングを破壊してしまうと…",
-  "en": "",
-  "status": "todo",
+  "en": "■If Gangr is destroyed...",
+  "status": "done",
   "slots": [
    "w:2f8eec"
   ]
@@ -6668,8 +6668,8 @@
  {
   "id": "e:289eb4",
   "jp": "■一人でもナンパ勝負に負けてしまうと…",
-  "en": "",
-  "status": "todo",
+  "en": "■If anyone loses the flirting contest...",
+  "status": "done",
   "slots": [
    "w:2f8ef0"
   ]
@@ -6677,8 +6677,8 @@
  {
   "id": "e:289edc",
   "jp": "■ベルガスに力の差を見せ付けろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Show Velgas who's stronger!!",
+  "status": "done",
   "slots": [
    "w:2f8f08"
   ]
@@ -6686,8 +6686,8 @@
  {
   "id": "e:289f00",
   "jp": "■シャルム海賊団に果敢に挑め②",
-  "en": "",
-  "status": "todo",
+  "en": "■Bravely take on the Charme Pirates!!",
+  "status": "done",
   "slots": [
    "w:2f8f10"
   ]
@@ -6695,8 +6695,8 @@
  {
   "id": "e:289f20",
   "jp": "■アンヌ・コーマックを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Anne Cormack!!",
+  "status": "done",
   "slots": [
    "w:2f8f18",
    "w:2f8f50"
@@ -6705,8 +6705,8 @@
  {
   "id": "e:289f44",
   "jp": "■ベルガスを撃退して遺跡の奥へ進め②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Velgas and head deeper into the ruins!!",
+  "status": "done",
   "slots": [
    "w:2f8f20"
   ]
@@ -6714,8 +6714,8 @@
  {
   "id": "e:289f6c",
   "jp": "■遺跡の奥まで逃げろ②\n（全ユニットを■に移動させればＯＫ！）",
-  "en": "",
-  "status": "todo",
+  "en": "■Flee to the depths of the ruins!!\n(Move all units onto ■ to win!)",
+  "status": "done",
   "slots": [
    "w:2f8f28"
   ]
@@ -6723,8 +6723,8 @@
  {
   "id": "e:289fac",
   "jp": "■ベルガスとアンヌを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Velgas and Anne!!",
+  "status": "done",
   "slots": [
    "w:2f8f30"
   ]
@@ -6732,8 +6732,8 @@
  {
   "id": "e:289fcc",
   "jp": "■見張りを撃破し、ルルゥを救出せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat the guards and rescue Ruru!!",
+  "status": "done",
   "slots": [
    "w:2f8f38"
   ]
@@ -6741,8 +6741,8 @@
  {
   "id": "e:289ff4",
   "jp": "■謎の魔法少女を撃退せよ",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the mysterious magical girl",
+  "status": "done",
   "slots": [
    "w:2f8f40"
   ]
@@ -6750,8 +6750,8 @@
  {
   "id": "e:28a010",
   "jp": "■エリーシャの父親を牢から救い出せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Free Elisha's father from his cell!!",
+  "status": "done",
   "slots": [
    "w:2f8f48"
   ]
@@ -6759,8 +6759,8 @@
  {
   "id": "e:28a038",
   "jp": "■ミネソタ・グレイを撃破して誤解を解け②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat Minesota Gray and clear up the misunderstanding!!",
+  "status": "done",
   "slots": [
    "w:2f8f58"
   ]
@@ -6768,8 +6768,8 @@
  {
   "id": "e:28a064",
   "jp": "■ベルガスと決着をつけよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Settle things with Velgas!!",
+  "status": "done",
   "slots": [
    "w:2f8f60"
   ]
@@ -6777,8 +6777,8 @@
  {
   "id": "e:28a080",
   "jp": "■黒い牙のアジトから脱出せよ②\n（全ユニットを■に移動させればＯＫ！）",
-  "en": "",
-  "status": "todo",
+  "en": "■Escape from the Black Fang hideout!!\n(Move all units onto ■ to win!)",
+  "status": "done",
   "slots": [
    "w:2f8f68"
   ]
@@ -6786,8 +6786,8 @@
  {
   "id": "e:28a0c8",
   "jp": "■宝物庫に急げ\n（イシュトを■に移動させればＯＫ！）",
-  "en": "",
-  "status": "todo",
+  "en": "■Hurry to the treasure vault\n(Move Ishut onto ■ to win!)",
+  "status": "done",
   "slots": [
    "w:2f8f70"
   ]
@@ -6795,8 +6795,8 @@
  {
   "id": "e:28a0fc",
   "jp": "■憎きブラックモアを必ず撃破せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Make sure to defeat the hateful Blackmore!!",
+  "status": "done",
   "slots": [
    "w:2f8f78"
   ]
@@ -6804,8 +6804,8 @@
  {
   "id": "e:28a120",
   "jp": "■ロコモコを狙う悪い奴らを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the bad guys after Locomoco!!",
+  "status": "done",
   "slots": [
    "w:2f8f80"
   ]
@@ -6813,8 +6813,8 @@
  {
   "id": "e:28a148",
   "jp": "■謎の浮遊少女を撃退し誤解を解け②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the mysterious floating girl, clear things up!!",
+  "status": "done",
   "slots": [
    "w:2f8f88"
   ]
@@ -6822,8 +6822,8 @@
  {
   "id": "e:28a16c",
   "jp": "■骨の魔人ローガンを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Rogan the bone demon!!",
+  "status": "done",
   "slots": [
    "w:2f8f90"
   ]
@@ -6831,8 +6831,8 @@
  {
   "id": "e:28a18c",
   "jp": "■無駄な儀式を中止せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Stop the pointless ritual!!",
+  "status": "done",
   "slots": [
    "w:2f8f98"
   ]
@@ -6840,8 +6840,8 @@
  {
   "id": "e:28a1a8",
   "jp": "■黒幕である黒い牙を撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the Black Fang, the ones behind it all!!",
+  "status": "done",
   "slots": [
    "w:2f8fa0"
   ]
@@ -6849,8 +6849,8 @@
  {
   "id": "e:28a1c8",
   "jp": "■フィービーを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Fiebee!!",
+  "status": "done",
   "slots": [
    "w:2f8fa8"
   ]
@@ -6858,8 +6858,8 @@
  {
   "id": "e:28a1e4",
   "jp": "■黒い牙を撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the Black Fang!!",
+  "status": "done",
   "slots": [
    "w:2f8fb0"
   ]
@@ -6867,8 +6867,8 @@
  {
   "id": "e:28a1fc",
   "jp": "■宝物庫に眠る宝を入手せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Get the treasure sleeping in the vault!!",
+  "status": "done",
   "slots": [
    "w:2f8fb8"
   ]
@@ -6876,8 +6876,8 @@
  {
   "id": "e:28a21c",
   "jp": "■町を襲う黒い牙を退治せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Rout the Black Fang attacking the town!!",
+  "status": "done",
   "slots": [
    "w:2f8fc0"
   ]
@@ -6885,8 +6885,8 @@
  {
   "id": "e:28a23c",
   "jp": "■敵を撃破し宝を守れ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat the enemy and protect the treasure!!",
+  "status": "done",
   "slots": [
    "w:2f8fc8"
   ]
@@ -6894,8 +6894,8 @@
  {
   "id": "e:28a254",
   "jp": "■樽の中に眠る宝を探せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Find the treasure hidden in the barrels!!",
+  "status": "done",
   "slots": [
    "w:2f8fd0"
   ]
@@ -6903,8 +6903,8 @@
  {
   "id": "e:28a270",
   "jp": "■かわいい海ゴブリンを助け出せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Rescue the cute Sea Goblins!!",
+  "status": "done",
   "slots": [
    "w:2f8fd8"
   ]
@@ -6912,8 +6912,8 @@
  {
   "id": "e:28a294",
   "jp": "■正義気取りの盗賊、海の犬を撃破せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat the Sea Dogs, thieves posing as heroes!!",
+  "status": "done",
   "slots": [
    "w:2f8fe0"
   ]
@@ -6921,8 +6921,8 @@
  {
   "id": "e:28a2bc",
   "jp": "■黒い牙の襲撃に孤軍奮闘せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Hold out alone against the Black Fang raid!!",
+  "status": "done",
   "slots": [
    "w:2f8fe8"
   ]
@@ -6930,8 +6930,8 @@
  {
   "id": "e:28a2dc",
   "jp": "■ブラックモアを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Blackmore!!",
+  "status": "done",
   "slots": [
    "w:2f8ff0"
   ]
@@ -6939,8 +6939,8 @@
  {
   "id": "e:28a2f8",
   "jp": "■黒い牙を完膚なきまでに叩きのめせ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Crush the Black Fang completely!!",
+  "status": "done",
   "slots": [
    "w:2f8ff8"
   ]
@@ -6948,8 +6948,8 @@
  {
   "id": "e:28a320",
   "jp": "■ブラックモアと決着をつけろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Settle things with Blackmore!!",
+  "status": "done",
   "slots": [
    "w:2f9000"
   ]
@@ -6957,8 +6957,8 @@
  {
   "id": "e:28a340",
   "jp": "■皇国軍の将軍達を撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the Imperial generals!!",
+  "status": "done",
   "slots": [
    "w:2f9008"
   ]
@@ -6966,8 +6966,8 @@
  {
   "id": "e:28a360",
   "jp": "■暴走モードのユグドラを戦って止めろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Fight Yggdra in rampage mode and stop her!!",
+  "status": "done",
   "slots": [
    "w:2f9010"
   ]
@@ -6975,8 +6975,8 @@
  {
   "id": "e:28a388",
   "jp": "■謎の二人組みを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the mysterious duo!!",
+  "status": "done",
   "slots": [
    "w:2f9018",
    "w:2f9030"
@@ -6985,8 +6985,8 @@
  {
   "id": "e:28a3a4",
   "jp": "■因縁の相手、トレイシーを撃破せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat Tracey, your fated rival!!",
+  "status": "done",
   "slots": [
    "w:2f9020",
    "w:2f9038"
@@ -6995,8 +6995,8 @@
  {
   "id": "e:28a3cc",
   "jp": "■ガングの暴走をやり過ぎる事なく止めろ②\n　（戦闘後士気を２０００～１にすればＯＫ）",
-  "en": "",
-  "status": "todo",
+  "en": "■Stop Gangr's rampage, but gently!!\n(Leave him 1 to 2000 morale!)",
+  "status": "done",
   "slots": [
    "w:2f9028"
   ]
@@ -7004,8 +7004,8 @@
  {
   "id": "e:28a420",
   "jp": "■ベルガス海賊団？を撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off the Velgas Pirates(?)!!",
+  "status": "done",
   "slots": [
    "w:2f9040",
    "w:2f9048",
@@ -7016,8 +7016,8 @@
  {
   "id": "e:28a440",
   "jp": "■気合満点のカミュル騎馬隊を撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Kamuru's fired-up cavalry!!",
+  "status": "done",
   "slots": [
    "w:2f9050"
   ]
@@ -7025,8 +7025,8 @@
  {
   "id": "e:28a468",
   "jp": "■メラニーを撃退してカミュルを守れ",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Melanie and protect Kamuru",
+  "status": "done",
   "slots": [
    "w:2f9058"
   ]
@@ -7034,8 +7034,8 @@
  {
   "id": "e:28a48c",
   "jp": "■パメラに遺跡の破片を渡せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Give Pamela the ruin shard!!",
+  "status": "done",
   "slots": [
    "w:2f9060"
   ]
@@ -7043,8 +7043,8 @@
  {
   "id": "e:28a4ac",
   "jp": "■骸骨魔人ローガンを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Rogan the skeleton demon!!",
+  "status": "done",
   "slots": [
    "w:2f9068"
   ]
@@ -7052,8 +7052,8 @@
  {
   "id": "e:28a4cc",
   "jp": "■ナンパ男達を誘惑して懲らしめろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Seduce the flirts and teach them a lesson!!",
+  "status": "done",
   "slots": [
    "w:2f9070"
   ]
@@ -7061,8 +7061,8 @@
  {
   "id": "e:28a4f0",
   "jp": "■乙女の敵②　ローガンを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Enemy of maidens!! Drive off Rogan!!",
+  "status": "done",
   "slots": [
    "w:2f9078"
   ]
@@ -7070,8 +7070,8 @@
  {
   "id": "e:28a514",
   "jp": "■イータを助けてヒーローになれ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Save Eater and be a hero!!",
+  "status": "done",
   "slots": [
    "w:2f9080"
   ]
@@ -7079,8 +7079,8 @@
  {
   "id": "e:28a538",
   "jp": "■黒い牙の残党を一人残さず倒せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat every last Black Fang straggler!!",
+  "status": "done",
   "slots": [
    "w:2f9088"
   ]
@@ -7088,8 +7088,8 @@
  {
   "id": "e:28a55c",
   "jp": "■シャンティエの女王、ジゼルを撃退せよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Drive off Giselle, Queen of Chantier!!",
+  "status": "done",
   "slots": [
    "w:2f9090"
   ]
@@ -7097,8 +7097,8 @@
  {
   "id": "e:28a588",
   "jp": "■バッソフォンドの民を戦争から助け出せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Save the people of Bassofondo from the war!!",
+  "status": "done",
   "slots": [
    "w:2f9098"
   ]
@@ -7106,8 +7106,8 @@
  {
   "id": "e:28a5b4",
   "jp": "■悪霊を成仏させよ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Lay the evil spirits to rest!!",
+  "status": "done",
   "slots": [
    "w:2f90a0"
   ]
@@ -7115,8 +7115,8 @@
  {
   "id": "e:28a5cc",
   "jp": "■悪霊からペンダントを守りぬけ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Protect the pendant from the evil spirits!!",
+  "status": "done",
   "slots": [
    "w:2f90a8"
   ]
@@ -7124,8 +7124,8 @@
  {
   "id": "e:28a5f0",
   "jp": "■ローガンを黄泉の国へ還せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Send Rogan back to the Land of the Dead!!",
+  "status": "done",
   "slots": [
    "w:2f90b0"
   ]
@@ -7133,8 +7133,8 @@
  {
   "id": "e:28a610",
   "jp": "■最高の好敵手ベルガス改と決着をつけろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Settle things with your best rival, Velgas EX!!",
+  "status": "done",
   "slots": [
    "w:2f90b8"
   ]
@@ -7142,8 +7142,8 @@
  {
   "id": "e:28a63c",
   "jp": "■■水門を抉じ開けろ②\n（ユニットを水門まで移動させればＯＫ！）",
-  "en": "",
-  "status": "todo",
+  "en": "■■Force open the floodgate!!\n(Move a unit to the gate to win!)",
+  "status": "done",
   "slots": [
    "w:2f90c0"
   ]
@@ -7151,8 +7151,8 @@
  {
   "id": "e:28a67c",
   "jp": "■トレイシーとの因縁に決着をつけろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Settle your fated feud with Tracey!!",
+  "status": "done",
   "slots": [
    "w:2f90c8"
   ]
@@ -7160,8 +7160,8 @@
  {
   "id": "e:28a6a4",
   "jp": "■エルマーレ連合国の幹部を撃破しろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat the Elmare Federation's leaders!!",
+  "status": "done",
   "slots": [
    "w:2f90e0"
   ]
@@ -7169,8 +7169,8 @@
  {
   "id": "e:28a6cc",
   "jp": "■囲まれる前に目的地まで移動しろ②\n（全ユニットを■に移動させればＯＫ！）",
-  "en": "",
-  "status": "todo",
+  "en": "■Reach the goal before you're surrounded!!\n(Move all units onto ■ to win!)",
+  "status": "done",
   "slots": [
    "w:2f90e8"
   ]
@@ -7178,8 +7178,8 @@
  {
   "id": "e:28a718",
   "jp": "■心無きアジョー・グラフォーを倒せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat the heartless Ajo-Grafor!!",
+  "status": "done",
   "slots": [
    "w:2f90f0"
   ]
@@ -7187,8 +7187,8 @@
  {
   "id": "e:28a740",
   "jp": "■怯む事無くガルムに立ち向かい勝利しろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Face Garm without flinching and win!!",
+  "status": "done",
   "slots": [
    "w:2f90f8"
   ]
@@ -7196,8 +7196,8 @@
  {
   "id": "e:28a76c",
   "jp": "■反皇国連合総裁、エンリエッタを倒せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat Enryetta, President of the Anti-Imperial Federation!!",
+  "status": "done",
   "slots": [
    "w:2f9100"
   ]
@@ -7205,8 +7205,8 @@
  {
   "id": "e:28a794",
   "jp": "■ルキア皇国宰相、ガリオレッドを倒せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat Gariored, Chancellor of the Lukia Empire!!",
+  "status": "done",
   "slots": [
    "w:2f9108"
   ]
@@ -7214,8 +7214,8 @@
  {
   "id": "e:28a7bc",
   "jp": "■エンリエッタとの戦いに終止符を打て②",
-  "en": "",
-  "status": "todo",
+  "en": "■End the fight with Enryetta!!",
+  "status": "done",
   "slots": [
    "w:2f9110"
   ]
@@ -7223,8 +7223,8 @@
  {
   "id": "e:28a7e4",
   "jp": "■ガリオレッドとの戦いに終止符を打て②",
-  "en": "",
-  "status": "todo",
+  "en": "■End the fight with Gariored!!",
+  "status": "done",
   "slots": [
    "w:2f9118"
   ]
@@ -7232,8 +7232,8 @@
  {
   "id": "e:28a80c",
   "jp": "■アシュレイを撃破し、復活を阻止しろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat Ashrey and stop his revival!!",
+  "status": "done",
   "slots": [
    "w:2f9120",
    "w:2f9130",
@@ -7243,8 +7243,8 @@
  {
   "id": "e:28a834",
   "jp": "■皇国軍を倒しアシュレイを追え②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat the Imperial army and chase Ashrey!!",
+  "status": "done",
   "slots": [
    "w:2f9128"
   ]
@@ -7252,8 +7252,8 @@
  {
   "id": "e:28a858",
   "jp": "■シンフォニアをルルゥに戻せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Turn Symphonia back into Ruru!!",
+  "status": "done",
   "slots": [
    "w:2f9138"
   ]
@@ -7261,8 +7261,8 @@
  {
   "id": "e:28a878",
   "jp": "■古代ユーフォリア人、キーラを倒せ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Defeat Kyra, the ancient Euforian!!",
+  "status": "done",
   "slots": [
    "w:2f9140"
   ]
@@ -7270,8 +7270,8 @@
  {
   "id": "e:28a8a0",
   "jp": "■最後の戦いの決着をその手でつけろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Settle the final battle with your own hands!!",
+  "status": "done",
   "slots": [
    "w:2f9150",
    "w:2f9158"
@@ -7280,8 +7280,8 @@
  {
   "id": "e:28a8c8",
   "jp": "■王族の末裔に打ち勝ち全てを終わらせろ②",
-  "en": "",
-  "status": "todo",
+  "en": "■Beat the royal heir and end it all!!",
+  "status": "done",
   "slots": [
    "w:2f9160",
    "w:2f9168",
@@ -7292,8 +7292,8 @@
  {
   "id": "e:2aaa0f",
   "jp": "インストールデータ",
-  "en": "",
-  "status": "todo",
+  "en": "Install Data",
+  "status": "done",
   "slots": [
    "i:144808:144818"
   ]
@@ -7301,8 +7301,8 @@
  {
   "id": "e:2aaa22",
   "jp": "『Gloria Union』のインストールデータです。",
-  "en": "",
-  "status": "todo",
+  "en": "Install data for \"Gloria Union\".",
+  "status": "done",
   "slots": [
    "i:14481c:14482c"
   ]
@@ -7310,8 +7310,8 @@
  {
   "id": "e:2aaa50",
   "jp": "記録メディアに、[0A]インストールデータが既に存在します。[0A][0A]データの上書きを行いますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Install data already exists[0A]on the storage media.[0A][0A]Overwrite the data?",
+  "status": "done",
   "slots": [
    "w:2f9570"
   ]
@@ -7319,8 +7319,8 @@
  {
   "id": "e:2aaaa4",
   "jp": "インストールが完了しました",
-  "en": "",
-  "status": "todo",
+  "en": "Installation complete.",
+  "status": "done",
   "slots": [
    "w:2f957c"
   ]
@@ -7328,8 +7328,8 @@
  {
   "id": "e:2aaac0",
   "jp": "データインストールは[0A]強制終了されました。",
-  "en": "",
-  "status": "todo",
+  "en": "The data installation was[0A]aborted.",
+  "status": "done",
   "slots": [
    "w:2f9588"
   ]
@@ -7337,8 +7337,8 @@
  {
   "id": "e:2aaaec",
   "jp": "インストールデータの読み込みに失敗しました。[0A]以後、インストールデータの読み込みは行いません。",
-  "en": "",
-  "status": "todo",
+  "en": "Failed to load the install data.[0A]Install data will not be loaded from now on.",
+  "status": "done",
   "slots": [
    "w:2f9594"
   ]
@@ -7346,8 +7346,8 @@
  {
   "id": "e:2aab4c",
   "jp": "インストールデータが壊れています。[0A]以後、インストールデータの読み込みは行いません。",
-  "en": "",
-  "status": "todo",
+  "en": "The install data is corrupted.[0A]Install data will not be loaded from now on.",
+  "status": "done",
   "slots": [
    "w:2f95a0"
   ]
@@ -7355,8 +7355,8 @@
  {
   "id": "e:2aabac",
   "jp": "マップ砲撃…砲撃後も移動可能",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... can move after firing",
+  "status": "done",
   "slots": [
    "w:2f95b4"
   ]
@@ -7364,8 +7364,8 @@
  {
   "id": "e:2aabcc",
   "jp": "マップ砲撃…まれに麻痺効果",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... may cause Paralysis",
+  "status": "done",
   "slots": [
    "w:2f95b8"
   ]
@@ -7373,8 +7373,8 @@
  {
   "id": "e:2aabe8",
   "jp": "マップ砲撃…射程距離・砲撃範囲＋１",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... range and blast area +1",
+  "status": "done",
   "slots": [
    "w:2f95bc"
   ]
@@ -7382,8 +7382,8 @@
  {
   "id": "e:2aac0c",
   "jp": "マップ砲撃…命中率＋１",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... accuracy +1",
+  "status": "done",
   "slots": [
    "w:2f95c0"
   ]
@@ -7391,8 +7391,8 @@
  {
   "id": "e:2aac24",
   "jp": "マップ砲撃…砲撃力＋１",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... firepower +1",
+  "status": "done",
   "slots": [
    "w:2f95c4"
   ]
@@ -7400,8 +7400,8 @@
  {
   "id": "e:2aac3c",
   "jp": "マップ砲撃…まれに炎上効果",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... may cause Ablaze",
+  "status": "done",
   "slots": [
    "w:2f95c8"
   ]
@@ -7409,8 +7409,8 @@
  {
   "id": "e:2aac58",
   "jp": "マップ砲撃…夜間でも砲撃可能",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... can fire at night",
+  "status": "done",
   "slots": [
    "w:2f95cc"
   ]
@@ -7418,8 +7418,8 @@
  {
   "id": "e:2aac78",
   "jp": "マップ砲撃…まれに鈍足効果",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... may cause Slow",
+  "status": "done",
   "slots": [
    "w:2f95d0"
   ]
@@ -7427,8 +7427,8 @@
  {
   "id": "e:2aac94",
   "jp": "マップ砲撃…まれに呪縛効果",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... may cause Curse",
+  "status": "done",
   "slots": [
    "w:2f95d4"
   ]
@@ -7436,8 +7436,8 @@
  {
   "id": "e:2aacb0",
   "jp": "マップ砲撃…命中率・砲撃力＋１",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... accuracy and firepower +1",
+  "status": "done",
   "slots": [
    "w:2f95d8"
   ]
@@ -7445,8 +7445,8 @@
  {
   "id": "e:2aacd0",
   "jp": "マップ砲撃…射程距離＋１",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... range +1",
+  "status": "done",
   "slots": [
    "w:2f95dc"
   ]
@@ -7454,8 +7454,8 @@
  {
   "id": "e:2aacec",
   "jp": "マップ砲撃…砲撃範囲＋１",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... blast area +1",
+  "status": "done",
   "slots": [
    "w:2f95e0"
   ]
@@ -7463,8 +7463,8 @@
  {
   "id": "e:2aad08",
   "jp": "マップ砲撃…まれに昏睡効果",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... may cause Sleep",
+  "status": "done",
   "slots": [
    "w:2f95e4"
   ]
@@ -7472,8 +7472,8 @@
  {
   "id": "e:2aad24",
   "jp": "マップ砲撃…まれに冒毒効果",
-  "en": "",
-  "status": "todo",
+  "en": "Map Bombardment... may cause Poison",
+  "status": "done",
   "slots": [
    "w:2f95e8"
   ]

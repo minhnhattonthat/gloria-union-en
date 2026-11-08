@@ -13925,8 +13925,8 @@
  {
   "id": "e:24b2b9",
   "jp": "勝利！",
-  "en": "",
-  "status": "todo",
+  "en": "Victory!",
+  "status": "done",
   "slots": [
    "w:24c34c"
   ]

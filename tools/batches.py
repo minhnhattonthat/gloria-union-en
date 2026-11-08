@@ -295,7 +295,8 @@ def split(size):
 def same_jp(entries):
     out = {}
     for e in entries.values():
-        out.setdefault(e["jp"], []).append(e)
+        if e.get("status") != "data":   # non-text strings (glyph lists...) keep their bytes, whatever English shares the JP
+            out.setdefault(e["jp"], []).append(e)
     return out
 
 

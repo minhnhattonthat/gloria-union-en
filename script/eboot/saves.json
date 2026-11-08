@@ -638,8 +638,8 @@
  {
   "id": "e:25de44",
   "jp": "ハジマリの青 海と空と君と",
-  "en": "",
-  "status": "todo",
+  "en": "The Blue of Beginnings:\nThe Sea, the Sky and You",
+  "status": "done",
   "slots": [
    "w:25e1d4"
   ]
@@ -1062,8 +1062,8 @@
  {
   "id": "e:25e35c",
   "jp": "1 始まりの海",
-  "en": "",
-  "status": "todo",
+  "en": "1 The Sea of Beginnings",
+  "status": "done",
   "slots": [
    "w:2ed9dc"
   ]
@@ -1071,8 +1071,8 @@
  {
   "id": "e:25e36c",
   "jp": "2 友 暗闇の牢獄で",
-  "en": "",
-  "status": "todo",
+  "en": "2 Friends in a Dark Prison",
+  "status": "done",
   "slots": [
    "w:2ed9e4"
   ]
@@ -1080,8 +1080,8 @@
  {
   "id": "e:25e380",
   "jp": "3 磨かれる刃 紡がれる絆",
-  "en": "",
-  "status": "todo",
+  "en": "3 Blades Honed, Bonds Woven",
+  "status": "done",
   "slots": [
    "w:2ed9ec"
   ]
@@ -1089,8 +1089,8 @@
  {
   "id": "e:25e398",
   "jp": "4 風は出会い 大地は戦う",
-  "en": "",
-  "status": "todo",
+  "en": "4 The Wind Meets, the Earth Fights",
+  "status": "done",
   "slots": [
    "w:2ed9f4"
   ]
@@ -1098,8 +1098,8 @@
  {
   "id": "e:25e3b0",
   "jp": "5 真実は白波の如く",
-  "en": "",
-  "status": "todo",
+  "en": "5 Truth Like Whitecaps",
+  "status": "done",
   "slots": [
    "w:2ed9fc"
   ]
@@ -1107,8 +1107,8 @@
  {
   "id": "e:25e3c4",
   "jp": "6 運命の赤い導火線",
-  "en": "",
-  "status": "todo",
+  "en": "6 The Red Fuse of Fate",
+  "status": "done",
   "slots": [
    "w:2eda04"
   ]
@@ -1116,8 +1116,8 @@
  {
   "id": "e:25e3d8",
   "jp": "7 古代ユーフォリア",
-  "en": "",
-  "status": "todo",
+  "en": "7 Ancient Euforia",
+  "status": "done",
   "slots": [
    "w:2eda0c"
   ]
@@ -1125,8 +1125,8 @@
  {
   "id": "e:25e408",
   "jp": "Chapter%s[0A]%s －%s－[0A]ステージクリア数 %2d[0A]プレイ時間 %02d:%02d:%02d",
-  "en": "",
-  "status": "todo",
+  "en": "Chapter%s[0A]%s -%s-[0A]Stages cleared %2d[0A]Play time %02d:%02d:%02d",
+  "status": "done",
   "slots": [
    "i:1035ec:1035f8"
   ]
@@ -1134,8 +1134,8 @@
  {
   "id": "e:25e4a8",
   "jp": "システムデータをロードしています。\n記録メディアを抜かないでください。",
-  "en": "",
-  "status": "todo",
+  "en": "Loading system data.\nDo not remove the storage media.",
+  "status": "done",
   "slots": [
    "w:2eda14"
   ]
@@ -1143,8 +1143,8 @@
  {
   "id": "e:25e4f0",
   "jp": "記録メディアをチェックしています。\n記録メディアを抜かないでください。",
-  "en": "",
-  "status": "todo",
+  "en": "Checking the storage media.\nDo not remove the storage media.",
+  "status": "done",
   "slots": [
    "w:2eda1c"
   ]
@@ -1152,8 +1152,8 @@
  {
   "id": "e:25e538",
   "jp": "中断データをセーブ中です。\n記録メディアを抜かないでください。",
-  "en": "",
-  "status": "todo",
+  "en": "Saving suspend data.\nDo not remove the storage media.",
+  "status": "done",
   "slots": [
    "w:2eda24"
   ]
@@ -1161,8 +1161,8 @@
  {
   "id": "e:25e578",
   "jp": "中断データをロード中です。\n記録メディアを抜かないでください。",
-  "en": "",
-  "status": "todo",
+  "en": "Loading suspend data.\nDo not remove the storage media.",
+  "status": "done",
   "slots": [
    "w:2eda2c"
   ]
@@ -1170,8 +1170,8 @@
  {
   "id": "e:25e5b8",
   "jp": "中断データを削除中です。\n記録メディアを抜かないでください。",
-  "en": "",
-  "status": "todo",
+  "en": "Deleting suspend data.\nDo not remove the storage media.",
+  "status": "done",
   "slots": [
    "w:2eda34"
   ]
@@ -1179,8 +1179,8 @@
  {
   "id": "e:25e5f4",
   "jp": "システムデータをセーブ中です。\n記録メディアを抜かないでください。",
-  "en": "",
-  "status": "todo",
+  "en": "Saving system data.\nDo not remove the storage media.",
+  "status": "done",
   "slots": [
    "w:2eda3c"
   ]
@@ -1188,8 +1188,8 @@
  {
   "id": "e:25e638",
   "jp": "%sが入っていません。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No %s inserted.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done",
   "slots": [
    "w:2eda40"
   ]
@@ -1197,8 +1197,8 @@
  {
   "id": "e:25e6b0",
   "jp": "%sのチェックに失敗しました。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Could not check the %s.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done",
   "slots": [
    "w:2eda4c"
   ]
@@ -1206,8 +1206,8 @@
  {
   "id": "e:25e730",
   "jp": "%sの空き容量が不足しています。[0A]このゲームのデータをセーブするには[0A]あとFREKB以上の空き容量が必要です。",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough free space on the %s.[0A]To save this game's data,[0A]FREKB more free space is needed.",
+  "status": "done",
   "slots": [
    "w:2eda58"
   ]
@@ -1215,8 +1215,8 @@
  {
   "id": "e:25e798",
   "jp": "%sが入っていません。[0A]ロードに失敗しました。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No %s inserted.[0A]Loading failed.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done",
   "slots": [
    "w:2eda64"
   ]
@@ -1224,8 +1224,8 @@
  {
   "id": "e:25e828",
   "jp": "ロードに失敗しました。[0A]このゲームのデータをセーブするには[0A]ALLKB以上の空き容量が必要です。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Loading failed.[0A]To save this game's data,[0A]at least ALLKB of free space is needed.[0A][0A]Start the game anyway?",
+  "status": "done",
   "slots": [
    "w:2eda70"
   ]
@@ -1233,8 +1233,8 @@
  {
   "id": "e:25e8a4",
   "jp": "システムデータが壊れていました。[0A][0A]このままゲームを開始しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "The system data was corrupted.[0A][0A]Start the game anyway?",
+  "status": "done",
   "slots": [
    "w:2eda7c"
   ]
@@ -1242,8 +1242,8 @@
  {
   "id": "e:25e8e8",
   "jp": "もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2eda88",
    "w:2edadc",
@@ -1255,8 +1255,8 @@
  {
   "id": "e:25e914",
   "jp": "%sのチェックに失敗しました。[0A]%sが入っていません。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Could not check the %s.[0A]No %s inserted.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2eda94",
    "w:2edbfc"
@@ -1265,8 +1265,8 @@
  {
   "id": "e:25e974",
   "jp": "%sのチェックに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Could not check the %s.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edaa0",
    "w:2edb00",
@@ -1277,8 +1277,8 @@
  {
   "id": "e:25e9bc",
   "jp": "ロードに失敗しました。[0A]%sが入っていません。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Loading failed.[0A]No %s inserted.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edaac"
   ]
@@ -1286,8 +1286,8 @@
  {
   "id": "e:25ea14",
   "jp": "中断データが見つかりませんでした。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No suspend data was found.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edab8"
   ]
@@ -1295,8 +1295,8 @@
  {
   "id": "e:25ea64",
   "jp": "ロードに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Loading failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edac4"
   ]
@@ -1304,8 +1304,8 @@
  {
   "id": "e:25eaa8",
   "jp": "この中断データは壊れています。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "This suspend data is corrupted.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edad0"
   ]
@@ -1313,8 +1313,8 @@
  {
   "id": "e:25eaf4",
   "jp": "%sのチェックに失敗しました。[0A]%sが入っていません。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Could not check the %s.[0A]No %s inserted.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edae8"
   ]
@@ -1322,8 +1322,8 @@
  {
   "id": "e:25eb84",
   "jp": "%sのチェックに失敗しました。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Could not check the %s.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edaf4"
   ]
@@ -1331,8 +1331,8 @@
  {
   "id": "e:25ec00",
   "jp": "%sが入っていません。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No %s inserted.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edb0c"
   ]
@@ -1340,8 +1340,8 @@
  {
   "id": "e:25ec74",
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Choose save data to delete[0A]to make room?",
+  "status": "done",
   "slots": [
    "w:2edb18"
   ]
@@ -1349,8 +1349,8 @@
  {
   "id": "e:25ed04",
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]SYSKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least SYSKB of free space is needed.[0A][0A]Choose save data to delete[0A]to make room?",
+  "status": "done",
   "slots": [
    "w:2edb24",
    "w:2edb90",
@@ -1360,8 +1360,8 @@
  {
   "id": "e:25ed94",
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]CONKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least CONKB of free space is needed.[0A][0A]Choose save data to delete[0A]to make room?",
+  "status": "done",
   "slots": [
    "w:2edb30"
   ]
@@ -1369,8 +1369,8 @@
  {
   "id": "e:25ee24",
   "jp": "セーブに失敗しました。[0A]%sが入っていません。[0A]セーブするには、[0A]SYCKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Saving failed.[0A]No %s inserted.[0A]To save,[0A]at least SYCKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edb3c"
   ]
@@ -1378,8 +1378,8 @@
  {
   "id": "e:25eeac",
   "jp": "セーブに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Saving failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edb48",
    "w:2edbb4"
@@ -1388,8 +1388,8 @@
  {
   "id": "e:25eef0",
   "jp": "スリープモードから復帰しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Returned from sleep mode.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edb60",
    "w:2edbcc",
@@ -1399,8 +1399,8 @@
  {
   "id": "e:25ef3c",
   "jp": "%sがロックされています。[0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "The %s is locked.[0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edb6c",
    "w:2edc74"
@@ -1409,8 +1409,8 @@
  {
   "id": "e:25ef80",
   "jp": "%sが入っていません。[0A]セーブするには、[0A]SYTKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No %s inserted.[0A]To save,[0A]at least SYTKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edb78"
   ]
@@ -1418,8 +1418,8 @@
  {
   "id": "e:25eff4",
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]SYTKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least SYTKB of free space is needed.[0A][0A]Choose save data to delete[0A]to make room?",
+  "status": "done",
   "slots": [
    "w:2edb84"
   ]
@@ -1427,8 +1427,8 @@
  {
   "id": "e:25f084",
   "jp": "%sの空き容量が不足しています。[0A]セーブするには、[0A]STOKB以上の空き容量が必要です。[0A][0A]空き容量を確保するため、セーブデータを選び、[0A]削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough free space on the %s.[0A]To save,[0A]at least STOKB of free space is needed.[0A][0A]Choose save data to delete[0A]to make room?",
+  "status": "done",
   "slots": [
    "w:2edb9c"
   ]
@@ -1436,8 +1436,8 @@
  {
   "id": "e:25f114",
   "jp": "セーブに失敗しました。[0A]%sが入っていません。[0A]セーブするには、[0A]SYSKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Saving failed.[0A]No %s inserted.[0A]To save,[0A]at least SYSKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edba8",
    "w:2edbf0",
@@ -1447,8 +1447,8 @@
  {
   "id": "e:25f19c",
   "jp": "[0A]セーブが完了いたしました[0A]",
-  "en": "",
-  "status": "todo",
+  "en": "[0A]Save complete.[0A]",
+  "status": "done",
   "slots": [
    "w:2edbd8",
    "w:2edc80"
@@ -1457,8 +1457,8 @@
  {
   "id": "e:25f1b8",
   "jp": "[0A]セーブを中断しました[0A]",
-  "en": "",
-  "status": "todo",
+  "en": "[0A]Save cancelled.[0A]",
+  "status": "done",
   "slots": [
    "w:2edbe4",
    "w:2edc8c"
@@ -1467,8 +1467,8 @@
  {
   "id": "e:25f1d0",
   "jp": "このストーリーデータは壊れています。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "This story data is corrupted.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edc20"
   ]
@@ -1476,8 +1476,8 @@
  {
   "id": "e:25f220",
   "jp": "%sが入っていません。[0A]セーブするには、[0A]SYSKB以上の空き容量が必要です。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No %s inserted.[0A]To save,[0A]at least SYSKB of free space is needed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edc2c"
   ]
@@ -1485,8 +1485,8 @@
  {
   "id": "e:25f294",
   "jp": "セーブに失敗しました。[0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Saving failed.[0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edc50"
   ]
@@ -1494,8 +1494,8 @@
  {
   "id": "e:27f70c",
   "jp": "%sが入っていません。[0A]削除に失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No %s inserted.[0A]Deleting failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edd04"
   ]
@@ -1503,8 +1503,8 @@
  {
   "id": "e:27f764",
   "jp": "削除に失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Deleting failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edd10"
   ]
@@ -1512,8 +1512,8 @@
  {
   "id": "e:27f7a4",
   "jp": "スリープモードから復帰しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Returned from sleep mode.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edd1c"
   ]
@@ -1521,8 +1521,8 @@
  {
   "id": "e:27f7f0",
   "jp": "中断データが壊れていました。[0A][0A]削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "The suspend data was corrupted.[0A][0A]Delete it?",
+  "status": "done",
   "slots": [
    "w:2edd28"
   ]
@@ -1530,8 +1530,8 @@
  {
   "id": "e:27f820",
   "jp": "ストーリーデータが壊れていました。[0A][0A]削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "The story data was corrupted.[0A][0A]Delete it?",
+  "status": "done",
   "slots": [
    "w:2edd34"
   ]
@@ -1539,8 +1539,8 @@
  {
   "id": "e:27f854",
   "jp": "スリープモードから復帰しました[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Returned from sleep mode.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edd40"
   ]
@@ -1548,8 +1548,8 @@
  {
   "id": "e:27f8a0",
   "jp": "%sが入っていません。[0A]ロードに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "No %s inserted.[0A]Loading failed.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edd4c"
   ]
@@ -1557,8 +1557,8 @@
  {
   "id": "e:27f8f8",
   "jp": "%sのアクセスに失敗しました。[0A][0A]もう一度%sのチェックを[0A]やりなおしますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Could not access the %s.[0A][0A]Check the %s[0A]again?",
+  "status": "done",
   "slots": [
    "w:2edd58"
   ]
@@ -1566,8 +1566,8 @@
  {
   "id": "e:27f940",
   "jp": "%sの空き容量が不足しています。[0A]このゲームのデータをセーブするには[0A]あとFREKB以上の空き容量が必要です。[0A]空き容量を確保するため、セーブデータを[0A]選び、削除しますか？",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough free space on the %s.[0A]To save this game's data,[0A]FREKB more free space is needed.[0A]Choose save data to delete[0A]to make room?",
+  "status": "done",
   "slots": [
    "w:2edd64"
   ]
@@ -1575,8 +1575,8 @@
  {
   "id": "e:27fdf0",
   "jp": "システムデータ",
-  "en": "",
-  "status": "todo",
+  "en": "System Data",
+  "status": "done",
   "slots": [
    "w:2edd74"
   ]
@@ -1584,8 +1584,8 @@
  {
   "id": "e:27fe00",
   "jp": "『Gloria Union』のシステムデータです。[0A]このゲームの進行に必要なので削除しないでください。",
-  "en": "",
-  "status": "todo",
+  "en": "System data for \"Gloria Union\".[0A]The game needs it to run, so do not delete it.",
+  "status": "done",
   "slots": [
    "w:2edd78"
   ]
@@ -1593,8 +1593,8 @@
  {
   "id": "e:27fe5c",
   "jp": "中断データ",
-  "en": "",
-  "status": "todo",
+  "en": "Suspend Data",
+  "status": "done",
   "slots": [
    "w:2edd7c"
   ]
@@ -1602,8 +1602,8 @@
  {
   "id": "e:27fe68",
   "jp": "中断データ【ＨＡＲＤ】",
-  "en": "",
-  "status": "todo",
+  "en": "Suspend Data [HARD]",
+  "status": "done",
   "slots": [
    "w:2edd80"
   ]
@@ -1611,8 +1611,8 @@
  {
   "id": "e:27fe80",
   "jp": "ストーリーデータ",
-  "en": "",
-  "status": "todo",
+  "en": "Story Data",
+  "status": "done",
   "slots": [
    "w:2edd84"
   ]
@@ -1620,8 +1620,8 @@
  {
   "id": "e:27fe94",
   "jp": "ストーリーデータ【ＨＡＲＤ】",
-  "en": "",
-  "status": "todo",
+  "en": "Story Data [HARD]",
+  "status": "done",
   "slots": [
    "w:2edd88"
   ]
@@ -1629,8 +1629,8 @@
  {
   "id": "e:27feb4",
   "jp": "新規システムデータ",
-  "en": "",
-  "status": "todo",
+  "en": "New System Data",
+  "status": "done",
   "slots": [
    "w:2edd8c"
   ]
@@ -1638,8 +1638,8 @@
  {
   "id": "e:27fec8",
   "jp": "新規中断データ",
-  "en": "",
-  "status": "todo",
+  "en": "New Suspend Data",
+  "status": "done",
   "slots": [
    "w:2edd90"
   ]
@@ -1647,8 +1647,8 @@
  {
   "id": "e:27fed8",
   "jp": "新規ストーリーデータ",
-  "en": "",
-  "status": "todo",
+  "en": "New Story Data",
+  "status": "done",
   "slots": [
    "w:2edd94"
   ]
@@ -1656,8 +1656,8 @@
  {
   "id": "e:27fefc",
   "jp": "製品版",
-  "en": "",
-  "status": "todo",
+  "en": "Retail",
+  "status": "done",
   "slots": [
    "w:2edd9c"
   ]
@@ -1665,8 +1665,8 @@
  {
   "id": "e:27ff10",
   "jp": "テスト",
-  "en": "",
-  "status": "todo",
+  "en": "Test",
+  "status": "done",
   "slots": [
    "w:2edda4"
   ]
@@ -1674,8 +1674,8 @@
  {
   "id": "e:27ff24",
   "jp": "デバッグ",
-  "en": "",
-  "status": "todo",
+  "en": "Debug",
+  "status": "done",
   "slots": [
    "w:2eddac"
   ]

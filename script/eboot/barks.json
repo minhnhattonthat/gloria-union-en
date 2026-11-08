@@ -2351,8 +2351,8 @@
  {
   "id": "e:1ef364",
   "jp": "勝利！",
-  "en": "",
-  "status": "todo",
+  "en": "Victory!",
+  "status": "done",
   "slots": [
    "w:1f1ccc"
   ]
@@ -4628,8 +4628,8 @@
  {
   "id": "e:1f08a9",
   "jp": "こいつでどうだ！",
-  "en": "",
-  "status": "todo",
+  "en": "How about this!",
+  "status": "done",
   "slots": [
    "w:1f24d4"
   ]
@@ -31952,8 +31952,8 @@
  {
   "id": "e:2017e8",
   "jp": "目を覚ましてくれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wake up, damn it!",
+  "status": "done",
   "slots": [
    "w:20e49c"
   ]
@@ -32960,8 +32960,8 @@
  {
   "id": "e:2021aa",
   "jp": "オラァ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hraaah!",
+  "status": "done",
   "slots": [
    "w:20ed4c"
   ]
@@ -33851,8 +33851,8 @@
  {
   "id": "e:202641",
   "jp": "こいつでどうだ！",
-  "en": "",
-  "status": "todo",
+  "en": "How about this!",
+  "status": "done",
   "slots": [
    "w:20f064"
   ]
@@ -35624,8 +35624,8 @@
  {
   "id": "e:20343b",
   "jp": "こいつでどうだ！",
-  "en": "",
-  "status": "todo",
+  "en": "How about this!",
+  "status": "done",
   "slots": [
    "w:20fa4c"
   ]
