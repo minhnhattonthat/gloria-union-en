@@ -290,3 +290,11 @@ cl_only	あと	Only
 cl_cards	枚	left
 cd_effect	スキル効果と発動タイプ	Skill Effect / Trigger
 cd_condition	使用条件	Condition
+mv_foot	歩行	On Foot
+mv_slow	鈍足	Slow
+mv_flying	飛行	Flying
+mv_dragon	竜騎	Dragon
+mv_aquatic	水棲	Aquatic
+mv_teleport	転移	Teleport
+mv_cavalry	騎馬	Cavalry
+st_durability	耐久度	Dur.

@@ -16,9 +16,16 @@ ap.add_argument("rect")
 ap.add_argument("--files", default="3")
 ap.add_argument("--top", type=int, default=5)
 ap.add_argument("--light", type=int, default=200)
+ap.add_argument("--dark", type=int, default=0, help="match dark lettering instead: all RGB < DARK")
 o = ap.parse_args()
 x, y, w, h = map(int, o.rect.split(","))
-p = (np.array(Image.open(o.shot).convert("RGB"))[y:y + h, x:x + w] > o.light).all(2)
+
+
+def ink(rgb):
+    return (rgb < o.dark).all(-1) if o.dark else (rgb > o.light).all(-1)
+
+
+p = ink(np.array(Image.open(o.shot).convert("RGB"))[y:y + h, x:x + w].astype(int))
 assert p.any(), "no light pixels in the patch"
 hits = []
 for fid in map(int, o.files.split(",")):
@@ -38,7 +45,7 @@ for fid in map(int, o.files.split(",")):
             continue
         if a.shape[0] < h or a.shape[1] < w:
             continue
-        m = (a[..., 3] > 128) & (a[..., :3] > o.light).all(2)
+        m = (a[..., 3] > 128) & ink(a[..., :3].astype(int))
         d = (sliding_window_view(m, (h, w)) != p).mean(axis=(2, 3))
         j = np.unravel_index(d.argmin(), d.shape)
         hits.append((float(d[j]), fid, t["off"], t["w"], t["h"], int(j[1]), int(j[0])))

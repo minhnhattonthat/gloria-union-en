@@ -1069,6 +1069,139 @@ asset("cards_large", 2419, "ptx", 0xf380, (0, 0, 320, 420),
       lambda a, t: draw_card_names(a, 0x2c9ce2, 39, 19, "LiberationSans-BoldItalic.ttf", 2, True))
 
 
+# --- status screen (id 3) -------------------------------------------------------------------------------------------
+
+MOVE_TYPES = {(0, 0): "mv_foot", (1, 1): "mv_slow", (0, 2): "mv_flying", (1, 2): "mv_dragon", (1, 3): "mv_aquatic",
+              (0, 4): "mv_teleport", (1, 5): "mv_cavalry"}   # (column, row) of the 48x38 chip cells
+
+
+def draw_move_types(a, t):
+    """The move-type chips (left icon column of the status screen): dark letters at the foot of a light gradient
+    chip, under the icon (rows 33-35: a light band, kept). English in the same dark."""
+    out = a.copy()
+    for c, r in MOVE_TYPES:   # each band row is flat (vertical gradient): fill it with its commonest colour
+        for y in range(38 * r + 21, 38 * r + 33):
+            row = out[y, 48 * c + 3:48 * c + 39]   # x 39: the chip's light right edge, kept
+            light = row[row[:, :3].astype(int).sum(1) >= 500]   # dark letters can outnumber the background
+            cols, n = np.unique(light, axis=0, return_counts=True)
+            row[:] = cols[n.argmax()]
+    dark = (1, 1, 1, 255)
+    return draw_fixed(out, [((48 * c + 3, 38 * r + 22, 36, 11), t[k], False) for (c, r), k in MOVE_TYPES.items()],
+                      11, stroke=0, ink=(dark, dark), clear=False, center=True)
+
+
+asset("move_types", 3, "ptx", 0x13cbf0, (0, 0, 96, 304), draw_move_types)
+
+
+def draw_status_labels(a, t):
+    """Status bar sheet: 士気 on the pale yellow label left of the morale bar, 耐久度 before Atk…Hit… (the letters
+    are cleared to the label's yellow, the English drawn in the old black)."""
+    out = a.copy()
+    yellow, dark = (255, 251, 149, 255), (1, 1, 1, 255)
+    out[23:34, 50:86] = yellow   # the label's slanted right edge starts at x 86
+    out[71:82, 175:204] = yellow   # Atk starts at x 205
+    return draw_fixed(out, [((50, 23, 35, 11), t["hud_morale"], False), ((175, 71, 29, 11), t["st_durability"], False)],
+                      12, stroke=0, ink=(dark, dark), clear=False)
+
+
+asset("status_labels", 3, "ptx", 0x10ad90, (50, 23, 154, 59), draw_status_labels)
+
+
+# --- unit name plates (id 3 section 4: 87 large, then the small ones; the status screen's red banner shows a large
+# one). JP read off the sheets in file order; English from script/eboot/names.json, else PLATE_EN -------------------
+
+PLATES_BIG = """イシュト ピンガー ルルゥ ザザーランド エリーシャ ミネソタ・グレイ ロコモコ ラズベリー ガング フィービー
+アンヌ・コーマック カミュル ユグドラ パメラ イータ ベルガス ブラックモア ローガン トレイシー ガルム メラニー ガリオレッド
+アシュレイ アジョー・グラフォー ジゼル サイード キーラ エンリエッタ 名無し兵1 ルルゥMk-2 ベルガス改 シンフォニア 名無し兵5
+名無し兵6 名無し兵7 海賊 黒い牙 屍兵 商団兵 皇国兵 皇国騎兵 連合兵 探検隊員 騎士団員 賞金稼ぎ 近衛兵 研究団員 子分 ゴロツキ
+山賊 民兵 海の犬 悪霊 ゴーレム スケルトン 皇国兵長 連合兵長 支部船長 武装商人 見張り兵 お頭 手下 ナンパ男 砲撃手 海賊船 商団船
+連合軍艦 皇国軍艦 戦艦グラム デリット号 ヴァルスィ号 リベラトレ号 戦艦バルトロ 戦艦マリアデ 戦艦ゼウス 戦艦バーチェ アンズ クロ
+ローキン トローチ カリン カラメル コルベル アップル ケロッツ グロリア号 ？？？""".split()
+PLATES_SMALL = """イシュト ピンガー ルルゥ ザザーランド エリーシャ ミネソタ ロコモコ ラズベリー ガング フィービー アンヌ カミュル
+ユグドラ パメラ イータ ベルガス ブラックモア ローガン トレイシー ガルム メラニー ガリオレッド アシュレイ アジョー ジゼル サイード
+キーラ エンリエッタ 名無し兵1 ルルゥMk-2 ベルガス改 シンフォニア 名無し兵5 名無し兵6 名無し兵7 海賊 黒い牙 屍兵 商団兵 皇国兵
+皇国騎兵 連合兵 探検隊員 騎士団員 賞金稼ぎ 近衛兵 研究団員 子分 ゴロツキ 山賊 民兵 海の犬 悪霊 ゴーレム スケルトン 皇国兵長 連合兵長
+支部船長 武装商人 見張り兵 謎の女 手下 ナンパ男 砲撃手 海賊船 商団船 連合軍艦 皇国軍艦 戦艦グラム デリット号 ヴァルスィ号
+リベラトレ号 戦艦バルトロ 戦艦マリアデ 戦艦ゼウス 戦艦バーチェ アンズ クロ ローキン トローチ カリン カラメル コルベル アップル
+ケロッツ 生贄少女 長老 海ゴブリン 運の悪い男 グロリア号 威圧感のある男 町人""".split()   # then 42 English class names, then 孤高の海賊
+PLATE_EN = {"ミネソタ・グレイ": "Minesota Gray", "アンヌ・コーマック": "Anne Cormack", "アジョー・グラフォー": "Ajo-Grafor",
+            "名無し兵1": "Nameless 1", "名無し兵5": "Nameless 5", "名無し兵6": "Nameless 6", "名無し兵7": "Nameless 7",
+            "ルルゥMk-2": "Ruru Mk-II", "町人": "Townsperson", "孤高の海賊": "Lone Pirate"}
+PLATE_DARK = (14, 12, 17, 255)
+
+
+def plate_offsets():
+    b = (FILES / "00003.bin").read_bytes()
+    offs, i = [], b.find(b"PTG@", 0x17b580)
+    while i != -1 and i < 0x1ab250:   # section 4 ends at 0x1ab250
+        offs.append(i)
+        i = b.find(b"PTG@", i + 4)
+    assert len(offs) == 222, f"{len(offs)} name PTGs"
+    return offs
+
+
+def plate_en(jp):
+    import json
+    names = {}
+    for e in json.loads((ROOT / "script" / "eboot" / "names.json").read_text("utf8")):
+        names.setdefault(e["jp"], e["en"])
+    return PLATE_EN.get(jp) or names[jp]
+
+
+def plate_layer(text, big, size, xs):
+    """Large: heavy italic, a white-to-gold gradient, a dark rim and drop shadow, tilted up ~6 degrees. Small: white
+    italic, dark rim, a soft shadow."""
+    f = font("LiberationSans-BoldItalic.ttf", size)
+    body = layer_text(text, f, (255, 255, 255, 255), 2 if big else 1, PLATE_DARK, xs, lines=True)
+    if big:   # multiply the white fill (and its blends into the rim) by the gradient
+        px = np.array(body).astype(float)
+        t = np.linspace(0, 1, px.shape[0])[:, None, None]
+        grad = (1 - t) * np.array([255, 244, 214]) + t * np.array([243, 184, 58])
+        px[..., :3] = px[..., :3] * grad / 255
+        body = Image.fromarray(px.clip(0, 255).astype(np.uint8))
+    d = 2 if big else 1
+    im = Image.new("RGBA", (body.width + d, body.height + d), (0, 0, 0, 0))
+    shadow = Image.new("RGBA", body.size, (24, 22, 31, 150))
+    im.paste(shadow, (d, d), body.split()[3])
+    im.alpha_composite(body)
+    return im.rotate(6, Image.BICUBIC, expand=True) if big else im
+
+
+def draw_plate(a, jp, big):
+    """The plate cut to its ink, squeezed (to 0.75, then a smaller font) to fit the old height (40 / 16: the game's
+    layouts) and a width cap, centred on a canvas of the old height."""
+    text, hmax, wmax = plate_en(jp), a.shape[0], max(a.shape[1], 120 if big else 84)
+    size = 22 if big else 12
+    while True:
+        xs = 1.0
+        for _ in range(4):   # the tilt makes the width not quite linear in xs
+            lt = plate_layer(text, big, size, xs)
+            lt = lt.crop(lt.getbbox())
+            if lt.width <= wmax:
+                break
+            xs *= wmax / lt.width * 0.99
+        if xs >= 0.75 and lt.width <= wmax and lt.height <= hmax:
+            break
+        size -= 1
+        assert size >= 8, f"{text!r}: no room in {wmax}x{hmax}"
+    w = lt.width + 2 + lt.width % 2
+    im = Image.new("RGBA", (w, hmax), (0, 0, 0, 0))
+    im.alpha_composite(lt, ((w - lt.width) // 2, (hmax - lt.height) // 2))
+    out = np.array(im)
+    out[out[..., 3] == 0] = (255, 255, 255, 0)
+    return out
+
+
+for _i, _o in enumerate(plate_offsets()):
+    _big = _i < len(PLATES_BIG)
+    _j = _i - len(PLATES_BIG)
+    if not _big and _j >= len(PLATES_SMALL) and _i != 221:
+        continue   # English class names: kept
+    _jp = PLATES_BIG[_i] if _big else PLATES_SMALL[_j] if _j < len(PLATES_SMALL) else "孤高の海賊"
+    asset(f"plate{_i:03d}", 3, "ptg", _o, (0, 0, 512, 512), lambda a, t, jp=_jp, big=_big: draw_plate(a, jp, big),
+          resize=True, section=4)
+
+
 def gen(names=None):
     t = text_tsv()
     GFX.mkdir(exist_ok=True)
