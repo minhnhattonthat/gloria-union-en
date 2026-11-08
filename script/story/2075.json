@@ -2,8 +2,8 @@
  {
   "id": "s2075:00028",
   "jp": "私が目覚めたということは……\nそうか、念願が叶ったのか。",
-  "en": "",
-  "status": "todo",
+  "en": "If I have awakened... I see, so my\nlong-cherished wish has come true.",
+  "status": "done",
   "slots": [
    "0x2006"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2075:00064",
   "jp": "ッ！？　誰だお前は！",
-  "en": "",
-  "status": "todo",
+  "en": "...!? Who are you!",
+  "status": "done",
   "slots": [
    "0x201f"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2075:0007d",
   "jp": "私はキーラ。\nユーフォリアの全てを知る者だ。",
-  "en": "",
-  "status": "todo",
+  "en": "I am Kyra. The one who knows all of Euforia.",
+  "status": "done",
   "slots": [
    "0x2038"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2075:000ad",
   "jp": "ユーフォリアの、全てを……？",
-  "en": "",
-  "status": "todo",
+  "en": "All of Euforia...?",
+  "status": "done",
   "slots": [
    "0x2051"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2075:000ce",
   "jp": "いやいや、お前は知らなければ\nおかしいだろう。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, now, it would be odd if you didn't know.",
+  "status": "done",
   "slots": [
    "0x206a"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2075:00100",
   "jp": "ご、ごめんなさい。\nそれが、私に戻った時に\nまた忘れちゃって……。",
-  "en": "",
-  "status": "todo",
+  "en": "S-sorry. When I went back to being me, I\nforgot it all again...",
+  "status": "done",
   "slots": [
    "0x2083"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2075:00145",
   "jp": "緊急モードのままなのか！？\n燃費が悪いだろうに……。",
-  "en": "",
-  "status": "todo",
+  "en": "You're still in emergency mode!? Your fuel\nefficiency must be terrible...",
+  "status": "done",
   "slots": [
    "0x209c"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2075:0017d",
   "jp": "なぁおい。なんで、アンタが\nそんなこと知ってるんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, now. How come you know all that?",
+  "status": "done",
   "slots": [
    "0x20b5"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2075:001b5",
   "jp": "ところで、私は一つ不可解なことが\nあるのだが。",
-  "en": "",
-  "status": "todo",
+  "en": "By the way, there is one thing I find puzzling.",
+  "status": "done",
   "slots": [
    "0x20ce"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2075:001e7",
   "jp": "え？　無視？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? You're ignoring me?",
+  "status": "done",
   "slots": [
    "0x20e7"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2075:001f8",
   "jp": "何故、王族のウィルが\n二つあるのだ……？",
-  "en": "",
-  "status": "todo",
+  "en": "Why are there two royal Wills...?",
+  "status": "done",
   "slots": [
    "0x2100"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2075:00224",
   "jp": "イシュトはアシュレイと双子だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut and Ashrey are twins.",
+  "status": "done",
   "slots": [
    "0x213c"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2075:00247",
   "jp": "双子、か……。\nなんとも面白い展開に\nなっているな。",
-  "en": "",
-  "status": "todo",
+  "en": "Twins, is it... Things have taken quite an\ninteresting turn.",
+  "status": "done",
   "slots": [
    "0x2155"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2075:0027e",
   "jp": "まったくだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ain't that the truth...",
+  "status": "done",
   "slots": [
    "0x217c"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2075:00293",
   "jp": "兄貴がユーフォリア王家の\n末裔ってのはわかってるけど……。\n王家ってのはなんですか？",
-  "en": "",
-  "status": "todo",
+  "en": "I know the Boss is a descendant of the\nEuforian royal family... but what does royal\neven mean?",
+  "status": "done",
   "slots": [
    "0x21a3"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2075:002ea",
   "jp": "末裔ではなく転生体なのだがな。\n王族というのはそのままの通り、\n前世が王族の者、という意味だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Not a descendant, a reincarnation. Royal\nmeans just what it says: one who was\nroyalty in a past life.",
+  "status": "done",
   "slots": [
    "0x21b9"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2075:0034b",
   "jp": "古代ユーフォリアは王制国家\nだったのか……。",
-  "en": "",
-  "status": "todo",
+  "en": "So ancient Euforia was a monarchy...",
+  "status": "done",
   "slots": [
    "0x21cf"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2075:0037b",
   "jp": "俺達は、アイツを止めなきゃ\nならないんだ！\nそこを退いてくれ！",
-  "en": "",
-  "status": "todo",
+  "en": "We've gotta stop that guy! Get outta the\nway!",
+  "status": "done",
   "slots": [
    "0x21fd"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2075:003bc",
   "jp": "止める？　何故だ？\n彼は、ユーフォリアを復活させよう\nとしているのだぞ？",
-  "en": "",
-  "status": "todo",
+  "en": "Stop him? Why? He is trying to revive\nEuforia, you know?",
+  "status": "done",
   "slots": [
    "0x2216"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2075:00407",
   "jp": "だからじゃない！\n皇国軍なんかに、ユーフォリアを\n渡すわけにはいかないわ！",
-  "en": "",
-  "status": "todo",
+  "en": "That's exactly why! We can't hand Euforia\nover to the Imperial army!",
+  "status": "done",
   "slots": [
    "0x222c"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2075:00454",
   "jp": "ルキア皇国が何かは知らないが、\n止めるというなら、私はキミ達を\n通すわけにはいかない。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't know what the Lukia Empire is, but if\nyou mean to stop him, I cannot let you pass.",
+  "status": "done",
   "slots": [
    "0x2242"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2075:004ad",
   "jp": "何！？",
-  "en": "",
-  "status": "todo",
+  "en": "What!?",
+  "status": "done",
   "slots": [
    "0x2269"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2075:004b8",
   "jp": "ユーフォリアが滅んだ年。\n私は故郷の復活を願う為にあらゆる\n手段を取った。",
-  "en": "",
-  "status": "todo",
+  "en": "The year Euforia fell, I took every means\npossible to wish for my homeland's revival.",
+  "status": "done",
   "slots": [
    "0x2282"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2075:00505",
   "jp": "そ、それじゃあ……ユーフォリアを\n封印して、カードとルルゥを作った\nのって……。",
-  "en": "",
-  "status": "todo",
+  "en": "Th-then... the one who sealed Euforia and\nmade the cards and Ruru...",
+  "status": "done",
   "slots": [
    "0x229b"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2075:00558",
   "jp": "いかにも、私だ。\n正確には全盛期の私なのだがな。\n今は体が鈍ってしょうがない。",
-  "en": "",
-  "status": "todo",
+  "en": "Indeed, it was me. Me in my prime, to be\nprecise. My body's dreadfully rusty now.",
+  "status": "done",
   "slots": [
    "0x22b4"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2075:005a9",
   "jp": "どうしますか……？",
-  "en": "",
-  "status": "todo",
+  "en": "What do we do...?",
+  "status": "done",
   "slots": [
    "0x22cd"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2075:005c0",
   "jp": "どうするも何も、\n突破するしかねぇだろ！",
-  "en": "",
-  "status": "todo",
+  "en": "What do we do? We break through, that's\nwhat!",
+  "status": "done",
   "slots": [
    "0x22e6"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2075:005ec",
   "jp": "二振りの剣……王族達はこのことを\n暗示していたのかもしれないな。",
-  "en": "",
-  "status": "todo",
+  "en": "Two swords... Perhaps the royals foresaw\nthis.",
+  "status": "done",
   "slots": [
    "0x3474"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2075:00630",
   "jp": "そういえば、この剣のこともよく\nわからねぇんだよな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Come to think of it, I don't really get this\nsword either...",
+  "status": "done",
   "slots": [
    "0x348e"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2075:0066c",
   "jp": "そうか。\nならそうだな……勝ったら教えて\nやる。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. Then let's say... I'll tell you if you\nwin.",
+  "status": "done",
   "slots": [
    "0x34ab"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2075:0069f",
   "jp": "古代人ねぇ……。\nとてもそんな風にはみえませんね。",
-  "en": "",
-  "status": "todo",
+  "en": "An ancient, huh... You sure don't look like\none.",
+  "status": "done",
   "slots": [
    "0x358d"
   ],
@@ -342,8 +342,8 @@
  {
   "id": "s2075:006d1",
   "jp": "私の服装は、\nその時代に合う形に変化する様に\nプログラムされていてな。",
-  "en": "",
-  "status": "todo",
+  "en": "My clothes are programmed to change into a\nform that suits the era.",
+  "status": "done",
   "slots": [
    "0x35a6"
   ],
@@ -352,8 +352,8 @@
  {
   "id": "s2075:00716",
   "jp": "これでも、流行には敏感なのだよ。\nフフフ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm quite sensitive to fashion, you know. Heh\nheh heh.",
+  "status": "done",
   "slots": [
    "0x35bb"
   ],
@@ -362,8 +362,8 @@
  {
   "id": "s2075:00740",
   "jp": "わざわざ緊急プログラムに戻すとは\nなんと無駄な事を……。\n呆れてものも言えないな。",
-  "en": "",
-  "status": "todo",
+  "en": "Going out of your way to revert to the\nemergency program... What a waste... I'm\ntoo appalled for words.",
+  "status": "done",
   "slots": [
    "0x36b3"
   ],
@@ -372,8 +372,8 @@
  {
   "id": "s2075:00791",
   "jp": "でも、これが本当の私だって\n私は思うから！",
-  "en": "",
-  "status": "todo",
+  "en": "But I think this is the real me!",
+  "status": "done",
   "slots": [
    "0x36cd"
   ],
@@ -382,8 +382,8 @@
  {
   "id": "s2075:007bb",
   "jp": "……まぁ、こんなポヤーっとした\nプログラムを組んだのも私なんだ。\nしょうがない、かな。",
-  "en": "",
-  "status": "todo",
+  "en": "...Well, I'm the one who wrote such a spacey\nprogram. Can't be helped, I suppose.",
+  "status": "done",
   "slots": [
    "0x36e6"
   ],
@@ -392,8 +392,8 @@
  {
   "id": "s2075:00810",
   "jp": "鎌なんて、今時珍しい武器を\n使うのね。",
-  "en": "",
-  "status": "todo",
+  "en": "A scythe? That's a rare weapon these days.",
+  "status": "done",
   "slots": [
    "0x37c1"
   ],
@@ -402,8 +402,8 @@
  {
   "id": "s2075:00836",
   "jp": "そうか？\n私が生きていた頃は、\n結構、主流だったのだがな。",
-  "en": "",
-  "status": "todo",
+  "en": "Is it? Back when I was alive, it was pretty\ncommon.",
+  "status": "done",
   "slots": [
    "0x37da"
   ],
@@ -412,8 +412,8 @@
  {
   "id": "s2075:0086f",
   "jp": "まぁ、物珍しいなら好都合だ。\n負ける可能性が低くなる。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, if it's a novelty, all the better. Less\nchance I'll lose.",
+  "status": "done",
   "slots": [
    "0x37e4"
   ],
@@ -422,8 +422,8 @@
  {
   "id": "s2075:008a5",
   "jp": "どうやら、\nお前がこの団体のリーダーと\n見受けられる。違うか？",
-  "en": "",
-  "status": "todo",
+  "en": "It appears you are the leader of this group.\nAm I wrong?",
+  "status": "done",
   "slots": [
    "0x38dc"
   ],
@@ -432,8 +432,8 @@
  {
   "id": "s2075:008e2",
   "jp": "ほぉ、見る目があるじゃねぇの。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh ho, you've got a good eye.",
+  "status": "done",
   "slots": [
    "0x38f6"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2075:00901",
   "jp": "いかにも、\n俺がこのグロリア海賊団船長の、\nザザーランドだ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's right, I'm Zazarland, captain of the\nGloria Pirates.",
+  "status": "done",
   "slots": [
    "0x390b"
   ],
@@ -452,8 +452,8 @@
  {
   "id": "s2075:0093c",
   "jp": "つまり、お前を倒せばこちらが\n有利となるわけだ……いくぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Which means if I defeat you, the advantage\nis mine... Here I come.",
+  "status": "done",
   "slots": [
    "0x3924"
   ],
@@ -462,8 +462,8 @@
  {
   "id": "s2075:00976",
   "jp": "一つだけ聞きたい。\n現代の学問は、数千年前の学問に\nどれ程までに近づいている？",
-  "en": "",
-  "status": "todo",
+  "en": "I wish to ask one thing. How close has\ntoday's learning come to the learning of\nseveral thousand years ago?",
+  "status": "done",
   "slots": [
    "0x3a0d"
   ],
@@ -472,8 +472,8 @@
  {
   "id": "s2075:009c3",
   "jp": "そうだな。\nお前達の姿を見るに……。\n１２０％と言った所か。",
-  "en": "",
-  "status": "todo",
+  "en": "Let's see. Judging by the look of you... I'd\nsay 120%.",
+  "status": "done",
   "slots": [
    "0x3a26"
   ],
@@ -482,8 +482,8 @@
  {
   "id": "s2075:009fe",
   "jp": "何！？\n現代は、既に古代ユーフォリアを\n上回っているということか！？",
-  "en": "",
-  "status": "todo",
+  "en": "What!? You mean the present day has\nalready surpassed ancient Euforia!?",
+  "status": "done",
   "slots": [
    "0x3a40"
   ],
@@ -492,8 +492,8 @@
  {
   "id": "s2075:00a41",
   "jp": "古代ユーフォリアの学問は、\nウィルの一点張りだったからなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient Euforia's learning was all about Will,\nand nothing else.",
+  "status": "done",
   "slots": [
    "0x3a59"
   ],
@@ -502,8 +502,8 @@
  {
   "id": "s2075:00a7d",
   "jp": "総合的に見ると、\nお前らの技術は古代ユーフォリアを\n遥かに上回っている。よかったな。",
-  "en": "",
-  "status": "todo",
+  "en": "All things considered, your technology far\nsurpasses ancient Euforia's. Good for you.",
+  "status": "done",
   "slots": [
    "0x3a63"
   ],
@@ -512,8 +512,8 @@
  {
   "id": "s2075:00ad0",
   "jp": "ほぉ、魔法か。懐かしいな。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh ho, magic. How nostalgic.",
+  "status": "done",
   "slots": [
    "0x3b5b"
   ],
@@ -522,8 +522,8 @@
  {
   "id": "s2075:00aeb",
   "jp": "え！？　魔法を知ってるの！？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh!? You know about magic!?",
+  "status": "done",
   "slots": [
    "0x3b75"
   ],
@@ -532,8 +532,8 @@
  {
   "id": "s2075:00b08",
   "jp": "ユーフォリアの最終兵器。\nシンフォニアに対抗する為に\n作られた特殊技法。",
-  "en": "",
-  "status": "todo",
+  "en": "A special technique created to oppose\nEuforia's ultimate weapon, Symphonia.",
+  "status": "done",
   "slots": [
    "0x3b8e"
   ],
@@ -542,8 +542,8 @@
  {
   "id": "s2075:00b4f",
   "jp": "それが、魔法だよ。",
-  "en": "",
-  "status": "todo",
+  "en": "That is magic.",
+  "status": "done",
   "slots": [
    "0x3b98"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2075:00b62",
   "jp": "そ、そうだったんだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "S-so that's what it was...",
+  "status": "done",
   "slots": [
    "0x3bb2"
   ],
@@ -562,8 +562,8 @@
  {
   "id": "s2075:00b7b",
   "jp": "さて、お喋りはここまでだ。\nいくぞ。小さな魔法使いよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, enough chatter. Here I come, little\nmagic user.",
+  "status": "done",
   "slots": [
    "0x3bcb"
   ],
@@ -572,8 +572,8 @@
  {
   "id": "s2075:00bb1",
   "jp": "その羽……お前、黄泉の者か？",
-  "en": "",
-  "status": "todo",
+  "en": "Those wings... are you from the Land of the\nDead?",
+  "status": "done",
   "slots": [
    "0x3cc3"
   ],
@@ -582,8 +582,8 @@
  {
   "id": "s2075:00bce",
   "jp": "え！　わかるんすか？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh! You can tell, sir?",
+  "status": "done",
   "slots": [
    "0x3cdd"
   ],
@@ -592,8 +592,8 @@
  {
   "id": "s2075:00be3",
   "jp": "一人知り合いがいてな。\nフッ、懐かしいものだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I had an acquaintance there. Heh, how\nnostalgic.",
+  "status": "done",
   "slots": [
    "0x3cf6"
   ],
@@ -602,8 +602,8 @@
  {
   "id": "s2075:00c11",
   "jp": "ウンディーネか。\n水の精霊として崇められていた者が\n手に武器を持っているとは。",
-  "en": "",
-  "status": "todo",
+  "en": "An Undine, hm. To think the ones once\nworshipped as water spirits would bear\nweapons.",
+  "status": "done",
   "slots": [
    "0x3dee"
   ],
@@ -612,8 +612,8 @@
  {
   "id": "s2075:00c5e",
   "jp": "時代の変化を感じるな。",
-  "en": "",
-  "status": "todo",
+  "en": "I can feel how the times have changed.",
+  "status": "done",
   "slots": [
    "0x3df8"
   ],
@@ -622,8 +622,8 @@
  {
   "id": "s2075:00c75",
   "jp": "こんな時代にしたきっかけである\n国の住人が、偉そうな口をきくな！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't talk big, you who lived in the very\ncountry that made the times this way!",
+  "status": "done",
   "slots": [
    "0x3e12"
   ],
@@ -632,8 +632,8 @@
  {
   "id": "s2075:00cb5",
   "jp": "やれやれ、ケンカっぱやい\n精霊もいたものだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Good grief, what a quarrelsome spirit.",
+  "status": "done",
   "slots": [
    "0x3e2b"
   ],
@@ -642,8 +642,8 @@
  {
   "id": "s2075:00ce3",
   "jp": "よかろう。\nかかってこい。\n私は、強いぞ？",
-  "en": "",
-  "status": "todo",
+  "en": "Very well. Come at me. I'm strong, you\nknow?",
+  "status": "done",
   "slots": [
    "0x3e40"
   ],
@@ -652,8 +652,8 @@
  {
   "id": "s2075:00d0c",
   "jp": "ガンガガ、ガンガガ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangaga, Gangaga!!",
+  "status": "done",
   "slots": [
    "0x3f1b"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2075:00d23",
   "jp": "な、何故、遺跡の守護固体が\nこんな所に……？\nプログラムを誤ったか……？",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-why is a ruin guardian unit in a place like\nthis...? Did I make a mistake in the\nprogram...?",
+  "status": "done",
   "slots": [
    "0x3f34"
   ],
@@ -672,8 +672,8 @@
  {
   "id": "s2075:00d6a",
   "jp": "ほぉ、その武器。\n私ですら見たことがないとは……。\n珍しいな。少し撃ってみてくれ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh ho, that weapon. Even I have never seen\none... How rare. Fire it a little for me.",
+  "status": "done",
   "slots": [
    "0x401e"
   ],
@@ -682,8 +682,8 @@
  {
   "id": "s2075:00dbb",
   "jp": "言われなくても撃ちますよ！\nせいぜい、怪我をなさらぬように\nしてくださいね！",
-  "en": "",
-  "status": "todo",
+  "en": "I'll fire it without being asked! Do try not to\nget hurt!",
+  "status": "done",
   "slots": [
    "0x4038"
   ],
@@ -692,8 +692,8 @@
  {
   "id": "s2075:00e06",
   "jp": "古代人……か。\nとてもそのようには見えないな。",
-  "en": "",
-  "status": "todo",
+  "en": "An ancient... hm. You certainly don't look it.",
+  "status": "done",
   "slots": [
    "0x410c"
   ],
@@ -702,8 +702,8 @@
  {
   "id": "s2075:00e34",
   "jp": "お前の古代人のイメージは\n知らないが。\nまぁ、期待に沿えずにスマンな。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't know your image of an ancient, but...\nwell, sorry I couldn't live up to it.",
+  "status": "done",
   "slots": [
    "0x4125"
   ],
@@ -712,8 +712,8 @@
  {
   "id": "s2075:00e79",
   "jp": "ねぇ。なんか、古代ユーフォリアに\n関わるお宝なんてないの？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey. Isn't there any treasure connected to\nancient Euforia?",
+  "status": "done",
   "slots": [
    "0x4200"
   ],
@@ -722,8 +722,8 @@
  {
   "id": "s2075:00eb3",
   "jp": "現代の物の価値が\n私にわかるわけなかろう。\nまぁ、あるとしたら、この遺跡だな",
-  "en": "",
-  "status": "todo",
+  "en": "How could I know what's valuable these\ndays? Well, if there's anything, it would be\nthis ruin.",
+  "status": "done",
   "slots": [
    "0x4219"
   ],
@@ -732,8 +732,8 @@
  {
   "id": "s2075:00efe",
   "jp": "じゃあここは宝の山ってわけね。\nウフフ。\n後が楽しみね。",
-  "en": "",
-  "status": "todo",
+  "en": "So this place is a treasure mountain. Ufufu.\nI'm looking forward to later.",
+  "status": "done",
   "slots": [
    "0x4233"
   ],
@@ -742,8 +742,8 @@
  {
   "id": "s2075:00f35",
   "jp": "なんかアンタ、私と雰囲気が\n似てるんだわさ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Somehow you've got a vibe like mine,\ndontcha know...",
+  "status": "done",
   "slots": [
    "0x4315"
   ],
@@ -752,8 +752,8 @@
  {
   "id": "s2075:00f65",
   "jp": "そうか？　私には感じないんだが。",
-  "en": "",
-  "status": "todo",
+  "en": "Do I? I don't feel it.",
+  "status": "done",
   "slots": [
    "0x432e"
   ],
@@ -762,8 +762,8 @@
  {
   "id": "s2075:00f86",
   "jp": "ムカツク！　目立ち役はこの\nパメラ様だけで充分なんだわさ！\nアンタなんか、ぶっ倒してやる！",
-  "en": "",
-  "status": "todo",
+  "en": "How annoying! The Great Pamela-sama is all\nthe star this show needs, dontcha know! I'll\nknock you flat!",
+  "status": "done",
   "slots": [
    "0x4348"
   ],
@@ -772,8 +772,8 @@
  {
   "id": "s2075:00fdf",
   "jp": "おや、こんな所で神界の住人に\n会うとは。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, to meet a resident of the divine\nrealm in a place like this.",
+  "status": "done",
   "slots": [
    "0x444e"
   ],
@@ -782,8 +782,8 @@
  {
   "id": "s2075:01007",
   "jp": "……アナタ。\n神界とはどういった関係が？",
-  "en": "",
-  "status": "todo",
+  "en": "...You. What is your connection to the divine\nrealm?",
+  "status": "done",
   "slots": [
    "0x4468"
   ],
@@ -792,8 +792,8 @@
  {
   "id": "s2075:0102f",
   "jp": "なに、ただ眠っている間に\n世話になっただけだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, nothing. They just looked after me\nwhile I slept.",
+  "status": "done",
   "slots": [
    "0x4481"
   ],
@@ -802,8 +802,8 @@
  {
   "id": "s2075:0105f",
   "jp": "テメェの顔、なぁんか気にいらねぇ！\n一発殴らせろ！",
-  "en": "",
-  "status": "todo",
+  "en": "I just don't like your face! Lemme punch it\nonce!",
+  "status": "done",
   "slots": [
    "0x44d4"
   ],
@@ -812,8 +812,8 @@
  {
   "id": "s2075:01091",
   "jp": "り、理不尽な神界人だな……。\n困った……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what an unreasonable divine being...\nWhat a bother...",
+  "status": "done",
   "slots": [
    "0x44ed"
   ],
@@ -822,8 +822,8 @@
  {
   "id": "s2075:010bb",
   "jp": "おいおい！　なんだよコイツの\nフォーメーションは！",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey! What the hell kinda formation is\nthis guy's!?",
+  "status": "done",
   "slots": [
    "0x45e0"
   ],
@@ -833,8 +833,8 @@
  {
   "id": "s2075:010f1",
   "jp": "縦横斜め……メチャクチャね。",
-  "en": "",
-  "status": "todo",
+  "en": "Up, across, diagonal... It's a total mess.",
+  "status": "done",
   "slots": [
    "0x45fe"
   ],
@@ -844,8 +844,8 @@
  {
   "id": "s2075:01112",
   "jp": "私に性別はない。",
-  "en": "",
-  "status": "todo",
+  "en": "I have no gender.",
+  "status": "done",
   "slots": [
    "0x4617"
   ],
@@ -855,8 +855,8 @@
  {
   "id": "s2075:01127",
   "jp": "そんな人間、いるはずありません。",
-  "en": "",
-  "status": "todo",
+  "en": "There's no way a human like that exists.",
+  "status": "done",
   "slots": [
    "0x4635"
   ],
@@ -866,8 +866,8 @@
  {
   "id": "s2075:0114c",
   "jp": "そうだな。\n私の体は、既に人ではない。\n何年海に沈んでいたと思う。",
-  "en": "",
-  "status": "todo",
+  "en": "True. My body is no longer human. How many\nyears do you think I've been sunk in the sea?",
+  "status": "done",
   "slots": [
    "0x464e"
   ],
@@ -877,8 +877,8 @@
  {
   "id": "s2075:01191",
   "jp": "古代ユーフォリア王国が沈んだのは\n今から約千年前だ……。",
-  "en": "",
-  "status": "todo",
+  "en": "The ancient Kingdom of Euforia sank about a\nthousand years ago...",
+  "status": "done",
   "slots": [
    "0x466c"
   ],
@@ -888,8 +888,8 @@
  {
   "id": "s2075:011cd",
   "jp": "ユーフォリアと共に眠るためには、\n人間をやめるしかなかったのだ。",
-  "en": "",
-  "status": "todo",
+  "en": "To sleep alongside Euforia, I had no choice\nbut to stop being human.",
+  "status": "done",
   "slots": [
    "0x4685"
   ],
@@ -899,8 +899,8 @@
  {
   "id": "s2075:01211",
   "jp": "そこまでして、ユーフォリアを\n復活させたかったのか。",
-  "en": "",
-  "status": "todo",
+  "en": "You wanted to revive Euforia that badly?",
+  "status": "done",
   "slots": [
    "0x46a3"
   ],
@@ -910,8 +910,8 @@
  {
   "id": "s2075:01249",
   "jp": "ユーフォリアは全てを統べる存在。\n失わせるわけにはいかなかった。",
-  "en": "",
-  "status": "todo",
+  "en": "Euforia is the power that rules over all. I\ncould not let it be lost.",
+  "status": "done",
   "slots": [
    "0x46bc"
   ],
@@ -921,8 +921,8 @@
  {
   "id": "s2075:0128d",
   "jp": "それが悪用されようとしている\nのにか。",
-  "en": "",
-  "status": "todo",
+  "en": "Even when someone's tryin' to misuse it?",
+  "status": "done",
   "slots": [
    "0x46da"
   ],
@@ -932,8 +932,8 @@
  {
   "id": "s2075:012b7",
   "jp": "正直言うとな……。\n千年後のことなんてわかるかい！",
-  "en": "",
-  "status": "todo",
+  "en": "To be honest... How should I know what'd\nhappen a thousand years later!",
+  "status": "done",
   "slots": [
    "0x470f"
   ],
@@ -943,8 +943,8 @@
  {
   "id": "s2075:012ed",
   "jp": "うわ！　無責任な人だった！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! What an irresponsible person!",
+  "status": "done",
   "slots": [
    "0x472d"
   ],
@@ -954,8 +954,8 @@
  {
   "id": "s2075:0130c",
   "jp": "人間やめてまで故郷を守ったんだ！\n阻まれてたまるか！",
-  "en": "",
-  "status": "todo",
+  "en": "I stopped being human to protect my\nhomeland! I won't be stopped now!",
+  "status": "done",
   "slots": [
    "0x4746"
   ],
@@ -965,8 +965,8 @@
  {
   "id": "s2075:01344",
   "jp": "グロリア海賊団！\nアシュレイ様のもとへは行かさん！",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates! We will not let you reach\nAshrey-sama!",
+  "status": "done",
   "slots": [
    "0x4c68"
   ],
@@ -976,8 +976,8 @@
  {
   "id": "s2075:0137a",
   "jp": "チ、メンドクセーのが出てきたぜ！\nザコはさっさと片付けるぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, here comes a pain in the neck! Let's\nclean up the small fry quick!",
+  "status": "done",
   "slots": [
    "0x4c86"
   ],
@@ -987,8 +987,8 @@
  {
   "id": "s2075:013ba",
   "jp": "王族のウィルのみを注目していたが\n……なるほど他の戦闘員のウィルも\n中々目を張るものがある。",
-  "en": "",
-  "status": "todo",
+  "en": "I was paying attention only to the royal\nWill... but I see the other fighters' Wills are\nquite remarkable too.",
+  "status": "done",
   "slots": [
    "0x500c"
   ],
@@ -998,8 +998,8 @@
  {
   "id": "s2075:01419",
   "jp": "見事だ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Splendid...",
+  "status": "done",
   "slots": [
    "0x5016"
   ],
@@ -1009,8 +1009,8 @@
  {
   "id": "s2075:0142a",
   "jp": "まさか、私の力を上回るとはな。",
-  "en": "",
-  "status": "todo",
+  "en": "I never thought you would surpass my\npower.",
+  "status": "done",
   "slots": [
    "0x5877"
   ],
@@ -1020,8 +1020,8 @@
  {
   "id": "s2075:0144d",
   "jp": "教えてくれ……何故、ユーフォリア\nは海に沈んだんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Tell me... Why did Euforia sink into the sea?",
+  "status": "done",
   "slots": [
    "0x5890"
   ],
@@ -1031,8 +1031,8 @@
  {
   "id": "s2075:01485",
   "jp": "……。\nこの世界は、あらゆるウィルで\n出来ている。",
-  "en": "",
-  "status": "todo",
+  "en": "... This world is made of all kinds of Will.",
+  "status": "done",
   "slots": [
    "0x58a9"
   ],
@@ -1042,8 +1042,8 @@
  {
   "id": "s2075:014ba",
   "jp": "ユーフォリアは、その全てを\nエネルギーに変換させて生活を\nしていた。",
-  "en": "",
-  "status": "todo",
+  "en": "Euforia lived by turning all of it into energy.",
+  "status": "done",
   "slots": [
    "0x58b0"
   ],
@@ -1053,8 +1053,8 @@
  {
   "id": "s2075:01501",
   "jp": "エネルギーに変換！？\nアジョー・グラフォーが言ってた、\nルルゥの機能……！",
-  "en": "",
-  "status": "todo",
+  "en": "Turning it into energy!? That's the function\nof Ruru's that Ajo-Grafor talked about...!",
+  "status": "done",
   "slots": [
    "0x58c6"
   ],
@@ -1064,8 +1064,8 @@
  {
   "id": "s2075:0154e",
   "jp": "しかし、私達は知らなかった。\nこの世界のウィルは、有限だった\nのだ。",
-  "en": "",
-  "status": "todo",
+  "en": "But we didn't know. The Will of this world\nwas finite.",
+  "status": "done",
   "slots": [
    "0x58dc"
   ],
@@ -1075,8 +1075,8 @@
  {
   "id": "s2075:01595",
   "jp": "古代ユーフォリア王国は、\nウィルの枯渇が原因で滅んだのか……。",
-  "en": "",
-  "status": "todo",
+  "en": "So the ancient Kingdom of Euforia fell\nbecause the Will ran dry...",
+  "status": "done",
   "slots": [
    "0x58f5"
   ],
@@ -1086,8 +1086,8 @@
  {
   "id": "s2075:015d7",
   "jp": "私は再びウィルが世界を満たすまで\nユーフォリアと共に眠りについた\nのであった。完。",
-  "en": "",
-  "status": "todo",
+  "en": "And so I went to sleep with Euforia until Will\nfilled the world again. The end.",
+  "status": "done",
   "slots": [
    "0x590e"
   ],
@@ -1097,8 +1097,8 @@
  {
   "id": "s2075:0162c",
   "jp": "ルルゥと遺跡のカードを作ったのも\nお前なのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Were you the one who made Ruru and the\ncards of the ruins too?",
+  "status": "done",
   "slots": [
    "0x5927"
   ],
@@ -1108,8 +1108,8 @@
  {
   "id": "s2075:0165e",
   "jp": "そうだ。カードは世界のウィルを\n少しずつ吸収し、シンフォニアの\n動力源とするため。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes. The cards slowly absorb the world's\nWill, to serve as Symphonia's power source.",
+  "status": "done",
   "slots": [
    "0x5940"
   ],
@@ -1119,8 +1119,8 @@
  {
   "id": "s2075:016b3",
   "jp": "シンフォニアは、ユーフォリアの\n核となるための存在だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia exists to become the core of\nEuforia.",
+  "status": "done",
   "slots": [
    "0x5947"
   ],
@@ -1130,8 +1130,8 @@
  {
   "id": "s2075:016ed",
   "jp": "ユーフォリアの、核！？",
-  "en": "",
-  "status": "todo",
+  "en": "The core of Euforia!?",
+  "status": "done",
   "slots": [
    "0x596e"
   ],
@@ -1141,8 +1141,8 @@
  {
   "id": "s2075:01708",
   "jp": "核となったシンフォニアは、\nユーフォリアの永遠のエネルギー\nとなる。",
-  "en": "",
-  "status": "todo",
+  "en": "Symphonia, once she becomes the core,\nbecomes Euforia's eternal energy.",
+  "status": "done",
   "slots": [
    "0x5987"
   ],
@@ -1152,8 +1152,8 @@
  {
   "id": "s2075:0174f",
   "jp": "なるほど……ガリオレッドは、その\nエネルギーを使って世界を制そうと\nしたのか……！",
-  "en": "",
-  "status": "todo",
+  "en": "I see... So Gariored meant to use that\nenergy to rule the world...!",
+  "status": "done",
   "slots": [
    "0x59ae"
   ],
@@ -1163,8 +1163,8 @@
  {
   "id": "s2075:017a4",
   "jp": "じゃあ、私がいる限り\nユーフォリアを復活させるのは無理\nってことだよね。",
-  "en": "",
-  "status": "todo",
+  "en": "Then as long as I'm here, nobody can revive\nEuforia, right?",
+  "status": "done",
   "slots": [
    "0x59c7"
   ],
@@ -1174,8 +1174,8 @@
  {
   "id": "s2075:017ef",
   "jp": "そうでもない。",
-  "en": "",
-  "status": "todo",
+  "en": "Not quite.",
+  "status": "done",
   "slots": [
    "0x59e0"
   ],

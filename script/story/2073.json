@@ -1210,8 +1210,8 @@
  {
   "id": "s2073:0171f",
   "jp": "譲ってくれるのか？\nハハハ！　助かるよ！\nちょっと待っててくれ！",
-  "en": "",
-  "status": "todo",
+  "en": "You'll let me have it? Hahaha! You're a\nlifesaver! Wait right there!",
+  "status": "done",
   "slots": [
    "0x8202"
   ],
@@ -1220,8 +1220,8 @@
  {
   "id": "s2073:0175e",
   "jp": "か、完成した……完成したぞ！\n遂に、遂にボクはやったんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "I-it's done... It's done! At last, at last I've\ndone it!",
+  "status": "done",
   "slots": [
    "0x82e0"
   ],
@@ -1230,8 +1230,8 @@
  {
   "id": "s2073:01798",
   "jp": "ありがとうキミ！\nキミのおかげで成功したような\nものだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you! It's practically thanks to you\nthat it worked!",
+  "status": "done",
   "slots": [
    "0x82e7"
   ],
@@ -1240,8 +1240,8 @@
  {
   "id": "s2073:017cf",
   "jp": "その砂時計はプレゼントするよ！\n有効に使ってくれ！\nヒャッホー！",
-  "en": "",
-  "status": "todo",
+  "en": "The hourglass is my present to you! Put it to\ngood use! Yahoo!",
+  "status": "done",
   "slots": [
    "0x82ee"
   ],
@@ -1250,8 +1250,8 @@
  {
   "id": "s2073:0180e",
   "jp": "星屑の砂時計は時を操る時計だ！\nただし使えるのは一回だけ。\n有効に使ってくれたまえよ？",
-  "en": "",
-  "status": "todo",
+  "en": "The Star Hourglass is a clock that controls\ntime! But it only works once. Put it to good\nuse, won't you?",
+  "status": "done",
   "slots": [
    "0x830e"
   ],
@@ -1260,8 +1260,8 @@
  {
   "id": "s2073:01863",
   "jp": "足りないぃ……足りないぃ……。\n誰かぁ！　深海の雪とスターダスト\nを持ってきてくれぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Not enough... not enough... Somebody! Bring\nme Deep-Sea Snow and Stardust!",
+  "status": "done",
   "slots": [
    "0x8326"
   ],
@@ -1270,8 +1270,8 @@
  {
   "id": "s2073:05e58",
   "jp": "その体で、僕の相手をするのか。",
-  "en": "",
-  "status": "todo",
+  "en": "You'd take me on in that state?",
+  "status": "done",
   "slots": [
    "0x71f7"
   ],
@@ -1281,8 +1281,8 @@
  {
   "id": "s2073:05e7b",
   "jp": "お前にだって、前の戦闘のダメージ\nが残ってるだろうが。",
-  "en": "",
-  "status": "todo",
+  "en": "You've still got damage from the last fight\ntoo, don't ya?",
+  "status": "done",
   "slots": [
    "0x7215"
   ],
@@ -1292,8 +1292,8 @@
  {
   "id": "s2073:05eb5",
   "jp": "一気に決めてやるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'll finish this in one go!",
+  "status": "done",
   "slots": [
    "0x722a"
   ],
@@ -1303,8 +1303,8 @@
  {
   "id": "s2073:05ece",
   "jp": "アシュレイ。\nお前にも、人の心があったんだな。\n部下を心配して、戻ったんだろ？",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey. So you've got a human heart too.\nYou came back 'cause you were worried\nabout your men, right?",
+  "status": "done",
   "slots": [
    "0x9706"
   ],
@@ -1313,8 +1313,8 @@
  {
   "id": "s2073:05f1b",
   "jp": "当たり前だ。僕は人間だからな。\nならば、その心配した部下を\n殺された僕の気持ちも、わかるな？",
-  "en": "",
-  "status": "todo",
+  "en": "Of course. I am human, after all. Then you\nunderstand how I feel, now that the men I\nworried about are dead?",
+  "status": "done",
   "slots": [
    "0x971f"
   ],
@@ -1323,8 +1323,8 @@
  {
   "id": "s2073:05f76",
   "jp": "アシュレイ。\n何故、戻ってきたのですか？\n二人のお陰で逃げられたのに。",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey. Why did you come back? You got\naway thanks to those two.",
+  "status": "done",
   "slots": [
    "0x97f3"
   ],
@@ -1333,8 +1333,8 @@
  {
   "id": "s2073:05fbb",
   "jp": "なんてことはない。\nただの、未練だ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's nothing. Just lingering attachment.",
+  "status": "done",
   "slots": [
    "0x980c"
   ],
@@ -1343,8 +1343,8 @@
  {
   "id": "s2073:05fdf",
   "jp": "ッ……頭が、痛い。\nアシュレイが近くにいるだけで、\n頭が割れそう……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh... My head hurts. Just having Ashrey\nnear makes my head feel like it's splitting...",
+  "status": "done",
   "slots": [
    "0x98d9"
   ],
@@ -1353,8 +1353,8 @@
  {
   "id": "s2073:06024",
   "jp": "どうなってるの……？",
-  "en": "",
-  "status": "todo",
+  "en": "What's happening...?",
+  "status": "done",
   "slots": [
    "0x98e3"
   ],
@@ -1363,8 +1363,8 @@
  {
   "id": "s2073:06039",
   "jp": "悲しみは感じないって。\nひしひし伝わってくるっつの……。",
-  "en": "",
-  "status": "todo",
+  "en": "\"I don't feel sorrow,\" he says. It's coming\nthrough loud and clear...",
+  "status": "done",
   "slots": [
    "0x99b0"
   ],
@@ -1373,8 +1373,8 @@
  {
   "id": "s2073:06071",
   "jp": "アンタにも人の心が\nあったってわけね。",
-  "en": "",
-  "status": "todo",
+  "en": "So you had a human heart after all.",
+  "status": "done",
   "slots": [
    "0x99ba"
   ],
@@ -1383,8 +1383,8 @@
  {
   "id": "s2073:06097",
   "jp": "でも、手を抜く訳にはいかないの。\n覚悟してもらうわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "But we can't go easy on you. Get ready.",
+  "status": "done",
   "slots": [
    "0x99cf"
   ],
@@ -1393,8 +1393,8 @@
  {
   "id": "s2073:060cd",
   "jp": "アシュレイ。\nテメェ、ただ戻ってきたわけじゃ\nなさそうだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey. Looks like ya didn't just come back\nfor nothin'.",
+  "status": "done",
   "slots": [
    "0x9aaa"
   ],
@@ -1403,8 +1403,8 @@
  {
   "id": "s2073:06108",
   "jp": "流石はザザーランド。\nよくわかってるじゃないか。",
-  "en": "",
-  "status": "todo",
+  "en": "As expected of Zazarland. You understand\nwell.",
+  "status": "done",
   "slots": [
    "0x9ac3"
   ],
@@ -1413,8 +1413,8 @@
  {
   "id": "s2073:06138",
   "jp": "ユーフォリアの復活はさせねぇ。\nテメェはここで、殺すぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "I ain't lettin' Euforia come back. I'm killin'\nyou right here!",
+  "status": "done",
   "slots": [
    "0x9add"
   ],
@@ -1423,8 +1423,8 @@
  {
   "id": "s2073:06170",
   "jp": "どうやら、ユーフォリア復活には\nまだ時間がかかるようだな。",
-  "en": "",
-  "status": "todo",
+  "en": "It seems the revival of Euforia will still take\nsome time.",
+  "status": "done",
   "slots": [
    "0x9bb1"
   ],
@@ -1433,8 +1433,8 @@
  {
   "id": "s2073:061aa",
   "jp": "このスキに決めなければ、マズイな",
-  "en": "",
-  "status": "todo",
+  "en": "If we don't finish this while we have the\nchance, we're in trouble.",
+  "status": "done",
   "slots": [
    "0x9bbb"
   ],
@@ -1443,8 +1443,8 @@
  {
   "id": "s2073:061cb",
   "jp": "アシュレイのウィル。\n悲しんでるけど、それだけじゃない\n……気は抜けないね。",
-  "en": "",
-  "status": "todo",
+  "en": "Ashrey's Will. It's sad, but that's not all...\nWe can't let our guard down.",
+  "status": "done",
   "slots": [
    "0x9c81"
   ],
@@ -1453,8 +1453,8 @@
  {
   "id": "s2073:06216",
   "jp": "表情から感情を読み取れないっす。\nこれが本当の無表情って\nいうんすかね。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't read any feelings from his face, sir. Is\nthis what a real blank face looks like?",
+  "status": "done",
   "slots": [
    "0x9d47"
   ],
@@ -1463,8 +1463,8 @@
  {
   "id": "s2073:0625d",
   "jp": "貴様の出生、人生には大いに\n同情する部分もある。",
-  "en": "",
-  "status": "todo",
+  "en": "Your birth and your life deserve a great deal\nof sympathy.",
+  "status": "done",
   "slots": [
    "0x9e14"
   ],
@@ -1473,8 +1473,8 @@
  {
   "id": "s2073:0628d",
   "jp": "しかし、この戦いはすでに\nそんな感情を抱くわけには\nいかないほどに激化している。",
-  "en": "",
-  "status": "todo",
+  "en": "But this battle has grown far too fierce for\nme to hold such feelings.",
+  "status": "done",
   "slots": [
    "0x9e1e"
   ],
@@ -1483,8 +1483,8 @@
  {
   "id": "s2073:062dc",
   "jp": "許せ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Forgive me...",
+  "status": "done",
   "slots": [
    "0x9e33"
   ],
@@ -1493,8 +1493,8 @@
  {
   "id": "s2073:062e7",
   "jp": "ガンガガ、ガガグンガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gangaga, Gagagunga.",
+  "status": "done",
   "slots": [
    "0x9f07"
   ],
@@ -1503,8 +1503,8 @@
  {
   "id": "s2073:062fe",
   "jp": "ガグガ。グガガガ、ガガン。",
-  "en": "",
-  "status": "todo",
+  "en": "Gaguga. Gugagaga, Gagan.",
+  "status": "done",
   "slots": [
    "0x9f1c"
   ],
@@ -1513,8 +1513,8 @@
  {
   "id": "s2073:06319",
   "jp": "アナタの悲しみ。\nこちらには、ひしひしと\n伝わってきますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Your sorrow. It comes through to me loud\nand clear.",
+  "status": "done",
   "slots": [
    "0x9ff0"
   ],
@@ -1523,8 +1523,8 @@
  {
   "id": "s2073:06354",
   "jp": "しかし、それは因果応報というもの\n……覚悟してください。",
-  "en": "",
-  "status": "todo",
+  "en": "But that is what they call karma... Prepare\nyourself.",
+  "status": "done",
   "slots": [
    "0xa005"
   ],
@@ -1533,8 +1533,8 @@
  {
   "id": "s2073:0638c",
   "jp": "仲間を失う悲しみは、誰にでも\n宿るもの。\nそれは皇帝のアナタとて同じ。",
-  "en": "",
-  "status": "todo",
+  "en": "The sorrow of losing comrades dwells in\neveryone. Even in you, the Emperor.",
+  "status": "done",
   "slots": [
    "0xa0d9"
   ],
@@ -1543,8 +1543,8 @@
  {
   "id": "s2073:063d1",
   "jp": "しかし、その気持ちはこちらも同じ\nなのだ。\n手を抜くわけには、いかぬ！",
-  "en": "",
-  "status": "todo",
+  "en": "But we feel the same. I cannot go easy on\nyou!",
+  "status": "done",
   "slots": [
    "0xa0ee"
   ],
@@ -1553,8 +1553,8 @@
  {
   "id": "s2073:06416",
   "jp": "アタシ達だって、\nここに来るまでに何人もの\n仲間を犠牲にしてるのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "We've sacrificed plenty of friends to get\nhere too.",
+  "status": "done",
   "slots": [
    "0xa1bb"
   ],
@@ -1563,8 +1563,8 @@
  {
   "id": "s2073:06459",
   "jp": "同情なんてしてられないわ。\nごめんなさいね。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't afford sympathy. Sorry.",
+  "status": "done",
   "slots": [
    "0xa1c5"
   ],
@@ -1573,8 +1573,8 @@
  {
   "id": "s2073:06485",
   "jp": "心ってのは、何度壊しても自動的に\n修復されちまうもんなのだわさ。\nアンタの気持ちはまさにソレ。",
-  "en": "",
-  "status": "todo",
+  "en": "A heart is something that fixes itself\nhowever many times you break it, dontcha\nknow. Your feelings are exactly that.",
+  "status": "done",
   "slots": [
    "0xa28b"
   ],
@@ -1583,8 +1583,8 @@
  {
   "id": "s2073:064e2",
   "jp": "ここで諦めたら、戻れたかも\nしれないのにね。",
-  "en": "",
-  "status": "todo",
+  "en": "If you'd given up here, you might have been\nable to go back.",
+  "status": "done",
   "slots": [
    "0xa295"
   ],
@@ -1593,8 +1593,8 @@
  {
   "id": "s2073:0650e",
   "jp": "アナタの詩は、何も色が無いようで\n誰よりも濃い色で包まれていますわ",
-  "en": "",
-  "status": "todo",
+  "en": "Your song seems to have no colour at all,\nyet it is wrapped in a deeper colour than\nanyone's.",
+  "status": "done",
   "slots": [
    "0xa369"
   ],
@@ -1603,8 +1603,8 @@
  {
   "id": "s2073:06550",
   "jp": "これは……。\n複雑な詩ができそうですわね。",
-  "en": "",
-  "status": "todo",
+  "en": "This is... It seems this will make a\ncomplicated song.",
+  "status": "done",
   "slots": [
    "0xa373"
   ],
@@ -1613,8 +1613,8 @@
  {
   "id": "s2073:0657a",
   "jp": "俺はお前みてぇな軟弱野郎が\n一番嫌いなんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wimpy bastards like you are what I hate\nmost!",
+  "status": "done",
   "slots": [
    "0xa3b1"
   ],
@@ -1623,8 +1623,8 @@
  {
   "id": "s2073:065a6",
   "jp": "俺の拳で、目ぇ覚ましやがれ！",
-  "en": "",
-  "status": "todo",
+  "en": "My fist'll wake ya up!",
+  "status": "done",
   "slots": [
    "0xa3bb"
   ],
@@ -1633,8 +1633,8 @@
  {
   "id": "s2073:065c3",
   "jp": "ガハァッ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gahaah!!",
+  "status": "done",
   "slots": [
    "0xa5e2"
   ],
@@ -1644,8 +1644,8 @@
  {
   "id": "s2073:065d4",
   "jp": "皇国軍の兵も、将軍ももういない。\nお前の負けだ、アシュレイ。",
-  "en": "",
-  "status": "todo",
+  "en": "No Imperial soldiers, no generals left. You\nlose, Ashrey.",
+  "status": "done",
   "slots": [
    "0xa5fb"
   ],
@@ -1655,8 +1655,8 @@
  {
   "id": "s2073:06614",
   "jp": "何もない、か……フフフ。",
-  "en": "",
-  "status": "todo",
+  "en": "Nothing left, hm... Heh heh heh.",
+  "status": "done",
   "slots": [
    "0xad9e"
   ],
@@ -1666,8 +1666,8 @@
  {
   "id": "s2073:06631",
   "jp": "……何がおかしい。",
-  "en": "",
-  "status": "todo",
+  "en": "...What's so funny?",
+  "status": "done",
   "slots": [
    "0xadb7"
   ],
@@ -1677,8 +1677,8 @@
  {
   "id": "s2073:06648",
   "jp": "だが、得たものがある……。\nなにかわかるか？",
-  "en": "",
-  "status": "todo",
+  "en": "But I have gained something... Do you know\nwhat?",
+  "status": "done",
   "slots": [
    "0xadd0"
   ],
@@ -1699,8 +1699,8 @@
  {
   "id": "s2073:06683",
   "jp": "それは……幸福感だ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's... euphoria.",
+  "status": "done",
   "slots": [
    "0xae02"
   ],
@@ -1710,8 +1710,8 @@
  {
   "id": "s2073:0669c",
   "jp": "地震！？",
-  "en": "",
-  "status": "todo",
+  "en": "An earthquake!?",
+  "status": "done",
   "slots": [
    "0xae2b"
   ],
@@ -1721,8 +1721,8 @@
  {
   "id": "s2073:066a9",
   "jp": "ッ！！\nク、ウウゥゥ……！",
-  "en": "",
-  "status": "todo",
+  "en": "...!! Ngh, uuugh...!",
+  "status": "done",
   "slots": [
    "0xae44"
   ],
@@ -1732,8 +1732,8 @@
  {
   "id": "s2073:066c7",
   "jp": "ルルゥ！？\nどうした！　ルルゥ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru!? What's wrong! Ruru!",
+  "status": "done",
   "slots": [
    "0xae66"
   ],
@@ -1743,8 +1743,8 @@
  {
   "id": "s2073:066eb",
   "jp": "あ、兄貴！　アレ！",
-  "en": "",
-  "status": "todo",
+  "en": "B-Boss! Look!",
+  "status": "done",
   "slots": [
    "0xae8d"
   ],
@@ -1754,8 +1754,8 @@
  {
   "id": "s2073:06702",
   "jp": "う、海から、都市が上がってくる？\n……それも、とてつもなく大きい。",
-  "en": "",
-  "status": "todo",
+  "en": "A c-city's rising out of the sea? ...And an\nunbelievably huge one.",
+  "status": "done",
   "slots": [
    "0xaec9"
   ],
@@ -1765,8 +1765,8 @@
  {
   "id": "s2073:06748",
   "jp": "これこそが、古代ユーフォリア王国\n……僕の、幸せの象徴だ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is the ancient Kingdom of Euforia... the\nsymbol of my happiness.",
+  "status": "done",
   "slots": [
    "0xaee2"
   ],
@@ -1776,8 +1776,8 @@
  {
   "id": "s2073:06786",
   "jp": "手に入れた……手に入れたんだ。\n幸福を、幸せを！",
-  "en": "",
-  "status": "todo",
+  "en": "I've got it... I've got it. Euphoria, happiness!",
+  "status": "done",
   "slots": [
    "0xaeec"
   ],
@@ -1787,8 +1787,8 @@
  {
   "id": "s2073:067ba",
   "jp": "フフ、フフフハハ。ハハハッハ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, heh heh hah hah. Hahahahaha!!",
+  "status": "done",
   "slots": [
    "0xaf0d"
   ],
@@ -1798,8 +1798,8 @@
  {
   "id": "s2073:067df",
   "jp": "ハッ、どうかな！\nここでお前を倒せば、\nその計画も水の泡だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hah, we'll see! Beat you here, and that\nplan's all for nothin'!",
+  "status": "done",
   "slots": [
    "0xaf42"
   ],
@@ -1809,8 +1809,8 @@
  {
   "id": "s2073:0681e",
   "jp": "それは……どうかな。",
-  "en": "",
-  "status": "todo",
+  "en": "Will it... I wonder.",
+  "status": "done",
   "slots": [
    "0xaf5b"
   ],
@@ -1831,8 +1831,8 @@
  {
   "id": "s2073:06846",
   "jp": "知っているか？\nルルゥは、古代ユーフォリア王国を\n目覚めさせる力があることを。",
-  "en": "",
-  "status": "todo",
+  "en": "Did you know? Ruru has the power to\nawaken the ancient Kingdom of Euforia.",
+  "status": "done",
   "slots": [
    "0xafe7"
   ],
@@ -1842,8 +1842,8 @@
  {
   "id": "s2073:06897",
   "jp": "そして、ルルゥを使役できるのは\n王である者。\nつまりは僕であることを！",
-  "en": "",
-  "status": "todo",
+  "en": "And the one who can command Ruru is the\nking. In other words, me!",
+  "status": "done",
   "slots": [
    "0xaff1"
   ],
@@ -1853,8 +1853,8 @@
  {
   "id": "s2073:068e0",
   "jp": "さぁルルゥ、いや、シンフォニア。\n目を覚ますのだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, Ruru... no, Symphonia. Awaken.",
+  "status": "done",
   "slots": [
    "0xaffb"
   ],
@@ -1864,8 +1864,8 @@
  {
   "id": "s2073:06916",
   "jp": "プログラム、修正完了\nシンフォニア、起動します。",
-  "en": "",
-  "status": "todo",
+  "en": "Program correction, complete. Symphonia,\nactivating.",
+  "status": "done",
   "slots": [
    "0xb03e"
   ],
@@ -1875,8 +1875,8 @@
  {
   "id": "s2073:0694a",
   "jp": "ルルゥ！　ルルゥ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru! Ruru!!",
+  "status": "done",
   "slots": [
    "0xb057"
   ],
@@ -1886,8 +1886,8 @@
  {
   "id": "s2073:06963",
   "jp": "カードは返してもらうぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll be taking back the cards.",
+  "status": "done",
   "slots": [
    "0xb070"
   ],
@@ -1897,8 +1897,8 @@
  {
   "id": "s2073:06980",
   "jp": "カードが勝手に……！？",
-  "en": "",
-  "status": "todo",
+  "en": "The cards are moving on their own...!?",
+  "status": "done",
   "slots": [
    "0xb09e"
   ],
@@ -1908,8 +1908,8 @@
  {
   "id": "s2073:0699b",
   "jp": "これで、全てが揃った！\n後はユーフォリアを起動させれば、\n僕の意思は叶う。",
-  "en": "",
-  "status": "todo",
+  "en": "Now everything is in place! All that's left is\nto activate Euforia, and my will comes true.",
+  "status": "done",
   "slots": [
    "0xb0b7"
   ],
@@ -1919,8 +1919,8 @@
  {
   "id": "s2073:069e8",
   "jp": "兄貴、二人が行っちゃいますよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Boss, the two of them are getting away!",
+  "status": "done",
   "slots": [
    "0xb142"
   ],
@@ -1930,8 +1930,8 @@
  {
   "id": "s2073:06a0b",
   "jp": "追うぞ！\n今度こそ、アシュレイを倒すんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "After 'em! This time, we beat Ashrey for\nsure!",
+  "status": "done",
   "slots": [
    "0xb15b"
   ],
@@ -1952,8 +1952,8 @@
  {
   "id": "s2073:06a86",
   "jp": "こんなところまで客が来るとは、\n世界中を回った甲斐があったな。",
-  "en": "",
-  "status": "todo",
+  "en": "For a customer to come all this way...\nTravelling all over the world was worth it.",
+  "status": "done",
   "slots": [
    "0x2e5a",
    "0x90d6"
@@ -1963,8 +1963,8 @@
  {
   "id": "s2073:06ac4",
   "jp": "……ウム、どうやらキミは\n手術を受ける権利を持った\n人物のようだな。",
-  "en": "",
-  "status": "todo",
+  "en": "...Hm, it appears you are someone with the\nright to receive the operation.",
+  "status": "done",
   "slots": [
    "0x2e61",
    "0x90dd"
@@ -1974,8 +1974,8 @@
  {
   "id": "s2073:06b07",
   "jp": "それじゃあ、始めるわよん！",
-  "en": "",
-  "status": "todo",
+  "en": "Well then, let's get started, shall we~!",
+  "status": "done",
   "slots": [
    "0x2e68",
    "0x90e4"
@@ -1985,8 +1985,8 @@
  {
   "id": "s2073:06b22",
   "jp": "ヒュー。\nやっぱり自宅でやる手術は気持ちが\nいいわねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Whew. An operation at home really does\nfeel good.",
+  "status": "done",
   "slots": [
    "0x2e78",
    "0x90f4"
@@ -1996,8 +1996,8 @@
  {
   "id": "s2073:06b59",
   "jp": "もうか・い・か・ん！",
-  "en": "",
-  "status": "todo",
+  "en": "Pure. Ec. Sta. Sy!",
+  "status": "done",
   "slots": [
    "0x2e7f",
    "0x90fb"
@@ -2007,8 +2007,8 @@
  {
   "id": "s2073:06b6e",
   "jp": "アナタもそうだったでしょう？\nウフフ。",
-  "en": "",
-  "status": "todo",
+  "en": "It was the same for you, wasn't it? Ufufu.",
+  "status": "done",
   "slots": [
    "0x2e86",
    "0x9102"
@@ -2210,15 +2210,15 @@
  {
   "id": "s2073:06dd2",
   "jp": "神や天使には性別がないって\nいうじゃない。",
-  "en": "",
-  "status": "todo",
+  "en": "They say gods and angels have no gender,\ndon't they?",
+  "status": "done",
   "slots": []
  },
  {
   "id": "s2073:06dfc",
   "jp": "私たちにも性別はない。\nつまり！　私たちは神になったの！\nその事実を誇るといいわ！",
-  "en": "",
-  "status": "todo",
+  "en": "We have no gender either. In other words!\nWe have become gods! Be proud of that\nfact!",
+  "status": "done",
   "slots": []
  },
  {
@@ -2235,8 +2235,8 @@
  {
   "id": "s2073:06e9a",
   "jp": "こんなところまで客が来るとは、\n世界中を回った甲斐があったな。",
-  "en": "",
-  "status": "todo",
+  "en": "For a customer to come all this way...\nTravelling all over the world was worth it.",
+  "status": "done",
   "slots": [
    "0x33b2",
    "0x962e"
@@ -2246,8 +2246,8 @@
  {
   "id": "s2073:06ed8",
   "jp": "しかし、残念な事にキミには\n手術を受ける権利がない。\nすまないが、お引取り願おう。",
-  "en": "",
-  "status": "todo",
+  "en": "Sadly, however, you do not have the right\nto receive the operation. I'm sorry, but I\nmust ask you to leave.",
+  "status": "done",
   "slots": [
    "0x33b9",
    "0x9635"
@@ -2257,8 +2257,8 @@
  {
   "id": "s2073:06f29",
   "jp": "権利を手に入れてから、\nもう一度来てくれ。",
-  "en": "",
-  "status": "todo",
+  "en": "Come again once you have the right.",
+  "status": "done",
   "slots": []
  },
  {
