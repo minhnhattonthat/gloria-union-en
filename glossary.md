@@ -137,7 +137,7 @@ Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "
 | ユーフォリア計画 | Euforia Project | | the Empire's plan | |
 | ユーフォリアの鍵 / 羅針盤 | Key of Euforia / compass | | Ishut's sword / Ruru | |
 | タイダルウェイブ | Tidal Wave | | first Crystal card | |
-| 紹介状 | letter of referral | | Dr. Deluxe's sex change | |
+| 紹介状 | letter of referral / Referral | | Dr. Deluxe's sex change; item name 愛の紹介状 Love Referral (134 px) | |
 | 天上への担い手 | Bearer to the Heavens | | the manta (EBOOT 2c5bf2) | |
 | 海の平和を守る会 | Society to Protect the Peace of the Seas | | NPC group | |
 | 商団 (unit) | Guild | | trading guild | |

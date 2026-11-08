@@ -6401,8 +6401,8 @@
  {
   "id": "e:259a90",
   "jp": "透明なガラス製の容器。割れやすいので注意が必要",
-  "en": "",
-  "status": "todo",
+  "en": "A clear glass jar. Fragile, so take care.",
+  "status": "done",
   "slots": [
    "w:2ccb8c",
    "w:2ccfa8"
@@ -6411,8 +6411,8 @@
  {
   "id": "e:259ac0",
   "jp": "子供向けおもちゃの材料。平和な雰囲気が滲み出ている",
-  "en": "",
-  "status": "todo",
+  "en": "Material for children's toys. It radiates peace.",
+  "status": "done",
   "slots": [
    "w:2ccb90",
    "w:2ccfac"
@@ -6421,8 +6421,8 @@
  {
   "id": "e:259af4",
   "jp": "カラフル真珠で作ったかわいい腕輪",
-  "en": "",
-  "status": "todo",
+  "en": "A cute bracelet of colourful pearls",
+  "status": "done",
   "slots": [
    "w:2ccb94",
    "w:2ccfb0"
@@ -6431,8 +6431,8 @@
  {
   "id": "e:259b18",
   "jp": "火の遺跡「火竜の城」のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "A shard of the fire ruin, Fire Dragon Castle",
+  "status": "done",
   "slots": [
    "w:2ccb98",
    "w:2ccfb4"
@@ -6441,8 +6441,8 @@
  {
   "id": "e:259b38",
   "jp": "激辛だがコクがあって美味しい本格派カレー",
-  "en": "",
-  "status": "todo",
+  "en": "Fiery but rich and tasty, a real curry",
+  "status": "done",
   "slots": [
    "w:2ccb9c",
    "w:2ccfb8"
@@ -6451,8 +6451,8 @@
  {
   "id": "e:259b64",
   "jp": "枯れ果てたシスターの花束。色も茶色くなっている…",
-  "en": "",
-  "status": "todo",
+  "en": "The sister's dead bouquet, gone brown...",
+  "status": "done",
   "slots": [
    "w:2ccba0",
    "w:2ccfbc"
@@ -6461,8 +6461,8 @@
  {
   "id": "e:259b98",
   "jp": "皮を貼り継いで作られた簡素なヘルメット",
-  "en": "",
-  "status": "todo",
+  "en": "A simple helmet of stitched leather.",
+  "status": "done",
   "slots": [
    "w:2ccba4",
    "w:2ccfc0"
@@ -6471,8 +6471,8 @@
  {
   "id": "e:259bc0",
   "jp": "古代の皇帝が使っていた印章を模したお土産用の品",
-  "en": "",
-  "status": "todo",
+  "en": "A souvenir copy of an ancient emperor's seal",
+  "status": "done",
   "slots": [
    "w:2ccba8",
    "w:2ccfc4"
@@ -6481,8 +6481,8 @@
  {
   "id": "e:259bf0",
   "jp": "髪をすっぽり覆う白絹の頭巾。昔は未婚女性の正装だった",
-  "en": "",
-  "status": "todo",
+  "en": "A white silk hood. Once worn by the unmarried.",
+  "status": "done",
   "slots": [
    "w:2ccbac",
    "w:2ccfc8"
@@ -6491,8 +6491,8 @@
  {
   "id": "e:259c28",
   "jp": "薄絹をあしらった可憐なコルセット",
-  "en": "",
-  "status": "todo",
+  "en": "A delicate corset trimmed with fine silk.",
+  "status": "done",
   "slots": [
    "w:2ccbb0",
    "w:2ccfcc"
@@ -6501,8 +6501,8 @@
  {
   "id": "e:259c4c",
   "jp": "熱心な信者だけに与えられる栄誉あるロザリオ",
-  "en": "",
-  "status": "todo",
+  "en": "An honoured rosary for devout believers only.",
+  "status": "done",
   "slots": [
    "w:2ccbb4",
    "w:2ccfd0"
@@ -6511,8 +6511,8 @@
  {
   "id": "e:259c78",
   "jp": "猫の目のようなまんまるな宝石",
-  "en": "",
-  "status": "todo",
+  "en": "A round gem like a cat's eye.",
+  "status": "done",
   "slots": [
    "w:2ccbb8",
    "w:2ccfd4"
@@ -6521,8 +6521,8 @@
  {
   "id": "e:259c98",
   "jp": "どうみてもキャンディにしか見えない魔法の杖…",
-  "en": "",
-  "status": "todo",
+  "en": "A magic wand that looks just like candy...",
+  "status": "done",
   "slots": [
    "w:2ccbbc",
    "w:2ccfd8"
@@ -6531,8 +6531,8 @@
  {
   "id": "e:259cc8",
   "jp": "アジョー・グラフォー愛用の怪しい雰囲気が漂うメガネ",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo-Grafor's beloved shady glasses",
+  "status": "done",
   "slots": [
    "w:2ccbc0",
    "w:2ccfdc"
@@ -6541,8 +6541,8 @@
  {
   "id": "e:259cfc",
   "jp": "血塗られた斧。持つ者を狂気へと駆り立てる",
-  "en": "",
-  "status": "todo",
+  "en": "A bloodstained axe that drives you mad.",
+  "status": "done",
   "slots": [
    "w:2ccbc4",
    "w:2ccfe0"
@@ -6551,8 +6551,8 @@
  {
   "id": "e:259d28",
   "jp": "古代の皇帝が使っていた印章。巨大なウィルを感じる",
-  "en": "",
-  "status": "todo",
+  "en": "An ancient emperor's seal. It holds vast Will",
+  "status": "done",
   "slots": [
    "w:2ccbc8",
    "w:2ccfe4"
@@ -6561,8 +6561,8 @@
  {
   "id": "e:259d5c",
   "jp": "全長２ｍを超える超巨大魚の魚拓",
-  "en": "",
-  "status": "todo",
+  "en": "A print of a giant fish over 2 m long",
+  "status": "done",
   "slots": [
    "w:2ccbcc",
    "w:2ccfe8"
@@ -6571,8 +6571,8 @@
  {
   "id": "e:259d7c",
   "jp": "極めて凶暴な性格と猛毒で知られるキラービーの巣",
-  "en": "",
-  "status": "todo",
+  "en": "A nest of savage, deadly Killer Bees.",
+  "status": "done",
   "slots": [
    "w:2ccbd0",
    "w:2ccfec"
@@ -6581,8 +6581,8 @@
  {
   "id": "e:259dac",
   "jp": "高位に昇り詰めたものがつくらせた嗜好品としての金貨",
-  "en": "",
-  "status": "todo",
+  "en": "A luxury gold coin for those of high rank.",
+  "status": "done",
   "slots": [
    "w:2ccbd4",
    "w:2ccff0"
@@ -6591,8 +6591,8 @@
  {
   "id": "e:259de0",
   "jp": "鋭い曲線を描く刃をもつハンドアックス",
-  "en": "",
-  "status": "todo",
+  "en": "A hand axe with a sharply curved blade.",
+  "status": "done",
   "slots": [
    "w:2ccbd8",
    "w:2ccff4"
@@ -6601,8 +6601,8 @@
  {
   "id": "e:259e08",
   "jp": "祈りを刻み、永遠の約束を誓った指輪",
-  "en": "",
-  "status": "todo",
+  "en": "A ring of prayers, an eternal promise.",
+  "status": "done",
   "slots": [
    "w:2ccbdc",
    "w:2ccff8"
@@ -6611,8 +6611,8 @@
  {
   "id": "e:259e2c",
   "jp": "淡く光を反射するきれいな二枚貝",
-  "en": "",
-  "status": "todo",
+  "en": "A pretty bivalve that softly reflects light.",
+  "status": "done",
   "slots": [
    "w:2ccbe0",
    "w:2ccffc"
@@ -6621,8 +6621,8 @@
  {
   "id": "e:259e4c",
   "jp": "ある武器匠の鬼作。処刑具を応用した残酷な重槍",
-  "en": "",
-  "status": "todo",
+  "en": "A cruel heavy lance based on execution tools.",
+  "status": "done",
   "slots": [
    "w:2ccbe4",
    "w:2cd000"
@@ -6631,8 +6631,8 @@
  {
   "id": "e:259e7c",
   "jp": "まばゆいばかりに光り輝くゴールドバー",
-  "en": "",
-  "status": "todo",
+  "en": "A dazzling gold bar.",
+  "status": "done",
   "slots": [
    "w:2ccbe8",
    "w:2cd004"
@@ -6641,8 +6641,8 @@
  {
   "id": "e:259ea4",
   "jp": "邪教の狂信者が隠し持っていた黒石に緋十字のロザリオ",
-  "en": "",
-  "status": "todo",
+  "en": "A heretic's rosary: black stone, red cross.",
+  "status": "done",
   "slots": [
    "w:2ccbec",
    "w:2cd008"
@@ -6651,8 +6651,8 @@
  {
   "id": "e:259ed8",
   "jp": "神々の楽園にあると云われる禁断の果実",
-  "en": "",
-  "status": "todo",
+  "en": "Forbidden fruit from the gods' paradise.",
+  "status": "done",
   "slots": [
    "w:2ccbf0",
    "w:2cd00c"
@@ -6661,8 +6661,8 @@
  {
   "id": "e:259f00",
   "jp": "非常に珍しい金色の海ドゼウ。見た者は幸運を得るという",
-  "en": "",
-  "status": "todo",
+  "en": "A rare golden Sea Loach. Seeing one brings luck",
+  "status": "done",
   "slots": [
    "w:2ccbf4",
    "w:2cd010"
@@ -6671,8 +6671,8 @@
  {
   "id": "e:259f38",
   "jp": "豪華なとっくり。呑むほどに強くなるが…",
-  "en": "",
-  "status": "todo",
+  "en": "A fancy sake jug. Drink, get strong, but...",
+  "status": "done",
   "slots": [
    "w:2ccbf8",
    "w:2cd014"
@@ -6681,8 +6681,8 @@
  {
   "id": "e:259f60",
   "jp": "死んだ海ドゼウが腐ったもの。非常にくさい…",
-  "en": "",
-  "status": "todo",
+  "en": "A dead Sea Loach gone rotten. It reeks...",
+  "status": "done",
   "slots": [
    "w:2ccbfc",
    "w:2cd018"
@@ -6691,8 +6691,8 @@
  {
   "id": "e:259f8c",
   "jp": "かつての名剣が朽ち果ててボロボロになった物",
-  "en": "",
-  "status": "todo",
+  "en": "Once a famous sword, now in tatters.",
+  "status": "done",
   "slots": [
    "w:2ccc00",
    "w:2cd01c"
@@ -6701,8 +6701,8 @@
  {
   "id": "e:259fb8",
   "jp": "首が千切れた海賊王の人形。今にもバチが当たりそう…",
-  "en": "",
-  "status": "todo",
+  "en": "A headless Pirate King doll. You'll be cursed...",
+  "status": "done",
   "slots": [
    "w:2ccc04",
    "w:2cd020"
@@ -6711,8 +6711,8 @@
  {
   "id": "e:259fec",
   "jp": "古代ユーフォリアの時代に製造された秘石",
-  "en": "",
-  "status": "todo",
+  "en": "A secret stone made in ancient Euforian times",
+  "status": "done",
   "slots": [
    "w:2ccc08",
    "w:2cd024"
@@ -6721,8 +6721,8 @@
  {
   "id": "e:25a014",
   "jp": "魔導具。相手の弱点を的確に指し示してくれるデバイス",
-  "en": "",
-  "status": "todo",
+  "en": "A magic device that points out weak spots.",
+  "status": "done",
   "slots": [
    "w:2ccc0c",
    "w:2cd028"
@@ -6731,8 +6731,8 @@
  {
   "id": "e:25a048",
   "jp": "天然記念物指定のグリフォンの羽根",
-  "en": "",
-  "status": "todo",
+  "en": "A griffon feather, a protected national treasure",
+  "status": "done",
   "slots": [
    "w:2ccc10",
    "w:2cd02c"
@@ -6741,8 +6741,8 @@
  {
   "id": "e:25a06c",
   "jp": "グリフォンの肉をこんがり焼いたステーキ",
-  "en": "",
-  "status": "todo",
+  "en": "A griffon steak, roasted golden brown.",
+  "status": "done",
   "slots": [
    "w:2ccc14",
    "w:2cd030"
@@ -6751,8 +6751,8 @@
  {
   "id": "e:25a094",
   "jp": "信仰と忠誠の象徴とされる十字槍",
-  "en": "",
-  "status": "todo",
+  "en": "A cross lance, symbol of faith and loyalty.",
+  "status": "done",
   "slots": [
    "w:2ccc18",
    "w:2cd034"
@@ -6761,8 +6761,8 @@
  {
   "id": "e:25a0b4",
   "jp": "黒ネコの耳をモチーフに作られたヘアバンド",
-  "en": "",
-  "status": "todo",
+  "en": "A headband modelled on a black cat's ears.",
+  "status": "done",
   "slots": [
    "w:2ccc1c",
    "w:2cd038"
@@ -6771,8 +6771,8 @@
  {
   "id": "e:25a0e0",
   "jp": "栄光の海賊が持つといわれる青い宝石の付いた美しい短剣",
-  "en": "",
-  "status": "todo",
+  "en": "A blue-gemmed dagger of a glorious pirate",
+  "status": "done",
   "slots": [
    "w:2ccc20",
    "w:2cd03c"
@@ -6781,8 +6781,8 @@
  {
   "id": "e:25a118",
   "jp": "栄光を得た海賊と共に戦乱を戦いぬいた最強の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "The best cannon, a glorious pirate's ally",
+  "status": "done",
   "slots": [
    "w:2ccc24",
    "w:2cd040"
@@ -6791,8 +6791,8 @@
  {
   "id": "e:25a148",
   "jp": "この石には金属の性質を変異させる特殊な力がある…",
-  "en": "",
-  "status": "todo",
+  "en": "This stone has a special power to transform metal...",
+  "status": "done",
   "slots": [
    "w:2ccc28",
    "w:2cd044"
@@ -6801,8 +6801,8 @@
  {
   "id": "e:25a17c",
   "jp": "多くの喜びと悲しみをつづる楽曲を記す譜面",
-  "en": "",
-  "status": "todo",
+  "en": "Sheet music of joys and sorrows.",
+  "status": "done",
   "slots": [
    "w:2ccc2c",
    "w:2cd048"
@@ -6811,8 +6811,8 @@
  {
   "id": "e:25a1a8",
   "jp": "幸運を授かるようにと、祈りの込められたお守り",
-  "en": "",
-  "status": "todo",
+  "en": "A charm imbued with prayers for good fortune.",
+  "status": "done",
   "slots": [
    "w:2ccc30",
    "w:2cd04c"
@@ -6821,8 +6821,8 @@
  {
   "id": "e:25a1d8",
   "jp": "航海中の思い出を記録する日記帳",
-  "en": "",
-  "status": "todo",
+  "en": "A diary for memories of the voyage",
+  "status": "done",
   "slots": [
    "w:2ccc34",
    "w:2cd050"
@@ -6831,8 +6831,8 @@
  {
   "id": "e:25a1f8",
   "jp": "食べると力がみなぎってくる、高級うに",
-  "en": "",
-  "status": "todo",
+  "en": "A fine sea urchin. Eat it and power surges",
+  "status": "done",
   "slots": [
    "w:2ccc38",
    "w:2cd054"
@@ -6841,8 +6841,8 @@
  {
   "id": "e:25a220",
   "jp": "質実剛健。余計な飾りが一切無い、豪快な大槍",
-  "en": "",
-  "status": "todo",
+  "en": "Plain and solid. A bold, unadorned great lance.",
+  "status": "done",
   "slots": [
    "w:2ccc3c",
    "w:2cd058"
@@ -6851,8 +6851,8 @@
  {
   "id": "e:25a24c",
   "jp": "金塊から作られた黄金に輝く槍",
-  "en": "",
-  "status": "todo",
+  "en": "A golden lance made from gold ingots.",
+  "status": "done",
   "slots": [
    "w:2ccc40",
    "w:2cd05c"
@@ -6861,8 +6861,8 @@
  {
   "id": "e:25a26c",
   "jp": "中流貴族の嗜好品。エレガントな気持ちに浸れる",
-  "en": "",
-  "status": "todo",
+  "en": "A luxury for the middle nobility. So elegant.",
+  "status": "done",
   "slots": [
    "w:2ccc44",
    "w:2cd060"
@@ -6871,8 +6871,8 @@
  {
   "id": "e:25a29c",
   "jp": "全身ゴーレムの被り物。すごく重い…",
-  "en": "",
-  "status": "todo",
+  "en": "A full-body Golem costume. Very heavy...",
+  "status": "done",
   "slots": [
    "w:2ccc48",
    "w:2cd064"
@@ -6881,8 +6881,8 @@
  {
   "id": "e:25a2c0",
   "jp": "コリッとした食感がやみつきになる木の実。おやつに最適",
-  "en": "",
-  "status": "todo",
+  "en": "An addictively crunchy nut. A perfect snack.",
+  "status": "done",
   "slots": [
    "w:2ccc4c",
    "w:2cd068"
@@ -6891,8 +6891,8 @@
  {
   "id": "e:25a2f8",
   "jp": "幻想的な挿絵が添えられた図鑑",
-  "en": "",
-  "status": "todo",
+  "en": "A field guide with fantastical illustrations.",
+  "status": "done",
   "slots": [
    "w:2ccc50",
    "w:2cd06c"
@@ -6901,8 +6901,8 @@
  {
   "id": "e:25a318",
   "jp": "桃色の木の実で、食べると疲れが吹き飛ぶ。別名“夏梅”",
-  "en": "",
-  "status": "todo",
+  "en": "A pink nut that cures fatigue. \"Summer plum\"",
+  "status": "done",
   "slots": [
    "w:2ccc54",
    "w:2cd070"
@@ -6911,8 +6911,8 @@
  {
   "id": "e:25a350",
   "jp": "南十字星の様に光り輝く神秘の杖。無限のウィルを秘める",
-  "en": "",
-  "status": "todo",
+  "en": "A Southern Cross staff with endless Will",
+  "status": "done",
   "slots": [
    "w:2ccc58",
    "w:2cd074"
@@ -6921,8 +6921,8 @@
  {
   "id": "e:25a388",
   "jp": "ぼろいハンドアックス。威力は全く期待できない",
-  "en": "",
-  "status": "todo",
+  "en": "A ragged hand axe. Don't expect any power.",
+  "status": "done",
   "slots": [
    "w:2ccc5c",
    "w:2cd078"
@@ -6931,8 +6931,8 @@
  {
   "id": "e:25a3b8",
   "jp": "囚人を繋いでいた鉄の鎖。今では少し錆びてしまっている",
-  "en": "",
-  "status": "todo",
+  "en": "Iron chain once used on prisoners. A bit rusty.",
+  "status": "done",
   "slots": [
    "w:2ccc60",
    "w:2cd07c"
@@ -6941,8 +6941,8 @@
  {
   "id": "e:25a3f0",
   "jp": "使い古されて錆びてしまった砲台。弾詰まりが怖い",
-  "en": "",
-  "status": "todo",
+  "en": "A worn, rusty cannon. Watch out for jams",
+  "status": "done",
   "slots": [
    "w:2ccc64",
    "w:2cd080"
@@ -6951,8 +6951,8 @@
  {
   "id": "e:25a420",
   "jp": "“火とかげ”の名に相応しく、真っ赤に燃えたぎった刃",
-  "en": "",
-  "status": "todo",
+  "en": "A blazing red \"salamander\" blade.",
+  "status": "done",
   "slots": [
    "w:2ccc68",
    "w:2cd084"
@@ -6961,8 +6961,8 @@
  {
   "id": "e:25a454",
   "jp": "珊瑚製の三叉槍。海のウンディーネの基本装備",
-  "en": "",
-  "status": "todo",
+  "en": "A coral trident. Standard for sea Undines.",
+  "status": "done",
   "slots": [
    "w:2ccc6c",
    "w:2cd088"
@@ -6971,8 +6971,8 @@
  {
   "id": "e:25a480",
   "jp": "この世に斬れないものは無いと云われる至極の名刀",
-  "en": "",
-  "status": "todo",
+  "en": "A supreme blade that cuts anything at all.",
+  "status": "done",
   "slots": [
    "w:2ccc70",
    "w:2cd08c"
@@ -6981,8 +6981,8 @@
  {
   "id": "e:25a4b0",
   "jp": "太古から姿を変えず生きているシーラカンスの頭蓋骨",
-  "en": "",
-  "status": "todo",
+  "en": "An ageless coelacanth's skull",
+  "status": "done",
   "slots": [
    "w:2ccc74",
    "w:2cd090"
@@ -6991,8 +6991,8 @@
  {
   "id": "e:25a4e4",
   "jp": "食べると体の底から力が湧いてくる、不思議な塩味プリン",
-  "en": "",
-  "status": "todo",
+  "en": "A strange salty pudding that fills you with power",
+  "status": "done",
   "slots": [
    "w:2ccc78",
    "w:2cd094"
@@ -7001,8 +7001,8 @@
  {
   "id": "e:25a51c",
   "jp": "時間が経ち、しおれてしまったシスターの花束",
-  "en": "",
-  "status": "todo",
+  "en": "The sister's bouquet, wilted with time",
+  "status": "done",
   "slots": [
    "w:2ccc7c",
    "w:2cd098"
@@ -7011,8 +7011,8 @@
  {
   "id": "e:25a548",
   "jp": "海辺の教会に群生する花で、ほのかな甘い香りが特徴",
-  "en": "",
-  "status": "todo",
+  "en": "A flower from the seaside church, faintly sweet",
+  "status": "done",
   "slots": [
    "w:2ccc80",
    "w:2cd09c"
@@ -7021,8 +7021,8 @@
  {
   "id": "e:25a57c",
   "jp": "不気味な目玉のオーブ。その瞳は何かを探しているよう…",
-  "en": "",
-  "status": "todo",
+  "en": "A creepy eyeball orb. It seems to be searching...",
+  "status": "done",
   "slots": [
    "w:2ccc84",
    "w:2cd0a0"
@@ -7031,8 +7031,8 @@
  {
   "id": "e:25a5b4",
   "jp": "玉石があちこちに散りばめられた豪華絢爛な飾り杖",
-  "en": "",
-  "status": "todo",
+  "en": "A gorgeous staff studded all over with gems.",
+  "status": "done",
   "slots": [
    "w:2ccc88",
    "w:2cd0a4"
@@ -7041,8 +7041,8 @@
  {
   "id": "e:25a5e4",
   "jp": "天使族が頭部に身につける輝く光輪。何故か宙に浮く",
-  "en": "",
-  "status": "todo",
+  "en": "A shining angel's halo. It floats in the air.",
+  "status": "done",
   "slots": [
    "w:2ccc8c",
    "w:2cd0a8"
@@ -7051,8 +7051,8 @@
  {
   "id": "e:25a618",
   "jp": "海の守護精霊の祈りがこめられた指輪",
-  "en": "",
-  "status": "todo",
+  "en": "A ring holding the prayers of a sea guardian spirit",
+  "status": "done",
   "slots": [
    "w:2ccc90",
    "w:2cd0ac"
@@ -7061,8 +7061,8 @@
  {
   "id": "e:25a63c",
   "jp": "下級貴族の嗜好品。リッチな気持ちになれる",
-  "en": "",
-  "status": "todo",
+  "en": "A luxury for the lower nobility. Feel rich.",
+  "status": "done",
   "slots": [
    "w:2ccc94",
    "w:2cd0b0"
@@ -7071,8 +7071,8 @@
  {
   "id": "e:25a668",
   "jp": "形無きものをも斬ると云われる究極の刀。千年に一本の作",
-  "en": "",
-  "status": "todo",
+  "en": "A blade of a millennium. It cuts the formless",
+  "status": "done",
   "slots": [
    "w:2ccc98",
    "w:2cd0b4"
@@ -7081,8 +7081,8 @@
  {
   "id": "e:25a6a0",
   "jp": "深海にある雪のように白い砂には、ウィルが宿るという…",
-  "en": "",
-  "status": "todo",
+  "en": "Snow-white sand of the deep sea, said to hold Will...",
+  "status": "done",
   "slots": [
    "w:2ccc9c",
    "w:2cd0b8"
@@ -7091,8 +7091,8 @@
  {
   "id": "e:25a6d8",
   "jp": "地獄の炎を思わせる真っ赤なマント",
-  "en": "",
-  "status": "todo",
+  "en": "A bright red cape that recalls the flames of hell.",
+  "status": "done",
   "slots": [
    "w:2ccca0",
    "w:2cd0bc"
@@ -7101,8 +7101,8 @@
  {
   "id": "e:25a6fc",
   "jp": "死んでしまった海ドゼウ（注：海ドゼウは乾燥に弱い）",
-  "en": "",
-  "status": "todo",
+  "en": "A dead Sea Loach (they hate drying out)",
+  "status": "done",
   "slots": [
    "w:2ccca4",
    "w:2cd0c0"
@@ -7111,8 +7111,8 @@
  {
   "id": "e:25a730",
   "jp": "ほどよい甘みが心地よいキャンディ",
-  "en": "",
-  "status": "todo",
+  "en": "A candy with a pleasant, gentle sweetness.",
+  "status": "done",
   "slots": [
    "w:2ccca8",
    "w:2cd0c4"
@@ -7121,8 +7121,8 @@
  {
   "id": "e:25a754",
   "jp": "日陰の森に生息する甘酸っぱい果実。女の子に人気",
-  "en": "",
-  "status": "todo",
+  "en": "A tart fruit from shady forests. Girls love it.",
+  "status": "done",
   "slots": [
    "w:2cccac",
    "w:2cd0c8"
@@ -7131,8 +7131,8 @@
  {
   "id": "e:25a784",
   "jp": "淡い黄色にホンワカ光る星型の鉱石",
-  "en": "",
-  "status": "todo",
+  "en": "A star-shaped ore that glows a soft, pale yellow.",
+  "status": "done",
   "slots": [
    "w:2cccb0",
    "w:2cd0cc"
@@ -7141,8 +7141,8 @@
  {
   "id": "e:25a7a8",
   "jp": "魔導具。狙った相手を確実に仕留めるためのデバイス",
-  "en": "",
-  "status": "todo",
+  "en": "A magic device for sure kills on a target.",
+  "status": "done",
   "slots": [
    "w:2cccb4",
    "w:2cd0d0"
@@ -7151,8 +7151,8 @@
  {
   "id": "e:25a7dc",
   "jp": "世界樹の枝が枯れ落ちたもの。まだ精霊の力を宿している",
-  "en": "",
-  "status": "todo",
+  "en": "A fallen World Tree branch with spirit power",
+  "status": "done",
   "slots": [
    "w:2cccb8",
    "w:2cd0d4"
@@ -7161,8 +7161,8 @@
  {
   "id": "e:25a814",
   "jp": "樹齢一万年である巨大な世界樹の葉",
-  "en": "",
-  "status": "todo",
+  "en": "A leaf of the 10,000-year-old World Tree",
+  "status": "done",
   "slots": [
    "w:2cccbc",
    "w:2cd0d8"
@@ -7171,8 +7171,8 @@
  {
   "id": "e:25a838",
   "jp": "ファンタジニア旅団に受け継がれれるガトリングガン",
-  "en": "",
-  "status": "todo",
+  "en": "The Fantasinia Brigade's heirloom Gatling",
+  "status": "done",
   "slots": [
    "w:2cccc0",
    "w:2cd0dc"
@@ -7181,8 +7181,8 @@
  {
   "id": "e:25a86c",
   "jp": "漆黒の刃を持つ剣。闇のウィルを増幅し、解き放つ",
-  "en": "",
-  "status": "todo",
+  "en": "A black sword that unleashes dark Will",
+  "status": "done",
   "slots": [
    "w:2cccc4",
    "w:2cd0e0"
@@ -7191,8 +7191,8 @@
  {
   "id": "e:25a89c",
   "jp": "魔界に存在するといわれる金属物質",
-  "en": "",
-  "status": "todo",
+  "en": "A metal said to exist in the Demon World.",
+  "status": "done",
   "slots": [
    "w:2cccc8",
    "w:2cd0e4"
@@ -7201,8 +7201,8 @@
  {
   "id": "e:25a8c0",
   "jp": "気品漂う淑女のための大胆すぎる水着",
-  "en": "",
-  "status": "todo",
+  "en": "A far too daring swimsuit for a graceful lady",
+  "status": "done",
   "slots": [
    "w:2ccccc",
    "w:2cd0e8"
@@ -7211,8 +7211,8 @@
  {
   "id": "e:25a8e4",
   "jp": "土の遺跡「大地の槍」のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "A shard of the earth ruin, the Earth Spear",
+  "status": "done",
   "slots": [
    "w:2cccd0",
    "w:2cd0ec"
@@ -7221,8 +7221,8 @@
  {
   "id": "e:25a904",
   "jp": "あんこがたっぷりと入っているタイヤキ",
-  "en": "",
-  "status": "todo",
+  "en": "A taiyaki packed with sweet bean paste",
+  "status": "done",
   "slots": [
    "w:2cccd4",
    "w:2cd0f0"
@@ -7231,8 +7231,8 @@
  {
   "id": "e:25a92c",
   "jp": "砂漠に燃える灼熱の太陽を思わせるオーブ",
-  "en": "",
-  "status": "todo",
+  "en": "An orb like the scorching desert sun.",
+  "status": "done",
   "slots": [
    "w:2cccd8",
    "w:2cd0f4"
@@ -7241,8 +7241,8 @@
  {
   "id": "e:25a954",
   "jp": "様々なウィルに反応する魔法のスティック",
-  "en": "",
-  "status": "todo",
+  "en": "A magic stick that reacts to all kinds of Will",
+  "status": "done",
   "slots": [
    "w:2cccdc",
    "w:2cd0f8"
@@ -7251,8 +7251,8 @@
  {
   "id": "e:25a97c",
   "jp": "黒い牙のアジトに隠された宝のありかを指し示した地図",
-  "en": "",
-  "status": "todo",
+  "en": "A map to the Black Fang's hidden treasure",
+  "status": "done",
   "slots": [
    "w:2ccce0",
    "w:2cd0fc"
@@ -7261,8 +7261,8 @@
  {
   "id": "e:25a9b0",
   "jp": "被るとなぜかちょっと切なくなる、黄昏色のヴェール",
-  "en": "",
-  "status": "todo",
+  "en": "A twilight veil. Wearing it makes you wistful.",
+  "status": "done",
   "slots": [
    "w:2ccce4",
    "w:2cd100"
@@ -7271,8 +7271,8 @@
  {
   "id": "e:25a9e4",
   "jp": "旧式の鉄砲でレトロな雰囲気を漂わせる",
-  "en": "",
-  "status": "todo",
+  "en": "An old-model gun with a retro feel",
+  "status": "done",
   "slots": [
    "w:2ccce8",
    "w:2cd104"
@@ -7281,8 +7281,8 @@
  {
   "id": "e:25aa0c",
   "jp": "巨大海鳥カリュブディスの産んだ巨大なタマゴのカラ",
-  "en": "",
-  "status": "todo",
+  "en": "Eggshell of the giant sea bird Charybdis",
+  "status": "done",
   "slots": [
    "w:2cccec",
    "w:2cd108"
@@ -7291,8 +7291,8 @@
  {
   "id": "e:25aa40",
   "jp": "裏側に恨みがましい筆跡で『巨乳お断り』と書かれている",
-  "en": "",
-  "status": "todo",
+  "en": "On the back, in bitter ink: \"No big busts.\"",
+  "status": "done",
   "slots": [
    "w:2cccf0",
    "w:2cd10c"
@@ -7301,8 +7301,8 @@
  {
   "id": "e:25aa78",
   "jp": "刀身から血が滴り落ちる不気味なレイピア",
-  "en": "",
-  "status": "todo",
+  "en": "An eerie rapier with blood dripping from it.",
+  "status": "done",
   "slots": [
    "w:2cccf4",
    "w:2cd110"
@@ -7311,8 +7311,8 @@
  {
   "id": "e:25aaa0",
   "jp": "珍しい古代魚の魚拓。魚拓収集家に高値で売れる",
-  "en": "",
-  "status": "todo",
+  "en": "A rare ancient fish print. Sells high",
+  "status": "done",
   "slots": [
    "w:2cccf8",
    "w:2cd114"
@@ -7321,8 +7321,8 @@
  {
   "id": "e:25aad0",
   "jp": "“死をもたらす”の名の通り、一撃必殺を身上とする槍",
-  "en": "",
-  "status": "todo",
+  "en": "\"Bringer of death\": a lance of one fatal blow.",
+  "status": "done",
   "slots": [
    "w:2cccfc",
    "w:2cd118"
@@ -7331,8 +7331,8 @@
  {
   "id": "e:25ab04",
   "jp": "鉄製の剣型プレートがついたシックなチョーカー",
-  "en": "",
-  "status": "todo",
+  "en": "A chic choker with a sword plate.",
+  "status": "done",
   "slots": [
    "w:2ccd00",
    "w:2cd11c"
@@ -7341,8 +7341,8 @@
  {
   "id": "e:25ab34",
   "jp": "捕虜脱走防止用のおもり。先端に大きな鉄球がついている",
-  "en": "",
-  "status": "todo",
+  "en": "A prisoner's weight with a big iron ball.",
+  "status": "done",
   "slots": [
    "w:2ccd04",
    "w:2cd120"
@@ -7351,8 +7351,8 @@
  {
   "id": "e:25ab6c",
   "jp": "珠玉の飾りが散りばめられた天空神ウラノスの宝剣",
-  "en": "",
-  "status": "todo",
+  "en": "The jewelled sword of Uranus, god of the sky",
+  "status": "done",
   "slots": [
    "w:2ccd08",
    "w:2cd124"
@@ -7361,8 +7361,8 @@
  {
   "id": "e:25ab9c",
   "jp": "かつて戦場を火の海と化した伝説の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary cannon that set fields ablaze",
+  "status": "done",
   "slots": [
    "w:2ccd0c",
    "w:2cd128"
@@ -7371,8 +7371,8 @@
  {
   "id": "e:25abc4",
   "jp": "ドクロの装飾が施された銃。装填のしやすさが売り",
-  "en": "",
-  "status": "todo",
+  "en": "A skull-decorated gun. Easy to load",
+  "status": "done",
   "slots": [
    "w:2ccd10",
    "w:2cd12c"
@@ -7381,8 +7381,8 @@
  {
   "id": "e:25abf4",
   "jp": "哀しみや怒り…様々な負のウィルを感じる不気味な石",
-  "en": "",
-  "status": "todo",
+  "en": "An eerie stone full of sorrow, rage and dark Will",
+  "status": "done",
   "slots": [
    "w:2ccd14",
    "w:2cd130"
@@ -7391,8 +7391,8 @@
  {
   "id": "e:25ac28",
   "jp": "針に毒成分が含まれている魚",
-  "en": "",
-  "status": "todo",
+  "en": "A fish with venomous spines",
+  "status": "done",
   "slots": [
    "w:2ccd18",
    "w:2cd134"
@@ -7401,8 +7401,8 @@
  {
   "id": "e:25ac44",
   "jp": "飛び魚の羽根がついたおしゃれなサンダル",
-  "en": "",
-  "status": "todo",
+  "en": "Stylish sandals with flying-fish wings",
+  "status": "done",
   "slots": [
    "w:2ccd1c",
    "w:2cd138"
@@ -7411,8 +7411,8 @@
  {
   "id": "e:25ac6c",
   "jp": "踏むとガシャンと噛みつく脱獄者用のワナ",
-  "en": "",
-  "status": "todo",
+  "en": "A snapping trap for escaping prisoners",
+  "status": "done",
   "slots": [
    "w:2ccd20",
    "w:2cd13c"
@@ -7421,8 +7421,8 @@
  {
   "id": "e:25ac94",
   "jp": "砂漠の賊が砂よけに用いる。敬虔さの象徴でもある",
-  "en": "",
-  "status": "todo",
+  "en": "Desert bandits' sand guard. A sign of piety.",
+  "status": "done",
   "slots": [
    "w:2ccd24",
    "w:2cd140"
@@ -7431,8 +7431,8 @@
  {
   "id": "e:25acc4",
   "jp": "かつての大戦において、幾多のナイトを葬り去った名槍",
-  "en": "",
-  "status": "todo",
+  "en": "A famous lance that felled many knights.",
+  "status": "done",
   "slots": [
    "w:2ccd28",
    "w:2cd144"
@@ -7441,8 +7441,8 @@
  {
   "id": "e:25acf8",
   "jp": "魔導具。暗い夜でも視界が通るスコープ",
-  "en": "",
-  "status": "todo",
+  "en": "A magic scope for seeing on dark nights.",
+  "status": "done",
   "slots": [
    "w:2ccd2c",
    "w:2cd148"
@@ -7451,8 +7451,8 @@
  {
   "id": "e:25ad20",
   "jp": "悪夢に出てきそうな不気味な表情の仮面",
-  "en": "",
-  "status": "todo",
+  "en": "A mask with a nightmarish, eerie face.",
+  "status": "done",
   "slots": [
    "w:2ccd30",
    "w:2cd14c"
@@ -7461,8 +7461,8 @@
  {
   "id": "e:25ad48",
   "jp": "見るからに貧相な剣。切れ味はこの上なく鈍い",
-  "en": "",
-  "status": "todo",
+  "en": "A sorry-looking sword, as dull as can be.",
+  "status": "done",
   "slots": [
    "w:2ccd34",
    "w:2cd150"
@@ -7471,8 +7471,8 @@
  {
   "id": "e:25ad74",
   "jp": "すがすがしい酸味が口に広がる柑橘系の果実",
-  "en": "",
-  "status": "todo",
+  "en": "A refreshingly tangy citrus fruit.",
+  "status": "done",
   "slots": [
    "w:2ccd38",
    "w:2cd154"
@@ -7481,8 +7481,8 @@
  {
   "id": "e:25ada0",
   "jp": "身につけた者に大地をも揺るがす力を与える丈夫な靴",
-  "en": "",
-  "status": "todo",
+  "en": "Sturdy shoes with power to shake the earth.",
+  "status": "done",
   "slots": [
    "w:2ccd3c",
    "w:2cd158"
@@ -7491,8 +7491,8 @@
  {
   "id": "e:25add4",
   "jp": "燃えさかる太陽のような熱を帯びる十字槍",
-  "en": "",
-  "status": "todo",
+  "en": "A cross lance holding the blazing sun's heat.",
+  "status": "done",
   "slots": [
    "w:2ccd40",
    "w:2cd15c"
@@ -7501,8 +7501,8 @@
  {
   "id": "e:25adfc",
   "jp": "魔導具。固い岩盤をもガリガリ砕く、超強力な掘削ドリル",
-  "en": "",
-  "status": "todo",
+  "en": "A magic drill that grinds through bedrock.",
+  "status": "done",
   "slots": [
    "w:2ccd44",
    "w:2cd160"
@@ -7511,8 +7511,8 @@
  {
   "id": "e:25ae34",
   "jp": "派手な宝石付きの大きな指輪。不気味な気運が感じられる",
-  "en": "",
-  "status": "todo",
+  "en": "A big, showy gem ring. It feels eerie.",
+  "status": "done",
   "slots": [
    "w:2ccd48",
    "w:2cd164"
@@ -7521,8 +7521,8 @@
  {
   "id": "e:25ae6c",
   "jp": "一般的な砲台。これ一つで戦力が大きく変わる",
-  "en": "",
-  "status": "todo",
+  "en": "A standard cannon. A game changer",
+  "status": "done",
   "slots": [
    "w:2ccd4c",
    "w:2cd168"
@@ -7531,8 +7531,8 @@
  {
   "id": "e:25ae98",
   "jp": "風になびくさまが部下の勇気を力強く鼓舞する",
-  "en": "",
-  "status": "todo",
+  "en": "Waving in the wind, it rouses the troops.",
+  "status": "done",
   "slots": [
    "w:2ccd50",
    "w:2cd16c"
@@ -7541,8 +7541,8 @@
  {
   "id": "e:25aec4",
   "jp": "芽がニョキニョキと出てきてしまったプロテイモ",
-  "en": "",
-  "status": "todo",
+  "en": "A Protato covered in sprouts.",
+  "status": "done",
   "slots": [
    "w:2ccd54",
    "w:2cd170"
@@ -7551,8 +7551,8 @@
  {
   "id": "e:25aef4",
   "jp": "適度な甘味と酸味があって、食べ応えも十分な果実",
-  "en": "",
-  "status": "todo",
+  "en": "A filling fruit, both sweet and tangy.",
+  "status": "done",
   "slots": [
    "w:2ccd58",
    "w:2cd174"
@@ -7561,8 +7561,8 @@
  {
   "id": "e:25af24",
   "jp": "パメラ愛用のほうき。リボンやマスコット飾りがいっぱい",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela's beloved broom, full of ribbons",
+  "status": "done",
   "slots": [
    "w:2ccd5c",
    "w:2cd178"
@@ -7571,8 +7571,8 @@
  {
   "id": "e:25af5c",
   "jp": "国に忠誠を誓った者にのみ渡される神聖な槍",
-  "en": "",
-  "status": "todo",
+  "en": "A holy lance for those sworn to the realm",
+  "status": "done",
   "slots": [
    "w:2ccd60",
    "w:2cd17c"
@@ -7581,8 +7581,8 @@
  {
   "id": "e:25af88",
   "jp": "海獣の巨大なキバ。荒ぶる海獣の本能を呼び醒ます",
-  "en": "",
-  "status": "todo",
+  "en": "A sea beast's huge fang. Wakes a raging instinct",
+  "status": "done",
   "slots": [
    "w:2ccd64",
    "w:2cd180"
@@ -7591,8 +7591,8 @@
  {
   "id": "e:25afb8",
   "jp": "砂浜でも軽快に移動することができるサンダル",
-  "en": "",
-  "status": "todo",
+  "en": "Sandals for moving lightly even on sand",
+  "status": "done",
   "slots": [
    "w:2ccd68",
    "w:2cd184"
@@ -7601,8 +7601,8 @@
  {
   "id": "e:25afe4",
   "jp": "トカゲを干して乾燥させたもの。とても苦くてマズイ…",
-  "en": "",
-  "status": "todo",
+  "en": "A dried lizard. Very bitter and awful...",
+  "status": "done",
   "slots": [
    "w:2ccd6c",
    "w:2cd188"
@@ -7611,8 +7611,8 @@
  {
   "id": "e:25b018",
   "jp": "光の遺跡「光の海域」のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "A shard of the light ruin, the Sea of Light",
+  "status": "done",
   "slots": [
    "w:2ccd70",
    "w:2cd18c"
@@ -7621,8 +7621,8 @@
  {
   "id": "e:25b038",
   "jp": "女神シルヴィアを悲しみの淵へと追いやった天空の槍",
-  "en": "",
-  "status": "todo",
+  "en": "The sky spear that grieved goddess Sylvia.",
+  "status": "done",
   "slots": [
    "w:2ccd74",
    "w:2cd190"
@@ -7631,8 +7631,8 @@
  {
   "id": "e:25b06c",
   "jp": "馬のヒヅメを模した靴。歩くとカッポカッポと音が鳴る",
-  "en": "",
-  "status": "todo",
+  "en": "Hoof shoes that clip-clop as you walk.",
+  "status": "done",
   "slots": [
    "w:2ccd78",
    "w:2cd194"
@@ -7641,8 +7641,8 @@
  {
   "id": "e:25b0a0",
   "jp": "ボロボロの装丁の日記。漂流日記がかかれている",
-  "en": "",
-  "status": "todo",
+  "en": "A battered diary of a castaway's drifting days",
+  "status": "done",
   "slots": [
    "w:2ccd7c",
    "w:2cd198"
@@ -7651,8 +7651,8 @@
  {
   "id": "e:25b0d0",
   "jp": "赤いひらひらの大きなリボン",
-  "en": "",
-  "status": "todo",
+  "en": "A big, frilly red ribbon.",
+  "status": "done",
   "slots": [
    "w:2ccd80",
    "w:2cd19c"
@@ -7661,8 +7661,8 @@
  {
   "id": "e:25b0ec",
   "jp": "どこかの誰かが海に流した手紙…",
-  "en": "",
-  "status": "todo",
+  "en": "A letter someone, somewhere, cast into the sea...",
+  "status": "done",
   "slots": [
    "w:2ccd84",
    "w:2cd1a0"
@@ -7671,8 +7671,8 @@
  {
   "id": "e:25b10c",
   "jp": "ガラスのビンに閉じ込めた海ドゼウ。元気に泳いでいる",
-  "en": "",
-  "status": "todo",
+  "en": "A Sea Loach in a glass jar, swimming happily",
+  "status": "done",
   "slots": [
    "w:2ccd88",
    "w:2cd1a4"
@@ -7681,8 +7681,8 @@
  {
   "id": "e:25b140",
   "jp": "身につける者の強い意思を感じさせるアクセサリ",
-  "en": "",
-  "status": "todo",
+  "en": "It shows the wearer's strong will",
+  "status": "done",
   "slots": [
    "w:2ccd8c",
    "w:2cd1a8"
@@ -7691,8 +7691,8 @@
  {
   "id": "e:25b170",
   "jp": "聖なる大樹の妖精が持っていた可愛らしいハンドベル",
-  "en": "",
-  "status": "todo",
+  "en": "A cute handbell from a holy tree's fairy.",
+  "status": "done",
   "slots": [
    "w:2ccd90",
    "w:2cd1ac"
@@ -7701,8 +7701,8 @@
  {
   "id": "e:25b1a4",
   "jp": "反重力魔法で大空を飛ぶ究極のほうき",
-  "en": "",
-  "status": "todo",
+  "en": "The ultimate broom, flying by anti-gravity",
+  "status": "done",
   "slots": [
    "w:2ccd94",
    "w:2cd1b0"
@@ -7711,8 +7711,8 @@
  {
   "id": "e:25b1c8",
   "jp": "船乗りのオキテを記した書物。各地の特徴が記してある",
-  "en": "",
-  "status": "todo",
+  "en": "A book of sailors' rules. It describes each region",
+  "status": "done",
   "slots": [
    "w:2ccd98",
    "w:2cd1b4"
@@ -7721,8 +7721,8 @@
  {
   "id": "e:25b1fc",
   "jp": "船乗りのオキテを記した書物。武器の扱い方が記してある",
-  "en": "",
-  "status": "todo",
+  "en": "A book of sailors' rules. It covers weapon use",
+  "status": "done",
   "slots": [
    "w:2ccd9c",
    "w:2cd1b8"
@@ -7731,8 +7731,8 @@
  {
   "id": "e:25b234",
   "jp": "船乗りのオキテを記した書物。数々の戦術が記してある",
-  "en": "",
-  "status": "todo",
+  "en": "A book of sailors' rules. It lists many tactics",
+  "status": "done",
   "slots": [
    "w:2ccda0",
    "w:2cd1bc"
@@ -7741,8 +7741,8 @@
  {
   "id": "e:25b268",
   "jp": "銃全体に電撃がほとばしる魔法の銃",
-  "en": "",
-  "status": "todo",
+  "en": "A magic gun crackling with lightning all over",
+  "status": "done",
   "slots": [
    "w:2ccda4",
    "w:2cd1c0"
@@ -7751,8 +7751,8 @@
  {
   "id": "e:25b28c",
   "jp": "プラチナで作られたゴージャスな髪飾り",
-  "en": "",
-  "status": "todo",
+  "en": "A gorgeous hair ornament made of platinum.",
+  "status": "done",
   "slots": [
    "w:2ccda8",
    "w:2cd1c4"
@@ -7761,8 +7761,8 @@
  {
   "id": "e:25b2b4",
   "jp": "王侯貴族の嗜好品。天にも昇る高級感が漂う",
-  "en": "",
-  "status": "todo",
+  "en": "A royal luxury. So fine it lifts you to heaven.",
+  "status": "done",
   "slots": [
    "w:2ccdac",
    "w:2cd1c8"
@@ -7771,8 +7771,8 @@
  {
   "id": "e:25b2e0",
   "jp": "ゴスロリ風の服。赤い小さなリボンがポイント",
-  "en": "",
-  "status": "todo",
+  "en": "A gothic lolita dress with small red ribbons.",
+  "status": "done",
   "slots": [
    "w:2ccdb0",
    "w:2cd1cc"
@@ -7781,8 +7781,8 @@
  {
   "id": "e:25b30c",
   "jp": "歩くとピコピコ鳴るサンダル。楽しいが集中力が落ちる",
-  "en": "",
-  "status": "todo",
+  "en": "Squeaky sandals. Fun, but they hurt your focus.",
+  "status": "done",
   "slots": [
    "w:2ccdb4",
    "w:2cd1d0"
@@ -7791,8 +7791,8 @@
  {
   "id": "e:25b340",
   "jp": "炎のような刀身を持つ紅蓮の剣",
-  "en": "",
-  "status": "todo",
+  "en": "A crimson sword with a flame-like blade.",
+  "status": "done",
   "slots": [
    "w:2ccdb8",
    "w:2cd1d4"
@@ -7801,8 +7801,8 @@
  {
   "id": "e:25b360",
   "jp": "力強いデザインの指輪。身につけるものに勇気を与える",
-  "en": "",
-  "status": "todo",
+  "en": "A strong-looking ring that gives courage.",
+  "status": "done",
   "slots": [
    "w:2ccdbc",
    "w:2cd1d8"
@@ -7811,8 +7811,8 @@
  {
   "id": "e:25b394",
   "jp": "プロテインを多量に含んだイモ。味はイマイチ…",
-  "en": "",
-  "status": "todo",
+  "en": "A potato high in protein. Taste is so-so...",
+  "status": "done",
   "slots": [
    "w:2ccdc0",
    "w:2cd1dc"
@@ -7821,8 +7821,8 @@
  {
   "id": "e:25b3c4",
   "jp": "大きな青銅製の盾。大砲をも防ぐ",
-  "en": "",
-  "status": "todo",
+  "en": "A big bronze shield. It even stops cannon fire",
+  "status": "done",
   "slots": [
    "w:2ccdc4",
    "w:2cd1e0"
@@ -7831,8 +7831,8 @@
  {
   "id": "e:25b3e4",
   "jp": "近所の買い物から秘境の冒険まで、多様性を誇るカバン",
-  "en": "",
-  "status": "todo",
+  "en": "A versatile bag, for shopping or adventure.",
+  "status": "done",
   "slots": [
    "w:2ccdc8",
    "w:2cd1e4"
@@ -7841,8 +7841,8 @@
  {
   "id": "e:25b418",
   "jp": "甘いキャンディ。ペロペロ舐めた者はその効果に驚愕する",
-  "en": "",
-  "status": "todo",
+  "en": "A sweet candy. Lick it and be amazed",
+  "status": "done",
   "slots": [
    "w:2ccdcc",
    "w:2cd1e8"
@@ -7851,8 +7851,8 @@
  {
   "id": "e:25b450",
   "jp": "発掘されたロザリオ。肌を突くほどのウィルが感じられる",
-  "en": "",
-  "status": "todo",
+  "en": "A dug-up rosary. Its Will prickles your skin",
+  "status": "done",
   "slots": [
    "w:2ccdd0",
    "w:2cd1ec"
@@ -7861,8 +7861,8 @@
  {
   "id": "e:25b488",
   "jp": "スターダストを細かく砕いて作った砂時計",
-  "en": "",
-  "status": "todo",
+  "en": "An hourglass made with finely ground Stardust.",
+  "status": "done",
   "slots": [
    "w:2ccdd4",
    "w:2cd1f0"
@@ -7871,8 +7871,8 @@
  {
   "id": "e:25b4b0",
   "jp": "普通のホタテよりも３倍大きい。焼いても生でも美味しい",
-  "en": "",
-  "status": "todo",
+  "en": "A scallop three times normal size. Yum!",
+  "status": "done",
   "slots": [
    "w:2ccdd8",
    "w:2cd1f4"
@@ -7881,8 +7881,8 @@
  {
   "id": "e:25b4e8",
   "jp": "狩った北海熊から剥ぎ取って、乾かした皮",
-  "en": "",
-  "status": "todo",
+  "en": "The dried hide of a hunted north-sea bear",
+  "status": "done",
   "slots": [
    "w:2ccddc",
    "w:2cd1f8"
@@ -7891,8 +7891,8 @@
  {
   "id": "e:25b510",
   "jp": "北海熊の皮を加工して作ったファー付きの防寒コート",
-  "en": "",
-  "status": "todo",
+  "en": "A fur coat of north-sea bear hide",
+  "status": "done",
   "slots": [
    "w:2ccde0",
    "w:2cd1fc"
@@ -7901,8 +7901,8 @@
  {
   "id": "e:25b544",
   "jp": "毒沼よけのボロ布。汚れがひどくて、臭い…",
-  "en": "",
-  "status": "todo",
+  "en": "A filthy rag against poison swamps. Smelly...",
+  "status": "done",
   "slots": [
    "w:2ccde4",
    "w:2cd200"
@@ -7911,8 +7911,8 @@
  {
   "id": "e:25b570",
   "jp": "ウィルを秘めた指輪。これを巡り、昔戦いが起きたことも",
-  "en": "",
-  "status": "todo",
+  "en": "A ring holding Will. Wars were once fought over it",
+  "status": "done",
   "slots": [
    "w:2ccde8",
    "w:2cd204"
@@ -7921,8 +7921,8 @@
  {
   "id": "e:25b5a8",
   "jp": "ウンディーネの尾ヒレを模った物。水の中もバッチリ",
-  "en": "",
-  "status": "todo",
+  "en": "Modelled on an Undine's fin. Great in water.",
+  "status": "done",
   "slots": [
    "w:2ccdec",
    "w:2cd208"
@@ -7931,8 +7931,8 @@
  {
   "id": "e:25b5dc",
   "jp": "ウィルの力を宿した剣。手にした者に不思議な力を与える",
-  "en": "",
-  "status": "todo",
+  "en": "A sword of Will that grants strange power",
+  "status": "done",
   "slots": [
    "w:2ccdf0",
    "w:2cd20c"
@@ -7941,8 +7941,8 @@
  {
   "id": "e:25b614",
   "jp": "聖なるウィルを内に秘めた不思議なクリスタル",
-  "en": "",
-  "status": "todo",
+  "en": "A strange crystal holding holy Will",
+  "status": "done",
   "slots": [
    "w:2ccdf4",
    "w:2cd210"
@@ -7951,8 +7951,8 @@
  {
   "id": "e:25b640",
   "jp": "邪気を纏った魔槍。持つ者の精神を徐々に蝕んでいく…",
-  "en": "",
-  "status": "todo",
+  "en": "An evil demon spear. It eats away the mind...",
+  "status": "done",
   "slots": [
    "w:2ccdf8",
    "w:2cd214"
@@ -7961,8 +7961,8 @@
  {
   "id": "e:25b674",
   "jp": "花の甘い匂いにつられて迷いこんだ珍種の白い蝶",
-  "en": "",
-  "status": "todo",
+  "en": "A rare white butterfly lured by sweet flowers",
+  "status": "done",
   "slots": [
    "w:2ccdfc",
    "w:2cd218"
@@ -7971,8 +7971,8 @@
  {
   "id": "e:25b6a4",
   "jp": "魔女が愛用している魔法詠唱時に集中しやすいめがね",
-  "en": "",
-  "status": "todo",
+  "en": "A witch's glasses that help focus on spells",
+  "status": "done",
   "slots": [
    "w:2cce00",
    "w:2cd21c"
@@ -7981,8 +7981,8 @@
  {
   "id": "e:25b6d8",
   "jp": "悪魔の翼のついた縦笛。その音色は聞く者に幻影を見せる",
-  "en": "",
-  "status": "todo",
+  "en": "A demon-winged pipe whose notes show illusions",
+  "status": "done",
   "slots": [
    "w:2cce04",
    "w:2cd220"
@@ -7991,8 +7991,8 @@
  {
   "id": "e:25b710",
   "jp": "軍神マルスの装飾が施された巨大な盾",
-  "en": "",
-  "status": "todo",
+  "en": "A giant shield decorated with War God Mars.",
+  "status": "done",
   "slots": [
    "w:2cce08",
    "w:2cd224"
@@ -8001,8 +8001,8 @@
  {
   "id": "e:25b734",
   "jp": "神秘の生物マンタを魚拓にしたもの",
-  "en": "",
-  "status": "todo",
+  "en": "A print of the mystic manta",
+  "status": "done",
   "slots": [
    "w:2cce0c",
    "w:2cd228"
@@ -8011,8 +8011,8 @@
  {
   "id": "e:25b758",
   "jp": "マンタの皮を切って作った聖なるマント",
-  "en": "",
-  "status": "todo",
+  "en": "A holy cape cut from manta skin",
+  "status": "done",
   "slots": [
    "w:2cce10",
    "w:2cd22c"
@@ -8021,8 +8021,8 @@
  {
   "id": "e:25b780",
   "jp": "隕石という名の銃。相手を一撃で仕留める殺傷力は脅威",
-  "en": "",
-  "status": "todo",
+  "en": "The gun Meteor. Its one-shot kills are scary",
+  "status": "done",
   "slots": [
    "w:2cce14",
    "w:2cd230"
@@ -8031,8 +8031,8 @@
  {
   "id": "e:25b7b4",
   "jp": "強大なウィルが封じ込められているコート",
-  "en": "",
-  "status": "todo",
+  "en": "A coat sealing mighty Will",
+  "status": "done",
   "slots": [
    "w:2cce18",
    "w:2cd234"
@@ -8041,8 +8041,8 @@
  {
   "id": "e:25b7dc",
   "jp": "生者の魂を食らうといわれる魔剣",
-  "en": "",
-  "status": "todo",
+  "en": "A demon sword said to devour living souls.",
+  "status": "done",
   "slots": [
    "w:2cce1c",
    "w:2cd238"
@@ -8051,8 +8051,8 @@
  {
   "id": "e:25b7fc",
   "jp": "海の栄養素がふんだんに含まれた葉っぱ",
-  "en": "",
-  "status": "todo",
+  "en": "A leaf rich in the sea's nutrients",
+  "status": "done",
   "slots": [
    "w:2cce20",
    "w:2cd23c"
@@ -8061,8 +8061,8 @@
  {
   "id": "e:25b824",
   "jp": "周囲の景色に溶け込むように色が変化する不思議なコート",
-  "en": "",
-  "status": "todo",
+  "en": "A coat that blends into its surroundings.",
+  "status": "done",
   "slots": [
    "w:2cce24",
    "w:2cd240"
@@ -8071,8 +8071,8 @@
  {
   "id": "e:25b85c",
   "jp": "白いレースのついた赤色のセクシーなビスチェ",
-  "en": "",
-  "status": "todo",
+  "en": "A red bustier with white lace.",
+  "status": "done",
   "slots": [
    "w:2cce28",
    "w:2cd244"
@@ -8081,8 +8081,8 @@
  {
   "id": "e:25b888",
   "jp": "漁師が麦わらを編んで作った帽子。強い日差しも大丈夫",
-  "en": "",
-  "status": "todo",
+  "en": "A fisherman's straw hat. Shrugs off strong sun",
+  "status": "done",
   "slots": [
    "w:2cce2c",
    "w:2cd248"
@@ -8091,8 +8091,8 @@
  {
   "id": "e:25b8bc",
   "jp": "子供が持っていた、葦を編んで作った簡素なカゴ",
-  "en": "",
-  "status": "todo",
+  "en": "A child's simple woven reed basket.",
+  "status": "done",
   "slots": [
    "w:2cce30",
    "w:2cd24c"
@@ -8101,8 +8101,8 @@
  {
   "id": "e:25b8ec",
   "jp": "一日千里を行くといわれる名馬。黄金に輝く毛色を持つ",
-  "en": "",
-  "status": "todo",
+  "en": "A famed golden horse, a thousand leagues a day.",
+  "status": "done",
   "slots": [
    "w:2cce34",
    "w:2cd250"
@@ -8111,8 +8111,8 @@
  {
   "id": "e:25b920",
   "jp": "捕虜や罪人に施された目隠しのための白い布",
-  "en": "",
-  "status": "todo",
+  "en": "A cloth for blindfolding prisoners.",
+  "status": "done",
   "slots": [
    "w:2cce38",
    "w:2cd254"
@@ -8121,8 +8121,8 @@
  {
   "id": "e:25b94c",
   "jp": "純白の可愛らしい翼のイミテーション",
-  "en": "",
-  "status": "todo",
+  "en": "Cute imitation wings of pure white.",
+  "status": "done",
   "slots": [
    "w:2cce3c",
    "w:2cd258"
@@ -8131,8 +8131,8 @@
  {
   "id": "e:25b970",
   "jp": "滋養強壮があり、デュエル後も移動が出来る",
-  "en": "",
-  "status": "todo",
+  "en": "Nourishing. Lets you move after a Duel",
+  "status": "done",
   "slots": [
    "w:2cce40",
    "w:2cd25c"
@@ -8141,8 +8141,8 @@
  {
   "id": "e:25b99c",
   "jp": "昼間の祭礼用ドレス。ちょっと大人っぽい感じ",
-  "en": "",
-  "status": "todo",
+  "en": "A daytime festival dress. A grown-up look.",
+  "status": "done",
   "slots": [
    "w:2cce44",
    "w:2cd260"
@@ -8151,8 +8151,8 @@
  {
   "id": "e:25b9c8",
   "jp": "闇の遺跡「闇の邪域」のカケラ",
-  "en": "",
-  "status": "todo",
+  "en": "A shard of the dark ruin, the Dark Realm",
+  "status": "done",
   "slots": [
    "w:2cce48",
    "w:2cd264"
@@ -8161,8 +8161,8 @@
  {
   "id": "e:25b9e8",
   "jp": "漆黒の闇色に染められたローブ",
-  "en": "",
-  "status": "todo",
+  "en": "A robe dyed the pitch black of darkness.",
+  "status": "done",
   "slots": [
    "w:2cce4c",
    "w:2cd268"
@@ -8171,8 +8171,8 @@
  {
   "id": "e:25ba08",
   "jp": "ユーフォリアの紋章。手にした者に力を与えるという…",
-  "en": "",
-  "status": "todo",
+  "en": "The crest of Euforia. Said to grant power...",
+  "status": "done",
   "slots": [
    "w:2cce50",
    "w:2cd26c"
@@ -8181,8 +8181,8 @@
  {
   "id": "e:25ba3c",
   "jp": "この世の全ての歴史が記された書",
-  "en": "",
-  "status": "todo",
+  "en": "A book of all the history in the world",
+  "status": "done",
   "slots": [
    "w:2cce54",
    "w:2cd270"
@@ -8191,8 +8191,8 @@
  {
   "id": "e:25ba5c",
   "jp": "幽霊海賊を象った人形。少し焦げたような匂いがする",
-  "en": "",
-  "status": "todo",
+  "en": "A ghost pirate doll. It smells a bit burnt",
+  "status": "done",
   "slots": [
    "w:2cce58",
    "w:2cd274"
@@ -8201,8 +8201,8 @@
  {
   "id": "e:25ba90",
   "jp": "被ると、間もなくして心地よい睡魔に襲われる帽子",
-  "en": "",
-  "status": "todo",
+  "en": "A hat that brings on pleasant sleepiness.",
+  "status": "done",
   "slots": [
    "w:2cce5c",
    "w:2cd278"
@@ -8211,8 +8211,8 @@
  {
   "id": "e:25bac0",
   "jp": "妖精が作ったブローチ。持つ者の力を最大限に引き出す",
-  "en": "",
-  "status": "todo",
+  "en": "A fairy brooch that draws out your full power.",
+  "status": "done",
   "slots": [
    "w:2cce60",
    "w:2cd27c"
@@ -8221,8 +8221,8 @@
  {
   "id": "e:25baf4",
   "jp": "赤く輝く刀身から黒い邪気を放つ妖刀",
-  "en": "",
-  "status": "todo",
+  "en": "A cursed red blade giving off black evil.",
+  "status": "done",
   "slots": [
    "w:2cce64",
    "w:2cd280"
@@ -8231,8 +8231,8 @@
  {
   "id": "e:25bb18",
   "jp": "持つ者に幸せを運ぶと云われる四葉のクローバー",
-  "en": "",
-  "status": "todo",
+  "en": "A four-leaf clover that brings happiness.",
+  "status": "done",
   "slots": [
    "w:2cce68",
    "w:2cd284"
@@ -8241,8 +8241,8 @@
  {
   "id": "e:25bb48",
   "jp": "小さな粒で、噛み砕くとピリッと痺れるような感覚がする",
-  "en": "",
-  "status": "todo",
+  "en": "A tiny grain that tingles when crunched.",
+  "status": "done",
   "slots": [
    "w:2cce6c",
    "w:2cd288"
@@ -8251,8 +8251,8 @@
  {
   "id": "e:25bb80",
   "jp": "幸運をもたらしてくれるという魔法のほうき",
-  "en": "",
-  "status": "todo",
+  "en": "A magic broom said to bring good luck.",
+  "status": "done",
   "slots": [
    "w:2cce70",
    "w:2cd28c"
@@ -8261,8 +8261,8 @@
  {
   "id": "e:25bbac",
   "jp": "軽量な素材を使用し、扱いやすさに特化した手斧",
-  "en": "",
-  "status": "todo",
+  "en": "A light hand axe, made easy to handle.",
+  "status": "done",
   "slots": [
    "w:2cce74",
    "w:2cd290"
@@ -8271,8 +8271,8 @@
  {
   "id": "e:25bbdc",
   "jp": "復讐の怒りや怨念が込められた曲剣",
-  "en": "",
-  "status": "todo",
+  "en": "A curved sword of vengeful rage and hate.",
+  "status": "done",
   "slots": [
    "w:2cce78",
    "w:2cd294"
@@ -8281,8 +8281,8 @@
  {
   "id": "e:25bc00",
   "jp": "守勢を棄て攻撃に特化した、超重量のアックス",
-  "en": "",
-  "status": "todo",
+  "en": "An ultra-heavy axe, all attack, no defence.",
+  "status": "done",
   "slots": [
    "w:2cce7c",
    "w:2cd298"
@@ -8291,8 +8291,8 @@
  {
   "id": "e:25bc2c",
   "jp": "流星の如き一撃で戦場に派手な穴を開ける最新式の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "A new cannon that blasts holes like a meteor",
+  "status": "done",
   "slots": [
    "w:2cce80",
    "w:2cd29c"
@@ -8301,8 +8301,8 @@
  {
   "id": "e:25bc60",
   "jp": "天と地と海を巡る雨粒の結晶を練磨させた奇跡の宝槍",
-  "en": "",
-  "status": "todo",
+  "en": "A miracle lance of crystallised raindrops.",
+  "status": "done",
   "slots": [
    "w:2cce84",
    "w:2cd2a0"
@@ -8311,8 +8311,8 @@
  {
   "id": "e:25bc94",
   "jp": "トップに大きなルビーがはめ込まれた杖",
-  "en": "",
-  "status": "todo",
+  "en": "A staff with a big ruby set at the top.",
+  "status": "done",
   "slots": [
    "w:2cce88",
    "w:2cd2a4"
@@ -8321,8 +8321,8 @@
  {
   "id": "e:25bcbc",
   "jp": "身につけるとテンション上昇。教会のシスターのお手製",
-  "en": "",
-  "status": "todo",
+  "en": "Lifts your spirits. Made by the church's sister",
+  "status": "done",
   "slots": [
    "w:2cce8c",
    "w:2cd2a8"
@@ -8331,8 +8331,8 @@
  {
   "id": "e:25bcf0",
   "jp": "激戦を物語るバンダナ。傷跡が多く刻まれている",
-  "en": "",
-  "status": "todo",
+  "en": "A scarred bandana from fierce battles",
+  "status": "done",
   "slots": [
    "w:2cce90",
    "w:2cd2ac"
@@ -8341,8 +8341,8 @@
  {
   "id": "e:25bd20",
   "jp": "紅に輝くレイピア。皇国の親衛隊長に受け継がれる逸品",
-  "en": "",
-  "status": "todo",
+  "en": "A crimson rapier of the Imperial guard captains",
+  "status": "done",
   "slots": [
    "w:2cce94",
    "w:2cd2b0"
@@ -8351,8 +8351,8 @@
  {
   "id": "e:25bd54",
   "jp": "古に偉大な錬金術師が身につけていたという金縁の片眼鏡",
-  "en": "",
-  "status": "todo",
+  "en": "A gold-rimmed monocle of an alchemist of old.",
+  "status": "done",
   "slots": [
    "w:2cce98",
    "w:2cd2b4"
@@ -8361,8 +8361,8 @@
  {
   "id": "e:25bd8c",
   "jp": "あらゆる地形に対応すべく作られた冒険靴",
-  "en": "",
-  "status": "todo",
+  "en": "Adventure boots made for every terrain.",
+  "status": "done",
   "slots": [
    "w:2cce9c",
    "w:2cd2b8"
@@ -8371,8 +8371,8 @@
  {
   "id": "e:25bdb4",
   "jp": "黒い牙アジトの牢屋を開けるのに必要なカギ",
-  "en": "",
-  "status": "todo",
+  "en": "The key to the Black Fang hideout's cells",
+  "status": "done",
   "slots": [
    "w:2ccea0",
    "w:2cd2bc"
@@ -8381,8 +8381,8 @@
  {
   "id": "e:25bde0",
   "jp": "岸や港湾に停泊する際に、船を舫うための頑強な紐",
-  "en": "",
-  "status": "todo",
+  "en": "A sturdy rope for mooring a ship.",
+  "status": "done",
   "slots": [
    "w:2ccea4",
    "w:2cd2c0"
@@ -8391,8 +8391,8 @@
  {
   "id": "e:25be10",
   "jp": "“失われた物質”という名を持つ、謎の物質",
-  "en": "",
-  "status": "todo",
+  "en": "A mysterious substance: the \"Lost Material.\"",
+  "status": "done",
   "slots": [
    "w:2ccea8",
    "w:2cd2c4"
@@ -8401,8 +8401,8 @@
  {
   "id": "e:25be3c",
   "jp": "ウィルを宿した靴。これを履くと、瞬間移動できるらしい",
-  "en": "",
-  "status": "todo",
+  "en": "Shoes of Will. Wear them to teleport, it seems",
+  "status": "done",
   "slots": [
    "w:2cceac",
    "w:2cd2c8"
@@ -8411,8 +8411,8 @@
  {
   "id": "e:25be74",
   "jp": "不思議なウィルを持つ玉。まもなく練成完了…！",
-  "en": "",
-  "status": "todo",
+  "en": "A ball of strange Will. Nearly refined...!",
+  "status": "done",
   "slots": [
    "w:2cceb0",
    "w:2cd2cc"
@@ -8421,8 +8421,8 @@
  {
   "id": "e:25bea4",
   "jp": "不思議なウィルを持つ玉。もうすぐ練成完了…！",
-  "en": "",
-  "status": "todo",
+  "en": "A ball of strange Will. Almost refined...!",
+  "status": "done",
   "slots": [
    "w:2cceb4",
    "w:2cd2d0"
@@ -8431,8 +8431,8 @@
  {
   "id": "e:25bed4",
   "jp": "不思議なウィルを持つ玉。現在練成中…",
-  "en": "",
-  "status": "todo",
+  "en": "A ball of strange Will. Now being refined...",
+  "status": "done",
   "slots": [
    "w:2cceb8",
    "w:2ccebc",
@@ -8447,8 +8447,8 @@
  {
   "id": "e:25befc",
   "jp": "戦功を立てた者に与えられる栄誉ある勲章",
-  "en": "",
-  "status": "todo",
+  "en": "An honoured medal for\nthose of military merit.",
+  "status": "done",
   "slots": [
    "w:2ccec8",
    "w:2cd2e4"
@@ -8457,8 +8457,8 @@
  {
   "id": "e:25bf24",
   "jp": "装備なし",
-  "en": "",
-  "status": "todo",
+  "en": "No equipment",
+  "status": "done",
   "slots": [
    "w:2cd2e8"
   ]
@@ -8466,8 +8466,8 @@
  {
   "id": "e:25bf30",
   "jp": "アイアンヘルム",
-  "en": "",
-  "status": "todo",
+  "en": "Iron Helm",
+  "status": "done",
   "slots": [
    "w:2cd2ec"
   ]
@@ -8475,8 +8475,8 @@
  {
   "id": "e:25bf40",
   "jp": "アイスジャベリン",
-  "en": "",
-  "status": "todo",
+  "en": "Ice Javelin",
+  "status": "done",
   "slots": [
    "w:2cd2f0"
   ]
@@ -8484,8 +8484,8 @@
  {
   "id": "e:25bf54",
   "jp": "愛の貝殻",
-  "en": "",
-  "status": "todo",
+  "en": "Shells of Love",
+  "status": "done",
   "slots": [
    "w:2cd2f4"
   ]
@@ -8493,8 +8493,8 @@
  {
   "id": "e:25bf60",
   "jp": "愛の鎖",
-  "en": "",
-  "status": "todo",
+  "en": "Chain of Love",
+  "status": "done",
   "slots": [
    "w:2cd2f8"
   ]
@@ -8502,8 +8502,8 @@
  {
   "id": "e:25bf68",
   "jp": "愛の結晶",
-  "en": "",
-  "status": "todo",
+  "en": "Crystal of Love",
+  "status": "done",
   "slots": [
    "w:2cd2fc"
   ]
@@ -8511,8 +8511,8 @@
  {
   "id": "e:25bf74",
   "jp": "愛の紹介状",
-  "en": "",
-  "status": "todo",
+  "en": "Love Referral",
+  "status": "done",
   "slots": [
    "w:2cd300"
   ]
@@ -8520,8 +8520,8 @@
  {
   "id": "e:25bf80",
   "jp": "愛の勝負服",
-  "en": "",
-  "status": "todo",
+  "en": "Love Battle Dress",
+  "status": "done",
   "slots": [
    "w:2cd304"
   ]
@@ -8529,8 +8529,8 @@
  {
   "id": "e:25bf8c",
   "jp": "愛の指輪",
-  "en": "",
-  "status": "todo",
+  "en": "Ring of Love",
+  "status": "done",
   "slots": [
    "w:2cd308"
   ]
@@ -8538,8 +8538,8 @@
  {
   "id": "e:25bf98",
   "jp": "愛のロケット",
-  "en": "",
-  "status": "todo",
+  "en": "Locket of Love",
+  "status": "done",
   "slots": [
    "w:2cd30c"
   ]
@@ -8547,8 +8547,8 @@
  {
   "id": "e:25bfa8",
   "jp": "アクエリアス",
-  "en": "",
-  "status": "todo",
+  "en": "Aquarius",
+  "status": "done",
   "slots": [
    "w:2cd310"
   ]
@@ -8556,8 +8556,8 @@
  {
   "id": "e:25bfb8",
   "jp": "悪魔のシッポ",
-  "en": "",
-  "status": "todo",
+  "en": "Devil's Tail",
+  "status": "done",
   "slots": [
    "w:2cd314"
   ]
@@ -8565,8 +8565,8 @@
  {
   "id": "e:25bfc8",
   "jp": "妖しの果実",
-  "en": "",
-  "status": "todo",
+  "en": "Bewitching Fruit",
+  "status": "done",
   "slots": [
    "w:2cd318"
   ]
@@ -8574,8 +8574,8 @@
  {
   "id": "e:25bfd4",
   "jp": "イブニングドレス",
-  "en": "",
-  "status": "todo",
+  "en": "Evening Dress",
+  "status": "done",
   "slots": [
    "w:2cd31c"
   ]
@@ -8583,8 +8583,8 @@
  {
   "id": "e:25bfe8",
   "jp": "癒しのハーブ",
-  "en": "",
-  "status": "todo",
+  "en": "Healing Herb",
+  "status": "done",
   "slots": [
    "w:2cd320"
   ]
@@ -8592,8 +8592,8 @@
  {
   "id": "e:25bff8",
   "jp": "ウィルの結晶",
-  "en": "",
-  "status": "todo",
+  "en": "Will Crystal",
+  "status": "done",
   "slots": [
    "w:2cd324"
   ]
