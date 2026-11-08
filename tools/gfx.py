@@ -27,7 +27,7 @@ FONTS = ROOT / "fonts"
 
 def text_tsv():
     rows = [ln.split("\t") for ln in (GFX / "text.tsv").read_text("utf8").splitlines()[1:] if ln.strip()]
-    return {r[0]: r[2].replace("\\n", "\n") for r in rows}
+    return {r[0]: r[2].replace("\\n", "\n") if len(r) > 2 else "" for r in rows}   # no English: left blank
 
 
 def font(name, size):
@@ -583,6 +583,59 @@ def draw_words(a, rects, words, size, stroke=1):
     return res, new
 
 
+def draw_sheet(a, rects, redraw, size, h=16, face="LiberationSans-Bold.ttf", stroke=1):
+    """Re-pack a whole word sheet: rect i in redraw ({i: English}) becomes a new word h px high (the game centres the
+    bar's pieces on their rect height: icons 24 and words 16 sit on one line), every other rect keeps its pixels
+    (icons, English already there). Shelf packing, tallest first; rects that were identical stay shared. Returns
+    (image, new rects) for gfx.eboot."""
+    ink = np.zeros(a.shape[:2], bool)
+    for i in redraw:
+        u, v, w, hh = rects[i]
+        ink[v:v + hh, u:u + w] = True
+    fill, rim = ink_colours(np.where(ink[..., None], a, 0))
+    th, tw = a.shape[:2]
+    while True:
+        f = font(face, size)
+        pieces = {}   # rect tuple -> image
+        for i, r in enumerate(rects):
+            k = tuple(r)
+            if k in pieces:
+                continue
+            if i in redraw:   # the game draws each piece at a fixed spot, so a word keeps to its old width
+                s, room = size, r[2] + 2
+                while True:
+                    lt = layer_text(redraw[i], font(face, s), fill, stroke, rim, lines=True)
+                    xs = min(1.0, room / (lt.width - 2))
+                    if xs >= 0.72 or s <= 9:
+                        break
+                    s -= 1
+                if xs < 1:
+                    lt = layer_text(redraw[i], font(face, s), fill, stroke, rim, xs, lines=True)
+                top = (lt.height - h) // 2   # negative: PIL pads the crop with clear rows
+                pieces[k] = np.array(lt.crop((1, top, lt.width - 1, top + h)))
+            else:
+                u, v, w, hh = r
+                pieces[k] = a[v:v + hh, u:u + w]
+        order = sorted(pieces, key=lambda k: (-pieces[k].shape[0], -pieces[k].shape[1]))
+        place, x, y, shelf = {}, 0, 0, 0
+        for k in order:
+            ph, pw = pieces[k].shape[:2]
+            if x + pw > tw:
+                x, y, shelf = 0, y + shelf, 0
+            place[k] = (x, y)
+            x, shelf = x + pw, max(shelf, ph)
+        if y + shelf <= th:
+            break
+        size -= 1
+        assert size >= 9, "word sheet: no room"
+    out = np.zeros_like(a)
+    for k, (x, y) in place.items():
+        p = pieces[k]
+        out[y:y + p.shape[0], x:x + p.shape[1]] = p
+    out[out[..., 3] == 0] = 0
+    return out, [[*place[tuple(r)], pieces[tuple(r)].shape[1], pieces[tuple(r)].shape[0]] for r in rects]
+
+
 def eboot(e):
     """insert.py: write each word sheet's new rects (gfx/NAME.rects) into its EBOOT table."""
     for name, a in ASSETS.items():
@@ -622,6 +675,37 @@ def draw_label(a, text, face, size, keep=0, dark_fill=True, shear=0.0, stroke=2,
                        (keep + 1, max(0, (h - lt.height) // 2)))
     res = np.array(im)
     res[res[..., 3] == 0] = clear
+    return res
+
+
+def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1):
+    """Same-rect redraw (the game's rects stay): each (rect, text, dark_fill) is cleared (pad px wider: the old shadow)
+    and the English drawn in it left-aligned, vertically centred, in that rect's old ink colours, squeezed (to 0.75,
+    then a smaller font) to fit."""
+    inks = [ink_colours(a[v:v + h, u:u + w]) for (u, v, w, h), _, _ in items]
+    out = a.copy()
+    for (u, v, w, h), _, _ in items:
+        out[max(0, v - pad):v + h + pad, max(0, u - pad):u + w + pad] = 0
+    im = Image.fromarray(out)
+    for ((u, v, w, h), text, dark), (light, darkc) in zip(items, inks):
+        if not text:   # a counter English does without (枚, 人): left blank
+            continue
+        fill, rim = (darkc, light) if dark else (light, darkc)
+        s = size
+        while True:
+            lt = layer_text(text, font(face, s), fill, stroke, rim, lines=True)
+            xs = min(1.0, (w + 2) / lt.width)   # the layer has 2 px of clear padding each side
+            if xs >= 0.75 and lt.height - 4 <= h + 1:
+                break
+            s -= 1
+            assert s >= 8, f"{text!r}: no room in {w}x{h}"
+        if xs < 1:
+            lt = layer_text(text, font(face, s), fill, stroke, rim, xs, lines=True)
+        top = (lt.height - h) // 2
+        im.alpha_composite(lt.crop((2, max(0, top), min(lt.width, w + 2), max(0, top) + min(h, lt.height))),
+                           (u, v + max(0, -top)))
+    res = np.array(im)
+    res[res[..., 3] == 0] = 0   # quantize maps it to the palette's clear entry
     return res
 
 
@@ -672,6 +756,36 @@ for _n, _o, _kw in (("ok_battle", 0x36f4c0, dict(face="LiberationSerif-Bold.ttf"
                     ("card_select", 0x3924e0, dict(face="LiberationSans-Bold.ttf", size=24, keep=24, wmax=220))):   # drawn from its left edge: Time/Weather starts ~225 px right of it
     asset(_n, 3, "ptg", _o, (0, 0, 512, 512), lambda a, t, n=_n, kw=_kw: draw_label(a, t[n], **kw), resize=True,
           section=14)
+
+
+def fixed(name, off, w, h, items, size, **kw):
+    """An id 3 PTX redrawn inside the old words' ink boxes (items: (rect, text key, dark_fill)); no table change."""
+    asset(name, 3, "ptx", off, (0, 0, w, h),
+          lambda a, t: draw_fixed(a, [(r, t[k], d) for r, k, d in items], size, **kw))
+
+
+fixed("forecast", 0x33cb90, 96, 84, [((0, 0, 84, 15), "fc_survivors", False), ((0, 17, 45, 15), "fc_stat_gap", False),
+                                      ((0, 33, 58, 15), "fc_bonus", False), ((0, 49, 84, 15), "fc_terrain", False),
+                                      ((0, 65, 84, 19), "fc_morale", False)], 13)   # a bar icon at x 62-82, y 17-48
+fixed("deploy", 0x175400, 128, 58, [((0, 0, 128, 29), "deploy_units", False), ((0, 29, 128, 29), "deploy_location", False)], 24)
+fixed("checking", 0x168be0, 224, 40, [((18, 0, 204, 19), "checking_map", False), ((18, 20, 204, 19), "checking_status", False)],
+      17, pad=2)   # ">>" at x 1-15 stays
+fixed("conditions", 0x161060, 176, 65, [((0, 0, 119, 27), "cond_victory", True), ((0, 27, 119, 27), "cond_defeat", True)], 20)
+fixed("suspend_slot", 0x131ad0, 192, 78, [((0, 0, 151, 23), "slot_suspend", False), ((140, 16, 41, 13), "slot_durability", False),
+                                          ((0, 55, 191, 23), "slot_gloria", False)], 20)   # the ※まだ行動できます! pill: still JP
+fixed("counts", 0xEC350, 320, 40, [((261, 0, 52, 15), "cnt_sortie", False), ((261, 15, 56, 15), "cnt_selectable", False),
+                                   ((140, 25, 76, 15), "cnt_cards_left", False), ((221, 11, 14, 14), "cnt_cards", False),
+                                   ((234, 25, 16, 15), "cnt_people", False)], 13, pad=0)   # rects: EBOOT table 0x2f2808..
+fixed("range", 0xE0000, 320, 30, [((240, 16, 32, 14), "range", False)], 12, pad=0)   # table 0x2f2380 entry 11
+
+
+BUTTONS = {4: "btn_confirm", 5: "btn_back", 6: "btn_data", 7: "btn_help", 8: "btn_switch_unit", 10: "btn_enemy_cards",
+           14: "btn_switch", 17: "btn_move_cursor", 20: "btn_select", 22: "btn_status", 23: "btn_captain", 24: "btn_back",
+           25: "btn_field", 26: "btn_conditions", 27: "btn_map", 28: "btn_card_data", 30: "btn_next_page",
+           31: "btn_skip_check", 32: "btn_end"}   # the rest: button icons and English words, kept
+asset("buttons", 3, "ptx", 0xF0390, (0, 0, 240, 144),
+      lambda a, t: draw_sheet(a, table_rects(0x2f28b0, 33), {i: t[k] for i, k in BUTTONS.items()}, 12),
+      table=(0x2f28b0, 33))
 
 
 def gen(names=None):

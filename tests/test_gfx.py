@@ -47,4 +47,6 @@ def test_redraw_in_rect_and_writes_back(name):
 
 def test_text_tsv_has_every_key():
     t = gfx.text_tsv()
-    assert all(v.strip() for v in t.values())
+    blank = {"cnt_cards", "cnt_people"}   # Japanese counters (枚, 人) English leaves out
+    assert all(v.strip() for k, v in t.items() if k not in blank)
+    assert all(not t[k] for k in blank)

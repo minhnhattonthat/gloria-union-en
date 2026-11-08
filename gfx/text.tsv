@@ -161,3 +161,41 @@ menu_suspend	中断セーブ	Suspend Game
 ok_battle	戦闘準備OK?	Ready for Battle?
 ok_end_turn	ターン終了OK?	End Turn?
 card_select	タクティクスカード選択	Choose a Tactics Card
+fc_survivors	生存ユニット	Survivors
+fc_stat_gap	能力差	Stat Gap
+fc_bonus	ボーナス	Bonus
+fc_terrain	地形効果	Terrain
+fc_morale	部隊士気	Unit Morale
+deploy_units	ユニット配置	Deployment
+deploy_location	ロケーション	Location
+checking_map	フィールドマップ確認中･･･	Checking Field Map...
+checking_status	ステータス確認中	Checking Status
+cond_victory	勝利条件	Victory Conditions
+cond_defeat	敗北条件	Defeat Conditions
+slot_suspend	中断データ	Suspend Data
+slot_durability	耐久値	Durability
+slot_gloria	グロリア海賊団	Gloria Pirates
+cnt_sortie	出撃可能	Can Sortie
+cnt_selectable	選択可能	Selectable
+cnt_cards_left	残りカード…	Cards Left...
+cnt_cards	枚
+cnt_people	人
+range	射程	Range
+btn_confirm	決定	OK
+btn_back	戻る	Back
+btn_data	データ	Data
+btn_help	ヘルプ	Help
+btn_switch_unit	キャラ変更	Switch Unit
+btn_enemy_cards	敵のカード	Foe Cards
+btn_switch	切り替え	Switch
+btn_move_cursor	カーソル移動	Move Cursor
+btn_select	選択	Select
+btn_status	ステータス	Status
+btn_captain	船長変更	New Captain
+btn_field	フィールド確認	View Field
+btn_conditions	勝利条件	Objectives
+btn_map	マップ	Map
+btn_card_data	カードデータ	Card Data
+btn_next_page	次のページへ	Next Page
+btn_skip_check	確認をスキップ	Skip Check
+btn_end	終了	End
