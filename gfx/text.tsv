@@ -181,6 +181,27 @@ cnt_cards_left	残りカード…	Cards Left...
 cnt_cards	枚
 cnt_people	人
 range	射程	Range
+item_none	アイテムを持っていません。	You have no items.
+item_ship	船に装備可能	Fits on a ship
+item_status	ステータス	Status
+item_equipped	を装備しました!	 equipped!
+item_details	アイテム詳細	Item Details
+item_close	詳細を閉じる	Close Details
+save_yes	はい	Yes
+save_no	いいえ	No
+save_q	ここまでの航海の記録をセーブしますか?	Save the record of your voyage so far?
+save_nosave_q	本当にセーブしなくてよろしいですか?	Really go on without saving?
+save_save	セーブする	Save
+save_next_map	次のマップに進む	Go to Next Map
+save_clear_q	クリアデータをセーブしますか?	Save your clear data?
+reset_cancel	キャンセル	Cancel
+reset_title	タイトル画面へ戻る	Return to Title
+reset_q	ゲームリスタートしますか?	Restart the game?
+reset_restart	リスタートする	Restart
+hud_morale	士気	Morale
+hud_equip	装備	Equip
+hud_win_rate	勝率.	Win Rate
+hud_on_board	船内…	On Board...
 btn_confirm	決定	OK
 btn_back	戻る	Back
 btn_data	データ	Data

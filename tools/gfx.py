@@ -678,11 +678,11 @@ def draw_label(a, text, face, size, keep=0, dark_fill=True, shear=0.0, stroke=2,
     return res
 
 
-def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1):
+def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1, ink=None):
     """Same-rect redraw (the game's rects stay): each (rect, text, dark_fill) is cleared (pad px wider: the old shadow)
-    and the English drawn in it left-aligned, vertically centred, in that rect's old ink colours, squeezed (to 0.75,
-    then a smaller font) to fit."""
-    inks = [ink_colours(a[v:v + h, u:u + w]) for (u, v, w, h), _, _ in items]
+    and the English drawn in it left-aligned, vertically centred, in that rect's old ink colours (or ink=(light, dark)),
+    squeezed (to 0.75, then a smaller font) to fit."""
+    inks = [ink or ink_colours(a[v:v + h, u:u + w]) for (u, v, w, h), _, _ in items]
     out = a.copy()
     for (u, v, w, h), _, _ in items:
         out[max(0, v - pad):v + h + pad, max(0, u - pad):u + w + pad] = 0
@@ -690,6 +690,8 @@ def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1):
     for ((u, v, w, h), text, dark), (light, darkc) in zip(items, inks):
         if not text:   # a counter English does without (枚, 人): left blank
             continue
+        n = len(text) - len(text.lstrip(" "))   # leading spaces: a 4 px indent each (a word drawn after a name)
+        text, u, w = text.lstrip(" "), u + 4 * n, w - 4 * n
         fill, rim = (darkc, light) if dark else (light, darkc)
         s = size
         while True:
@@ -758,10 +760,18 @@ for _n, _o, _kw in (("ok_battle", 0x36f4c0, dict(face="LiberationSerif-Bold.ttf"
           section=14)
 
 
+WHITE_INK = ((255, 255, 255, 255), (6, 6, 6, 251))   # plain white dialog text with its near-black rim
+
+
+def id3_section(off):
+    """The FCT section of id 3 holding offset off: needed from section 14 on, which the resizes there move."""
+    return 14 if 0x36f230 <= off < 0x450e90 else 16 if off >= 0x4a6910 else None
+
+
 def fixed(name, off, w, h, items, size, **kw):
     """An id 3 PTX redrawn inside the old words' ink boxes (items: (rect, text key, dark_fill)); no table change."""
     asset(name, 3, "ptx", off, (0, 0, w, h),
-          lambda a, t: draw_fixed(a, [(r, t[k], d) for r, k, d in items], size, **kw))
+          lambda a, t: draw_fixed(a, [(r, t[k], d) for r, k, d in items], size, **kw), section=id3_section(off))
 
 
 fixed("forecast", 0x33cb90, 96, 84, [((0, 0, 84, 15), "fc_survivors", False), ((0, 17, 45, 15), "fc_stat_gap", False),
@@ -777,6 +787,24 @@ fixed("counts", 0xEC350, 320, 40, [((261, 0, 52, 15), "cnt_sortie", False), ((26
                                    ((140, 25, 76, 15), "cnt_cards_left", False), ((221, 11, 14, 14), "cnt_cards", False),
                                    ((234, 25, 16, 15), "cnt_people", False)], 13, pad=0)   # rects: EBOOT table 0x2f2808..
 fixed("range", 0xE0000, 320, 30, [((240, 16, 32, 14), "range", False)], 12, pad=0)   # table 0x2f2380 entry 11
+fixed("items", 0x3812e0, 272, 154, [((0, 45, 224, 22), "item_none", False), ((107, 79, 70, 12), "item_ship", False),
+                                    ((0, 95, 54, 11), "item_status", False), ((73, 90, 137, 24), "item_equipped", False),
+                                    ((0, 115, 64, 11), "item_details", False), ((187, 112, 70, 18), "item_close", False)], 18)
+fixed("save_ask", 0x4444d0, 352, 108, [((208, 1, 29, 19), "save_yes", False), ((253, 1, 45, 19), "save_no", False),
+                                       ((3, 22, 320, 22), "save_q", False), ((0, 44, 296, 22), "save_nosave_q", False),
+                                       ((0, 67, 72, 17), "save_save", False), ((75, 67, 110, 17), "save_next_map", False),
+                                       ((4, 87, 248, 21), "save_clear_q", False)], 18, ink=WHITE_INK)
+fixed("reset_ask", 0x4494f0, 352, 44, [((124, 2, 71, 17), "reset_cancel", False), ((196, 2, 128, 17), "reset_title", False),
+                                       ((6, 23, 210, 21), "reset_q", False), ((224, 23, 95, 17), "reset_restart", False)], 18,
+      ink=WHITE_INK)
+fixed("hud_words", 0x3e2af0, 192, 31, [((102, 1, 38, 18), "hud_morale", False), ((145, 0, 34, 17), "hud_equip", False),
+                                       ((145, 18, 30, 13), "hud_win_rate", False)], 14)
+asset("hud_small", 3, "ptx", 0x398650, (0, 0, 224, 247),   # the 非戦闘ユニットです pill: still JP
+      lambda a, t: draw_fixed(draw_fixed(a, [((140, 47, 25, 12), t["hud_morale"], False),
+                                             ((21, 150, 42, 16), t["slot_durability"], False),
+                                             ((71, 124, 42, 14), t["hud_on_board"], False)], 12, pad=0),
+                              [((0, 166, 174, 34), t["checking_map"], False), ((0, 213, 133, 34), t["checking_status"], False)],
+                              30, stroke=2, pad=0), section=14)
 
 
 BUTTONS = {4: "btn_confirm", 5: "btn_back", 6: "btn_data", 7: "btn_help", 8: "btn_switch_unit", 10: "btn_enemy_cards",
