@@ -1278,6 +1278,27 @@ fixed("ex_tabs", 0x2e7d0, 96, 182,   # page tab words (item, card, character pic
       # cells (the Japanese is centred in them: the game's rects; not found in the EBOOT)
       [((34 * (i // 14), 13 * (i % 14), 34, 13), k, False) for i, k in enumerate(TABS)], 11, file=2430, pad=0, stroke=0,
       center=True, ink=(YELLOW, YELLOW))
+EX_NAMES = ["exn_ishut", "exn_gangr", "exn_pinger", "exn_fiebee", "exn_ruru", "exn_anne", "exn_zazarland", "exn_kamuru",
+            "exn_elisha", "exn_yggdra", "exn_minesota", "exn_pamela", "exn_locomoco", "exn_eater", "exn_raspberry",
+            "exn_gloria"]
+
+
+def draw_ex_names(a, t):
+    """2430 +2aed0: 16 names, black with a white glow, two columns of 52x19 cells on a see-through white plate (x 0-103;
+    x 104-127 is opaque black padding). No rect table found: same cells, centred. Screen not found yet."""
+    out = a.copy()
+    out[:, :104] = (255, 255, 255, 153)
+    return draw_fixed(out, [((52 * (i % 2) + 1, 19 * (i // 2), 50, 19), t[k], True) for i, k in enumerate(EX_NAMES)],
+                      10, clear=False, center=True, ink=((255, 255, 255, 204), (0, 0, 0, 255)))
+
+
+asset("ex_names", 2430, "ptx", 0x2aed0, (0, 0, 104, 152), draw_ex_names)
+fixed("ex_labels", 0x37bf0, 192, 120,   # card/item page headings; rects: EBOOT 0x2f8b9a.., 0x2f898a, 0x2f8d3a, 0x2f8992
+      # minus each heading's red square (11 px); PLAYBACK, No., Track and the circles share the sheet and stay
+      [((11, 50, 51, 11), "exl_base", False), ((73, 50, 62, 11), "exl_effect", False),
+       ((11, 61, 86, 11), "exl_params", False), ((11, 73, 110, 11), "exl_morale", False),
+       ((11, 84, 51, 11), "exl_condition", False), ((73, 84, 51, 11), "exl_equip", False)], 12, file=2430, pad=0,
+      ink=((185, 0, 15, 255), (183, 0, 12, 95)))
 
 
 # --- object list (asset file 1703; rects: EBOOT table 0x2c7374: 0-12 list rows, 14-26 English labels, 27-39 big

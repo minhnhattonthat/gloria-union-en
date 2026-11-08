@@ -84,6 +84,9 @@ BUDGETS = {
     '2/30/14/1': (185, 1, 'measured: s37/music_play.png list row ("NN " from x 62, the title meets the NOW PLAYING '
                           'panel at ~x 270; a \\n breaks onto the next row) and the title bar over the panel (~185 px); '
                           'titles of the 2/30/14/2 tables'),
+    '2/30/14/1i': (140, 1, 'measured: s38/item/jp_tab2.png EXTRA item Data tab condition rows, x 298 to the panel\'s grey '
+                           'right border at ~439 (a dotted strip at 432-438 above row 1); a \\n draws its second half over '
+                           'the name plate at the bottom'),
     # session 7: stage_clear from work/states/stage_clear_fit.ppst + step waits; popups from warp.py --state-at
     '1/11/20/2': (220, 1, 'measured: sc6/z.png War record rows from x ~190 under the label art, its right edge ~410 '
                           '(= 11 cols x 20); one entry per row'),
@@ -255,7 +258,9 @@ ROW_OF = [(0x2ca000, 0x2ca14c, '2/22/14/2', '2/22/14/1'),   # skill effects: lin
           # the same window as the 3-line card/character panels, but those pages show only 2 lines
           (0x2f6d6c, 0x2f6fff, '2/30/14/25', '2/30/14/2'), (0x2f8090, 0x2f854f, '2/30/14/25', '2/30/14/2'),
           # ...and their titles (row +4 / +8): one list row ("%02d %s") and the one-line title bar
-          (0x2f6d6c, 0x2f6fff, '2/30/14/2', '2/30/14/1', 0xC, 4), (0x2f8090, 0x2f854f, '2/30/14/2', '2/30/14/1', 0x10, 8)]
+          (0x2f6d6c, 0x2f6fff, '2/30/14/2', '2/30/14/1', 0xC, 4), (0x2f8090, 0x2f854f, '2/30/14/2', '2/30/14/1', 0x10, 8),
+          # item conditions (EXTRA item Data tab): one row each
+          (0x2f7eec, 0x2f7fec, '2/30/14/25', '2/30/14/1i')]
 NAMES = (0x2ee82c, 0x2ef27c)   # unit records (full name, short name or 0, team name or 0), 12 bytes; no aliases
 HUD, TEAM = '4/20/12/10', '4/20/12/6'
 

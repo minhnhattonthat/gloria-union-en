@@ -96,10 +96,18 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | id 2424 ~+23a60 | status list with 夜間も砲撃可, 砲撃後も移動可 | partly | PTX |
 | id 2426 +3520, 2427 +ecc0 | 残された戦略は..., あと枚, このシナリオでよろしいですか? | yes | PTX |
 | id 2427 +80..+15070 | scenario select: difficulty, island names (ルネスト島...), 魔海都市シャンティエ, 15 place plates | yes | PTX/PTG |
-| id 2430 +52bd0..+7e3d0 | item conditions: 40 lines (・ガーロット専用, ○グリアライダーに強い...) | yes | PTX |
-| id 2430 +8bc50..+9e690 | story scene titles ~ 〜天意の名の下に〜 ~, 18 | yes | PTX |
-| id 2430 +28f00, +2aed0, +2e7d0, +30b10, +37bf0 | EXTRA menu: gallery labels, names, CONTENTS, グロリア新海記 | yes | PTX |
-| id 2432 +49400..+5d130 | music titles ♪ 怒れる炎..., 12 | yes | PTX |
+| id 2430 +52bd0..+7e3d0 | item conditions: 40 lines (・ガーロット専用, ○グリアライダーに強い...) | **unused** (session 38) | PTG |
+| id 2430 +8bc50..+9e690 | story scene titles ~ 〜天意の名の下に〜 ~, 18 | **unused** (session 38) | PTG |
+| id 2430 +28f00, +2aed0, +2e7d0, +30b10, +37bf0 | EXTRA menu: gallery labels, names, CONTENTS, グロリア新海記 | yes (done, sessions 37-38) | PTX |
+| id 2432 +49400..+5d130 | music titles ♪ 怒れる炎..., 12 | **unused** (session 38) | PTG |
+
+**Unused prototype leftovers (session 38, `tools/ptg_list.py 2430|2432 --sheet`):** 2430 PTGs 51-110 (125x16, item conditions)
+and 111-259 (127x15, item/card effects), 260-330 (200x16, scene titles), all 62 PTGs of 2432 (130x24, ♪ music titles). The
+screens draw the same lines as EBOOT strings (EXTRA item Data tab: conditions `0x2f7f00` table and effects as text, seen in
+`work/qa/s38/item/jp_tab2.png`; music list from `0x2f8098`), and the PTGs carry earlier wording: prototype names
+(ガーロット専用 where the string says イシュト専用, ガルカーサ, 弓タイプ for 銃), 閲覧OK for 閲覧可, track names that match
+no music title. The scene titles exist in no string and Scene Replay starts the stage directly (`work/qa/s38/scen`). Not
+redrawn; if one ever shows in game, redraw it from the matching string.
 | id 2362 +bae0..+3da70 | skill names, English only | no | PTG |
 | title (id 4 +58ec0, +277170 in id 3) | GAME START... English; `Gloria Union` logo English | no | PTX |
 | ICON0, PIC1, INSDIR/ICON0 | English logo, INSTALL DATA | no | PNG |

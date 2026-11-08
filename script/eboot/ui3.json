@@ -4544,7 +4544,7 @@
  {
   "id": "e:287f00",
   "jp": "・使用可能マップ数…",
-  "en": "- Maps it can be used on...",
+  "en": "- Usable maps...",
   "status": "done",
   "slots": [
    "w:2f7ef8"
@@ -4688,7 +4688,7 @@
  {
   "id": "e:288018",
   "jp": "・ユーフォリアの王のみ",
-  "en": "- The King of Euforia only",
+  "en": "- Euforia's king",
   "status": "done",
   "slots": [
    "w:2f7f3c"
@@ -4706,7 +4706,7 @@
  {
   "id": "e:288040",
   "jp": "・ガング以外",
-  "en": "- Anyone but Gangr",
+  "en": "- All but Gangr",
   "status": "done",
   "slots": [
    "w:2f7f44"
@@ -4715,7 +4715,7 @@
  {
   "id": "e:288050",
   "jp": "・イシュト以外の男性",
-  "en": "- Men other than Ishut",
+  "en": "- Men, not Ishut",
   "status": "done",
   "slots": [
    "w:2f7f48"
@@ -4724,7 +4724,7 @@
  {
   "id": "e:288068",
   "jp": "・ガング以外の男性",
-  "en": "- Men other than Gangr",
+  "en": "- Men, not Gangr",
   "status": "done",
   "slots": [
    "w:2f7f4c"
@@ -4733,7 +4733,7 @@
  {
   "id": "e:28807c",
   "jp": "・イータ以外の女性",
-  "en": "- Women other than Eater",
+  "en": "- Women but Eater",
   "status": "done",
   "slots": [
    "w:2f7f50"
@@ -4760,7 +4760,7 @@
  {
   "id": "e:2880a8",
   "jp": "・重装備可能な男性",
-  "en": "- Men who can\nwear heavy gear",
+  "en": "- Heavy-gear men",
   "status": "done",
   "slots": [
    "w:2f7f5c"
@@ -4769,7 +4769,7 @@
  {
   "id": "e:2880bc",
   "jp": "・男性の槍タイプのみ",
-  "en": "- Male spear types only",
+  "en": "- Male spear types",
   "status": "done",
   "slots": [
    "w:2f7f60"
@@ -4778,7 +4778,7 @@
  {
   "id": "e:2880d4",
   "jp": "・一部の女性のみ",
-  "en": "- Only some women",
+  "en": "- Some women only",
   "status": "done",
   "slots": [
    "w:2f7f64"
@@ -4787,7 +4787,7 @@
  {
   "id": "e:2880e8",
   "jp": "・Ｌｖ5以上必要",
-  "en": "- Requires Lv 5 or higher",
+  "en": "- Lv 5 or higher",
   "status": "done",
   "slots": [
    "w:2f7f68"
@@ -4796,7 +4796,7 @@
  {
   "id": "e:2880f8",
   "jp": "・Ｌｖ7以上必要",
-  "en": "- Requires Lv 7 or higher",
+  "en": "- Lv 7 or higher",
   "status": "done",
   "slots": [
    "w:2f7f6c"
@@ -4805,7 +4805,7 @@
  {
   "id": "e:288108",
   "jp": "・Ｌｖ8以上必要",
-  "en": "- Requires Lv 8 or higher",
+  "en": "- Lv 8 or higher",
   "status": "done",
   "slots": [
    "w:2f7f70"
@@ -4814,7 +4814,7 @@
  {
   "id": "e:288118",
   "jp": "・Ｌｖ9以上必要",
-  "en": "- Requires Lv 9 or higher",
+  "en": "- Lv 9 or higher",
   "status": "done",
   "slots": [
    "w:2f7f74"
@@ -4823,7 +4823,7 @@
  {
   "id": "e:288128",
   "jp": "・Ｌｖ10以上必要",
-  "en": "- Requires Lv 10 or higher",
+  "en": "- Lv 10 or higher",
   "status": "done",
   "slots": [
    "w:2f7f78"
@@ -4832,7 +4832,7 @@
  {
   "id": "e:28813c",
   "jp": "・Ｌｖ15以上必要",
-  "en": "- Requires Lv 15 or higher",
+  "en": "- Lv 15 or higher",
   "status": "done",
   "slots": [
    "w:2f7f7c"
@@ -4841,7 +4841,7 @@
  {
   "id": "e:288150",
   "jp": "・Ｌｖ18以上必要",
-  "en": "- Requires Lv 18 or higher",
+  "en": "- Lv 18 or higher",
   "status": "done",
   "slots": [
    "w:2f7f80"
@@ -4850,7 +4850,7 @@
  {
   "id": "e:288164",
   "jp": "・剣タイプ専用",
-  "en": "- Sword types only",
+  "en": "- Sword types",
   "status": "done",
   "slots": [
    "w:2f7f84"
@@ -4895,7 +4895,7 @@
  {
   "id": "e:2881b4",
   "jp": "・鎌タイプ専用",
-  "en": "- Scythe types only",
+  "en": "- Scythe types",
   "status": "done",
   "slots": [
    "w:2f7f98"
@@ -4904,7 +4904,7 @@
  {
   "id": "e:2881c4",
   "jp": "・剣、槍、斧専用",
-  "en": "- Swords, spears, axes only",
+  "en": "- Sword, spear, axe",
   "status": "done",
   "slots": [
    "w:2f7f9c"
@@ -4913,7 +4913,7 @@
  {
   "id": "e:2881d8",
   "jp": "・銃タイプ以外",
-  "en": "- Anyone but gun types",
+  "en": "- No gun types",
   "status": "done",
   "slots": [
    "w:2f7fa0"
@@ -4931,7 +4931,7 @@
  {
   "id": "e:2881fc",
   "jp": "・水棲タイプ以外",
-  "en": "- Anyone but\naquatic types",
+  "en": "- No aquatic types",
   "status": "done",
   "slots": [
    "w:2f7fa8"
@@ -4940,7 +4940,7 @@
  {
   "id": "e:288210",
   "jp": "・騎馬・水棲タイプ以外",
-  "en": "- No cavalry or\naquatic types",
+  "en": "- No horse/aquatic",
   "status": "done",
   "slots": [
    "w:2f7fac"
@@ -4949,7 +4949,7 @@
  {
   "id": "e:288228",
   "jp": "・騎馬タイプのみ",
-  "en": "- Cavalry types only",
+  "en": "- Cavalry only",
   "status": "done",
   "slots": [
    "w:2f7fb0"
@@ -4958,7 +4958,7 @@
  {
   "id": "e:28823c",
   "jp": "・18歳未満服用禁止",
-  "en": "- Not for anyone under 18",
+  "en": "- Adults only",
   "status": "done",
   "slots": [
    "w:2f7fb4"
@@ -4976,7 +4976,7 @@
  {
   "id": "e:28825c",
   "jp": "・甘系が苦手でない人",
-  "en": "- Anyone who likes sweets",
+  "en": "- Sweets lovers",
   "status": "done",
   "slots": [
    "w:2f7fbc"
@@ -4985,7 +4985,7 @@
  {
   "id": "e:288274",
   "jp": "・魔力を持つ者",
-  "en": "- Those with magic power",
+  "en": "- Magic users",
   "status": "done",
   "slots": [
    "w:2f7fc0"
@@ -4994,7 +4994,7 @@
  {
   "id": "e:288284",
   "jp": "・読解力のある者",
-  "en": "- Those who can read well",
+  "en": "- Good readers",
   "status": "done",
   "slots": [
    "w:2f7fc4"
@@ -5003,7 +5003,7 @@
  {
   "id": "e:288298",
   "jp": "・ラズベリー以外",
-  "en": "- Anyone but Raspberry",
+  "en": "- Not Raspberry",
   "status": "done",
   "slots": [
    "w:2f7fc8"
@@ -5012,7 +5012,7 @@
  {
   "id": "e:2882ac",
   "jp": "・ゲテモノOKな人",
-  "en": "- Those who\neat weird food",
+  "en": "- Iron stomachs",
   "status": "done",
   "slots": [
    "w:2f7fcc"
@@ -5021,7 +5021,7 @@
  {
   "id": "e:2882c0",
   "jp": "・菜食主義者以外",
-  "en": "- Anyone but vegetarians",
+  "en": "- No vegetarians",
   "status": "done",
   "slots": [
    "w:2f7fd0"
@@ -5030,7 +5030,7 @@
  {
   "id": "e:2882d4",
   "jp": "・指が細い人のみ",
-  "en": "- Slender fingers only",
+  "en": "- Slender fingers",
   "status": "done",
   "slots": [
    "w:2f7fd4"
@@ -5039,7 +5039,7 @@
  {
   "id": "e:2882e8",
   "jp": "・シッポの似合う人",
-  "en": "- Those who suit a tail",
+  "en": "- Suits a tail",
   "status": "done",
   "slots": [
    "w:2f7fd8"
@@ -5048,7 +5048,7 @@
  {
   "id": "e:2882fc",
   "jp": "・派手なものが好きな人",
-  "en": "- Those who love\nflashy things",
+  "en": "- Flashy types",
   "status": "done",
   "slots": [
    "w:2f7fdc"
@@ -5057,7 +5057,7 @@
  {
   "id": "e:288314",
   "jp": "・指の太い人",
-  "en": "- Those with thick fingers",
+  "en": "- Thick fingers",
   "status": "done",
   "slots": [
    "w:2f7fe0"
@@ -5066,7 +5066,7 @@
  {
   "id": "e:288324",
   "jp": "・牛乳嫌いな人以外",
-  "en": "- Anyone who\ndoesn't hate milk",
+  "en": "- Milk drinkers",
   "status": "done",
   "slots": [
    "w:2f7fe4"
@@ -5075,7 +5075,7 @@
  {
   "id": "e:288338",
   "jp": "・全員装備可能",
-  "en": "- Anyone can equip",
+  "en": "- All can equip",
   "status": "done",
   "slots": [
    "w:2f7fe8"

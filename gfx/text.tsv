@@ -441,3 +441,25 @@ tab_roar	咆哮	Roar
 tab_glare	ジト目	Glare
 tab_cyborg	改造	Cyborg
 tab_awake	目覚め	Awake
+exn_ishut	イシュト	Ishut
+exn_gangr	ガング	Gangr
+exn_pinger	ピンガー	Pinger
+exn_fiebee	フィービー	Fiebee
+exn_ruru	ルルゥ	Ruru
+exn_anne	アンヌ	Anne
+exn_zazarland	ザザーランド	Zazarland
+exn_kamuru	カミュル	Kamuru
+exn_elisha	エリーシャ	Elisha
+exn_yggdra	ユグドラ	Yggdra
+exn_minesota	ミネソタ	Minesota
+exn_pamela	パメラ	Pamela
+exn_locomoco	ロコモコ	Locomoco
+exn_eater	イータ	Eater
+exn_raspberry	ラズベリー	Raspberry
+exn_gloria	グロリア号	The Gloria
+exl_base	基本性能	Base Stats
+exl_effect	スキル効果	Skill Effect
+exl_params	パラメータ変化	Stat Changes
+exl_morale	士気の回復量	Morale Restored
+exl_condition	使用条件	Condition
+exl_equip	装備概要	Equipment
