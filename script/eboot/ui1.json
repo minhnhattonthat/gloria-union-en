@@ -2,8 +2,8 @@
  {
   "id": "e:24f00d",
   "jp": "スキルゲージは満タンのままなので、\nすぐにチャージのやり直しができます。",
-  "en": "",
-  "status": "todo",
+  "en": "The Skill Gauge stays full, so you can start charging again\nright away.",
+  "status": "done",
   "slots": [
    "w:24f328"
   ]
@@ -11,8 +11,8 @@
  {
   "id": "e:24f055",
   "jp": "【ＫｅｅｐＯｎスキル】\n□ボタンを押している間、\nずっと効果が続く種類のスキルです。",
-  "en": "",
-  "status": "todo",
+  "en": "[KeepOn Skill]\nA kind of skill whose effect lasts as long as you hold the\nSquare button.",
+  "status": "done",
   "slots": [
    "w:24f334"
   ]
@@ -20,8 +20,8 @@
  {
   "id": "e:24f0a8",
   "jp": "途中で□ボタンを離すか、\nゲージが尽きると、効果が終了します。",
-  "en": "",
-  "status": "todo",
+  "en": "The effect ends when you let go of the Square button or the\ngauge runs out.",
+  "status": "done",
   "slots": [
    "w:24f340"
   ]
@@ -59,8 +59,8 @@
  {
   "id": "e:2522b8",
   "jp": "ゴーレムを召喚する",
-  "en": "",
-  "status": "todo",
+  "en": "Summon a Golem",
+  "status": "done",
   "slots": [
    "w:2bca28"
   ]
@@ -68,8 +68,8 @@
  {
   "id": "e:2522cc",
   "jp": "威力＝★★",
-  "en": "",
-  "status": "todo",
+  "en": "Power=★★",
+  "status": "done",
   "slots": [
    "w:2bca2c",
    "w:2bca38"
@@ -78,8 +78,8 @@
  {
   "id": "e:2522d8",
   "jp": "ウィッチ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Witch only",
+  "status": "done",
   "slots": [
    "w:2bca30"
   ]
@@ -87,8 +87,8 @@
  {
   "id": "e:2522e8",
   "jp": "スケルトンを召喚する",
-  "en": "",
-  "status": "todo",
+  "en": "Summon a Skeleton",
+  "status": "done",
   "slots": [
    "w:2bca34"
   ]
@@ -96,8 +96,8 @@
  {
   "id": "e:252300",
   "jp": "ローガン専用\n夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan only\nNight only",
+  "status": "done",
   "slots": [
    "w:2bca3c"
   ]
@@ -105,8 +105,8 @@
  {
   "id": "e:252318",
   "jp": "敵を石化状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Turn the enemy to Stone",
+  "status": "done",
   "slots": [
    "w:2bca40"
   ]
@@ -114,8 +114,8 @@
  {
   "id": "e:25232c",
   "jp": "敵を冒毒状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Poison the enemy",
+  "status": "done",
   "slots": [
    "w:2bca4c"
   ]
@@ -123,8 +123,8 @@
  {
   "id": "e:252340",
   "jp": "ローガン／スケルトン専用",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan/Skeleton only",
+  "status": "done",
   "slots": [
    "w:2bca54"
   ]
@@ -132,8 +132,8 @@
  {
   "id": "e:25235c",
   "jp": "暗黒攻撃でダメージ\n＋呪縛状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Dark damage\n+ Curse",
+  "status": "done",
   "slots": [
    "w:2bca58"
   ]
@@ -141,8 +141,8 @@
  {
   "id": "e:252380",
   "jp": "威力＝自ＴＥＣ＋１－敵ＧＥＮ\n自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "",
-  "status": "todo",
+  "en": "Power=TEC+1-Foe GEN\nWorks if TEC >= Foe GEN",
+  "status": "done",
   "slots": [
    "w:2bca5c",
    "w:2bcaa4",
@@ -152,8 +152,8 @@
  {
   "id": "e:2523b8",
   "jp": "敵の装備アイテムを\n破壊する",
-  "en": "",
-  "status": "todo",
+  "en": "Destroy the enemy's\nequipped item",
+  "status": "done",
   "slots": [
    "w:2bca64"
   ]
@@ -161,8 +161,8 @@
  {
   "id": "e:2523d4",
   "jp": "自ＴＥＣ≧敵ＧＥＮで成功\n成功時：敵の戦闘力が低下",
-  "en": "",
-  "status": "todo",
+  "en": "Works if TEC >= Foe GEN\nOn success: foe weakens",
+  "status": "done",
   "slots": [
    "w:2bca68"
   ]
@@ -170,8 +170,8 @@
  {
   "id": "e:252408",
   "jp": "イシュト／チェイサー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut/Chaser only",
+  "status": "done",
   "slots": [
    "w:2bca6c"
   ]
@@ -179,8 +179,8 @@
  {
   "id": "e:252424",
   "jp": "敵の装備アイテムを\n盗み獲る",
-  "en": "",
-  "status": "todo",
+  "en": "Steal the enemy's\nequipped item",
+  "status": "done",
   "slots": [
    "w:2bca70"
   ]
@@ -188,8 +188,8 @@
  {
   "id": "e:252440",
   "jp": "ピンガー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger only",
+  "status": "done",
   "slots": [
    "w:2bca78",
    "w:2bcc64"
@@ -198,8 +198,8 @@
  {
   "id": "e:252450",
   "jp": "敵のヘッドを倒す",
-  "en": "",
-  "status": "todo",
+  "en": "Defeat the enemy Head",
+  "status": "done",
   "slots": [
    "w:2bca7c"
   ]
@@ -207,8 +207,8 @@
  {
   "id": "e:252464",
   "jp": "スナイパー専用\n夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Sniper only\nNight only",
+  "status": "done",
   "slots": [
    "w:2bca84"
   ]
@@ -216,8 +216,8 @@
  {
   "id": "e:25247c",
   "jp": "敵のメンバー数を\n自分と同じにする",
-  "en": "",
-  "status": "todo",
+  "en": "Match the enemy's\nmember count to yours",
+  "status": "done",
   "slots": [
    "w:2bca88"
   ]
@@ -225,8 +225,8 @@
  {
   "id": "e:2524a0",
   "jp": "威力＝状況により変化",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Varies",
+  "status": "done",
   "slots": [
    "w:2bca8c"
   ]
@@ -234,8 +234,8 @@
  {
   "id": "e:2524b8",
   "jp": "騎馬タイプのみ",
-  "en": "",
-  "status": "todo",
+  "en": "Cavalry Types only",
+  "status": "done",
   "slots": [
    "w:2bca90"
   ]
@@ -243,8 +243,8 @@
  {
   "id": "e:2524c8",
   "jp": "発動中、ダメージを\n受けない",
-  "en": "",
-  "status": "todo",
+  "en": "No damage taken while\nactive",
+  "status": "done",
   "slots": [
    "w:2bca94"
   ]
@@ -252,8 +252,8 @@
  {
   "id": "e:2524e4",
   "jp": "火炎攻撃でダメージ\n＋炎上状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Fire damage\n+ Ablaze",
+  "status": "done",
   "slots": [
    "w:2bcaa0"
   ]
@@ -261,8 +261,8 @@
  {
   "id": "e:252508",
   "jp": "冷気攻撃で敵に\nダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Damage the enemy with\ncold",
+  "status": "done",
   "slots": [
    "w:2bcaac"
   ]
@@ -270,8 +270,8 @@
  {
   "id": "e:252528",
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Own TEC+2-Foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2bcab0",
    "w:2bcac8"
@@ -280,8 +280,8 @@
  {
   "id": "e:252548",
   "jp": "ウンディーネが使うと…",
-  "en": "",
-  "status": "todo",
+  "en": "If an Undine uses it...",
+  "status": "done",
   "slots": [
    "w:2bcab4"
   ]
@@ -289,8 +289,8 @@
  {
   "id": "e:252560",
   "jp": "雷撃攻撃でダメージ\n＋麻痺状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Lightning damage\n+ Paralysis",
+  "status": "done",
   "slots": [
    "w:2bcab8"
   ]
@@ -298,8 +298,8 @@
  {
   "id": "e:252584",
   "jp": "神聖攻撃で敵に\nダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Damage the enemy with\nholy power",
+  "status": "done",
   "slots": [
    "w:2bcac4"
   ]
@@ -307,8 +307,8 @@
  {
   "id": "e:2525a4",
   "jp": "発動中、ドラゴン系に\n相性☆で戦える",
-  "en": "",
-  "status": "todo",
+  "en": "While active, fight\ndragons at a ☆ matchup",
+  "status": "done",
   "slots": [
    "w:2bcad0"
   ]
@@ -316,8 +316,8 @@
  {
   "id": "e:2525c8",
   "jp": "メデューテ専用\n相手がドラゴン系",
-  "en": "",
-  "status": "todo",
+  "en": "Medute only\nFoe is a dragon",
+  "status": "done",
   "slots": [
    "w:2bcad8"
   ]
@@ -325,8 +325,8 @@
  {
   "id": "e:2525e8",
   "jp": "近辺の石化ユニットや\nオブジェクトを破壊",
-  "en": "",
-  "status": "todo",
+  "en": "Destroy nearby Stone\nunits and objects",
+  "status": "done",
   "slots": [
    "w:2bcadc"
   ]
@@ -334,8 +334,8 @@
  {
   "id": "e:252610",
   "jp": "威力＝敵残存戦力の１／２\n破壊成功率＝１００％",
-  "en": "",
-  "status": "todo",
+  "en": "Power=1/2 foe's strength\nDestroy rate=100%",
+  "status": "done",
   "slots": [
    "w:2bcae0"
   ]
@@ -343,8 +343,8 @@
  {
   "id": "e:252640",
   "jp": "ゴーレム専用",
-  "en": "",
-  "status": "todo",
+  "en": "Golem only",
+  "status": "done",
   "slots": [
    "w:2bcae4"
   ]
@@ -352,8 +352,8 @@
  {
   "id": "e:252650",
   "jp": "敵メンバーを裏切らせ\n自分の戦力にする",
-  "en": "",
-  "status": "todo",
+  "en": "Turn enemy members into\nyour own force",
+  "status": "done",
   "slots": [
    "w:2bcae8"
   ]
@@ -361,8 +361,8 @@
  {
   "id": "e:252678",
   "jp": "効力＝自ＴＥＣ、敵ＧＥＮ依存",
-  "en": "",
-  "status": "todo",
+  "en": "Effect=Own TEC, foe GEN",
+  "status": "done",
   "slots": [
    "w:2bcaec"
   ]
@@ -370,8 +370,8 @@
  {
   "id": "e:252698",
   "jp": "相手が同サイズ／同性別",
-  "en": "",
-  "status": "todo",
+  "en": "Foe same size and gender",
+  "status": "done",
   "slots": [
    "w:2bcaf0"
   ]
@@ -379,8 +379,8 @@
  {
   "id": "e:2526b0",
   "jp": "敵のヘッド以外を\n全て倒す",
-  "en": "",
-  "status": "todo",
+  "en": "Defeat every enemy but\nthe Head",
+  "status": "done",
   "slots": [
    "w:2bcaf4"
   ]
@@ -388,8 +388,8 @@
  {
   "id": "e:2526cc",
   "jp": "威力＝敵ヘッド以外に∞",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Infinite, except\nfoe's Head",
+  "status": "done",
   "slots": [
    "w:2bcaf8",
    "w:2bcc00"
@@ -398,8 +398,8 @@
  {
   "id": "e:2526e4",
   "jp": "ヴァルキリー専用\nヘッドのみが残ったとき",
-  "en": "",
-  "status": "todo",
+  "en": "Valkyrie only\nWhen only the Head is left",
+  "status": "done",
   "slots": [
    "w:2bcafc"
   ]
@@ -407,8 +407,8 @@
  {
   "id": "e:25270c",
   "jp": "敵を一人残らず倒す",
-  "en": "",
-  "status": "todo",
+  "en": "Defeat every last enemy",
+  "status": "done",
   "slots": [
    "w:2bcb00"
   ]
@@ -416,8 +416,8 @@
  {
   "id": "e:252720",
   "jp": "威力＝∞",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Infinite",
+  "status": "done",
   "slots": [
    "w:2bcb04"
   ]
@@ -425,8 +425,8 @@
  {
   "id": "e:25272c",
   "jp": "オルディーン専用\nヘッドのみが残ったとき",
-  "en": "",
-  "status": "todo",
+  "en": "Ordene only\nWhen only the Head is left",
+  "status": "done",
   "slots": [
    "w:2bcb08"
   ]
@@ -434,8 +434,8 @@
  {
   "id": "e:252754",
   "jp": "倒れた自分のメンバー\nを復活させる",
-  "en": "",
-  "status": "todo",
+  "en": "Revive your fallen\nmembers",
+  "status": "done",
   "slots": [
    "w:2bcb0c"
   ]
@@ -443,8 +443,8 @@
  {
   "id": "e:252778",
   "jp": "効力＝ＴＥＣ依存",
-  "en": "",
-  "status": "todo",
+  "en": "Effect=Based on TEC",
+  "status": "done",
   "slots": [
    "w:2bcb10"
   ]
@@ -452,8 +452,8 @@
  {
   "id": "e:25278c",
   "jp": "ユニオン内の士気と\nステータス異常回復",
-  "en": "",
-  "status": "todo",
+  "en": "Restore morale and cure\nailments in the Union",
+  "status": "done",
   "slots": [
    "w:2bcb18"
   ]
@@ -461,8 +461,8 @@
  {
   "id": "e:2527b4",
   "jp": "成功率＝１００％",
-  "en": "",
-  "status": "todo",
+  "en": "Success rate=100%",
+  "status": "done",
   "slots": [
    "w:2bcb1c"
   ]
@@ -470,8 +470,8 @@
  {
   "id": "e:2527c8",
   "jp": "女性ユニオンリーダーのみ",
-  "en": "",
-  "status": "todo",
+  "en": "Female Union Leaders only",
+  "status": "done",
   "slots": [
    "w:2bcb20"
   ]
@@ -479,8 +479,8 @@
  {
   "id": "e:2527e4",
   "jp": "一定時間、\n敵を弱めるが…",
-  "en": "",
-  "status": "todo",
+  "en": "Weakens the enemy for a\nwhile, but...",
+  "status": "done",
   "slots": [
    "w:2bcb24"
   ]
@@ -488,8 +488,8 @@
  {
   "id": "e:252800",
   "jp": "効果持続時間=７．７７sec",
-  "en": "",
-  "status": "todo",
+  "en": "Duration=7.77 sec",
+  "status": "done",
   "slots": [
    "w:2bcb28"
   ]
@@ -497,8 +497,8 @@
  {
   "id": "e:25281c",
   "jp": "発動中、自分も敵も\nＬＵＫを力に換える",
-  "en": "",
-  "status": "todo",
+  "en": "While active, both sides\nturn LUK into power",
+  "status": "done",
   "slots": [
    "w:2bcb30"
   ]
@@ -506,8 +506,8 @@
  {
   "id": "e:252844",
   "jp": "敵味方の地形を交換\n＋敵の命中率が低下",
-  "en": "",
-  "status": "todo",
+  "en": "Swap terrain with the foe\n+ Foe's accuracy drops",
+  "status": "done",
   "slots": [
    "w:2bcb3c"
   ]
@@ -515,8 +515,8 @@
  {
   "id": "e:25286c",
   "jp": "効力＝同デュエル中ずっと",
-  "en": "",
-  "status": "todo",
+  "en": "Effect=For this whole\nDuel",
+  "status": "done",
   "slots": [
    "w:2bcb40",
    "w:2bcc54"
@@ -525,8 +525,8 @@
  {
   "id": "e:252888",
   "jp": "発動中、敵のＡＴＫを\n１にする",
-  "en": "",
-  "status": "todo",
+  "en": "While active, the foe's\nATK becomes 1",
+  "status": "done",
   "slots": [
    "w:2bcb48"
   ]
@@ -534,8 +534,8 @@
  {
   "id": "e:2528a8",
   "jp": "つたを自在に振るい\n敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Lash the enemy freely\nwith vines",
+  "status": "done",
   "slots": [
    "w:2bcb54"
   ]
@@ -543,8 +543,8 @@
  {
   "id": "e:2528d0",
   "jp": "威力＝自ＴＥＣ＋３－敵ＧＥＮ",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Own TEC+3-Foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2bcb58",
    "w:2bcc9c"
@@ -553,8 +553,8 @@
  {
   "id": "e:2528f0",
   "jp": "【地形スキル：森林】\n該当地形の敵に効果大",
-  "en": "",
-  "status": "todo",
+  "en": "[Terrain: Forest]\nStrong vs foes there",
+  "status": "done",
   "slots": [
    "w:2bcb5c"
   ]
@@ -562,8 +562,8 @@
  {
   "id": "e:25291c",
   "jp": "吹きすさぶ砂嵐で\n敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Damage the enemy with a\nhowling sandstorm",
+  "status": "done",
   "slots": [
    "w:2bcb60"
   ]
@@ -571,8 +571,8 @@
  {
   "id": "e:252944",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Own TEC+4-Foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2bcb64",
    "w:2bcb70",
@@ -583,8 +583,8 @@
  {
   "id": "e:252964",
   "jp": "【地形スキル：砂漠】\n該当地形の敵に効果大",
-  "en": "",
-  "status": "todo",
+  "en": "[Terrain: Desert]\nStrong vs foes there",
+  "status": "done",
   "slots": [
    "w:2bcb68"
   ]
@@ -592,8 +592,8 @@
  {
   "id": "e:252990",
   "jp": "泥沼に引きずりこんで\n敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Drag the enemy into a\nmire for damage",
+  "status": "done",
   "slots": [
    "w:2bcb6c"
   ]
@@ -601,8 +601,8 @@
  {
   "id": "e:2529bc",
   "jp": "【地形スキル：毒沼】\n該当地形の敵に効果大",
-  "en": "",
-  "status": "todo",
+  "en": "[Terrain: Poison Swamp]\nStrong vs foes there",
+  "status": "done",
   "slots": [
    "w:2bcb74"
   ]
@@ -610,8 +610,8 @@
  {
   "id": "e:2529e8",
   "jp": "落石攻撃でダメージ\n＋鈍足状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Falling rock damage\n+ Slow",
+  "status": "done",
   "slots": [
    "w:2bcb78"
   ]
@@ -619,8 +619,8 @@
  {
   "id": "e:252a0c",
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ\n自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "",
-  "status": "todo",
+  "en": "Power=TEC+2-Foe GEN\nWorks if TEC >= Foe GEN",
+  "status": "done",
   "slots": [
    "w:2bcb7c"
   ]
@@ -628,8 +628,8 @@
  {
   "id": "e:252a44",
   "jp": "【地形スキル：荒野】\n該当地形の敵に効果大",
-  "en": "",
-  "status": "todo",
+  "en": "[Terrain: Wasteland]\nStrong vs foes there",
+  "status": "done",
   "slots": [
    "w:2bcb80"
   ]
@@ -637,8 +637,8 @@
  {
   "id": "e:252a70",
   "jp": "ユニオン内の仲間への\n突撃と反撃をガード",
-  "en": "",
-  "status": "todo",
+  "en": "Guard Union allies from\ncharges and counters",
+  "status": "done",
   "slots": [
    "w:2bcb84"
   ]
@@ -646,8 +646,8 @@
  {
   "id": "e:252a98",
   "jp": "効力＝１００％",
-  "en": "",
-  "status": "todo",
+  "en": "Effect=100%",
+  "status": "done",
   "slots": [
    "w:2bcb88"
   ]
@@ -655,8 +655,8 @@
  {
   "id": "e:252aa8",
   "jp": "男性ユニオンリーダーのみ",
-  "en": "",
-  "status": "todo",
+  "en": "Male Union Leaders only",
+  "status": "done",
   "slots": [
    "w:2bcb8c"
   ]
@@ -664,8 +664,8 @@
  {
   "id": "e:252ac4",
   "jp": "メンバーの命を犠牲に\n戦闘能力が格段に上昇",
-  "en": "",
-  "status": "todo",
+  "en": "Sacrifice members' lives\nfor a huge power boost",
+  "status": "done",
   "slots": [
    "w:2bcb90"
   ]
@@ -673,8 +673,8 @@
  {
   "id": "e:252af0",
   "jp": "敵、味方のスキルゲージを破壊",
-  "en": "",
-  "status": "todo",
+  "en": "Destroys both sides' Skill\nGauges",
+  "status": "done",
   "slots": [
    "w:2bcb94"
   ]
@@ -682,8 +682,8 @@
  {
   "id": "e:252b10",
   "jp": "ガルカーサ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Gulcasa only",
+  "status": "done",
   "slots": [
    "w:2bcb98"
   ]
@@ -691,8 +691,8 @@
  {
   "id": "e:252b20",
   "jp": "倒れたメンバーも含め\nユニットを転生させる",
-  "en": "",
-  "status": "todo",
+  "en": "Reincarnate the unit,\nfallen members too",
+  "status": "done",
   "slots": [
    "w:2bcb9c"
   ]
@@ -700,8 +700,8 @@
  {
   "id": "e:252b50",
   "jp": "ネシア専用",
-  "en": "",
-  "status": "todo",
+  "en": "Nessiah only",
+  "status": "done",
   "slots": [
    "w:2bcba4"
   ]
@@ -709,8 +709,8 @@
  {
   "id": "e:252b5c",
   "jp": "発動中、敵のゲージ／\nレイジレートを減少",
-  "en": "",
-  "status": "todo",
+  "en": "While active, lower the\nfoe's gauge/Rage Rate",
+  "status": "done",
   "slots": [
    "w:2bcbb4"
   ]
@@ -718,8 +718,8 @@
  {
   "id": "e:252b84",
   "jp": "キーラ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Kyra only",
+  "status": "done",
   "slots": [
    "w:2bcbbc"
   ]
@@ -727,8 +727,8 @@
  {
   "id": "e:252b90",
   "jp": "敵を昏睡状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Put the enemy to Sleep",
+  "status": "done",
   "slots": [
    "w:2bcbc0"
   ]
@@ -736,8 +736,8 @@
  {
   "id": "e:252ba4",
   "jp": "パメラ専用\n夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Pamela only\nNight only",
+  "status": "done",
   "slots": [
    "w:2bcbc8"
   ]
@@ -745,8 +745,8 @@
  {
   "id": "e:252bb8",
   "jp": "使用者の状態により\n与えるダメージが変化",
-  "en": "",
-  "status": "todo",
+  "en": "Damage varies with the\nuser's condition",
+  "status": "done",
   "slots": [
    "w:2bcbcc"
   ]
@@ -754,8 +754,8 @@
  {
   "id": "e:252be0",
   "jp": "ガリオレッド専用",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored only",
+  "status": "done",
   "slots": [
    "w:2bcbd4"
   ]
@@ -763,8 +763,8 @@
  {
   "id": "e:252bf4",
   "jp": "ユニオン内の男性のみ\nＡＴＫとＧＥＮが上昇",
-  "en": "",
-  "status": "todo",
+  "en": "Raise ATK and GEN of\nUnion men only",
+  "status": "done",
   "slots": [
    "w:2bcbd8"
   ]
@@ -772,8 +772,8 @@
  {
   "id": "e:252c20",
   "jp": "効力＝同ターン内ずっと",
-  "en": "",
-  "status": "todo",
+  "en": "Effect=For this whole\nturn",
+  "status": "done",
   "slots": [
    "w:2bcbdc",
    "w:2bcbf4",
@@ -783,8 +783,8 @@
  {
   "id": "e:252c38",
   "jp": "バイフー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Byff only",
+  "status": "done",
   "slots": [
    "w:2bcbe0"
   ]
@@ -792,8 +792,8 @@
  {
   "id": "e:252c48",
   "jp": "狂風による攻撃で\nダメージ＋状態異常",
-  "en": "",
-  "status": "todo",
+  "en": "Mad-wind attack: damage\n+ ailment",
+  "status": "done",
   "slots": [
    "w:2bcbe4"
   ]
@@ -801,8 +801,8 @@
  {
   "id": "e:252c6c",
   "jp": "威力＝自ＴＥＣ★－敵ＧＥＮ★",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Own TEC★-Foe GEN★",
+  "status": "done",
   "slots": [
    "w:2bcbe8"
   ]
@@ -810,8 +810,8 @@
  {
   "id": "e:252c8c",
   "jp": "アジョー・グラフォー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo-Grafor only",
+  "status": "done",
   "slots": [
    "w:2bcbec"
   ]
@@ -819,8 +819,8 @@
  {
   "id": "e:252ca8",
   "jp": "ユニオン内の仲間の\nＬＵＫが上昇",
-  "en": "",
-  "status": "todo",
+  "en": "Raise the LUK of Union\nallies",
+  "status": "done",
   "slots": [
    "w:2bcbf0"
   ]
@@ -828,8 +828,8 @@
  {
   "id": "e:252cc8",
   "jp": "敵ヘッド以外を\n濁流の渦に飲み込む",
-  "en": "",
-  "status": "todo",
+  "en": "Swallow all but the foe's\nHead in a torrent",
+  "status": "done",
   "slots": [
    "w:2bcbfc"
   ]
@@ -837,8 +837,8 @@
  {
   "id": "e:252cec",
   "jp": "ウィルが強い者のみ",
-  "en": "",
-  "status": "todo",
+  "en": "Strong Will only",
+  "status": "done",
   "slots": [
    "w:2bcc04",
    "w:2bcc10",
@@ -851,8 +851,8 @@
  {
   "id": "e:252d00",
   "jp": "地獄の業火でダメージ\n＋火傷状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Hellfire damage\n+ Burn",
+  "status": "done",
   "slots": [
    "w:2bcc08"
   ]
@@ -860,8 +860,8 @@
  {
   "id": "e:252d28",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n効力＝１００％",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Own TEC+4-Foe\nGEN\nEffect=100%",
+  "status": "done",
   "slots": [
    "w:2bcc0c"
   ]
@@ -869,8 +869,8 @@
  {
   "id": "e:252d54",
   "jp": "大地神の怒りの槍で\nダメージ＋ＧＥＮ低下",
-  "en": "",
-  "status": "todo",
+  "en": "Earth god's angry spear:\ndamage + GEN down",
+  "status": "done",
   "slots": [
    "w:2bcc14"
   ]
@@ -878,8 +878,8 @@
  {
   "id": "e:252d7c",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n同ターン内ずっと",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Own TEC+4-Foe\nGEN\nFor this whole turn",
+  "status": "done",
   "slots": [
    "w:2bcc18",
    "w:2bcc24"
@@ -888,8 +888,8 @@
  {
   "id": "e:252dac",
   "jp": "荒ぶる暴風に襲われ\nダメージ＋命中率低下",
-  "en": "",
-  "status": "todo",
+  "en": "Raging tempest:\ndamage + accuracy down",
+  "status": "done",
   "slots": [
    "w:2bcc20"
   ]
@@ -897,8 +897,8 @@
  {
   "id": "e:252dd4",
   "jp": "敵のレイジレートを\n己の力に変えて放つ",
-  "en": "",
-  "status": "todo",
+  "en": "Turn the foe's Rage Rate\ninto your own power",
+  "status": "done",
   "slots": [
    "w:2bcc2c"
   ]
@@ -906,8 +906,8 @@
  {
   "id": "e:252dfc",
   "jp": "敵、味方のゲージを破壊",
-  "en": "",
-  "status": "todo",
+  "en": "Destroys both sides'\ngauges",
+  "status": "done",
   "slots": [
    "w:2bcc30"
   ]
@@ -915,8 +915,8 @@
  {
   "id": "e:252e14",
   "jp": "敵の全ユニットが消滅",
-  "en": "",
-  "status": "todo",
+  "en": "All enemy units vanish",
+  "status": "done",
   "slots": [
    "w:2bcc38"
   ]
@@ -924,8 +924,8 @@
  {
   "id": "e:252e2c",
   "jp": "敵ダメージ＋２５％の\n確率で敵ヘッドを倒す",
-  "en": "",
-  "status": "todo",
+  "en": "Damage; may defeat foe's\nHead (25%)",
+  "status": "done",
   "slots": [
    "w:2bcc44"
   ]
@@ -933,8 +933,8 @@
  {
   "id": "e:252e58",
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ\n成功率＝２５％",
-  "en": "",
-  "status": "todo",
+  "en": "Power=Own TEC+2-Foe\nGEN\nSuccess rate=25%",
+  "status": "done",
   "slots": [
    "w:2bcc48"
   ]
@@ -942,8 +942,8 @@
  {
   "id": "e:252e84",
   "jp": "エリーシャ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha only",
+  "status": "done",
   "slots": [
    "w:2bcc4c"
   ]
@@ -951,8 +951,8 @@
  {
   "id": "e:252e94",
   "jp": "分身が一つとなり、\n能力が飛躍的に向上",
-  "en": "",
-  "status": "todo",
+  "en": "The copies merge into one\nfor a huge power boost",
+  "status": "done",
   "slots": [
    "w:2bcc50"
   ]
@@ -960,8 +960,8 @@
  {
   "id": "e:252ebc",
   "jp": "ルルゥ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru only",
+  "status": "done",
   "slots": [
    "w:2bcc58"
   ]
@@ -969,8 +969,8 @@
  {
   "id": "e:252ec8",
   "jp": "戦闘中は操作不能　\n能力が飛躍的に向上",
-  "en": "",
-  "status": "todo",
+  "en": "No control in battle\nHuge power boost",
+  "status": "done",
   "slots": [
    "w:2bcc5c"
   ]
@@ -978,8 +978,8 @@
  {
   "id": "e:252ef0",
   "jp": "スキルゲージが破壊\nスキル使用後に昏睡",
-  "en": "",
-  "status": "todo",
+  "en": "Skill Gauge destroyed\nSleep after use",
+  "status": "done",
   "slots": [
    "w:2bcc60"
   ]
@@ -987,8 +987,8 @@
  {
   "id": "e:252f18",
   "jp": "巨大な碇を射出し\n敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Fire a giant anchor to\ndamage the enemy",
+  "status": "done",
   "slots": [
    "w:2bcc68"
   ]
@@ -996,8 +996,8 @@
  {
   "id": "e:252f40",
   "jp": "ザザーランド専用",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland only",
+  "status": "done",
   "slots": [
    "w:2bcc70"
   ]
@@ -1005,8 +1005,8 @@
  {
   "id": "e:252f54",
   "jp": "ヘッドが死亡し、\n部下が全員復活する",
-  "en": "",
-  "status": "todo",
+  "en": "The Head dies and all\nsubordinates revive",
+  "status": "done",
   "slots": [
    "w:2bcc74"
   ]
@@ -1014,8 +1014,8 @@
  {
   "id": "e:252f78",
   "jp": "成功率＝１００%",
-  "en": "",
-  "status": "todo",
+  "en": "Success rate=100%",
+  "status": "done",
   "slots": [
    "w:2bcc78"
   ]
@@ -1023,8 +1023,8 @@
  {
   "id": "e:252f88",
   "jp": "ミネソタ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota only",
+  "status": "done",
   "slots": [
    "w:2bcc7c"
   ]
@@ -1032,8 +1032,8 @@
  {
   "id": "e:252f98",
   "jp": "隕石が降り注ぎ敵味方\nどちらかにダメージ",
-  "en": "",
-  "status": "todo",
+  "en": "Meteors rain down and hit\none side or the other",
+  "status": "done",
   "slots": [
    "w:2bcc80"
   ]
@@ -1041,8 +1041,8 @@
  {
   "id": "e:252fc0",
   "jp": "ロコモコ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco only",
+  "status": "done",
   "slots": [
    "w:2bcc88"
   ]
@@ -1050,8 +1050,8 @@
  {
   "id": "e:252fd0",
   "jp": "黄金の盾の力で\nスキルを無効化する",
-  "en": "",
-  "status": "todo",
+  "en": "Nullify skills with the\ngolden shield's power",
+  "status": "done",
   "slots": [
    "w:2bcc8c"
   ]
@@ -1059,8 +1059,8 @@
  {
   "id": "e:252ff4",
   "jp": "杖ユニットの女性のみ",
-  "en": "",
-  "status": "todo",
+  "en": "Female staff units only",
+  "status": "done",
   "slots": [
    "w:2bcc94"
   ]
@@ -1068,8 +1068,8 @@
  {
   "id": "e:25300c",
   "jp": "時を止めて敵に突進し\n敵にダメージを与える",
-  "en": "",
-  "status": "todo",
+  "en": "Stop time and rush the\nenemy for damage",
+  "status": "done",
   "slots": [
    "w:2bcc98"
   ]
@@ -1077,8 +1077,8 @@
  {
   "id": "e:253038",
   "jp": "ラズベリー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry only",
+  "status": "done",
   "slots": [
    "w:2bcca0"
   ]
@@ -1086,8 +1086,8 @@
  {
   "id": "e:253048",
   "jp": "相手の持つカードと\n同じスキル効果を発揮",
-  "en": "",
-  "status": "todo",
+  "en": "Use the same skill effect\nas the foe's card",
+  "status": "done",
   "slots": [
    "w:2bcca4"
   ]
@@ -1095,8 +1095,8 @@
  {
   "id": "e:253070",
   "jp": "トレイシー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Tracey only",
+  "status": "done",
   "slots": [
    "w:2bccac"
   ]
@@ -1564,8 +1564,8 @@
  {
   "id": "e:25390c",
   "jp": "エフェクトテスト",
-  "en": "",
-  "status": "todo",
+  "en": "Effect Test",
+  "status": "done",
   "slots": [
    "i:a9b38:a9b3c"
   ]
@@ -1573,8 +1573,8 @@
  {
   "id": "e:253920",
   "jp": "ＥＸＩデータ更新",
-  "en": "",
-  "status": "todo",
+  "en": "Update EXI Data",
+  "status": "done",
   "slots": [
    "i:a9b44:a9b48"
   ]
@@ -1582,8 +1582,8 @@
  {
   "id": "e:253934",
   "jp": "背景更新",
-  "en": "",
-  "status": "todo",
+  "en": "Update Background",
+  "status": "done",
   "slots": [
    "i:a9b50:a9b54"
   ]
@@ -1591,8 +1591,8 @@
  {
   "id": "e:253940",
   "jp": "テクスチャ確認",
-  "en": "",
-  "status": "todo",
+  "en": "Check Textures",
+  "status": "done",
   "slots": [
    "i:a9b5c:a9b60"
   ]
@@ -1600,8 +1600,8 @@
  {
   "id": "e:253950",
   "jp": "スケール出力",
-  "en": "",
-  "status": "todo",
+  "en": "Output Scale",
+  "status": "done",
   "slots": [
    "i:a9b68:a9b6c"
   ]
@@ -1609,8 +1609,8 @@
  {
   "id": "e:253960",
   "jp": "スケール読み込み",
-  "en": "",
-  "status": "todo",
+  "en": "Load Scale",
+  "status": "done",
   "slots": [
    "i:a9b74:a9b78"
   ]
@@ -1618,8 +1618,8 @@
  {
   "id": "e:253974",
   "jp": "ゲームを開始する",
-  "en": "",
-  "status": "todo",
+  "en": "Start Game",
+  "status": "done",
   "slots": [
    "i:a9b80:a9b84"
   ]
@@ -1627,8 +1627,8 @@
  {
   "id": "e:253a84",
   "jp": "　－ＥＸＩデータ更新－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "",
-  "status": "todo",
+  "en": "- Update EXI Data -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "status": "done",
   "slots": [
    "i:aa6e4:aa6f4"
   ]
@@ -1636,8 +1636,8 @@
  {
   "id": "e:253ae4",
   "jp": "　　　－背景更新－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "",
-  "status": "todo",
+  "en": "- Update Background -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "status": "done",
   "slots": [
    "i:aa7d4:aa7e4"
   ]
@@ -1645,8 +1645,8 @@
  {
   "id": "e:253b40",
   "jp": "　　－スケール出力－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "",
-  "status": "todo",
+  "en": "- Output Scale -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "status": "done",
   "slots": [
    "i:aa8e4:aa8f4"
   ]
@@ -1654,8 +1654,8 @@
  {
   "id": "e:253ba0",
   "jp": "　－スケール読み込み－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "",
-  "status": "todo",
+  "en": "- Load Scale -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "status": "done",
   "slots": [
    "i:aa9dc:aa9ec"
   ]
@@ -1663,8 +1663,8 @@
  {
   "id": "e:253c00",
   "jp": "本当にゲームを開始する場合は\n決定ボタンを押してください",
-  "en": "",
-  "status": "todo",
+  "en": "To really start the game, press the OK button",
+  "status": "done",
   "slots": [
    "i:aaad4:aaae4"
   ]
@@ -1672,8 +1672,8 @@
  {
   "id": "e:253c38",
   "jp": "データの更新中です\nメモリースティックを\n抜かないでください",
-  "en": "",
-  "status": "todo",
+  "en": "Updating data.\nDo not remove the Memory Stick",
+  "status": "done",
   "slots": [
    "i:aade4:aadf4"
   ]
@@ -1681,8 +1681,8 @@
  {
   "id": "e:253c74",
   "jp": "背景の更新中です\nメモリースティックを\n抜かないでください",
-  "en": "",
-  "status": "todo",
+  "en": "Updating background.\nDo not remove the Memory Stick",
+  "status": "done",
   "slots": [
    "i:aaed8:aaee8"
   ]
@@ -1690,8 +1690,8 @@
  {
   "id": "e:253d4c",
   "jp": "移動",
-  "en": "",
-  "status": "todo",
+  "en": "Move",
+  "status": "done",
   "slots": [
    "i:b78f8:b7918"
   ]
@@ -1699,8 +1699,8 @@
  {
   "id": "e:253d54",
   "jp": "出撃",
-  "en": "",
-  "status": "todo",
+  "en": "Sortie",
+  "status": "done",
   "slots": [
    "i:b7968:b7988"
   ]
@@ -1708,8 +1708,8 @@
  {
   "id": "e:253d5c",
   "jp": "砲撃",
-  "en": "",
-  "status": "todo",
+  "en": "Bombard",
+  "status": "done",
   "slots": [
    "i:b7a0c:b7a30"
   ]
@@ -1717,8 +1717,8 @@
  {
   "id": "e:253ee0",
   "jp": "カードの選択",
-  "en": "",
-  "status": "todo",
+  "en": "Choosing a Card",
+  "status": "done",
   "slots": [
    "w:2c6954"
   ]
@@ -1726,8 +1726,8 @@
  {
   "id": "e:253ef0",
   "jp": "移動方法",
-  "en": "",
-  "status": "todo",
+  "en": "How to Move",
+  "status": "done",
   "slots": [
    "w:2c695c"
   ]
@@ -1735,8 +1735,8 @@
  {
   "id": "e:253efc",
   "jp": "攻撃方法",
-  "en": "",
-  "status": "todo",
+  "en": "How to Attack",
+  "status": "done",
   "slots": [
    "w:2c6964"
   ]
@@ -1744,8 +1744,8 @@
  {
   "id": "e:253f08",
   "jp": "戦闘後の行動",
-  "en": "",
-  "status": "todo",
+  "en": "After Battle",
+  "status": "done",
   "slots": [
    "w:2c696c"
   ]
@@ -1753,8 +1753,8 @@
  {
   "id": "e:253f18",
   "jp": "街を訪れてみよう",
-  "en": "",
-  "status": "todo",
+  "en": "Visit a Town",
+  "status": "done",
   "slots": [
    "w:2c6974"
   ]
@@ -1762,8 +1762,8 @@
  {
   "id": "e:253f2c",
   "jp": "フォーメーション",
-  "en": "",
-  "status": "todo",
+  "en": "Formations",
+  "status": "done",
   "slots": [
    "w:2c697c"
   ]
@@ -1771,8 +1771,8 @@
  {
   "id": "e:253f40",
   "jp": "リンク展開",
-  "en": "",
-  "status": "todo",
+  "en": "Link Expansion",
+  "status": "done",
   "slots": [
    "w:2c6984"
   ]
@@ -1780,8 +1780,8 @@
  {
   "id": "e:253f4c",
   "jp": "武器相性～基礎編",
-  "en": "",
-  "status": "todo",
+  "en": "Weapon Matchups: Basics",
+  "status": "done",
   "slots": [
    "w:2c698c"
   ]
@@ -1789,8 +1789,8 @@
  {
   "id": "e:253f60",
   "jp": "武器相性～特殊編",
-  "en": "",
-  "status": "todo",
+  "en": "Weapon Matchups: Special",
+  "status": "done",
   "slots": [
    "w:2c6994"
   ]
@@ -1798,8 +1798,8 @@
  {
   "id": "e:253f74",
   "jp": "スキルを使うには",
-  "en": "",
-  "status": "todo",
+  "en": "Using Skills",
+  "status": "done",
   "slots": [
    "w:2c699c"
   ]
@@ -1807,8 +1807,8 @@
  {
   "id": "e:253f88",
   "jp": "遺跡カードの説明",
-  "en": "",
-  "status": "todo",
+  "en": "About Ruin Cards",
+  "status": "done",
   "slots": [
    "w:2c69a4"
   ]
@@ -1816,8 +1816,8 @@
  {
   "id": "e:253f9c",
   "jp": "船（キャラクター選択）の利用",
-  "en": "",
-  "status": "todo",
+  "en": "Using the Ship (Character Select)",
+  "status": "done",
   "slots": [
    "w:2c69ac"
   ]
@@ -1825,8 +1825,8 @@
  {
   "id": "e:253fbc",
   "jp": "船（バトル）の説明",
-  "en": "",
-  "status": "todo",
+  "en": "About the Ship (Battle)",
+  "status": "done",
   "slots": [
    "w:2c69b4"
   ]
@@ -1834,8 +1834,8 @@
  {
   "id": "e:253fd0",
   "jp": "ミッションの選択",
-  "en": "",
-  "status": "todo",
+  "en": "Choosing a Mission",
+  "status": "done",
   "slots": [
    "w:2c69bc"
   ]
@@ -1843,8 +1843,8 @@
  {
   "id": "e:253fe4",
   "jp": "砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Cannon",
+  "status": "done",
   "slots": [
    "w:2c69c4"
   ]
@@ -1852,8 +1852,8 @@
  {
   "id": "e:253fec",
   "jp": "投石器",
-  "en": "",
-  "status": "todo",
+  "en": "Catapult",
+  "status": "done",
   "slots": [
    "w:2c69cc"
   ]
@@ -1861,8 +1861,8 @@
  {
   "id": "e:253ff4",
   "jp": "天候の説明",
-  "en": "",
-  "status": "todo",
+  "en": "About the Weather",
+  "status": "done",
   "slots": [
    "w:2c69d4"
   ]

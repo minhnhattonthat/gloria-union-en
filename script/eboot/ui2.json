@@ -2,8 +2,8 @@
  {
   "id": "e:254000",
   "jp": "毒沼地形",
-  "en": "",
-  "status": "todo",
+  "en": "Poison Swamp Terrain",
+  "status": "done",
   "slots": [
    "w:2c69dc"
   ]
@@ -11,8 +11,8 @@
  {
   "id": "e:25400c",
   "jp": "水辺地形",
-  "en": "",
-  "status": "todo",
+  "en": "Waterside Terrain",
+  "status": "done",
   "slots": [
    "w:2c69e4"
   ]
@@ -20,8 +20,8 @@
  {
   "id": "e:254018",
   "jp": "砂漠地形",
-  "en": "",
-  "status": "todo",
+  "en": "Desert Terrain",
+  "status": "done",
   "slots": [
    "w:2c69ec"
   ]
@@ -29,8 +29,8 @@
  {
   "id": "e:254024",
   "jp": "ステータス異常",
-  "en": "",
-  "status": "todo",
+  "en": "Status Ailments",
+  "status": "done",
   "slots": [
    "w:2c69f4"
   ]
@@ -38,8 +38,8 @@
  {
   "id": "e:254034",
   "jp": "イータの特性",
-  "en": "",
-  "status": "todo",
+  "en": "Eater's Traits",
+  "status": "done",
   "slots": [
    "w:2c69fc"
   ]
@@ -47,8 +47,8 @@
  {
   "id": "e:254048",
   "jp": "敵残りユニット…　%2d人",
-  "en": "",
-  "status": "todo",
+  "en": "Enemy units left... %2d",
+  "status": "done",
   "slots": [
    "i:bbae4:bbaf4"
   ]
@@ -56,8 +56,8 @@
  {
   "id": "e:254060",
   "jp": "残りカード　　…　%2d枚",
-  "en": "",
-  "status": "todo",
+  "en": "Cards left...       %2d",
+  "status": "done",
   "slots": [
    "i:bbb44:bbb54"
   ]
@@ -65,8 +65,8 @@
  {
   "id": "e:254080",
   "jp": "%s隊",
-  "en": "",
-  "status": "todo",
+  "en": "%s Unit",
+  "status": "done",
   "slots": [
    "i:c12e4:c12e8"
   ]
@@ -74,8 +74,8 @@
  {
   "id": "e:254088",
   "jp": "＋１０％",
-  "en": "",
-  "status": "todo",
+  "en": "+10%",
+  "status": "done",
   "slots": [
    "w:2c6ed0",
    "w:2c6ed4",
@@ -85,8 +85,8 @@
  {
   "id": "e:254094",
   "jp": "　　０％",
-  "en": "",
-  "status": "todo",
+  "en": "0%",
+  "status": "done",
   "slots": [
    "w:2c6ed8",
    "w:2c6edc",
@@ -102,8 +102,8 @@
  {
   "id": "e:2540a0",
   "jp": "＋２０％",
-  "en": "",
-  "status": "todo",
+  "en": "+20%",
+  "status": "done",
   "slots": [
    "w:2c6ee0",
    "w:2c6ef4",
@@ -113,8 +113,8 @@
  {
   "id": "e:2540ac",
   "jp": "－２０％",
-  "en": "",
-  "status": "todo",
+  "en": "-20%",
+  "status": "done",
   "slots": [
    "w:2c6ee4",
    "w:2c6f18"
@@ -123,8 +123,8 @@
  {
   "id": "e:2540b8",
   "jp": "－３０％",
-  "en": "",
-  "status": "todo",
+  "en": "-30%",
+  "status": "done",
   "slots": [
    "w:2c6ee8"
   ]
@@ -132,8 +132,8 @@
  {
   "id": "e:2540c4",
   "jp": "－１０％",
-  "en": "",
-  "status": "todo",
+  "en": "-10%",
+  "status": "done",
   "slots": [
    "w:2c6ef0",
    "w:2c6f24",
@@ -143,8 +143,8 @@
  {
   "id": "e:2540d0",
   "jp": "＋３０％",
-  "en": "",
-  "status": "todo",
+  "en": "+30%",
+  "status": "done",
   "slots": [
    "w:2c6ef8"
   ]
@@ -152,8 +152,8 @@
  {
   "id": "e:2540dc",
   "jp": "＋４０％",
-  "en": "",
-  "status": "todo",
+  "en": "+40%",
+  "status": "done",
   "slots": [
    "w:2c6efc"
   ]
@@ -161,8 +161,8 @@
  {
   "id": "e:254210",
   "jp": "敵陣に岩石を飛ばし、\nダメージを与える兵器です。\nバトルを仕掛けた側が\nそのユニオン内に投石器を\n含めることによって、\n突撃時に投石が発動します。\n破壊可能オブジェクトです。",
-  "en": "",
-  "status": "todo",
+  "en": "A weapon that hurls rocks at the\nenemy lines to deal damage. If the\nside that starts a battle has a\ncatapult in its Union, it throws rocks\nduring the charge. It is a destructible\nobject.",
+  "status": "done",
   "slots": [
    "w:2c7308"
   ]
@@ -170,8 +170,8 @@
  {
   "id": "e:2542bc",
   "jp": "砲台を所有している部隊の\nターン開始時に、\n特定の範囲に対して砲撃を\n行う兵器です。\n食らった敵は士気が落ちます。\nなお、夜間は砲撃できません。",
-  "en": "",
-  "status": "todo",
+  "en": "A weapon that bombards a set area\nat the start of the owning unit's turn.\nEnemies it hits lose morale. It can't\nfire at night.",
+  "status": "done",
   "slots": [
    "w:2c730c"
   ]
@@ -179,8 +179,8 @@
  {
   "id": "e:254348",
   "jp": "人々の生活の要衝である\n河川に架けられた橋です。\n石組みから木造まで、\n様々な種類があります。\n騎馬タイプのユニットは\n橋上で強化されます。",
-  "en": "",
-  "status": "todo",
+  "en": "A bridge over a river, a vital link in\npeople's lives. They come in many\nkinds, from stone to wood.\nCavalry-type units are strengthened\non bridges.",
+  "status": "done",
   "slots": [
    "w:2c7310"
   ]
@@ -188,8 +188,8 @@
  {
   "id": "e:2543d0",
   "jp": "大きく開かれた門です。\n誰もが、自由に行き来する\nことができます。",
-  "en": "",
-  "status": "todo",
+  "en": "A wide-open gate. Anyone can come\nand go freely.",
+  "status": "done",
   "slots": [
    "w:2c7314"
   ]
@@ -197,8 +197,8 @@
  {
   "id": "e:254414",
   "jp": "固く閉ざされた門です。\nいかなるユニットの進入も\n許しません。",
-  "en": "",
-  "status": "todo",
+  "en": "A firmly shut gate. It lets no unit in.",
+  "status": "done",
   "slots": [
    "w:2c7318"
   ]
@@ -206,8 +206,8 @@
  {
   "id": "e:254454",
   "jp": "木を組んで作られた柵です。\n飛行タイプのユニットは\n越えて進軍できますが、\nそれ以外は進入できません。\n破壊可能オブジェクトで、\n一度壊してしまえば\nあとは自由に移動できます。",
-  "en": "",
-  "status": "todo",
+  "en": "A fence of lashed timber. Flying-type\nunits can cross it; others can't enter.\nIt is a destructible object: once\nbroken, units can move through\nfreely.",
+  "status": "done",
   "slots": [
    "w:2c731c"
   ]
@@ -215,8 +215,8 @@
  {
   "id": "e:254500",
   "jp": "人々が寄り集まった集落、\nもしくは一軒家です。\n訪れると、何か情報が\n得られるかもしれません。",
-  "en": "",
-  "status": "todo",
+  "en": "A settlement where people gather,\nor a lone house. Visit it and you may\nlearn something.",
+  "status": "done",
   "slots": [
    "w:2c7320"
   ]
@@ -224,8 +224,8 @@
  {
   "id": "e:25455c",
   "jp": "大勢の人々が集住する場所で、\n各地の風土や歴史によって\n固有の文化が発達しています。\n戦略上の重要拠点である\n場合も多く、訪れると\n有益な情報が得られるかも\nしれません。",
-  "en": "",
-  "status": "todo",
+  "en": "A place where many people live\ntogether, with a culture shaped by\nlocal climate and history. Often a key\nstrategic point; a visit may bring\nuseful information.",
+  "status": "done",
   "slots": [
    "w:2c7324"
   ]
@@ -233,8 +233,8 @@
  {
   "id": "e:254604",
   "jp": "戦略上の重要拠点で、\n多くの場合、名だたる敵将が\n守備を固めています。\nここの制圧が勝利条件となる\n戦局も少なくなく、\nいかにして陥落させるかが\nカギになります。",
-  "en": "",
-  "status": "todo",
+  "en": "A key strategic point, usually held by\na famous enemy commander. Taking it\nis often the victory condition, and\nhow to bring it down is the key.",
+  "status": "done",
   "slots": [
    "w:2c7328"
   ]
@@ -242,8 +242,8 @@
  {
   "id": "e:2546a4",
   "jp": "倒した敵が装備していた\nアイテムです。\n相手よりもＬＵＫの高い\nユニットで敵を倒すと、\nマップ上に出現します。\nそのまま放置しておくと、\n敵に奪われてしまうことも…",
-  "en": "",
-  "status": "todo",
+  "en": "An item the defeated enemy had\nequipped. It appears on the map when\na unit with higher LUK than the foe\ndefeats it. Leave it there and the\nenemy may take it...",
+  "status": "done",
   "slots": [
    "w:2c732c"
   ]
@@ -251,8 +251,8 @@
  {
   "id": "e:254744",
   "jp": "川や海を航行する船舶です。\n現在は岸に停泊しているため、\n陸伝いに移動して\n通過することができます。\nただし甲板の広さの都合上、\n船舶のあるスクエア上で\n待機することはできません。",
-  "en": "",
-  "status": "todo",
+  "en": "A ship that sails rivers and seas. It is\nmoored at the shore now, so units can\ncross it over land. But the deck is\nsmall, so units can't wait on a ship's\nsquare.",
+  "status": "done",
   "slots": [
    "w:2c7330"
   ]
@@ -260,8 +260,8 @@
  {
   "id": "e:2547f4",
   "jp": "現在の戦況において、\n自軍、もしくは敵性部隊が\n目指すべき場所です。\nこちらが目指す場合は\n一刻も早く急行しましょう！\nまた敵性部隊が目指す場合、\n妨害して阻止しましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "The place your army or the enemy\nforces should head for right now. If\nit's your goal, hurry there! If it's the\nenemy's, get in their way and stop\nthem!",
+  "status": "done",
   "slots": [
    "w:2c7334"
   ]
@@ -269,8 +269,8 @@
  {
   "id": "e:25489c",
   "jp": "装備中のアイテムに\n別の何らかのアイテムが\n反応したことを示す印です。\nその場所に行ってみると…",
-  "en": "",
-  "status": "todo",
+  "en": "A mark showing that some other item\nhas reacted to the item you have\nequipped. Go there and see...",
+  "status": "done",
   "slots": [
    "w:2c7338"
   ]
@@ -278,8 +278,8 @@
  {
   "id": "e:254cc8",
   "jp": "この戦いでは、",
-  "en": "",
-  "status": "todo",
+  "en": "In this battle,",
+  "status": "done",
   "slots": [
    "i:cb674:cb678"
   ]
@@ -287,8 +287,8 @@
  {
   "id": "e:254cd8",
   "jp": "を出撃メンバーから",
-  "en": "",
-  "status": "todo",
+  "en": "can't be removed",
+  "status": "done",
   "slots": [
    "i:cb680:cb68c"
   ]
@@ -296,8 +296,8 @@
  {
   "id": "e:254cec",
   "jp": "はずすことはできません！",
-  "en": "",
-  "status": "todo",
+  "en": "from the sortie members!",
+  "status": "done",
   "slots": [
    "i:cb694:cb6a8"
   ]
@@ -305,8 +305,8 @@
  {
   "id": "e:254d08",
   "jp": "このキャラクターは装備アイテムを\n変更することができません！",
-  "en": "",
-  "status": "todo",
+  "en": "This character can't change equipped items!",
+  "status": "done",
   "slots": [
    "i:cb838:cb848"
   ]
@@ -314,8 +314,8 @@
  {
   "id": "e:254d44",
   "jp": "現在、アイテムを装備中のキャラクターは\n別のアイテムを装備することができません！",
-  "en": "",
-  "status": "todo",
+  "en": "A character who has an item equipped can't equip another\nitem!",
+  "status": "done",
   "slots": [
    "i:cb900:cb910"
   ]
@@ -323,8 +323,8 @@
  {
   "id": "e:254d94",
   "jp": "装備可能なレベルに達していないので\nこのアイテムを装備できません！",
-  "en": "",
-  "status": "todo",
+  "en": "This item can't be equipped: the required level hasn't been\nreached!",
+  "status": "done",
   "slots": [
    "i:cb9d4:cb9e4"
   ]
@@ -332,8 +332,8 @@
  {
   "id": "e:254dd8",
   "jp": "士気はすでに最高まで高まっています。\nこれ以上、士気回復は行えません！",
-  "en": "",
-  "status": "todo",
+  "en": "Morale is already at its peak. It can't be restored any\nfurther!",
+  "status": "done",
   "slots": [
    "i:cbaa0:cbab0"
   ]
@@ -341,8 +341,8 @@
  {
   "id": "e:254e20",
   "jp": "よぉし、行くぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Alright, let's go!",
+  "status": "done",
   "slots": [
    "w:2c850c"
   ]
@@ -350,8 +350,8 @@
  {
   "id": "e:254e34",
   "jp": "さぁ、行きますか",
-  "en": "",
-  "status": "todo",
+  "en": "Well, shall we go?",
+  "status": "done",
   "slots": [
    "w:2c8510"
   ]
@@ -359,8 +359,8 @@
  {
   "id": "e:254e48",
   "jp": "うん、行こう！",
-  "en": "",
-  "status": "todo",
+  "en": "Okay, let's go!",
+  "status": "done",
   "slots": [
    "w:2c8514"
   ]
@@ -368,8 +368,8 @@
  {
   "id": "e:254e58",
   "jp": "ボチボチ行くか！",
-  "en": "",
-  "status": "todo",
+  "en": "Guess I'll get moving!",
+  "status": "done",
   "slots": [
    "w:2c8518"
   ]
@@ -377,8 +377,8 @@
  {
   "id": "e:254e6c",
   "jp": "行きましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "Let's go!",
+  "status": "done",
   "slots": [
    "w:2c851c"
   ]
@@ -386,8 +386,8 @@
  {
   "id": "e:254e7c",
   "jp": "マナーを叩き込む",
-  "en": "",
-  "status": "todo",
+  "en": "I shall drill in some manners",
+  "status": "done",
   "slots": [
    "w:2c8520"
   ]
@@ -395,8 +395,8 @@
  {
   "id": "e:254e90",
   "jp": "いってきま～す！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm off-!",
+  "status": "done",
   "slots": [
    "w:2c8524"
   ]
@@ -404,8 +404,8 @@
  {
   "id": "e:254ea4",
   "jp": "出番っすか。",
-  "en": "",
-  "status": "todo",
+  "en": "My turn, sir?",
+  "status": "done",
   "slots": [
    "w:2c8528"
   ]
@@ -413,8 +413,8 @@
  {
   "id": "e:254eb4",
   "jp": "ガンガガガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangagagaa!",
+  "status": "done",
   "slots": [
    "w:2c852c"
   ]
@@ -422,8 +422,8 @@
  {
   "id": "e:254ec4",
   "jp": "必ず勝つぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "We will win!",
+  "status": "done",
   "slots": [
    "w:2c8530"
   ]
@@ -431,8 +431,8 @@
  {
   "id": "e:254ed4",
   "jp": "お宝お宝～。",
-  "en": "",
-  "status": "todo",
+  "en": "Treasure, treasure~",
+  "status": "done",
   "slots": [
    "w:2c8534"
   ]
@@ -440,8 +440,8 @@
  {
   "id": "e:254ee4",
   "jp": "気合だぁぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Fired uuup!!",
+  "status": "done",
   "slots": [
    "w:2c8538"
   ]
@@ -449,8 +449,8 @@
  {
   "id": "e:254ef8",
   "jp": "寄らば撃ちます！",
-  "en": "",
-  "status": "todo",
+  "en": "Come close and I'll shoot!",
+  "status": "done",
   "slots": [
    "w:2c853c"
   ]
@@ -458,8 +458,8 @@
  {
   "id": "e:254f0c",
   "jp": "ほいほい～っと！",
-  "en": "",
-  "status": "todo",
+  "en": "Here we go~!",
+  "status": "done",
   "slots": [
    "w:2c8540"
   ]
@@ -467,8 +467,8 @@
  {
   "id": "e:254f20",
   "jp": "ライブスタート！",
-  "en": "",
-  "status": "todo",
+  "en": "Live start!",
+  "status": "done",
   "slots": [
    "w:2c8544"
   ]
@@ -476,8 +476,8 @@
  {
   "id": "e:254f34",
   "jp": "喧嘩だ喧嘩ぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "A fight! A fight!",
+  "status": "done",
   "slots": [
    "w:2c8548"
   ]
@@ -485,8 +485,8 @@
  {
   "id": "e:254f44",
   "jp": "出撃準備ＯＫ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ready to sortie!",
+  "status": "done",
   "slots": [
    "w:2c854c"
   ]
@@ -494,8 +494,8 @@
  {
   "id": "e:254f64",
   "jp": "隊の士気が回復しました！",
-  "en": "",
-  "status": "todo",
+  "en": "The unit's morale has been restored!",
+  "status": "done",
   "slots": [
    "w:2c8744"
   ]
@@ -638,8 +638,8 @@
  {
   "id": "e:2552b8",
   "jp": "装備効果なし",
-  "en": "",
-  "status": "todo",
+  "en": "No equip effect",
+  "status": "done",
   "slots": [
    "w:2c8e38"
   ]
@@ -647,8 +647,8 @@
  {
   "id": "e:2552c8",
   "jp": "全属性攻撃無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies all\nelements",
+  "status": "done",
   "slots": [
    "w:2c8e40"
   ]
@@ -656,8 +656,8 @@
  {
   "id": "e:2552d8",
   "jp": "火炎攻撃は無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies fire",
+  "status": "done",
   "slots": [
    "w:2c8e48"
   ]
@@ -665,8 +665,8 @@
  {
   "id": "e:2552e8",
   "jp": "冷気攻撃は無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies cold",
+  "status": "done",
   "slots": [
    "w:2c8e50"
   ]
@@ -674,8 +674,8 @@
  {
   "id": "e:2552f8",
   "jp": "雷撃攻撃は無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies lightning",
+  "status": "done",
   "slots": [
    "w:2c8e58"
   ]
@@ -683,8 +683,8 @@
  {
   "id": "e:255308",
   "jp": "神聖攻撃は無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies holy",
+  "status": "done",
   "slots": [
    "w:2c8e60"
   ]
@@ -692,8 +692,8 @@
  {
   "id": "e:255318",
   "jp": "暗黒攻撃は無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies dark",
+  "status": "done",
   "slots": [
    "w:2c8e68"
   ]
@@ -701,8 +701,8 @@
  {
   "id": "e:255328",
   "jp": "全属性攻撃に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to all\nelements",
+  "status": "done",
   "slots": [
    "w:2c8e70"
   ]
@@ -710,8 +710,8 @@
  {
   "id": "e:25533c",
   "jp": "火炎攻撃に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to fire",
+  "status": "done",
   "slots": [
    "w:2c8e78"
   ]
@@ -719,8 +719,8 @@
  {
   "id": "e:25534c",
   "jp": "冷気攻撃に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to cold",
+  "status": "done",
   "slots": [
    "w:2c8e80"
   ]
@@ -728,8 +728,8 @@
  {
   "id": "e:25535c",
   "jp": "雷撃攻撃に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to lightning",
+  "status": "done",
   "slots": [
    "w:2c8e88"
   ]
@@ -737,8 +737,8 @@
  {
   "id": "e:25536c",
   "jp": "神聖攻撃に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to holy",
+  "status": "done",
   "slots": [
    "w:2c8e90"
   ]
@@ -746,8 +746,8 @@
  {
   "id": "e:25537c",
   "jp": "暗黒攻撃に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to dark",
+  "status": "done",
   "slots": [
    "w:2c8e98"
   ]
@@ -755,8 +755,8 @@
  {
   "id": "e:25538c",
   "jp": "火炎以外を無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies all but fire",
+  "status": "done",
   "slots": [
    "w:2c8ea0"
   ]
@@ -764,8 +764,8 @@
  {
   "id": "e:25539c",
   "jp": "冷気以外を無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies all but cold",
+  "status": "done",
   "slots": [
    "w:2c8ea8"
   ]
@@ -773,8 +773,8 @@
  {
   "id": "e:2553ac",
   "jp": "雷撃以外を無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies all but\nlightning",
+  "status": "done",
   "slots": [
    "w:2c8eb0"
   ]
@@ -782,8 +782,8 @@
  {
   "id": "e:2553bc",
   "jp": "神聖以外を無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies all but holy",
+  "status": "done",
   "slots": [
    "w:2c8eb8"
   ]
@@ -791,8 +791,8 @@
  {
   "id": "e:2553cc",
   "jp": "暗黒以外を無効",
-  "en": "",
-  "status": "todo",
+  "en": "Nullifies all but dark",
+  "status": "done",
   "slots": [
    "w:2c8ec0"
   ]
@@ -800,8 +800,8 @@
  {
   "id": "e:2553dc",
   "jp": "火炎以外に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to all but fire",
+  "status": "done",
   "slots": [
    "w:2c8ec8"
   ]
@@ -809,8 +809,8 @@
  {
   "id": "e:2553ec",
   "jp": "冷気以外に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to all but cold",
+  "status": "done",
   "slots": [
    "w:2c8ed0"
   ]
@@ -818,8 +818,8 @@
  {
   "id": "e:2553fc",
   "jp": "雷撃以外に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to all but\nlightning",
+  "status": "done",
   "slots": [
    "w:2c8ed8"
   ]
@@ -827,8 +827,8 @@
  {
   "id": "e:25540c",
   "jp": "神聖以外に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to all but holy",
+  "status": "done",
   "slots": [
    "w:2c8ee0"
   ]
@@ -836,8 +836,8 @@
  {
   "id": "e:25541c",
   "jp": "暗黒以外に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak to all but\ndark",
+  "status": "done",
   "slots": [
    "w:2c8ee8"
   ]
@@ -845,8 +845,8 @@
  {
   "id": "e:25542c",
   "jp": "チェイサーに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Chasers",
+  "status": "done",
   "slots": [
    "w:2c8ef0"
   ]
@@ -854,8 +854,8 @@
  {
   "id": "e:255440",
   "jp": "ヴァルキリーに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Valkyries",
+  "status": "done",
   "slots": [
    "w:2c8ef8"
   ]
@@ -863,8 +863,8 @@
  {
   "id": "e:255454",
   "jp": "ナイト系に強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Knights",
+  "status": "done",
   "slots": [
    "w:2c8f00"
   ]
@@ -872,8 +872,8 @@
  {
   "id": "e:255464",
   "jp": "ウンディーネに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Undines",
+  "status": "done",
   "slots": [
    "w:2c8f08"
   ]
@@ -881,8 +881,8 @@
  {
   "id": "e:255478",
   "jp": "パイレーツに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Pirates",
+  "status": "done",
   "slots": [
    "w:2c8f10"
   ]
@@ -890,8 +890,8 @@
  {
   "id": "e:25548c",
   "jp": "グリフライダーに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Griffon\nRiders",
+  "status": "done",
   "slots": [
    "w:2c8f18"
   ]
@@ -899,8 +899,8 @@
  {
   "id": "e:2554a4",
   "jp": "ガンナーに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Gunners",
+  "status": "done",
   "slots": [
    "w:2c8f20"
   ]
@@ -908,8 +908,8 @@
  {
   "id": "e:2554b4",
   "jp": "スナイパーに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Snipers",
+  "status": "done",
   "slots": [
    "w:2c8f28"
   ]
@@ -917,8 +917,8 @@
  {
   "id": "e:2554c8",
   "jp": "ネクロマンサーに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs\nNecromancers",
+  "status": "done",
   "slots": [
    "w:2c8f30"
   ]
@@ -926,8 +926,8 @@
  {
   "id": "e:2554e0",
   "jp": "ウィッチに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Witches",
+  "status": "done",
   "slots": [
    "w:2c8f38"
   ]
@@ -935,8 +935,8 @@
  {
   "id": "e:2554f0",
   "jp": "ゴーレムに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Golems",
+  "status": "done",
   "slots": [
    "w:2c8f40"
   ]
@@ -944,8 +944,8 @@
  {
   "id": "e:255500",
   "jp": "スケルトンに強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs\nSkeletons",
+  "status": "done",
   "slots": [
    "w:2c8f48"
   ]
@@ -953,8 +953,8 @@
  {
   "id": "e:255514",
   "jp": "ドラゴン系に強い",
-  "en": "",
-  "status": "todo",
+  "en": "Strong vs Dragons",
+  "status": "done",
   "slots": [
    "w:2c8f50"
   ]
@@ -962,8 +962,8 @@
  {
   "id": "e:255528",
   "jp": "チェイサーに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Chasers",
+  "status": "done",
   "slots": [
    "w:2c8f58"
   ]
@@ -971,8 +971,8 @@
  {
   "id": "e:25553c",
   "jp": "ヴァルキリーに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Valkyries",
+  "status": "done",
   "slots": [
    "w:2c8f60"
   ]
@@ -980,8 +980,8 @@
  {
   "id": "e:255550",
   "jp": "ナイト系に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Knights",
+  "status": "done",
   "slots": [
    "w:2c8f68"
   ]
@@ -989,8 +989,8 @@
  {
   "id": "e:255560",
   "jp": "ウンディーネに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Undines",
+  "status": "done",
   "slots": [
    "w:2c8f70"
   ]
@@ -998,8 +998,8 @@
  {
   "id": "e:255574",
   "jp": "パイレーツに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Pirates",
+  "status": "done",
   "slots": [
    "w:2c8f78"
   ]
@@ -1007,8 +1007,8 @@
  {
   "id": "e:255588",
   "jp": "グリフライダーに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Griffon\nRiders",
+  "status": "done",
   "slots": [
    "w:2c8f80"
   ]
@@ -1016,8 +1016,8 @@
  {
   "id": "e:2555a0",
   "jp": "ガンナーに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Gunners",
+  "status": "done",
   "slots": [
    "w:2c8f88"
   ]
@@ -1025,8 +1025,8 @@
  {
   "id": "e:2555b0",
   "jp": "スナイパーに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Snipers",
+  "status": "done",
   "slots": [
    "w:2c8f90"
   ]
@@ -1034,8 +1034,8 @@
  {
   "id": "e:2555c4",
   "jp": "ネクロマンサーに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs\nNecromancers",
+  "status": "done",
   "slots": [
    "w:2c8f98"
   ]
@@ -1043,8 +1043,8 @@
  {
   "id": "e:2555dc",
   "jp": "ウィッチに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Witches",
+  "status": "done",
   "slots": [
    "w:2c8fa0"
   ]
@@ -1052,8 +1052,8 @@
  {
   "id": "e:2555ec",
   "jp": "ゴーレムに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Golems",
+  "status": "done",
   "slots": [
    "w:2c8fa8"
   ]
@@ -1061,8 +1061,8 @@
  {
   "id": "e:2555fc",
   "jp": "スケルトンに弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Skeletons",
+  "status": "done",
   "slots": [
    "w:2c8fb0"
   ]
@@ -1070,8 +1070,8 @@
  {
   "id": "e:255610",
   "jp": "ドラゴン系に弱い",
-  "en": "",
-  "status": "todo",
+  "en": "Weak vs Dragons",
+  "status": "done",
   "slots": [
    "w:2c8fb8"
   ]
@@ -1079,8 +1079,8 @@
  {
   "id": "e:255624",
   "jp": "街道地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Road",
+  "status": "done",
   "slots": [
    "w:2c8fc0"
   ]
@@ -1088,8 +1088,8 @@
  {
   "id": "e:255634",
   "jp": "架橋地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Bridge",
+  "status": "done",
   "slots": [
    "w:2c8fc8"
   ]
@@ -1097,8 +1097,8 @@
  {
   "id": "e:255644",
   "jp": "草原地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Plains",
+  "status": "done",
   "slots": [
    "w:2c8fd0"
   ]
@@ -1106,8 +1106,8 @@
  {
   "id": "e:255654",
   "jp": "荒野地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Wasteland",
+  "status": "done",
   "slots": [
    "w:2c8fd8"
   ]
@@ -1115,8 +1115,8 @@
  {
   "id": "e:255664",
   "jp": "森林地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Forest",
+  "status": "done",
   "slots": [
    "w:2c8fe0"
   ]
@@ -1124,8 +1124,8 @@
  {
   "id": "e:255674",
   "jp": "砂漠地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Desert",
+  "status": "done",
   "slots": [
    "w:2c8fe8"
   ]
@@ -1133,8 +1133,8 @@
  {
   "id": "e:255684",
   "jp": "毒沼地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Poison\nSwamp",
+  "status": "done",
   "slots": [
    "w:2c8ff0"
   ]
@@ -1142,8 +1142,8 @@
  {
   "id": "e:255694",
   "jp": "海、水辺地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Sea,\nWaterside",
+  "status": "done",
   "slots": [
    "w:2c8ff8"
   ]
@@ -1151,8 +1151,8 @@
  {
   "id": "e:2556a8",
   "jp": "氷上地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good on Ice",
+  "status": "done",
   "slots": [
    "w:2c9000"
   ]
@@ -1160,8 +1160,8 @@
  {
   "id": "e:2556b8",
   "jp": "集落地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Village",
+  "status": "done",
   "slots": [
    "w:2c9008"
   ]
@@ -1169,8 +1169,8 @@
  {
   "id": "e:2556c8",
   "jp": "都市地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in City",
+  "status": "done",
   "slots": [
    "w:2c9010"
   ]
@@ -1178,8 +1178,8 @@
  {
   "id": "e:2556d8",
   "jp": "城砦地形が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Fortress",
+  "status": "done",
   "slots": [
    "w:2c9018"
   ]
@@ -1187,8 +1187,8 @@
  {
   "id": "e:2556e8",
   "jp": "街道地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad on Road",
+  "status": "done",
   "slots": [
    "w:2c9020"
   ]
@@ -1196,8 +1196,8 @@
  {
   "id": "e:2556f8",
   "jp": "架橋地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad on Bridge",
+  "status": "done",
   "slots": [
    "w:2c9028"
   ]
@@ -1205,8 +1205,8 @@
  {
   "id": "e:255708",
   "jp": "草原地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad on Plains",
+  "status": "done",
   "slots": [
    "w:2c9030"
   ]
@@ -1214,8 +1214,8 @@
  {
   "id": "e:255718",
   "jp": "荒野地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad on Wasteland",
+  "status": "done",
   "slots": [
    "w:2c9038"
   ]
@@ -1223,8 +1223,8 @@
  {
   "id": "e:255728",
   "jp": "森林地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in Forest",
+  "status": "done",
   "slots": [
    "w:2c9040"
   ]
@@ -1232,8 +1232,8 @@
  {
   "id": "e:255738",
   "jp": "砂漠地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in Desert",
+  "status": "done",
   "slots": [
    "w:2c9048"
   ]
@@ -1241,8 +1241,8 @@
  {
   "id": "e:255748",
   "jp": "毒沼地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in Poison\nSwamp",
+  "status": "done",
   "slots": [
    "w:2c9050"
   ]
@@ -1250,8 +1250,8 @@
  {
   "id": "e:255758",
   "jp": "海、水辺地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad on Sea,\nWaterside",
+  "status": "done",
   "slots": [
    "w:2c9058"
   ]
@@ -1259,8 +1259,8 @@
  {
   "id": "e:25576c",
   "jp": "氷上地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad on Ice",
+  "status": "done",
   "slots": [
    "w:2c9060"
   ]
@@ -1268,8 +1268,8 @@
  {
   "id": "e:25577c",
   "jp": "集落地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in Village",
+  "status": "done",
   "slots": [
    "w:2c9068"
   ]
@@ -1277,8 +1277,8 @@
  {
   "id": "e:25578c",
   "jp": "都市地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in City",
+  "status": "done",
   "slots": [
    "w:2c9070"
   ]
@@ -1286,8 +1286,8 @@
  {
   "id": "e:25579c",
   "jp": "城砦地形が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in Fortress",
+  "status": "done",
   "slots": [
    "w:2c9078"
   ]
@@ -1295,8 +1295,8 @@
  {
   "id": "e:2557ac",
   "jp": "移動タイプが騎馬に",
-  "en": "",
-  "status": "todo",
+  "en": "Move type: Cavalry",
+  "status": "done",
   "slots": [
    "w:2c9080"
   ]
@@ -1304,8 +1304,8 @@
  {
   "id": "e:2557c0",
   "jp": "移動タイプが飛行に",
-  "en": "",
-  "status": "todo",
+  "en": "Move type: Flying",
+  "status": "done",
   "slots": [
    "w:2c9088"
   ]
@@ -1313,8 +1313,8 @@
  {
   "id": "e:2557d4",
   "jp": "移動タイプが転移に",
-  "en": "",
-  "status": "todo",
+  "en": "Move type:\nTeleport",
+  "status": "done",
   "slots": [
    "w:2c9090"
   ]
@@ -1322,8 +1322,8 @@
  {
   "id": "e:2557e8",
   "jp": "移動タイプが竜騎に",
-  "en": "",
-  "status": "todo",
+  "en": "Move type: Dragon\nRider",
+  "status": "done",
   "slots": [
    "w:2c9098"
   ]
@@ -1331,8 +1331,8 @@
  {
   "id": "e:2557fc",
   "jp": "移動タイプが鈍足に",
-  "en": "",
-  "status": "todo",
+  "en": "Move type: Slow",
+  "status": "done",
   "slots": [
    "w:2c90a0"
   ]
@@ -1340,8 +1340,8 @@
  {
   "id": "e:255810",
   "jp": "移動タイプが水棲に",
-  "en": "",
-  "status": "todo",
+  "en": "Move type: Aquatic",
+  "status": "done",
   "slots": [
    "w:2c90a8"
   ]
@@ -1349,8 +1349,8 @@
  {
   "id": "e:255824",
   "jp": "毒沼地形を無効化",
-  "en": "",
-  "status": "todo",
+  "en": "Ignores Poison\nSwamp",
+  "status": "done",
   "slots": [
    "w:2c90b0"
   ]
@@ -1358,8 +1358,8 @@
  {
   "id": "e:255838",
   "jp": "オブジェクト破壊可",
-  "en": "",
-  "status": "todo",
+  "en": "Can destroy\nobjects",
+  "status": "done",
   "slots": [
    "w:2c90b8"
   ]
@@ -1367,8 +1367,8 @@
  {
   "id": "e:25584c",
   "jp": "消費移動力２倍",
-  "en": "",
-  "status": "todo",
+  "en": "Double move cost",
+  "status": "done",
   "slots": [
    "w:2c90c0"
   ]
@@ -1376,8 +1376,8 @@
  {
   "id": "e:25585c",
   "jp": "全地形効果に＋２０％",
-  "en": "",
-  "status": "todo",
+  "en": "+20% to all terrain",
+  "status": "done",
   "slots": [
    "w:2c90c8"
   ]
@@ -1385,8 +1385,8 @@
  {
   "id": "e:255874",
   "jp": "全地形効果に＋１０％",
-  "en": "",
-  "status": "todo",
+  "en": "+10% to all terrain",
+  "status": "done",
   "slots": [
    "w:2c90d0"
   ]
@@ -1394,8 +1394,8 @@
  {
   "id": "e:25588c",
   "jp": "全地形効果を０％",
-  "en": "",
-  "status": "todo",
+  "en": "All terrain effects\n0%",
+  "status": "done",
   "slots": [
    "w:2c90d8"
   ]
@@ -1403,8 +1403,8 @@
  {
   "id": "e:2558a0",
   "jp": "相手の地形効果０％",
-  "en": "",
-  "status": "todo",
+  "en": "Foe's terrain\neffect 0%",
+  "status": "done",
   "slots": [
    "w:2c90e0"
   ]
@@ -1412,8 +1412,8 @@
  {
   "id": "e:2558b4",
   "jp": "昼間が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Daytime",
+  "status": "done",
   "slots": [
    "w:2c90e8"
   ]
@@ -1421,8 +1421,8 @@
  {
   "id": "e:2558c0",
   "jp": "夕方が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good in Evening",
+  "status": "done",
   "slots": [
    "w:2c90f0"
   ]
@@ -1430,8 +1430,8 @@
  {
   "id": "e:2558cc",
   "jp": "夜間が得意",
-  "en": "",
-  "status": "todo",
+  "en": "Good at Night",
+  "status": "done",
   "slots": [
    "w:2c90f8"
   ]
@@ -1439,8 +1439,8 @@
  {
   "id": "e:2558d8",
   "jp": "昼間が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in Daytime",
+  "status": "done",
   "slots": [
    "w:2c9100"
   ]
@@ -1448,8 +1448,8 @@
  {
   "id": "e:2558e4",
   "jp": "夕方が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad in Evening",
+  "status": "done",
   "slots": [
    "w:2c9108"
   ]
@@ -1457,8 +1457,8 @@
  {
   "id": "e:2558f0",
   "jp": "夜間が苦手",
-  "en": "",
-  "status": "todo",
+  "en": "Bad at Night",
+  "status": "done",
   "slots": [
    "w:2c9110"
   ]
@@ -1466,8 +1466,8 @@
  {
   "id": "e:2558fc",
   "jp": "昼間は昏睡状態",
-  "en": "",
-  "status": "todo",
+  "en": "Sleeps in Daytime",
+  "status": "done",
   "slots": [
    "w:2c9118"
   ]
@@ -1475,8 +1475,8 @@
  {
   "id": "e:25590c",
   "jp": "必ずエースになれる",
-  "en": "",
-  "status": "todo",
+  "en": "Always becomes\nthe Ace",
+  "status": "done",
   "slots": [
    "w:2c9120"
   ]
@@ -1484,8 +1484,8 @@
  {
   "id": "e:255920",
   "jp": "連戦ハンデなし",
-  "en": "",
-  "status": "todo",
+  "en": "No Back-to-Back\nHandicap",
+  "status": "done",
   "slots": [
    "w:2c9128"
   ]
@@ -1493,8 +1493,8 @@
  {
   "id": "e:255930",
   "jp": "クリティカル率５０％",
-  "en": "",
-  "status": "todo",
+  "en": "Critical rate 50%",
+  "status": "done",
   "slots": [
    "w:2c9130"
   ]
@@ -3303,8 +3303,8 @@
  {
   "id": "e:256998",
   "jp": "ゴーレムを召喚する",
-  "en": "",
-  "status": "todo",
+  "en": "Summon a Golem",
+  "status": "done",
   "slots": [
    "w:2ca078"
   ]
@@ -3312,8 +3312,8 @@
  {
   "id": "e:2569ac",
   "jp": "スケルトンを召喚する",
-  "en": "",
-  "status": "todo",
+  "en": "Summon a Skeleton",
+  "status": "done",
   "slots": [
    "w:2ca07c"
   ]
@@ -3321,8 +3321,8 @@
  {
   "id": "e:2569c4",
   "jp": "敵を石化状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Turn the enemy to Stone",
+  "status": "done",
   "slots": [
    "w:2ca080"
   ]
@@ -3330,8 +3330,8 @@
  {
   "id": "e:2569d8",
   "jp": "敵を冒毒状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Poison the enemy",
+  "status": "done",
   "slots": [
    "w:2ca084"
   ]
@@ -3366,8 +3366,8 @@
  {
   "id": "e:256a48",
   "jp": "敵のヘッドを倒す",
-  "en": "",
-  "status": "todo",
+  "en": "Defeat the enemy Head",
+  "status": "done",
   "slots": [
    "w:2ca094"
   ]
@@ -3564,8 +3564,8 @@
  {
   "id": "e:256d5c",
   "jp": "敵を昏睡状態にする",
-  "en": "",
-  "status": "todo",
+  "en": "Put the enemy to Sleep",
+  "status": "done",
   "slots": [
    "w:2ca100"
   ]
@@ -3645,8 +3645,8 @@
  {
   "id": "e:256ea4",
   "jp": "敵の全ユニットが消滅",
-  "en": "",
-  "status": "todo",
+  "en": "All enemy units vanish",
+  "status": "done",
   "slots": [
    "w:2ca128"
   ]
@@ -3735,8 +3735,8 @@
  {
   "id": "e:257024",
   "jp": "ウィッチ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Witch only",
+  "status": "done",
   "slots": [
    "w:2ca150"
   ]
@@ -3774,8 +3774,8 @@
  {
   "id": "e:257068",
   "jp": "ローガン／スケルトン専用",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan/Skeleton only",
+  "status": "done",
   "slots": [
    "w:2ca15c"
   ]
@@ -3792,8 +3792,8 @@
  {
   "id": "e:2570a0",
   "jp": "ピンガー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger only",
+  "status": "done",
   "slots": [
    "w:2ca168",
    "w:2ca20c"
@@ -3820,8 +3820,8 @@
  {
   "id": "e:2570e0",
   "jp": "ウンディーネが使うと…",
-  "en": "",
-  "status": "todo",
+  "en": "If an Undine uses it...",
+  "status": "done",
   "slots": [
    "w:2ca17c"
   ]
@@ -3829,8 +3829,8 @@
  {
   "id": "e:2570f8",
   "jp": "ゴーレム専用",
-  "en": "",
-  "status": "todo",
+  "en": "Golem only",
+  "status": "done",
   "slots": [
    "w:2ca18c"
   ]
@@ -3838,8 +3838,8 @@
  {
   "id": "e:257108",
   "jp": "相手が同サイズ／同性別",
-  "en": "",
-  "status": "todo",
+  "en": "Foe same size and gender",
+  "status": "done",
   "slots": [
    "w:2ca190"
   ]
@@ -3856,8 +3856,8 @@
  {
   "id": "e:257134",
   "jp": "昼間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Daytime only",
+  "status": "done",
   "slots": [
    "w:2ca19c",
    "w:2ca1ac"
@@ -3866,8 +3866,8 @@
  {
   "id": "e:257140",
   "jp": "女性ユニオンリーダーのみ",
-  "en": "",
-  "status": "todo",
+  "en": "Female Union Leaders only",
+  "status": "done",
   "slots": [
    "w:2ca1a0"
   ]
@@ -3875,8 +3875,8 @@
  {
   "id": "e:25715c",
   "jp": "夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Night only",
+  "status": "done",
   "slots": [
    "w:2ca1a4"
   ]
@@ -3884,8 +3884,8 @@
  {
   "id": "e:257168",
   "jp": "男性ユニオンリーダーのみ",
-  "en": "",
-  "status": "todo",
+  "en": "Male Union Leaders only",
+  "status": "done",
   "slots": [
    "w:2ca1c4"
   ]
@@ -3893,8 +3893,8 @@
  {
   "id": "e:257184",
   "jp": "キーラ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Kyra only",
+  "status": "done",
   "slots": [
    "w:2ca1d4"
   ]
@@ -3911,8 +3911,8 @@
  {
   "id": "e:2571a8",
   "jp": "ガリオレッド専用",
-  "en": "",
-  "status": "todo",
+  "en": "Gariored only",
+  "status": "done",
   "slots": [
    "w:2ca1dc"
   ]
@@ -3920,8 +3920,8 @@
  {
   "id": "e:2571bc",
   "jp": "アジョー・グラフォー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo-Grafor only",
+  "status": "done",
   "slots": [
    "w:2ca1e4"
   ]
@@ -3929,8 +3929,8 @@
  {
   "id": "e:2571d8",
   "jp": "ウィルが強い者のみ",
-  "en": "",
-  "status": "todo",
+  "en": "Strong Will only",
+  "status": "done",
   "slots": [
    "w:2ca1ec",
    "w:2ca1f0",
@@ -3943,8 +3943,8 @@
  {
   "id": "e:2571ec",
   "jp": "エリーシャ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha only",
+  "status": "done",
   "slots": [
    "w:2ca204"
   ]
@@ -3952,8 +3952,8 @@
  {
   "id": "e:2571fc",
   "jp": "ルルゥ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru only",
+  "status": "done",
   "slots": [
    "w:2ca208"
   ]
@@ -3961,8 +3961,8 @@
  {
   "id": "e:257208",
   "jp": "ザザーランド専用",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland only",
+  "status": "done",
   "slots": [
    "w:2ca210"
   ]
@@ -3979,8 +3979,8 @@
  {
   "id": "e:257234",
   "jp": "ロコモコ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco only",
+  "status": "done",
   "slots": [
    "w:2ca218"
   ]
@@ -3997,8 +3997,8 @@
  {
   "id": "e:257260",
   "jp": "ラズベリー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry only",
+  "status": "done",
   "slots": [
    "w:2ca220"
   ]
@@ -4006,8 +4006,8 @@
  {
   "id": "e:257270",
   "jp": "トレイシー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Tracey only",
+  "status": "done",
   "slots": [
    "w:2ca224"
   ]
@@ -4033,8 +4033,8 @@
  {
   "id": "e:2572d8",
   "jp": "ピンガー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger only",
+  "status": "done",
   "slots": [
    "w:2ca568"
   ]
@@ -4042,8 +4042,8 @@
  {
   "id": "e:2572e8",
   "jp": "ルルゥ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru only",
+  "status": "done",
   "slots": [
    "w:2ca56c"
   ]
@@ -4051,8 +4051,8 @@
  {
   "id": "e:2572f4",
   "jp": "エリーシャ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha only",
+  "status": "done",
   "slots": [
    "w:2ca570"
   ]
@@ -4060,8 +4060,8 @@
  {
   "id": "e:257304",
   "jp": "ザザーランド専用",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland only",
+  "status": "done",
   "slots": [
    "w:2ca574"
   ]
@@ -4069,8 +4069,8 @@
  {
   "id": "e:257318",
   "jp": "ミネソタ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Minesota only",
+  "status": "done",
   "slots": [
    "w:2ca578"
   ]
@@ -4078,8 +4078,8 @@
  {
   "id": "e:257328",
   "jp": "ロコモコ専用",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco only",
+  "status": "done",
   "slots": [
    "w:2ca57c"
   ]
@@ -4087,8 +4087,8 @@
  {
   "id": "e:257338",
   "jp": "ラズベリー専用",
-  "en": "",
-  "status": "todo",
+  "en": "Raspberry only",
+  "status": "done",
   "slots": [
    "w:2ca580"
   ]
@@ -4420,8 +4420,8 @@
  {
   "id": "e:257598",
   "jp": "騎馬タイプのみ",
-  "en": "",
-  "status": "todo",
+  "en": "Cavalry Types only",
+  "status": "done",
   "slots": [
    "w:2ca614"
   ]
@@ -4564,8 +4564,8 @@
  {
   "id": "e:2576e8",
   "jp": "メイクドール",
-  "en": "",
-  "status": "todo",
+  "en": "Doll Craft",
+  "status": "done",
   "slots": [
    "w:2ca920"
   ]
@@ -4573,8 +4573,8 @@
  {
   "id": "e:2576f8",
   "jp": "ネクロゲート",
-  "en": "",
-  "status": "todo",
+  "en": "Necro Gate",
+  "status": "done",
   "slots": [
    "w:2ca924"
   ]
@@ -4582,8 +4582,8 @@
  {
   "id": "e:257708",
   "jp": "メデューサアイ",
-  "en": "",
-  "status": "todo",
+  "en": "Medusa Eye",
+  "status": "done",
   "slots": [
    "w:2ca928"
   ]
@@ -4591,8 +4591,8 @@
  {
   "id": "e:257718",
   "jp": "ポイズンブレス",
-  "en": "",
-  "status": "todo",
+  "en": "Poison Breath",
+  "status": "done",
   "slots": [
    "w:2ca92c"
   ]
@@ -4600,8 +4600,8 @@
  {
   "id": "e:257728",
   "jp": "グラヴィティカオス",
-  "en": "",
-  "status": "todo",
+  "en": "Gravity Chaos",
+  "status": "done",
   "slots": [
    "w:2ca930"
   ]
@@ -4609,8 +4609,8 @@
  {
   "id": "e:25773c",
   "jp": "アイテムブレイク",
-  "en": "",
-  "status": "todo",
+  "en": "Item Break",
+  "status": "done",
   "slots": [
    "w:2ca934"
   ]
@@ -4618,8 +4618,8 @@
  {
   "id": "e:257750",
   "jp": "スティール",
-  "en": "",
-  "status": "todo",
+  "en": "Steal",
+  "status": "done",
   "slots": [
    "w:2ca938"
   ]
@@ -4627,8 +4627,8 @@
  {
   "id": "e:25775c",
   "jp": "ブラッディクロー",
-  "en": "",
-  "status": "todo",
+  "en": "Bloody Claw",
+  "status": "done",
   "slots": [
    "w:2ca93c"
   ]
@@ -4636,8 +4636,8 @@
  {
   "id": "e:257770",
   "jp": "チャリオット",
-  "en": "",
-  "status": "todo",
+  "en": "Chariot",
+  "status": "done",
   "slots": [
    "w:2ca940"
   ]
@@ -4645,8 +4645,8 @@
  {
   "id": "e:257780",
   "jp": "シールドバリア",
-  "en": "",
-  "status": "todo",
+  "en": "Shield Barrier",
+  "status": "done",
   "slots": [
    "w:2ca944"
   ]
@@ -4654,8 +4654,8 @@
  {
   "id": "e:257790",
   "jp": "フレイム",
-  "en": "",
-  "status": "todo",
+  "en": "Flame",
+  "status": "done",
   "slots": [
    "w:2ca948"
   ]
@@ -4663,8 +4663,8 @@
  {
   "id": "e:25779c",
   "jp": "ブリザード",
-  "en": "",
-  "status": "todo",
+  "en": "Blizzard",
+  "status": "done",
   "slots": [
    "w:2ca94c"
   ]
@@ -4672,8 +4672,8 @@
  {
   "id": "e:2577a8",
   "jp": "サンダーボルト",
-  "en": "",
-  "status": "todo",
+  "en": "Thunderbolt",
+  "status": "done",
   "slots": [
    "w:2ca950"
   ]
@@ -4681,8 +4681,8 @@
  {
   "id": "e:2577b8",
   "jp": "バニッシュ",
-  "en": "",
-  "status": "todo",
+  "en": "Banish",
+  "status": "done",
   "slots": [
    "w:2ca954"
   ]
@@ -4690,8 +4690,8 @@
  {
   "id": "e:2577c4",
   "jp": "ドラゴンキラー",
-  "en": "",
-  "status": "todo",
+  "en": "Dragon Killer",
+  "status": "done",
   "slots": [
    "w:2ca958"
   ]
@@ -4699,8 +4699,8 @@
  {
   "id": "e:2577d4",
   "jp": "アースクウェイク",
-  "en": "",
-  "status": "todo",
+  "en": "Earthquake",
+  "status": "done",
   "slots": [
    "w:2ca95c"
   ]
@@ -4708,8 +4708,8 @@
  {
   "id": "e:2577e8",
   "jp": "マインドチェンジ",
-  "en": "",
-  "status": "todo",
+  "en": "Mind Change",
+  "status": "done",
   "slots": [
    "w:2ca960"
   ]
@@ -4717,8 +4717,8 @@
  {
   "id": "e:2577fc",
   "jp": "レヴォリューション",
-  "en": "",
-  "status": "todo",
+  "en": "Revolution",
+  "status": "done",
   "slots": [
    "w:2ca964"
   ]
@@ -4726,8 +4726,8 @@
  {
   "id": "e:257810",
   "jp": "ジハード",
-  "en": "",
-  "status": "todo",
+  "en": "Crusade",
+  "status": "done",
   "slots": [
    "w:2ca968"
   ]
@@ -4735,8 +4735,8 @@
  {
   "id": "e:25781c",
   "jp": "サンクチュアリ",
-  "en": "",
-  "status": "todo",
+  "en": "Sanctuary",
+  "status": "done",
   "slots": [
    "w:2ca96c"
   ]
@@ -4744,8 +4744,8 @@
  {
   "id": "e:25782c",
   "jp": "リフレッシュメント",
-  "en": "",
-  "status": "todo",
+  "en": "Refreshment",
+  "status": "done",
   "slots": [
    "w:2ca970"
   ]
@@ -4753,8 +4753,8 @@
  {
   "id": "e:257840",
   "jp": "キスオブデス",
-  "en": "",
-  "status": "todo",
+  "en": "Kiss of Death",
+  "status": "done",
   "slots": [
    "w:2ca974"
   ]
@@ -4762,8 +4762,8 @@
  {
   "id": "e:257850",
   "jp": "フォーチュン",
-  "en": "",
-  "status": "todo",
+  "en": "Fortune",
+  "status": "done",
   "slots": [
    "w:2ca978"
   ]
@@ -4771,8 +4771,8 @@
  {
   "id": "e:257860",
   "jp": "ミラージュ",
-  "en": "",
-  "status": "todo",
+  "en": "Mirage",
+  "status": "done",
   "slots": [
    "w:2ca97c"
   ]
@@ -4780,8 +4780,8 @@
  {
   "id": "e:25786c",
   "jp": "バンシーズクライ",
-  "en": "",
-  "status": "todo",
+  "en": "Banshee's Cry",
+  "status": "done",
   "slots": [
    "w:2ca980"
   ]
@@ -4789,8 +4789,8 @@
  {
   "id": "e:257880",
   "jp": "アイヴィウィップ",
-  "en": "",
-  "status": "todo",
+  "en": "Ivy Whip",
+  "status": "done",
   "slots": [
    "w:2ca984"
   ]
@@ -4798,8 +4798,8 @@
  {
   "id": "e:257894",
   "jp": "サンドストーム",
-  "en": "",
-  "status": "todo",
+  "en": "Sand Storm",
+  "status": "done",
   "slots": [
    "w:2ca988"
   ]
@@ -4807,8 +4807,8 @@
  {
   "id": "e:2578a4",
   "jp": "マントラップ",
-  "en": "",
-  "status": "todo",
+  "en": "Mantrap",
+  "status": "done",
   "slots": [
    "w:2ca98c"
   ]
@@ -4816,8 +4816,8 @@
  {
   "id": "e:2578b4",
   "jp": "ロックフォール",
-  "en": "",
-  "status": "todo",
+  "en": "Rockfall",
+  "status": "done",
   "slots": [
    "w:2ca990"
   ]
@@ -4825,8 +4825,8 @@
  {
   "id": "e:2578c4",
   "jp": "エースガード",
-  "en": "",
-  "status": "todo",
+  "en": "Ace Guard",
+  "status": "done",
   "slots": [
    "w:2ca994"
   ]
@@ -4834,8 +4834,8 @@
  {
   "id": "e:2578d4",
   "jp": "ジェノサイド",
-  "en": "",
-  "status": "todo",
+  "en": "Genocide",
+  "status": "done",
   "slots": [
    "w:2ca998"
   ]
@@ -4843,8 +4843,8 @@
  {
   "id": "e:2578e4",
   "jp": "リィンカーネーション",
-  "en": "",
-  "status": "todo",
+  "en": "Reincarnation",
+  "status": "done",
   "slots": [
    "w:2ca99c"
   ]
@@ -4852,8 +4852,8 @@
  {
   "id": "e:2578fc",
   "jp": "リヴェリオン",
-  "en": "",
-  "status": "todo",
+  "en": "Angelic Thunder",
+  "status": "done",
   "slots": [
    "w:2ca9a0"
   ]
@@ -4861,8 +4861,8 @@
  {
   "id": "e:25790c",
   "jp": "オブリヴィアスドーン",
-  "en": "",
-  "status": "todo",
+  "en": "Oblivious Dawn",
+  "status": "done",
   "slots": [
    "w:2ca9a4"
   ]
@@ -4870,8 +4870,8 @@
  {
   "id": "e:257924",
   "jp": "コーマカルマ",
-  "en": "",
-  "status": "todo",
+  "en": "Coma Karma",
+  "status": "done",
   "slots": [
    "w:2ca9a8"
   ]
@@ -4879,8 +4879,8 @@
  {
   "id": "e:257934",
   "jp": "ジャッジメントゼロ",
-  "en": "",
-  "status": "todo",
+  "en": "Judgment Zero",
+  "status": "done",
   "slots": [
    "w:2ca9ac"
   ]
@@ -4897,8 +4897,8 @@
  {
   "id": "e:257954",
   "jp": "インサニティ",
-  "en": "",
-  "status": "todo",
+  "en": "Insanity",
+  "status": "done",
   "slots": [
    "w:2ca9b4"
   ]
@@ -4906,8 +4906,8 @@
  {
   "id": "e:257964",
   "jp": "ヴァイス",
-  "en": "",
-  "status": "todo",
+  "en": "Vise",
+  "status": "done",
   "slots": [
    "w:2ca9b8"
   ]
@@ -4915,8 +4915,8 @@
  {
   "id": "e:257970",
   "jp": "タイダルウェイブ",
-  "en": "",
-  "status": "todo",
+  "en": "Tidal Wave",
+  "status": "done",
   "slots": [
    "w:2ca9bc"
   ]
@@ -4924,8 +4924,8 @@
  {
   "id": "e:257984",
   "jp": "ヴォルカノン",
-  "en": "",
-  "status": "todo",
+  "en": "Volcanon",
+  "status": "done",
   "slots": [
    "w:2ca9c0"
   ]
@@ -4933,8 +4933,8 @@
  {
   "id": "e:257994",
   "jp": "グランドスピアー",
-  "en": "",
-  "status": "todo",
+  "en": "Grand Spear",
+  "status": "done",
   "slots": [
    "w:2ca9c4"
   ]
@@ -4942,8 +4942,8 @@
  {
   "id": "e:2579a8",
   "jp": "バーストウィング",
-  "en": "",
-  "status": "todo",
+  "en": "Burst Wing",
+  "status": "done",
   "slots": [
    "w:2ca9c8"
   ]
@@ -4951,8 +4951,8 @@
  {
   "id": "e:2579bc",
   "jp": "ホーリー",
-  "en": "",
-  "status": "todo",
+  "en": "Holy",
+  "status": "done",
   "slots": [
    "w:2ca9cc"
   ]
@@ -4960,8 +4960,8 @@
  {
   "id": "e:2579c8",
   "jp": "メギド",
-  "en": "",
-  "status": "todo",
+  "en": "Megiddo",
+  "status": "done",
   "slots": [
    "w:2ca9d0"
   ]
@@ -4969,8 +4969,8 @@
  {
   "id": "e:2579d0",
   "jp": "フューゼレイド",
-  "en": "",
-  "status": "todo",
+  "en": "Fusillade",
+  "status": "done",
   "slots": [
    "w:2ca9d4"
   ]
@@ -4978,8 +4978,8 @@
  {
   "id": "e:2579e0",
   "jp": "コウアレス",
-  "en": "",
-  "status": "todo",
+  "en": "Cowardless",
+  "status": "done",
   "slots": [
    "w:2ca9d8"
   ]
@@ -4987,8 +4987,8 @@
  {
   "id": "e:2579ec",
   "jp": "タイラント",
-  "en": "",
-  "status": "todo",
+  "en": "Tyrant",
+  "status": "done",
   "slots": [
    "w:2ca9dc"
   ]
@@ -4996,8 +4996,8 @@
  {
   "id": "e:2579f8",
   "jp": "ドレッドノート",
-  "en": "",
-  "status": "todo",
+  "en": "Dreadnought",
+  "status": "done",
   "slots": [
    "w:2ca9e0"
   ]
@@ -5005,8 +5005,8 @@
  {
   "id": "e:257a08",
   "jp": "セルヴェイション",
-  "en": "",
-  "status": "todo",
+  "en": "Salvation",
+  "status": "done",
   "slots": [
    "w:2ca9e4"
   ]
@@ -5014,8 +5014,8 @@
  {
   "id": "e:257a1c",
   "jp": "メテオ",
-  "en": "",
-  "status": "todo",
+  "en": "Meteor",
+  "status": "done",
   "slots": [
    "w:2ca9e8"
   ]
@@ -5023,8 +5023,8 @@
  {
   "id": "e:257a24",
   "jp": "マジックシールド",
-  "en": "",
-  "status": "todo",
+  "en": "Magic Shield",
+  "status": "done",
   "slots": [
    "w:2ca9ec"
   ]
@@ -5032,8 +5032,8 @@
  {
   "id": "e:257a38",
   "jp": "クルーシフィクション",
-  "en": "",
-  "status": "todo",
+  "en": "Crucifixion",
+  "status": "done",
   "slots": [
    "w:2ca9f0"
   ]
@@ -5041,8 +5041,8 @@
  {
   "id": "e:257a50",
   "jp": "トリックスター",
-  "en": "",
-  "status": "todo",
+  "en": "Trickster",
+  "status": "done",
   "slots": [
    "w:2ca9f4"
   ]
@@ -5050,8 +5050,8 @@
  {
   "id": "e:257a60",
   "jp": "ダイヤモンドダスト",
-  "en": "",
-  "status": "todo",
+  "en": "Diamond Dust",
+  "status": "done",
   "slots": [
    "w:2ca9f8"
   ]
@@ -5671,8 +5671,8 @@
  {
   "id": "e:258e20",
   "jp": "隊の士気が回復しました！",
-  "en": "",
-  "status": "todo",
+  "en": "The unit's morale has been restored!",
+  "status": "done",
   "slots": [
    "w:2cb13c"
   ]

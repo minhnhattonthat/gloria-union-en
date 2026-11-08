@@ -42,8 +42,8 @@
  {
   "id": "e:1ca4c8",
   "jp": "カードがありません",
-  "en": "",
-  "status": "todo",
+  "en": "No cards",
+  "status": "done",
   "slots": [
    "i:7d90:7db4"
   ]

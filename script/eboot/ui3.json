@@ -3417,8 +3417,8 @@
  {
   "id": "e:286654",
   "jp": "チェイサー",
-  "en": "",
-  "status": "todo",
+  "en": "Chaser",
+  "status": "done",
   "slots": [
    "w:2f757c"
   ]
@@ -3435,8 +3435,8 @@
  {
   "id": "e:2866a8",
   "jp": "ヴァルキリー",
-  "en": "",
-  "status": "todo",
+  "en": "Valkyrie",
+  "status": "done",
   "slots": [
    "w:2f7598"
   ]
@@ -3453,8 +3453,8 @@
  {
   "id": "e:286710",
   "jp": "ナイト",
-  "en": "",
-  "status": "todo",
+  "en": "Knight",
+  "status": "done",
   "slots": [
    "w:2f75b4"
   ]
@@ -3471,8 +3471,8 @@
  {
   "id": "e:286770",
   "jp": "ウンディーネ",
-  "en": "",
-  "status": "todo",
+  "en": "Undine",
+  "status": "done",
   "slots": [
    "w:2f75d0"
   ]
@@ -3489,8 +3489,8 @@
  {
   "id": "e:2867d4",
   "jp": "パイレーツ",
-  "en": "",
-  "status": "todo",
+  "en": "Pirates",
+  "status": "done",
   "slots": [
    "w:2f75ec"
   ]
@@ -3507,8 +3507,8 @@
  {
   "id": "e:286834",
   "jp": "グリフライダー",
-  "en": "",
-  "status": "todo",
+  "en": "Griffon Rider",
+  "status": "done",
   "slots": [
    "w:2f7608"
   ]
@@ -3525,8 +3525,8 @@
  {
   "id": "e:286888",
   "jp": "ガンナー",
-  "en": "",
-  "status": "todo",
+  "en": "Gunner",
+  "status": "done",
   "slots": [
    "w:2f7624"
   ]
@@ -3543,8 +3543,8 @@
  {
   "id": "e:2868e8",
   "jp": "スナイパー",
-  "en": "",
-  "status": "todo",
+  "en": "Sniper",
+  "status": "done",
   "slots": [
    "w:2f7640"
   ]
@@ -3561,8 +3561,8 @@
  {
   "id": "e:28694c",
   "jp": "ネクロマンサー",
-  "en": "",
-  "status": "todo",
+  "en": "Necromancer",
+  "status": "done",
   "slots": [
    "w:2f765c"
   ]
@@ -3579,8 +3579,8 @@
  {
   "id": "e:2869a4",
   "jp": "ウィッチ",
-  "en": "",
-  "status": "todo",
+  "en": "Witch",
+  "status": "done",
   "slots": [
    "w:2f7678"
   ]
@@ -3633,8 +3633,8 @@
  {
   "id": "e:286aac",
   "jp": "アックスバトラー",
-  "en": "",
-  "status": "todo",
+  "en": "Axe Battler",
+  "status": "done",
   "slots": [
    "w:2f76cc"
   ]
@@ -3651,8 +3651,8 @@
  {
   "id": "e:286b08",
   "jp": "セイラー",
-  "en": "",
-  "status": "todo",
+  "en": "Sailor",
+  "status": "done",
   "slots": [
    "w:2f76e8"
   ]
@@ -3669,8 +3669,8 @@
  {
   "id": "e:286b60",
   "jp": "パラディン",
-  "en": "",
-  "status": "todo",
+  "en": "Paladin",
+  "status": "done",
   "slots": [
    "w:2f7704"
   ]
@@ -3687,8 +3687,8 @@
  {
   "id": "e:286bbc",
   "jp": "ゼパール",
-  "en": "",
-  "status": "todo",
+  "en": "Zepar",
+  "status": "done",
   "slots": [
    "w:2f7720"
   ]
@@ -3705,8 +3705,8 @@
  {
   "id": "e:286c18",
   "jp": "フォルネウス",
-  "en": "",
-  "status": "todo",
+  "en": "Forneus",
+  "status": "done",
   "slots": [
    "w:2f773c"
   ]
@@ -3723,8 +3723,8 @@
  {
   "id": "e:286c7c",
   "jp": "アンドラス",
-  "en": "",
-  "status": "todo",
+  "en": "Andras",
+  "status": "done",
   "slots": [
    "w:2f7758"
   ]
@@ -3741,8 +3741,8 @@
  {
   "id": "e:286cdc",
   "jp": "レラージュ",
-  "en": "",
-  "status": "todo",
+  "en": "Leraje",
+  "status": "done",
   "slots": [
    "w:2f7774"
   ]
@@ -3759,8 +3759,8 @@
  {
   "id": "e:286d38",
   "jp": "エリゴル",
-  "en": "",
-  "status": "todo",
+  "en": "Eligor",
+  "status": "done",
   "slots": [
    "w:2f7790"
   ]

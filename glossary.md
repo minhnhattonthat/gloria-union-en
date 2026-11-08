@@ -181,5 +181,19 @@ symbols), ×タイプ/＋タイプ 'X Type'/'+ Type', 先鋒/後続/殿軍 vangu
 (ステータス異常): 冒毒 Poison, 呪縛 Curse, 昏睡 Sleep, 炎上 Ablaze, マヒ Paralysis, 鈍足 Slow, 石化 Stone, 火傷 Burn;
 出撃 Sortie, 砲撃 Bombard, マップ砲撃 Map Bombardment, 支援砲撃 Support Bombardment; 昼間/夕方/夜間 Day/Evening/Night,
 霧 Fog; 剣兵/槍兵/斧兵/杖兵/銃兵 sword/spear/axe/staff/gun unit, 歩行 on foot, 飛行 flying. UI batches use these.
+Yggdra Union card characters (official USA spellings, via the Blaze Union repo; `tools/sister.py bNNN` prints its
+English for every identical JP line: reuse it unless the glossary says otherwise): 傀儡師エクシール Puppet Master Exthiel,
+屍術師ネルダ The Necromancer Gnelda, 咎人ラウネ Luane the Condemned, 復讐のバルダック Baldack the Avenger, 堕天のエイミア
+Aymia the Fallen, 伝説のホーク The Legendary Hawk, 風魔サエザル Saezar the Wind Demon, 赤月の悪魔アノン Anon of the Red
+Moon, 鋼鉄騎士ガラド Gallad, the Steel Knight, 護人ハシャハティ Hasha Hatti the Protector, 大魔導マゼンデ Masende, the High
+Sorceress, 氷葬のエンリュケ Ice Crusher Enreuke, 天空のルキオン Ruquion of the Heavens, 聖アスタ＝ナレフ San Asta Narev,
+竜殺しの英雄ギル Dragon Slaying Gill, 怒りの巨人ドークス Doekes, Lord of Rage, 双生のアリステラ Gemini Aristella, 戦女神
+ニルヴァーナ Nirvana, Goddess of Battle, 創生のパルティナ Paltina the Creator, 半獣の乙女ラクシミ Laksimi the Half-Beast,
+聖泉の精霊キュリン Cullin Fairy of the Holy Spring, 闇の女帝ヴァネッサ Vanessa, Empress of Darkness, 占師パスラハ Vasuraha
+the Beholder, 夢見のルビナ Rubina the Dreamer, 葬送のイオナ Iona the Gravedigger, 樹木の精霊ドリアデ Dryad, Nymph of the
+Woods, 砂漠の番人ラーサ Lhasa, Guardian of the Desert, 魔性のエンドメイラ Endomayla the Enchantress, 小悪魔リップフェイク
+Ripfaike the Devilish, 獅子王アレムロンド Lion King Allemronde, 煉獄の魔竜ブロンガ Brongaa, Dragon of Purgatory, 名を奪われ
+し天使 The Nameless Angel, 天使長フラウヴェル The Seraph Flauvel, 暁のゾイエック Daybreak Zoyeck, 灰被りのマイメイエ Mimeye
+of the Ashes, 告死天使キュルケ Grim Angel Kirke; Blaze Union's own: 狂風のネルガー Nergar, 加護のレティオル Retiol.
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)

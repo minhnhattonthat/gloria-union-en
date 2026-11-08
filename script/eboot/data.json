@@ -184,8 +184,8 @@
  {
   "id": "e:2bc39a",
   "jp": "嬢ちゃんが襲われてるぜ？\n助けるか？",
-  "en": "",
-  "status": "todo",
+  "en": "A girl's bein' attacked, ya\nknow? Gonna help her?",
+  "status": "done",
   "slots": [
    "w:2bc658"
   ]
@@ -193,8 +193,8 @@
  {
   "id": "e:2bc3be",
   "jp": "あの島、かなりヤベェ所だな。\n調べてみるか。",
-  "en": "",
-  "status": "todo",
+  "en": "That island's real bad news.\nWanna check it out?",
+  "status": "done",
   "slots": [
    "w:2bc674"
   ]
@@ -202,8 +202,8 @@
  {
   "id": "e:2bc3ea",
   "jp": "生贄の儀式が行われてるな……\nお前ならどうする",
-  "en": "",
-  "status": "todo",
+  "en": "There's a sacrifice ritual\ngoin' on... What'll ya do?",
+  "status": "done",
   "slots": [
    "w:2bc690"
   ]
@@ -211,8 +211,8 @@
  {
   "id": "e:2bc418",
   "jp": "黒の牙の傘下の海賊がいるな…\n蹴散らすぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Pirates under the Black\nFang... Let's scatter 'em!",
+  "status": "done",
   "slots": [
    "w:2bc6ac"
   ]
@@ -220,8 +220,8 @@
  {
   "id": "e:2bc442",
   "jp": "お宝か、街の平和か。\n好きな方を選べ！",
-  "en": "",
-  "status": "todo",
+  "en": "Treasure, or the town's\npeace? Pick one, ya hear!",
+  "status": "done",
   "slots": [
    "w:2bc6c8"
   ]
@@ -229,8 +229,8 @@
  {
   "id": "e:2bc468",
   "jp": "あの樽のどれかに宝が入ってる\n見つけ出すぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "One of those barrels has\ntreasure in it. Let's find it!",
+  "status": "done",
   "slots": [
    "w:2bc6e4"
   ]
@@ -238,8 +238,8 @@
  {
   "id": "e:2bc494",
   "jp": "海ゴブリンを探し出せ！\n宝への近道だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Find the Sea Goblins!\nShortcut to treasure!",
+  "status": "done",
   "slots": [
    "w:2bc700"
   ]
@@ -247,8 +247,8 @@
  {
   "id": "e:2bc4ba",
   "jp": "昔、ここで奴と戦ったんだよな\n思い出すぜぇ……",
-  "en": "",
-  "status": "todo",
+  "en": "I fought him here, way back.\nBrings back memories...",
+  "status": "done",
   "slots": [
    "w:2bc71c"
   ]
@@ -256,8 +256,8 @@
  {
   "id": "e:2bc4e8",
   "jp": "妙な気配がするな……。\n気をつけろよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Something feels weird\nhere... Watch yourself.",
+  "status": "done",
   "slots": [
    "w:2bc738",
    "w:2bc818"
@@ -266,8 +266,8 @@
  {
   "id": "e:2bc50e",
   "jp": "ルキア皇国の連中がいやがる！\n突破するぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire's lot are\nhere! Let's break through!",
+  "status": "done",
   "slots": [
    "w:2bc754"
   ]
@@ -275,8 +275,8 @@
  {
   "id": "e:2bc538",
   "jp": "あの島にローガンがいるらしい\n行ってみるか？",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan's on that island, they\nsay. Wanna go see?",
+  "status": "done",
   "slots": [
    "w:2bc770"
   ]
@@ -284,8 +284,8 @@
  {
   "id": "e:2bc564",
   "jp": "変な男に気をつけろよ？\n最近多いからな。",
-  "en": "",
-  "status": "todo",
+  "en": "Watch out for weird guys,\nokay? Lotta them lately.",
+  "status": "done",
   "slots": [
    "w:2bc78c"
   ]
@@ -293,8 +293,8 @@
  {
   "id": "e:2bc58c",
   "jp": "女が男に追われてるな……。\n助ける、か？",
-  "en": "",
-  "status": "todo",
+  "en": "Some guy's chasin' a\nwoman... Help her, maybe?",
+  "status": "done",
   "slots": [
    "w:2bc7a8"
   ]
@@ -302,8 +302,8 @@
  {
   "id": "e:2bc5b4",
   "jp": "腐海都市シャンティエか……。\n覚悟はいいな？",
-  "en": "",
-  "status": "todo",
+  "en": "Rotting Sea City Chantier...\nYa ready for this?",
+  "status": "done",
   "slots": [
    "w:2bc7c4"
   ]
@@ -311,8 +311,8 @@
  {
   "id": "e:2bc5e0",
   "jp": "目下戦争中の島だな。\n助力してみるか？",
-  "en": "",
-  "status": "todo",
+  "en": "This island's in the middle of\na war. Wanna lend a hand?",
+  "status": "done",
   "slots": [
    "w:2bc7e0"
   ]
@@ -320,8 +320,8 @@
  {
   "id": "e:2bc606",
   "jp": "ここの悪霊は人を襲うらしいな\nやられるなよ？",
-  "en": "",
-  "status": "todo",
+  "en": "The evil spirits here attack\npeople. Don't get got, okay?",
+  "status": "done",
   "slots": [
    "w:2bc7fc"
   ]
@@ -329,8 +329,8 @@
  {
   "id": "e:2bc632",
   "jp": "このシナリオでよろしいですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Choose this scenario?",
+  "status": "done",
   "slots": [
    "i:877f8:87800"
   ]
@@ -338,8 +338,8 @@
  {
   "id": "e:2bc9a8",
   "jp": "自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "",
-  "status": "todo",
+  "en": "Works if own TEC >= foe\nGEN",
+  "status": "done",
   "slots": [
    "w:2bca44",
    "w:2bca50",
@@ -351,8 +351,8 @@
  {
   "id": "e:2bc9c1",
   "jp": "エースタイプが合えばＯＫ",
-  "en": "",
-  "status": "todo",
+  "en": "OK if Ace Type matches",
+  "status": "done",
   "slots": [
    "w:2bca48",
    "w:2bca60",
@@ -368,8 +368,8 @@
  {
   "id": "e:2bc9da",
   "jp": "昼間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Daytime only",
+  "status": "done",
   "slots": [
    "w:2bcb14",
    "w:2bcb44"
@@ -378,8 +378,8 @@
  {
   "id": "e:2bc9e3",
   "jp": "夜間限定",
-  "en": "",
-  "status": "todo",
+  "en": "Night only",
+  "status": "done",
   "slots": [
    "w:2bcb2c"
   ]
@@ -387,8 +387,8 @@
  {
   "id": "e:2bc9ec",
   "jp": "効果持続時間＝短い",
-  "en": "",
-  "status": "todo",
+  "en": "Effect lasts: Short",
+  "status": "done",
   "slots": [
    "w:2bca98"
   ]
@@ -396,8 +396,8 @@
  {
   "id": "e:2bc9ff",
   "jp": "効果持続時間＝普通",
-  "en": "",
-  "status": "todo",
+  "en": "Effect lasts: Normal",
+  "status": "done",
   "slots": [
    "w:2bcad4",
    "w:2bcb4c",
@@ -407,8 +407,8 @@
  {
   "id": "e:2bca12",
   "jp": "効果持続時間＝長い",
-  "en": "",
-  "status": "todo",
+  "en": "Effect lasts: Long",
+  "status": "done",
   "slots": [
    "w:2bcb34"
   ]
@@ -416,8 +416,8 @@
  {
   "id": "e:2bccb0",
   "jp": "メイクドール",
-  "en": "",
-  "status": "todo",
+  "en": "Doll Craft",
+  "status": "done",
   "slots": [
    "w:2bcfcc"
   ]
@@ -425,8 +425,8 @@
  {
   "id": "e:2bccbd",
   "jp": "ネクロゲート",
-  "en": "",
-  "status": "todo",
+  "en": "Necro Gate",
+  "status": "done",
   "slots": [
    "w:2bcfd8"
   ]
@@ -434,8 +434,8 @@
  {
   "id": "e:2bccca",
   "jp": "メデューサアイ",
-  "en": "",
-  "status": "todo",
+  "en": "Medusa Eye",
+  "status": "done",
   "slots": [
    "w:2bcfe4"
   ]
@@ -443,8 +443,8 @@
  {
   "id": "e:2bccd9",
   "jp": "ポイズンブレス",
-  "en": "",
-  "status": "todo",
+  "en": "Poison Breath",
+  "status": "done",
   "slots": [
    "w:2bcff0"
   ]
@@ -452,8 +452,8 @@
  {
   "id": "e:2bcce8",
   "jp": "グラヴィティカオス",
-  "en": "",
-  "status": "todo",
+  "en": "Gravity Chaos",
+  "status": "done",
   "slots": [
    "w:2bcffc"
   ]
@@ -461,8 +461,8 @@
  {
   "id": "e:2bccfb",
   "jp": "アイテムブレイク",
-  "en": "",
-  "status": "todo",
+  "en": "Item Break",
+  "status": "done",
   "slots": [
    "w:2bd008"
   ]
@@ -470,8 +470,8 @@
  {
   "id": "e:2bcd0c",
   "jp": "スティール",
-  "en": "",
-  "status": "todo",
+  "en": "Steal",
+  "status": "done",
   "slots": [
    "w:2bd014"
   ]
@@ -479,8 +479,8 @@
  {
   "id": "e:2bcd17",
   "jp": "ブラッディクロー",
-  "en": "",
-  "status": "todo",
+  "en": "Bloody Claw",
+  "status": "done",
   "slots": [
    "w:2bd020"
   ]
@@ -488,8 +488,8 @@
  {
   "id": "e:2bcd28",
   "jp": "チャリオット",
-  "en": "",
-  "status": "todo",
+  "en": "Chariot",
+  "status": "done",
   "slots": [
    "w:2bd02c"
   ]
@@ -497,8 +497,8 @@
  {
   "id": "e:2bcd35",
   "jp": "シールドバリア",
-  "en": "",
-  "status": "todo",
+  "en": "Shield Barrier",
+  "status": "done",
   "slots": [
    "w:2bd038"
   ]
@@ -506,8 +506,8 @@
  {
   "id": "e:2bcd44",
   "jp": "フレイム",
-  "en": "",
-  "status": "todo",
+  "en": "Flame",
+  "status": "done",
   "slots": [
    "w:2bd044"
   ]
@@ -515,8 +515,8 @@
  {
   "id": "e:2bcd4d",
   "jp": "ブリザード",
-  "en": "",
-  "status": "todo",
+  "en": "Blizzard",
+  "status": "done",
   "slots": [
    "w:2bd050"
   ]
@@ -524,8 +524,8 @@
  {
   "id": "e:2bcd58",
   "jp": "サンダーボルト",
-  "en": "",
-  "status": "todo",
+  "en": "Thunderbolt",
+  "status": "done",
   "slots": [
    "w:2bd05c"
   ]
@@ -533,8 +533,8 @@
  {
   "id": "e:2bcd67",
   "jp": "バニッシュ",
-  "en": "",
-  "status": "todo",
+  "en": "Banish",
+  "status": "done",
   "slots": [
    "w:2bd068"
   ]
@@ -542,8 +542,8 @@
  {
   "id": "e:2bcd72",
   "jp": "ドラゴンキラー",
-  "en": "",
-  "status": "todo",
+  "en": "Dragon Killer",
+  "status": "done",
   "slots": [
    "w:2bd074"
   ]
@@ -551,8 +551,8 @@
  {
   "id": "e:2bcd81",
   "jp": "アースクウェイク",
-  "en": "",
-  "status": "todo",
+  "en": "Earthquake",
+  "status": "done",
   "slots": [
    "w:2bd080"
   ]
@@ -560,8 +560,8 @@
  {
   "id": "e:2bcd92",
   "jp": "マインドチェンジ",
-  "en": "",
-  "status": "todo",
+  "en": "Mind Change",
+  "status": "done",
   "slots": [
    "w:2bd08c"
   ]
@@ -569,8 +569,8 @@
  {
   "id": "e:2bcda3",
   "jp": "レヴォリューション",
-  "en": "",
-  "status": "todo",
+  "en": "Revolution",
+  "status": "done",
   "slots": [
    "w:2bd098"
   ]
@@ -578,8 +578,8 @@
  {
   "id": "e:2bcdb6",
   "jp": "ジハード",
-  "en": "",
-  "status": "todo",
+  "en": "Crusade",
+  "status": "done",
   "slots": [
    "w:2bd0a4"
   ]
@@ -587,8 +587,8 @@
  {
   "id": "e:2bcdbf",
   "jp": "サンクチュアリ",
-  "en": "",
-  "status": "todo",
+  "en": "Sanctuary",
+  "status": "done",
   "slots": [
    "w:2bd0b0"
   ]
@@ -596,8 +596,8 @@
  {
   "id": "e:2bcdce",
   "jp": "リフレッシュメント",
-  "en": "",
-  "status": "todo",
+  "en": "Refreshment",
+  "status": "done",
   "slots": [
    "w:2bd0bc"
   ]
@@ -605,8 +605,8 @@
  {
   "id": "e:2bcde1",
   "jp": "キスオブデス",
-  "en": "",
-  "status": "todo",
+  "en": "Kiss of Death",
+  "status": "done",
   "slots": [
    "w:2bd0c8"
   ]
@@ -614,8 +614,8 @@
  {
   "id": "e:2bcdee",
   "jp": "フォーチュン",
-  "en": "",
-  "status": "todo",
+  "en": "Fortune",
+  "status": "done",
   "slots": [
    "w:2bd0d4"
   ]
@@ -623,8 +623,8 @@
  {
   "id": "e:2bcdfb",
   "jp": "ミラージュ",
-  "en": "",
-  "status": "todo",
+  "en": "Mirage",
+  "status": "done",
   "slots": [
    "w:2bd0e0"
   ]
@@ -632,8 +632,8 @@
  {
   "id": "e:2bce06",
   "jp": "バンシーズクライ",
-  "en": "",
-  "status": "todo",
+  "en": "Banshee's Cry",
+  "status": "done",
   "slots": [
    "w:2bd0ec"
   ]
@@ -641,8 +641,8 @@
  {
   "id": "e:2bce17",
   "jp": "アイヴィウィップ",
-  "en": "",
-  "status": "todo",
+  "en": "Ivy Whip",
+  "status": "done",
   "slots": [
    "w:2bd0f8"
   ]
@@ -650,8 +650,8 @@
  {
   "id": "e:2bce28",
   "jp": "サンドストーム",
-  "en": "",
-  "status": "todo",
+  "en": "Sand Storm",
+  "status": "done",
   "slots": [
    "w:2bd104"
   ]
@@ -659,8 +659,8 @@
  {
   "id": "e:2bce37",
   "jp": "マントラップ",
-  "en": "",
-  "status": "todo",
+  "en": "Mantrap",
+  "status": "done",
   "slots": [
    "w:2bd110"
   ]
@@ -668,8 +668,8 @@
  {
   "id": "e:2bce44",
   "jp": "ロックフォール",
-  "en": "",
-  "status": "todo",
+  "en": "Rockfall",
+  "status": "done",
   "slots": [
    "w:2bd11c"
   ]
@@ -677,8 +677,8 @@
  {
   "id": "e:2bce53",
   "jp": "エースガード",
-  "en": "",
-  "status": "todo",
+  "en": "Ace Guard",
+  "status": "done",
   "slots": [
    "w:2bd128"
   ]
@@ -686,8 +686,8 @@
  {
   "id": "e:2bce60",
   "jp": "ジェノサイド",
-  "en": "",
-  "status": "todo",
+  "en": "Genocide",
+  "status": "done",
   "slots": [
    "w:2bd134"
   ]
@@ -695,8 +695,8 @@
  {
   "id": "e:2bce6d",
   "jp": "リィンカーネーション",
-  "en": "",
-  "status": "todo",
+  "en": "Reincarnation",
+  "status": "done",
   "slots": [
    "w:2bd140"
   ]
@@ -704,8 +704,8 @@
  {
   "id": "e:2bce82",
   "jp": "リヴェリオン",
-  "en": "",
-  "status": "todo",
+  "en": "Angelic Thunder",
+  "status": "done",
   "slots": [
    "w:2bd14c"
   ]
@@ -713,8 +713,8 @@
  {
   "id": "e:2bce8f",
   "jp": "オブリヴィアスドーン",
-  "en": "",
-  "status": "todo",
+  "en": "Oblivious Dawn",
+  "status": "done",
   "slots": [
    "w:2bd158"
   ]
@@ -722,8 +722,8 @@
  {
   "id": "e:2bcea4",
   "jp": "コーマカルマ",
-  "en": "",
-  "status": "todo",
+  "en": "Coma Karma",
+  "status": "done",
   "slots": [
    "w:2bd164"
   ]
@@ -731,8 +731,8 @@
  {
   "id": "e:2bceb1",
   "jp": "ジャッジメントゼロ",
-  "en": "",
-  "status": "todo",
+  "en": "Judgment Zero",
+  "status": "done",
   "slots": [
    "w:2bd170"
   ]
@@ -740,8 +740,8 @@
  {
   "id": "e:2bcec4",
   "jp": "ラウーガー",
-  "en": "",
-  "status": "todo",
+  "en": "Rauher",
+  "status": "done",
   "slots": [
    "w:2bd17c"
   ]
@@ -749,8 +749,8 @@
  {
   "id": "e:2bcecf",
   "jp": "インサニティ",
-  "en": "",
-  "status": "todo",
+  "en": "Insanity",
+  "status": "done",
   "slots": [
    "w:2bd188"
   ]
@@ -758,8 +758,8 @@
  {
   "id": "e:2bcedc",
   "jp": "ヴァイス",
-  "en": "",
-  "status": "todo",
+  "en": "Vise",
+  "status": "done",
   "slots": [
    "w:2bd194"
   ]
@@ -767,8 +767,8 @@
  {
   "id": "e:2bcee5",
   "jp": "タイダルウェイブ",
-  "en": "",
-  "status": "todo",
+  "en": "Tidal Wave",
+  "status": "done",
   "slots": [
    "w:2bd1a0"
   ]
@@ -776,8 +776,8 @@
  {
   "id": "e:2bcef6",
   "jp": "ヴォルカノン",
-  "en": "",
-  "status": "todo",
+  "en": "Volcanon",
+  "status": "done",
   "slots": [
    "w:2bd1ac"
   ]
@@ -785,8 +785,8 @@
  {
   "id": "e:2bcf03",
   "jp": "グランドスピアー",
-  "en": "",
-  "status": "todo",
+  "en": "Grand Spear",
+  "status": "done",
   "slots": [
    "w:2bd1b8"
   ]
@@ -794,8 +794,8 @@
  {
   "id": "e:2bcf14",
   "jp": "バーストウィング",
-  "en": "",
-  "status": "todo",
+  "en": "Burst Wing",
+  "status": "done",
   "slots": [
    "w:2bd1c4"
   ]
@@ -803,8 +803,8 @@
  {
   "id": "e:2bcf25",
   "jp": "ホーリー",
-  "en": "",
-  "status": "todo",
+  "en": "Holy",
+  "status": "done",
   "slots": [
    "w:2bd1d0"
   ]
@@ -812,8 +812,8 @@
  {
   "id": "e:2bcf2e",
   "jp": "メギド",
-  "en": "",
-  "status": "todo",
+  "en": "Megiddo",
+  "status": "done",
   "slots": [
    "w:2bd1dc"
   ]
@@ -821,8 +821,8 @@
  {
   "id": "e:2bcf35",
   "jp": "フューゼレイド",
-  "en": "",
-  "status": "todo",
+  "en": "Fusillade",
+  "status": "done",
   "slots": [
    "w:2bd1e8"
   ]
@@ -830,8 +830,8 @@
  {
   "id": "e:2bcf44",
   "jp": "コウアレス",
-  "en": "",
-  "status": "todo",
+  "en": "Cowardless",
+  "status": "done",
   "slots": [
    "w:2bd1f4"
   ]
@@ -839,8 +839,8 @@
  {
   "id": "e:2bcf4f",
   "jp": "タイラント",
-  "en": "",
-  "status": "todo",
+  "en": "Tyrant",
+  "status": "done",
   "slots": [
    "w:2bd200"
   ]
@@ -848,8 +848,8 @@
  {
   "id": "e:2bcf5a",
   "jp": "ドレッドノート",
-  "en": "",
-  "status": "todo",
+  "en": "Dreadnought",
+  "status": "done",
   "slots": [
    "w:2bd20c"
   ]
@@ -857,8 +857,8 @@
  {
   "id": "e:2bcf69",
   "jp": "セルヴェイション",
-  "en": "",
-  "status": "todo",
+  "en": "Salvation",
+  "status": "done",
   "slots": [
    "w:2bd218"
   ]
@@ -866,8 +866,8 @@
  {
   "id": "e:2bcf7a",
   "jp": "メテオ",
-  "en": "",
-  "status": "todo",
+  "en": "Meteor",
+  "status": "done",
   "slots": [
    "w:2bd224"
   ]
@@ -875,8 +875,8 @@
  {
   "id": "e:2bcf81",
   "jp": "マジックシールド",
-  "en": "",
-  "status": "todo",
+  "en": "Magic Shield",
+  "status": "done",
   "slots": [
    "w:2bd230"
   ]
@@ -884,8 +884,8 @@
  {
   "id": "e:2bcf92",
   "jp": "クルーシフィクション",
-  "en": "",
-  "status": "todo",
+  "en": "Crucifixion",
+  "status": "done",
   "slots": [
    "w:2bd23c"
   ]
@@ -893,8 +893,8 @@
  {
   "id": "e:2bcfa7",
   "jp": "トリックスター",
-  "en": "",
-  "status": "todo",
+  "en": "Trickster",
+  "status": "done",
   "slots": [
    "w:2bd248"
   ]
@@ -902,8 +902,8 @@
  {
   "id": "e:2bcfb6",
   "jp": "ダイヤモンドダスト",
-  "en": "",
-  "status": "todo",
+  "en": "Diamond Dust",
+  "status": "done",
   "slots": [
    "i:446d0:446d8",
    "i:4482c:44834",
@@ -944,8 +944,8 @@
  {
   "id": "e:2c3f68",
   "jp": "マップ概要",
-  "en": "",
-  "status": "todo",
+  "en": "Map Overview",
+  "status": "done",
   "slots": [
    "i:c1940:c1948"
   ]
@@ -953,8 +953,8 @@
  {
   "id": "e:2c3f73",
   "jp": "水の遺跡の噂が流れる島。訪れる調査隊が後を絶たない",
-  "en": "",
-  "status": "todo",
+  "en": "Rumours of a water ruin draw a steady stream of survey teams here",
+  "status": "done",
   "slots": [
    "w:2c6834"
   ]
@@ -962,8 +962,8 @@
  {
   "id": "e:2c3fa6",
   "jp": "水の遺跡の噂が流れる島。訪れる調査隊が後を絶たない",
-  "en": "",
-  "status": "todo",
+  "en": "Rumours of a water ruin draw a steady stream of survey teams here",
+  "status": "done",
   "slots": [
    "w:2c6838"
   ]
@@ -971,8 +971,8 @@
  {
   "id": "e:2c3fd9",
   "jp": "海王神殿の中間地点。水に囲まれた青の通路",
-  "en": "",
-  "status": "todo",
+  "en": "The midpoint of the Sea King's Temple. A blue passage ringed by water",
+  "status": "done",
   "slots": [
    "w:2c683c"
   ]
@@ -980,8 +980,8 @@
  {
   "id": "e:2c4002",
   "jp": "海王神殿の最深部。水のクリスタルが封印されている",
-  "en": "",
-  "status": "todo",
+  "en": "The depths of the Sea King's Temple. The water Crystal is sealed here",
+  "status": "done",
   "slots": [
    "w:2c6840"
   ]
@@ -989,8 +989,8 @@
  {
   "id": "e:2c4033",
   "jp": "かつてあった城の廃墟を利用して作られたアジトの牢屋",
-  "en": "",
-  "status": "todo",
+  "en": "A hideout prison built from the ruins of a castle that once stood here",
+  "status": "done",
   "slots": [
    "w:2c6844"
   ]
@@ -998,8 +998,8 @@
  {
   "id": "e:2c4066",
   "jp": "特別頑丈に作られた牢屋。誰が入っているかは謎",
-  "en": "",
-  "status": "todo",
+  "en": "A specially sturdy cell. Who is inside is a mystery",
+  "status": "done",
   "slots": [
    "w:2c6848"
   ]
@@ -1007,8 +1007,8 @@
  {
   "id": "e:2c4093",
   "jp": "たった一つしかないアジトの出口",
-  "en": "",
-  "status": "todo",
+  "en": "The one and only exit of the hideout",
+  "status": "done",
   "slots": [
    "w:2c684c"
   ]
@@ -1016,8 +1016,8 @@
  {
   "id": "e:2c40b2",
   "jp": "黒い牙のアジト。どこかに宝物庫が隠されているらしい",
-  "en": "",
-  "status": "todo",
+  "en": "The Black Fang's hideout. A treasure vault is hidden somewhere",
+  "status": "done",
   "slots": [
    "w:2c6850"
   ]
@@ -1025,8 +1025,8 @@
  {
   "id": "e:2c40e5",
   "jp": "昔から色々とトラブルに巻き込まれる島。別名“不幸島”",
-  "en": "",
-  "status": "todo",
+  "en": "An island always caught up in trouble. Also called \"Unlucky Isle\"",
+  "status": "done",
   "slots": [
    "w:2c6854"
   ]
@@ -1034,8 +1034,8 @@
  {
   "id": "e:2c411a",
   "jp": "毒沼が数多くあり、今では誰も近寄らない恐怖の島",
-  "en": "",
-  "status": "todo",
+  "en": "A dreaded island full of poison swamps. Nobody comes near it now",
+  "status": "done",
   "slots": [
    "w:2c6858"
   ]
@@ -1043,8 +1043,8 @@
  {
   "id": "e:2c4149",
   "jp": "近年多くの津波に見舞われている島",
-  "en": "",
-  "status": "todo",
+  "en": "An island hit by many tidal waves in recent years",
+  "status": "done",
   "slots": [
    "w:2c685c"
   ]
@@ -1052,8 +1052,8 @@
  {
   "id": "e:2c416a",
   "jp": "複数の小島に囲まれた島。漁業が盛んに行われている",
-  "en": "",
-  "status": "todo",
+  "en": "An island ringed by small islets, where fishing thrives",
+  "status": "done",
   "slots": [
    "w:2c6860"
   ]
@@ -1061,8 +1061,8 @@
  {
   "id": "e:2c419b",
   "jp": "古代ユーフォリア時代から存在する世界最古の島",
-  "en": "",
-  "status": "todo",
+  "en": "The oldest island in the world, here since ancient Euforian times",
+  "status": "done",
   "slots": [
    "w:2c6864"
   ]
@@ -1070,8 +1070,8 @@
  {
   "id": "e:2c41c8",
   "jp": "オークの木が多く生えており、樽を使った文化が栄えている",
-  "en": "",
-  "status": "todo",
+  "en": "Oaks grow everywhere, and a culture built on barrels thrives",
+  "status": "done",
   "slots": [
    "w:2c6868"
   ]
@@ -1079,8 +1079,8 @@
  {
   "id": "e:2c41ff",
   "jp": "複雑な流れの海域に守られている浜辺",
-  "en": "",
-  "status": "todo",
+  "en": "A beach guarded by waters with tangled currents",
+  "status": "done",
   "slots": [
    "w:2c686c"
   ]
@@ -1088,8 +1088,8 @@
  {
   "id": "e:2c4222",
   "jp": "豊かな海の幸が獲れる島。宴をするにはもってこい",
-  "en": "",
-  "status": "todo",
+  "en": "An island rich in seafood. Perfect for throwing a feast",
+  "status": "done",
   "slots": [
    "w:2c6870"
   ]
@@ -1097,8 +1097,8 @@
  {
   "id": "e:2c4251",
   "jp": "黒い牙の本拠地。島全体が黒い牙のアジトとなっている",
-  "en": "",
-  "status": "todo",
+  "en": "The Black Fang's stronghold. The whole island is their hideout",
+  "status": "done",
   "slots": [
    "w:2c6874"
   ]
@@ -1106,8 +1106,8 @@
  {
   "id": "e:2c4284",
   "jp": "皇国が治める島。住民はルキア皇国を正義と思っている",
-  "en": "",
-  "status": "todo",
+  "en": "An island ruled by the Empire. Its people believe Lukia is just",
+  "status": "done",
   "slots": [
    "w:2c6878"
   ]
@@ -1115,8 +1115,8 @@
  {
   "id": "e:2c42b7",
   "jp": "賞金稼ぎが集る島。ある一人の女性が治めている",
-  "en": "",
-  "status": "todo",
+  "en": "An island where bounty hunters gather, ruled by one woman",
+  "status": "done",
   "slots": [
    "w:2c687c"
   ]
@@ -1124,8 +1124,8 @@
  {
   "id": "e:2c42e4",
   "jp": "爽やかな海風が薫る自然豊かな島。風の遺跡があるらしい",
-  "en": "",
-  "status": "todo",
+  "en": "A lush island with fresh sea breezes. A wind ruin is said to be here",
+  "status": "done",
   "slots": [
    "w:2c6880"
   ]
@@ -1133,8 +1133,8 @@
  {
   "id": "e:2c4319",
   "jp": "別名“風の遺跡”風のクリスタルが封印されている",
-  "en": "",
-  "status": "todo",
+  "en": "Also called \"the wind ruin\". The wind Crystal is sealed here",
+  "status": "done",
   "slots": [
    "w:2c6884"
   ]
@@ -1142,8 +1142,8 @@
  {
   "id": "e:2c4348",
   "jp": "海に囲まれ漁業が盛んな島。釣りをするには最高のスポット",
-  "en": "",
-  "status": "todo",
+  "en": "A fishing island surrounded by sea. The best spot for fishing",
+  "status": "done",
   "slots": [
    "w:2c6888"
   ]
@@ -1151,8 +1151,8 @@
  {
   "id": "e:2c437f",
   "jp": "島の形が槍に見える島。険しい崖に囲まれている",
-  "en": "",
-  "status": "todo",
+  "en": "An island shaped like a spear, ringed by steep cliffs",
+  "status": "done",
   "slots": [
    "w:2c688c"
   ]
@@ -1160,8 +1160,8 @@
  {
   "id": "e:2c43ac",
   "jp": "別名“土の遺跡”土のクリスタルが封印されている",
-  "en": "",
-  "status": "todo",
+  "en": "Also called \"the earth ruin\". The earth Crystal is sealed here",
+  "status": "done",
   "slots": [
    "w:2c6890"
   ]
@@ -1169,8 +1169,8 @@
  {
   "id": "e:2c43db",
   "jp": "海に囲まれ漁業が盛んな島。釣りをするには最高のスポット",
-  "en": "",
-  "status": "todo",
+  "en": "A fishing island surrounded by sea. The best spot for fishing",
+  "status": "done",
   "slots": [
    "w:2c6894"
   ]
@@ -1178,8 +1178,8 @@
  {
   "id": "e:2c4412",
   "jp": "綺麗な町と綺麗な港で有名な観光スポットがある島",
-  "en": "",
-  "status": "todo",
+  "en": "An island famous for its pretty town and pretty harbour",
+  "status": "done",
   "slots": [
    "w:2c6898"
   ]
@@ -1187,8 +1187,8 @@
  {
   "id": "e:2c4441",
   "jp": "古代の遺跡もあるが毒沼もある両極端な地域",
-  "en": "",
-  "status": "todo",
+  "en": "A region of extremes: ancient ruins, but poison swamps too",
+  "status": "done",
   "slots": [
    "w:2c689c"
   ]
@@ -1196,8 +1196,8 @@
  {
   "id": "e:2c446a",
   "jp": "世界一美しいビーチがあることで有名な海岸",
-  "en": "",
-  "status": "todo",
+  "en": "A coast famous for the most beautiful beach in the world",
+  "status": "done",
   "slots": [
    "w:2c68a0"
   ]
@@ -1205,8 +1205,8 @@
  {
   "id": "e:2c4493",
   "jp": "音楽が盛んな地域。町全体が音楽に包まれている",
-  "en": "",
-  "status": "todo",
+  "en": "A region alive with music. The whole town is wrapped in it",
+  "status": "done",
   "slots": [
    "w:2c68a4"
   ]
@@ -1214,8 +1214,8 @@
  {
   "id": "e:2c44c0",
   "jp": "かつて“麗水都市”と呼ばれ、戦争によって汚された島",
-  "en": "",
-  "status": "todo",
+  "en": "Once called \"the City of Fair Waters\", an island fouled by war",
+  "status": "done",
   "slots": [
    "w:2c68a8"
   ]
@@ -1223,8 +1223,8 @@
  {
   "id": "e:2c44f3",
   "jp": "バッソフォンドを中心とする、ルキア皇国との紛争地域",
-  "en": "",
-  "status": "todo",
+  "en": "Contested land against the Lukia Empire, centred on Bassofondo",
+  "status": "done",
   "slots": [
    "w:2c68ac"
   ]
@@ -1232,8 +1232,8 @@
  {
   "id": "e:2c4526",
   "jp": "宝を求め彷徨う霊がいるといわれている墓地",
-  "en": "",
-  "status": "todo",
+  "en": "A graveyard said to be haunted by spirits seeking treasure",
+  "status": "done",
   "slots": [
    "w:2c68b0"
   ]
@@ -1241,8 +1241,8 @@
  {
   "id": "e:2c454f",
   "jp": "伝説の医師が経営する病院がある地域",
-  "en": "",
-  "status": "todo",
+  "en": "A region with a hospital run by a legendary doctor",
+  "status": "done",
   "slots": [
    "w:2c68b4"
   ]
@@ -1250,8 +1250,8 @@
  {
   "id": "e:2c4572",
   "jp": "山に囲まれ、入り口には巨大な水門がある",
-  "en": "",
-  "status": "todo",
+  "en": "Ringed by mountains, with a giant floodgate at the entrance",
+  "status": "done",
   "slots": [
    "w:2c68b8"
   ]
@@ -1259,8 +1259,8 @@
  {
   "id": "e:2c4599",
   "jp": "賞金稼ぎが集う島。ある一人の女性が治めている",
-  "en": "",
-  "status": "todo",
+  "en": "An island where bounty hunters gather. One woman rules it",
+  "status": "done",
   "slots": [
    "w:2c68bc"
   ]
@@ -1268,8 +1268,8 @@
  {
   "id": "e:2c45c6",
   "jp": "別名“光の遺跡”エルマーレ連合国の本部が置かれている",
-  "en": "",
-  "status": "todo",
+  "en": "Also called \"the light ruin\". The Elmare Federation's HQ is here",
+  "status": "done",
   "slots": [
    "w:2c68c0"
   ]
@@ -1277,8 +1277,8 @@
  {
   "id": "e:2c45fb",
   "jp": "古代ユーフォリアの資料が大量に眠る施設がある地域",
-  "en": "",
-  "status": "todo",
+  "en": "A region with a facility full of records on ancient Euforia",
+  "status": "done",
   "slots": [
    "w:2c68c4"
   ]
@@ -1286,8 +1286,8 @@
  {
   "id": "e:2c462c",
   "jp": "戦争によって家族や家をなくした人々が住まう土地",
-  "en": "",
-  "status": "todo",
+  "en": "A land for people who lost their families and homes to war",
+  "status": "done",
   "slots": [
    "w:2c68c8"
   ]
@@ -1295,8 +1295,8 @@
  {
   "id": "e:2c465b",
   "jp": "戦争によって家族や家をなくした人々が住まう土地",
-  "en": "",
-  "status": "todo",
+  "en": "A land for people who lost their families and homes to war",
+  "status": "done",
   "slots": [
    "w:2c68cc"
   ]
@@ -1304,8 +1304,8 @@
  {
   "id": "e:2c468a",
   "jp": "かつてルキア皇国との戦争で使われた砦が残っている",
-  "en": "",
-  "status": "todo",
+  "en": "A fort once used in the war against the Lukia Empire still stands",
+  "status": "done",
   "slots": [
    "w:2c68d0"
   ]
@@ -1313,8 +1313,8 @@
  {
   "id": "e:2c46bb",
   "jp": "闇の遺跡を基に作られた城。世界最強の要塞といわれている",
-  "en": "",
-  "status": "todo",
+  "en": "A castle built on the dark ruin. Called the world's mightiest fortress",
+  "status": "done",
   "slots": [
    "w:2c68d4"
   ]
@@ -1322,8 +1322,8 @@
  {
   "id": "e:2c46f2",
   "jp": "闇の遺跡を基に作られた城。世界最強の要塞といわれている",
-  "en": "",
-  "status": "todo",
+  "en": "A castle built on the dark ruin. Called the world's mightiest fortress",
+  "status": "done",
   "slots": [
    "w:2c68d8"
   ]
@@ -1331,8 +1331,8 @@
  {
   "id": "e:2c4729",
   "jp": "数千年もの間海底に沈んでいた伝説の古代都市",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary ancient city sunk on the seabed for thousands of years",
+  "status": "done",
   "slots": [
    "w:2c68dc"
   ]
@@ -1340,8 +1340,8 @@
  {
   "id": "e:2c4754",
   "jp": "数千年もの間海底に沈んでいた伝説の古代都市",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary ancient city sunk on the seabed for thousands of years",
+  "status": "done",
   "slots": [
    "w:2c68e0"
   ]
@@ -1349,8 +1349,8 @@
  {
   "id": "e:2c477f",
   "jp": "数千年もの間海底に沈んでいた伝説の古代都市",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary ancient city sunk on the seabed for thousands of years",
+  "status": "done",
   "slots": [
    "w:2c68e4"
   ]
@@ -1358,8 +1358,8 @@
  {
   "id": "e:2c47aa",
   "jp": "数千年もの間海底に沈んでいた伝説の古代都市",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary ancient city sunk on the seabed for thousands of years",
+  "status": "done",
   "slots": [
    "w:2c68e8"
   ]
@@ -1367,8 +1367,8 @@
  {
   "id": "e:2c47d5",
   "jp": "数千年もの間海底に沈んでいた伝説の古代都市",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary ancient city sunk on the seabed for thousands of years",
+  "status": "done",
   "slots": [
    "w:2c68ec"
   ]
@@ -1376,8 +1376,8 @@
  {
   "id": "e:2c4800",
   "jp": "数千年もの間海底に沈んでいた伝説の古代都市",
-  "en": "",
-  "status": "todo",
+  "en": "A legendary ancient city sunk on the seabed for thousands of years",
+  "status": "done",
   "slots": [
    "w:2c68f0"
   ]
@@ -1394,8 +1394,8 @@
  {
   "id": "e:2c4838",
   "jp": "海が見えるほがらかな村。村人も温厚でのんびりとしている",
-  "en": "",
-  "status": "todo",
+  "en": "A cheerful village by the sea. Its people are gentle and easygoing",
+  "status": "done",
   "slots": [
    "w:2c5c24"
   ]
@@ -1412,8 +1412,8 @@
  {
   "id": "e:2c487c",
   "jp": "人間としての運命をも覆すという名医が経営する病院",
-  "en": "",
-  "status": "todo",
+  "en": "A hospital run by a great doctor said to overturn even human fate",
+  "status": "done",
   "slots": [
    "w:2c5c30"
   ]
@@ -1430,8 +1430,8 @@
  {
   "id": "e:2c48b8",
   "jp": "人と人が助け合いながら生活をしている村",
-  "en": "",
-  "status": "todo",
+  "en": "A village where people live by helping one another",
+  "status": "done",
   "slots": [
    "w:2c5c3c"
   ]
@@ -1448,8 +1448,8 @@
  {
   "id": "e:2c48ec",
   "jp": "伝説の武器を作ったとうそぶく老人が住んでいる",
-  "en": "",
-  "status": "todo",
+  "en": "An old man lives here who claims he forged a legendary weapon",
+  "status": "done",
   "slots": [
    "w:2c5c48"
   ]
@@ -1466,8 +1466,8 @@
  {
   "id": "e:2c4924",
   "jp": "教会のシスターが花壇の手入れをしている。",
-  "en": "",
-  "status": "todo",
+  "en": "The church's sister is tending the flowerbeds.",
+  "status": "done",
   "slots": [
    "w:2c5c54"
   ]
@@ -1484,8 +1484,8 @@
  {
   "id": "e:2c495a",
   "jp": "名声ある者に力を貸す謎の人物を最近見かけるらしい……",
-  "en": "",
-  "status": "todo",
+  "en": "A mystery person who aids the famous has been seen lately...",
+  "status": "done",
   "slots": [
    "w:2c5c60"
   ]
@@ -1502,8 +1502,8 @@
  {
   "id": "e:2c499c",
   "jp": "島に唯一ある港を中心とした村。",
-  "en": "",
-  "status": "todo",
+  "en": "A village built around the island's only harbour.",
+  "status": "done",
   "slots": [
    "w:2c5c6c"
   ]
@@ -1520,8 +1520,8 @@
  {
   "id": "e:2c49c4",
   "jp": "長老の家、中には生贄になった少女達の写真が飾ってある",
-  "en": "",
-  "status": "todo",
+  "en": "The elder's house. Photos of the sacrificed girls hang inside",
+  "status": "done",
   "slots": [
    "w:2c5c78"
   ]
@@ -1538,8 +1538,8 @@
  {
   "id": "e:2c4a08",
   "jp": "生贄になる少女に思いを寄せている少年が反対を訴えている",
-  "en": "",
-  "status": "todo",
+  "en": "A boy in love with the girl to be sacrificed is protesting it",
+  "status": "done",
   "slots": [
    "w:2c5c84"
   ]
@@ -1556,8 +1556,8 @@
  {
   "id": "e:2c4a4a",
   "jp": "珍しい虫が多く、虫取りが娯楽の町",
-  "en": "",
-  "status": "todo",
+  "en": "A town of rare bugs, where bug catching is the pastime",
+  "status": "done",
   "slots": [
    "w:2c5c90"
   ]
@@ -1574,8 +1574,8 @@
  {
   "id": "e:2c4a70",
   "jp": "旅に訪れた男が生贄について疑問に思っている",
-  "en": "",
-  "status": "todo",
+  "en": "A travelling man has doubts about the sacrifices",
+  "status": "done",
   "slots": [
    "w:2c5c9c"
   ]
@@ -1592,8 +1592,8 @@
  {
   "id": "e:2c4aa4",
   "jp": "生贄が風習となった経緯を話す",
-  "en": "",
-  "status": "todo",
+  "en": "Tells how the sacrifice became a custom",
+  "status": "done",
   "slots": [
    "w:2c5ca8"
   ]
@@ -1610,8 +1610,8 @@
  {
   "id": "e:2c4ace",
   "jp": "父親を超えようとする若い鍛冶師が住んでいる",
-  "en": "",
-  "status": "todo",
+  "en": "A young blacksmith lives here who means to surpass his father",
+  "status": "done",
   "slots": [
    "w:2c5cb4"
   ]
@@ -1628,8 +1628,8 @@
  {
   "id": "e:2c4b06",
   "jp": "海辺に近く漁業が盛んな村、様々な海の幸が獲れる",
-  "en": "",
-  "status": "todo",
+  "en": "A fishing village by the shore, where all kinds of seafood are caught",
+  "status": "done",
   "slots": [
    "w:2c5cc0"
   ]
@@ -1646,8 +1646,8 @@
  {
   "id": "e:2c4b3e",
   "jp": "有名な装飾品を作っている職人のアトリエがある村",
-  "en": "",
-  "status": "todo",
+  "en": "A village with the atelier of a famous accessory craftsman",
+  "status": "done",
   "slots": [
    "w:2c5ccc"
   ]
@@ -1664,8 +1664,8 @@
  {
   "id": "e:2c4b7c",
   "jp": "海岸沿いにひっそりと建っている小さな病院",
-  "en": "",
-  "status": "todo",
+  "en": "A small hospital standing quietly along the coast",
+  "status": "done",
   "slots": [
    "w:2c5cd8"
   ]
@@ -1682,8 +1682,8 @@
  {
   "id": "e:2c4bb4",
   "jp": "考古学者が集る町。遺跡の欠片が売ってるが高価すぎる",
-  "en": "",
-  "status": "todo",
+  "en": "A town of archaeologists. Ruin shards sell here, but far too dear",
+  "status": "done",
   "slots": [
    "w:2c5ce4"
   ]
@@ -1700,8 +1700,8 @@
  {
   "id": "e:2c4bf6",
   "jp": "裕福な人間が暮らす町。黒い牙を倒すため力を貸してくれる",
-  "en": "",
-  "status": "todo",
+  "en": "A town of the rich. They'll lend a hand to defeat the Black Fang",
+  "status": "done",
   "slots": [
    "w:2c5cf0"
   ]
@@ -1718,8 +1718,8 @@
  {
   "id": "e:2c4c3c",
   "jp": "古代ユーフォリアについて詳しい老人が住んでいる",
-  "en": "",
-  "status": "todo",
+  "en": "An old man who knows a lot about ancient Euforia lives here",
+  "status": "done",
   "slots": [
    "w:2c5cfc"
   ]
@@ -1736,8 +1736,8 @@
  {
   "id": "e:2c4c7a",
   "jp": "黒い牙を倒そうと市民達が息巻いている",
-  "en": "",
-  "status": "todo",
+  "en": "The citizens are fired up to defeat the Black Fang",
+  "status": "done",
   "slots": [
    "w:2c5d08"
   ]
@@ -1754,8 +1754,8 @@
  {
   "id": "e:2c4cae",
   "jp": "大きな教会が特徴の慈愛に溢れた都市",
-  "en": "",
-  "status": "todo",
+  "en": "A loving city known for its great church",
+  "status": "done",
   "slots": [
    "w:2c5d14"
   ]
@@ -1763,8 +1763,8 @@
  {
   "id": "e:2c4cd1",
   "jp": "宝物都市カタラ",
-  "en": "",
-  "status": "todo",
+  "en": "Treasure City Catala",
+  "status": "done",
   "slots": [
    "w:2c5d1c"
   ]
@@ -1772,8 +1772,8 @@
  {
   "id": "e:2c4ce0",
   "jp": "遺跡の欠片を厳重に保管している金庫がある",
-  "en": "",
-  "status": "todo",
+  "en": "Has a vault that keeps ruin shards under tight guard",
+  "status": "done",
   "slots": [
    "w:2c5d20"
   ]
@@ -1790,8 +1790,8 @@
  {
   "id": "e:2c4d14",
   "jp": "人を助ける事に生き甲斐を感じる人々が住む村",
-  "en": "",
-  "status": "todo",
+  "en": "A village of people who live to help others",
+  "status": "done",
   "slots": [
    "w:2c5d2c"
   ]
@@ -1808,8 +1808,8 @@
  {
   "id": "e:2c4d4a",
   "jp": "物知りな人々が多く住まう村",
-  "en": "",
-  "status": "todo",
+  "en": "A village where many knowledgeable people live",
+  "status": "done",
   "slots": [
    "w:2c5d38"
   ]
@@ -1826,8 +1826,8 @@
  {
   "id": "e:2c4d6e",
   "jp": "古くから“呪いのマント”という伝説がある村",
-  "en": "",
-  "status": "todo",
+  "en": "A village with an old legend of a \"cursed cloak\"",
+  "status": "done",
   "slots": [
    "w:2c5d44"
   ]
@@ -1844,8 +1844,8 @@
  {
   "id": "e:2c4da6",
   "jp": "水泳が盛んな村で、毎月水泳大会を開催している",
-  "en": "",
-  "status": "todo",
+  "en": "A swimming-mad village that holds a swim meet every month",
+  "status": "done",
   "slots": [
    "w:2c5d50"
   ]
@@ -1862,8 +1862,8 @@
  {
   "id": "e:2c4ddc",
   "jp": "色々な歴史を納めている村",
-  "en": "",
-  "status": "todo",
+  "en": "A village that keeps all kinds of history",
+  "status": "done",
   "slots": [
    "w:2c5d5c"
   ]
@@ -1880,8 +1880,8 @@
  {
   "id": "e:2c4e04",
   "jp": "動物や生き物を愛する人が多く住まう都市",
-  "en": "",
-  "status": "todo",
+  "en": "A city where many people love animals and creatures",
+  "status": "done",
   "slots": [
    "w:2c5d68"
   ]
@@ -1898,8 +1898,8 @@
  {
   "id": "e:2c4e36",
   "jp": "長年かけて育ったコケや草に覆われた廃屋。",
-  "en": "",
-  "status": "todo",
+  "en": "A ruined house covered in moss and grass grown over long years.",
+  "status": "done",
   "slots": [
    "w:2c5d74"
   ]
@@ -1916,8 +1916,8 @@
  {
   "id": "e:2c4e6c",
   "jp": "ブラックモアを酷く恐れる宿屋の主人が現れる",
-  "en": "",
-  "status": "todo",
+  "en": "An innkeeper deathly afraid of Blackmore appears",
+  "status": "done",
   "slots": [
    "w:2c5d80"
   ]
@@ -1934,8 +1934,8 @@
  {
   "id": "e:2c4ea0",
   "jp": "黒い牙に攫われた人々が住まう村",
-  "en": "",
-  "status": "todo",
+  "en": "A village of people kidnapped by the Black Fang",
+  "status": "done",
   "slots": [
    "w:2c5d8c"
   ]
@@ -1952,8 +1952,8 @@
  {
   "id": "e:2c4ec8",
   "jp": "黒い牙に囚われた人々が島から脱出しようとしている",
-  "en": "",
-  "status": "todo",
+  "en": "The Black Fang's captives are trying to escape the island",
+  "status": "done",
   "slots": [
    "w:2c5d98"
   ]
@@ -1970,8 +1970,8 @@
  {
   "id": "e:2c4f04",
   "jp": "黒い牙の為に働かされている人々が、今日も鬱々と働いている",
-  "en": "",
-  "status": "todo",
+  "en": "People forced to work for the Black Fang toil gloomily again today",
+  "status": "done",
   "slots": [
    "w:2c5da4"
   ]
@@ -1979,8 +1979,8 @@
  {
   "id": "e:2c4f3d",
   "jp": "黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang Cannon",
+  "status": "done",
   "slots": [
    "w:2c5dac"
   ]
@@ -1988,8 +1988,8 @@
  {
   "id": "e:2c4f4a",
   "jp": "闇ルートで入手した黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "A Black Fang cannon got through the black market",
+  "status": "done",
   "slots": [
    "w:2c5db0"
   ]
@@ -1997,8 +1997,8 @@
  {
   "id": "e:2c4f69",
   "jp": "黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang Cannon",
+  "status": "done",
   "slots": [
    "w:2c5db8"
   ]
@@ -2006,8 +2006,8 @@
  {
   "id": "e:2c4f76",
   "jp": "闇ルートで入手した黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "A Black Fang cannon got through the black market",
+  "status": "done",
   "slots": [
    "w:2c5dbc"
   ]
@@ -2015,8 +2015,8 @@
  {
   "id": "e:2c4f95",
   "jp": "黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang Cannon",
+  "status": "done",
   "slots": [
    "w:2c5dc4"
   ]
@@ -2024,8 +2024,8 @@
  {
   "id": "e:2c4fa2",
   "jp": "闇ルートで入手した黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "A Black Fang cannon got through the black market",
+  "status": "done",
   "slots": [
    "w:2c5dc8"
   ]
@@ -2033,8 +2033,8 @@
  {
   "id": "e:2c4fc1",
   "jp": "黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang Cannon",
+  "status": "done",
   "slots": [
    "w:2c5dd0"
   ]
@@ -2042,8 +2042,8 @@
  {
   "id": "e:2c4fce",
   "jp": "闇ルートで入手した黒い牙の砲台",
-  "en": "",
-  "status": "todo",
+  "en": "A Black Fang cannon got through the black market",
+  "status": "done",
   "slots": [
    "w:2c5dd4"
   ]
@@ -2060,8 +2060,8 @@
  {
   "id": "e:2c4ff6",
   "jp": "ルキア皇国に属する村、平和な日常を過ごしている",
-  "en": "",
-  "status": "todo",
+  "en": "A village of the Lukia Empire, living peaceful days",
+  "status": "done",
   "slots": [
    "w:2c5de0"
   ]
@@ -2078,8 +2078,8 @@
  {
   "id": "e:2c5032",
   "jp": "ちょっとキモチワルイ言葉遣いの医者が経営する病院",
-  "en": "",
-  "status": "todo",
+  "en": "A hospital run by a doctor who talks a little creepily",
+  "status": "done",
   "slots": [
    "w:2c5dec"
   ]
@@ -2096,8 +2096,8 @@
  {
   "id": "e:2c506c",
   "jp": "ファンタジニア旅団の本拠地がある村。ユグドラの故郷",
-  "en": "",
-  "status": "todo",
+  "en": "Home of the Fantasinia Brigade's base. Yggdra's hometown",
+  "status": "done",
   "slots": [
    "w:2c5df8"
   ]
@@ -2114,8 +2114,8 @@
  {
   "id": "e:2c50a6",
   "jp": "風神が祀られた祠、名声を手にしている者には幸せが訪れる",
-  "en": "",
-  "status": "todo",
+  "en": "A shrine to the wind god. Happiness visits the famous",
+  "status": "done",
   "slots": [
    "w:2c5e04"
   ]
@@ -2132,8 +2132,8 @@
  {
   "id": "e:2c50e6",
   "jp": "土神が祀られた祠、名声を手にしている者には幸せが訪れる",
-  "en": "",
-  "status": "todo",
+  "en": "A shrine to the earth god. Happiness visits the famous",
+  "status": "done",
   "slots": [
    "w:2c5e10"
   ]
@@ -2150,8 +2150,8 @@
  {
   "id": "e:2c512c",
   "jp": "美しい景観で多くの観光客が訪れる都市",
-  "en": "",
-  "status": "todo",
+  "en": "A city whose beautiful scenery draws many tourists",
+  "status": "done",
   "slots": [
    "w:2c5e1c"
   ]
@@ -2168,8 +2168,8 @@
  {
   "id": "e:2c5160",
   "jp": "どんなものでも役に立つものに加工する職人達が集う都市",
-  "en": "",
-  "status": "todo",
+  "en": "A city of craftsmen who can turn anything into something useful",
+  "status": "done",
   "slots": [
    "w:2c5e28"
   ]
@@ -2186,8 +2186,8 @@
  {
   "id": "e:2c51a0",
   "jp": "見た目だけはとてもいい村。本来の経済状況や勢力は並",
-  "en": "",
-  "status": "todo",
+  "en": "A village that only looks great. Its real wealth and power are average",
+  "status": "done",
   "slots": [
    "w:2c5e34"
   ]
@@ -2204,8 +2204,8 @@
  {
   "id": "e:2c51d8",
   "jp": "使われなくなった灯台。海ゴブリンの住処になっている。",
-  "en": "",
-  "status": "todo",
+  "en": "A disused lighthouse. Sea Goblins have made it their home.",
+  "status": "done",
   "slots": [
    "w:2c5e40"
   ]
@@ -2222,8 +2222,8 @@
  {
   "id": "e:2c521c",
   "jp": "パメラ様大好きな男達が遺跡の欠片について話している",
-  "en": "",
-  "status": "todo",
+  "en": "Men who adore Pamela-sama are talking about ruin shards",
+  "status": "done",
   "slots": [
    "w:2c5e4c"
   ]
@@ -2240,8 +2240,8 @@
  {
   "id": "e:2c5258",
   "jp": "ストレガッタ地域にある唯一の洋服店が特徴の村",
-  "en": "",
-  "status": "todo",
+  "en": "A village known for the only clothes shop in the Stregatta region",
+  "status": "done",
   "slots": [
    "w:2c5e58"
   ]
@@ -2258,8 +2258,8 @@
  {
   "id": "e:2c5290",
   "jp": "特殊なウィルを持つ“世界樹”が生い茂る広場",
-  "en": "",
-  "status": "todo",
+  "en": "A clearing where the World Tree, with its special Will, grows thick",
+  "status": "done",
   "slots": [
    "w:2c5e64"
   ]
@@ -2276,8 +2276,8 @@
  {
   "id": "e:2c52c4",
   "jp": "女性宿泊客がビーチで起きた出来事を話しているようだ",
-  "en": "",
-  "status": "todo",
+  "en": "A woman staying here seems to be talking about the beach incident",
+  "status": "done",
   "slots": [
    "w:2c5e70"
   ]
@@ -2294,8 +2294,8 @@
  {
   "id": "e:2c5306",
   "jp": "ベテラン店員が、この島の秘密を教えてくれる",
-  "en": "",
-  "status": "todo",
+  "en": "A veteran clerk tells you this island's secret",
+  "status": "done",
   "slots": [
    "w:2c5e7c"
   ]
@@ -2312,8 +2312,8 @@
  {
   "id": "e:2c5340",
   "jp": "人口の九割が女性の都市。皆逞しく生活している",
-  "en": "",
-  "status": "todo",
+  "en": "A city where nine in ten people are women. All live tough lives",
+  "status": "done",
   "slots": [
    "w:2c5e88"
   ]
@@ -2330,8 +2330,8 @@
  {
   "id": "e:2c5376",
   "jp": "お話好きな青年が、コンチェル地域の良さを語っている",
-  "en": "",
-  "status": "todo",
+  "en": "A chatty young man talks up the good points of the Concer region",
+  "status": "done",
   "slots": [
    "w:2c5e94"
   ]
@@ -2348,8 +2348,8 @@
  {
   "id": "e:2c53b8",
   "jp": "一年中音楽が鳴り止まない音に包まれた都市",
-  "en": "",
-  "status": "todo",
+  "en": "A city wrapped in sound, where the music never stops all year",
+  "status": "done",
   "slots": [
    "w:2c5ea0"
   ]
@@ -2366,8 +2366,8 @@
  {
   "id": "e:2c53f0",
   "jp": "詩人達の聖地と呼ばれる都市",
-  "en": "",
-  "status": "todo",
+  "en": "A city called the holy land of poets",
+  "status": "done",
   "slots": [
    "w:2c5eac"
   ]
@@ -2384,8 +2384,8 @@
  {
   "id": "e:2c5418",
   "jp": "景色のいい岬の先端にある真っ白の灯台。",
-  "en": "",
-  "status": "todo",
+  "en": "A pure white lighthouse at the tip of a scenic cape.",
+  "status": "done",
   "slots": [
    "w:2c5eb8"
   ]
@@ -2402,8 +2402,8 @@
  {
   "id": "e:2c544a",
   "jp": "数百年に渡る戦争の中で死んでいった戦友達のお墓",
-  "en": "",
-  "status": "todo",
+  "en": "Graves of comrades who died in centuries of war",
+  "status": "done",
   "slots": [
    "w:2c5ec4"
   ]
@@ -2420,8 +2420,8 @@
  {
   "id": "e:2c5482",
   "jp": "戦争により滅んだ村。かつては明るく平和な村であった",
-  "en": "",
-  "status": "todo",
+  "en": "A village ruined by war. It was once bright and peaceful",
+  "status": "done",
   "slots": [
    "w:2c5ed0"
   ]
@@ -2438,8 +2438,8 @@
  {
   "id": "e:2c54bc",
   "jp": "ジゼルの苦悩を知るウンディーネがこの戦いを嘆いている",
-  "en": "",
-  "status": "todo",
+  "en": "An Undine who knows Giselle's anguish laments this fight",
+  "status": "done",
   "slots": [
    "w:2c5edc"
   ]
@@ -2456,8 +2456,8 @@
  {
   "id": "e:2c5500",
   "jp": "貧困に喘ぐ住民達が今日も必死に生きている",
-  "en": "",
-  "status": "todo",
+  "en": "Residents in dire poverty struggle to live another day",
+  "status": "done",
   "slots": [
    "w:2c5ee8"
   ]
@@ -2474,8 +2474,8 @@
  {
   "id": "e:2c5538",
   "jp": "大きな病院がある都市。なだれるように患者が来る",
-  "en": "",
-  "status": "todo",
+  "en": "A city with a big hospital. Patients pour in like an avalanche",
+  "status": "done",
   "slots": [
    "w:2c5ef4"
   ]
@@ -2492,8 +2492,8 @@
  {
   "id": "e:2c556e",
   "jp": "戦争で命を亡くした若者の為葬儀が開かれている",
-  "en": "",
-  "status": "todo",
+  "en": "A funeral is held for young people who died in the war",
+  "status": "done",
   "slots": [
    "w:2c5f00"
   ]
@@ -2510,8 +2510,8 @@
  {
   "id": "e:2c55a2",
   "jp": "逃げ込んだ市民が洞窟の事を心配している",
-  "en": "",
-  "status": "todo",
+  "en": "Citizens who fled here are worried about the cave",
+  "status": "done",
   "slots": [
    "w:2c5f0c"
   ]
@@ -2528,8 +2528,8 @@
  {
   "id": "e:2c55d2",
   "jp": "バッソフォンドの全財産が避難されている洞窟",
-  "en": "",
-  "status": "todo",
+  "en": "The cave where all of Bassofondo's wealth was evacuated",
+  "status": "done",
   "slots": [
    "w:2c5f18"
   ]
@@ -2546,8 +2546,8 @@
  {
   "id": "e:2c5606",
   "jp": "海ゴブリン達が頑張って掘った山の洞窟",
-  "en": "",
-  "status": "todo",
+  "en": "A mountain cave the Sea Goblins worked hard to dig",
+  "status": "done",
   "slots": [
    "w:2c5f24"
   ]
@@ -2564,8 +2564,8 @@
  {
   "id": "e:2c5636",
   "jp": "既に廃墟となっている村なのだが…",
-  "en": "",
-  "status": "todo",
+  "en": "This village is already in ruins, but...",
+  "status": "done",
   "slots": [
    "w:2c5f30"
   ]
@@ -2582,8 +2582,8 @@
  {
   "id": "e:2c5662",
   "jp": "かつて名医師と言われた男が経営している病院",
-  "en": "",
-  "status": "todo",
+  "en": "A hospital run by a man once called a great doctor",
+  "status": "done",
   "slots": [
    "w:2c5f3c"
   ]
@@ -2600,8 +2600,8 @@
  {
   "id": "e:2c569a",
   "jp": "世界でも珍しい整形手術が行える病院。",
-  "en": "",
-  "status": "todo",
+  "en": "A hospital that can do plastic surgery rare even in this world.",
+  "status": "done",
   "slots": [
    "w:2c5f48"
   ]
@@ -2618,8 +2618,8 @@
  {
   "id": "e:2c56c4",
   "jp": "水門を守る砦",
-  "en": "",
-  "status": "todo",
+  "en": "The fort guarding the floodgate",
+  "status": "done",
   "slots": [
    "w:2c5f54"
   ]
@@ -2636,8 +2636,8 @@
  {
   "id": "e:2c56d6",
   "jp": "水門を守る砦",
-  "en": "",
-  "status": "todo",
+  "en": "The fort guarding the floodgate",
+  "status": "done",
   "slots": [
    "w:2c5f60"
   ]
@@ -2654,8 +2654,8 @@
  {
   "id": "e:2c56f2",
   "jp": "トレイシーは悪い人ではないと信じる助手が現れる",
-  "en": "",
-  "status": "todo",
+  "en": "An assistant who believes Tracey is no bad person appears",
+  "status": "done",
   "slots": [
    "w:2c5f6c"
   ]
@@ -2672,8 +2672,8 @@
  {
   "id": "e:2c572c",
   "jp": "錬金術が盛んな村。毎日色々な物が練成されている",
-  "en": "",
-  "status": "todo",
+  "en": "A village of alchemy, where all sorts of things are made daily",
+  "status": "done",
   "slots": [
    "w:2c5f78"
   ]
@@ -2690,8 +2690,8 @@
  {
   "id": "e:2c5764",
   "jp": "少しピントのずれた店員さんが名物の洋服店がある村",
-  "en": "",
-  "status": "todo",
+  "en": "A village famous for its clothes shop and slightly off clerk",
+  "status": "done",
   "slots": [
    "w:2c5f84"
   ]
@@ -2708,8 +2708,8 @@
  {
   "id": "e:2c57a4",
   "jp": "パノラミカ半島中の食べ物が集る都市",
-  "en": "",
-  "status": "todo",
+  "en": "A city where the food of the whole Panoramica Peninsula gathers",
+  "status": "done",
   "slots": [
    "w:2c5f90"
   ]
@@ -2726,8 +2726,8 @@
  {
   "id": "e:2c57d6",
   "jp": "閉鎖的な土地の中で、唯一の娯楽がダンスだという都市",
-  "en": "",
-  "status": "todo",
+  "en": "A closed-off city where dancing is the only entertainment",
+  "status": "done",
   "slots": [
    "w:2c5f9c"
   ]
@@ -2744,8 +2744,8 @@
  {
   "id": "e:2c5812",
   "jp": "ファンタジニア旅団の本拠地がある村。ユグドラの故郷",
-  "en": "",
-  "status": "todo",
+  "en": "Home of the Fantasinia Brigade's base. Yggdra's hometown",
+  "status": "done",
   "slots": [
    "w:2c5fa8"
   ]
@@ -2762,8 +2762,8 @@
  {
   "id": "e:2c5854",
   "jp": "反皇国連合に加盟している都市。かつて英雄が住んでいた",
-  "en": "",
-  "status": "todo",
+  "en": "A city in the Anti-Imperial Federation. A hero once lived here",
+  "status": "done",
   "slots": [
    "w:2c5fb4"
   ]
@@ -2780,8 +2780,8 @@
  {
   "id": "e:2c5898",
   "jp": "反皇国連合に加盟している都市。後方支援を担当している",
-  "en": "",
-  "status": "todo",
+  "en": "A city in the Anti-Imperial Federation, in charge of rear support",
+  "status": "done",
   "slots": [
    "w:2c5fc0"
   ]
@@ -2798,8 +2798,8 @@
  {
   "id": "e:2c58dc",
   "jp": "加盟国の一つ。光の遺跡をエンリエッタに提供した",
-  "en": "",
-  "status": "todo",
+  "en": "A member state. It gave Enryetta the light ruin",
+  "status": "done",
   "slots": [
    "w:2c5fcc"
   ]
@@ -2816,8 +2816,8 @@
  {
   "id": "e:2c591a",
   "jp": "珍しい魚の魚拓を集めるコレクターが住んでいる。",
-  "en": "",
-  "status": "todo",
+  "en": "A collector of rubbings of rare fish lives here.",
+  "status": "done",
   "slots": [
    "w:2c5fd8"
   ]
@@ -2834,8 +2834,8 @@
  {
   "id": "e:2c5956",
   "jp": "人類の性について研究する怪しい研究所",
-  "en": "",
-  "status": "todo",
+  "en": "A shady lab researching human sexuality",
+  "status": "done",
   "slots": [
    "w:2c5fe4"
   ]
@@ -2852,8 +2852,8 @@
  {
   "id": "e:2c5984",
   "jp": "アジョー・グラフォーの助手がいる",
-  "en": "",
-  "status": "todo",
+  "en": "Ajo-Grafor's assistant is here",
+  "status": "done",
   "slots": [
    "w:2c5ff0"
   ]
@@ -2870,8 +2870,8 @@
  {
   "id": "e:2c59ae",
   "jp": "一人の研究者が墓石を見ながら考えに耽っている",
-  "en": "",
-  "status": "todo",
+  "en": "A researcher is lost in thought, gazing at a gravestone",
+  "status": "done",
   "slots": [
    "w:2c5ffc"
   ]
@@ -2888,8 +2888,8 @@
  {
   "id": "e:2c59ea",
   "jp": "子供たちが無邪気に遊んでいるのを親が見ている",
-  "en": "",
-  "status": "todo",
+  "en": "Parents watch their children play without a care",
+  "status": "done",
   "slots": [
    "w:2c6008"
   ]
@@ -2906,8 +2906,8 @@
  {
   "id": "e:2c5a20",
   "jp": "アジョー・グラフォーを目指す助手が日夜努力している",
-  "en": "",
-  "status": "todo",
+  "en": "An assistant who wants to be Ajo-Grafor works day and night",
+  "status": "done",
   "slots": [
    "w:2c6014"
   ]
@@ -2924,8 +2924,8 @@
  {
   "id": "e:2c5a5c",
   "jp": "考古学の名誉教授である男が住んでいる村",
-  "en": "",
-  "status": "todo",
+  "en": "A village where an emeritus professor of archaeology lives",
+  "status": "done",
   "slots": [
    "w:2c6020"
   ]
@@ -2942,8 +2942,8 @@
  {
   "id": "e:2c5a92",
   "jp": "エルマーレ連合国が作った緑豊かな公園",
-  "en": "",
-  "status": "todo",
+  "en": "A lush green park built by the Elmare Federation",
+  "status": "done",
   "slots": [
    "w:2c602c"
   ]
@@ -2960,8 +2960,8 @@
  {
   "id": "e:2c5ac0",
   "jp": "世界の海を渡り歩いた伝説の釣り人が経営する釣り小屋。",
-  "en": "",
-  "status": "todo",
+  "en": "A fishing hut run by a legendary angler who roamed the world's seas.",
+  "status": "done",
   "slots": [
    "w:2c6038"
   ]
@@ -2978,8 +2978,8 @@
  {
   "id": "e:2c5b04",
   "jp": "城内にある都市。活気の声が外へ僅かに漏れている",
-  "en": "",
-  "status": "todo",
+  "en": "A city inside the castle. Lively voices leak faintly outside",
+  "status": "done",
   "slots": [
    "w:2c6044"
   ]
@@ -2996,8 +2996,8 @@
  {
   "id": "e:2c5b40",
   "jp": "研究者が究極の道具を作ろうと躍起になっている",
-  "en": "",
-  "status": "todo",
+  "en": "A researcher is desperate to make the ultimate tool",
+  "status": "done",
   "slots": [
    "w:2c6050"
   ]
@@ -3014,8 +3014,8 @@
  {
   "id": "e:2c5b7c",
   "jp": "Ｄｒ．デラックスが経営している大きな病院。",
-  "en": "",
-  "status": "todo",
+  "en": "A big hospital run by Dr. Deluxe.",
+  "status": "done",
   "slots": [
    "w:2c605c"
   ]
@@ -3032,8 +3032,8 @@
  {
   "id": "e:2c5bb0",
   "jp": "千年の眠りからさめた海ゴブリン達がボーっとしている。",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblins woken from a thousand-year sleep are spacing out.",
+  "status": "done",
   "slots": [
    "w:2c6068"
   ]
@@ -3050,8 +3050,8 @@
  {
   "id": "e:2c5bf2",
   "jp": "“天上への担い手”マンタが描かれている",
-  "en": "",
-  "status": "todo",
+  "en": "The manta, the \"Bearer to the Heavens\", is painted here",
+  "status": "done",
   "slots": [
    "w:2c6074"
   ]
@@ -3079,8 +3079,8 @@
  {
   "id": "e:2cb6d0",
   "jp": "チェイサー",
-  "en": "",
-  "status": "todo",
+  "en": "Chaser",
+  "status": "done",
   "slots": [
    "w:2cb8dc"
   ]
@@ -3088,8 +3088,8 @@
  {
   "id": "e:2cb6db",
   "jp": "ヴァルキリー",
-  "en": "",
-  "status": "todo",
+  "en": "Valkyrie",
+  "status": "done",
   "slots": [
    "w:2cb8e0",
    "w:2cb954",
@@ -3099,8 +3099,8 @@
  {
   "id": "e:2cb6e8",
   "jp": "ナイト",
-  "en": "",
-  "status": "todo",
+  "en": "Knight",
+  "status": "done",
   "slots": [
    "w:2cb8e4",
    "w:2cb958"
@@ -3109,8 +3109,8 @@
  {
   "id": "e:2cb6ef",
   "jp": "ウンディーネ",
-  "en": "",
-  "status": "todo",
+  "en": "Undine",
+  "status": "done",
   "slots": [
    "w:2cb8e8",
    "w:2cb950",
@@ -3120,8 +3120,8 @@
  {
   "id": "e:2cb6fc",
   "jp": "パイレーツ",
-  "en": "",
-  "status": "todo",
+  "en": "Pirates",
+  "status": "done",
   "slots": [
    "w:2cb8ec",
    "w:2cb96c"
@@ -3130,8 +3130,8 @@
  {
   "id": "e:2cb707",
   "jp": "グリフライダー",
-  "en": "",
-  "status": "todo",
+  "en": "Griffon Rider",
+  "status": "done",
   "slots": [
    "w:2cb8f0"
   ]
@@ -3139,8 +3139,8 @@
  {
   "id": "e:2cb716",
   "jp": "ガンナー",
-  "en": "",
-  "status": "todo",
+  "en": "Gunner",
+  "status": "done",
   "slots": [
    "w:2cb8f4",
    "w:2cb93c",
@@ -3150,8 +3150,8 @@
  {
   "id": "e:2cb71f",
   "jp": "スナイパー",
-  "en": "",
-  "status": "todo",
+  "en": "Sniper",
+  "status": "done",
   "slots": [
    "w:2cb8f8",
    "w:2cb94c"
@@ -3160,8 +3160,8 @@
  {
   "id": "e:2cb72a",
   "jp": "ネクロマンサー",
-  "en": "",
-  "status": "todo",
+  "en": "Necromancer",
+  "status": "done",
   "slots": [
    "w:2cb8fc"
   ]
@@ -3169,8 +3169,8 @@
  {
   "id": "e:2cb739",
   "jp": "ウィッチ",
-  "en": "",
-  "status": "todo",
+  "en": "Witch",
+  "status": "done",
   "slots": [
    "w:2cb900",
    "w:2cb944"
@@ -3179,8 +3179,8 @@
  {
   "id": "e:2cb742",
   "jp": "ミスティックウィッチ",
-  "en": "",
-  "status": "todo",
+  "en": "Mystic Witch",
+  "status": "done",
   "slots": [
    "w:2cb960"
   ]
@@ -3206,8 +3206,8 @@
  {
   "id": "e:2cb76b",
   "jp": "アックスバトラー",
-  "en": "",
-  "status": "todo",
+  "en": "Axe Battler",
+  "status": "done",
   "slots": [
    "w:2cb90c"
   ]
@@ -3215,8 +3215,8 @@
  {
   "id": "e:2cb77c",
   "jp": "プラウラー",
-  "en": "",
-  "status": "todo",
+  "en": "Prowler",
+  "status": "done",
   "slots": [
    "w:2cb964",
    "w:2cb968"
@@ -3225,8 +3225,8 @@
  {
   "id": "e:2cb787",
   "jp": "ゼパール",
-  "en": "",
-  "status": "todo",
+  "en": "Zepar",
+  "status": "done",
   "slots": [
    "w:2cb918"
   ]
@@ -3234,8 +3234,8 @@
  {
   "id": "e:2cb790",
   "jp": "フォルネウス",
-  "en": "",
-  "status": "todo",
+  "en": "Forneus",
+  "status": "done",
   "slots": [
    "w:2cb91c"
   ]
@@ -3243,8 +3243,8 @@
  {
   "id": "e:2cb79d",
   "jp": "アンドラス",
-  "en": "",
-  "status": "todo",
+  "en": "Andras",
+  "status": "done",
   "slots": [
    "w:2cb920"
   ]
@@ -3252,8 +3252,8 @@
  {
   "id": "e:2cb7a8",
   "jp": "レラージュ",
-  "en": "",
-  "status": "todo",
+  "en": "Leraje",
+  "status": "done",
   "slots": [
    "w:2cb924"
   ]
@@ -3261,8 +3261,8 @@
  {
   "id": "e:2cb7b3",
   "jp": "カタパルト",
-  "en": "",
-  "status": "todo",
+  "en": "Catapult",
+  "status": "done",
   "slots": [
    "w:2cb9bc"
   ]
@@ -3270,8 +3270,8 @@
  {
   "id": "e:2cb7be",
   "jp": "セイラー",
-  "en": "",
-  "status": "todo",
+  "en": "Sailor",
+  "status": "done",
   "slots": [
    "w:2cb910",
    "w:2cb940"
@@ -3280,8 +3280,8 @@
  {
   "id": "e:2cb7c7",
   "jp": "パラディン",
-  "en": "",
-  "status": "todo",
+  "en": "Paladin",
+  "status": "done",
   "slots": [
    "w:2cb914"
   ]
@@ -3289,8 +3289,8 @@
  {
   "id": "e:2cb7d2",
   "jp": "エリゴル",
-  "en": "",
-  "status": "todo",
+  "en": "Eligor",
+  "status": "done",
   "slots": [
    "w:2cb928"
   ]
@@ -3298,8 +3298,8 @@
  {
   "id": "e:2cb7db",
   "jp": "イノセント",
-  "en": "",
-  "status": "todo",
+  "en": "Innocent",
+  "status": "done",
   "slots": [
    "w:2cb92c"
   ]
@@ -3307,8 +3307,8 @@
  {
   "id": "e:2cb7e6",
   "jp": "ケット・シー",
-  "en": "",
-  "status": "todo",
+  "en": "Cait Sith",
+  "status": "done",
   "slots": [
    "w:2cb930",
    "w:2cb9a0"
@@ -3317,8 +3317,8 @@
  {
   "id": "e:2cb7f3",
   "jp": "ウラノス",
-  "en": "",
-  "status": "todo",
+  "en": "Uranus",
+  "status": "done",
   "slots": [
    "w:2cb934"
   ]
@@ -3326,8 +3326,8 @@
  {
   "id": "e:2cb7fc",
   "jp": "キャプテン",
-  "en": "",
-  "status": "todo",
+  "en": "Captain",
+  "status": "done",
   "slots": [
    "w:2cb938"
   ]
@@ -3335,8 +3335,8 @@
  {
   "id": "e:2cb807",
   "jp": "ヴァンパイア",
-  "en": "",
-  "status": "todo",
+  "en": "Vampire",
+  "status": "done",
   "slots": [
    "w:2cb948"
   ]
@@ -3344,8 +3344,8 @@
  {
   "id": "e:2cb814",
   "jp": "アヴェンジャー",
-  "en": "",
-  "status": "todo",
+  "en": "Avenger",
+  "status": "done",
   "slots": [
    "w:2cb95c"
   ]
@@ -3353,8 +3353,8 @@
  {
   "id": "e:2cb823",
   "jp": "ブラックチェイサー",
-  "en": "",
-  "status": "todo",
+  "en": "Black Chaser",
+  "status": "done",
   "slots": [
    "w:2cb970"
   ]
@@ -3362,8 +3362,8 @@
  {
   "id": "e:2cb836",
   "jp": "カルカッサ",
-  "en": "",
-  "status": "todo",
+  "en": "Carcassa",
+  "status": "done",
   "slots": [
    "w:2cb974"
   ]
@@ -3371,8 +3371,8 @@
  {
   "id": "e:2cb841",
   "jp": "ジェネラル",
-  "en": "",
-  "status": "todo",
+  "en": "General",
+  "status": "done",
   "slots": [
    "w:2cb97c"
   ]
@@ -3380,8 +3380,8 @@
  {
   "id": "e:2cb84c",
   "jp": "ベイオネット",
-  "en": "",
-  "status": "todo",
+  "en": "Bayonet",
+  "status": "done",
   "slots": [
    "w:2cb984"
   ]
@@ -3389,8 +3389,8 @@
  {
   "id": "e:2cb859",
   "jp": "プリンス",
-  "en": "",
-  "status": "todo",
+  "en": "Prince",
+  "status": "done",
   "slots": [
    "w:2cb988"
   ]
@@ -3398,8 +3398,8 @@
  {
   "id": "e:2cb862",
   "jp": "マッドサイエンティスト",
-  "en": "",
-  "status": "todo",
+  "en": "Mad Scientist",
+  "status": "done",
   "slots": [
    "w:2cb98c"
   ]
@@ -3407,8 +3407,8 @@
  {
   "id": "e:2cb879",
   "jp": "アモール",
-  "en": "",
-  "status": "todo",
+  "en": "Amor",
+  "status": "done",
   "slots": [
    "w:2cb998"
   ]
@@ -3416,8 +3416,8 @@
  {
   "id": "e:2cb882",
   "jp": "クィーン",
-  "en": "",
-  "status": "todo",
+  "en": "Queen",
+  "status": "done",
   "slots": [
    "w:2cb99c"
   ]
@@ -3425,8 +3425,8 @@
  {
   "id": "e:2cb88b",
   "jp": "ドッペルゲンガー",
-  "en": "",
-  "status": "todo",
+  "en": "Doppelganger",
+  "status": "done",
   "slots": [
    "w:2cb9a4"
   ]
@@ -3434,8 +3434,8 @@
  {
   "id": "e:2cb89c",
   "jp": "サイボーグ",
-  "en": "",
-  "status": "todo",
+  "en": "Cyborg",
+  "status": "done",
   "slots": [
    "w:2cb9a8"
   ]
@@ -3452,8 +3452,8 @@
  {
   "id": "e:2cb8b4",
   "jp": "ノクターン",
-  "en": "",
-  "status": "todo",
+  "en": "Nocturn",
+  "status": "done",
   "slots": [
    "w:2cb9b0"
   ]
@@ -3461,8 +3461,8 @@
  {
   "id": "e:2cb8bf",
   "jp": "レクイエム",
-  "en": "",
-  "status": "todo",
+  "en": "Requiem",
+  "status": "done",
   "slots": [
    "w:2cb9b4"
   ]
@@ -3470,8 +3470,8 @@
  {
   "id": "e:2cb8ca",
   "jp": "ラプソディー",
-  "en": "",
-  "status": "todo",
+  "en": "Rhapsody",
+  "status": "done",
   "slots": [
    "w:2cb9b8"
   ]
@@ -3479,8 +3479,8 @@
  {
   "id": "e:2cb8d7",
   "jp": "船",
-  "en": "",
-  "status": "todo",
+  "en": "Ship",
+  "status": "done",
   "slots": [
    "w:2cb9c0"
   ]
@@ -3488,8 +3488,8 @@
  {
   "id": "e:2cc530",
   "jp": "チェイサー",
-  "en": "",
-  "status": "todo",
+  "en": "Chaser",
+  "status": "done",
   "slots": [
    "w:2cc710",
    "w:2cca90",
@@ -3499,8 +3499,8 @@
  {
   "id": "e:2cc53b",
   "jp": "ヴァルキリー",
-  "en": "",
-  "status": "todo",
+  "en": "Valkyrie",
+  "status": "done",
   "slots": [
    "w:2cc720",
    "w:2cc8f0",
@@ -3511,8 +3511,8 @@
  {
   "id": "e:2cc548",
   "jp": "ナイト",
-  "en": "",
-  "status": "todo",
+  "en": "Knight",
+  "status": "done",
   "slots": [
    "w:2cc730",
    "w:2cc900"
@@ -3521,8 +3521,8 @@
  {
   "id": "e:2cc54f",
   "jp": "ウンディーネ",
-  "en": "",
-  "status": "todo",
+  "en": "Undine",
+  "status": "done",
   "slots": [
    "w:2cc740",
    "w:2cc8e0",
@@ -3532,8 +3532,8 @@
  {
   "id": "e:2cc55c",
   "jp": "パイレーツ",
-  "en": "",
-  "status": "todo",
+  "en": "Pirates",
+  "status": "done",
   "slots": [
    "w:2cc750",
    "w:2cc950"
@@ -3542,8 +3542,8 @@
  {
   "id": "e:2cc567",
   "jp": "グリフライダー",
-  "en": "",
-  "status": "todo",
+  "en": "Griffon Rider",
+  "status": "done",
   "slots": [
    "w:2cc760",
    "w:2cc7d0"
@@ -3552,8 +3552,8 @@
  {
   "id": "e:2cc576",
   "jp": "ガンナー",
-  "en": "",
-  "status": "todo",
+  "en": "Gunner",
+  "status": "done",
   "slots": [
    "w:2cc770",
    "w:2cc890",
@@ -3563,8 +3563,8 @@
  {
   "id": "e:2cc57f",
   "jp": "スナイパー",
-  "en": "",
-  "status": "todo",
+  "en": "Sniper",
+  "status": "done",
   "slots": [
    "w:2cc780",
    "w:2cc830",
@@ -3574,8 +3574,8 @@
  {
   "id": "e:2cc58a",
   "jp": "ネクロマンサー",
-  "en": "",
-  "status": "todo",
+  "en": "Necromancer",
+  "status": "done",
   "slots": [
    "w:2cc790"
   ]
@@ -3583,8 +3583,8 @@
  {
   "id": "e:2cc599",
   "jp": "ウィッチ",
-  "en": "",
-  "status": "todo",
+  "en": "Witch",
+  "status": "done",
   "slots": [
    "w:2cc7a0",
    "w:2cc8b0"
@@ -3593,8 +3593,8 @@
  {
   "id": "e:2cc5a2",
   "jp": "ミスティックウィッチ",
-  "en": "",
-  "status": "todo",
+  "en": "Mystic Witch",
+  "status": "done",
   "slots": [
    "w:2cc920"
   ]
@@ -3620,8 +3620,8 @@
  {
   "id": "e:2cc5cb",
   "jp": "プラウラー",
-  "en": "",
-  "status": "todo",
+  "en": "Prowler",
+  "status": "done",
   "slots": [
    "w:2cc930",
    "w:2cc940"
@@ -3630,8 +3630,8 @@
  {
   "id": "e:2cc5d6",
   "jp": "ゼパール",
-  "en": "",
-  "status": "todo",
+  "en": "Zepar",
+  "status": "done",
   "slots": [
    "w:2cc800"
   ]
@@ -3639,8 +3639,8 @@
  {
   "id": "e:2cc5df",
   "jp": "フォルネウス",
-  "en": "",
-  "status": "todo",
+  "en": "Forneus",
+  "status": "done",
   "slots": [
    "w:2cc810"
   ]
@@ -3648,8 +3648,8 @@
  {
   "id": "e:2cc5ec",
   "jp": "アンドラス",
-  "en": "",
-  "status": "todo",
+  "en": "Andras",
+  "status": "done",
   "slots": [
    "w:2cc820"
   ]
@@ -3657,8 +3657,8 @@
  {
   "id": "e:2cc5f7",
   "jp": "セイラー",
-  "en": "",
-  "status": "todo",
+  "en": "Sailor",
+  "status": "done",
   "slots": [
    "w:2cc7e0",
    "w:2cc8a0"
@@ -3667,8 +3667,8 @@
  {
   "id": "e:2cc600",
   "jp": "パラディン",
-  "en": "",
-  "status": "todo",
+  "en": "Paladin",
+  "status": "done",
   "slots": [
    "w:2cc7f0"
   ]
@@ -3676,8 +3676,8 @@
  {
   "id": "e:2cc60b",
   "jp": "エリゴル",
-  "en": "",
-  "status": "todo",
+  "en": "Eligor",
+  "status": "done",
   "slots": [
    "w:2cc840"
   ]
@@ -3685,8 +3685,8 @@
  {
   "id": "e:2cc614",
   "jp": "イノセント",
-  "en": "",
-  "status": "todo",
+  "en": "Innocent",
+  "status": "done",
   "slots": [
    "w:2cc850"
   ]
@@ -3694,8 +3694,8 @@
  {
   "id": "e:2cc61f",
   "jp": "ケット・シー",
-  "en": "",
-  "status": "todo",
+  "en": "Cait Sith",
+  "status": "done",
   "slots": [
    "w:2cc860",
    "w:2cca20"
@@ -3704,8 +3704,8 @@
  {
   "id": "e:2cc62c",
   "jp": "ウラノス",
-  "en": "",
-  "status": "todo",
+  "en": "Uranus",
+  "status": "done",
   "slots": [
    "w:2cc870"
   ]
@@ -3713,8 +3713,8 @@
  {
   "id": "e:2cc635",
   "jp": "キャプテン",
-  "en": "",
-  "status": "todo",
+  "en": "Captain",
+  "status": "done",
   "slots": [
    "w:2cc880"
   ]
@@ -3722,8 +3722,8 @@
  {
   "id": "e:2cc640",
   "jp": "ヴァンパイア",
-  "en": "",
-  "status": "todo",
+  "en": "Vampire",
+  "status": "done",
   "slots": [
    "w:2cc8c0"
   ]
@@ -3731,8 +3731,8 @@
  {
   "id": "e:2cc64d",
   "jp": "アヴェンジャー",
-  "en": "",
-  "status": "todo",
+  "en": "Avenger",
+  "status": "done",
   "slots": [
    "w:2cc910"
   ]
@@ -3740,8 +3740,8 @@
  {
   "id": "e:2cc65c",
   "jp": "ブラックチェイサー",
-  "en": "",
-  "status": "todo",
+  "en": "Black Chaser",
+  "status": "done",
   "slots": [
    "w:2cc960"
   ]
@@ -3749,8 +3749,8 @@
  {
   "id": "e:2cc66f",
   "jp": "カルカッサ",
-  "en": "",
-  "status": "todo",
+  "en": "Carcassa",
+  "status": "done",
   "slots": [
    "w:2cc970"
   ]
@@ -3758,8 +3758,8 @@
  {
   "id": "e:2cc67a",
   "jp": "ジェネラル",
-  "en": "",
-  "status": "todo",
+  "en": "General",
+  "status": "done",
   "slots": [
    "w:2cc990"
   ]
@@ -3767,8 +3767,8 @@
  {
   "id": "e:2cc685",
   "jp": "ベイオネット",
-  "en": "",
-  "status": "todo",
+  "en": "Bayonet",
+  "status": "done",
   "slots": [
    "w:2cc9b0"
   ]
@@ -3776,8 +3776,8 @@
  {
   "id": "e:2cc692",
   "jp": "プリンス",
-  "en": "",
-  "status": "todo",
+  "en": "Prince",
+  "status": "done",
   "slots": [
    "w:2cc9c0"
   ]
@@ -3785,8 +3785,8 @@
  {
   "id": "e:2cc69b",
   "jp": "マッドサイエンティスト",
-  "en": "",
-  "status": "todo",
+  "en": "Mad Scientist",
+  "status": "done",
   "slots": [
    "w:2cc9d0"
   ]
@@ -3794,8 +3794,8 @@
  {
   "id": "e:2cc6b2",
   "jp": "アモール",
-  "en": "",
-  "status": "todo",
+  "en": "Amor",
+  "status": "done",
   "slots": [
    "w:2cca00"
   ]
@@ -3803,8 +3803,8 @@
  {
   "id": "e:2cc6bb",
   "jp": "クィーン",
-  "en": "",
-  "status": "todo",
+  "en": "Queen",
+  "status": "done",
   "slots": [
    "w:2cca10"
   ]
@@ -3812,8 +3812,8 @@
  {
   "id": "e:2cc6c4",
   "jp": "ドッペルゲンガー",
-  "en": "",
-  "status": "todo",
+  "en": "Doppelganger",
+  "status": "done",
   "slots": [
    "w:2cca30"
   ]
@@ -3821,8 +3821,8 @@
  {
   "id": "e:2cc6d5",
   "jp": "サイボーグ",
-  "en": "",
-  "status": "todo",
+  "en": "Cyborg",
+  "status": "done",
   "slots": [
    "w:2cca40"
   ]
@@ -3839,8 +3839,8 @@
  {
   "id": "e:2cc6ed",
   "jp": "ノクターン",
-  "en": "",
-  "status": "todo",
+  "en": "Nocturn",
+  "status": "done",
   "slots": [
    "w:2cca60"
   ]
@@ -3848,8 +3848,8 @@
  {
   "id": "e:2cc6f8",
   "jp": "レクイエム",
-  "en": "",
-  "status": "todo",
+  "en": "Requiem",
+  "status": "done",
   "slots": [
    "w:2cca70"
   ]
@@ -3857,8 +3857,8 @@
  {
   "id": "e:2cc703",
   "jp": "ラプソディー",
-  "en": "",
-  "status": "todo",
+  "en": "Rhapsody",
+  "status": "done",
   "slots": [
    "w:2cca80"
   ]
@@ -3912,8 +3912,8 @@
  {
   "id": "e:2f6330",
   "jp": "弱き民のために戦う若き団長！　高い突破力を武器に先陣を切る②",
-  "en": "",
-  "status": "todo",
+  "en": "Young captain fighting for the weak! His breakthrough leads the way!!",
+  "status": "done",
   "slots": [
    "w:2f68a8"
   ]
@@ -3921,8 +3921,8 @@
  {
   "id": "e:2f636d",
   "jp": "団員に慕われるムードメーカー！　狙撃から撹乱までこなす勝利の立役者②",
-  "en": "",
-  "status": "todo",
+  "en": "The Corps' beloved spark! Sniping to sowing chaos, she wins the day!!",
+  "status": "done",
   "slots": [
    "w:2f68ac"
   ]
@@ -3930,8 +3930,8 @@
  {
   "id": "e:2f63b2",
   "jp": "シニカルさを忘れない参謀！　勝利への青写真は既にその脳裏に描かれている②",
-  "en": "",
-  "status": "todo",
+  "en": "The ever-cynical tactician! His blueprint for victory is already drawn!!",
+  "status": "done",
   "slots": [
    "w:2f68b0"
   ]
@@ -3939,8 +3939,8 @@
  {
   "id": "e:2f63fb",
   "jp": "経験豊富な放浪の女戦士！　大斧から放たれる一撃はあらゆる敵を粉砕する②",
-  "en": "",
-  "status": "todo",
+  "en": "Seasoned wandering warrior! Her great axe smashes any foe!!",
+  "status": "done",
   "slots": [
    "w:2f68b4"
   ]
@@ -3948,8 +3948,8 @@
  {
   "id": "e:2f6442",
   "jp": "野心溢れる急進派の貴族！　ガーロットを右腕に据え帝国の未来を見据える②",
-  "en": "",
-  "status": "todo",
+  "en": "Ambitious radical noble! With Garlot at his side, he eyes the future!!",
+  "status": "done",
   "slots": [
    "w:2f68b8"
   ]
@@ -3957,8 +3957,8 @@
  {
   "id": "e:2f6489",
   "jp": "謎の組織・神生教団に追われる双子の妹！　ガーロットに忠誠を誓い剣を振る②",
-  "en": "",
-  "status": "todo",
+  "en": "Twin sister hunted by the Blessed Papal Army! Her sword is Garlot's!!",
+  "status": "done",
   "slots": [
    "w:2f68bc"
   ]
@@ -3966,8 +3966,8 @@
  {
   "id": "e:2f64d2",
   "jp": "北から来た獣人！　二振りの短剣をひっさげ、戦場を縦横無尽に駆け回る②",
-  "en": "",
-  "status": "todo",
+  "en": "Beast-man from the north! Twin daggers in hand, he runs riot!!",
+  "status": "done",
   "slots": [
    "w:2f68c0"
   ]
@@ -3975,8 +3975,8 @@
  {
   "id": "e:2f6517",
   "jp": "火砲に執着する異色の魔法使い！　その号砲は山を抜き、その轟音は世を覆う②",
-  "en": "",
-  "status": "todo",
+  "en": "Cannon-mad oddball mage! Her shots split peaks and shake the world!!",
+  "status": "done",
   "slots": [
    "w:2f68c4"
   ]
@@ -3984,8 +3984,8 @@
  {
   "id": "e:2f6560",
   "jp": "森に住む若き義賊・はだしのミゼル！　己のプライドを胸にその弓を引く②",
-  "en": "",
-  "status": "todo",
+  "en": "Barefoot Mizer, young outlaw of the woods! He proudly draws his bow!!",
+  "status": "done",
   "slots": [
    "w:2f68c8"
   ]
@@ -3993,8 +3993,8 @@
  {
   "id": "e:2f65a5",
   "jp": "海から来た酔いどれウンディーネ族！　酒は呑めども呑まれるな②",
-  "en": "",
-  "status": "todo",
+  "en": "Tipsy Undine from the sea! Drink the wine, don't let the wine drink you!!",
+  "status": "done",
   "slots": [
    "w:2f68cc"
   ]
@@ -4002,8 +4002,8 @@
  {
   "id": "e:2f65e2",
   "jp": "目的のためには手段を選ばぬ傭兵隊長！　姑息な卑劣漢だが実力は本物②",
-  "en": "",
-  "status": "todo",
+  "en": "Mercenary captain who'll do anything! A sneaky rat, but truly skilled!!",
+  "status": "done",
   "slots": [
    "w:2f68d0"
   ]
@@ -4011,8 +4011,8 @@
  {
   "id": "e:2f6625",
   "jp": "若年の傭兵娘！　自慢の手斧で敵視するガーロットの首を狙い続ける②",
-  "en": "",
-  "status": "todo",
+  "en": "Young mercenary girl! Her hatchet keeps going for Garlot's neck!!",
+  "status": "done",
   "slots": [
    "w:2f68d4"
   ]
@@ -4020,8 +4020,8 @@
  {
   "id": "e:2f6666",
   "jp": "謎の組織・神生教団の酷薄なる先鋒！　冷徹な暗殺者は夜を駆り、標的を狩る②",
-  "en": "",
-  "status": "todo",
+  "en": "Ruthless vanguard of the Blessed Papal Army! A cold night assassin!!",
+  "status": "done",
   "slots": [
    "w:2f68d8"
   ]
@@ -4029,8 +4029,8 @@
  {
   "id": "e:2f66af",
   "jp": "この上なくお金大好き！　現金主義の流れ傭兵は、獲物を求めて今日も彷徨う②",
-  "en": "",
-  "status": "todo",
+  "en": "Loves money above all! This cash-only sellsword roams after prey!!",
+  "status": "done",
   "slots": [
    "w:2f68dc"
   ]
@@ -4038,8 +4038,8 @@
  {
   "id": "e:2f66f8",
   "jp": "深い森に住まう隠棲の預言者！　閉ざされたその瞳が見る未来は真実なのか③",
-  "en": "",
-  "status": "todo",
+  "en": "Reclusive prophet of the deep woods! Do his closed eyes see truth?!",
+  "status": "done",
   "slots": [
    "w:2f68e0"
   ]
@@ -4047,8 +4047,8 @@
  {
   "id": "e:2f673f",
   "jp": "元帝都守備隊の隊長！　黒騎士の非情なる槍は、敵も味方も容赦なく刺し穿つ②",
-  "en": "",
-  "status": "todo",
+  "en": "Ex-captain of the capital guard! The black knight's spear spares none!!",
+  "status": "done",
   "slots": [
    "w:2f68e4"
   ]
@@ -4056,8 +4056,8 @@
  {
   "id": "e:2f6788",
   "jp": "反乱軍の総大将！　人間の夢と欲を巧みに操り、帝国に戦乱の渦を巻き起こす②",
-  "en": "",
-  "status": "todo",
+  "en": "Rebel commander! Using dreams and greed, he stirs war in the Empire!!",
+  "status": "done",
   "slots": [
    "w:2f68e8"
   ]
@@ -4065,8 +4065,8 @@
  {
   "id": "e:2f67d1",
   "jp": "ブロンキア帝国の盾と謳われる老将！　峻烈な軍神の戦ぶり、まさに獅子奮迅②",
-  "en": "",
-  "status": "todo",
+  "en": "Old general, the Shield of Bronquia! A war god who fights like a lion!!",
+  "status": "done",
   "slots": [
    "w:2f68ec"
   ]
@@ -4074,8 +4074,8 @@
  {
   "id": "e:2f681a",
   "jp": "皇帝の親衛隊を束ねる女隊長！　捧げた剣は、主の身をただ一途に守り通す②",
-  "en": "",
-  "status": "todo",
+  "en": "Leader of the Emperor's guard! Her sworn sword guards her lord alone!!",
+  "status": "done",
   "slots": [
    "w:2f68f0"
   ]
@@ -4083,8 +4083,8 @@
  {
   "id": "e:2f6861",
   "jp": "荒廃する帝国の頂点に立つ男！　仇なす者すべて、その双剣が斬って捨てる②",
-  "en": "",
-  "status": "todo",
+  "en": "Lord of a ruined Empire! His twin blades cut down all who oppose him!!",
+  "status": "done",
   "slots": [
    "w:2f68f4"
   ]
@@ -4092,8 +4092,8 @@
  {
   "id": "e:2f6d60",
   "jp": "？？？？？",
-  "en": "",
-  "status": "todo",
+  "en": "?????",
+  "status": "done",
   "slots": [
    "i:136570:136578",
    "i:1374bc:1374e4",

@@ -15302,8 +15302,8 @@
  {
   "id": "e:24bf60",
   "jp": "あぁ、みんな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, everyone...",
+  "status": "done",
   "slots": [
    "w:24c814"
   ]
@@ -15311,8 +15311,8 @@
  {
   "id": "e:24bf73",
   "jp": "あひいぃぃ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahyeeeee!",
+  "status": "done",
   "slots": [
    "w:24c81c"
   ]
@@ -15320,8 +15320,8 @@
  {
   "id": "e:24bf80",
   "jp": "まだ研究が……。",
-  "en": "",
-  "status": "todo",
+  "en": "My research isn't finished...",
+  "status": "done",
   "slots": [
    "w:24c824"
   ]
@@ -15329,8 +15329,8 @@
  {
   "id": "e:24bf91",
   "jp": "見事だ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Splendid...!",
+  "status": "done",
   "slots": [
    "w:24c82c"
   ]
@@ -15338,8 +15338,8 @@
  {
   "id": "e:24bf9e",
   "jp": "そんなぁ～。",
-  "en": "",
-  "status": "todo",
+  "en": "No waaay...",
+  "status": "done",
   "slots": [
    "w:24c834"
   ]
@@ -15347,8 +15347,8 @@
  {
   "id": "e:24bfab",
   "jp": "うぅ、くやしいよぉ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh, that's so frustrating...",
+  "status": "done",
   "slots": [
    "w:24c83c"
   ]
@@ -15356,8 +15356,8 @@
  {
   "id": "e:24bfc4",
   "jp": "大人気ないよぉ～！",
-  "en": "",
-  "status": "todo",
+  "en": "That's so childish of you!",
+  "status": "done",
   "slots": [
    "w:24c844"
   ]
@@ -15365,8 +15365,8 @@
  {
   "id": "e:24bfd7",
   "jp": "いじめっこだよぉ……。",
-  "en": "",
-  "status": "todo",
+  "en": "You're a big bully...",
+  "status": "done",
   "slots": [
    "w:24c84c"
   ]
@@ -15374,8 +15374,8 @@
  {
   "id": "e:24bfee",
   "jp": "私の、負けだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I... am defeated...",
+  "status": "done",
   "slots": [
    "w:24c854"
   ]
@@ -15383,8 +15383,8 @@
  {
   "id": "e:24c001",
   "jp": "一端の騎士では、これが限界か！",
-  "en": "",
-  "status": "todo",
+  "en": "So this is the limit of a mere knight!",
+  "status": "done",
   "slots": [
    "w:24c85c"
   ]
@@ -15392,8 +15392,8 @@
  {
   "id": "e:24c020",
   "jp": "私では、力不足か……！",
-  "en": "",
-  "status": "todo",
+  "en": "Am I not strong enough...!?",
+  "status": "done",
   "slots": [
    "w:24c864"
   ]
@@ -15401,8 +15401,8 @@
  {
   "id": "e:24c037",
   "jp": "力及ばずだ。すまない。",
-  "en": "",
-  "status": "todo",
+  "en": "I fell short. Forgive me.",
+  "status": "done",
   "slots": [
    "w:24c86c"
   ]
@@ -15410,8 +15410,8 @@
  {
   "id": "e:24c04e",
   "jp": "クッ、これは堪らないな……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh, this is more than I can take...!",
+  "status": "done",
   "slots": [
    "w:24c874"
   ]
@@ -15419,8 +15419,8 @@
  {
   "id": "e:24c06b",
   "jp": "クキャァー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyaaah!",
+  "status": "done",
   "slots": [
    "w:24c87c"
   ]
@@ -15428,8 +15428,8 @@
  {
   "id": "e:24c078",
   "jp": "ガ……ガァ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ga... gaah.",
+  "status": "done",
   "slots": [
    "w:24c884"
   ]
@@ -15437,8 +15437,8 @@
  {
   "id": "e:24c085",
   "jp": "申し訳ありません……皇帝陛下。",
-  "en": "",
-  "status": "todo",
+  "en": "Forgive me... Your Majesty.",
+  "status": "done",
   "slots": [
    "w:24c88c"
   ]
@@ -15446,8 +15446,8 @@
  {
   "id": "e:24c0a4",
   "jp": "すまない……すまない。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry... I'm sorry.",
+  "status": "done",
   "slots": [
    "w:24c894"
   ]
@@ -15455,8 +15455,8 @@
  {
   "id": "e:24c0bb",
   "jp": "これは……夢だ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is... a dream.",
+  "status": "done",
   "slots": [
    "w:24c89c"
   ]
@@ -15464,8 +15464,8 @@
  {
   "id": "e:24c0cc",
   "jp": "そんな……まさか！",
-  "en": "",
-  "status": "todo",
+  "en": "No... it can't be!",
+  "status": "done",
   "slots": [
    "w:24c8a4"
   ]
@@ -15473,8 +15473,8 @@
  {
   "id": "e:24c0df",
   "jp": "空が……遠い。",
-  "en": "",
-  "status": "todo",
+  "en": "The sky... is so far.",
+  "status": "done",
   "slots": [
    "w:24c8ac"
   ]
@@ -15482,8 +15482,8 @@
  {
   "id": "e:24c0ee",
   "jp": "もう、飛べないの……？",
-  "en": "",
-  "status": "todo",
+  "en": "I can't fly anymore...?",
+  "status": "done",
   "slots": [
    "w:24c8b4"
   ]
@@ -15491,8 +15491,8 @@
  {
   "id": "e:24c105",
   "jp": "地面って、冷たいなぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "The ground is so cold...",
+  "status": "done",
   "slots": [
    "w:24c8bc"
   ]
@@ -15500,8 +15500,8 @@
  {
   "id": "e:24c8c0",
   "jp": "血と魂の契約に従い、刹那の力を",
-  "en": "",
-  "status": "todo",
+  "en": "By the pact of blood and soul, the power of an instant",
+  "status": "done",
   "slots": [
    "w:24c8e4"
   ]
@@ -15509,8 +15509,8 @@
  {
   "id": "e:24c8e8",
   "jp": "＜破損アイテム＞",
-  "en": "",
-  "status": "todo",
+  "en": "<Broken Item>",
+  "status": "done",
   "slots": [
    "i:4cb90:4cb94"
   ]
@@ -15568,8 +15568,8 @@
  {
   "id": "e:24e1f0",
   "jp": "【勝敗条件】\n敵味方どちらかのメンバー数（左右の数字）が\n０になると戦闘終了となります。",
-  "en": "",
-  "status": "todo",
+  "en": "[Victory Conditions]\nThe battle ends when the member count of either side (the\nnumbers on the left and right) reaches 0.",
+  "status": "done",
   "slots": [
    "w:24f0e8"
   ]
@@ -15577,8 +15577,8 @@
  {
   "id": "e:24e247",
   "jp": "最後までメンバーが残っていた方の\n勝ちとなります。",
-  "en": "",
-  "status": "todo",
+  "en": "The side with members left at the end wins.",
+  "status": "done",
   "slots": [
    "w:24f0f4"
   ]
@@ -15586,8 +15586,8 @@
  {
   "id": "e:24e279",
   "jp": "【突撃】\n攻撃を仕掛けた側より突撃が行われます。\n突撃を受けた側は、メンバーが減少します。",
-  "en": "",
-  "status": "todo",
+  "en": "[Charge]\nThe attacking side charges first.\nThe side that is charged loses members.",
+  "status": "done",
   "slots": [
    "w:24f100"
   ]
@@ -15595,8 +15595,8 @@
  {
   "id": "e:24e2d2",
   "jp": "【銃兵の突撃】\nエリーシャが率いる銃兵の突撃には、\n「敵に反撃されない」長所があります。",
-  "en": "",
-  "status": "todo",
+  "en": "[Gun Unit Charge]\nThe charge of the gun units Elisha leads has a strength: \"the\nenemy can't counterattack.\"",
+  "status": "done",
   "slots": [
    "w:24f10c"
   ]
@@ -15604,8 +15604,8 @@
  {
   "id": "e:24e329",
   "jp": "敵のメンバーを一方的に減らした上で\n白兵戦を開始できます。",
-  "en": "",
-  "status": "todo",
+  "en": "They can cut down enemy members one-sidedly, then start\nthe melee.",
+  "status": "done",
   "slots": [
    "w:24f118"
   ]
@@ -15613,8 +15613,8 @@
  {
   "id": "e:24e363",
   "jp": "【反撃】\n攻撃を受けた側が反撃を行います。\n反撃により、メンバーが減少します。",
-  "en": "",
-  "status": "todo",
+  "en": "[Counterattack]\nThe side that was attacked counterattacks.\nThe counterattack reduces members.",
+  "status": "done",
   "slots": [
    "w:24f124"
   ]
@@ -15622,8 +15622,8 @@
  {
   "id": "e:24e3b0",
   "jp": "【反撃】\n突撃／反撃が終わると、\n残ったメンバーで白兵戦に移ります。",
-  "en": "",
-  "status": "todo",
+  "en": "[Counterattack]\nOnce the charge and counterattack are over, the remaining\nmembers go into melee.",
+  "status": "done",
   "slots": [
    "w:24f130"
   ]
@@ -15631,8 +15631,8 @@
  {
   "id": "e:24e3f3",
   "jp": "【銃兵の反撃】\nエリーシャが率いる銃兵には\n「反撃できない」という短所があります。",
-  "en": "",
-  "status": "todo",
+  "en": "[Gun Unit Counterattack]\nThe gun units Elisha leads have a weakness: \"they can't\ncounterattack.\"",
+  "status": "done",
   "slots": [
    "w:24f13c"
   ]
@@ -15640,8 +15640,8 @@
  {
   "id": "e:24e444",
   "jp": "攻撃を仕掛けられると、不利な状況で\n白兵戦を開始しなければなりません。",
-  "en": "",
-  "status": "todo",
+  "en": "When they are attacked, they have to start the melee at a\ndisadvantage.",
+  "status": "done",
   "slots": [
    "w:24f148"
   ]
@@ -15649,8 +15649,8 @@
  {
   "id": "e:24e48a",
   "jp": "【戦闘中の相性】\nダメージは相性によって決まり\n相性は９段階で表示されます",
-  "en": "",
-  "status": "todo",
+  "en": "[Matchups in Battle]\nDamage depends on the matchup, which is shown in 9 levels.",
+  "status": "done",
   "slots": [
    "w:24f154"
   ]
@@ -15658,8 +15658,8 @@
  {
   "id": "e:24e4d3",
   "jp": "相性良い＞＞＞＞＞＞＞＞＞＞＞＞＞相性悪い",
-  "en": "",
-  "status": "todo",
+  "en": "Good matchup >>>>>>>>>>>>> Bad matchup",
+  "status": "done",
   "slots": [
    "w:24f160"
   ]
@@ -15667,8 +15667,8 @@
  {
   "id": "e:24e4fe",
   "jp": "相性が良い場合でも相手との能力差に\nよって、戦況が不利になることもあるため\n注意が必要です。",
-  "en": "",
-  "status": "todo",
+  "en": "Be careful: even with a good matchup, a gap in ability can\nstill turn the battle against you.",
+  "status": "done",
   "slots": [
    "w:24f16c"
   ]
@@ -15676,8 +15676,8 @@
  {
   "id": "e:24e559",
   "jp": "【戦闘結果】\n戦闘内容に応じ敗者側の士気を\n減らすことができます",
-  "en": "",
-  "status": "todo",
+  "en": "[Battle Results]\nDepending on how the battle went, you can reduce the losing\nside's morale.",
+  "status": "done",
   "slots": [
    "w:24f178"
   ]
@@ -15685,8 +15685,8 @@
  {
   "id": "e:24e598",
   "jp": "【部隊士気減少】\n戦闘に敗北した部隊は士気が減少します。",
-  "en": "",
-  "status": "todo",
+  "en": "[Unit Morale Loss]\nA unit that loses a battle loses morale.",
+  "status": "done",
   "slots": [
    "w:24f184"
   ]
@@ -15694,8 +15694,8 @@
  {
   "id": "e:24e5d0",
   "jp": "部隊士気が０となると、\nそのユニットがフィールドから\nいなくなります。",
-  "en": "",
-  "status": "todo",
+  "en": "When a unit's morale reaches 0, that unit leaves the field.",
+  "status": "done",
   "slots": [
    "w:24f190"
   ]
@@ -15703,8 +15703,8 @@
  {
   "id": "e:24e615",
   "jp": "敗北条件キャラクターの部隊士気が\n０になると、ゲームオーバーとなりますので\n注意が必要です。",
-  "en": "",
-  "status": "todo",
+  "en": "Be careful: if the morale of a character in the defeat\nconditions reaches 0, it's game over.",
+  "status": "done",
   "slots": [
    "w:24f19c"
   ]
@@ -15712,8 +15712,8 @@
  {
   "id": "e:24e670",
   "jp": "【カードＰＯＷＥＲ上昇】\n敵に与えた士気ダメージに応じ、使用していた\nカードのＰＯＷＥＲが上昇します。",
-  "en": "",
-  "status": "todo",
+  "en": "[Card POWER Up]\nThe POWER of the card in use rises with the morale damage\ndealt to the enemy.",
+  "status": "done",
   "slots": [
    "w:24f1a8"
   ]
@@ -15721,8 +15721,8 @@
  {
   "id": "e:24e6d5",
   "jp": "カードＰＯＷＥＲを上昇させていくことで\n戦闘に勝利した際、より多くの士気ダメージを\n敵に与えることが可能となります。",
-  "en": "",
-  "status": "todo",
+  "en": "By raising a card's POWER, you can deal more morale damage\nto the enemy when you win a battle.",
+  "status": "done",
   "slots": [
    "w:24f1b4"
   ]
@@ -15730,8 +15730,8 @@
  {
   "id": "e:24e748",
   "jp": "【スキルゲージ】\nこのステージより、戦闘中にスキルゲージが\n表示されるようになります。",
-  "en": "",
-  "status": "todo",
+  "en": "[Skill Gauge]\nFrom this stage on, the Skill Gauge is shown during battle.",
+  "status": "done",
   "slots": [
    "w:24f1c0"
   ]
@@ -15739,8 +15739,8 @@
  {
   "id": "e:24e79d",
   "jp": "また、戦闘中のユニットに\n方向キーで作戦を指示できます。\n方向キー右か左を押してみて下さい！",
-  "en": "",
-  "status": "todo",
+  "en": "You can also give orders to a unit in battle with the D-pad.\nTry pressing right or left on the D-pad!",
+  "status": "done",
   "slots": [
    "w:24f1cc"
   ]
@@ -15748,8 +15748,8 @@
  {
   "id": "e:24e7f8",
   "jp": "【Ａｇｇｒｅｓｓｉｖｅ】\n方向キー右を押している間、\n部隊は攻撃重視の作戦を採ります。",
-  "en": "",
-  "status": "todo",
+  "en": "[Aggressive]\nWhile you hold right on the D-pad, the unit fights with an\nattack-focused strategy.",
+  "status": "done",
   "slots": [
    "w:24f1d8"
   ]
@@ -15757,8 +15757,8 @@
  {
   "id": "e:24e84d",
   "jp": "作戦中は攻撃力がアップします。\nまた、ユニットの能力によっては\n攻撃に属性が付加されます。",
-  "en": "",
-  "status": "todo",
+  "en": "During this strategy its attack goes up. Depending on the\nunit's abilities, its attacks may also gain an element.",
+  "status": "done",
   "slots": [
    "w:24f1e4"
   ]
@@ -15766,8 +15766,8 @@
  {
   "id": "e:24e8a6",
   "jp": "ただし徐々にゲージを消費するため、\nあらかじめスキルゲージを\n溜めておく必要があります。",
-  "en": "",
-  "status": "todo",
+  "en": "But it slowly uses up the gauge, so you need to fill the Skill\nGauge beforehand.",
+  "status": "done",
   "slots": [
    "w:24f1f0"
   ]
@@ -15775,8 +15775,8 @@
  {
   "id": "e:24e8fd",
   "jp": "方向キー右を押している間は、\nずっと攻撃力アップの効果が継続します。",
-  "en": "",
-  "status": "todo",
+  "en": "As long as you hold right on the D-pad, the attack boost\nlasts.",
+  "status": "done",
   "slots": [
    "w:24f1fc"
   ]
@@ -15784,8 +15784,8 @@
  {
   "id": "e:24e941",
   "jp": "【Ｐａｓｓｉｖｅ】\n方向キー左を押している間、\n部隊は慎重姿勢の作戦を採ります。",
-  "en": "",
-  "status": "todo",
+  "en": "[Passive]\nWhile you hold left on the D-pad, the unit takes a cautious\nstrategy.",
+  "status": "done",
   "slots": [
    "w:24f208"
   ]
@@ -15793,8 +15793,8 @@
  {
   "id": "e:24e990",
   "jp": "作戦中は攻撃力がダウンしますが、\nスキルゲージを徐々に\n蓄積することができます。",
-  "en": "",
-  "status": "todo",
+  "en": "During this strategy its attack goes down, but the Skill\nGauge slowly fills up.",
+  "status": "done",
   "slots": [
    "w:24f214"
   ]
@@ -15802,8 +15802,8 @@
  {
   "id": "e:24e9df",
   "jp": "方向キー左を押している間は、\nゲージ蓄積の効果が継続します。",
-  "en": "",
-  "status": "todo",
+  "en": "As long as you hold left on the D-pad, the gauge keeps filling.",
+  "status": "done",
   "slots": [
    "w:24f220"
   ]
@@ -15811,8 +15811,8 @@
  {
   "id": "e:24ea1b",
   "jp": "【レイジレート】\n敵側にはレイジレートという\nゲージが存在します。",
-  "en": "",
-  "status": "todo",
+  "en": "[Rage Rate]\nThe enemy side has a gauge called the Rage Rate.",
+  "status": "done",
   "slots": [
    "w:24f22c"
   ]
@@ -15820,8 +15820,8 @@
  {
   "id": "e:24ea5c",
   "jp": "戦闘中徐々に蓄積されていき、\n蓄積状況により３段階に分かれます。",
-  "en": "",
-  "status": "todo",
+  "en": "It slowly fills during battle and has 3 levels, depending on\nhow full it is.",
+  "status": "done",
   "slots": [
    "w:24f238"
   ]
@@ -15829,8 +15829,8 @@
  {
   "id": "e:24ea9c",
   "jp": "【通常状態】\nゲージが溜まっていない状態",
-  "en": "",
-  "status": "todo",
+  "en": "[Normal State]\nThe gauge has not filled.",
+  "status": "done",
   "slots": [
    "w:24f244"
   ]
@@ -15838,8 +15838,8 @@
  {
   "id": "e:24eac4",
   "jp": "【レイジ状態】\n細いラインが1本溜まった状態です。\n敵の攻撃力が少しアップします。",
-  "en": "",
-  "status": "todo",
+  "en": "[Rage State]\nOne thin line has filled. The enemy's attack goes up a little.",
+  "status": "done",
   "slots": [
    "w:24f250"
   ]
@@ -15847,8 +15847,8 @@
  {
   "id": "e:24eb14",
   "jp": "敵ユニットによっては攻撃に\n属性が付加されます。",
-  "en": "",
-  "status": "todo",
+  "en": "Depending on the enemy unit, its attacks may gain an\nelement.",
+  "status": "done",
   "slots": [
    "w:24f25c"
   ]
@@ -15856,8 +15856,8 @@
  {
   "id": "e:24eb44",
   "jp": "【ＭＡＸ状態】\n太いラインが溜まった状態です。\n敵の攻撃力が大幅にアップします。",
-  "en": "",
-  "status": "todo",
+  "en": "[MAX State]\nThe thick line has filled. The enemy's attack goes up a lot.",
+  "status": "done",
   "slots": [
    "w:24f268"
   ]
@@ -15865,8 +15865,8 @@
  {
   "id": "e:24eb93",
   "jp": "【クリティカル】\n突撃時には、強力な攻撃\n「クリティカル」が稀に発生します。",
-  "en": "",
-  "status": "todo",
+  "en": "[Critical]\nDuring a charge, a powerful attack, a \"Critical,\" rarely\nhappens.",
+  "status": "done",
   "slots": [
    "w:24f274"
   ]
@@ -15874,8 +15874,8 @@
  {
   "id": "e:24ebde",
   "jp": "クリティカルが発生すると\nヘッド（部隊のリーダー）が倒れ、\n部隊がパニックとなります。",
-  "en": "",
-  "status": "todo",
+  "en": "When a Critical happens, the Head (the unit's leader) falls and\nthe unit panics.",
+  "status": "done",
   "slots": [
    "w:24f280"
   ]
@@ -15883,8 +15883,8 @@
  {
   "id": "e:24ec33",
   "jp": "パニック状態になった部隊は、\n作戦やスキル使用の指示を出すことが\nできなくなります。",
-  "en": "",
-  "status": "todo",
+  "en": "A panicked unit can't be given strategy or skill orders.",
+  "status": "done",
   "slots": [
    "w:24f28c"
   ]
@@ -15892,8 +15892,8 @@
  {
   "id": "e:24ec86",
   "jp": "また、画面上部に表示される\nチャンスタイムがなくなると、\nパニック状態から復帰します。",
-  "en": "",
-  "status": "todo",
+  "en": "When the Chance Time shown at the top of the screen runs\nout, the unit recovers from the panic.",
+  "status": "done",
   "slots": [
    "w:24f298"
   ]
@@ -15901,8 +15901,8 @@
  {
   "id": "e:24ecdb",
   "jp": "【スキルの使用】\nこのステージより戦闘中に\nスキルを使用できるようになりました。",
-  "en": "",
-  "status": "todo",
+  "en": "[Using Skills]\nFrom this stage on, you can use skills during battle.",
+  "status": "done",
   "slots": [
    "w:24f2a4"
   ]
@@ -15910,8 +15910,8 @@
  {
   "id": "e:24ed2a",
   "jp": "スキルを使用するには、スキルゲージを\n満タンまで溜める必要があります。",
-  "en": "",
-  "status": "todo",
+  "en": "To use a skill, you need to fill the Skill Gauge to full.",
+  "status": "done",
   "slots": [
    "w:24f2b0"
   ]
@@ -15919,8 +15919,8 @@
  {
   "id": "e:24ed70",
   "jp": "方向キー左を押し続ければ、\n「Ｐａｓｓｉｖｅ」指示を出して\nスキルゲージを回復できます。",
-  "en": "",
-  "status": "todo",
+  "en": "If you keep holding left on the D-pad, you give the \"Passive\"\norder and refill the Skill Gauge.",
+  "status": "done",
   "slots": [
    "w:24f2bc"
   ]
@@ -15928,8 +15928,8 @@
  {
   "id": "e:24edc7",
   "jp": "【スキルの使用】\nスキルゲージが満タンになりました。",
-  "en": "",
-  "status": "todo",
+  "en": "[Using Skills]\nThe Skill Gauge is full.",
+  "status": "done",
   "slots": [
    "w:24f2c8"
   ]
@@ -15937,8 +15937,8 @@
  {
   "id": "e:24edfb",
   "jp": "ただし、既に説明があった通り、\n使用条件とエースタイプを満たしていないと、\nスキルを使うことはできません。",
-  "en": "",
-  "status": "todo",
+  "en": "But as explained before, you can't use a skill unless you meet\nits conditions and Ace Type.",
+  "status": "done",
   "slots": [
    "w:24f2d4"
   ]
@@ -15946,8 +15946,8 @@
  {
   "id": "e:24ee64",
   "jp": "条件を満たしている場合、\n□ボタンでスキル発動です！",
-  "en": "",
-  "status": "todo",
+  "en": "If the conditions are met, press the Square button to unleash\nthe skill!",
+  "status": "done",
   "slots": [
    "w:24f2e0"
   ]
@@ -15955,8 +15955,8 @@
  {
   "id": "e:24ee98",
   "jp": "【Ｃｈａｒｇｅスキル】\n□ボタンを押し続けて、満タンまで\nチャージして使う種類のスキルです。",
-  "en": "",
-  "status": "todo",
+  "en": "[Charge Skill]\nA kind of skill you use by holding the Square button until it\ncharges to full.",
+  "status": "done",
   "slots": [
    "w:24f2ec"
   ]
@@ -15964,8 +15964,8 @@
  {
   "id": "e:24eef3",
   "jp": "途中で□ボタンを離すと、\n使用中断になるので、注意しましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "If you let go of the Square button partway, the skill is\ncancelled, so be careful.",
+  "status": "done",
   "slots": [
    "w:24f2f8"
   ]
@@ -15973,8 +15973,8 @@
  {
   "id": "e:24ef31",
   "jp": "【強攻撃】\n攻撃中、ときどき「強攻撃」という\n特殊なアタックが発動します。",
-  "en": "",
-  "status": "todo",
+  "en": "[Strong Attack]\nDuring attacks, a special attack called a \"Strong Attack\"\nsometimes happens.",
+  "status": "done",
   "slots": [
    "w:24f304"
   ]
@@ -15982,8 +15982,8 @@
  {
   "id": "e:24ef7a",
   "jp": "「強攻撃」は、通常の攻撃よりも\n与えるダメージがアップします。",
-  "en": "",
-  "status": "todo",
+  "en": "A \"Strong Attack\" deals more damage than a normal attack.",
+  "status": "done",
   "slots": [
    "w:24f310"
   ]
@@ -15991,8 +15991,8 @@
  {
   "id": "e:24efb8",
   "jp": "また、スキルのチャージ中に\n敵の「強攻撃」を受けると、\nチャージが中断してしまいます。",
-  "en": "",
-  "status": "todo",
+  "en": "Also, if you take an enemy \"Strong Attack\" while charging a\nskill, the charge is interrupted.",
+  "status": "done",
   "slots": [
    "w:24f31c"
   ]
