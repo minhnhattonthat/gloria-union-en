@@ -118,26 +118,39 @@ def scan(b):
         p += 4
 
 
-def ptg(b, o=0):
-    """Composite the PTG@ sprite at o -> h x w x 4.
+def ptg_parts(b, o=0):
+    """(block start, PTX pieces with offsets relative to the block, sprites) of the PTG@ at o.
 
-    Header: +4 vertex offset, +8 PTX block offset, +C its size, +10 u16 w, h. The PTX pieces stack vertically into one
-    atlas; the vertices are GE sprite pairs (top-left, bottom-right) of u16 u, v, x, y, z.
+    Header: +4 vertex offset, +8 PTX block offset, +C its size (0 = one PTX at the offset, length unrecorded),
+    +10 u16 w, h. Vertices are GE sprite pairs (top-left, bottom-right) of u16 u, v, x, y, z. Each sprite reads
+    piece k; v counts from the top of that piece, so v going back down means the next piece (verified: chapter
+    cards 1582-1588, whose last 8 rows come from the 448x8 second piece). A scan of all 1991 PTGs in the CPK: 857
+    restart v, none reads past piece 0's height. Sprite = (k, u0, v0, u1, v1, x0, y0, x1, y1).
     """
-    vo, to, size, w, h = struct.unpack_from("<IIIHH", b, o + 4)
-    # size 0: one PTX follows at the offset, its length unrecorded
-    block = b[o + to:o + to + size] if size else b[o + to:]
-    pieces = [decode(block, t) for t in (scan(block) if size else [parse(block)])]
-    atlas = np.zeros((sum(p.shape[0] for p in pieces), max(p.shape[1] for p in pieces), 4), dtype=np.uint8)
-    y = 0
-    for p in pieces:
-        atlas[y:y + p.shape[0], :p.shape[1]] = p
-        y += p.shape[0]
+    vo, to, size = struct.unpack_from("<III", b, o + 4)
+    base = o + to
+    block = bytes(b[base:base + size]) if size else bytes(b[base:])
+    pieces = scan(block) if size else [parse(block)]
     v = list(struct.iter_unpack("<5H", b[o + vo:o + vo + (to - vo) // 10 * 10]))
-    # the last band can run past the header's height: padding rows of the 8-px grid
-    out = np.zeros((max([h] + [p[3] for p in v]), max([w] + [p[2] for p in v]), 4), dtype=np.uint8)
+    sprites, k, last = [], 0, 0
     for (u0, v0, x0, y0, _), (u1, v1, x1, y1, _) in zip(v[::2], v[1::2]):
-        out[y0:y1, x0:x1] = atlas[v0:v1, u0:u1]
+        if v0 < last and k + 1 < len(pieces):   # v restarted: the next piece
+            k += 1
+        last = v0
+        sprites.append((k, u0, v0, u1, v1, x0, y0, x1, y1))
+    return base, pieces, sprites
+
+
+def ptg(b, o=0):
+    """Composite the PTG@ sprite at o -> h x w x 4 (layout: ptg_parts)."""
+    w, h = struct.unpack_from("<HH", b, o + 0x10)
+    base, pieces, sprites = ptg_parts(b, o)
+    block = bytes(b[base:])
+    tex = [decode(block, t) for t in pieces]
+    # the last band can run past the header's height: padding rows of the 8-px grid
+    out = np.zeros((max([h] + [s[8] for s in sprites]), max([w] + [s[7] for s in sprites]), 4), dtype=np.uint8)
+    for k, u0, v0, u1, v1, x0, y0, x1, y1 in sprites:
+        out[y0:y1, x0:x1] = tex[k][v0:v1, u0:u1]
     return out
 
 

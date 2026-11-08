@@ -47,10 +47,11 @@ EBOOT = "/PSP_GAME/SYSDIR/EBOOT.BIN"
 def build(out, mode="en", only=None, qa=None):
     """VWF + text from script/ ('en': English where present; 'marker': every line marked, tools/insert.py).
     qa: {entry id: text} overrides, for width tests."""
+    import gfx
     import insert
     ins = insert.Inserter(mode, only, qa)
     files = {EBOOT: ins.eboot()}
-    rebuild(out, ins.cpk(), files)
+    rebuild(out, gfx.apply(ins.cpk()), files)
     log = out.with_suffix(".writes.txt")
     log.write_text("\n".join(ins.eb.log) + "\n", "utf8")
     return out

@@ -6,7 +6,7 @@
 
 Each scene runs in its own process with a fresh memstick. Exit 1 if a scene was not reached.
 """
-import argparse, os, struct, subprocess, sys, time
+import argparse, os, re, struct, subprocess, sys, time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gu
@@ -132,7 +132,8 @@ def main():
         except Exception as e: ok, info = False, f'crash {e!r}'
         print('ok' if ok else 'FAIL', a.scene, info)
         sys.exit(0 if ok else 1)
-    todo = [n for n in scenes() if a.match in n]
+    todo = [n for n in scenes() if re.search(a.match, n)]   # regex: 'card_ch|game_over'
+    os.makedirs(ROOT, exist_ok=True)
     running, results = [], []
     while todo or running:
         while todo and len(running) < a.jobs:

@@ -48,11 +48,11 @@ def test_second_piece_shares_the_palette():
 
 def test_ptg_stacks_pieces_and_places_quads():
     block = tex(4, 2, bytes(8), [RED, BLUE]) + tex(4, 2, bytes([1]) * 8)
-    # one quad: atlas (1,1)-(3,3) crosses both pieces, drawn at (2,0)-(4,2)
-    verts = struct.pack("<10H", 1, 1, 2, 0, 0, 3, 3, 4, 2, 0)
+    # quad 1: piece 0 (1,1)-(3,2) at (2,0); quad 2: v restarts at 0, so piece 1 (0,0)-(2,1) at (2,1)
+    verts = struct.pack("<20H", 1, 1, 2, 0, 0, 3, 2, 4, 1, 0, 0, 0, 2, 1, 0, 2, 1, 4, 2, 0)
     b = b"PTG@" + struct.pack("<IIIHH", 0x20, 0x20 + len(verts), len(block), 6, 3) + b"\0" * 12 + verts + block
     out = ptx.ptg(b)
     assert out.shape == (3, 6, 4)
-    assert tuple(out[0, 2]) == (255, 0, 0, 255)  # row 1 of the atlas: first piece
-    assert tuple(out[1, 2]) == (0, 0, 255, 255)  # row 2 of the atlas: second piece
-    assert out[2, 2, 3] == 0 and out[0, 0, 3] == 0  # outside the quad
+    assert tuple(out[0, 2]) == (255, 0, 0, 255)  # first piece
+    assert tuple(out[1, 2]) == (0, 0, 255, 255)  # second piece, though its v (0) is above the first quad's
+    assert out[2, 2, 3] == 0 and out[0, 0, 3] == 0  # outside the quads
