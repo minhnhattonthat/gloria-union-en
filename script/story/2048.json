@@ -321,7 +321,7 @@
  {
   "id": "s2048:005e6",
   "jp": "改めてすげぇな。親父の奴。",
-  "en": "Dad really is amazing, all over again.",
+  "en": "Man, Dad's really somethin' else, huh.",
   "status": "done",
   "slots": [
    "0x4ea2"
@@ -1234,7 +1234,7 @@
  {
   "id": "s2048:05594",
   "jp": "なんだ、もう勝ったつもりか？\n相変わらず愉快な頭だな。",
-  "en": "What, you think you've already won? As\ncheerful a head as ever.",
+  "en": "What, you think you've already won? Your\nhead's as full of sunshine as ever.",
   "status": "done",
   "slots": [
    "0x94da"
@@ -1579,7 +1579,7 @@
  {
   "id": "s2048:05ac7",
   "jp": "私の……！？",
-  "en": "Who I...!?",
+  "en": "Who I really am...!?",
   "status": "done",
   "slots": [
    "0xadee"

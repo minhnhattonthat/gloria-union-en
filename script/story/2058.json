@@ -101,7 +101,7 @@
  {
   "id": "s2058:001e5",
   "jp": "ろうにゃくにゃんにょ。って\nなんて言葉だ？",
-  "en": "\"Young and meowld\"? What kinda word is\nthat?",
+  "en": "\"Young and meowld, men and meowmen\"?\nWhat kinda words are those?",
   "status": "done",
   "slots": [
    "0x2784"
@@ -112,7 +112,7 @@
  {
   "id": "s2058:00213",
   "jp": "言えてませんよ兄貴。\nろうにゃく、にょ。とは歳や男女の\n区別なく全ての人々って意味です。",
-  "en": "You didn't say it right, Boss. \"Young and o...\nmeowld\" means all people, regardless of age\nor sex.",
+  "en": "You didn't say it right, Boss. \"Young and\nmeow-- old, men and... women\" means all\npeople, regardless of age or sex.",
   "status": "done",
   "slots": [
    "0x27af"
@@ -189,7 +189,7 @@
  {
   "id": "s2058:00354",
   "jp": "ドンマイっすルルゥさん。",
-  "en": "Never mind, Ruru-san.",
+  "en": "Don't let it get to you, Ruru-san.",
   "status": "done",
   "slots": [
    "0x287c"
@@ -926,7 +926,7 @@
  {
   "id": "s2058:00f47",
   "jp": "めちゃくちゃっす。",
-  "en": "This is a total mess.",
+  "en": "He's out of his mind, sir.",
   "status": "done",
   "slots": [
    "0x4da4"
@@ -1550,7 +1550,7 @@
  {
   "id": "s2058:01bb2",
   "jp": "どんな所にあろうと、\n飛んでる私には関係ないだわさ。",
-  "en": "Wherever it is, it doesn't matter to me, I fly,\ndontcha know.",
+  "en": "Wherever it is, it doesn't matter to me,\nsince I fly, dontcha know.",
   "status": "done",
   "slots": [
    "0x67e2"

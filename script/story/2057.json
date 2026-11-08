@@ -615,7 +615,7 @@
  {
   "id": "s2057:00c8f",
   "jp": "逃がすな！　追え！",
-  "en": "Don't let 'em get away! After 'em!",
+  "en": "Don't let him escape! After him!",
   "status": "done",
   "slots": [
    "0x7013"
@@ -1930,7 +1930,7 @@
  {
   "id": "s2057:076fa",
   "jp": "思ってないよ。\n少なくとも、兄貴には負けっぱなし\nだからね。",
-  "en": "I don't. After all, I keep losing to the Boss,\nat least.",
+  "en": "I don't. I mean, I've never once beaten the\nBoss.",
   "status": "done",
   "slots": [
    "0xbb56"

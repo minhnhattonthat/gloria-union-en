@@ -519,7 +519,7 @@
  {
   "id": "s2050:00906",
   "jp": "私のメテオと、お姉ちゃんの銃。\nどっちが強いのかな！",
-  "en": "Locomoco's Meteor or your gun, lady. Which\nis stronger, I wonder!",
+  "en": "Locomoco's Meteor or Big Sister's gun.\nWhich is stronger, I wonder!",
   "status": "done",
   "slots": [
    "0x3deb"
@@ -777,7 +777,7 @@
  {
   "id": "s2050:00d9f",
   "jp": "ウチに？",
-  "en": "Us?",
+  "en": "Join us?",
   "status": "done",
   "slots": [
    "0x4c1e"
