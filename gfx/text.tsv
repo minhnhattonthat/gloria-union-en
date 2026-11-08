@@ -247,3 +247,40 @@ time_evening	夕方	Evening
 time_night	夜	Night
 stat_durability	耐久	Dur.
 stat_morale	士気	Mor.
+cs_equip	装備	Equip
+cs_heal	回復	Heal
+cs_captain	船長	Capt.
+cs_refit	改造	Refit
+sort_label	:並び替え	: Sort
+sort_default	基本	Default
+sort_name	名前	Name
+sort_used	使用頻度	Most Used
+sort_kana	アイウエオ順	By Name
+sort_recovery	回復量順	By Recovery
+hd_equip	装備選択	Equipment
+hd_equipped	装備中…	Equipped
+hd_morale	士気回復	Heal Morale
+hd_captain	船長選択	Captain Change
+hd_refit	改造・修理	Refit/Repair
+chip_repair	修理	Fix
+chip_sortie	出	S
+chip_ship	船に装備可能	Ship gear OK
+name_ishut	イシュト	Ishut
+name_pinger	ピンガー	Pinger
+name_ruru	ルルゥ	Ruru
+name_zazarland	ザザーランド	Zazarland
+name_elisha	エリーシャ	Elisha
+name_minesota	ミネソタ	Minesota
+name_locomoco	ロコモコ	Locomoco
+name_raspberry	ラズベリー	Raspberry
+name_gangr	ガング	Gangr
+name_fiebee	フィービー	Fiebee
+name_anne	アンヌ	Anne
+name_kamuru	カミュル	Kamuru
+name_yggdra	ユグドラ	Yggdra
+name_pamela	パメラ	Pamela
+name_eater	イータ	Eater
+ab_night_fire	夜間も砲撃可	Bombard at night
+ab_fire_move	砲撃後も移動可	Move after bombard
+refit_prompt	－改造する箇所を選択してください－	- Choose a part to refit -
+reward_prompt	このアイテムを報酬にしますか？	Make this item the reward?

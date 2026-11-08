@@ -73,9 +73,23 @@ def palette(b, a):
     return np.frombuffer(pals.pop(), np.uint8).reshape(-1, 4).astype(int)
 
 
+def moved(b, a):
+    """The asset with its offset in b: a PTG resize in a PTP file moves the later entries (two resized PTGs in one
+    file), so a PTP entry is found again by its number."""
+    if a["kind"] == "stack" or b[:4] != b"PTP\0":
+        return a
+    orig = (FILES / f"{files(a)[0]:05d}.bin").read_bytes()
+    n = struct.unpack_from("<I", orig, 4)[0]
+    ents = list(struct.unpack_from(f"<{n}I", orig, 0x10))
+    if a["off"] not in ents:
+        return a
+    return dict(a, off=struct.unpack_from("<I", b, 0x10 + 4 * ents.index(a["off"]))[0])
+
+
 def read(b, a):
     if a["section"] is not None:
         return read(*section(b, a))
+    a = moved(b, a)
     if a["kind"] == "stack":
         return np.vstack([ptx.decode(bytes(b), t) for _, t in bands(b, a)])
     return ptx.decode(bytes(b), ptx.parse(b, a["off"])) if a["kind"] == "ptx" else ptx.ptg(bytes(b), a["off"])
@@ -98,6 +112,7 @@ def write(b, a, img):
         write(s, inner, img)
         b[:] = fct_pack(bytes(b), {a["section"]: bytes(s)})
         return
+    a = moved(b, a)
     if a["kind"] == "stack":
         for y, t in bands(b, a):
             out = ptx.encode(b, t, img[y:y + t["h"]])
@@ -680,7 +695,7 @@ def draw_pack(a, rects, redraw, size, face="LiberationSans-Bold.ttf", stroke=1, 
     out[sub] = 0
     th, tw = a.shape[:2]
     while True:
-        used = out[..., 3] > 0
+        used = out[..., 3] > 4   # some sheets' clear colour has alpha 2
         for i, (u, v, w, h) in enumerate(rects):
             if i not in redraw:
                 used[v:v + h, u:u + w] = True
@@ -716,11 +731,18 @@ def eboot(e):
         p = GFX / f"{name}.rects"
         if not a.get("table") or not p.exists():
             continue
-        vaddr, n = a["table"]
         rects = [[int(x) for x in ln.split()] for ln in p.read_text("utf8").split("\n") if ln.strip()]
-        assert len(rects) == n, f"{p}: {len(rects)} rects, table has {n}"
-        old = ELF.read_bytes()[vaddr + 0xA0:vaddr + 0xA0 + 8 * n]
-        e.put(vaddr, b"".join(struct.pack("<4h", *r) for r in rects), expect=old, by=f"gfx {name}")
+        tables = tables_of(a)
+        assert len(rects) == sum(n for _, n in tables), f"{p}: {len(rects)} rects, tables have {tables}"
+        for vaddr, n in tables:   # the .rects file lists every table's rects in order
+            old = ELF.read_bytes()[vaddr + 0xA0:vaddr + 0xA0 + 8 * n]
+            e.put(vaddr, b"".join(struct.pack("<4h", *r) for r in rects[:n]), expect=old, by=f"gfx {name}")
+            rects = rects[n:]
+
+
+def tables_of(a):
+    """An asset's EBOOT rect tables: table is (vaddr, n) or a list of them (one sheet used by several screens)."""
+    return a["table"] if isinstance(a["table"], list) else [a["table"]]
 
 
 def draw_label(a, text, face, size, keep=0, dark_fill=True, shear=0.0, stroke=2, wmax=0):
@@ -752,14 +774,16 @@ def draw_label(a, text, face, size, keep=0, dark_fill=True, shear=0.0, stroke=2,
     return res
 
 
-def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1, ink=None):
+def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1, ink=None, clear=True, center=False):
     """Same-rect redraw (the game's rects stay): each (rect, text, dark_fill) is cleared (pad px wider: the old shadow)
-    and the English drawn in it left-aligned, vertically centred, in that rect's old ink colours (or ink=(light, dark)),
-    squeezed (to 0.75, then a smaller font) to fit."""
+    and the English drawn in it left-aligned (or centred), vertically centred, in that rect's old ink colours (or
+    ink=(light, dark)), squeezed (to 0.75, then a smaller font) to fit. clear=False: the caller already removed the
+    old lettering (text on a filled shape)."""
     inks = [ink or ink_colours(a[v:v + h, u:u + w]) for (u, v, w, h), _, _ in items]
     out = a.copy()
     for (u, v, w, h), _, _ in items:
-        out[max(0, v - pad):v + h + pad, max(0, u - pad):u + w + pad] = 0
+        if clear:
+            out[max(0, v - pad):v + h + pad, max(0, u - pad):u + w + pad] = 0
     im = Image.fromarray(out)
     for ((u, v, w, h), text, dark), (light, darkc) in zip(items, inks):
         if not text:   # a counter English does without (枚, 人): left blank
@@ -778,8 +802,9 @@ def draw_fixed(a, items, size, face="LiberationSans-Bold.ttf", stroke=1, pad=1, 
         if xs < 1:
             lt = layer_text(text, font(face, s), fill, stroke, rim, xs, lines=True)
         top = (lt.height - h) // 2
-        im.alpha_composite(lt.crop((2, max(0, top), min(lt.width, w + 2), max(0, top) + min(h, lt.height))),
-                           (u, v + max(0, -top)))
+        dx = max(0, (w - (lt.width - 4)) // 2) if center else 0
+        im.alpha_composite(lt.crop((2, max(0, top), min(lt.width, w + 2 - dx), max(0, top) + min(h, lt.height))),
+                           (u + dx, v + max(0, -top)))
     res = np.array(im)
     res[res[..., 3] == 0] = 0   # quantize maps it to the palette's clear entry
     return res
@@ -907,6 +932,80 @@ BUTTONS = {4: "btn_confirm", 5: "btn_back", 6: "btn_data", 7: "btn_help", 8: "bt
 asset("buttons", 3, "ptx", 0xF0390, (0, 0, 240, 144),
       lambda a, t: draw_sheet(a, table_rects(0x2f28b0, 33), {i: t[k] for i, k in BUTTONS.items()}, 12),
       table=(0x2f28b0, 33))
+
+
+# --- character select (asset file 2418) ---------------------------------------------------------------------------
+
+def draw_arrows(a, words):
+    """The two 60 px double arrows (装備|回復, 船長|改造; the screen shows each one's left half at the left edge and its
+    right half at the right). The lettering is found as opaque non-yellow pixels whose mirror image across the
+    arrow's axis differs (the outline is symmetric), filled from the yellow around it, and the English drawn in the
+    old orange, one word per half."""
+    body = np.array([253, 243, 68, 255])
+    m = np.zeros(a.shape[:2], bool)
+    for x0 in (0, 60):
+        part = a[17:39, x0:x0 + 60].astype(int)
+        mirror = part[:, ::-1]
+        inner = np.zeros(part.shape[:2], bool)
+        inner[:, 7:53] = True   # no outline there in these rows
+        m[17:39, x0:x0 + 60] = (part[..., 3] >= 100) & (part != body).any(2) & ((part != mirror).any(2) | inner)
+    out = inpaint(a, grow(m) & (a[..., 3] >= 100))
+    orange = (251, 113, 40, 255)
+    rects = [(3, 18, 26, 20), (31, 18, 26, 20), (63, 18, 26, 20), (91, 18, 26, 20)]
+    return draw_fixed(out, [(r, w, False) for r, w in zip(rects, words)], 11, stroke=0, ink=(orange, orange),
+                      clear=False, center=True)
+
+
+asset("cs_arrows", 2418, "ptx", 0x15590, (0, 0, 120, 62),
+      lambda a, t: draw_arrows(a, [t["cs_equip"], t["cs_heal"], t["cs_captain"], t["cs_refit"]]))
+SORT = {0: "sort_default", 1: "sort_name", 4: "sort_used", 5: "sort_label", 7: "sort_kana", 8: "sort_recovery"}
+asset("cs_sort", 2418, "ptx", 0x1cfc0, (0, 0, 160, 38),
+      # tables: the equipment list's words + ":並び替え" (0x2ca29e), the morale list's ":並び替え" + words (0x2cb0cc);
+      # each word is drawn after the label at a fixed x with nothing right of it, so it may grow
+      lambda a, t: (lambda r: (r[0], r[1][:6] + [r[1][5]] + r[1][7:]))(
+          draw_pack(a, table_rects(0x2ca29e, 6) + table_rects(0x2cb0cc, 3), {i: t[k] for i, k in SORT.items()}, 11)),
+      table=[(0x2ca29e, 6), (0x2cb0cc, 3)])
+asset("cs_headers", 2418, "ptx", 0x1dd40, (0, 0, 96, 135),   # rects (0, 27k, 84, 27): table 0x2ca846 and others
+      lambda a, t: draw_fixed(a, [((0, 27 * i, 96 if i == 4 else 84, 27), t[k], False) for i, k in
+                                  enumerate(["hd_equip", "hd_equipped", "hd_morale", "hd_captain", "hd_refit"])],
+                              20, face="LiberationSans-BoldItalic.ttf", stroke=2, pad=0))
+def draw_chips(a, t):
+    out = a.copy()
+    box = out[30:43, 72:85]   # the 出 chip (table 0x2f9604): dark letter on light grey inside a dark frame
+    corners = [box[i, j].copy() for i, j in ((1, 1), (1, 11), (11, 1), (11, 11))]
+    box[1:12, 1:12] = (206, 206, 206, 255)
+    for (i, j), c in zip(((1, 1), (1, 11), (11, 1), (11, 11)), corners):
+        box[i, j] = c
+    out = draw_fixed(out, [((73, 31, 11, 11), t["chip_sortie"], False)], 11, stroke=0,
+                     ink=((43, 42, 41, 255), (43, 42, 41, 255)), clear=False, center=True)
+    return draw_fixed(out, [((50, 29, 21, 15), t["chip_repair"], True), ((73, 56, 73, 11), t["chip_ship"], False)],
+                      11, pad=0, center=True)
+
+
+asset("cs_chips", 2418, "ptx", 0x1f750, (0, 0, 160, 79), draw_chips)
+NAMES = ["ishut", "pinger", "ruru", "zazarland", "elisha", "minesota", "locomoco", "raspberry", "gangr", "fiebee",
+         "anne", "kamuru", "yggdra", "pamela", "eater"]
+asset("cs_names", 2418, "ptx", 0x28770, (0, 0, 224, 192),   # cells: table 0x2ca6e6 (and 0x2cb034, same cells)
+      lambda a, t: draw_fixed(a, [(tuple(r), t[f"name_{k}"], True) for r, k in zip(table_rects(0x2ca6e6, 15), NAMES)],
+                              20, face="LiberationSans-BoldItalic.ttf", stroke=2, pad=0, center=True))
+
+
+asset("cs_names_list", 2422, "ptx", 0xea0, (0, 0, 224, 192), ASSETS["cs_names"]["draw"])   # same pixels: the equip bar
+
+
+def draw_ship_abilities(a, t):
+    """2424 status list: the last two rows (夜間も砲撃可, 砲撃後も移動可) are text on the sheet's own pale yellow."""
+    out = a.copy()
+    out[80:100, 9:76] = (255, 251, 149, 255)
+    for y0, k, ink in ((80, "ab_night_fire", (65, 162, 228, 255)), (90, "ab_fire_move", (255, 58, 35, 255))):
+        out = draw_fixed(out, [((9, y0, 67, 10), t[k], False)], 11, stroke=0, ink=(ink, ink), clear=False)
+    return out
+
+
+asset("ship_abilities", 2424, "ptx", 0x23a60, (9, 80, 67, 20), draw_ship_abilities)
+for _n, _o, _s in (("refit_prompt", 0x266d0, 17), ("reward_prompt", 0x2dbd0, 21)):   # one-line PTG prompts (ship, reward)
+    asset(_n, 2418, "ptg", _o, (0, 0, 512, 512),
+          lambda a, t, n=_n, s=_s: draw_label(a, t[n], "LiberationSans-Bold.ttf", s, dark_fill=False), resize=True)
 
 
 def gen(names=None):

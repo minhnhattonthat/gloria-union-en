@@ -1,9 +1,14 @@
-"""Ink bbox (alpha>128) of regions of an id 3 PTX, for gfx.fixed rects: python tools/id3_inkbox.py OFFHEX y0-y1[:x0-x1] ..."""
+"""Ink bbox (alpha>128) of regions of a PTX, for gfx.fixed rects:
+python tools/id3_inkbox.py [--file ID (default 3)] OFFHEX y0-y1[:x0-x1] ..."""
 import sys
 from pathlib import Path
 import numpy as np
 import ptx
-b = (Path(__file__).resolve().parents[1] / "work" / "re" / "files" / "00003.bin").read_bytes()
+fid = 3
+if sys.argv[1] == "--file":
+    fid = int(sys.argv[2])
+    del sys.argv[1:3]
+b = (Path(__file__).resolve().parents[1] / "work" / "re" / "files" / f"{fid:05d}.bin").read_bytes()
 a = ptx.decode(b, ptx.parse(b, int(sys.argv[1], 16)))
 print("size", a.shape[1], a.shape[0])
 for spec in sys.argv[2:]:
