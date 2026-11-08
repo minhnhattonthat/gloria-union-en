@@ -2,8 +2,8 @@
  {
   "id": "s2050:00028",
   "jp": "わぷ！\nず、随分と風が強いわねぇ。\n髪が乱れちゃうわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Pwah! Th-the wind's really strong. It's\nmessing up my hair.",
+  "status": "done",
   "slots": [
    "0x1911"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2050:00061",
   "jp": "この先は“風神の道”だからね。\nもしかしたらもっと強くなるかも。",
-  "en": "",
-  "status": "todo",
+  "en": "Up ahead is \"Wind God's Road\", after all. It\nmight get even stronger.",
+  "status": "done",
   "slots": [
    "0x1926"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2050:000a5",
   "jp": "う～ん、風は嫌いなのよねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh, I hate wind.",
+  "status": "done",
   "slots": [
    "0x193b"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2050:000c6",
   "jp": "オイオイ、今更身だしなみで\n女の子アピールしても遅いぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey now, it's a bit late to play the girl card\nby worryin' about your looks.",
+  "status": "done",
   "slots": [
    "0x194d"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2050:00102",
   "jp": "オマエアトデコロス。",
-  "en": "",
-  "status": "todo",
+  "en": "YOU. DIE. LATER.",
+  "status": "done",
   "slots": [
    "0x1970"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2050:0011b",
   "jp": "ヒィ！",
-  "en": "",
-  "status": "todo",
+  "en": "Eek!",
+  "status": "done",
   "slots": [
    "0x1985"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2050:00126",
   "jp": "そうじゃなくて、風が強いと、\n銃の照準も狂っちゃうのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's not it. When the wind's strong, it\nthrows off my gun's aim.",
+  "status": "done",
   "slots": [
    "0x199a"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2050:00162",
   "jp": "うーん、それは困るね。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, that's a problem.",
+  "status": "done",
   "slots": [
    "0x19ac"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2050:0017d",
   "jp": "ま、下手な鉄砲数撃ちゃ当たる。\nバババババーッと撃てば、\n一発ぐらい当たるだろ。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, even a bad shot hits if he fires enough.\nGo bang-bang-bang-bang and at least one'll\nhit.",
+  "status": "done",
   "slots": [
    "0x19eb"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2050:001d0",
   "jp": "銃弾一発がどれほど高価か\n知らないの！？\n無駄撃ちは出来ないのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't you know how expensive a single bullet\nis!? I can't waste shots!",
+  "status": "done",
   "slots": [
    "0x1a00"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2050:00215",
   "jp": "なんだよ、ケチくせぇなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Geez, what a cheapskate.",
+  "status": "done",
   "slots": [
    "0x1a15"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2050:00234",
   "jp": "誰の酒代のせいであたしはケチに\nなったのかしらね。",
-  "en": "",
-  "status": "todo",
+  "en": "And whose booze bill made me a\ncheapskate, I wonder?",
+  "status": "done",
   "slots": [
    "0x1a2a"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2050:0026a",
   "jp": "ウッ……スマネェ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh... Sorry.",
+  "status": "done",
   "slots": [
    "0x1a3c"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2050:00281",
   "jp": "金銭面ではエリーシャさんの方が\n船長のようですね。",
-  "en": "",
-  "status": "todo",
+  "en": "When it comes to money, Elisha-san seems\nto be the real captain.",
+  "status": "done",
   "slots": [
    "0x1a4e"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2050:002b7",
   "jp": "止まりなさい！　そこの海賊船！",
-  "en": "",
-  "status": "todo",
+  "en": "Halt! You there, pirate ship!",
+  "status": "done",
   "slots": [
    "0x1a89"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2050:002da",
   "jp": "ん？　なんだなんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? What's this, what's this?",
+  "status": "done",
   "slots": [
    "0x1a9e"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2050:002f3",
   "jp": "私の名はユグドラ！\n正義の賞金稼ぎです！",
-  "en": "",
-  "status": "todo",
+  "en": "My name is Yggdra! A bounty hunter of\njustice!",
+  "status": "done",
   "slots": [
    "0x1b43"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2050:0031f",
   "jp": "賞金稼ぎ？",
-  "en": "",
-  "status": "todo",
+  "en": "A bounty hunter?",
+  "status": "done",
   "slots": [
    "0x1b5d"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2050:0032e",
   "jp": "するってーと、俺が狙いか。",
-  "en": "",
-  "status": "todo",
+  "en": "So that means you're after me.",
+  "status": "done",
   "slots": [
    "0x1b72"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2050:0034d",
   "jp": "ただの小物だったはずのアナタに\nあの高額な報奨金！\n明らかにおかしい！",
-  "en": "",
-  "status": "todo",
+  "en": "You were supposed to be a mere small fry,\nand yet there's that enormous reward on\nyou! It's clearly suspicious!",
+  "status": "done",
   "slots": [
    "0x1b8c"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2050:00396",
   "jp": "小物ぉ？\nおかしいから、なんだってんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Small fry? So what if it's suspicious?",
+  "status": "done",
   "slots": [
    "0x1ba6"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2050:003c2",
   "jp": "これは何か裏がある……。\nそれを、確かめさせてもらいます！",
-  "en": "",
-  "status": "todo",
+  "en": "There's something behind this... and I intend\nto find out what!",
+  "status": "done",
   "slots": [
    "0x1bc0"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2050:00400",
   "jp": "随分と白熱してるわね。一人で。",
-  "en": "",
-  "status": "todo",
+  "en": "She's getting really fired up. All by herself.",
+  "status": "done",
   "slots": [
    "0x1bda"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2050:00423",
   "jp": "まぁ、ああいうタイプはみんなそう\nですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, her type are all like that.",
+  "status": "done",
   "slots": [
    "0x1bfa"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2050:00451",
   "jp": "嫌だ、と言ったら？",
-  "en": "",
-  "status": "todo",
+  "en": "And if I say no?",
+  "status": "done",
   "slots": [
    "0x1c1d"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2050:00468",
   "jp": "言わせません！",
-  "en": "",
-  "status": "todo",
+  "en": "I won't let you!",
+  "status": "done",
   "slots": [
    "0x1c37"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2050:0047b",
   "jp": "賞金稼ぎの“ファンタジニア旅団”\n船長ユグドラ！\nアナタ達悪を、撃ち滅ぼす者なり！",
-  "en": "",
-  "status": "todo",
+  "en": "Captain of the bounty hunters \"Fantasinia\nBrigade\", Yggdra! I am the one who will\ndestroy evil such as you!",
+  "status": "done",
   "slots": [
    "0x1d50"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2050:004d0",
   "jp": "な、なんだ！？\nあの馬鹿でかい銃は！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what the!? What's with that\nridiculously huge gun!?",
+  "status": "done",
   "slots": [
    "0x1d69"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2050:004f8",
   "jp": "父より受け継いだガトリングガン。\n名を“センチュリオバスター”！！",
-  "en": "",
-  "status": "todo",
+  "en": "The Gatling gun I inherited from my father.\nIts name is \"Centurio Buster\"!!",
+  "status": "done",
   "slots": [
    "0x1d82"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2050:0053e",
   "jp": "ガトリングガン……。\nチ、金持ちめ。",
-  "en": "",
-  "status": "todo",
+  "en": "A Gatling gun... Tch, rich girl.",
+  "status": "done",
   "slots": [
    "0x1da0"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2050:00566",
   "jp": "エリーシャの目が怖いよぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha's eyes are scary...",
+  "status": "done",
   "slots": [
    "0x1dbe"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2050:00585",
   "jp": "さぁ！　行きますよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now! Here I come!",
+  "status": "done",
   "slots": [
    "0x1dd7"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2050:0059e",
   "jp": "ユグドラさんって、あまりお嬢様の\n風貌じゃないですよね。",
-  "en": "",
-  "status": "todo",
+  "en": "You know, Yggdra-san, you don't really look\nlike a pampered young lady.",
+  "status": "done",
   "slots": [
    "0x38e1"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2050:005da",
   "jp": "ん？\n何のことを言っているのですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? What are you talking about?",
+  "status": "done",
   "slots": [
    "0x38f7"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2050:00602",
   "jp": "いやぁ、ユグドラさんって、\nどこか王女っぽいところが\nあるじゃないですか。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, I mean, Yggdra-san, there's something\nkind of princess-like about you, isn't there?",
+  "status": "done",
   "slots": [
    "0x390e"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2050:0064f",
   "jp": "あ、あらそう？\nあ、ありがとう。",
-  "en": "",
-  "status": "todo",
+  "en": "O-oh, really? Th-thank you.",
+  "status": "done",
   "slots": [
    "0x3924"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2050:00673",
   "jp": "いえいえ、わかる人には、\nわかるもんですよ。ね？",
-  "en": "",
-  "status": "todo",
+  "en": "Not at all. Those who know, know. Right?",
+  "status": "done",
   "slots": [
    "0x393b"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2050:006a7",
   "jp": "アナタが正義なら、\n銃弾が自然とそれるでしょう！\nだから止りなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "If you are just, the bullets will naturally\nmiss you! So stop right there!",
+  "status": "done",
   "slots": [
    "0x37e4"
   ],
@@ -419,8 +419,8 @@
  {
   "id": "s2050:006ea",
   "jp": "無茶言ってんじゃねぇ！\n穴だらけになるわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't be ridiculous! I'll be full of holes!",
+  "status": "done",
   "slots": [
    "0x37fe"
   ],
@@ -429,8 +429,8 @@
  {
   "id": "s2050:00714",
   "jp": "アナタの様な一見いい人に見える\n人が、実は一番危険だったり\nするんです！",
-  "en": "",
-  "status": "todo",
+  "en": "People like you who look nice at first glance\nare sometimes the most dangerous of all!",
+  "status": "done",
   "slots": [
    "0x3a2c"
   ],
@@ -439,8 +439,8 @@
  {
   "id": "s2050:0075b",
   "jp": "えぇ～！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaat!?",
+  "status": "done",
   "slots": [
    "0x3a46"
   ],
@@ -449,8 +449,8 @@
  {
   "id": "s2050:00766",
   "jp": "銃ってのはねぇ。\n狙った所を一発で仕留めるのが\n醍醐味なのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "The whole point of a gun is to take down\nyour target in one shot!",
+  "status": "done",
   "slots": [
    "0x3b1a"
   ],
@@ -459,8 +459,8 @@
  {
   "id": "s2050:007a3",
   "jp": "戦場にそんなものはいりません！\n必要なのは、確実に悪を破壊する\n破壊力です！",
-  "en": "",
-  "status": "todo",
+  "en": "There's no need for that on the battlefield!\nWhat you need is the firepower to destroy\nevil for certain!",
+  "status": "done",
   "slots": [
    "0x3b33"
   ],
@@ -469,8 +469,8 @@
  {
   "id": "s2050:007ee",
   "jp": "デケェ銃だな。\nそんなほっせぇ体で\nよく持てるもんだぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's one big gun. Surprised ya can hold it\nwith that skinny little body.",
+  "status": "done",
   "slots": [
    "0x3c07"
   ],
@@ -479,8 +479,8 @@
  {
   "id": "s2050:00825",
   "jp": "“悪を滅する”\nそれが私の意思！",
-  "en": "",
-  "status": "todo",
+  "en": "\"Destroy evil.\" That is my will!",
+  "status": "done",
   "slots": [
    "0x3c20"
   ],
@@ -489,8 +489,8 @@
  {
   "id": "s2050:00845",
   "jp": "悪を目の前にした私は、無敵です！",
-  "en": "",
-  "status": "todo",
+  "en": "When I face evil, I am invincible!",
+  "status": "done",
   "slots": [
    "0x3c2a"
   ],
@@ -499,8 +499,8 @@
  {
   "id": "s2050:00866",
   "jp": "そうやって簡単に人を判断するのは\nマナー違反だ。\n少し、反省してもらおうか。",
-  "en": "",
-  "status": "todo",
+  "en": "Judging people so easily is a breach of\nmanners. I shall have you reflect on that a\nlittle.",
+  "status": "done",
   "slots": [
    "0x3cfe"
   ],
@@ -509,8 +509,8 @@
  {
   "id": "s2050:008b1",
   "jp": "悪の手先にマナー違反呼ばわり\nされる謂れはありません！\nアナタこそ、少し反省しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "I won't be accused of bad manners by a\nlackey of evil! You're the one who should\nreflect a little!",
+  "status": "done",
   "slots": [
    "0x3d17"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2050:00906",
   "jp": "私のメテオと、お姉ちゃんの銃。\nどっちが強いのかな！",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco's Meteor or your gun, lady. Which\nis stronger, I wonder!",
+  "status": "done",
   "slots": [
    "0x3deb"
   ],
@@ -529,8 +529,8 @@
  {
   "id": "s2050:0093a",
   "jp": "フフ、面白いですね。\nお相手しましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "Hehe, how interesting. I'll take you on!",
+  "status": "done",
   "slots": [
    "0x3e04"
   ],
@@ -539,8 +539,8 @@
  {
   "id": "s2050:00962",
   "jp": "待ちなさいこの悪魔！\n大人しく私の銃で昇天するのです！",
-  "en": "",
-  "status": "todo",
+  "en": "Wait, you devil! Go quietly to heaven by my\ngun!",
+  "status": "done",
   "slots": [
    "0x3eee"
   ],
@@ -549,8 +549,8 @@
  {
   "id": "s2050:00998",
   "jp": "ひえぇ！\n私になんの恨みがあるんすかぁ～！",
-  "en": "",
-  "status": "todo",
+  "en": "Eeeek! What have you got against me,\nma'am!?",
+  "status": "done",
   "slots": [
    "0x3f08"
   ],
@@ -559,8 +559,8 @@
  {
   "id": "s2050:009c2",
   "jp": "敵と見るや否や即発砲か。\nあ、危ない奴だ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Opening fire the moment she spots an\nenemy... Wh-what a dangerous one...",
+  "status": "done",
   "slots": [
    "0x3fdc"
   ],
@@ -569,8 +569,8 @@
  {
   "id": "s2050:009f0",
   "jp": "全ての悪を滅ぼすのが私の意思！\n一人たりとも取り逃がすわけには\nいかないのです！",
-  "en": "",
-  "status": "todo",
+  "en": "Destroying all evil is my will! I can't let a\nsingle one of you escape!",
+  "status": "done",
   "slots": [
    "0x3ff5"
   ],
@@ -579,8 +579,8 @@
  {
   "id": "s2050:00a3f",
   "jp": "なんという実力……やはり、なにか\nおおきな裏があるのですね……！",
-  "en": "",
-  "status": "todo",
+  "en": "Such skill... There really must be something\nbig behind this...!",
+  "status": "done",
   "slots": [
    "0x42c0"
   ],
@@ -590,8 +590,8 @@
  {
   "id": "s2050:00a83",
   "jp": "兄貴、もう喋っちゃえばいいんじゃ\nないんですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Boss, why don't you just tell her?",
+  "status": "done",
   "slots": [
    "0x42de"
   ],
@@ -601,8 +601,8 @@
  {
   "id": "s2050:00ab7",
   "jp": "うーん……そうだな。\nこれ以上付きまとわれても\n面倒だし。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm... Yeah. It'd be a pain to have her\nfollowin' us around any longer.",
+  "status": "done",
   "slots": [
    "0x42f7"
   ],
@@ -612,8 +612,8 @@
  {
   "id": "s2050:00af4",
   "jp": "教えてやるよ、\n俺が賞金首になった訳……。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll tell ya why I became a wanted man...",
+  "status": "done",
   "slots": [
    "0x430c"
   ],
@@ -623,8 +623,8 @@
  {
   "id": "s2050:00b22",
   "jp": "なるほど、そういうわけだったの\nですか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see, so that's how it was.",
+  "status": "done",
   "slots": [
    "0x4ad2"
   ],
@@ -634,8 +634,8 @@
  {
   "id": "s2050:00b4e",
   "jp": "あぁ\n……って、アンタ怪我はいいのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah... Wait, are you okay with those\ninjuries?",
+  "status": "done",
   "slots": [
    "0x4ae8"
   ],
@@ -645,8 +645,8 @@
  {
   "id": "s2050:00b78",
   "jp": "コレぐらい、なんともないです。\n気持ちいいぐらいですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is nothing. It almost feels good.",
+  "status": "done",
   "slots": [
    "0x4afe"
   ],
@@ -656,8 +656,8 @@
  {
   "id": "s2050:00bb4",
   "jp": "ヘンタイがいる……。",
-  "en": "",
-  "status": "todo",
+  "en": "We've got a pervert...",
+  "status": "done",
   "slots": [
    "0x4b14"
   ],
@@ -667,8 +667,8 @@
  {
   "id": "s2050:00bcd",
   "jp": "ん？\nなんか自然に流されてるけど。\nアンタ、今の話信用するの？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? We're kind of just going along with it,\nbut... you believe what he just said?",
+  "status": "done",
   "slots": [
    "0x4b2a"
   ],
@@ -678,8 +678,8 @@
  {
   "id": "s2050:00c0e",
   "jp": "えぇ。\n私、ルキア皇国軍、嫌いですから。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes. I hate the Lukia Imperial Army, you see.",
+  "status": "done",
   "slots": [
    "0x4b40"
   ],
@@ -689,8 +689,8 @@
  {
   "id": "s2050:00c3a",
   "jp": "言い切りやがった……。",
-  "en": "",
-  "status": "todo",
+  "en": "She said it outright...",
+  "status": "done",
   "slots": [
    "0x4b59"
   ],
@@ -700,8 +700,8 @@
  {
   "id": "s2050:00c55",
   "jp": "じゃあ、どうして賞金稼ぎなんて\nやってたの？",
-  "en": "",
-  "status": "todo",
+  "en": "Then why were you working as a bounty\nhunter?",
+  "status": "done",
   "slots": [
    "0x4b72"
   ],
@@ -711,8 +711,8 @@
  {
   "id": "s2050:00c85",
   "jp": "それは……。",
-  "en": "",
-  "status": "todo",
+  "en": "That's...",
+  "status": "done",
   "slots": [
    "0x4b8b"
   ],
@@ -722,8 +722,8 @@
  {
   "id": "s2050:00c96",
   "jp": "それは？",
-  "en": "",
-  "status": "todo",
+  "en": "That's?",
+  "status": "done",
   "slots": [
    "0x4ba4"
   ],
@@ -733,8 +733,8 @@
  {
   "id": "s2050:00ca3",
   "jp": "銃の維持費と、銃弾のお金です。\nハハハ……。",
-  "en": "",
-  "status": "todo",
+  "en": "The upkeep on my gun, and money for\nbullets. Hahaha...",
+  "status": "done",
   "slots": [
    "0x4bbd"
   ],
@@ -744,8 +744,8 @@
  {
   "id": "s2050:00cd3",
   "jp": "あぁ、やっぱり……。\nなんか、一気に親近感が湧いたわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, I knew it... Suddenly I feel a lot closer to\nyou.",
+  "status": "done",
   "slots": [
    "0x4bd6"
   ],
@@ -755,8 +755,8 @@
  {
   "id": "s2050:00d0d",
   "jp": "それじゃあ、もう俺を狙うことも\nないんだな？\nもう銃弾の雨はこりごりだ。",
-  "en": "",
-  "status": "todo",
+  "en": "So you won't be comin' after me anymore,\nright? I've had enough of bullet rain.",
+  "status": "done",
   "slots": [
    "0x4bef"
   ],
@@ -766,8 +766,8 @@
  {
   "id": "s2050:00d58",
   "jp": "それなんですけど……。\n私を、グロリア海賊団に入れて\nくれませんか？",
-  "en": "",
-  "status": "todo",
+  "en": "About that... Would you let me join the\nGloria Pirates?",
+  "status": "done",
   "slots": [
    "0x4c08"
   ],
@@ -777,8 +777,8 @@
  {
   "id": "s2050:00d9f",
   "jp": "ウチに？",
-  "en": "",
-  "status": "todo",
+  "en": "Us?",
+  "status": "done",
   "slots": [
    "0x4c1e"
   ],
@@ -788,8 +788,8 @@
  {
   "id": "s2050:00dac",
   "jp": "なんでまた……？",
-  "en": "",
-  "status": "todo",
+  "en": "Why on earth...?",
+  "status": "done",
   "slots": [
    "0x4c50"
   ],
@@ -799,8 +799,8 @@
  {
   "id": "s2050:00dc1",
   "jp": "ヒント。賞金稼ぎは儲かりません。",
-  "en": "",
-  "status": "todo",
+  "en": "Hint: bounty hunting doesn't pay.",
+  "status": "done",
   "slots": [
    "0x4c66"
   ],
@@ -810,8 +810,8 @@
  {
   "id": "s2050:00de6",
   "jp": "そんな理由かい！",
-  "en": "",
-  "status": "todo",
+  "en": "That's your reason!?",
+  "status": "done",
   "slots": [
    "0x4c7f"
   ],
@@ -821,8 +821,8 @@
  {
   "id": "s2050:00dfb",
   "jp": "まぁ、ルキア皇国軍が\n大抵やっつけちゃうんだから、\nしょうがないわよね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, the Lukia Imperial Army takes care of\nmost of them, so it can't be helped.",
+  "status": "done",
   "slots": [
    "0x4c98"
   ],
@@ -832,8 +832,8 @@
  {
   "id": "s2050:00e46",
   "jp": "どうするの？",
-  "en": "",
-  "status": "todo",
+  "en": "What will you do?",
+  "status": "done",
   "slots": [
    "0x4cb1"
   ],
@@ -843,8 +843,8 @@
  {
   "id": "s2050:00e57",
   "jp": "今はとにかく戦力が欲しいからな。\nよし、採用！",
-  "en": "",
-  "status": "todo",
+  "en": "Right now we need all the fighters we can\nget. All right, you're hired!",
+  "status": "done",
   "slots": [
    "0x4cf4"
   ],
@@ -854,8 +854,8 @@
  {
   "id": "s2050:00e89",
   "jp": "ありがとうございます！",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you very much!",
+  "status": "done",
   "slots": [
    "0x4d0d"
   ],
@@ -865,8 +865,8 @@
  {
   "id": "s2050:00ea4",
   "jp": "了解。\nじゃあ銃の維持費と銃弾の分は\n親父の酒代から引いておくわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Got it. Then I'll take her gun upkeep and\nbullets out of Dad's booze money.",
+  "status": "done",
   "slots": [
    "0x4d26"
   ],
@@ -876,8 +876,8 @@
  {
   "id": "s2050:00ee9",
   "jp": "エ？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x4d3c"
   ],
@@ -887,8 +887,8 @@
  {
   "id": "s2050:00ef2",
   "jp": "皆さん。よろしくお願いします！",
-  "en": "",
-  "status": "todo",
+  "en": "Everyone. I look forward to working with\nyou!",
+  "status": "done",
   "slots": [
    "0x4d55"
   ],
@@ -898,8 +898,8 @@
  {
   "id": "s2050:00f18",
   "jp": "アンタの砲台。\nかなり使い古されてるな。\nそんなんじゃ蚊も殺せないぜ？",
-  "en": "",
-  "status": "todo",
+  "en": "That cannon of yours. It's seen a lot of use.\nThing like that couldn't even kill a mosquito,\nya know?",
+  "status": "done",
   "slots": [
    "0x1ee2"
   ],
@@ -908,8 +908,8 @@
  {
   "id": "s2050:00f5d",
   "jp": "あ～我慢ならねぇ！\nちょっと俺に貸せ！\nスペックアップしてやるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahh, I can't stand it! Lend it here! I'll\nupgrade it for ya!",
+  "status": "done",
   "slots": [
    "0x1ee9"
   ],
@@ -918,8 +918,8 @@
  {
   "id": "s2050:00f9e",
   "jp": "オラ！　射程距離、命中率。\n共に問題なし！\nどうだ？　スゲェだろ！",
-  "en": "",
-  "status": "todo",
+  "en": "There! Range and accuracy, both no\nproblem! How's that? Amazin', right!",
+  "status": "done",
   "slots": [
    "0x1f61"
   ],
@@ -928,8 +928,8 @@
  {
   "id": "s2050:00fdf",
   "jp": "また古くなったら来いよな？\n待ってるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Come back when it gets old again, okay? I'll\nbe waitin'!",
+  "status": "done",
   "slots": [
    "0x1f81"
   ],
@@ -938,8 +938,8 @@
  {
   "id": "s2050:01007",
   "jp": "ユグドラ様は幼い頃から\nあの性格でねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yggdra-sama has had that personality ever\nsince she was little.",
+  "status": "done",
   "slots": [
    "0x1fa4"
   ],
@@ -948,8 +948,8 @@
  {
   "id": "s2050:0102f",
   "jp": "悪と決めたものには本当に容赦が\nないのよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Once she decides something is evil, she's\ntruly merciless...",
+  "status": "done",
   "slots": [
    "0x1fab"
   ],
@@ -958,8 +958,8 @@
  {
   "id": "s2050:0105d",
   "jp": "普段は誰にでも優しい、\n聖母の様な方なのにねぇ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Even though normally she's kind to\neveryone, like a holy mother...",
+  "status": "done",
   "slots": [
    "0x1fb2"
   ],
@@ -968,8 +968,8 @@
  {
   "id": "s2050:01091",
   "jp": "根はいい人だから、\n仲良くしてくださいね。",
-  "en": "",
-  "status": "todo",
+  "en": "She's a good person at heart, so please be\nfriends with her.",
+  "status": "done",
   "slots": [
    "0x1fca"
   ],
@@ -978,8 +978,8 @@
  {
   "id": "s2050:010bb",
   "jp": "うお、な、なんだこれ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, wh-what the hell is this!?",
+  "status": "done",
   "slots": [
    "0x2d8b"
   ],
@@ -988,8 +988,8 @@
  {
   "id": "s2050:010d4",
   "jp": "なんだ、このカケラ……\nスゲェ力を感じるぞ……！",
-  "en": "",
-  "status": "todo",
+  "en": "What's this shard... I can feel incredible\npower from it...!",
+  "status": "done",
   "slots": [
    "0x2dd6"
   ],
@@ -998,8 +998,8 @@
  {
   "id": "s2050:01104",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x2e22"
   ],
@@ -1008,8 +1008,8 @@
  {
   "id": "s2050:01111",
   "jp": "ただの石ではないようですね……。\n考古学に疎いボクにでもわかる\nぐらいですからね。",
-  "en": "",
-  "status": "todo",
+  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows nothing of\narchaeology can tell.",
+  "status": "done",
   "slots": [
    "0x2e6d"
   ],
@@ -1018,8 +1018,8 @@
  {
   "id": "s2050:01162",
   "jp": "こ、これはぁぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this iiis!!",
+  "status": "done",
   "slots": [
    "0x2eb9"
   ],
@@ -1028,8 +1028,8 @@
  {
   "id": "s2050:01177",
   "jp": "い、遺跡の欠片！\nやったぁー！！\nいただきまぁーす！",
-  "en": "",
-  "status": "todo",
+  "en": "A r-ruin shard! Yaaay!! Time to eeeat!",
+  "status": "done",
   "slots": [
    "0x2f04"
   ],
@@ -1038,8 +1038,8 @@
  {
   "id": "s2050:011aa",
   "jp": "これは、もしかして、\n遺跡の欠片かしら……？",
-  "en": "",
-  "status": "todo",
+  "en": "Could this be... a ruin shard?",
+  "status": "done",
   "slots": [
    "0x2f50"
   ],
@@ -1048,8 +1048,8 @@
  {
   "id": "s2050:011d6",
   "jp": "よくわからないわね。\nルルゥに聞いてみようかしら。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't really tell. Maybe I'll ask Ruru.",
+  "status": "done",
   "slots": [
    "0x2f9b"
   ],
@@ -1058,8 +1058,8 @@
  {
   "id": "s2050:01208",
   "jp": "こいつぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x2fe7"
   ],
@@ -1068,8 +1068,8 @@
  {
   "id": "s2050:01217",
   "jp": "遺跡の欠片か。\n海から流れてきたのか……？",
-  "en": "",
-  "status": "todo",
+  "en": "A ruin shard, huh. Did it wash up from the\nsea...?",
+  "status": "done",
   "slots": [
    "0x3032"
   ],
@@ -1078,8 +1078,8 @@
  {
   "id": "s2050:01241",
   "jp": "これは……！",
-  "en": "",
-  "status": "todo",
+  "en": "This is...!",
+  "status": "done",
   "slots": [
    "0x307e"
   ],
@@ -1088,8 +1088,8 @@
  {
   "id": "s2050:0124e",
   "jp": "紛れもなくこれは遺跡の欠片……。\n実に興味深い。",
-  "en": "",
-  "status": "todo",
+  "en": "There is no mistaking it: a ruin shard... Truly\nfascinating.",
+  "status": "done",
   "slots": [
    "0x30c9"
   ],
@@ -1098,8 +1098,8 @@
  {
   "id": "s2050:0127e",
   "jp": "おぉ！　こ、これはすごい物だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh! Th-this is something amazing!",
+  "status": "done",
   "slots": [
    "0x3115"
   ],
@@ -1108,8 +1108,8 @@
  {
   "id": "s2050:0129f",
   "jp": "この石から、すっごいたくさんの\nウィルを感じるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco can feel sooo much Will from this\nstone!",
+  "status": "done",
   "slots": [
    "0x3160"
   ],
@@ -1118,8 +1118,8 @@
  {
   "id": "s2050:012d1",
   "jp": "これは、間違いなく\n遺跡の欠片だね！",
-  "en": "",
-  "status": "todo",
+  "en": "This is definitely a ruin shard!",
+  "status": "done",
   "slots": [
    "0x3167"
   ],
@@ -1138,8 +1138,8 @@
  {
   "id": "s2050:01302",
   "jp": "遺跡の欠片じゃないですか！\nな、なんでこんな所に……。",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't that a ruin shard!? Wh-why is it in a\nplace like this...",
+  "status": "done",
   "slots": [
    "0x3210"
   ],
@@ -1148,8 +1148,8 @@
  {
   "id": "s2050:01338",
   "jp": "この石、えもいえぬ威圧感を\n感じるな……。",
-  "en": "",
-  "status": "todo",
+  "en": "This stone gives off an indescribable\npressure...",
+  "status": "done",
   "slots": [
    "0x3263"
   ],
@@ -1158,8 +1158,8 @@
  {
   "id": "s2050:01362",
   "jp": "気になるな。\n拾っておこう。",
-  "en": "",
-  "status": "todo",
+  "en": "It bothers me. I'll pick it up.",
+  "status": "done",
   "slots": [
    "0x32ae"
   ],
@@ -1168,8 +1168,8 @@
  {
   "id": "s2050:0137e",
   "jp": "おや？　これはなんでしょう？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? What could this be?",
+  "status": "done",
   "slots": [
    "0x32fa"
   ],
@@ -1178,8 +1178,8 @@
  {
   "id": "s2050:0139b",
   "jp": "なんとなくですが、ただの石とは\n思えません。\n……一応持っておきましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "It's just a hunch, but I don't think it's an\nordinary stone. ...I'll hold on to it, just in\ncase.",
+  "status": "done",
   "slots": [
    "0x3345"
   ],
@@ -1188,8 +1188,8 @@
  {
   "id": "s2050:013e4",
   "jp": "ガガング、ガガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangu, gagangaa!",
+  "status": "done",
   "slots": [
    "0x3391"
   ],
@@ -1198,8 +1198,8 @@
  {
   "id": "s2050:013fb",
   "jp": "ガガングー、グンガン、ガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaganguu, gungan, gangaa!",
+  "status": "done",
   "slots": [
    "0x33dc"
   ],
@@ -1208,8 +1208,8 @@
  {
   "id": "s2050:0141c",
   "jp": "あら？　あらあらあら？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? Oh my, oh my?",
+  "status": "done",
   "slots": [
    "0x3428"
   ],
@@ -1218,8 +1218,8 @@
  {
   "id": "s2050:01433",
   "jp": "これ、絶対にただの石じゃないわ！\nアタシの鼻はごまかせないわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "This is definitely no ordinary stone! You\ncan't fool my nose, dear.",
+  "status": "done",
   "slots": [
    "0x3473"
   ],
@@ -1228,8 +1228,8 @@
  {
   "id": "s2050:01473",
   "jp": "む？　こ、これは！",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Th-this is!",
+  "status": "done",
   "slots": [
    "0x34bf"
   ],
@@ -1238,8 +1238,8 @@
  {
   "id": "s2050:01486",
   "jp": "持っているだけで何か力のような\nものを感じる、様な気がしないでも\nない！",
-  "en": "",
-  "status": "todo",
+  "en": "Just holding it, I feel some kind of power, or\nso it seems, or maybe not!",
+  "status": "done",
   "slots": [
    "0x350a"
   ],
@@ -1248,8 +1248,8 @@
  {
   "id": "s2050:014cd",
   "jp": "キャハー！　\n遺跡の欠片発見だわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyahaa! Found a ruin shard, dontcha know!",
+  "status": "done",
   "slots": [
    "0x3556"
   ],
@@ -1258,8 +1258,8 @@
  {
   "id": "s2050:014f1",
   "jp": "このにじみ出るようなウィルの感じ\nうーん、たまんないだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "The feel of this Will seeping out... Mmm, it's\nirresistible, dontcha know!",
+  "status": "done",
   "slots": [
    "0x35a1"
   ],
@@ -1268,8 +1268,8 @@
  {
   "id": "s2050:0152d",
   "jp": "あら？　これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? What is this...?",
+  "status": "done",
   "slots": [
    "0x3602"
   ],
@@ -1278,8 +1278,8 @@
  {
   "id": "s2050:01542",
   "jp": "なにかとても大きな力を感じます。\nこれは、素晴らしいものですわ！",
-  "en": "",
-  "status": "todo",
+  "en": "I sense some very great power. This is a\nwonderful thing indeed!",
+  "status": "done",
   "slots": [
    "0x3658"
   ],
@@ -1288,8 +1288,8 @@
  {
   "id": "s2050:01582",
   "jp": "お、おおおぉぉぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "O-ooooooh!!",
+  "status": "done",
   "slots": [
    "0x36a2"
   ],
@@ -1298,8 +1298,8 @@
  {
   "id": "s2050:01597",
   "jp": "持ってるだけで力が湧いてくる。\nコイツァすげぇぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Just holdin' it makes power well up in me.\nThis thing's amazin'!",
+  "status": "done",
   "slots": [
    "0x36f8"
   ],
@@ -1317,8 +1317,8 @@
  {
   "id": "s2050:01681t",
   "jp": "ファンタジニア旅団",
-  "en": "",
-  "status": "todo",
+  "en": "Fantasinia Brigade",
+  "status": "done",
   "at": "0x1684",
   "max": 18,
   "who": "team name"
@@ -1326,8 +1326,8 @@
  {
   "id": "s2050:0173bt",
   "jp": "ファンタジニア旅団",
-  "en": "",
-  "status": "todo",
+  "en": "Fantasinia Brigade",
+  "status": "done",
   "at": "0x173e",
   "max": 18,
   "who": "team name"

@@ -970,8 +970,8 @@
  {
   "id": "s2073:012ec",
   "jp": "なんだと！？",
-  "en": "",
-  "status": "todo",
+  "en": "What!?",
+  "status": "done",
   "slots": [
    "0x5b4d"
   ],
@@ -2138,8 +2138,8 @@
  {
   "id": "s2073:06cf0",
   "jp": "ま、これで変な男に\n言い寄られなくて済むわね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, at least now I won't have weird men\nhitting on me.",
+  "status": "done",
   "slots": [
    "0x31fa",
    "0x9476"

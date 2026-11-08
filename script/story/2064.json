@@ -2182,8 +2182,8 @@
  {
   "id": "s2064:02719",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x8ade"
   ],
@@ -2965,8 +2965,8 @@
  {
   "id": "s2064:07547",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0xb10e"
   ],

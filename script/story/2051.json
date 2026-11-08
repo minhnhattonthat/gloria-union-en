@@ -2,8 +2,8 @@
  {
   "id": "s2051:00028",
   "jp": "ここが、風の遺跡“風神の道”か。\n遺跡に近づくにつれて風が弱く\nなってるな。",
-  "en": "",
-  "status": "todo",
+  "en": "So this is the wind ruins, \"Wind God's Road\".\nThe wind's gettin' weaker the closer we get.",
+  "status": "done",
   "slots": [
    "0x1818"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2051:00077",
   "jp": "所謂“台風の目”ってやつじゃない\nですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't this what they call \"the eye of the\nstorm\"?",
+  "status": "done",
   "slots": [
    "0x182e"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2051:000a5",
   "jp": "よかったぁ、コレなら照準に神経を\n使わなくてもいい。",
-  "en": "",
-  "status": "todo",
+  "en": "Thank goodness, now I don't have to stress\nover my aim.",
+  "status": "done",
   "slots": [
    "0x1844"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2051:000dd",
   "jp": "……目標地点到達。",
-  "en": "",
-  "status": "todo",
+  "en": "...Target point reached.",
+  "status": "done",
   "slots": [
    "0x1862"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2051:000f4",
   "jp": "ほらルルゥも突っ立ってないで。\n早く行くわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Come on, Ruru, don't just stand there. Let's\ngo.",
+  "status": "done",
   "slots": [
    "0x187b"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2051:00126",
   "jp": "……アタックモード、移行。",
-  "en": "",
-  "status": "todo",
+  "en": "...Switching to attack mode.",
+  "status": "done",
   "slots": [
    "0x1899"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2051:00152",
   "jp": "ルルゥさんならお食事に行ったっす\nけどぉ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru-san went off to eat, though...",
+  "status": "done",
   "slots": [
    "0x18e0"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2051:00184",
   "jp": "エリーシャ！",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha!",
+  "status": "done",
   "slots": [
    "0x1960"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2051:0019e",
   "jp": "きゃ！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyah!",
+  "status": "done",
   "slots": [
    "0x1a03"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2051:001a9",
   "jp": "大丈夫かエリーシャ！",
-  "en": "",
-  "status": "todo",
+  "en": "You all right, Elisha!?",
+  "status": "done",
   "slots": [
    "0x1a1c"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2051:001c2",
   "jp": "ルルゥにそっくり……\n体に流れるウィルまで！",
-  "en": "",
-  "status": "todo",
+  "en": "She looks just like Ruru... even the Will\nflowing through her body!",
+  "status": "done",
   "slots": [
    "0x1a35"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2051:001f2",
   "jp": "ありえん。ウィルは十人十色。\nまったく同じウィルは存在しない。\nそれこそ、双子でもない限りな。",
-  "en": "",
-  "status": "todo",
+  "en": "Impossible. Every Will is different. No two\nWills are exactly the same. Unless, that is,\nthey are twins.",
+  "status": "done",
   "slots": [
    "0x1a4e"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2051:00253",
   "jp": "みんな、どうしたの！？",
-  "en": "",
-  "status": "todo",
+  "en": "Everyone, what's wrong!?",
+  "status": "done",
   "slots": [
    "0x1a9f"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2051:0026e",
   "jp": "オリジナルヲ発見。",
-  "en": "",
-  "status": "todo",
+  "en": "Original. Located.",
+  "status": "done",
   "slots": [
    "0x1abd"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2051:00285",
   "jp": "ル、ルルゥが二人！？\nどういうことですか。",
-  "en": "",
-  "status": "todo",
+  "en": "Th-there are two Rurus!? What's going on?",
+  "status": "done",
   "slots": [
    "0x1ad6"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2051:002b3",
   "jp": "あぁ、こんなに嬉しいことはない！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahh, nothin' could make me happier!",
+  "status": "done",
   "slots": [
    "0x1afd"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2051:002d8",
   "jp": "お前ちょっと黙ってろやコロスゾ。",
-  "en": "",
-  "status": "todo",
+  "en": "Shut it for a sec or I'll KILL you.",
+  "status": "done",
   "slots": [
    "0x1b16"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2051:002fd",
   "jp": "すいません調子乗ってました。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, I got carried away.",
+  "status": "done",
   "slots": [
    "0x1b2f"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2051:0031e",
   "jp": "おや、失敗してしまいましたね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, it seems I failed.",
+  "status": "done",
   "slots": [
    "0x1b67"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2051:00341",
   "jp": "テメェか。このルルゥの偽者を\nけしかけたのは。",
-  "en": "",
-  "status": "todo",
+  "en": "So it was you. You sent this fake Ruru after\nus.",
+  "status": "done",
   "slots": [
    "0x1c68"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2051:00373",
   "jp": "初めまして、ボクの名は\nアジョー・グラフォー。気軽に\n“ドクター”と呼んでくれていいよ",
-  "en": "",
-  "status": "todo",
+  "en": "Pleased to meet you. My name is\nAjo-Grafor. Feel free to just call me\n\"Doctor\".",
+  "status": "done",
   "slots": [
    "0x1c81"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2051:003cc",
   "jp": "こっちはルルゥＭｋ－２。\nボクの作った最高傑作さ。\nホラ、ご挨拶。",
-  "en": "",
-  "status": "todo",
+  "en": "This is Ruru Mk-II. My finest masterpiece.\nCome now, say hello.",
+  "status": "done",
   "slots": [
    "0x1c8f"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2051:00411",
   "jp": "……コンニチハ……。",
-  "en": "",
-  "status": "todo",
+  "en": "...Hel. Lo...",
+  "status": "done",
   "slots": [
    "0x1ca9"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2051:0042a",
   "jp": "ふざけた男だ……。",
-  "en": "",
-  "status": "todo",
+  "en": "What an infuriating man...",
+  "status": "done",
   "slots": [
    "0x1cd5"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2051:00441",
   "jp": "フム、ここで会ったのも何かの縁。\nＭｋ－２の起動実験に、協力して\nもらおうか。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, meeting here must be fate. I'll have\nyou help with Mk-II's activation test.",
+  "status": "done",
   "slots": [
    "0x1cf5"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2051:00492",
   "jp": "起動、実験？",
-  "en": "",
-  "status": "todo",
+  "en": "Activation... test?",
+  "status": "done",
   "slots": [
    "0x1d0b"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2051:004a3",
   "jp": "この子はまだ生まれたばかりでね。\n性能に不安があるんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "This child was only just born, you see. I'm a\nlittle uneasy about her performance.",
+  "status": "done",
   "slots": [
    "0x1d24"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2051:004df",
   "jp": "ま、それでも未完成のオリジナル\nよりかは数倍強いんだけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, even so, she's several times stronger\nthan the unfinished original.",
+  "status": "done",
   "slots": [
    "0x1d2b"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2051:0051f",
   "jp": "未完成？\nどういうことだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Unfinished? What do you mean...",
+  "status": "done",
   "slots": [
    "0x1d59"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2051:00541",
   "jp": "なんだ、知らないのかい？　悪いが\n教えられないね。自分の研究成果を\n人に渡すなんて、愚の骨頂だ。",
-  "en": "",
-  "status": "todo",
+  "en": "What, you don't know? Sorry, but I can't tell\nyou. Handing your research results to other\npeople is the height of folly.",
+  "status": "done",
   "slots": [
    "0x1d72"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2051:005a4",
   "jp": "チ、わけのわかんねぇ奴。\nこんな奴に、負けられるかよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, what a weirdo. I ain't losin' to a guy like\nthis!",
+  "status": "done",
   "slots": [
    "0x1d8b"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2051:005de",
   "jp": "キミがユーフォリア王家の末裔か。",
-  "en": "",
-  "status": "todo",
+  "en": "So you're the descendant of the Euforian\nroyal family.",
+  "status": "done",
   "slots": [
    "0x2772"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2051:00603",
   "jp": "は？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x278c"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2051:0060c",
   "jp": "フム、なかなか興味深い体をして\nいるね。\nよし、キミはボクがいただこう。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, you have quite a fascinating body.\nVery well, you're mine.",
+  "status": "done",
   "slots": [
    "0x27a5"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2051:00657",
   "jp": "……うーん。そっくりだけど、\nなぁんか違うんだよなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Hmm. She looks just like her, but\nsomethin's just... different.",
+  "status": "done",
   "slots": [
    "0x31c0"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2051:00691",
   "jp": "……不備ハアリマセン。",
-  "en": "",
-  "status": "todo",
+  "en": "...There are. No defects.",
+  "status": "done",
   "slots": [
    "0x31de"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2051:006ac",
   "jp": "まぁ完全に似てても困るし……。\nんあーやりづれぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Well, it'd be a problem if she was a perfect\ncopy, too... Argh, this is awkward!",
+  "status": "done",
   "slots": [
    "0x31f8"
   ],

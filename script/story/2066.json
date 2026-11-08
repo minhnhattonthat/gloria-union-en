@@ -398,8 +398,8 @@
  {
   "id": "s2066:006d6",
   "jp": "なんだと！？",
-  "en": "",
-  "status": "todo",
+  "en": "What!?",
+  "status": "done",
   "slots": [
    "0x1d1e"
   ],
@@ -694,8 +694,8 @@
  {
   "id": "s2066:00bcd",
   "jp": "あ～我慢ならねぇ！\nちょっと俺に貸せ！\nスペックアップしてやるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahh, I can't stand it! Lend it here! I'll\nupgrade it for ya!",
+  "status": "done",
   "slots": [
    "0x240b"
   ],
@@ -704,8 +704,8 @@
  {
   "id": "s2066:00c0e",
   "jp": "オラ！　射程距離、命中率。\n共に問題なし！\nどうだ？　スゲェだろ！",
-  "en": "",
-  "status": "todo",
+  "en": "There! Range and accuracy, both no\nproblem! How's that? Amazin', right!",
+  "status": "done",
   "slots": [
    "0x2483"
   ],
@@ -714,8 +714,8 @@
  {
   "id": "s2066:00c4f",
   "jp": "また古くなったら来いよな？\n待ってるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Come back when it gets old again, okay? I'll\nbe waitin'!",
+  "status": "done",
   "slots": [
    "0x24a3"
   ],
@@ -774,8 +774,8 @@
  {
   "id": "s2066:00d72",
   "jp": "うお、な、なんだこれ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, wh-what the hell is this!?",
+  "status": "done",
   "slots": [
    "0x32b4"
   ],
@@ -784,8 +784,8 @@
  {
   "id": "s2066:00d8b",
   "jp": "なんだ、このカケラ……\nスゲェ力を感じるぞ……！",
-  "en": "",
-  "status": "todo",
+  "en": "What's this shard... I can feel incredible\npower from it...!",
+  "status": "done",
   "slots": [
    "0x32ff"
   ],
@@ -794,8 +794,8 @@
  {
   "id": "s2066:00dbb",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x334b"
   ],
@@ -804,8 +804,8 @@
  {
   "id": "s2066:00dc8",
   "jp": "ただの石ではないようですね……。\n考古学に疎いボクにでもわかる\nぐらいですからね。",
-  "en": "",
-  "status": "todo",
+  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows nothing of\narchaeology can tell.",
+  "status": "done",
   "slots": [
    "0x3396"
   ],
@@ -814,8 +814,8 @@
  {
   "id": "s2066:00e19",
   "jp": "こ、これはぁぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this iiis!!",
+  "status": "done",
   "slots": [
    "0x33e2"
   ],
@@ -824,8 +824,8 @@
  {
   "id": "s2066:00e2e",
   "jp": "い、遺跡の欠片！\nやったぁー！！\nいただきまぁーす！",
-  "en": "",
-  "status": "todo",
+  "en": "A r-ruin shard! Yaaay!! Time to eeeat!",
+  "status": "done",
   "slots": [
    "0x342d"
   ],
@@ -844,8 +844,8 @@
  {
   "id": "s2066:00e8d",
   "jp": "よくわからないわね。\nルルゥに聞いてみようかしら。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't really tell. Maybe I'll ask Ruru.",
+  "status": "done",
   "slots": [
    "0x34c4"
   ],
@@ -854,8 +854,8 @@
  {
   "id": "s2066:00ebf",
   "jp": "こいつぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x3510"
   ],
@@ -864,8 +864,8 @@
  {
   "id": "s2066:00ece",
   "jp": "遺跡の欠片か。\n海から流れてきたのか……？",
-  "en": "",
-  "status": "todo",
+  "en": "A ruin shard, huh. Did it wash up from the\nsea...?",
+  "status": "done",
   "slots": [
    "0x355b"
   ],
@@ -874,8 +874,8 @@
  {
   "id": "s2066:00ef8",
   "jp": "これは……！",
-  "en": "",
-  "status": "todo",
+  "en": "This is...!",
+  "status": "done",
   "slots": [
    "0x35a7"
   ],
@@ -884,8 +884,8 @@
  {
   "id": "s2066:00f05",
   "jp": "紛れもなくこれは遺跡の欠片……。\n実に興味深い。",
-  "en": "",
-  "status": "todo",
+  "en": "There is no mistaking it: a ruin shard... Truly\nfascinating.",
+  "status": "done",
   "slots": [
    "0x35f2"
   ],
@@ -894,8 +894,8 @@
  {
   "id": "s2066:00f35",
   "jp": "おぉ！　こ、これはすごい物だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh! Th-this is something amazing!",
+  "status": "done",
   "slots": [
    "0x363e"
   ],
@@ -904,8 +904,8 @@
  {
   "id": "s2066:00f56",
   "jp": "この石から、すっごいたくさんの\nウィルを感じるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco can feel sooo much Will from this\nstone!",
+  "status": "done",
   "slots": [
    "0x3689"
   ],
@@ -914,8 +914,8 @@
  {
   "id": "s2066:00f88",
   "jp": "これは、間違いなく\n遺跡の欠片だね！",
-  "en": "",
-  "status": "todo",
+  "en": "This is definitely a ruin shard!",
+  "status": "done",
   "slots": [
    "0x3690"
   ],
@@ -934,8 +934,8 @@
  {
   "id": "s2066:00fb9",
   "jp": "遺跡の欠片じゃないですか！\nな、なんでこんな所に……。",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't that a ruin shard!? Wh-why is it in a\nplace like this...",
+  "status": "done",
   "slots": [
    "0x3739"
   ],
@@ -944,8 +944,8 @@
  {
   "id": "s2066:00fef",
   "jp": "この石、えもいえぬ威圧感を\n感じるな……。",
-  "en": "",
-  "status": "todo",
+  "en": "This stone gives off an indescribable\npressure...",
+  "status": "done",
   "slots": [
    "0x378c"
   ],
@@ -954,8 +954,8 @@
  {
   "id": "s2066:01019",
   "jp": "気になるな。\n拾っておこう。",
-  "en": "",
-  "status": "todo",
+  "en": "It bothers me. I'll pick it up.",
+  "status": "done",
   "slots": [
    "0x37d7"
   ],
@@ -964,8 +964,8 @@
  {
   "id": "s2066:01035",
   "jp": "おや？　これはなんでしょう？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? What could this be?",
+  "status": "done",
   "slots": [
    "0x3823"
   ],
@@ -984,8 +984,8 @@
  {
   "id": "s2066:0109b",
   "jp": "ガガング、ガガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangu, gagangaa!",
+  "status": "done",
   "slots": [
    "0x38ba"
   ],
@@ -994,8 +994,8 @@
  {
   "id": "s2066:010b2",
   "jp": "ガガングー、グンガン、ガンガー！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaganguu, gungan, gangaa!",
+  "status": "done",
   "slots": [
    "0x3905"
   ],
@@ -1004,8 +1004,8 @@
  {
   "id": "s2066:010d3",
   "jp": "あら？　あらあらあら？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? Oh my, oh my?",
+  "status": "done",
   "slots": [
    "0x3951"
   ],
@@ -1014,8 +1014,8 @@
  {
   "id": "s2066:010ea",
   "jp": "これ、絶対にただの石じゃないわ！\nアタシの鼻はごまかせないわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "This is definitely no ordinary stone! You\ncan't fool my nose, dear.",
+  "status": "done",
   "slots": [
    "0x399c"
   ],
@@ -1024,8 +1024,8 @@
  {
   "id": "s2066:0112a",
   "jp": "む？　こ、これは！",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Th-this is!",
+  "status": "done",
   "slots": [
    "0x39e8"
   ],
@@ -1034,8 +1034,8 @@
  {
   "id": "s2066:0113d",
   "jp": "持っているだけで何か力のような\nものを感じる、様な気がしないでも\nない！",
-  "en": "",
-  "status": "todo",
+  "en": "Just holding it, I feel some kind of power, or\nso it seems, or maybe not!",
+  "status": "done",
   "slots": [
    "0x3a33"
   ],
@@ -1054,8 +1054,8 @@
  {
   "id": "s2066:011a8",
   "jp": "このにじみ出るようなウィルの感じ\nうーん、たまんないだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "The feel of this Will seeping out... Mmm, it's\nirresistible, dontcha know!",
+  "status": "done",
   "slots": [
    "0x3aca"
   ],
@@ -1064,8 +1064,8 @@
  {
   "id": "s2066:011e4",
   "jp": "あら？　これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? What is this...?",
+  "status": "done",
   "slots": [
    "0x3b2b"
   ],
@@ -1074,8 +1074,8 @@
  {
   "id": "s2066:011f9",
   "jp": "なにかとても大きな力を感じます。\nこれは、素晴らしいものですわ！",
-  "en": "",
-  "status": "todo",
+  "en": "I sense some very great power. This is a\nwonderful thing indeed!",
+  "status": "done",
   "slots": [
    "0x3b81"
   ],
@@ -1084,8 +1084,8 @@
  {
   "id": "s2066:01239",
   "jp": "お、おおおぉぉぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "O-ooooooh!!",
+  "status": "done",
   "slots": [
    "0x3bcb"
   ],
@@ -1094,8 +1094,8 @@
  {
   "id": "s2066:0124e",
   "jp": "持ってるだけで力が湧いてくる。\nコイツァすげぇぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Just holdin' it makes power well up in me.\nThis thing's amazin'!",
+  "status": "done",
   "slots": [
    "0x3c21"
   ],

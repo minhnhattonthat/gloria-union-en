@@ -2514,8 +2514,8 @@
  {
   "id": "s2068:02e3c",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x4dd4",
    "0x9bfc"

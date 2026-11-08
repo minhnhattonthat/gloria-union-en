@@ -398,8 +398,8 @@
  {
   "id": "s2056:006d5",
   "jp": "なんだと！？",
-  "en": "",
-  "status": "todo",
+  "en": "What!?",
+  "status": "done",
   "slots": [
    "0x1b7c"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2056:00b88",
   "jp": "うお、な、なんだこれ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, wh-what the hell is this!?",
+  "status": "done",
   "slots": [
    "0x2253"
   ],
@@ -694,8 +694,8 @@
  {
   "id": "s2056:00ba1",
   "jp": "なんだ、このカケラ……\nスゲェ力を感じるぞ……！",
-  "en": "",
-  "status": "todo",
+  "en": "What's this shard... I can feel incredible\npower from it...!",
+  "status": "done",
   "slots": [
    "0x229e"
   ],
@@ -704,8 +704,8 @@
  {
   "id": "s2056:00bd1",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x22ea"
   ],
@@ -714,8 +714,8 @@
  {
   "id": "s2056:00bde",
   "jp": "ただの石ではないようですね……。\n考古学に疎いボクにでもわかる\nぐらいですからね。",
-  "en": "",
-  "status": "todo",
+  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows nothing of\narchaeology can tell.",
+  "status": "done",
   "slots": [
    "0x2335"
   ],
@@ -724,8 +724,8 @@
  {
   "id": "s2056:00c2f",
   "jp": "こ、これはぁぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this iiis!!",
+  "status": "done",
   "slots": [
    "0x2381"
   ],
@@ -734,8 +734,8 @@
  {
   "id": "s2056:00c44",
   "jp": "い、遺跡の欠片！\nやったぁー！！\nいただきまぁーす！",
-  "en": "",
-  "status": "todo",
+  "en": "A r-ruin shard! Yaaay!! Time to eeeat!",
+  "status": "done",
   "slots": [
    "0x23cc"
   ],
@@ -754,8 +754,8 @@
  {
   "id": "s2056:00ca3",
   "jp": "よくわからないわね。\nルルゥに聞いてみようかしら。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't really tell. Maybe I'll ask Ruru.",
+  "status": "done",
   "slots": [
    "0x2463"
   ],
@@ -764,8 +764,8 @@
  {
   "id": "s2056:00cd5",
   "jp": "こいつぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x24af"
   ],
@@ -774,8 +774,8 @@
  {
   "id": "s2056:00ce4",
   "jp": "遺跡の欠片か。\n海から流れてきたのか……？",
-  "en": "",
-  "status": "todo",
+  "en": "A ruin shard, huh. Did it wash up from the\nsea...?",
+  "status": "done",
   "slots": [
    "0x24fa"
   ],
@@ -784,8 +784,8 @@
  {
   "id": "s2056:00d0e",
   "jp": "これは……！",
-  "en": "",
-  "status": "todo",
+  "en": "This is...!",
+  "status": "done",
   "slots": [
    "0x2546"
   ],
@@ -794,8 +794,8 @@
  {
   "id": "s2056:00d1b",
   "jp": "紛れもなくこれは遺跡の欠片……。\n実に興味深い。",
-  "en": "",
-  "status": "todo",
+  "en": "There is no mistaking it: a ruin shard... Truly\nfascinating.",
+  "status": "done",
   "slots": [
    "0x2591"
   ],
@@ -804,8 +804,8 @@
  {
   "id": "s2056:00d4b",
   "jp": "おぉ！　こ、これはすごい物だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh! Th-this is something amazing!",
+  "status": "done",
   "slots": [
    "0x25dd"
   ],
@@ -814,8 +814,8 @@
  {
   "id": "s2056:00d6c",
   "jp": "この石から、すっごいたくさんの\nウィルを感じるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco can feel sooo much Will from this\nstone!",
+  "status": "done",
   "slots": [
    "0x2628"
   ],
@@ -824,8 +824,8 @@
  {
   "id": "s2056:00d9e",
   "jp": "これは、間違いなく\n遺跡の欠片だね！",
-  "en": "",
-  "status": "todo",
+  "en": "This is definitely a ruin shard!",
+  "status": "done",
   "slots": [
    "0x262f"
   ],
@@ -844,8 +844,8 @@
  {
   "id": "s2056:00dcf",
   "jp": "遺跡の欠片じゃないですか！\nな、なんでこんな所に……。",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't that a ruin shard!? Wh-why is it in a\nplace like this...",
+  "status": "done",
   "slots": [
    "0x26d8"
   ],
@@ -854,8 +854,8 @@
  {
   "id": "s2056:00e05",
   "jp": "この石、えもいえぬ威圧感を\n感じるな……。",
-  "en": "",
-  "status": "todo",
+  "en": "This stone gives off an indescribable\npressure...",
+  "status": "done",
   "slots": [
    "0x272b"
   ],
@@ -864,8 +864,8 @@
  {
   "id": "s2056:00e2f",
   "jp": "気になるな。\n拾っておこう。",
-  "en": "",
-  "status": "todo",
+  "en": "It bothers me. I'll pick it up.",
+  "status": "done",
   "slots": [
    "0x2776"
   ],

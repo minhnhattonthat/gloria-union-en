@@ -1265,8 +1265,8 @@
  {
   "id": "s2060:0142e",
   "jp": "やれるもんならやってみやがれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Try it if you can!",
+  "status": "done",
   "slots": [
    "0x46d1"
   ],

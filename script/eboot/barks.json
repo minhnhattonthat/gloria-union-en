@@ -9434,8 +9434,8 @@
  {
   "id": "e:1f5569",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "w:20507c"
   ]
@@ -10091,8 +10091,8 @@
  {
   "id": "e:1f5a92",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "w:2052c4"
   ]
@@ -10100,8 +10100,8 @@
  {
   "id": "e:1f5a9f",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "w:2052cc"
   ]
@@ -10109,8 +10109,8 @@
  {
   "id": "e:1f5aac",
   "jp": "これは……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "w:2052d4"
   ]
@@ -23726,8 +23726,8 @@
  {
   "id": "e:1fd0b8",
   "jp": "……チッ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Tch.",
+  "status": "done",
   "slots": [
    "w:20bfc4"
   ]

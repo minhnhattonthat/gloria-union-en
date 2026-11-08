@@ -761,8 +761,8 @@
  {
   "id": "s2046:00c1a",
   "jp": "うおっ！　危ねぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! That was close!",
+  "status": "done",
   "slots": [
    "0x2574",
    "0x5936"
@@ -772,8 +772,8 @@
  {
   "id": "s2046:00c2d",
   "jp": "ふぃー、もう少しで咬まれる\nところだったぜぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew, I almost got bitten there.",
+  "status": "done",
   "slots": [
    "0x25ca",
    "0x598c"
@@ -783,8 +783,8 @@
  {
   "id": "s2046:00c5b",
   "jp": "うにゃあ！　ウ、ウミヘビですよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Unyaah! S-s-sea snakes!",
+  "status": "done",
   "slots": [
    "0x2624",
    "0x59e6"
@@ -794,8 +794,8 @@
  {
   "id": "s2046:00c7c",
   "jp": "危ないですねぇ。\n咬まれたらどうするんですか！",
-  "en": "",
-  "status": "todo",
+  "en": "That was dangerous. What would you do if it\nbit you!?",
+  "status": "done",
   "slots": [
    "0x267a",
    "0x5a3c"
@@ -805,8 +805,8 @@
  {
   "id": "s2046:00caa",
   "jp": "あ、ヘビだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, a snake!",
+  "status": "done",
   "slots": [
    "0x26cd",
    "0x5a8f"
@@ -816,8 +816,8 @@
  {
   "id": "s2046:00cb7",
   "jp": "にょにょろしてる……。",
-  "en": "",
-  "status": "todo",
+  "en": "It's all wiggly...",
+  "status": "done",
   "slots": [
    "0x2718",
    "0x5ada"
@@ -827,8 +827,8 @@
  {
   "id": "s2046:00cce",
   "jp": "ヤダ！　ウミヘビじゃない！",
-  "en": "",
-  "status": "todo",
+  "en": "Eww! Isn't that a sea snake!?",
+  "status": "done",
   "slots": [
    "0x276b",
    "0x5b2d"
@@ -838,8 +838,8 @@
  {
   "id": "s2046:00ce9",
   "jp": "危なかったわぁ。\nもう少しで咬まれるところだった。",
-  "en": "",
-  "status": "todo",
+  "en": "That was close. It almost bit me.",
+  "status": "done",
   "slots": [
    "0x27c1",
    "0x5b83"
@@ -849,8 +849,8 @@
  {
   "id": "s2046:00d1b",
   "jp": "おいおい。\nこいつぁ、ウミヘビじゃねぇか。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey now. Ain't that a sea snake?",
+  "status": "done",
   "slots": [
    "0x2814",
    "0x5bd6"
@@ -860,8 +860,8 @@
  {
   "id": "s2046:00d45",
   "jp": "さすがの俺でも、\n毒はちいっと痛ぇぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Even I'd find poison a little painful.",
+  "status": "done",
   "slots": [
    "0x285f",
    "0x5c21"
@@ -871,8 +871,8 @@
  {
   "id": "s2046:00d6b",
   "jp": "ウミヘビか。\n危ないな、まったく。",
-  "en": "",
-  "status": "todo",
+  "en": "A sea snake. How dangerous, honestly.",
+  "status": "done",
   "slots": [
    "0x28a7",
    "0x5c69"
@@ -882,8 +882,8 @@
  {
   "id": "s2046:00d8d",
   "jp": "ウミヘビに咬まれると、麻痺や\nしびれが起き、やがて呼吸や心臓が\n停止して死に至る。",
-  "en": "",
-  "status": "todo",
+  "en": "A sea snake's bite causes paralysis and\nnumbness, and eventually stops the\nbreathing and the heart, bringing death.",
+  "status": "done",
   "slots": [
    "0x28b2",
    "0x5c74"
@@ -893,8 +893,8 @@
  {
   "id": "s2046:00dde",
   "jp": "恐ろしい海の生き物の一つだな。",
-  "en": "",
-  "status": "todo",
+  "en": "It is one of the fearsome creatures of the\nsea.",
+  "status": "done",
   "slots": [
    "0x28fd",
    "0x5cbf"
@@ -904,8 +904,8 @@
  {
   "id": "s2046:00dfd",
   "jp": "あ、ウミヘビだ！\nえへへ、ゲット！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, a sea snake! Hehe, got it!",
+  "status": "done",
   "slots": [
    "0x2949",
    "0x5d0b"
@@ -915,8 +915,8 @@
  {
   "id": "s2046:00e1f",
   "jp": "魔法薬を作るのに、ウミヘビの毒は\nとっても役に立つんだよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Sea snake venom is super useful for making\nmagic potions!",
+  "status": "done",
   "slots": [
    "0x2994",
    "0x5d56"
@@ -926,8 +926,8 @@
  {
   "id": "s2046:00e59",
   "jp": "おや？　このヘビ。\n普通のヘビとは違うみたいっすね。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? This snake looks different from normal\nsnakes, sir.",
+  "status": "done",
   "slots": [
    "0x29e7",
    "0x5da9"
@@ -937,8 +937,8 @@
  {
   "id": "s2046:00e8d",
   "jp": "はじめてみたっす！\nみんなのお土産にするっすよ！",
-  "en": "",
-  "status": "todo",
+  "en": "It's my first time seeing one! I'll take it home\nas a souvenir for everyone!",
+  "status": "done",
   "slots": [
    "0x2a3d",
    "0x5dff"
@@ -948,8 +948,8 @@
  {
   "id": "s2046:00ebd",
   "jp": "おっと、どうやらここは\nウミヘビくんの縄張りだった\nようだね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oops, it seems this is Mr. Sea Snake's\nterritory.",
+  "status": "done",
   "slots": [
    "0x2a90",
    "0x5e52"
@@ -959,8 +959,8 @@
  {
   "id": "s2046:00efa",
   "jp": "すまないな、ウミヘビくん。\nもうキミの家を荒らすような事は\nしないよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry, Mr. Sea Snake. I won't disturb your\nhome again.",
+  "status": "done",
   "slots": [
    "0x2adb",
    "0x5e9d"
@@ -970,8 +970,8 @@
  {
   "id": "s2046:037a8",
   "jp": "クッ……！\nこうなったら、海ゴブリンだけ\nでも……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh...! If it comes to this, I'll at least get\nthe Sea Goblins...!",
+  "status": "done",
   "slots": [
    "0x422a"
   ],
@@ -981,8 +981,8 @@
  {
   "id": "s2046:037df",
   "jp": "キュキュキュキュキュキュキュ\nキュキュキューーー！！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyukyukyukyukyukyukyu kyukyukyuuuu!!",
+  "status": "done",
   "slots": [
    "0x4240"
   ],
@@ -992,8 +992,8 @@
  {
   "id": "s2046:03817",
   "jp": "キシャ、キシャキシャ\nキシャー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kisha, kishakisha kishaaa!",
+  "status": "done",
   "slots": [
    "0x4256"
   ],
@@ -1003,8 +1003,8 @@
  {
   "id": "s2046:0383b",
   "jp": "海ゴブリンがやられる前に\n奴らを仕留めろ！",
-  "en": "",
-  "status": "todo",
+  "en": "Get them before they get the Sea Goblins!",
+  "status": "done",
   "slots": [
    "0x4274"
   ],
@@ -1014,8 +1014,8 @@
  {
   "id": "s2046:03869",
   "jp": "もちろんよ！\nアイツら、穴だらけにしてやるわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Of course! I'll fill those guys full of holes!",
+  "status": "done",
   "slots": [
    "0x428d"
   ],
@@ -1025,8 +1025,8 @@
  {
   "id": "s2046:0389b",
   "jp": "クソッ！　財ほ……海の平和が！\n撤退だぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn! The treas-- the peace of the seas!\nRetreat!",
+  "status": "done",
   "slots": [
    "0x6688"
   ],
@@ -1036,8 +1036,8 @@
  {
   "id": "s2046:038c9",
   "jp": "二度と来るんじゃないわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "And don't ever come back!",
+  "status": "done",
   "slots": [
    "0x66a1"
   ],
@@ -1047,8 +1047,8 @@
  {
   "id": "s2046:038e8",
   "jp": "おぉ、逃げてく逃げてく。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, look at 'em run.",
+  "status": "done",
   "slots": [
    "0x6e69"
   ],
@@ -1058,8 +1058,8 @@
  {
   "id": "s2046:03905",
   "jp": "手ごたえのねぇ奴らだな。\nまぁ、海ゴブリンを狙ってる時点で\nたかが知れてるか。",
-  "en": "",
-  "status": "todo",
+  "en": "Didn't put up much of a fight. Well, anyone\nwho goes after Sea Goblins can't be much.",
+  "status": "done",
   "slots": [
    "0x6e82"
   ],
@@ -1069,8 +1069,8 @@
  {
   "id": "s2046:03956",
   "jp": "キュキュ、キュキュキュ。\nキュキュキュキュキュキュ！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyukyu, kyukyukyu. Kyukyukyukyukyukyu!",
+  "status": "done",
   "slots": [
    "0x6e98"
   ],
@@ -1080,8 +1080,8 @@
  {
   "id": "s2046:0398e",
   "jp": "キシャキシャキシャキシャー\nキシャー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kishakishakishakishaaa kishaaa!",
+  "status": "done",
   "slots": [
    "0x6eae"
   ],
@@ -1091,8 +1091,8 @@
  {
   "id": "s2046:039b8",
   "jp": "ん？　……何々？\nえ！？　本当！？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? ...What is it? Huh!? Really!?",
+  "status": "done",
   "slots": [
    "0x6ec7"
   ],
@@ -1102,8 +1102,8 @@
  {
   "id": "s2046:039de",
   "jp": "どうしたんですか？　ルルゥ。",
-  "en": "",
-  "status": "todo",
+  "en": "What's the matter, Ruru?",
+  "status": "done",
   "slots": [
    "0x6efc"
   ],
@@ -1113,8 +1113,8 @@
  {
   "id": "s2046:039ff",
   "jp": "海ゴブリンが、お礼をしたいから\n家まで案内するって！",
-  "en": "",
-  "status": "todo",
+  "en": "The Sea Goblins say they want to thank us,\nso they'll show us to their home!",
+  "status": "done",
   "slots": [
    "0x6f12"
   ],
@@ -1124,8 +1124,8 @@
  {
   "id": "s2046:03a37",
   "jp": "え！　本当！？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh! Really!?",
+  "status": "done",
   "slots": [
    "0x6f28"
   ],
@@ -1135,8 +1135,8 @@
  {
   "id": "s2046:03a4a",
   "jp": "住処で礼と言えば……じゅるり。",
-  "en": "",
-  "status": "todo",
+  "en": "A thank-you at their hideout means...\n*drool*.",
+  "status": "done",
   "slots": [
    "0x6f68"
   ],
@@ -1146,8 +1146,8 @@
  {
   "id": "s2046:03a6d",
   "jp": "……いいのか？　親父。",
-  "en": "",
-  "status": "todo",
+  "en": "...Is this okay, Dad?",
+  "status": "done",
   "slots": [
    "0x6f7e"
   ],
@@ -1157,8 +1157,8 @@
  {
   "id": "s2046:03a88",
   "jp": "礼なんだ、ありがたく受け取ろう\nじゃあねぇか。",
-  "en": "",
-  "status": "todo",
+  "en": "It's a thank-you. Why not accept it\ngratefully?",
+  "status": "done",
   "slots": [
    "0x6f97"
   ],
@@ -1168,8 +1168,8 @@
  {
   "id": "s2046:03aba",
   "jp": "こうしちゃいられないわ！\n早速いくわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "No time to waste! Let's go right now!",
+  "status": "done",
   "slots": [
    "0x6fb0"
   ],
@@ -1189,8 +1189,8 @@
  {
   "id": "s2046:03b33",
   "jp": "やぁ、性別を超越する\n神秘の館へようこそ。",
-  "en": "",
-  "status": "todo",
+  "en": "Welcome to the House of Mysteries, where\nwe transcend gender.",
+  "status": "done",
   "slots": [
    "0x5f35"
   ],
@@ -1199,8 +1199,8 @@
  {
   "id": "s2046:03b5d",
   "jp": "それを持ってきたということは、\nキミも、超越者になりたいのだろ？",
-  "en": "",
-  "status": "todo",
+  "en": "If you've brought that, you must want to\nbecome a transcendent one too, right?",
+  "status": "done",
   "slots": [
    "0x5f3c"
   ],
@@ -1209,8 +1209,8 @@
  {
   "id": "s2046:03b9d",
   "jp": "フフフ、任せたまえ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hehehe, leave it to me!",
+  "status": "done",
   "slots": [
    "0x5f43"
   ],
@@ -1219,8 +1219,8 @@
  {
   "id": "s2046:03bb2",
   "jp": "気分はどう？\n神秘、感じるかしら？",
-  "en": "",
-  "status": "todo",
+  "en": "How do you feel? Do you sense the\nmystery?",
+  "status": "done",
   "slots": [
    "0x5f53"
   ],
@@ -1339,8 +1339,8 @@
  {
   "id": "s2046:03d30",
   "jp": "ま、これで変な男に\n言い寄られなくて済むわね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, at least now I won't have weird men\nhitting on me.",
+  "status": "done",
   "slots": [
    "0x62c7"
   ],
@@ -1405,15 +1405,15 @@
  {
   "id": "s2046:03e12",
   "jp": "性別なんてつまらないものは\n脱ぎ捨てて、\n神秘の世界に浸るのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Cast off something as boring as gender, and\nimmerse yourself in the world of mystery.",
+  "status": "done",
   "slots": []
  },
  {
   "id": "s2046:03e51",
   "jp": "あら、こんな所に人が来るなんて、\n珍しいわね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, how rare for anyone to come to a\nplace like this.",
+  "status": "done",
   "slots": [
    "0x6478"
   ],
@@ -1432,8 +1432,8 @@
  {
   "id": "s2046:03ecc",
   "jp": "だけど、アナタは資格がないみたい\nだから手術はうけられないわ。\n残念ね。",
-  "en": "",
-  "status": "todo",
+  "en": "But it seems you're not qualified, so you\ncan't have the operation. Too bad.",
+  "status": "done",
   "slots": [
    "0x6486"
   ],
@@ -1442,8 +1442,8 @@
  {
   "id": "s2046:03f13",
   "jp": "手術を受けるには、資格として\nあるアイテムが必要なのだ。\nすまないな。",
-  "en": "",
-  "status": "todo",
+  "en": "To have the operation, you need a certain\nitem as your qualification. Sorry.",
+  "status": "done",
   "slots": []
  },
  {

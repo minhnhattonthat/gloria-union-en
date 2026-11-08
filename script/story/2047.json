@@ -2,8 +2,8 @@
  {
   "id": "s2047:00028",
   "jp": "この島……懐かしいわねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "This island... It brings back memories.",
+  "status": "done",
   "slots": [
    "0x8c3"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2047:00047",
   "jp": "ん？　この島になんかあるのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Is there somethin' about this island?",
+  "status": "done",
   "slots": [
    "0x8d5"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2047:0006a",
   "jp": "この島はね。\nあたしのデビュー戦の地なのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "This island is where I fought my very first\nbattle.",
+  "status": "done",
   "slots": [
    "0x8e7"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2047:0009a",
   "jp": "はぁい回想スタートでぇす。",
-  "en": "",
-  "status": "todo",
+  "en": "Okaaay, flashback starting!",
+  "status": "done",
   "slots": [
    "0x8fc"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2047:000b9",
   "jp": "ごゆっくりどうぞ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Enjoy the show!",
+  "status": "done",
   "slots": [
    "0x911"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2047:000d2",
   "jp": "出て来いザザーランド！\n後はお前だけだぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Come out, Zazarland! You're the only one\nleft!",
+  "status": "done",
   "slots": [
    "0x9b9"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2047:00100",
   "jp": "チッ……！\n寝てる隙に攻撃してきやがって。\n相変わらず狡い手だぜ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Tch...! Attackin' while I was asleep. Dirty\ntricks as usual...",
+  "status": "done",
   "slots": [
    "0x9e9"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2047:00158",
   "jp": "……いいか、エリーシャ。\n今から俺の言うことを\nよく聞くんだ、いいな。",
-  "en": "",
-  "status": "todo",
+  "en": "...Listen, Elisha. Listen good to what I'm\nabout to tell ya, got it?",
+  "status": "done",
   "slots": [
    "0xa1b"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2047:001a1",
   "jp": "う、うん……！",
-  "en": "",
-  "status": "todo",
+  "en": "O-okay...!",
+  "status": "done",
   "slots": [
    "0xa34"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2047:001b4",
   "jp": "もっと華々しくデビューさせて\nやりたかったが。\nまぁ、こんなもんだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I wanted to give ya a flashier debut than\nthis. Well, it is what it is.",
+  "status": "done",
   "slots": [
    "0xa4a"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2047:001fb",
   "jp": "うぅん。\nみんながやられちゃったんだもん！\nあたし、やるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "No, it's fine. Everyone's been beaten! I'll do\nit!",
+  "status": "done",
   "slots": [
    "0xa63"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2047:0023a",
   "jp": "……フ。\nよっしゃあ、その意気だ。\n頼りにしてるぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Heh. All right, that's the spirit. I'm\ncountin' on ya.",
+  "status": "done",
   "slots": [
    "0xa7c"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2047:0027c",
   "jp": "いくぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Here we go!",
+  "status": "done",
   "slots": [
    "0xaab"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2047:00289",
   "jp": "死ぬ覚悟が出来たようだな。",
-  "en": "",
-  "status": "todo",
+  "en": "It seems you're ready to die.",
+  "status": "done",
   "slots": [
    "0xb8c"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2047:002a8",
   "jp": "お前のナマクラじゃ俺は死なねぇ。\nまな板包丁の方が良く斬れらぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "That dull blade of yours won't kill me. A\nkitchen knife cuts better.",
+  "status": "done",
   "slots": [
    "0xba5"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2047:002ec",
   "jp": "戯言を……！\nお前ら、敵はザザーランドのみ！\n一網打尽にしてやれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Nonsense...! Men, Zazarland is the only\nenemy! Take him down in one sweep!",
+  "status": "done",
   "slots": [
    "0xbbe"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2047:00331",
   "jp": "ヘヘ……来いよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh... Come on, then.",
+  "status": "done",
   "slots": [
    "0xdc5"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2047:00346",
   "jp": "流石にこの人数は……こいつぁ……",
-  "en": "",
-  "status": "todo",
+  "en": "Even for me, this many... this is...",
+  "status": "done",
   "slots": [
    "0x1601"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2047:0036b",
   "jp": "敵は疲弊している！\n総員、まとめてかかれ！",
-  "en": "",
-  "status": "todo",
+  "en": "The enemy is exhausted! All of you, attack\ntogether!",
+  "status": "done",
   "slots": [
    "0x161a"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2047:00399",
   "jp": "こいつぁ……好機だぜ……！",
-  "en": "",
-  "status": "todo",
+  "en": "This is... my chance...!",
+  "status": "done",
   "slots": [
    "0x1633"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2047:003b8",
   "jp": "エリーシャ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha!!",
+  "status": "done",
   "slots": [
    "0x1648"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2047:003e3",
   "jp": "グ……何故だ！\n部下は全員始末したはず……！",
-  "en": "",
-  "status": "todo",
+  "en": "Gh... How!? I should have disposed of every\none of his men...!",
+  "status": "done",
   "slots": [
    "0x182a"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2047:00413",
   "jp": "頼りになるだろ？\n自慢の娘だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Reliable, ain't she? She's my pride and joy.",
+  "status": "done",
   "slots": [
    "0x1840"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2047:00435",
   "jp": "娘……だと……！？",
-  "en": "",
-  "status": "todo",
+  "en": "Your... daughter...!?",
+  "status": "done",
   "slots": [
    "0x1859"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2047:0044c",
   "jp": "グロリア海賊団副船長エリーシャ！\nアンタなんかに、親父の首は\nやらないわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha, first mate of the Gloria Pirates! I\nwon't let the likes of you have Dad's head!",
+  "status": "done",
   "slots": [
    "0x1872"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2047:00499",
   "jp": "おいおい、いつから副船長に\nなったんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey now, since when did you become first\nmate?",
+  "status": "done",
   "slots": [
    "0x188b"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2047:004c5",
   "jp": "どうせ二人しかいないんだから\nいいでしょ！？",
-  "en": "",
-  "status": "todo",
+  "en": "There's only two of us anyway, so what's\nthe harm!?",
+  "status": "done",
   "slots": [
    "0x18a4"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2047:004f5",
   "jp": "そうかい。\nじゃあ頼んだぜ、副船長さんよぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "Is that so. Then I'm countin' on ya, Miss First\nMate!",
+  "status": "done",
   "slots": [
    "0x18bd"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2047:00525",
   "jp": "まかせて！",
-  "en": "",
-  "status": "todo",
+  "en": "Leave it to me!",
+  "status": "done",
   "slots": [
    "0x18d6"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2047:00534",
   "jp": "く、黒い牙だぁ！\n早く逃げろ！　攫われちまうぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "I-it's the Black Fang! Run, quick! They'll carry\nus off!",
+  "status": "done",
   "slots": [
    "0xeb7",
    "0x1f71"
@@ -376,8 +376,8 @@
  {
   "id": "s2047:00564",
   "jp": "ア、アンタも逃げた方がいい！\n黒い牙は、捕まえた人間をアジトに\n連れ込んで、奴隷にしちまうんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Y-you should run too! The Black Fang take\nthe people they catch to their hideout and\nmake them slaves!",
+  "status": "done",
   "slots": [
    "0xebe",
    "0x1f78"
@@ -387,8 +387,8 @@
  {
   "id": "s2047:005c3",
   "jp": "その島から、黒い牙以外の奴が\n出てきた事はねぇ……。\n悪い事は言わねぇ、早く逃げるぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Nobody but the Black Fang has ever come\nout of that island... Take my advice and run,\nquick!",
+  "status": "done",
   "slots": [
    "0xec5",
    "0x1f7f"
@@ -398,8 +398,8 @@
  {
   "id": "s2047:00618",
   "jp": "ヒイィ……ブルブル。",
-  "en": "",
-  "status": "todo",
+  "en": "Eeek... *shiver*.",
+  "status": "done",
   "slots": [
    "0xedd",
    "0x1f97"
@@ -409,8 +409,8 @@
  {
   "id": "s2047:01a30",
   "jp": "黒い牙リーダー、ブラックモア！\n貴様の首、この俺が貰い受ける！",
-  "en": "",
-  "status": "todo",
+  "en": "Black Fang leader, Blackmore! Your head is\nmine to take!",
+  "status": "done",
   "slots": [
    "0x207c"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2047:01a72",
   "jp": "グロリア海賊団船長ザザーランド。\nお前なんかに渡すほど、\n俺の首は安くねぇよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gloria Pirates captain, Zazarland. My head\nain't cheap enough to hand over to the likes\nof you.",
+  "status": "done",
   "slots": [
    "0x2096"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2047:01ac3",
   "jp": "……殺す！",
-  "en": "",
-  "status": "todo",
+  "en": "...You die!",
+  "status": "done",
   "slots": [
    "0x20ab"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2047:01ad2",
   "jp": "よくもやってくれたな小娘……！\n三枚におろされたいか……！",
-  "en": "",
-  "status": "todo",
+  "en": "How dare you, little girl...! Do you want to\nbe filleted...!?",
+  "status": "done",
   "slots": [
    "0x219d"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2047:01b10",
   "jp": "それじゃあ、あたしはアンタを\n蜂の巣にしてやるわ！\n覚悟しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Then I'll turn you into Swiss cheese! Get\nready!",
+  "status": "done",
   "slots": [
    "0x21bb"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2047:01b55",
   "jp": "ザザーランドの娘……エリーシャ。\n鬼の子め……次に会った時は、\n貴様の首も貰い受けにいくぞ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Zazarland's daughter... Elisha. Devil's\nspawn... The next time we meet, I'll come for\nyour head too...!",
+  "status": "done",
   "slots": [
    "0x236e"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2047:01bb8",
   "jp": "エリーシャが初めて戦った相手って\nブラックモアだったんだね。",
-  "en": "",
-  "status": "todo",
+  "en": "So the first person Elisha ever fought was\nBlackmore.",
+  "status": "done",
   "slots": [
    "0x2ae6"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2047:01bf8",
   "jp": "変な縁がありますね……。",
-  "en": "",
-  "status": "todo",
+  "en": "What a strange connection...",
+  "status": "done",
   "slots": [
    "0x2afb"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2047:01c15",
   "jp": "いらないわよ、そんな縁。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't want that kind of connection.",
+  "status": "done",
   "slots": [
    "0x2b0d"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2047:01c32",
   "jp": "まったくだ。",
-  "en": "",
-  "status": "todo",
+  "en": "No kidding.",
+  "status": "done",
   "slots": [
    "0x2b1f"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2047:01c43",
   "jp": "この近くにクリスタルの気配が\nあるのか……？",
-  "en": "",
-  "status": "todo",
+  "en": "There's the presence of a Crystal near\nhere...?",
+  "status": "done",
   "slots": [
    "0x2b34"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2047:01c73",
   "jp": "うん。",
-  "en": "",
-  "status": "todo",
+  "en": "Uh-huh.",
+  "status": "done",
   "slots": [
    "0x2b49"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2047:01c7e",
   "jp": "……こりゃあ、\n用心にこしたことはねぇな。\nお前ら、気を引き締めろよ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Well, can't be too careful. Stay on your\ntoes, all of ya.",
+  "status": "done",
   "slots": [
    "0x2b5e"
   ],
