@@ -2,136 +2,136 @@
  {
   "id": "c6:00000",
   "jp": "…ヘッ…マヌケなヤツだぜ",
-  "en": "",
-  "status": "todo",
+  "en": "...Heh... What a dope.",
+  "status": "done",
   "at": "0x0",
   "max": 24
  },
  {
   "id": "c6:00019",
   "jp": "そこで頭を冷やしていなさい",
-  "en": "",
-  "status": "todo",
+  "en": "Cool your head off there for a while.",
+  "status": "done",
   "at": "0x19",
   "max": 26
  },
  {
   "id": "c6:00034",
   "jp": "そこで頭を冷やしていなさい",
-  "en": "",
-  "status": "todo",
+  "en": "Cool your head off there for a while.",
+  "status": "done",
   "at": "0x34",
   "max": 26
  },
  {
   "id": "c6:0004f",
   "jp": "貴殿の戦いはここまでだ",
-  "en": "",
-  "status": "todo",
+  "en": "Your fight ends here.",
+  "status": "done",
   "at": "0x4f",
   "max": 22
  },
  {
   "id": "c6:00066",
   "jp": "…すごーい！\n石像になっちゃった……",
-  "en": "",
-  "status": "todo",
+  "en": "...Wooow! They turned into a statue...",
+  "status": "done",
   "at": "0x66",
   "max": 35
  },
  {
   "id": "c6:0008a",
   "jp": "…フッ……愚かな",
-  "en": "",
-  "status": "todo",
+  "en": "...Hmph... Fool.",
+  "status": "done",
   "at": "0x8a",
   "max": 16
  },
  {
   "id": "c6:0009b",
   "jp": "…少しは懲りたかしら？",
-  "en": "",
-  "status": "todo",
+  "en": "...Have you learned your lesson yet?",
+  "status": "done",
   "at": "0x9b",
   "max": 22
  },
  {
   "id": "c6:000b2",
   "jp": "カチンコチンに固まってるよ…",
-  "en": "",
-  "status": "todo",
+  "en": "They're frozen stiff as a board...",
+  "status": "done",
   "at": "0xb2",
   "max": 28
  },
  {
   "id": "c6:000cf",
   "jp": "…残念だったな……",
-  "en": "",
-  "status": "todo",
+  "en": "...Too bad...",
+  "status": "done",
   "at": "0xcf",
   "max": 18
  },
  {
   "id": "c6:000e2",
   "jp": "後で置物にしてやるよ",
-  "en": "",
-  "status": "todo",
+  "en": "I'll make you an ornament later.",
+  "status": "done",
   "at": "0xe2",
   "max": 20
  },
  {
   "id": "c6:000f7",
   "jp": "油断しましたね…",
-  "en": "",
-  "status": "todo",
+  "en": "You let your guard down...",
+  "status": "done",
   "at": "0xf7",
   "max": 16
  },
  {
   "id": "c6:00108",
   "jp": "愚かな…",
-  "en": "",
-  "status": "todo",
+  "en": "Fool...",
+  "status": "done",
   "at": "0x108",
   "max": 8
  },
  {
   "id": "c6:00111",
   "jp": "これでもう\nおイタはできないわね♪",
-  "en": "",
-  "status": "todo",
+  "en": "Now you can't get up to any more mischief.",
+  "status": "done",
   "at": "0x111",
   "max": 33
  },
  {
   "id": "c6:00133",
   "jp": "か、噛み付いたり\nしないだろうな？",
-  "en": "",
-  "status": "todo",
+  "en": "Y-You won't bite, will you?",
+  "status": "done",
   "at": "0x133",
   "max": 33
  },
  {
   "id": "c6:00155",
   "jp": "ふん、神をも恐れぬ不貞の輩め！",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph, faithless wretch who fears not even\nthe gods!",
+  "status": "done",
   "at": "0x155",
   "max": 30
  },
  {
   "id": "c6:00174",
   "jp": "フフ…ザマ無いわね……",
-  "en": "",
-  "status": "todo",
+  "en": "Hehe... Serves you right...",
+  "status": "done",
   "at": "0x174",
   "max": 22
  },
  {
   "id": "c6:0018b",
   "jp": "まぁ！　こんなに\n硬くなってしまって…",
-  "en": "",
-  "status": "todo",
+  "en": "My! You've become so stiff...",
+  "status": "done",
   "at": "0x18b",
   "max": 37
  }

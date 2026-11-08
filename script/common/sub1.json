@@ -2,8 +2,8 @@
  {
   "id": "c1:0024c",
   "jp": "砲弾充填完了！\nいきますよ！　覚悟してください！\n発射ァ！",
-  "en": "",
-  "status": "todo",
+  "en": "Shells loaded! Here I go! Brace yourselves!\nFiiire!",
+  "status": "done",
   "slots": [
    "0x4b"
   ],
@@ -12,8 +12,8 @@
  {
   "id": "c1:00285",
   "jp": "おぉー面白いように人が飛んで\n行きますね。\nニャハハ！　人がゴミの……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, people are flying off like it's nothing.\nNyahaha! Look, the people are like\ngarbage...",
+  "status": "done",
   "slots": [
    "0x84"
   ],
@@ -22,8 +22,8 @@
  {
   "id": "c1:002cc",
   "jp": "おっと、のん気に言ってる場合では\nありません。\n次弾装填、発射ァ！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoops, this is no time for idle chatter.\nLoad the next shell, fiiire!",
+  "status": "done",
   "slots": [
    "0x96"
   ],
@@ -32,8 +32,8 @@
  {
   "id": "c1:0030d",
   "jp": "なんだか楽しくなってきましたね。\nニャッハッハ！　ボクは神だ！\n次弾装填、発射ァ！",
-  "en": "",
-  "status": "todo",
+  "en": "This is getting kind of fun. Nyahhahha! I am a\ngod! Load the next shell, fiiire!",
+  "status": "done",
   "slots": [
    "0xcf"
   ],
@@ -42,8 +42,8 @@
  {
   "id": "c1:0035e",
   "jp": "おっと、ちょっとだけトリップ\nしてしまいました。\nここは冷静を取り戻して。発射ァ！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoops, I got a bit carried away there.\nLet's get my cool back. Fiiire!",
+  "status": "done",
   "slots": [
    "0x101"
   ],
@@ -52,8 +52,8 @@
  {
   "id": "c1:003af",
   "jp": "まだ足りませんか？\n生憎と、砲弾はまだ余ってますよ！\n次弾装填！　発射ァ！",
-  "en": "",
-  "status": "todo",
+  "en": "Still not enough? Too bad for you, I've got\nplenty of shells left! Load the next shell!\nFiiire!",
+  "status": "done",
   "slots": [
    "0x133"
   ],
@@ -62,8 +62,8 @@
  {
   "id": "c1:003f8",
   "jp": "これで一網打尽よ！\nくらいなさい！　発射！",
-  "en": "",
-  "status": "todo",
+  "en": "This'll get them all in one sweep! Take this!\nFire!",
+  "status": "done",
   "slots": [
    "0x165"
   ],
@@ -72,8 +72,8 @@
  {
   "id": "c1:00422",
   "jp": "これ、ちゃんと当たってるの？\n砲身が邪魔で下が見えないんだけど",
-  "en": "",
-  "status": "todo",
+  "en": "Is this even hitting anything? The barrel's in\nthe way, I can't see below.",
+  "status": "done",
   "slots": [
    "0x197"
   ],
@@ -82,8 +82,8 @@
  {
   "id": "c1:00460",
   "jp": "まぁ、いいや。気にしたら負けよ！\n発射！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh well. Worrying about it means you lose!\nFire!",
+  "status": "done",
   "slots": [
    "0x19e"
   ],
@@ -92,8 +92,8 @@
  {
   "id": "c1:00488",
   "jp": "うひゃー日頃のストレスもまとめて\n吹き飛ぶわねぇ！\nドンドン撃っちゃってぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wheee, this blows away all my everyday\nstress too! Keep firing!",
+  "status": "done",
   "slots": [
    "0x1d0"
   ],
@@ -102,8 +102,8 @@
  {
   "id": "c1:004d3",
   "jp": "ハァ……。\nリーダーって、かっこいいんだけど\n怖いのよねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sigh... The leader's cool, but scary, you\nknow.",
+  "status": "done",
   "slots": [
    "0x1d7"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "c1:0050e",
   "jp": "いやいや、弱気はダメ！\nここで頑張ってアピールするわよ！\n次弾装填！　撃てぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "No, no, no being timid! I'll work hard here and\nshow what I've got! Load the next shell!\nFire!",
+  "status": "done",
   "slots": [
    "0x209"
   ],
@@ -122,8 +122,8 @@
  {
   "id": "c1:0055b",
   "jp": "まだまだいくわよ！\n次弾装填！　撃てぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm not done yet! Load the next shell! Fire!",
+  "status": "done",
   "slots": [
    "0x23b"
   ],

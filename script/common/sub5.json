@@ -2,112 +2,112 @@
  {
   "id": "c5:00000",
   "jp": "…何だコイツ\n立ったまま寝てるぜ",
-  "en": "",
-  "status": "todo",
+  "en": "...What's with this guy? He's sleepin'\nstanding up.",
+  "status": "done",
   "at": "0x0",
   "max": 31
  },
  {
   "id": "c5:00020",
   "jp": "よほど疲れているのね…",
-  "en": "",
-  "status": "todo",
+  "en": "He must be really tired...",
+  "status": "done",
   "at": "0x20",
   "max": 22
  },
  {
   "id": "c5:00037",
   "jp": "よほど疲れているのね…",
-  "en": "",
-  "status": "todo",
+  "en": "He must be really tired...",
+  "status": "done",
   "at": "0x37",
   "max": 22
  },
  {
   "id": "c5:0004e",
   "jp": "熟睡しているようです",
-  "en": "",
-  "status": "todo",
+  "en": "They seem to be fast asleep.",
+  "status": "done",
   "at": "0x4e",
   "max": 20
  },
  {
   "id": "c5:00063",
   "jp": "ねぇ、この人寝てるけど\n叩いてもいい？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, this person's asleep. Can I hit him?",
+  "status": "done",
   "at": "0x63",
   "max": 37
  },
  {
   "id": "c5:00089",
   "jp": "やはり眠っているか…",
-  "en": "",
-  "status": "todo",
+  "en": "Asleep after all...",
+  "status": "done",
   "at": "0x89",
   "max": 20
  },
  {
   "id": "c5:0009e",
   "jp": "…完全に寝ちゃってるわ",
-  "en": "",
-  "status": "todo",
+  "en": "...Completely out cold.",
+  "status": "done",
   "at": "0x9e",
   "max": 22
  },
  {
   "id": "c5:000b5",
   "jp": "何この人…眠ってるよ？",
-  "en": "",
-  "status": "todo",
+  "en": "What's with this person... Are they\nsleeping?",
+  "status": "done",
   "at": "0xb5",
   "max": 22
  },
  {
   "id": "c5:000cc",
   "jp": "…眠っているのか？",
-  "en": "",
-  "status": "todo",
+  "en": "...Asleep?",
+  "status": "done",
   "at": "0xcc",
   "max": 18
  },
  {
   "id": "c5:000df",
   "jp": "寝てるぞ…",
-  "en": "",
-  "status": "todo",
+  "en": "He's asleep...",
+  "status": "done",
   "at": "0xdf",
   "max": 10
  },
  {
   "id": "c5:000ea",
   "jp": "眠っているようです…",
-  "en": "",
-  "status": "todo",
+  "en": "They appear to be asleep...",
+  "status": "done",
   "at": "0xea",
   "max": 20
  },
  {
   "id": "c5:000ff",
   "jp": "眠っている？",
-  "en": "",
-  "status": "todo",
+  "en": "Asleep?",
+  "status": "done",
   "at": "0xff",
   "max": 12
  },
  {
   "id": "c5:0010c",
   "jp": "あらら、寝てるわ\nこの人…",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, this one's asleep...",
+  "status": "done",
   "at": "0x10c",
   "max": 25
  },
  {
   "id": "c5:00126",
   "jp": "あらあら、こんな所で眠っては\n風邪をひいてしまいますわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh dear, if you sleep in a place like this,\nyou'll catch a cold, you know.",
+  "status": "done",
   "at": "0x126",
   "max": 57
  }

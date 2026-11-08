@@ -163,5 +163,21 @@ Ruins in dialogue (not table rows: the item shards shorten them): 火竜の城 "
 | 宰相 | Chancellor | | Gariored | |
 | シンフォニア (Ruru) | Symphonia | | Ruru's "official designation" (2068) | |
 | 幸福感 | euphoria | | what Euforia means (Ashrey's pun, 2072) | |
+| ユニオン | Union | | ユニオンリーダー Union Leader; tutorial pun ユニオン/オニオン "Union"/"Onion" | |
+| タクティクスカード | Tactics Card | | | |
+| デュエルオーダー | Duel Order | | | |
+| 連戦ハンデ | Back-to-Back Handicap | | | |
+| リンク展開 | Link Expansion | | | |
+| ターン終了 | End Turn | | menu command | |
+| 船長選択 | Captain Change | | ship screen (its art says so) | |
+| ナンパ勝負 | flirting contest | | | |
+
+Game-system words (b072-b074 tutorials; prose, not rows, because story lines use the same kanji loosely):
+Ｍｏｖ Mov, Ｐｏｗ Pow, エースタイプ Ace Type, スキル Skill, スキルゲージ Skill Gauge, チャージゲージ Charge Gauge,
+Ｃｈａｒｇｅ/ＫｅｅｐＯｎ/Ｐａｓｓｉｖｅ Charge/KeepOn/Passive, デュエル Duel, 戦況予想 battle forecast (◎/× kept as
+symbols), ×タイプ/＋タイプ 'X Type'/'+ Type', 先鋒/後続/殿軍 vanguard/follow-up/rearguard, status ailments
+(ステータス異常): 冒毒 Poison, 呪縛 Curse, 昏睡 Sleep, 炎上 Ablaze, マヒ Paralysis, 鈍足 Slow, 石化 Stone, 火傷 Burn;
+出撃 Sortie, 砲撃 Bombard, マップ砲撃 Map Bombardment, 支援砲撃 Support Bombardment; 昼間/夕方/夜間 Day/Evening/Night,
+霧 Fog; 剣兵/槍兵/斧兵/杖兵/銃兵 sword/spear/axe/staff/gun unit, 歩行 on foot, 飛行 flying. UI batches use these.
 ## Decisions from earlier batches
 - <batch> <JP> -> <EN> (reason)

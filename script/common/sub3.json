@@ -12,8 +12,8 @@
  {
   "id": "c3:003d5",
   "jp": "どうやらみんな寝てるみたいだな。\n昼になったらまた来るか。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like everyone's asleep. Guess I'll come\nback in the daytime.",
+  "status": "done",
   "slots": [
    "0x66"
   ],
@@ -32,8 +32,8 @@
  {
   "id": "c3:0041c",
   "jp": "みなさんご就寝のようですね。\nそっとしておきますか。",
-  "en": "",
-  "status": "todo",
+  "en": "It seems everyone's turned in. Shall we\nleave them be?",
+  "status": "done",
   "slots": [
    "0x9f"
   ],
@@ -52,8 +52,8 @@
  {
   "id": "c3:0045d",
   "jp": "みんな寝てるね。\nまた今度にしよう？",
-  "en": "",
-  "status": "todo",
+  "en": "Everyone's asleep. Let's come back another\ntime?",
+  "status": "done",
   "slots": [
    "0xd8"
   ],
@@ -72,8 +72,8 @@
  {
   "id": "c3:0048e",
   "jp": "寝てる、か。\n戦闘が行われてるってのに\nのん気なもんね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Asleep, huh. There's a battle going on and\nthey're so carefree...",
+  "status": "done",
   "slots": [
    "0x151"
   ],
@@ -82,8 +82,8 @@
  {
   "id": "c3:004c9",
   "jp": "ま、それはそれでいいのかもね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, maybe that's fine in its own way.",
+  "status": "done",
   "slots": [
    "0x158"
   ],
@@ -102,8 +102,8 @@
  {
   "id": "c3:004f5",
   "jp": "んだよ、寝てんのかよ。",
-  "en": "",
-  "status": "todo",
+  "en": "What, they're asleep?",
+  "status": "done",
   "slots": [
    "0x111"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "c3:0050c",
   "jp": "ま、そのほうが安全かもな。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, maybe it's safer that way.",
+  "status": "done",
   "slots": [
    "0x118"
   ],
@@ -132,8 +132,8 @@
  {
   "id": "c3:00534",
   "jp": "寝ているか。\nまぁ夜は眠るものだしな。\n改めるとするか。",
-  "en": "",
-  "status": "todo",
+  "en": "Asleep, are they. Well, night is for sleeping.\nI shall return another time.",
+  "status": "done",
   "slots": [
    "0x191"
   ],
@@ -152,8 +152,8 @@
  {
   "id": "c3:00578",
   "jp": "寝てるの～？\nふぁ。なんだかロコモコも\n眠くなってきちゃうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Are they asleep? *Yawn*. Locomoco's\ngetting sleepy too.",
+  "status": "done",
   "slots": [
    "0x1ca"
   ],
@@ -172,8 +172,8 @@
  {
   "id": "c3:005c2",
   "jp": "みなさん寝てるんすか？\n惜しいすねぇ、夜が一番楽しい\n時間なんすよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Is everyone asleep, sir? What a shame,\nnight's the most fun time, sir!",
+  "status": "done",
   "slots": [
    "0x203"
   ],
@@ -192,8 +192,8 @@
  {
   "id": "c3:00612",
   "jp": "ガング、ガガンググ。\nガガググン。",
-  "en": "",
-  "status": "todo",
+  "en": "Gangr, gagan-gangr. Gagagugun.",
+  "status": "done",
   "slots": [
    "0x23c"
   ],
@@ -212,8 +212,8 @@
  {
   "id": "c3:00641",
   "jp": "寝ているのか……。\n静かに眠れるのは平和の証だ。\n起こすわけにはいかないな。",
-  "en": "",
-  "status": "todo",
+  "en": "Asleep, are they... Being able to sleep in\npeace is proof of peace. I can't wake them.",
+  "status": "done",
   "slots": [
    "0x275"
   ],
@@ -232,8 +232,8 @@
  {
   "id": "c3:00699",
   "jp": "あら、寝てるの？\nもう、まだまだ夜はこれから\nなのにねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, they're asleep? Honestly, and the\nnight's only just getting started.",
+  "status": "done",
   "slots": [
    "0x2ae"
   ],
@@ -252,8 +252,8 @@
  {
   "id": "c3:006df",
   "jp": "む、寝ているのか。\nし、静かにせねば……静かに……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm, they're asleep. I-I must be quiet...\nquiet...",
+  "status": "done",
   "slots": [
    "0x2e7"
   ],
@@ -272,8 +272,8 @@
  {
   "id": "c3:00720",
   "jp": "寝ているのですね。\nなるべくこの近くで戦闘は\nしないようにしましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "They're asleep. Let's try not to fight near\nhere, if we can.",
+  "status": "done",
   "slots": [
    "0x320"
   ],
@@ -292,8 +292,8 @@
  {
   "id": "c3:00772",
   "jp": "静かな静かな夜の町に♪\nこっそり誰かが忍び込む～♪",
-  "en": "",
-  "status": "todo",
+  "en": "Into the quiet, quiet town at night, someone\nsneaks in on tiptoe~",
+  "status": "done",
   "slots": [
    "0x359"
   ],
@@ -302,8 +302,8 @@
  {
   "id": "c3:007a4",
   "jp": "って、そりゃ海賊じゃなくて\n泥棒だっつって！\nまた昼にでもくるだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "Wait, that's not a pirate, that's a thief! I'll\ncome back in the daytime, dontcha know.",
+  "status": "done",
   "slots": [
    "0x360"
   ],
@@ -322,8 +322,8 @@
  {
   "id": "c3:007f6",
   "jp": "んだよ、みんな寝てんのかよ。\n夜はまだ始まったばかりだぜ？\nつまんねぇなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "What, everyone's asleep? The night's only\njust started! How boring.",
+  "status": "done",
   "slots": [
    "0x3b8"
   ],

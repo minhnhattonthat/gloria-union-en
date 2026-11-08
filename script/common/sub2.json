@@ -2,8 +2,8 @@
  {
   "id": "c2:06800",
   "jp": "お、こりゃあ敵が落とした奴か？\nなら、遠慮なくいただくぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, did the enemy drop this? Then I'll help\nmyself!",
+  "status": "done",
   "slots": [
    "0x74"
   ],
@@ -12,8 +12,8 @@
  {
   "id": "c2:0683a",
   "jp": "敵の落し物なら、問答無用で\nいただきますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "If the enemy dropped it, I'm taking it, no\nquestions asked.",
+  "status": "done",
   "slots": [
    "0x6f0"
   ],
@@ -22,8 +22,8 @@
  {
   "id": "c2:06866",
   "jp": "これもらっていいの？\nやったね！",
-  "en": "",
-  "status": "todo",
+  "en": "Can I have this? Yay!",
+  "status": "done",
   "slots": [
    "0xd6c"
   ],
@@ -32,8 +32,8 @@
  {
   "id": "c2:06886",
   "jp": "敵が落としたんならこれは\n戦利品だ。もらっていくぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "If the enemy dropped it, it's spoils of war.\nI'm takin' it.",
+  "status": "done",
   "slots": [
    "0x13e8"
   ],
@@ -42,8 +42,8 @@
  {
   "id": "c2:068ba",
   "jp": "持ち物落としていくなんて、\nバカねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Leaving your stuff behind... What an idiot.",
+  "status": "done",
   "slots": [
    "0x1a64"
   ],
@@ -52,8 +52,8 @@
  {
   "id": "c2:068e0",
   "jp": "捨てられていた物を拾ったのだ。\nマナー違反ではない。",
-  "en": "",
-  "status": "todo",
+  "en": "I merely picked up something that was\ndiscarded. That is no breach of manners.",
+  "status": "done",
   "slots": [
    "0x20e0"
   ],
@@ -62,8 +62,8 @@
  {
   "id": "c2:06914",
   "jp": "せんりひんげーっと！",
-  "en": "",
-  "status": "todo",
+  "en": "Spoils of war, gotcha!",
+  "status": "done",
   "slots": [
    "0x275c"
   ],
@@ -72,8 +72,8 @@
  {
   "id": "c2:06929",
   "jp": "あらら、落し物っすよ？\n名乗りでないなら、私がもらうっす",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, somebody dropped this, sir? If\nnobody claims it, I'll take it, sir.",
+  "status": "done",
   "slots": [
    "0x2dd8"
   ],
@@ -82,8 +82,8 @@
  {
   "id": "c2:06961",
   "jp": "ガンググン、ガング！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangrgun, Gangr!",
+  "status": "done",
   "slots": [
    "0x3454"
   ],
@@ -92,8 +92,8 @@
  {
   "id": "c2:06976",
   "jp": "この戦利品。\nありがたく使わせてもらう！",
-  "en": "",
-  "status": "todo",
+  "en": "These spoils of war. I'll put them to good\nuse!",
+  "status": "done",
   "slots": [
    "0x3ad0"
   ],
@@ -102,8 +102,8 @@
  {
   "id": "c2:0699e",
   "jp": "戦ったアタシへのご褒美よん。",
-  "en": "",
-  "status": "todo",
+  "en": "A little reward for me, for fighting.",
+  "status": "done",
   "slots": [
    "0x414c"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "c2:069bb",
   "jp": "戦利品、我が手にぃぃぃ！！",
-  "en": "",
-  "status": "todo",
+  "en": "The spoils of war are miiine!!",
+  "status": "done",
   "slots": [
    "0x47c8"
   ],
@@ -122,8 +122,8 @@
  {
   "id": "c2:069d6",
   "jp": "この戦利品を売って\n弾代にしませんか？",
-  "en": "",
-  "status": "todo",
+  "en": "Why don't we sell these spoils and use it for\nbullet money?",
+  "status": "done",
   "slots": [
    "0x4e44"
   ],
@@ -132,8 +132,8 @@
  {
   "id": "c2:069fc",
   "jp": "私が手に入れたんだから、\nこれは全部私の物だわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "I got it, so all of it's mine, dontcha know.",
+  "status": "done",
   "slots": [
    "0x54c0"
   ],
@@ -142,8 +142,8 @@
  {
   "id": "c2:06a2e",
   "jp": "リサイタル代として\n受け取っておきますわ！",
-  "en": "",
-  "status": "todo",
+  "en": "I shall accept this as my recital fee!",
+  "status": "done",
   "slots": [
    "0x5b3c"
   ],
@@ -152,8 +152,8 @@
  {
   "id": "c2:06a58",
   "jp": "戦利品！\n俺のだ俺のだぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Spoils of war! Mine, it's miiine!!",
+  "status": "done",
   "slots": [
    "0x61b8"
   ],

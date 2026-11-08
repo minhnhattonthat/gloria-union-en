@@ -666,8 +666,8 @@
  {
   "id": "c0:02355",
   "jp": "お互いにボロボロですね……。\nまぁ、負けた時の予防線にそう\nしたのですけど……。",
-  "en": "",
-  "status": "todo",
+  "en": "We're both in tatters, aren't we... Well, I did\nthat as insurance in case I lost...",
+  "status": "done",
   "slots": [
    "0xfe9"
   ],
@@ -676,8 +676,8 @@
  {
   "id": "c0:023a4",
   "jp": "もう何もする気が起きないでしょ？\nだからお互い、今日は帰りましょ。",
-  "en": "",
-  "status": "todo",
+  "en": "You don't feel like doing anything anymore,\ndo you? So let's both go home for today.",
+  "status": "done",
   "slots": [
    "0xff0"
   ],
@@ -686,8 +686,8 @@
  {
   "id": "c0:023e6",
   "jp": "エリーシャさんには申し訳ない事を\nしましたね。\nなんと言ったらいいか……。",
-  "en": "",
-  "status": "todo",
+  "en": "I've done Elisha-san a disservice. I don't\nknow what to say to her...",
+  "status": "done",
   "slots": [
    "0xff7"
   ],
@@ -696,8 +696,8 @@
  {
   "id": "c0:0242f",
   "jp": "別に遊んでもいいけど、私ってば\n海賊の女なのよねぇ。\nグロリア海賊団って知ってる？",
-  "en": "",
-  "status": "todo",
+  "en": "I don't mind playing with you, but I'm a\npirate's woman, you see. Ever heard of the\nGloria Pirates?",
+  "status": "done",
   "slots": [
    "0x10cb"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "c0:02480",
   "jp": "海賊の女に手を出して無事で済む？\nどう？　まだ遊ぶ気ある？\nあ、もういない。逃げただわさ……",
-  "en": "",
-  "status": "todo",
+  "en": "Think you'll get away unharmed after\nhitting on a pirate's woman? Well? Still feel\nlike playing? Oh, he's gone. He ran off,\ndontcha know...",
+  "status": "done",
   "slots": [
    "0x10d2"
   ],
@@ -716,8 +716,8 @@
  {
   "id": "c0:024db",
   "jp": "ナンパ勝負はコッチの負けねぇ。\nあんな女に負けるとは～……！\nこれは、修行が必要だわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "We lost the flirting contest, huh. To think I\nlost to a woman like that...! I need more\ntraining, dontcha know!",
+  "status": "done",
   "slots": [
    "0x10d9"
   ],
@@ -726,8 +726,8 @@
  {
   "id": "c0:02532",
   "jp": "アナタのように逞しい男の方は\n私の好みですが。\n体が目当てなら気をつけて？",
-  "en": "",
-  "status": "todo",
+  "en": "A strong man like you is just my type. But if\nit's my body you're after, do be careful.",
+  "status": "done",
   "slots": [
    "0x11ad"
   ],
@@ -736,8 +736,8 @@
  {
   "id": "c0:0257b",
   "jp": "夜の私は、ちょっとばかし\nバイオレンスですわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "The night-time me is a little bit violent, you\nknow?",
+  "status": "done",
   "slots": [
    "0x11b4"
   ],
@@ -746,8 +746,8 @@
  {
   "id": "c0:025ab",
   "jp": "はぁ、しかし、女の勝負は\n完敗ですわね。\n私も修行が足りませんわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sigh, but I've been utterly beaten in this\ncontest between women. My training is\nlacking too.",
+  "status": "done",
   "slots": [
    "0x11bb"
   ],
@@ -756,8 +756,8 @@
  {
   "id": "c0:025ec",
   "jp": "フハハハハハ！\nさぁ、挙式の準備だ！\n盛大に門出を祝おうぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Fuhahahahaha! Now, prepare the wedding!\nLet us celebrate the new beginning in grand\nstyle!",
+  "status": "done",
   "slots": [
    "0xe35"
   ],
@@ -766,8 +766,8 @@
  {
   "id": "c0:02627",
   "jp": "……まぁ、これだけ強いなら\nお宝も手に入れやすいかも\nしれないわね……。",
-  "en": "",
-  "status": "todo",
+  "en": "...Well, with someone this strong, getting\ntreasure might be easier...",
+  "status": "done",
   "slots": [
    "0xe5e"
   ],
@@ -776,8 +776,8 @@
  {
   "id": "c0:0266e",
   "jp": "いざとなったら逃げればいいし。\n骨の体じゃ変な事も\nできないわよね……？",
-  "en": "",
-  "status": "todo",
+  "en": "If push comes to shove, I can just run. And\nwith a body of bones, he can't try anything\nfunny... right?",
+  "status": "done",
   "slots": [
    "0xe65"
   ],
@@ -786,8 +786,8 @@
  {
   "id": "c0:026b5",
   "jp": "ウフフ。\nそれじゃあ、よろしく頼むわよ。\nあ・な・た。",
-  "en": "",
-  "status": "todo",
+  "en": "Hehehe. Well then, I'm counting on you.\nDar-ling.",
+  "status": "done",
   "slots": [
    "0xe77"
   ],

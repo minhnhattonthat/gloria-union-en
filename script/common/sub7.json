@@ -2,8 +2,8 @@
  {
   "id": "c7:01c70",
   "jp": "……で？\n俺は何をすればいいんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "...So? What am I supposed to do?",
+  "status": "done",
   "slots": [
    "0x5a"
   ],
@@ -12,8 +12,8 @@
  {
   "id": "c7:01c92",
   "jp": "えぇっと、それじゃあ最初に\n『カード』を選びましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Um, well, first, let's choose a 'Card'.",
+  "status": "done",
   "slots": [
    "0x6c"
   ],
@@ -22,8 +22,8 @@
  {
   "id": "c7:01cc8",
   "jp": "『カード』？",
-  "en": "",
-  "status": "todo",
+  "en": "A 'Card'?",
+  "status": "done",
   "slots": [
    "0x7e"
   ],
@@ -32,8 +32,8 @@
  {
   "id": "c7:01cd5",
   "jp": "戦術のカギになる\n『タクティクスカード』\nのことです。",
-  "en": "",
-  "status": "todo",
+  "en": "I mean a 'Tactics Card', the key to tactics.",
+  "status": "done",
   "slots": [
    "0x96"
   ],
@@ -42,8 +42,8 @@
  {
   "id": "c7:01d0a",
   "jp": "ボク達が移動するためには、\n『タクティクスカード』を使わな\nければならないんです。",
-  "en": "",
-  "status": "todo",
+  "en": "For us to move, we have to use a 'Tactics\nCard'.",
+  "status": "done",
   "slots": [
    "0xa2"
   ],
@@ -52,8 +52,8 @@
  {
   "id": "c7:01d5b",
   "jp": "カードに『Ｍｏｖ』って書いて\nありますよね？",
-  "en": "",
-  "status": "todo",
+  "en": "See where it says 'Mov' on the card?",
+  "status": "done",
   "slots": [
    "0xa9"
   ],
@@ -62,8 +62,8 @@
  {
   "id": "c7:01d87",
   "jp": "ターンの最初に選んだカードに\n書かれてある、この『Ｍｏｖ』の\n値だけ、ボク達は移動できます。",
-  "en": "",
-  "status": "todo",
+  "en": "We can move only as far as the 'Mov' value\nwritten on the card chosen at the start of\nthe turn.",
+  "status": "done",
   "slots": [
    "0xb0"
   ],
@@ -72,8 +72,8 @@
  {
   "id": "c7:01de2",
   "jp": "この『Ｍｏｖ』の値は一人だけ\nじゃなく、みんなのものでも\nあるんです。",
-  "en": "",
-  "status": "todo",
+  "en": "That 'Mov' value doesn't belong to just one\nperson; it's shared by everyone.",
+  "status": "done",
   "slots": [
    "0xb7"
   ],
@@ -82,8 +82,8 @@
  {
   "id": "c7:01e27",
   "jp": "一人が使い切ったら、\n他の部隊が移動できなくなって\nしまいますよ？",
-  "en": "",
-  "status": "todo",
+  "en": "If one person uses it all up, the other units\nwon't be able to move.",
+  "status": "done",
   "slots": [
    "0xbe"
   ],
@@ -92,8 +92,8 @@
  {
   "id": "c7:01e68",
   "jp": "なぁ、ピンガー。\nこの『Ｐｏｗ』っていうのは\nなんなんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, Pinger. What's this 'Pow' thing?",
+  "status": "done",
   "slots": [
    "0xd0"
   ],
@@ -102,8 +102,8 @@
  {
   "id": "c7:01ea1",
   "jp": "あぁ、それはパワー、\n攻撃力のことですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, that's power: attack strength.",
+  "status": "done",
   "slots": [
    "0xe2"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "c7:01ecb",
   "jp": "この値が高いほど、\n敵に与える士気ダメージも\n高くなるってわけです。",
-  "en": "",
-  "status": "todo",
+  "en": "The higher the value, the more morale\ndamage we deal to the enemy.",
+  "status": "done",
   "slots": [
    "0xe9"
   ],
@@ -122,8 +122,8 @@
  {
   "id": "c7:01f0e",
   "jp": "じゃあ、この『エースタイプ』と\n『スキル』ってのは？",
-  "en": "",
-  "status": "todo",
+  "en": "Then what about this 'Ace Type' and 'Skill'?",
+  "status": "done",
   "slots": [
    "0xfb"
   ],
@@ -132,8 +132,8 @@
  {
   "id": "c7:01f42",
   "jp": "この２つは、バトルで使える\n『必殺技』に関わるものです。",
-  "en": "",
-  "status": "todo",
+  "en": "These two are tied to 'special moves' you\ncan use in battle.",
+  "status": "done",
   "slots": [
    "0x10d"
   ],
@@ -142,8 +142,8 @@
  {
   "id": "c7:01f7a",
   "jp": "ボクと兄貴はまだ新米海賊なんで\n使えませんけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "But the Boss and I are still rookie pirates, so\nwe can't use them yet.",
+  "status": "done",
   "slots": [
    "0x114"
   ],
@@ -152,8 +152,8 @@
  {
   "id": "c7:01fac",
   "jp": "そんじゃあ、\n今は『Ｍｏｖ』と『Ｐｏｗ』だけ\n気にして選べばいいんだな！",
-  "en": "",
-  "status": "todo",
+  "en": "So for now, I just gotta pay attention to\n'Mov' and 'Pow' when I pick!",
+  "status": "done",
   "slots": [
    "0x126"
   ],
@@ -162,8 +162,8 @@
  {
   "id": "c7:01ff3",
   "jp": "そういうコトです。",
-  "en": "",
-  "status": "todo",
+  "en": "That's the idea.",
+  "status": "done",
   "slots": [
    "0x138"
   ],
@@ -172,8 +172,8 @@
  {
   "id": "c7:02006",
   "jp": "次に、部隊の移動方法……\nユニットの動かし方を\n説明しないといけませんね。",
-  "en": "",
-  "status": "todo",
+  "en": "Next, I need to explain how to move\nsquads... how to move units.",
+  "status": "done",
   "slots": [
    "0x1c1"
   ],
@@ -182,8 +182,8 @@
  {
   "id": "c7:0204f",
   "jp": "まずは、方向キーを使って、\n動かしたいユニットにカーソルを\n合わせてください。",
-  "en": "",
-  "status": "todo",
+  "en": "First, use the directional buttons to put the\ncursor on the unit you want to move.",
+  "status": "done",
   "slots": [
    "0x1ce"
   ],
@@ -192,8 +192,8 @@
  {
   "id": "c7:0209c",
   "jp": "ユニットの上で○ボタンを押すと、\n移動できる範囲が、マップ上に\n表示されます。",
-  "en": "",
-  "status": "todo",
+  "en": "Press the Circle button on a unit, and its\nmovement range will be shown on the map.",
+  "status": "done",
   "slots": [
    "0x1d5"
   ],
@@ -202,8 +202,8 @@
  {
   "id": "c7:020e9",
   "jp": "この状態で方向キーを押せば、\n選んだユニットはその方向に\n移動することができます。",
-  "en": "",
-  "status": "todo",
+  "en": "Then press a directional button, and the\nchosen unit will move in that direction.",
+  "status": "done",
   "slots": [
    "0x1e1"
   ],
@@ -212,8 +212,8 @@
  {
   "id": "c7:0213a",
   "jp": "目標地点までユニットを動かしたら\n○ボタンで移動を完了します。",
-  "en": "",
-  "status": "todo",
+  "en": "Once you've moved the unit to where you\nwant it, press Circle to finish moving.",
+  "status": "done",
   "slots": [
    "0x1e8"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "c7:02178",
   "jp": "ちなみに、もし移動する方向を\n間違えた場合ですが。",
-  "en": "",
-  "status": "todo",
+  "en": "By the way, if you move in the wrong\ndirection...",
+  "status": "done",
   "slots": [
    "0x1ef"
   ],
@@ -232,8 +232,8 @@
  {
   "id": "c7:021aa",
   "jp": "移動完了する前なら、\n×ボタンでキャンセルできますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "You can cancel with the Cross button, as\nlong as you haven't finished moving.",
+  "status": "done",
   "slots": [
    "0x1f6"
   ],
@@ -242,8 +242,8 @@
  {
   "id": "c7:021e0",
   "jp": "移動力が０になったら\nどうなるんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "What happens if movement hits 0?",
+  "status": "done",
   "slots": [
    "0x208"
   ],
@@ -252,8 +252,8 @@
  {
   "id": "c7:02204",
   "jp": "そのターンは、\nもう移動できなくなります。",
-  "en": "",
-  "status": "todo",
+  "en": "Then you can't move any more that turn.",
+  "status": "done",
   "slots": [
    "0x21a"
   ],
@@ -262,8 +262,8 @@
  {
   "id": "c7:0222e",
   "jp": "敵の真ん中で、\n身動きが取れなくなるのだけは\nやめてくださいよ？　兄貴。",
-  "en": "",
-  "status": "todo",
+  "en": "Please don't get stuck unable to move in the\nmiddle of the enemy, okay? Boss.",
+  "status": "done",
   "slots": [
    "0x22c"
   ],
@@ -272,8 +272,8 @@
  {
   "id": "c7:02275",
   "jp": "あぁ、注意しておくよ。\nま、これで移動方法は完璧だな。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, I'll be careful. Well, now I've got movin'\ndown perfect.",
+  "status": "done",
   "slots": [
    "0x23e"
   ],
@@ -282,8 +282,8 @@
  {
   "id": "c7:022ab",
   "jp": "敵と隣接した！\nこれでようやく戦えるぜ！！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm next to an enemy! Now I can finally fight!!",
+  "status": "done",
   "slots": [
    "0x2d8"
   ],
@@ -292,8 +292,8 @@
  {
   "id": "c7:022d5",
   "jp": "攻撃を仕掛ける場合、\nまず切り込み役の攻撃ユニットを\n指定します。",
-  "en": "",
-  "status": "todo",
+  "en": "When you launch an attack, first you choose\nthe attacking unit that leads the charge.",
+  "status": "done",
   "slots": [
    "0x2ea"
   ],
@@ -302,8 +302,8 @@
  {
   "id": "c7:02316",
   "jp": "敵と隣接してないユニットは\n指定できませんから、\n注意してくださいね。",
-  "en": "",
-  "status": "todo",
+  "en": "Watch out, you can't choose a unit that isn't\nnext to an enemy.",
+  "status": "done",
   "slots": [
    "0x2f1"
   ],
@@ -312,8 +312,8 @@
  {
   "id": "c7:0235b",
   "jp": "攻撃ユニットが決まったら、\nカーソルを合わせて\n□ボタンを押してみてください。",
-  "en": "",
-  "status": "todo",
+  "en": "Once you've decided on the attacking unit,\nput the cursor on it and press the Square\nbutton.",
+  "status": "done",
   "slots": [
    "0x2f8"
   ],
@@ -322,8 +322,8 @@
  {
   "id": "c7:023a8",
   "jp": "すると、アタックモードに\n切り替わります。",
-  "en": "",
-  "status": "todo",
+  "en": "That switches you to Attack Mode.",
+  "status": "done",
   "slots": [
    "0x305"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "c7:023d2",
   "jp": "そして、バトルに参加する\n敵味方のユニットのリスト…\nデュエルオーダー画面が出ます。",
-  "en": "",
-  "status": "todo",
+  "en": "Then the list of allied and enemy units\ntaking part in the battle comes up... the\nDuel Order screen.",
+  "status": "done",
   "slots": [
    "0x30c"
   ],
@@ -342,8 +342,8 @@
  {
   "id": "c7:02425",
   "jp": "ユニット名の横にあるマーク、\n◎とか×とか…、あれはなんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "What're those marks next to the unit names,\nlike ◎ and ×...?",
+  "status": "done",
   "slots": [
    "0x31e"
   ],
@@ -352,8 +352,8 @@
  {
   "id": "c7:02461",
   "jp": "それは、戦況予想というものです。",
-  "en": "",
-  "status": "todo",
+  "en": "That's the battle forecast.",
+  "status": "done",
   "slots": [
    "0x330"
   ],
@@ -362,8 +362,8 @@
  {
   "id": "c7:02482",
   "jp": "ユニットの能力や武器相性から\n対戦の優劣がどうなるのか\n分析した評価値ってことです。",
-  "en": "",
-  "status": "todo",
+  "en": "It's a rating that analyses who has the edge\nin each fight, from the units' abilities and\nweapon matchups.",
+  "status": "done",
   "slots": [
    "0x33c"
   ],
@@ -372,8 +372,8 @@
  {
   "id": "c7:024d5",
   "jp": "つまり、俺達の戦況予想が\n『◎』なら勝ちやすく、\n『×』なら負けやすいわけか…",
-  "en": "",
-  "status": "todo",
+  "en": "So if our battle forecast is '◎' we'll likely\nwin, and if it's '×' we'll likely lose...",
+  "status": "done",
   "slots": [
    "0x34e"
   ],
@@ -382,8 +382,8 @@
  {
   "id": "c7:02522",
   "jp": "デュエルオーダー画面で\nこちらの有利を確認したら、\n○ボタンを押してみてください。",
-  "en": "",
-  "status": "todo",
+  "en": "Once you've confirmed you have the edge on\nthe Duel Order screen, press the Circle\nbutton.",
+  "status": "done",
   "slots": [
    "0x365"
   ],
@@ -392,8 +392,8 @@
  {
   "id": "c7:02573",
   "jp": "最終確認画面が出たら、\nさらに○ボタンで戦闘開始。\nわかりましたか？",
-  "en": "",
-  "status": "todo",
+  "en": "When the final confirmation screen appears,\npress Circle again to start the battle. Got\nit?",
+  "status": "done",
   "slots": [
    "0x36c"
   ],
@@ -402,8 +402,8 @@
  {
   "id": "c7:025b6",
   "jp": "ああ、腕が鳴るぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, I'm itchin' to go!",
+  "status": "done",
   "slots": [
    "0x37e"
   ],
@@ -412,8 +412,8 @@
  {
   "id": "c7:025c9",
   "jp": "よしっ！\nこの勢いでドンドン行くぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "All right! Let's keep this momentum goin'!",
+  "status": "done",
   "slots": [
    "0x418"
   ],
@@ -422,8 +422,8 @@
  {
   "id": "c7:025ed",
   "jp": "待ってください兄貴。\n攻撃は１ターンに１回しか\n仕掛けられないんですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Wait, Boss. You can only launch one attack\nper turn.",
+  "status": "done",
   "slots": [
    "0x42a"
   ],
@@ -432,8 +432,8 @@
  {
   "id": "c7:02634",
   "jp": "次のターンが回ってくるまで\n攻撃はおあずけです。",
-  "en": "",
-  "status": "todo",
+  "en": "No more attacks until the next turn comes\naround.",
+  "status": "done",
   "slots": [
    "0x431"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "c7:02664",
   "jp": "じゃあ、このターンは\nもう何もやる事はないな。\nさあ次のターンに進もうぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Then there's nothin' left to do this turn.\nLet's move on to the next one!",
+  "status": "done",
   "slots": [
    "0x443"
   ],
@@ -452,8 +452,8 @@
  {
   "id": "c7:026ad",
   "jp": "そうしてもかまいませんが、\n移動力さえ残っていれば、\n戦闘の後でも移動ができますよ？",
-  "en": "",
-  "status": "todo",
+  "en": "You can do that, but as long as there's\nmovement left, you can still move after a\nbattle, you know.",
+  "status": "done",
   "slots": [
    "0x45b"
   ],
@@ -462,8 +462,8 @@
  {
   "id": "c7:02700",
   "jp": "まぁ、攻撃を仕掛けた\nユニットだけは\n移動できませんけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, except for the unit that launched the\nattack. That one can't move.",
+  "status": "done",
   "slots": [
    "0x462"
   ],
@@ -472,8 +472,8 @@
  {
   "id": "c7:0273b",
   "jp": "切り込み役には、\n動く余力が残ってないわけか……\n無理もないな。",
-  "en": "",
-  "status": "todo",
+  "en": "So the one leadin' the charge has no\nstrength left to move... Can't blame 'em.",
+  "status": "done",
   "slots": [
    "0x474"
   ],
@@ -482,8 +482,8 @@
  {
   "id": "c7:0277a",
   "jp": "ボクは動けますけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "I can move, though.",
+  "status": "done",
   "slots": [
    "0x486"
   ],
@@ -492,8 +492,8 @@
  {
   "id": "c7:02791",
   "jp": "なにぃ！？　なんでお前だけ！",
-  "en": "",
-  "status": "todo",
+  "en": "What!? How come only you!?",
+  "status": "done",
   "slots": [
    "0x498"
   ],
@@ -502,8 +502,8 @@
  {
   "id": "c7:027ae",
   "jp": "さて、やる事がなくなったら、\nターンを終了させてください。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, once there's nothing left to do, please\nend your turn.",
+  "status": "done",
   "slots": [
    "0x4b8"
   ],
@@ -512,8 +512,8 @@
  {
   "id": "c7:027e8",
   "jp": "Ｌボタンでメニューを開いて\n『ターン終了』を選ぶんですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Open the menu with the L button and choose\n'End Turn'.",
+  "status": "done",
   "slots": [
    "0x4c4"
   ],
@@ -522,8 +522,8 @@
  {
   "id": "c7:02822",
   "jp": "さらっと流されたな……。\n確認が出たら○ボタンで終了だな。\nさあ、次のターンにいくぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "She just brushed right past that... When the\nconfirmation comes up, press Circle to end\nit. Now, on to the next turn!",
+  "status": "done",
   "slots": [
    "0x4d6"
   ],
@@ -532,8 +532,8 @@
  {
   "id": "c7:02877",
   "jp": "……ところでイシュト。\nアンタ、ユニオンってなんだか、\n知ってる？",
-  "en": "",
-  "status": "todo",
+  "en": "...By the way, Ishut. Do you know what a\nUnion is?",
+  "status": "done",
   "slots": [
    "0x661"
   ],
@@ -542,8 +542,8 @@
  {
   "id": "c7:028b8",
   "jp": "当たり前だ！\n玉ねぎのことだろ？",
-  "en": "",
-  "status": "todo",
+  "en": "Course I do! It's like an onion, right?",
+  "status": "done",
   "slots": [
    "0x673"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "c7:028d8",
   "jp": "“オニオン”じゃない！\nユニオンっていうのは、\n陣形を用いた戦術の事よ！",
-  "en": "",
-  "status": "todo",
+  "en": "Not \"Onion\"! A Union is a tactic that uses\nformations!",
+  "status": "done",
   "slots": [
    "0x685"
   ],
@@ -562,8 +562,8 @@
  {
   "id": "c7:0291f",
   "jp": "ユニオンを組めば、\n複数のユニットが連係して\n敵に挑む事ができるのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "If you form a Union, several units can work\ntogether to take on the enemy!",
+  "status": "done",
   "slots": [
    "0x68c"
   ],
@@ -572,8 +572,8 @@
  {
   "id": "c7:02964",
   "jp": "じゃあ…、俺達全員で、\n敵を叩けるって事なのか？",
-  "en": "",
-  "status": "todo",
+  "en": "So... all of us can hit the enemy together?",
+  "status": "done",
   "slots": [
    "0x69e"
   ],
@@ -582,8 +582,8 @@
  {
   "id": "c7:02994",
   "jp": "そう簡単じゃないわ。連係攻撃は、\nユニオンリーダーからみて特定の\n位置にいる仲間としかできないの。",
-  "en": "",
-  "status": "todo",
+  "en": "It's not that simple. A combo attack only\nworks with allies in certain positions\nrelative to the Union Leader.",
+  "status": "done",
   "slots": [
    "0x6b0"
   ],
@@ -592,8 +592,8 @@
  {
   "id": "c7:029f5",
   "jp": "ユニオンリーダー……\n切り込み役ユニットの事だな？",
-  "en": "",
-  "status": "todo",
+  "en": "Union Leader... that's the unit leading the\ncharge, right?",
+  "status": "done",
   "slots": [
    "0x6c2"
   ],
@@ -602,8 +602,8 @@
  {
   "id": "c7:02a27",
   "jp": "連係攻撃ができる範囲と位置、\nフォーメーションタイプは\n全部で２種類あるのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "The range and positions for combo attacks,\nthe formation types, come in two kinds in\nall.",
+  "status": "done",
   "slots": [
    "0x6d4"
   ],
@@ -612,8 +612,8 @@
  {
   "id": "c7:02a74",
   "jp": "ひとつは『×タイプ』\nユニオンリーダーが男性の場合の\nフォーメーションよ。",
-  "en": "",
-  "status": "todo",
+  "en": "One is the 'X Type', the formation when the\nUnion Leader is male.",
+  "status": "done",
   "slots": [
    "0x6e1"
   ],
@@ -622,8 +622,8 @@
  {
   "id": "c7:02abd",
   "jp": "俺がリーダーの場合\n『×タイプ』ってわけだな。",
-  "en": "",
-  "status": "todo",
+  "en": "So when I'm the leader, it's the 'X Type'.",
+  "status": "done",
   "slots": [
    "0x6f3"
   ],
@@ -632,8 +632,8 @@
  {
   "id": "c7:02aeb",
   "jp": "そういう事になるわね。\nリーダーの斜め方向にいる\nユニットと連係して戦えるのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's right. You can team up with units\ndiagonal to the leader.",
+  "status": "done",
   "slots": [
    "0x705"
   ],
@@ -642,8 +642,8 @@
  {
   "id": "c7:02b3a",
   "jp": "もうひとつは『＋タイプ』\nリーダーが女性の場合の\n連係フォーメーションよ。",
-  "en": "",
-  "status": "todo",
+  "en": "The other is the '+ Type', the combo\nformation when the leader is female.",
+  "status": "done",
   "slots": [
    "0x711"
   ],
@@ -652,8 +652,8 @@
  {
   "id": "c7:02b83",
   "jp": "ボクの場合は『＋タイプ』ですね。\nということは、縦横方向にいる\nユニットと連係するんですか？",
-  "en": "",
-  "status": "todo",
+  "en": "For me, it'd be the '+ Type', then. So that\nmeans I team up with units above, below and\nto the sides?",
+  "status": "done",
   "slots": [
    "0x723"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "c7:02bde",
   "jp": "えぇ、その通りよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, exactly.",
+  "status": "done",
   "slots": [
    "0x735"
   ],
@@ -672,8 +672,8 @@
  {
   "id": "c7:02bf1",
   "jp": "デュエルオーダーを見れば、\nどのユニットが参加できるのかが\n一目で確認できるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "If you look at the Duel Order, you can see at\na glance which units can take part.",
+  "status": "done",
   "slots": [
    "0x73c"
   ],
@@ -682,8 +682,8 @@
  {
   "id": "c7:02c40",
   "jp": "色々と考えなきゃならないな……。\n俺一人で突っ切った方が\n手っ取り早いんじゃないか？",
-  "en": "",
-  "status": "todo",
+  "en": "There's a lot to think about... Wouldn't it be\nquicker if I just charged through on my own?",
+  "status": "done",
   "slots": [
    "0x74e"
   ],
@@ -692,8 +692,8 @@
  {
   "id": "c7:02c93",
   "jp": "そんなことしたら\n『連戦ハンデ』でたちまち\n追い詰められるわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Do that and the 'Back-to-Back Handicap' will\nhave you cornered in no time.",
+  "status": "done",
   "slots": [
    "0x760"
   ],
@@ -702,8 +702,8 @@
  {
   "id": "c7:02cd2",
   "jp": "『連戦ハンデ』？",
-  "en": "",
-  "status": "todo",
+  "en": "'Back-to-Back Handicap'?",
+  "status": "done",
   "slots": [
    "0x772"
   ],
@@ -712,8 +712,8 @@
  {
   "id": "c7:02ce3",
   "jp": "いい？　戦闘に参加する\nユニット数はフォーメーションで\n変化するんだけど…",
-  "en": "",
-  "status": "todo",
+  "en": "Listen. The number of units that take part in\na battle changes with the formation, but...",
+  "status": "done",
   "slots": [
    "0x789"
   ],
@@ -722,8 +722,8 @@
  {
   "id": "c7:02d2c",
   "jp": "ユニット数が少ない側は、\n連戦する事で不足ユニット分を\n補うの。",
-  "en": "",
-  "status": "todo",
+  "en": "The side with fewer units makes up the\nshortfall by fighting back-to-back battles.",
+  "status": "done",
   "slots": [
    "0x790"
   ],
@@ -732,8 +732,8 @@
  {
   "id": "c7:02d6b",
   "jp": "連戦したユニットは２戦目以降、\n初期メンバーが減った状態で\n戦闘しなくちゃいけないのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "From the second battle on, a unit fighting\nback-to-back has to fight with fewer of its\nstarting members.",
+  "status": "done",
   "slots": [
    "0x797"
   ],
@@ -742,8 +742,8 @@
  {
   "id": "c7:02dc2",
   "jp": "だけど逆に、少数相手にデュエルを\n挑めば、『連戦ハンデ』を\n押し付けることもできるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "But the other way round, if you challenge a\nsmaller group to a duel, you can force the\n'Back-to-Back Handicap' on them.",
+  "status": "done",
   "slots": [
    "0x79e"
   ],
@@ -752,8 +752,8 @@
  {
   "id": "c7:02e17",
   "jp": "敵味方の位置関係に\n気を配りながら戦う事が、\n重要になってくるわけよ。",
-  "en": "",
-  "status": "todo",
+  "en": "So it's important to fight while keeping an\neye on where allies and enemies are\nstanding.",
+  "status": "done",
   "slots": [
    "0x7a5"
   ],
@@ -762,8 +762,8 @@
  {
   "id": "c7:02e5c",
   "jp": "なるほどな。\nよし、ユニオンで攻撃を有利に\n進めてやるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "I see. All right, I'll use Unions to get the\nupper hand in attacks!",
+  "status": "done",
   "slots": [
    "0x7b7"
   ],
@@ -772,8 +772,8 @@
  {
   "id": "c7:02e95",
   "jp": "よし、連中を早く倒して、\n海王神殿へ向かうぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "All right, let's beat these guys fast and\nhead for the Sea King's Temple!",
+  "status": "done",
   "slots": [
    "0x553"
   ],
@@ -782,8 +782,8 @@
  {
   "id": "c7:02ec3",
   "jp": "それもそうですが、他の所に\n目を向けてもいいんじゃない\nですか？",
-  "en": "",
-  "status": "todo",
+  "en": "That's true, but why not take a look at\nother places too?",
+  "status": "done",
   "slots": [
    "0x565"
   ],
@@ -792,8 +792,8 @@
  {
   "id": "c7:02f02",
   "jp": "島の人達の話を聞けば、なにか\nいいことがあるかもしれませんよ？",
-  "en": "",
-  "status": "todo",
+  "en": "If you listen to the islanders, something\ngood might come of it, you know?",
+  "status": "done",
   "slots": [
    "0x56c"
   ],
@@ -802,8 +802,8 @@
  {
   "id": "c7:02f40",
   "jp": "戦いに余裕があれば、\n島の人達の話も\n聞いてあげてみては？",
-  "en": "",
-  "status": "todo",
+  "en": "If you can spare the time in battle, why not\nhear what the islanders have to say?",
+  "status": "done",
   "slots": [
    "0x573"
   ],
@@ -812,8 +812,8 @@
  {
   "id": "c7:02f79",
   "jp": "そうは言ってもなぁ。\nどうやったら会話ができるんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Easy for you to say. How do I talk to 'em?",
+  "status": "done",
   "slots": [
    "0x585"
   ],
@@ -822,8 +822,8 @@
  {
   "id": "c7:02fad",
   "jp": "マップ上にあるアイコンが\n建物や街の位置を示しています。",
-  "en": "",
-  "status": "todo",
+  "en": "The icons on the map show where buildings\nand towns are.",
+  "status": "done",
   "slots": [
    "0x59d"
   ],
@@ -832,8 +832,8 @@
  {
   "id": "c7:02fe5",
   "jp": "アイコン上で立ち止まれば、\nその建物や街にいる人達と会話が\nできるんですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "If you stop on an icon, you can talk with the\npeople in that building or town.",
+  "status": "done",
   "slots": [
    "0x5a4"
   ],
@@ -842,8 +842,8 @@
  {
   "id": "c7:03030",
   "jp": "会話の内容は、訪ねる人や時間帯\nによって若干変わります。",
-  "en": "",
-  "status": "todo",
+  "en": "What they say changes a little depending on\nwho you visit and the time of day.",
+  "status": "done",
   "slots": [
    "0x5ab"
   ],
@@ -852,8 +852,8 @@
  {
   "id": "c7:03068",
   "jp": "そうか。\nひょっとしたら、何か拾い物が\nあるかもしれないな。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. Maybe I'll pick somethin' up.",
+  "status": "done",
   "slots": [
    "0x5bd"
   ],
@@ -862,8 +862,8 @@
  {
   "id": "c7:030a3",
   "jp": "余裕があれば必ず探索すること\nですね。",
-  "en": "",
-  "status": "todo",
+  "en": "If you can spare the time, always explore.",
+  "status": "done",
   "slots": [
    "0x5cf"
   ],
@@ -872,8 +872,8 @@
  {
   "id": "c7:030c9",
   "jp": "それに、アイコンがない場所にも\n何か隠されている物もあるかも\nしれませんよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Besides, there might be things hidden even\nin places with no icon, you know?",
+  "status": "done",
   "slots": [
    "0x5d6"
   ],
@@ -882,8 +882,8 @@
  {
   "id": "c7:03114",
   "jp": "なるほど……。\n移動力が余っていたら、あちこち\n止まってみた方がいいな。",
-  "en": "",
-  "status": "todo",
+  "en": "I see... If I've got movement left over, I\noughta try stoppin' here and there.",
+  "status": "done",
   "slots": [
    "0x5e8"
   ],
@@ -892,8 +892,8 @@
  {
   "id": "c7:0315b",
   "jp": "うぅ、なんですかあの人は。\n調子が崩されている気がします。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh, what's with that person? I feel like I'm\nbeing thrown off my game.",
+  "status": "done",
   "slots": [
    "0x9b1"
   ],
@@ -902,8 +902,8 @@
  {
   "id": "c7:03195",
   "jp": "それはね、武器の相性が\n合わないからよ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's because your weapons don't match\nup well.",
+  "status": "done",
   "slots": [
    "0x9c3"
   ],
@@ -912,8 +912,8 @@
  {
   "id": "c7:031bd",
   "jp": "いい？　武器タイプには\nそれぞれ優劣の相性があるの。",
-  "en": "",
-  "status": "todo",
+  "en": "Listen. Each weapon type is strong or weak\nagainst the others.",
+  "status": "done",
   "slots": [
    "0x9ca"
   ],
@@ -922,8 +922,8 @@
  {
   "id": "c7:031f1",
   "jp": "例えば、斧は槍に強いけれど、\nその代わり剣に弱い、ってわけ。",
-  "en": "",
-  "status": "todo",
+  "en": "For example, axes are strong against\nspears, but weak against swords instead.",
+  "status": "done",
   "slots": [
    "0x9d7"
   ],
@@ -932,15 +932,15 @@
  {
   "id": "c7:0322d",
   "jp": "アナタは斧兵、\nアイツは剣兵でしょう？",
-  "en": "",
-  "status": "todo",
+  "en": "You're an axe unit, and he's a sword unit,\nright?",
+  "status": "done",
   "slots": []
  },
  {
   "id": "c7:03253",
   "jp": "不利な敵の相手をするより、\nアナタが得意な槍兵を倒す方が\n効率的なのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Rather than fighting an enemy you're weak\nagainst, it's more efficient to beat the\nspear units you're good against.",
+  "status": "done",
   "slots": [
    "0x9e9"
   ],
@@ -949,8 +949,8 @@
  {
   "id": "c7:0329a",
   "jp": "私みたいな杖兵はどうなの？",
-  "en": "",
-  "status": "todo",
+  "en": "What about staff units like me?",
+  "status": "done",
   "slots": [
    "0xa00"
   ],
@@ -959,8 +959,8 @@
  {
   "id": "c7:032b5",
   "jp": "杖兵は槍にも剣にも斧にも強いけど\nあたしみたいな銃兵には弱いわね。",
-  "en": "",
-  "status": "todo",
+  "en": "Staff units are strong against spears,\nswords and axes, but weak against gun units\nlike me.",
+  "status": "done",
   "slots": [
    "0xa12"
   ],
@@ -969,8 +969,8 @@
  {
   "id": "c7:032f7",
   "jp": "おぉ！　なかなか強いね！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh! That's pretty strong!",
+  "status": "done",
   "slots": [
    "0xa24"
   ],
@@ -979,8 +979,8 @@
  {
   "id": "c7:03310",
   "jp": "その杖兵よりも強い銃兵は、\nもはや弱点なしか！",
-  "en": "",
-  "status": "todo",
+  "en": "And gun units are stronger than staff units,\nso they've got no weakness at all!",
+  "status": "done",
   "slots": [
    "0xa36"
   ],
@@ -989,8 +989,8 @@
  {
   "id": "c7:0333e",
   "jp": "あぁ～。銃兵は、杖兵に強いけど、\n槍にも剣にも斧にも弱いわ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ahh... Gun units are strong against staffs,\nbut weak against spears, swords and axes...",
+  "status": "done",
   "slots": [
    "0xa64"
   ],
@@ -999,8 +999,8 @@
  {
   "id": "c7:0337e",
   "jp": "三つも弱点があるのか～。\nなんだか一気に弱いイメージに\nなっちまったな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Three whole weaknesses... All of a sudden\nthey sound real weak...",
+  "status": "done",
   "slots": [
    "0xa76"
   ],
@@ -1009,8 +1009,8 @@
  {
   "id": "c7:033c9",
   "jp": "でも！　銃兵の突撃には\n相手に反撃を許さない、っていう\n強力なアドバンテージがあるの。",
-  "en": "",
-  "status": "todo",
+  "en": "But! A gun unit's charge has a powerful\nadvantage: it doesn't let the enemy\ncounterattack.",
+  "status": "done",
   "slots": [
    "0xa8d"
   ],
@@ -1019,8 +1019,8 @@
  {
   "id": "c7:0341e",
   "jp": "その分、剣兵のイシュトよりは\n有利に戦えるはずよ！",
-  "en": "",
-  "status": "todo",
+  "en": "That alone should let me fight better than\nIshut, a sword unit!",
+  "status": "done",
   "slots": [
    "0xa94"
   ],
@@ -1029,8 +1029,8 @@
  {
   "id": "c7:03450",
   "jp": "まぁ、銃兵は突撃されると\n反撃できない、っていう\n欠点も持ってるんだけどね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, gun units also have the drawback of\nnot being able to counterattack when\ncharged...",
+  "status": "done",
   "slots": [
    "0xaa6"
   ],
@@ -1039,8 +1039,8 @@
  {
   "id": "c7:0349f",
   "jp": "要は、相性次第で戦況は大きく\n変わるってことよ。",
-  "en": "",
-  "status": "todo",
+  "en": "The point is, matchups can change the tide\nof battle a lot.",
+  "status": "done",
   "slots": [
    "0xaad"
   ],
@@ -1049,8 +1049,8 @@
  {
   "id": "c7:034cf",
   "jp": "それじゃあ、アンヌ・コーマックを\n倒すには、ルルゥの力が必要って\nわけか。",
-  "en": "",
-  "status": "todo",
+  "en": "So to beat Anne Cormack, we need Ruru's\npower.",
+  "status": "done",
   "slots": [
    "0xad3"
   ],
@@ -1059,8 +1059,8 @@
  {
   "id": "c7:03518",
   "jp": "武器相性は戦闘において重要な鍵に\nなってるわ。常に相性を考えて、\n戦いましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "Weapon matchups are a key part of battle.\nAlways think about matchups when you\nfight!",
+  "status": "done",
   "slots": [
    "0xae5"
   ],
@@ -1069,8 +1069,8 @@
  {
   "id": "c7:03567",
   "jp": "早く奴らを倒さないと。\n『ユニオン』を組む暇なんて\nねぇよ……。",
-  "en": "",
-  "status": "todo",
+  "en": "We gotta beat 'em fast. There ain't time to\nform a 'Union'...",
+  "status": "done",
   "slots": [
    "0xc98"
   ],
@@ -1079,8 +1079,8 @@
  {
   "id": "c7:035a6",
   "jp": "それなら、『ユニオン』なしで\n蹴散らせばいいのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Then just scatter them without a 'Union'!",
+  "status": "done",
   "slots": [
    "0xcaa"
   ],
@@ -1089,8 +1089,8 @@
  {
   "id": "c7:035d8",
   "jp": "『スキル』を使うわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "We'll use a 'Skill'!",
+  "status": "done",
   "slots": [
    "0xcbc"
   ],
@@ -1099,8 +1099,8 @@
  {
   "id": "c7:035ef",
   "jp": "『スキル』？　ひょっとして、\n『必殺技』のことか？",
-  "en": "",
-  "status": "todo",
+  "en": "A 'Skill'? You mean a 'special move'?",
+  "status": "done",
   "slots": [
    "0xcce"
   ],
@@ -1109,8 +1109,8 @@
  {
   "id": "c7:03621",
   "jp": "どうやって使うんだ！？",
-  "en": "",
-  "status": "todo",
+  "en": "How do I use it!?",
+  "status": "done",
   "slots": [
    "0xce0"
   ],
@@ -1119,8 +1119,8 @@
  {
   "id": "c7:03638",
   "jp": "まず最初に『スキル』を使う条件を\n確認するのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "First, check the conditions for using a 'Skill'.",
+  "status": "done",
   "slots": [
    "0xcf2"
   ],
@@ -1129,8 +1129,8 @@
  {
   "id": "c7:03668",
   "jp": "まず、ユニオンリーダーの\nユニットの『武器タイプ』と……",
-  "en": "",
-  "status": "todo",
+  "en": "First, the Union Leader unit's 'Weapon Type'\nand...",
+  "status": "done",
   "slots": [
    "0xcff"
   ],
@@ -1139,8 +1139,8 @@
  {
   "id": "c7:036a0",
   "jp": "ターン開始時に選んだカードの\n『エースタイプ』が合致しないと\nスキルは使えないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "...the 'Ace Type' of the card you chose at\nthe start of the turn have to match, or you\ncan't use a skill.",
+  "status": "done",
   "slots": [
    "0xd06"
   ],
@@ -1149,8 +1149,8 @@
  {
   "id": "c7:036f1",
   "jp": "ふーん、となると、\nカードの『エースタイプ』が\n『剣』だとしたら……",
-  "en": "",
-  "status": "todo",
+  "en": "Hmmm, so if the card's 'Ace Type' is\n'Sword'...",
+  "status": "done",
   "slots": [
    "0xd18"
   ],
@@ -1159,8 +1159,8 @@
  {
   "id": "c7:03734",
   "jp": "俺のような剣兵ユニットが\nユニオンリーダーにならないと\nスキルは使えないってわけだな。",
-  "en": "",
-  "status": "todo",
+  "en": "Then a sword unit like me has to be the\nUnion Leader, or we can't use the skill.",
+  "status": "done",
   "slots": [
    "0xd2a"
   ],
@@ -1169,8 +1169,8 @@
  {
   "id": "c7:03789",
   "jp": "その通り。",
-  "en": "",
-  "status": "todo",
+  "en": "Exactly.",
+  "status": "done",
   "slots": [
    "0xd3c"
   ],
@@ -1179,8 +1179,8 @@
  {
   "id": "c7:03794",
   "jp": "次は、実際に戦闘でスキルを\n使う方法を教えるわね。",
-  "en": "",
-  "status": "todo",
+  "en": "Next, I'll teach you how to actually use a\nskill in battle.",
+  "status": "done",
   "slots": [
    "0xd43"
   ],
@@ -1189,8 +1189,8 @@
  {
   "id": "c7:037c6",
   "jp": "まず、『スキルゲージ』を\nＭａｘまで溜める！",
-  "en": "",
-  "status": "todo",
+  "en": "First, fill the 'Skill Gauge' to Max!",
+  "status": "done",
   "slots": [
    "0xd4f"
   ],
@@ -1199,8 +1199,8 @@
  {
   "id": "c7:037f2",
   "jp": "Ｐａｓｓｉｖｅを使うのが\n一番手っ取り早いけど、\n自然に溜まるのを待ってもいいわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Using Passive is quickest, but you can also\nwait for it to fill on its own.",
+  "status": "done",
   "slots": [
    "0xd56"
   ],
@@ -1209,8 +1209,8 @@
  {
   "id": "c7:03843",
   "jp": "ゲージがＭａｘになったら\n□ボタンでスキルを使えるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Once the gauge is at Max, you can use the\nskill with the Square button.",
+  "status": "done",
   "slots": [
    "0xd5d"
   ],
@@ -1219,8 +1219,8 @@
  {
   "id": "c7:03879",
   "jp": "スキルには大きく分けて\n２種類あって、使い道が微妙に\n違うから注意するのよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Skills come in two broad kinds, and they're\nused a little differently, so pay attention.",
+  "status": "done",
   "slots": [
    "0xd64"
   ],
@@ -1229,8 +1229,8 @@
  {
   "id": "c7:038c4",
   "jp": "『Ｃｈａｒｇｅ』型スキルは\n□ボタンを押すと\n『チャージゲージ』が現れるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "With a 'Charge' skill, pressing the Square\nbutton brings up the 'Charge Gauge'.",
+  "status": "done",
   "slots": [
    "0xd70"
   ],
@@ -1239,8 +1239,8 @@
  {
   "id": "c7:0390f",
   "jp": "ボタンを押し続けると\n『チャージゲージ』が\nどんどん溜まって……",
-  "en": "",
-  "status": "todo",
+  "en": "Hold the button down and the 'Charge\nGauge' fills up more and more...",
+  "status": "done",
   "slots": [
    "0xd77"
   ],
@@ -1249,8 +1249,8 @@
  {
   "id": "c7:0394e",
   "jp": "これがＭａｘになったら準備ＯＫ。\n□ボタンを離せば\nスキルを使って効果が発動するわ。",
-  "en": "",
-  "status": "todo",
+  "en": "When it reaches Max, you're ready. Let go of\nthe Square button to use the skill and\ntrigger its effect.",
+  "status": "done",
   "slots": [
    "0xd7e"
   ],
@@ -1259,8 +1259,8 @@
  {
   "id": "c7:039a1",
   "jp": "あぁそれと、敵の強攻撃を受けると\n『チャージ』が中断しちゃうけど。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, and if you take a strong enemy attack,\nthe 'Charge' gets interrupted, but...",
+  "status": "done",
   "slots": [
    "0xd9e"
   ],
@@ -1269,8 +1269,8 @@
  {
   "id": "c7:039e3",
   "jp": "『スキルゲージ』は減らないから\n焦らずにもう一度『チャージ』\nするといいわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "The 'Skill Gauge' doesn't go down, so stay\ncalm and 'Charge' again.",
+  "status": "done",
   "slots": [
    "0xda5"
   ],
@@ -1279,8 +1279,8 @@
  {
   "id": "c7:03a30",
   "jp": "次に『ＫｅｅｐＯｎ』型スキルね。",
-  "en": "",
-  "status": "todo",
+  "en": "Next, 'KeepOn' skills.",
+  "status": "done",
   "slots": [
    "0xdb1"
   ],
@@ -1289,8 +1289,8 @@
  {
   "id": "c7:03a51",
   "jp": "このタイプのスキルは\n□ボタンを押すとすぐに\nスキル効果が発動するわ。",
-  "en": "",
-  "status": "todo",
+  "en": "With this type of skill, the effect triggers\nas soon as you press the Square button.",
+  "status": "done",
   "slots": [
    "0xdb8"
   ],
@@ -1299,8 +1299,8 @@
  {
   "id": "c7:03a96",
   "jp": "ただ、□ボタンを押してる間は\nスキルゲージがどんどん\n消費されていくの。",
-  "en": "",
-  "status": "todo",
+  "en": "But while you hold the Square button, the\nskill gauge keeps draining.",
+  "status": "done",
   "slots": [
    "0xdbf"
   ],
@@ -1309,8 +1309,8 @@
  {
   "id": "c7:03add",
   "jp": "スキルゲージがゼロになったら、\nその時点でスキルの効果は\n消えてしまうわ。",
-  "en": "",
-  "status": "todo",
+  "en": "When the skill gauge hits zero, the skill's\neffect disappears right then.",
+  "status": "done",
   "slots": [
    "0xdc6"
   ],
@@ -1319,8 +1319,8 @@
  {
   "id": "c7:03b26",
   "jp": "途中で□ボタンを離したら\nどうなるんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "What happens if I let go of Square partway?",
+  "status": "done",
   "slots": [
    "0xdd8"
   ],
@@ -1329,8 +1329,8 @@
  {
   "id": "c7:03b4e",
   "jp": "その時点でスキル効果はなくなり、\nスキルゲージの消費も止まるわ。\n温存したい場合に有効ね。",
-  "en": "",
-  "status": "todo",
+  "en": "The skill effect ends right then, and the skill\ngauge stops draining too. Handy when you\nwant to save it.",
+  "status": "done",
   "slots": [
    "0xdea"
   ],
@@ -1339,8 +1339,8 @@
  {
   "id": "c7:03ba7",
   "jp": "あと、当たり前のことなんだけど。\nあたし達と同じように\n敵側も『スキル』を使ってくるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Also, this should go without saying, but the\nenemy will use 'Skills' just like we do.",
+  "status": "done",
   "slots": [
    "0xdf6"
   ],
@@ -1349,8 +1349,8 @@
  {
   "id": "c7:03bfe",
   "jp": "敵は、使用条件さえ合えば、\nエースタイプに縛られずに\n『スキル』を使ってくるわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "As long as the conditions are met, the\nenemy will use 'Skills' without being bound\nby Ace Types!",
+  "status": "done",
   "slots": [
    "0xe08"
   ],
@@ -1359,8 +1359,8 @@
  {
   "id": "c7:03c4f",
   "jp": "スキルを使えば状況が\n一変するわ！　有効に使うのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Skills can turn the situation around\ncompletely! Use them well!",
+  "status": "done",
   "slots": [
    "0xe28"
   ],
@@ -1369,8 +1369,8 @@
  {
   "id": "c7:03c83",
   "jp": "……うー。\nな、なんか寒くねぇか……？",
-  "en": "",
-  "status": "todo",
+  "en": "...Brr. I-Is it just me, or is it cold...?",
+  "status": "done",
   "slots": [
    "0x16ea"
   ],
@@ -1379,8 +1379,8 @@
  {
   "id": "c7:03ca9",
   "jp": "って！　なんじゃこりゃあ！\n水辺地形が凍り付いてる\nじゃねぇか！　どういうことだ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Wait! What the hell is this!? The waterside\nterrain's frozen over! What's goin' on!?",
+  "status": "done",
   "slots": [
    "0x16fc"
   ],
@@ -1389,8 +1389,8 @@
  {
   "id": "c7:03cfc",
   "jp": "それは、敵のウンディーネが\n『ダイヤモンドダスト』を\n使ったせいね……ブルブル。",
-  "en": "",
-  "status": "todo",
+  "en": "That's because the enemy Undine used\n'Diamond Dust'... Brrr.",
+  "status": "done",
   "slots": [
    "0x170e"
   ],
@@ -1399,8 +1399,8 @@
  {
   "id": "c7:03d4b",
   "jp": "ダ、ダイヤモンドダスト……？",
-  "en": "",
-  "status": "todo",
+  "en": "D-Diamond Dust...?",
+  "status": "done",
   "slots": [
    "0x1720"
   ],
@@ -1409,8 +1409,8 @@
  {
   "id": "c7:03d68",
   "jp": "普段はウンディーネしか入れない\n水辺地形だけどね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Normally only Undines can enter waterside\nterrain...",
+  "status": "done",
   "slots": [
    "0x1738"
   ],
@@ -1419,8 +1419,8 @@
  {
   "id": "c7:03d9e",
   "jp": "ウンディーネが『ブリザード』を\n使うと、水辺が氷上に変化しちゃう\nのよ。さすが水の民と言った所ね。",
-  "en": "",
-  "status": "todo",
+  "en": "When an Undine uses 'Blizzard', the water\nturns to ice. Just what you'd expect from\nthe people of the water.",
+  "status": "done",
   "slots": [
    "0x173f"
   ],
@@ -1429,8 +1429,8 @@
  {
   "id": "c7:03dff",
   "jp": "水辺地形と違って、氷上地形は\n歩行ユニットでも移動できるのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Unlike waterside terrain, ice terrain can be\ncrossed even by units on foot.",
+  "status": "done",
   "slots": [
    "0x174b"
   ],
@@ -1439,8 +1439,8 @@
  {
   "id": "c7:03e3d",
   "jp": "そうなのか？\nなら、逆に便利じゃねぇか！\nやったな！",
-  "en": "",
-  "status": "todo",
+  "en": "Really? Then that's handy for us! Nice!",
+  "status": "done",
   "slots": [
    "0x175d"
   ],
@@ -1449,8 +1449,8 @@
  {
   "id": "c7:03e70",
   "jp": "ところがどっこいぎっちょんちょん\n世の中そんなに甘くは\nできてないのよねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, but not so fast, la-di-da! The world's not\nthat sweet, you know.",
+  "status": "done",
   "slots": [
    "0x176f"
   ],
@@ -1459,8 +1459,8 @@
  {
   "id": "c7:03ebb",
   "jp": "む……どういうことだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm... What's that supposed to mean?",
+  "status": "done",
   "slots": [
    "0x1781"
   ],
@@ -1469,8 +1469,8 @@
  {
   "id": "c7:03ed4",
   "jp": "次のお昼が来てお日様が昇ると、\n氷が溶けて元の水辺に\n戻っちゃうのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "When the next day comes and the sun rises,\nthe ice melts and turns back into water.",
+  "status": "done",
   "slots": [
    "0x1793"
   ],
@@ -1479,8 +1479,8 @@
  {
   "id": "c7:03f19",
   "jp": "じゃ、じゃあ、その時氷上にいた\nユニットは……。",
-  "en": "",
-  "status": "todo",
+  "en": "S-So, the units that were on the ice then...",
+  "status": "done",
   "slots": [
    "0x17a5"
   ],
@@ -1489,8 +1489,8 @@
  {
   "id": "c7:03f49",
   "jp": "武器とか道具って結構重いでしょ？\n外す間もなく海の底へバイバイよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Weapons and gear are pretty heavy, right?\nBye-bye to the bottom of the sea before\nthey can take them off.",
+  "status": "done",
   "slots": [
    "0x17b7"
   ],
@@ -1499,8 +1499,8 @@
  {
   "id": "c7:03f8b",
   "jp": "うおぉー！　こえー！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoaaa! Scary!",
+  "status": "done",
   "slots": [
    "0x17c9"
   ],
@@ -1509,8 +1509,8 @@
  {
   "id": "c7:03fa0",
   "jp": "でも、夜の間は確かに便利だから\n時間を味方につけて、\n上手く戦いましょうね。",
-  "en": "",
-  "status": "todo",
+  "en": "But it really is handy during the night, so\nlet's use the time of day to our advantage\nand fight smart.",
+  "status": "done",
   "slots": [
    "0x17db"
   ],
@@ -1519,8 +1519,8 @@
  {
   "id": "c7:03feb",
   "jp": "あれが大砲か……。\n船の砲台とはまた違く見えるな。",
-  "en": "",
-  "status": "todo",
+  "en": "So that's a cannon... Looks different from a\nship's guns.",
+  "status": "done",
   "slots": [
    "0x12bc"
   ],
@@ -1529,8 +1529,8 @@
  {
   "id": "c7:0401d",
   "jp": "悠長な事言ってられねぇぞ。\n上から狙われてるんだ。\n当たったら一溜まりもねぇぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "No time to be takin' it easy. They're aimin'\nat us from above. One hit and we're done\nfor.",
+  "status": "done",
   "slots": [
    "0x12ce"
   ],
@@ -1539,8 +1539,8 @@
  {
   "id": "c7:0406c",
   "jp": "大砲は、各ターンの初めに\n範囲内ユニットに砲撃を\n浴びせる強力な兵器だからな。",
-  "en": "",
-  "status": "todo",
+  "en": "A cannon's a powerful weapon that pounds\nevery unit in range at the start of each turn.",
+  "status": "done",
   "slots": [
    "0x12d5"
   ],
@@ -1549,8 +1549,8 @@
  {
   "id": "c7:040b9",
   "jp": "もし当てられたら、被害は\nどれほどまでになるんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "If it hits us, how bad's the damage?",
+  "status": "done",
   "slots": [
    "0x12e7"
   ],
@@ -1559,8 +1559,8 @@
  {
   "id": "c7:040eb",
   "jp": "そりゃあお前、アレの爆発に\n巻き込まれるわけだから、\n士気の低下は覚悟の上だな。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, you'd be caught up in the blast of that\nthing, so expect your morale to drop.",
+  "status": "done",
   "slots": [
    "0x12ff"
   ],
@@ -1569,8 +1569,8 @@
  {
   "id": "c7:0413a",
   "jp": "一方的にやられるのか……。",
-  "en": "",
-  "status": "todo",
+  "en": "So we just take it without fightin' back...",
+  "status": "done",
   "slots": [
    "0x1311"
   ],
@@ -1579,8 +1579,8 @@
  {
   "id": "c7:04155",
   "jp": "そういうことだ。命が惜しかったら\n射程圏には絶対に入るんじゃねぇぞ",
-  "en": "",
-  "status": "todo",
+  "en": "That's right. If ya value your life, don't you\never step into its range.",
+  "status": "done",
   "slots": [
    "0x1323"
   ],
@@ -1589,8 +1589,8 @@
  {
   "id": "c7:04197",
   "jp": "あ、そうだ。\n夜になると視界が狭くなって大砲が\n使えなくなる。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, right. At night, visibility shrinks and the\ncannon can't be used.",
+  "status": "done",
   "slots": [
    "0x132a"
   ],
@@ -1599,8 +1599,8 @@
  {
   "id": "c7:041d4",
   "jp": "その間に駆け抜けるってのも\nアリだな。\n海賊だったら、よく頭にいれておけ",
-  "en": "",
-  "status": "todo",
+  "en": "Dashin' past it while that lasts is an option\ntoo. If you're a pirate, keep that in mind.",
+  "status": "done",
   "slots": [
    "0x1331"
   ],
@@ -1609,8 +1609,8 @@
  {
   "id": "c7:0421b",
   "jp": "オウ！\n大砲か……味方につけば、かなり\n心強くなるんだけどなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Right! A cannon, huh... It'd be real reassuring\nif it was on our side.",
+  "status": "done",
   "slots": [
    "0x1343"
   ],
@@ -1619,8 +1619,8 @@
  {
   "id": "c7:0425a",
   "jp": "うお、なんだぁ\nあの変てこな装置は！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, what's that weird contraption!?",
+  "status": "done",
   "slots": [
    "0x13c1"
   ],
@@ -1629,8 +1629,8 @@
  {
   "id": "c7:0427e",
   "jp": "あぁ、ありゃあ“投石器”だな。\n敵に石の雨を食らわせてやるための\n兵器だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, that there's a \"catapult\". A weapon for\nrainin' stones down on the enemy.",
+  "status": "done",
   "slots": [
    "0x13d3"
   ],
@@ -1639,8 +1639,8 @@
  {
   "id": "c7:042c7",
   "jp": "突撃と一緒に使えば、攻撃力の\n底上げぐらいならできるんじゃ\nねぇか？",
-  "en": "",
-  "status": "todo",
+  "en": "Use it along with a charge and it oughta at\nleast give your attack power a boost, don't\nya think?",
+  "status": "done",
   "slots": [
    "0x13e0"
   ],
@@ -1649,8 +1649,8 @@
  {
   "id": "c7:0430a",
   "jp": "へぇ～。\nどうやって使うんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh. How do I use it?",
+  "status": "done",
   "slots": [
    "0x13f2"
   ],
@@ -1659,8 +1659,8 @@
  {
   "id": "c7:04328",
   "jp": "簡単だ。\n投石器とユニオンを組めばいい。",
-  "en": "",
-  "status": "todo",
+  "en": "Easy. Just form a Union with the catapult.",
+  "status": "done",
   "slots": [
    "0x1404"
   ],
@@ -1669,8 +1669,8 @@
  {
   "id": "c7:04350",
   "jp": "投石器を陣形の一つに入れれば\nいいんだな？　わかったぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "So I just put the catapult in the formation?\nGot it.",
+  "status": "done",
   "slots": [
    "0x1416"
   ],
@@ -1679,8 +1679,8 @@
  {
   "id": "c7:04388",
   "jp": "投石器は敵も使ってくるから、\nそこも注意しておけよ？",
-  "en": "",
-  "status": "todo",
+  "en": "The enemy uses catapults too, so watch out\nfor that, ya hear?",
+  "status": "done",
   "slots": [
    "0x1428"
   ],
@@ -1699,8 +1699,8 @@
  {
   "id": "c7:043c3",
   "jp": "なんちゅう数の増援だ。\n対処しきれねぇぜ……。",
-  "en": "",
-  "status": "todo",
+  "en": "What a load of reinforcements. I can't\nhandle 'em all...",
+  "status": "done",
   "slots": [
    "0x848"
   ],
@@ -1709,8 +1709,8 @@
  {
   "id": "c7:043f1",
   "jp": "ねぇイシュト。前に、戦力差を\n補う戦術について教えたんだけど\n覚えてる？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, Ishut. A while back I taught you a\ntactic for making up for a difference in\nstrength. Remember?",
+  "status": "done",
   "slots": [
    "0x85a"
   ],
@@ -1719,8 +1719,8 @@
  {
   "id": "c7:04438",
   "jp": "オニオンだろ？\nあ、間違えた、ユニオンだろ？",
-  "en": "",
-  "status": "todo",
+  "en": "Onion, right? Oops, I mean Union, right?",
+  "status": "done",
   "slots": [
    "0x86c"
   ],
@@ -1739,8 +1739,8 @@
  {
   "id": "c7:04471",
   "jp": "そうよ。ユ・ニ・オ・ンよ。\nだけど、さすがにユニオンだけじゃ\nこの敵勢は捌ききれないわよね？",
-  "en": "",
-  "status": "todo",
+  "en": "That's right. U-ni-on. But even a Union can't\nhandle this many enemies on its own, can it?",
+  "status": "done",
   "slots": [
    "0x890"
   ],
@@ -1749,8 +1749,8 @@
  {
   "id": "c7:044cc",
   "jp": "そんな時こそ、これの出番よ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's exactly when this comes in.",
+  "status": "done",
   "slots": [
    "0x8a2"
   ],
@@ -1759,8 +1759,8 @@
  {
   "id": "c7:044e9",
   "jp": "ユニオンを拡張した戦術。\nその名も『リンク展開』よ。",
-  "en": "",
-  "status": "todo",
+  "en": "A tactic that expands the Union. It's called\n'Link Expansion'.",
+  "status": "done",
   "slots": [
    "0x8af"
   ],
@@ -1769,8 +1769,8 @@
  {
   "id": "c7:0451d",
   "jp": "『デュエル』がユニオンを\n先鋒と後続の二つに\n分担する戦術なら。",
-  "en": "",
-  "status": "todo",
+  "en": "If a 'Duel' is a tactic that splits a Union into\ntwo parts, the vanguard and the follow-up...",
+  "status": "done",
   "slots": [
    "0x8b6"
   ],
@@ -1779,8 +1779,8 @@
  {
   "id": "c7:0455c",
   "jp": "『リンク展開』は、ユニオンを\n先鋒・後続・殿軍の三つに\n分担する戦術と言えるわね。",
-  "en": "",
-  "status": "todo",
+  "en": "...then 'Link Expansion' is a tactic that splits\na Union into three: the vanguard, the\nfollow-up and the rearguard.",
+  "status": "done",
   "slots": [
    "0x8bd"
   ],
@@ -1789,8 +1789,8 @@
  {
   "id": "c7:045ad",
   "jp": "『リンク展開』を利用すれば\nフォーメーション上のユニットが\nさらに連係を拡張できるってわけ！",
-  "en": "",
-  "status": "todo",
+  "en": "With 'Link Expansion', the units in a\nformation can extend the combo even\nfurther!",
+  "status": "done",
   "slots": [
    "0x8cf"
   ],
@@ -1799,8 +1799,8 @@
  {
   "id": "c7:04608",
   "jp": "『リンク展開』の範囲は\nフォーメーションと同じ二種類！",
-  "en": "",
-  "status": "todo",
+  "en": "'Link Expansion' has the same two kinds of\nrange as formations!",
+  "status": "done",
   "slots": [
    "0x8e6"
   ],
@@ -1809,8 +1809,8 @@
  {
   "id": "c7:0463e",
   "jp": "距離は短いけど形は同じよ。\n『×』と『＋』だから\n覚えやすいでしょ？",
-  "en": "",
-  "status": "todo",
+  "en": "The reach is shorter, but the shapes are the\nsame. 'X' and '+', so it's easy to remember,\nright?",
+  "status": "done",
   "slots": [
    "0x8f8"
   ],
@@ -1819,8 +1819,8 @@
  {
   "id": "c7:04681",
   "jp": "人数差で圧倒されないように\n陣形をしっかり決めないとな。\n頼んだぜ、お前ら！",
-  "en": "",
-  "status": "todo",
+  "en": "Gotta settle on a solid formation so their\nnumbers don't overwhelm us. I'm countin' on\nyou guys!",
+  "status": "done",
   "slots": [
    "0x90a"
   ],
@@ -1829,8 +1829,8 @@
  {
   "id": "c7:046cc",
   "jp": "そうそう、天候が「霧」の時は\nリンク展開ができないから、\n気をつけるのよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, right, you can't use Link Expansion when\nthe weather is \"Fog\", so be careful.",
+  "status": "done",
   "slots": [
    "0x91c"
   ],
@@ -1839,8 +1839,8 @@
  {
   "id": "c7:04715",
   "jp": "イシュト。\n砂漠地形で戦う場合、\n気をつけなきゃいけない事があるの",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut. When you fight on desert terrain,\nthere's something you have to watch out\nfor.",
+  "status": "done",
   "slots": [
    "0x185a"
   ],
@@ -1849,8 +1849,8 @@
  {
   "id": "c7:04756",
   "jp": "気をつける？\nなにをだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Watch out? For what?",
+  "status": "done",
   "slots": [
    "0x186c"
   ],
@@ -1859,8 +1859,8 @@
  {
   "id": "c7:0476e",
   "jp": "砂漠の中を進むのって大変でしょ？\nだから、歩行ユニットは１ターンに\n一歩しか進めなくなっちゃうの。",
-  "en": "",
-  "status": "todo",
+  "en": "Walking through the desert is hard, right?\nSo units on foot can only move one step per\nturn.",
+  "status": "done",
   "slots": [
    "0x1884"
   ],
@@ -1869,8 +1869,8 @@
  {
   "id": "c7:047cf",
   "jp": "マジかよ……。\nじゃあ砂漠は避けて行かねぇとな。",
-  "en": "",
-  "status": "todo",
+  "en": "Seriously...? Then we gotta steer clear of\nthe desert.",
+  "status": "done",
   "slots": [
    "0x1896"
   ],
@@ -1879,8 +1879,8 @@
  {
   "id": "c7:047ff",
   "jp": "ラズベリーみたいな飛行ユニットは\n普通に進めるけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "Flying units like Raspberry can move\nnormally, though.",
+  "status": "done",
   "slots": [
    "0x18a8"
   ],
@@ -1889,8 +1889,8 @@
  {
   "id": "c7:04835",
   "jp": "いいよなぁー俺も翼が欲しい。\n今俺の願い事が叶うならば\n翼を羽ばたかせて空を飛びたい。",
-  "en": "",
-  "status": "todo",
+  "en": "Lucky her. I want wings too. If I could have\none wish right now, I'd spread my wings and\nfly through the sky.",
+  "status": "done",
   "slots": [
    "0x18ba"
   ],
@@ -1899,8 +1899,8 @@
  {
   "id": "c7:0488a",
   "jp": "アハハ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ahaha...",
+  "status": "done",
   "slots": [
    "0x18cc"
   ],
@@ -1909,8 +1909,8 @@
  {
   "id": "c7:04897",
   "jp": "もし敵勢力に他の飛行ユニットが\nいたら、注意しないとね！",
-  "en": "",
-  "status": "todo",
+  "en": "If the enemy has any other flying units, we'll\nhave to watch out!",
+  "status": "done",
   "slots": [
    "0x18de"
   ],
@@ -1919,8 +1919,8 @@
  {
   "id": "c7:048cf",
   "jp": "多少危険があろうと、\n速攻で潰すってのもアリかもな。",
-  "en": "",
-  "status": "todo",
+  "en": "Even if it's a little risky, crushin' 'em fast\nmight be the way to go.",
+  "status": "done",
   "slots": [
    "0x18f0"
   ],
@@ -1929,8 +1929,8 @@
  {
   "id": "c7:04903",
   "jp": "うへぁ、毒沼だ。\nボコボコいってるぜ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh, a poison swamp. It's bubblin'...",
+  "status": "done",
   "slots": [
    "0x164c"
   ],
@@ -1939,8 +1939,8 @@
  {
   "id": "c7:0492d",
   "jp": "毒沼の上に待機すると、\n毒のウィルで部隊の士気が\n低下しちゃうんだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "If a unit waits on a poison swamp, the poison\nWill lowers the squad's morale...",
+  "status": "done",
   "slots": [
    "0x1664"
   ],
@@ -1949,8 +1949,8 @@
  {
   "id": "c7:04974",
   "jp": "ドロドロしてるから、\n駆け抜けたくても一歩ずつしか\n進めないの。",
-  "en": "",
-  "status": "todo",
+  "en": "It's all gooey, so even if you want to dash\nacross, you can only go one step at a time.",
+  "status": "done",
   "slots": [
    "0x166b"
   ],
@@ -1959,8 +1959,8 @@
  {
   "id": "c7:049b3",
   "jp": "嫌な事だらけだな……。\nなるべく毒沼には入らねぇように\nしないとな。",
-  "en": "",
-  "status": "todo",
+  "en": "Nothin' but bad news... Gotta stay outta\npoison swamps as much as we can.",
+  "status": "done",
   "slots": [
    "0x167d"
   ],
@@ -1969,8 +1969,8 @@
  {
   "id": "c7:049f6",
   "jp": "な、なんだぁあのスキルは？\n見た事ねぇぞ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-What the hell is that skill? I've never\nseen it before...",
+  "status": "done",
   "slots": [
    "0x196a"
   ],
@@ -1979,8 +1979,8 @@
  {
   "id": "c7:04a24",
   "jp": "ん～どうやらあれは、\n敵にステータス異常を付与する\nスキルのようですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, it seems that's a skill that inflicts\nstatus ailments on enemies.",
+  "status": "done",
   "slots": [
    "0x197c"
   ],
@@ -1989,8 +1989,8 @@
  {
   "id": "c7:04a6b",
   "jp": "ス、ステータス、異常？",
-  "en": "",
-  "status": "todo",
+  "en": "S-Status... ailments?",
+  "status": "done",
   "slots": [
    "0x198e"
   ],
@@ -1999,8 +1999,8 @@
  {
   "id": "c7:04a82",
   "jp": "部隊の進軍や戦闘に支障をきたす\n特殊な状態の事って、この間\nエリーシャさんに教わりましたよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Special conditions that get in the way of a\nsquad's advance and fighting. Elisha-san\ntaught us about them the other day,\nremember?",
+  "status": "done",
   "slots": [
    "0x19a6"
   ],
@@ -2009,8 +2009,8 @@
  {
   "id": "c7:04add",
   "jp": "忘れた！",
-  "en": "",
-  "status": "todo",
+  "en": "I forgot!",
+  "status": "done",
   "slots": [
    "0x19b8"
   ],
@@ -2029,8 +2029,8 @@
  {
   "id": "c7:04af3",
   "jp": "『冒毒』は、ターンごとに士気が\n減少し、戦闘時の耐久度も下がる\n異常状態です。",
-  "en": "",
-  "status": "todo",
+  "en": "'Poison' is an ailment where morale drops\nevery turn and endurance in battle goes\ndown too.",
+  "status": "done",
   "slots": [
    "0x19dc"
   ],
@@ -2039,8 +2039,8 @@
  {
   "id": "c7:04b40",
   "jp": "『呪縛』は、１ターンに一歩しか\n移動できず、更に戦闘能力も\n低下してしまう異常状態です。",
-  "en": "",
-  "status": "todo",
+  "en": "'Curse' is an ailment where you can only\nmove one step per turn, and your combat\nability drops too.",
+  "status": "done",
   "slots": [
    "0x19e3"
   ],
@@ -2049,8 +2049,8 @@
  {
   "id": "c7:04b97",
   "jp": "『昏睡』にかかると、\n深い眠りに落ちて移動もできず、\n戦闘では無抵抗に陥ります。",
-  "en": "",
-  "status": "todo",
+  "en": "Under 'Sleep', you fall into a deep sleep,\ncan't move, and are left defenceless in\nbattle.",
+  "status": "done",
   "slots": [
    "0x19ea"
   ],
@@ -2059,8 +2059,8 @@
  {
   "id": "c7:04be6",
   "jp": "『炎上』状態になると、炎が\n服に引火して、ターンごとに士気が\n減少してしまいます。",
-  "en": "",
-  "status": "todo",
+  "en": "In the 'Ablaze' state, fire catches on your\nclothes and morale drops every turn.",
+  "status": "done",
   "slots": [
    "0x19f1"
   ],
@@ -2069,8 +2069,8 @@
  {
   "id": "c7:04c37",
   "jp": "『マヒ』は、兵士の身体の自由が\n利かず、移動ができなくなります。",
-  "en": "",
-  "status": "todo",
+  "en": "'Paralysis' leaves soldiers unable to control\ntheir bodies, so they can't move.",
+  "status": "done",
   "slots": [
    "0x19fd"
   ],
@@ -2079,8 +2079,8 @@
  {
   "id": "c7:04c77",
   "jp": "『鈍足』はその名の通り、\n移動能力を制限され、１ターンに\n一歩しか移動ができなくなります。",
-  "en": "",
-  "status": "todo",
+  "en": "'Slow' does what it says: movement is\nrestricted, and you can only move one step\nper turn.",
+  "status": "done",
   "slots": [
    "0x1a04"
   ],
@@ -2089,8 +2089,8 @@
  {
   "id": "c7:04cd0",
   "jp": "『石化』は\n身体が石になってしまい、移動も\nデュエルもできなくなります。",
-  "en": "",
-  "status": "todo",
+  "en": "With 'Stone', your body turns to stone, and\nyou can't move or duel.",
+  "status": "done",
   "slots": [
    "0x1a0b"
   ],
@@ -2099,8 +2099,8 @@
  {
   "id": "c7:04d17",
   "jp": "そして、最後は\n身体中に火傷を負い、デュエル中に\n徐々に体力が減っていく『火傷』",
-  "en": "",
-  "status": "todo",
+  "en": "And last, there's 'Burn', where your whole\nbody is burned and your strength slowly\ndrops during duels.",
+  "status": "done",
   "slots": [
    "0x1a12"
   ],
@@ -2109,8 +2109,8 @@
  {
   "id": "c7:04d66",
   "jp": "とまぁ、こんな所ですね。",
-  "en": "",
-  "status": "todo",
+  "en": "And, well, that's about it.",
+  "status": "done",
   "slots": [
    "0x1a19"
   ],
@@ -2119,8 +2119,8 @@
  {
   "id": "c7:04d7f",
   "jp": "どれも致命的になりうる状態だな。\n回復する事はできないのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Any of 'em could be deadly. Can't they be\ncured?",
+  "status": "done",
   "slots": [
    "0x1a2b"
   ],
@@ -2129,8 +2129,8 @@
  {
   "id": "c7:04dbb",
   "jp": "スキルの『リフレッシュメント』を\n使えば回復できますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "You can cure them with the skill\n'Refreshment'.",
+  "status": "done",
   "slots": [
    "0x1a43"
   ],
@@ -2139,8 +2139,8 @@
  {
   "id": "c7:04df3",
   "jp": "ステータス異常を防ぐ効果のある\nアイテムを装備するってのも\n有効だと思います。",
-  "en": "",
-  "status": "todo",
+  "en": "I think equipping items that prevent status\nailments works well too.",
+  "status": "done",
   "slots": [
    "0x1a4a"
   ],
@@ -2149,8 +2149,8 @@
  {
   "id": "c7:04e40",
   "jp": "どっちもダメなら\n後はターン経過で\n自然回復を待つしかないですね。",
-  "en": "",
-  "status": "todo",
+  "en": "If neither works, all that's left is to wait for\nthem to wear off as turns pass.",
+  "status": "done",
   "slots": [
    "0x1a51"
   ],
@@ -2159,8 +2159,8 @@
  {
   "id": "c7:04e81",
   "jp": "スキルを使いこなせば、\n逆に敵にステータス異常を\nかけることもでますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "If you master skills, you can inflict status\nailments on the enemy too.",
+  "status": "done",
   "slots": [
    "0x1a58"
   ],
@@ -2169,8 +2169,8 @@
  {
   "id": "c7:04ec8",
   "jp": "説明が長すぎて冒頭の部分を\n覚えてないんだが……。",
-  "en": "",
-  "status": "todo",
+  "en": "That explanation was so long I don't\nremember the start of it...",
+  "status": "done",
   "slots": [
    "0x1a6a"
   ],
@@ -2179,8 +2179,8 @@
  {
   "id": "c7:04efa",
   "jp": "身をもって体験すれば\n覚えるんじゃないですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Maybe you'd remember if you experienced\nthem first-hand?",
+  "status": "done",
   "slots": [
    "0x1a7c"
   ],
@@ -2189,8 +2189,8 @@
  {
   "id": "c7:04f28",
   "jp": "こえぇー事言うんじゃねぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't say such scary stuff!",
+  "status": "done",
   "slots": [
    "0x1a8e"
   ],
@@ -2199,8 +2199,8 @@
  {
   "id": "c7:04f43",
   "jp": "いいかイシュト。\n今からお前に、海賊船の扱い方って\nモンを教えてやる。",
-  "en": "",
-  "status": "todo",
+  "en": "Listen, Ishut. Now I'm gonna teach ya how to\nhandle a pirate ship.",
+  "status": "done",
   "slots": [
    "0xf9a"
   ],
@@ -2209,8 +2209,8 @@
  {
   "id": "c7:04f88",
   "jp": "これを見ろ。",
-  "en": "",
-  "status": "todo",
+  "en": "Look at this.",
+  "status": "done",
   "slots": [
    "0xfa1"
   ],
@@ -2219,8 +2219,8 @@
  {
   "id": "c7:04f95",
   "jp": "ぬお！？　なんだこの画面は？\n船長選択？",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa!? What's this screen? 'Captain\nChange'?",
+  "status": "done",
   "slots": [
    "0xfb9"
   ],
@@ -2229,8 +2229,8 @@
  {
   "id": "c7:04fbd",
   "jp": "常に俺が船に乗ってるわけにも\nいかねぇからな。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't always be the one on the ship, ya\nknow.",
+  "status": "done",
   "slots": [
    "0xfcb"
   ],
@@ -2239,8 +2239,8 @@
  {
   "id": "c7:04feb",
   "jp": "俺の代わりに、船を操縦する奴を\n決めるのさ。",
-  "en": "",
-  "status": "todo",
+  "en": "So ya pick someone to steer the ship in my\nplace.",
+  "status": "done",
   "slots": [
    "0xfd2"
   ],
@@ -2249,8 +2249,8 @@
  {
   "id": "c7:05017",
   "jp": "そっか。\n船だって立派な戦力なんだもんな。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. A ship counts as real fighting strength\ntoo.",
+  "status": "done",
   "slots": [
    "0xfe4"
   ],
@@ -2259,8 +2259,8 @@
  {
   "id": "c7:05041",
   "jp": "操縦する奴によって、船の性能も\n大きく変わるからな、色々な奴で\n試してみてもいいんじゃねぇか？",
-  "en": "",
-  "status": "todo",
+  "en": "The ship's performance changes a lot\ndependin' on who's steerin', so why not try\nout all sorts of folks?",
+  "status": "done",
   "slots": [
    "0xff6"
   ],
@@ -2269,8 +2269,8 @@
  {
   "id": "c7:0509e",
   "jp": "戦闘に出てる奴は船長に選べねぇ\nから、注意してくれよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ya can't pick someone who's out fightin' as\ncaptain, so keep that in mind!",
+  "status": "done",
   "slots": [
    "0x1008"
   ],
@@ -2279,8 +2279,8 @@
  {
   "id": "c7:050d4",
   "jp": "いいか？　せっかく船を手に\n入れたんだから、有効に使えよ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Got it? We went to the trouble of gettin' a\nship, so put it to good use!",
+  "status": "done",
   "slots": [
    "0x107c"
   ],
@@ -2289,8 +2289,8 @@
  {
   "id": "c7:05110",
   "jp": "ヤベェと思ったら船に逃げ込め！\nユニットを船の上に移動させれば\n船に入る事ができる！",
-  "en": "",
-  "status": "todo",
+  "en": "If things look bad, run to the ship! Move a\nunit onto the ship and it can board!",
+  "status": "done",
   "slots": [
    "0x1089"
   ],
@@ -2299,8 +2299,8 @@
  {
   "id": "c7:05163",
   "jp": "船にカーソルを合わせて○ボタンを\n押して『出撃』ってコマンドを\n押すと再出撃できる！",
-  "en": "",
-  "status": "todo",
+  "en": "Put the cursor on the ship, press Circle and\nchoose the 'Sortie' command to send 'em out\nagain!",
+  "status": "done",
   "slots": [
    "0x1090"
   ],
@@ -2309,8 +2309,8 @@
  {
   "id": "c7:051b6",
   "jp": "船を使えば水の上も移動できる！\n移動手段としても利用しろ！",
-  "en": "",
-  "status": "todo",
+  "en": "With the ship you can move across water\ntoo! Use it to get around!",
+  "status": "done",
   "slots": [
    "0x1097"
   ],
@@ -2319,8 +2319,8 @@
  {
   "id": "c7:051f0",
   "jp": "次に、船からの砲撃の話だ。\n砲撃には二種類ある。\n『マップ砲撃』と『支援砲撃』だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Next, the ship's cannons. There's two kinds\nof bombardment: 'Map Bombardment' and\n'Support Bombardment'!",
+  "status": "done",
   "slots": [
    "0x10a3"
   ],
@@ -2329,8 +2329,8 @@
  {
   "id": "c7:05241",
   "jp": "マップ砲撃をしたい場合は、\n再出撃の時みたいに船のメニューを\n開いて『砲撃』を選択すればいい！",
-  "en": "",
-  "status": "todo",
+  "en": "If ya want a map bombardment, open the\nship's menu like when you sortie again, and\nchoose 'Bombard'!",
+  "status": "done",
   "slots": [
    "0x10aa"
   ],
@@ -2339,8 +2339,8 @@
  {
   "id": "c7:0529e",
   "jp": "そうすっと、砲撃可能なエリアが\n青く表示される。",
-  "en": "",
-  "status": "todo",
+  "en": "Then the area ya can bombard shows up in\nblue.",
+  "status": "done",
   "slots": [
    "0x10bc"
   ],
@@ -2349,8 +2349,8 @@
  {
   "id": "c7:052ce",
   "jp": "撃ちてぇ場所にカーソルを合わせて\n○ボタンを押すんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Put the cursor where ya wanna shoot and\npress Circle!",
+  "status": "done",
   "slots": [
    "0x10ce"
   ],
@@ -2359,8 +2359,8 @@
  {
   "id": "c7:05304",
   "jp": "次に『支援砲撃』だ。\nコイツの使い方はいたって簡単だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Next, 'Support Bombardment'. This one's\nreal easy to use.",
+  "status": "done",
   "slots": [
    "0x10e5"
   ],
@@ -2369,8 +2369,8 @@
  {
   "id": "c7:0533a",
   "jp": "デュエルを組む時に、\nユニオンの範囲内に船を含める。\nたったこれだけだ。",
-  "en": "",
-  "status": "todo",
+  "en": "When ya set up a duel, include the ship in the\nUnion's range. That's all there is to it.",
+  "status": "done",
   "slots": [
    "0x10ec"
   ],
@@ -2379,8 +2379,8 @@
  {
   "id": "c7:05381",
   "jp": "船の使い方は以上だ！\nしっかりやれよ？　これ一つで\n勝敗がつく時もあるんだからな！",
-  "en": "",
-  "status": "todo",
+  "en": "That's it for how to use the ship! Do it right,\nya hear? Sometimes this alone decides who\nwins!",
+  "status": "done",
   "slots": [
    "0x10fe"
   ],
@@ -2389,8 +2389,8 @@
  {
   "id": "c7:053d2",
   "jp": "みなさん、ご機嫌麗しゅう。\nイータのチュートリアルコーナー\nですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Greetings, everyone. Welcome to Eater's\ntutorial corner.",
+  "status": "done",
   "slots": [
    "0x1b11"
   ],
@@ -2399,8 +2399,8 @@
  {
   "id": "c7:05415",
   "jp": "私のす・べ・て、を\n教えて差し上げます。",
-  "en": "",
-  "status": "todo",
+  "en": "I shall teach you... all... about... me.",
+  "status": "done",
   "slots": [
    "0x1b18"
   ],
@@ -2409,8 +2409,8 @@
  {
   "id": "c7:0543d",
   "jp": "俺は簡単には扱えねぇ男だからな！\n耳の穴鼓膜ごとぶち破って\nよぉく聞きやがれ！　いいな！？",
-  "en": "",
-  "status": "todo",
+  "en": "I ain't a guy who's easy to handle! So bust\nopen your ears, eardrums and all, and listen\nup good! Got it!?",
+  "status": "done",
   "slots": [
    "0x1b2a"
   ],
@@ -2419,8 +2419,8 @@
  {
   "id": "c7:05496",
   "jp": "まず俺達は、時間帯によって\n性別とユニット特性が\n入れ替わる！　基本だな？",
-  "en": "",
-  "status": "todo",
+  "en": "First, our gender and unit traits switch with\nthe time of day! That's the basics, right?",
+  "status": "done",
   "slots": [
    "0x1b31"
   ],
@@ -2429,8 +2429,8 @@
  {
   "id": "c7:054df",
   "jp": "ウゼェ太陽が沈んでる『夜間』は\n俺様の時間だ！\n男の闘いのゴングが鳴るぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "'Night', when that damn sun's gone down, is\nmy time! The gong for a fight between men\nrings!",
+  "status": "done",
   "slots": [
    "0x1b38"
   ],
@@ -2439,8 +2439,8 @@
  {
   "id": "c7:05528",
   "jp": "そして、暖かな太陽が昇っている\n『昼間』と夕焼けが美しい『夕方』\nは、可憐なる乙女の私の出番ですわ",
-  "en": "",
-  "status": "todo",
+  "en": "And 'Day', when the warm sun is up, and\n'Evening', with its beautiful sunset, are when\nI, a lovely maiden, take the stage.",
+  "status": "done",
   "slots": [
    "0x1b4a"
   ],
@@ -2449,8 +2449,8 @@
  {
   "id": "c7:05589",
   "jp": "では、『昼間』と『夕方』の\n私の特性について\n説明をいたしましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Now then, allow me to explain my traits\nduring 'Day' and 'Evening'.",
+  "status": "done",
   "slots": [
    "0x1b51"
   ],
@@ -2459,8 +2459,8 @@
  {
   "id": "c7:055cc",
   "jp": "私の武器はこの竪琴。\n美しい演奏で相手の戦力を根こそぎ\n奪い去るのですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "My weapon is this harp. With beautiful\nplaying, I strip away every last bit of the\nenemy's strength.",
+  "status": "done",
   "slots": [
    "0x1b5e"
   ],
@@ -2469,8 +2469,8 @@
  {
   "id": "c7:05615",
   "jp": "演奏攻撃は、相手に反撃されずに\n一方的に突撃できますが、\n逆に、反撃はできませんわ。",
-  "en": "",
-  "status": "todo",
+  "en": "A performance attack lets me charge\none-sidedly without being countered, but in\nreturn, I cannot counterattack.",
+  "status": "done",
   "slots": [
    "0x1b65"
   ],
@@ -2479,8 +2479,8 @@
  {
   "id": "c7:05668",
   "jp": "銃兵と同じだと考えてもらえば、\nよろしくってよ。",
-  "en": "",
-  "status": "todo",
+  "en": "You may think of it as the same as a gun\nunit.",
+  "status": "done",
   "slots": [
    "0x1b6c"
   ],
@@ -2489,8 +2489,8 @@
  {
   "id": "c7:05698",
   "jp": "戦闘時の相性ですが、\nどのユニットとも互角に戦えます。\n音楽は平等ですからね。",
-  "en": "",
-  "status": "todo",
+  "en": "As for matchups in battle, I can fight evenly\nagainst any unit. Music treats everyone\nequally, after all.",
+  "status": "done",
   "slots": [
    "0x1b73"
   ],
@@ -2499,8 +2499,8 @@
  {
   "id": "c7:056e5",
   "jp": "剣と剣、杖と杖が戦うのと\n同じような戦闘力というのが\nわかりやすいですわね。",
-  "en": "",
-  "status": "todo",
+  "en": "It's easiest to think of it as the same\nfighting strength as sword against sword,\nor staff against staff.",
+  "status": "done",
   "slots": [
    "0x1b7a"
   ],
@@ -2509,8 +2509,8 @@
  {
   "id": "c7:05730",
   "jp": "そんな私の最大の特徴は、\nリーダーが『エース』でなくとも\nスキルを使えてしまうことですわ！",
-  "en": "",
-  "status": "todo",
+  "en": "My greatest feature is that I can use skills\neven when the leader is not an 'Ace'!",
+  "status": "done",
   "slots": [
    "0x1b8c"
   ],
@@ -2519,8 +2519,8 @@
  {
   "id": "c7:05789",
   "jp": "『バニッシュ』など、\n使用条件が特にないカードならば\n制約なく使えるんですの。",
-  "en": "",
-  "status": "todo",
+  "en": "Cards with no particular conditions for use,\nsuch as 'Banish', I can use without\nrestriction.",
+  "status": "done",
   "slots": [
    "0x1b9e"
   ],
@@ -2529,8 +2529,8 @@
  {
   "id": "c7:057d6",
   "jp": "スキルはデュエルの華。\nあぁ、素晴らしき私の特性！\nアーンド有能さ。優美ですわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Skills are the flower of the duel. Ah, my\nwonderful traits! And my talent. How\nelegant.",
+  "status": "done",
   "slots": [
    "0x1bb0"
   ],
@@ -2539,8 +2539,8 @@
  {
   "id": "c7:05825",
   "jp": "ハン！\nスキルなんてなぁ。\n最強の俺にはいらねぇんだよぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hah! Skills? The strongest guy around, me,\ndon't need 'em!",
+  "status": "done",
   "slots": [
    "0x1bc2"
   ],
@@ -2549,8 +2549,8 @@
  {
   "id": "c7:0585e",
   "jp": "俺の突撃は誰にも止められねぇ！\n竪琴でチンタラ演奏するぐらいなら\n俺はコイツで敵を殴る！",
-  "en": "",
-  "status": "todo",
+  "en": "Nobody can stop my charge! Instead of\nplinkin' away on some harp, I'll punch the\nenemy with these!",
+  "status": "done",
   "slots": [
    "0x1bce"
   ],
@@ -2559,8 +2559,8 @@
  {
   "id": "c7:058b5",
   "jp": "反撃は好きにさせてやる！\n俺の突撃を耐えたご褒美って\nやつよぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "They can counter all they want! Call it a\nreward for survivin' my charge!",
+  "status": "done",
   "slots": [
    "0x1bd5"
   ],
@@ -2569,8 +2569,8 @@
  {
   "id": "c7:058f4",
   "jp": "普通の打撃ユニットと一緒だぁ？\nだからどうしたバカヤロウ！",
-  "en": "",
-  "status": "todo",
+  "en": "The same as a regular striking unit? So\nwhat, ya moron!",
+  "status": "done",
   "slots": [
    "0x1bdc"
   ],
@@ -2579,8 +2579,8 @@
  {
   "id": "c7:0592e",
   "jp": "俺はなぁ、どんなユニットでも\n相性が有利なんだよ！\nザコと一緒にするんじゃねぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "I've got the advantage against any unit, ya\nhear! Don't lump me in with the small fry!",
+  "status": "done",
   "slots": [
    "0x1be3"
   ],
@@ -2589,8 +2589,8 @@
  {
   "id": "c7:0597d",
   "jp": "だから俺にスキルなんていらねぇ\nむしろ邪魔だ！",
-  "en": "",
-  "status": "todo",
+  "en": "So I don't need no skills. They'd just get in\nthe way!",
+  "status": "done",
   "slots": [
    "0x1bea"
   ],
@@ -2599,8 +2599,8 @@
  {
   "id": "c7:059ab",
   "jp": "男なら腕一本で勝負！\nなぁ？　そうだろ？",
-  "en": "",
-  "status": "todo",
+  "en": "A man fights with his fists alone! Right?\nAin't that so?",
+  "status": "done",
   "slots": [
    "0x1bf1"
   ],
@@ -2609,8 +2609,8 @@
  {
   "id": "c7:059d3",
   "jp": "あ、言い忘れていましたが\nフォーメーションタイプは\nそれぞれの性別に依存しますわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, I forgot to mention: formation types\ndepend on each gender.",
+  "status": "done",
   "slots": [
    "0x1c08"
   ],
@@ -2619,8 +2619,8 @@
  {
   "id": "c7:05a24",
   "jp": "つまり、『昼間』と『夕方』は\n『＋』タイプで、『夜間』は\n『×』タイプということです。",
-  "en": "",
-  "status": "todo",
+  "en": "That is, 'Day' and 'Evening' are the '+' type,\nand 'Night' is the 'X' type.",
+  "status": "done",
   "slots": [
    "0x1c0f"
   ],
@@ -2629,8 +2629,8 @@
  {
   "id": "c7:05a79",
   "jp": "とまぁ、クセの強いユニットなのは\n間違いねぇが。",
-  "en": "",
-  "status": "todo",
+  "en": "So yeah, I'm a unit with some real quirks, no\ndoubt about it.",
+  "status": "done",
   "slots": [
    "0x1c21"
   ],
@@ -2639,8 +2639,8 @@
  {
   "id": "c7:05aa9",
   "jp": "それを使いこなしてこそ\n最強ってやつだろ！",
-  "en": "",
-  "status": "todo",
+  "en": "But master that, and that's what bein' the\nstrongest is all about!",
+  "status": "done",
   "slots": [
    "0x1c33"
   ],
@@ -2649,8 +2649,8 @@
  {
   "id": "c7:05ad3",
   "jp": "せいぜい頑張りな！\nじゃあな。",
-  "en": "",
-  "status": "todo",
+  "en": "Give it your best shot! See ya.",
+  "status": "done",
   "slots": [
    "0x1c3a"
   ],
@@ -2659,8 +2659,8 @@
  {
   "id": "c7:05af1",
   "jp": "さて、次の遺跡へ向かうわけだが。\nイシュト、航路はお前に任せる。",
-  "en": "",
-  "status": "todo",
+  "en": "So, we're headin' for the next ruin. Ishut, I'm\nleavin' the course to you.",
+  "status": "done",
   "slots": [
    "0x1171"
   ],
@@ -2669,8 +2669,8 @@
  {
   "id": "c7:05b31",
   "jp": "うえぇ！？　い、いいのかよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaa!? Y-You sure?",
+  "status": "done",
   "slots": [
    "0x1183"
   ],
@@ -2679,8 +2679,8 @@
  {
   "id": "c7:05b4e",
   "jp": "ルルゥはお前が連れてきたんだろ？\nなら、舵はお前が握ってるような\nモンだ。",
-  "en": "",
-  "status": "todo",
+  "en": "You're the one who brought Ruru along,\nright? Then you're the one holdin' the\nwheel, more or less.",
+  "status": "done",
   "slots": [
    "0x1195"
   ],
@@ -2689,8 +2689,8 @@
  {
   "id": "c7:05b97",
   "jp": "ん～、わかったけどよぉ。\nどうやって航路を選べばいいんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, okay, but... how do I choose a course?",
+  "status": "done",
   "slots": [
    "0x11a7"
   ],
@@ -2699,29 +2699,29 @@
  {
   "id": "c7:05bd1",
   "jp": "航路を選択する画面に入ると、\n地図が表示される。",
-  "en": "",
-  "status": "todo",
+  "en": "When you enter the course selection screen,\na map is shown.",
+  "status": "done",
   "slots": []
  },
  {
   "id": "c7:05c01",
   "jp": "Ｌボタン／Ｒボタンで、\n航路を決めろ。",
-  "en": "",
-  "status": "todo",
+  "en": "Pick a course with the L button and R button.",
+  "status": "done",
   "slots": []
  },
  {
   "id": "c7:05c27",
   "jp": "航路の先によって\n戦場や敵勢力が異なるのは\n言うまでもないが。",
-  "en": "",
-  "status": "todo",
+  "en": "It goes without saying that the battlefield\nand enemy forces differ depending on where\nthe course leads.",
+  "status": "done",
   "slots": []
  },
  {
   "id": "c7:05c64",
   "jp": "海賊経験豊富な俺様が、航路先の\n概要や難易度を教えてやるから、\n参考にしろ。",
-  "en": "",
-  "status": "todo",
+  "en": "The great me, with all my pirate experience,\nwill tell ya the outline and difficulty of each\ndestination, so use it as a guide.",
+  "status": "done",
   "slots": [
    "0x11bf"
   ],
@@ -2730,8 +2730,8 @@
  {
   "id": "c7:05caf",
   "jp": "自分の実力に合った\n航路を選べってことだな。",
-  "en": "",
-  "status": "todo",
+  "en": "So I pick a course that matches how strong I\nam.",
+  "status": "done",
   "slots": [
    "0x11d1"
   ],
@@ -2740,8 +2740,8 @@
  {
   "id": "c7:05cdb",
   "jp": "低い難易度の航路を選んで\n確実に進むもよし……",
-  "en": "",
-  "status": "todo",
+  "en": "You can pick a low-difficulty course and\nadvance steadily...",
+  "status": "done",
   "slots": [
    "0x11e3"
   ],
@@ -2750,8 +2750,8 @@
  {
   "id": "c7:05d09",
   "jp": "逆に、高い難易度の航路を選んで\nレベルの底上げを狙うのも\nひとつの選択だな。",
-  "en": "",
-  "status": "todo",
+  "en": "Or the other way round, pick a\nhigh-difficulty course and aim to raise your\nlevels. That's an option too.",
+  "status": "done",
   "slots": [
    "0x11ea"
   ],
@@ -2760,8 +2760,8 @@
  {
   "id": "c7:05d54",
   "jp": "なるほどな……。",
-  "en": "",
-  "status": "todo",
+  "en": "I see...",
+  "status": "done",
   "slots": [
    "0x11fc"
   ],
@@ -2770,8 +2770,8 @@
  {
   "id": "c7:05d65",
   "jp": "そんなこんなで次の遺跡へ向かう\nわけだ。\nわかったな？",
-  "en": "",
-  "status": "todo",
+  "en": "And that's how we head to the next ruin.\nGot it?",
+  "status": "done",
   "slots": [
    "0x1214"
   ],
@@ -2790,8 +2790,8 @@
  {
   "id": "c7:05da1",
   "jp": "あ！　一つだけ言い忘れてた。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh! There's one thing I forgot to tell ya.",
+  "status": "done",
   "slots": [
    "0x1238"
   ],
@@ -2800,8 +2800,8 @@
  {
   "id": "c7:05dbe",
   "jp": "俺達の世間での評判次第で、\n航路が制限されるかもしれねぇから\n評価値には注意しろよな？",
-  "en": "",
-  "status": "todo",
+  "en": "Dependin' on our reputation out in the world,\nour courses might be limited, so keep an eye\non your rating, ya hear?",
+  "status": "done",
   "slots": [
    "0x123f"
   ],
