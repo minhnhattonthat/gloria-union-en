@@ -31,7 +31,7 @@ The index holds no widths: glyphs sit in fixed cells, so spacing comes from code
 | 1 (dialogue) | font A, sub 1/2 | 20x20, 25x25 | 625 | 4 | 2096 | 404 |
 | 2 | font C, sub 5/6 | 14x16, 36x32 | 1152 | 2 | 1562 | 742 |
 | 3 (name tags) | font B, sub 3/4 | 24x24, 21x21 | 441 | 2 | 758 | 124 |
-| 4 | digits in the writer: glyph n at `(n % 10) * 12, (n / 10) * 12` | 12x12 | | | | |
+| 4 | id 3 section 1 sub 0 (128x216, 10 a row, codes at EBOOT 0x2BE4BE); English via a VWF sheet since 2026-11-08 | 12x12 | | | 180 | |
 
 ## Graphics-text survey: static sweep done
 

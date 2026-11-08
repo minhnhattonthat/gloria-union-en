@@ -10,9 +10,10 @@ import gu
 ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
 ap.add_argument('state'); ap.add_argument('keys', nargs='*'); ap.add_argument('--out'); ap.add_argument('--shot', default='work/qa/step/shot.png')
 ap.add_argument('--gap', type=int, default=60); ap.add_argument('--each', action='store_true', help='also shot each step: <shot>.N.png')
+ap.add_argument('--iso', default=gu.ORIG, help='the build the state was saved on (files load from it)')
 a = ap.parse_args()
 d = os.path.dirname(a.shot)
-g = gu.Game(gu.ORIG, d, a.state)
+g = gu.Game(a.iso, d, a.state)
 g.watch_files()
 g.run(2)
 for i, k in enumerate(a.keys):

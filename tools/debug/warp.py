@@ -16,7 +16,7 @@ from scenes import KEYS, scenes
 ROOT = 'work/qa/warp'
 WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000}   # kinds that may need mashing to the proof; the rest are there
 # stage scripts open before the fade in
-SHOT_AFTER = 40   # frames from a text's first draw to its shot (log_text shots): past window fade-ins
+SHOT_AFTERS = [40]   # frames from a text's first draw to its shots (log_text shots): past window fade-ins; --shot-after
 SETTLE = {'stage': 480, 'game_over': 900, 'skill_cutin': 270}   # the defeat line types out; the skill's card and motto are up about 270 frames after it fires
 
 
@@ -39,7 +39,8 @@ def press(g, keys):
 def log_text(g, path, shots=False):
     """Hook the text writer 0xA222C: one TSV row per (window, font, text) drawn, with the window's geometry
     (docs/re/text.md, Text renderer). A typewriter window (t3 = 1) is logged at its first character.
-    shots: a shot SHOT_AFTER frames after a text is first drawn (t000.png, ...; shared by texts drawn meanwhile),
+    shots: a shot SHOT_AFTERS[0] frames after a text is first drawn (t000.png, ...; shared by texts drawn meanwhile;
+    t000_<N>.png for each later delay N),
     named in the row's last column, so every window met on a tour has a frame showing it (width gate)."""
     seen = set()
     f = open(path, 'w', encoding='utf8')
@@ -48,9 +49,11 @@ def log_text(g, path, shots=False):
 
     def shot_name(g):
         if not shots: return ''
-        if g.later: return g.later[-1][2]
+        if g.later: return g.later[0][2]
         name = f't{n[0]:03d}.png'; n[0] += 1
-        g.later.append((g.frame() + SHOT_AFTER, lambda g: g.shot(name), name))
+        for i, after in enumerate(SHOT_AFTERS):   # later shots: t000_<frames>.png, for windows that slide in
+            nm = name if i == 0 else name.replace('.png', f'_{after}.png')
+            g.later.append((g.frame() + after, lambda g, nm=nm: g.shot(nm), name))
         return name
 
     def hit(g, r):
@@ -112,10 +115,12 @@ def main():
     ap.add_argument('--text-log', action='store_true', help='log every text the writer draws to <scene>/text.tsv')
     ap.add_argument('--shots', action='store_true', help='with --text-log: a shot of each new text (t000.png...)')
     ap.add_argument('--root', default=ROOT, help=f'output folder (default {ROOT})')
+    ap.add_argument('--shot-after', default='40', help='with --shots: frame delays after a text first draws, e.g. 40,150,400')
     ap.add_argument('--all', action='store_true'); ap.add_argument('--jobs', type=int, default=4); ap.add_argument('--match', default='')
     a = ap.parse_args()
     globals()['ROOT'] = a.root
-    flags = ['--root', a.root] + ['--text-log'] * a.text_log + ['--shots'] * a.shots
+    SHOT_AFTERS[:] = [int(x) for x in a.shot_after.split(',')]
+    flags = ['--root', a.root, '--shot-after', a.shot_after] + ['--text-log'] * a.text_log + ['--shots'] * a.shots
     if not a.all:
         try: ok, info = go(a.scene, a.iso, a.state_out, a.text_log and ('shots' if a.shots else 'log'))
         except Exception as e: ok, info = False, f'crash {e!r}'

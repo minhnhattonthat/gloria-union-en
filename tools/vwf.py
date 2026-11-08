@@ -279,6 +279,109 @@ ch_done:
   lh $a0, 0($s0)
   jr $ra
   move $a1, $t0
+vlen:
+  move $t8, $ra
+  bal getdata
+  nop
+  sw $a0, 64($v0)
+  move $ra, $t8
+  j 0x14f37c
+  nop
+vwidth:
+  addiu $sp, $sp, -16
+  sw $ra, 0($sp)
+  sw $a0, 4($sp)
+  sw $a2, 8($sp)
+  jal 0xa1a38
+  andi $a0, $a2, 0xff
+  lw $a0, 4($sp)
+  lh $t0, 8($a0)
+  addu $t6, $v0, $t0
+  bal getdata
+  nop
+  lw $t1, 64($v0)
+  lw $a2, 8($sp)
+  andi $t2, $a2, 0xff
+  sltiu $t3, $t2, 16
+  bnez $t3, vw_f
+  nop
+  addiu $t2, $t2, -16
+vw_f:
+  addiu $t3, $t2, -1
+  sltiu $t4, $t3, 4
+  beqz $t4, vw_nof
+  move $t5, $zero
+  sll $t3, $t3, 4
+  addu $t3, $v0, $t3
+  lw $t5, 4($t3)
+vw_nof:
+  move $v1, $zero
+vw_loop:
+  lbu $t0, 0($t1)
+  beqz $t0, vw_end
+  sltiu $t3, $t0, 0x80
+  bnez $t3, vw_asc
+  nop
+  addu $v1, $v1, $t6
+  b vw_loop
+  addiu $t1, $t1, 2
+vw_asc:
+  sltiu $t3, $t0, 0x20
+  bnez $t3, vw_next
+  nop
+  beqz $t5, vw_half
+  addiu $t3, $t0, -0x20
+  sll $t3, $t3, 1
+  addu $t3, $t5, $t3
+  lbu $t3, 1($t3)
+  b vw_next
+  addu $v1, $v1, $t3
+vw_half:
+  srl $t3, $t6, 1
+  addu $v1, $v1, $t3
+vw_next:
+  b vw_loop
+  addiu $t1, $t1, 1
+vw_end:
+  sll $v0, $v1, 16
+  sra $v0, $v0, 16
+  lw $ra, 0($sp)
+  jr $ra
+  addiu $sp, $sp, 16
+vcells:
+  move $t8, $ra
+  bal getdata
+  nop
+  move $ra, $t8
+  lw $t5, 4($v0)
+  move $v1, $zero
+vc_loop:
+  lbu $t0, 0($a0)
+  beqz $t0, vc_end
+  sltiu $t3, $t0, 0x80
+  bnez $t3, vc_asc
+  nop
+  addiu $v1, $v1, 20
+  b vc_loop
+  addiu $a0, $a0, 2
+vc_asc:
+  sltiu $t3, $t0, 0x20
+  bnez $t3, vc_next
+  addiu $t3, $t0, -0x20
+  sll $t3, $t3, 1
+  addu $t3, $t5, $t3
+  lbu $t3, 1($t3)
+  addu $v1, $v1, $t3
+vc_next:
+  b vc_loop
+  addiu $a0, $a0, 1
+vc_end:
+  addiu $v1, $v1, 19
+  ori $t3, $zero, 20
+  divu $zero, $v1, $t3
+  mflo $v0
+  jr $ra
+  sll $v0, $v0, 1
 cols3:
   sll $t0, $s2, 1
   addu $s2, $s2, $t0
@@ -298,7 +401,8 @@ def patch(e):
         tex = ptx_loaded(e, idx, pal)
         wt = e.add(bytes(x for p in widths for x in p))
         recs.append((tex, wt, STYLE[font]['cw'], STYLE[font]['ch']))
-    data = e.add(b''.join(struct.pack('<IIHHI', *r, 0) for r in recs), 16)
+    # 4 font records, then at +64 the string vlen last measured (read by vwidth)
+    data = e.add(b''.join(struct.pack('<IIHHI', *r, 0) for r in recs) + bytes(16), 16)
     for i in range(4):
         e.reloc(data + 16 * i, 'R_MIPS_32')
         e.reloc(data + 16 * i + 4, 'R_MIPS_32')
@@ -325,6 +429,19 @@ def patch(e):
     e.jal(0xA3188, names['chain'], expect='1e000596', by='vwf: chain after absolute cells')
     # title OPTION rows: the menu places and fades in only 10 cells a row (loop at 0x12EBC0); cells 10+ follow by
     # chain and show at once. Widening that loop to 30 hid cells 10+ (0xA4370 per column?): left as is.
+    # stage intro win/lose conditions (layout loop 0x143E10, windows at x 480): the loop places SJIS cells and only
+    # the ASCII bytes 'o' and 'r' (of "AorB") absolutely; other ASCII stayed relative to the off-screen window.
+    # Every ASCII byte now takes the 'o' path (placed at the line's x), and chain lays the rest out proportionally.
+    e.put(0x1440B8, bytes(4), expect='0a008614', by='vwf: win conditions place ASCII')
+    # text width helper 0xA4A3C(win, count, font) = count x pitch; six callers pass strlen / 2 to centre or right-align
+    # a string (unit name bar 0x7404, map headers 0xC1xxx...): their strlen goes through vlen (keeps the string) and
+    # the helper call through vwidth (VWF advances for ASCII, the pitch per SJIS character)
+    for site in (0x74B0, 0xB7C70, 0xC198C, 0xC1A80, 0xC1B0C, 0xC1C08):
+        e.jal(site - 0x18, names['vlen'], expect='df3c050c', by='vwf: width by advances (strlen)')
+        e.jal(site, names['vwidth'], expect='8f92020c', by='vwf: width by advances')
+    # battle bark bubble (0x4C238, font 17): strlen / 2 kept as its cell count (bubble size, centring at 20 px a
+    # cell); vcells returns 2 x the font 1 VWF width in 20 px cells, rounded up
+    e.jal(0x4C27C, names['vcells'], expect='df3c050c', by='vwf: bark bubble cells by advances')
     # setSize: 3x columns
     e.jal(0xA3C94, names['cols3'], expect='18005102', by='vwf: setSize 3x cols')
     # dialogue window (0x10BE88, story and tutorial talk): 4 rows at a 16 px pitch instead of 3 at 22, same box

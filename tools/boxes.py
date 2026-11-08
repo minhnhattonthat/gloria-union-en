@@ -50,6 +50,27 @@ BUDGETS = {
     '2/13/14/1': (190, 1, 'measured: gate3/29 tactics card Info bar, screen edge at +197'),
     '2/15/14/2': (195, 2, 'measured: gate3/30 card data effect lines, screen edge at ~200'),
     '2/15/376/1': (480, 1, 'measured: gate3/31 card data top ticker (scrolls); 45-cell cap'),
+    # fit sweep 3 (work/qa/fitsweep3, one shot per class in work/qa/gate4/)
+    '1/12/20/2': (185, 2, 'measured: gate4/03 map menu right column, x 242 to the count field at ~435'),
+    '3/15/22/1': (245, 1, 'measured: gate4/38 name tag, the plate ends near the 250 label; text past it draws on the map'),
+    '3/20/22/1': (175, 1, 'measured: f4fix/menu_full_map/t024 header centred between the L and R arrows (~180 px); '
+                          'a 40-char ruler drew stray glyphs at chars ~11 and ~33 (gate4/39): recheck real text in phase 7'),
+    '4/20/12/10': (72, 1, 'measured: f4vwf/battle_result/t066 HUD unit name, the G/A/T gauges start at +75'),
+    '4/20/12/6': (80, 1, 'measured: fm/step.png.01 full map unit placement lists, x 395 to the screen edge'),
+    '1/30/19/1': (400, 1, 'measured: wincond/stage_3_07_B/proof.png win condition, x 70 to the screen edge'),
+    '1/30/19/2': (425, 2, 'measured: wincond/stage_3_07_B/proof.png lose conditions, x 45 to the screen edge'),
+    '1/30/19/3': (425, 3, 'measured: wincond/stage_3_07_B/proof.png lose conditions, x 45 to the screen edge'),
+    '1/15/20/1': (200, 1, 'measured: fitslide2/battle_result/t033 unit name bar, right-aligned at x 211 (vwidth), bar can '
+                          'reach the screen edge'),
+    '1/20/20/1': (350, 1, 'measured: fitslide2/battle_result/t049 bark bubble x 67..~420; ruler cut by the 60-cell cap'),
+    '2/5/14/1': (80, 1, 'measured: fitslide2/battle_result/t055 Factor values column, x 115 to the % art at ~200 (printf: '
+                        'byte limits in tbl/fmtbuf.tsv apply first)'),
+    '2/4/14/1': (56, 1, 'guess: fitslide2/battle_result/t055 Factor RESULT value; original width'),
+    '2/16/14/5': (145, 5, 'measured: fitslide2/char_status/t009 Notice rows from x 327, screen edge at ~150'),
+    '1/43/500/1': (860, 1, 'measured: fitslide2/card_data/t010 top ticker scrolls; 129-cell cap (~860 px of font 1)'),
+    '1/21/20/3': (400, 3, 'measured: fitslide/battle_result/t024_150 black panel, ruler cut by the 63-cell cap at ~400'),
+    '2/10/14/1': (140, 1, 'guess: card data skill name drawn faded behind the card art (fitslide2/card_data/t010); '
+                          'original width'),
     '2/22/14/2': (225, 2, 'measured: gate3/33 card select bottom, line 2 starts after its label and meets Total Move at ~227'),
 }
 # a line also stops at 3 x the original columns (setSize), whatever its width: see cell_cap()
