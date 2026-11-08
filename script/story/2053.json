@@ -123,7 +123,7 @@
  {
   "id": "s2053:001aa",
   "jp": "アッ、ハハハハハハ！！\nヒー、ヒー！　は、腹いてぇ！\nおおお！！　だってよ！",
-  "en": "Ah, hahahahahaha!! Hee, hee! M-my gut\nhurts! \"Whoooaaa!!\" he says!",
+  "en": "Ah, hahahahahaha!! Hee, hee!\nM-my gut hurts! \"Whoooaaa!!\" he says!",
   "status": "done",
   "slots": [
    "0x1588"
@@ -134,7 +134,7 @@
  {
   "id": "s2053:001f9",
   "jp": "笑うな親父！　クソ！\nなんだよ、コイツ！",
-  "en": "Don't laugh, Dad! Damn it! What the hell is\nthis thing!?",
+  "en": "Don't laugh, Dad! Damn it!\nWhat the hell is this thing!?",
   "status": "done",
   "slots": [
    "0x15c4"
@@ -211,7 +211,7 @@
  {
   "id": "s2053:002a1",
   "jp": "馬鹿な！？　独りでに動く鎧など\n聞いたことがないぞ！",
-  "en": "Impossible!? I have never heard of armour\nthat moves on its own!",
+  "en": "Impossible!? I have never heard\nof armour that moves on its own!",
   "status": "done",
   "slots": [
    "0x1726"
@@ -222,7 +222,7 @@
  {
   "id": "s2053:002d9",
   "jp": "魔法で操ってる感じもないし……\nなによこれぇ！？",
-  "en": "It doesn't feel like magic is controlling it...\nWhat is this thing!?",
+  "en": "It doesn't feel like magic is\ncontrolling it... What is this thing!?",
   "status": "done",
   "slots": [
    "0x175e"
@@ -255,7 +255,7 @@
  {
   "id": "s2053:0034c",
   "jp": "そこ、のん気に話してない！\n早く止めないとなんかヤバそうよ！",
-  "en": "You two, stop chatting! If we don't stop it\nfast, this looks bad!",
+  "en": "You two, stop chatting!\nIf we don't stop it fast, this looks bad!",
   "status": "done",
   "slots": [
    "0x17ba"
@@ -277,7 +277,7 @@
  {
   "id": "s2053:003a5",
   "jp": "痛い？　助けて？　……ッ！\nなんで？　私、アナタの言葉が\nわかる！",
-  "en": "It hurts? Help you? ...! How? I can\nunderstand what you're saying!",
+  "en": "It hurts? Help you? ...! How?\nI can understand what you're saying!",
   "status": "done",
   "slots": [
    "0x250b"
@@ -288,7 +288,7 @@
  {
   "id": "s2053:003ea",
   "jp": "てめぇこの野郎！\nよくも俺に恥をかかせたな！\n成敗してやる！",
-  "en": "You bastard! How dare you embarrass me!\nI'll punish you!",
+  "en": "You bastard! How dare you\nembarrass me! I'll punish you!",
   "status": "done",
   "slots": [
    "0x22f9"
@@ -308,7 +308,7 @@
  {
   "id": "s2053:0043e",
   "jp": "ん～、なんか。迫力に欠ける\n外見ですねぇ。\n力が抜ける気がしますよ。",
-  "en": "Hmm, somehow. Its looks lack punch. It kind\nof takes the fight out of me.",
+  "en": "Hmm, somehow. Its looks lack punch.\nIt kind of takes the fight out of me.",
   "status": "done",
   "slots": [
    "0x23e6"
@@ -328,7 +328,7 @@
  {
   "id": "s2053:0049e",
   "jp": "うわ！　今銃弾ハジかなかった！？\nどんな体してんのよ……。",
-  "en": "Whoa! Did it just deflect my bullet!? What\nkind of body does it have...",
+  "en": "Whoa! Did it just deflect my bullet!?\nWhat kind of body does it have...",
   "status": "done",
   "slots": [
    "0x25df"
@@ -348,7 +348,7 @@
  {
   "id": "s2053:004ef",
   "jp": "鉄は斬った事ねぇからなぁ。\nどうなんだ？　これ。",
-  "en": "I ain't ever cut iron before. How's this gonna\ngo?",
+  "en": "I ain't ever cut iron before.\nHow's this gonna go?",
   "status": "done",
   "slots": [
    "0x26cc"
@@ -398,7 +398,7 @@
  {
   "id": "s2053:00596",
   "jp": "うーん、\nゴーレムとも違うみたいだし。\nなんなんだろう？　この子。",
-  "en": "Hmm, it doesn't seem like a golem either.\nWhat is this thing?",
+  "en": "Hmm, it doesn't seem like a\ngolem either. What is this thing?",
   "status": "done",
   "slots": [
    "0x28c9"
@@ -418,7 +418,7 @@
  {
   "id": "s2053:005ec",
   "jp": "まぁまぁ落ち着いて、\nここはお茶でも飲んで、\n一休みっすよ。",
-  "en": "Now, now, calm down. Let's have some tea\nand take a break, sir.",
+  "en": "Now, now, calm down. Let's have\nsome tea and take a break, sir.",
   "status": "done",
   "slots": [
    "0x29b6"
@@ -438,7 +438,7 @@
  {
   "id": "s2053:0063e",
   "jp": "海に浸かってもまだ動くのか。\nすごいな、この機械。",
-  "en": "It still moves even after being soaked in the\nsea. Amazing, this machine.",
+  "en": "It still moves even after being soaked\nin the sea. Amazing, this machine.",
   "status": "done",
   "slots": [
    "0x2aa3"
@@ -458,7 +458,7 @@
  {
   "id": "s2053:0068b",
   "jp": "この暴走がなければ、\nもっとよかったのだが……。",
-  "en": "If only it didn't go berserk, it'd be even\nbetter...",
+  "en": "If only it didn't go berserk,\nit'd be even better...",
   "status": "done",
   "slots": [
    "0x2ad6"
@@ -490,7 +490,7 @@
  {
   "id": "s2053:006ff",
   "jp": "これだけ攻撃しても止まるだけ\nなんて、反則よぉ。",
-  "en": "All that attacking and it only stopped?\nThat's cheating.",
+  "en": "All that attacking and it only\nstopped? That's cheating.",
   "status": "done",
   "slots": [
    "0x3639"
@@ -512,7 +512,7 @@
  {
   "id": "s2053:00752",
   "jp": "私の名前はガングです。\n先ほどは申し訳ありませんでした。\nって言ってるよ。",
-  "en": "It says, \"My name is Gangr. I apologise for\nearlier.\"",
+  "en": "It says, \"My name is Gangr.\nI apologise for earlier.\"",
   "status": "done",
   "slots": [
    "0x366b"
@@ -545,7 +545,7 @@
  {
   "id": "s2053:007d5",
   "jp": "人工知能まであるのか……。\nもしや、遺跡が関係している\n可能性もあるな。",
-  "en": "It even has artificial intelligence... Perhaps\nit may be connected to the ruins.",
+  "en": "It even has artificial intelligence...\nPerhaps it may be connected to the ruins.",
   "status": "done",
   "slots": [
    "0x36b6"
@@ -578,7 +578,7 @@
  {
   "id": "s2053:0086f",
   "jp": "遺跡に入った侵入者が、\nガングを海に落としたみたい。",
-  "en": "Looks like an intruder in the ruins knocked\nGangr into the sea.",
+  "en": "Looks like an intruder in the ruins\nknocked Gangr into the sea.",
   "status": "done",
   "slots": [
    "0x372b"
@@ -589,7 +589,7 @@
  {
   "id": "s2053:008a7",
   "jp": "なるほど、彼（？）は\n遺跡を守るようプログラムされた。\nいわば古代兵器というやつか。",
-  "en": "I see. He (?) was programmed to guard the\nruins. An ancient weapon, so to speak.",
+  "en": "I see. He (?) was programmed to guard\nthe ruins. An ancient weapon, so to speak.",
   "status": "done",
   "slots": [
    "0x3744"
@@ -655,7 +655,7 @@
  {
   "id": "s2053:009ca",
   "jp": "この方向からだと……土の遺跡\n“大地の槍”だね。",
-  "en": "From this direction... the earth ruins, \"Earth\nSpear\".",
+  "en": "From this direction...\nthe earth ruins, \"Earth Spear\".",
   "status": "done",
   "slots": [
    "0x3809"
@@ -666,7 +666,7 @@
  {
   "id": "s2053:009fe",
   "jp": "槍？　遺跡って建物じゃないのか？",
-  "en": "A spear? Ain't ruins supposed to be\nbuildings?",
+  "en": "A spear? Ain't ruins\nsupposed to be buildings?",
   "status": "done",
   "slots": [
    "0x381f"
@@ -699,7 +699,7 @@
  {
   "id": "s2053:00a72",
   "jp": "大地の槍かぁ……どんなところ\nなんだろうなぁ。",
-  "en": "Earth Spear, huh... Wonder what kind of\nplace it is.",
+  "en": "Earth Spear, huh...\nWonder what kind of place it is.",
   "status": "done",
   "slots": [
    "0x3875"
@@ -732,7 +732,7 @@
  {
   "id": "s2053:00af1",
   "jp": "ダメージガ一定ヲ通過。\n自爆プログラム、作動シマス。",
-  "en": "Damage has passed. Threshold. Activating\nself-destruct. Program.",
+  "en": "Damage has passed. Threshold.\nActivating self-destruct. Program.",
   "status": "done",
   "slots": [
    "0x2bbc"
@@ -765,7 +765,7 @@
  {
   "id": "s2053:00b61",
   "jp": "うーん、どうやら一気に士気を\n下げすぎたようだね。",
-  "en": "Hmm, looks like we lowered its morale too\nmuch all at once.",
+  "en": "Hmm, looks like we lowered its\nmorale too much all at once.",
   "status": "done",
   "slots": [
    "0x2c12"
@@ -808,7 +808,7 @@
  {
   "id": "s2053:00be9",
   "jp": "なんだ、このカケラ……\nスゲェ力を感じるぞ……！",
-  "en": "What's this shard... I can feel incredible\npower from it...!",
+  "en": "What's this shard... I can feel\nincredible power from it...!",
   "status": "done",
   "slots": [
    "0x1901"
@@ -828,7 +828,7 @@
  {
   "id": "s2053:00c26",
   "jp": "ただの石ではないようですね……。\n考古学に疎いボクにでもわかる\nぐらいですからね。",
-  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows nothing of\narchaeology can tell.",
+  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows\nnothing of archaeology can tell.",
   "status": "done",
   "slots": [
    "0x1998"
@@ -888,7 +888,7 @@
  {
   "id": "s2053:00d2c",
   "jp": "遺跡の欠片か。\n海から流れてきたのか……？",
-  "en": "A ruin shard, huh. Did it wash up from the\nsea...?",
+  "en": "A ruin shard, huh.\nDid it wash up from the sea...?",
   "status": "done",
   "slots": [
    "0x1b5d"
@@ -908,7 +908,7 @@
  {
   "id": "s2053:00d63",
   "jp": "紛れもなくこれは遺跡の欠片……。\n実に興味深い。",
-  "en": "There is no mistaking it: a ruin shard... Truly\nfascinating.",
+  "en": "There is no mistaking it: a\nruin shard... Truly fascinating.",
   "status": "done",
   "slots": [
    "0x1bf4"
@@ -928,7 +928,7 @@
  {
   "id": "s2053:00db4",
   "jp": "この石から、すっごいたくさんの\nウィルを感じるよ！",
-  "en": "Locomoco can feel sooo much Will from this\nstone!",
+  "en": "Locomoco can feel sooo\nmuch Will from this stone!",
   "status": "done",
   "slots": [
    "0x1c8b"
@@ -958,7 +958,7 @@
  {
   "id": "s2053:00e17",
   "jp": "遺跡の欠片じゃないですか！\nな、なんでこんな所に……。",
-  "en": "Isn't that a ruin shard!? Wh-why is it in a\nplace like this...",
+  "en": "Isn't that a ruin shard!?\nWh-why is it in a place like this...",
   "status": "done",
   "slots": [
    "0x1d3b"
@@ -968,7 +968,7 @@
  {
   "id": "s2053:00e4d",
   "jp": "この石、えもいえぬ威圧感を\n感じるな……。",
-  "en": "This stone gives off an indescribable\npressure...",
+  "en": "This stone gives off an\nindescribable pressure...",
   "status": "done",
   "slots": [
    "0x1d8e"
@@ -998,7 +998,7 @@
  {
   "id": "s2053:00eb7",
   "jp": "持ってるだけで力が湧いてくると\n言うか。地面からエネルギーを\n吸い取ってるような感じがします。",
-  "en": "Just holding it, I feel power welling up, or\nrather... it feels like it's drawing energy\nfrom the ground.",
+  "en": "Just holding it, I feel power welling up,\nor rather... it feels like it's\ndrawing energy from the ground.",
   "status": "done",
   "slots": [
    "0x1e70"
@@ -1048,7 +1048,7 @@
  {
   "id": "s2053:00f91",
   "jp": "な、なんだこの不思議な石は。\n見た目以上に重く感じる……。",
-  "en": "Wh-what is this strange stone? It feels\nheavier than it looks...",
+  "en": "Wh-what is this strange stone?\nIt feels heavier than it looks...",
   "status": "done",
   "slots": [
    "0x1ff1"
@@ -1058,7 +1058,7 @@
  {
   "id": "s2053:00fcb",
   "jp": "ひょっとしたらスゴイものかも\nしれません！\n師匠に見ていただきましょう！",
-  "en": "It might be something amazing! I'll have\nMaster take a look at it!",
+  "en": "It might be something amazing!\nI'll have Master take a look at it!",
   "status": "done",
   "slots": [
    "0x2047"
@@ -1088,7 +1088,7 @@
  {
   "id": "s2053:0106a",
   "jp": "この石、なにか威圧感と言うか、\n圧迫感のようなものを感じますね。",
-  "en": "This stone gives off a kind of pressure, or\nrather an oppressive feeling.",
+  "en": "This stone gives off a kind of pressure,\nor rather an oppressive feeling.",
   "status": "done",
   "slots": [
    "0x213f"
@@ -1098,7 +1098,7 @@
  {
   "id": "s2053:010aa",
   "jp": "まぁ、簡単に言うと\n見た目より重く感じる。\nというだけなんですけど……。",
-  "en": "Well, to put it simply, it just feels heavier\nthan it looks...",
+  "en": "Well, to put it simply,\nit just feels heavier than it looks...",
   "status": "done",
   "slots": [
    "0x218a"
@@ -1108,7 +1108,7 @@
  {
   "id": "s2053:010f1",
   "jp": "お？　なんだこの石。\n見た目より随分と重いな。",
-  "en": "Oh? What's this stone? It's a lot heavier\nthan it looks.",
+  "en": "Oh? What's this stone?\nIt's a lot heavier than it looks.",
   "status": "done",
   "slots": [
    "0x21cd"

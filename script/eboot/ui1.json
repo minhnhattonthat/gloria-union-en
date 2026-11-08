@@ -2,7 +2,7 @@
  {
   "id": "e:24f00d",
   "jp": "スキルゲージは満タンのままなので、\nすぐにチャージのやり直しができます。",
-  "en": "The Skill Gauge stays full, so you can start charging again\nright away.",
+  "en": "The Skill Gauge stays full,\nso you can start charging again right away.",
   "status": "done",
   "slots": [
    "w:24f328"
@@ -11,7 +11,7 @@
  {
   "id": "e:24f055",
   "jp": "【ＫｅｅｐＯｎスキル】\n□ボタンを押している間、\nずっと効果が続く種類のスキルです。",
-  "en": "[KeepOn Skill]\nA kind of skill whose effect lasts as long as you hold the\nSquare button.",
+  "en": "[KeepOn Skill]\nA kind of skill whose effect lasts as\nlong as you hold the Square button.",
   "status": "done",
   "slots": [
    "w:24f334"
@@ -20,7 +20,7 @@
  {
   "id": "e:24f0a8",
   "jp": "途中で□ボタンを離すか、\nゲージが尽きると、効果が終了します。",
-  "en": "The effect ends when you let go of the Square button or the\ngauge runs out.",
+  "en": "The effect ends when you let go of the\nSquare button or the gauge runs out.",
   "status": "done",
   "slots": [
    "w:24f340"
@@ -243,7 +243,7 @@
  {
   "id": "e:2524c8",
   "jp": "発動中、ダメージを\n受けない",
-  "en": "No damage taken while\nactive",
+  "en": "No damage taken\nwhile active",
   "status": "done",
   "slots": [
    "w:2bca94"
@@ -261,7 +261,7 @@
  {
   "id": "e:252508",
   "jp": "冷気攻撃で敵に\nダメージを与える",
-  "en": "Damage the enemy with\ncold",
+  "en": "Damage the\nenemy with cold",
   "status": "done",
   "slots": [
    "w:2bcaac"
@@ -270,7 +270,7 @@
  {
   "id": "e:252528",
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ",
-  "en": "Power=Own TEC+2-Foe\nGEN",
+  "en": "Power=Own\nTEC+2-Foe GEN",
   "status": "done",
   "slots": [
    "w:2bcab0",
@@ -298,7 +298,7 @@
  {
   "id": "e:252584",
   "jp": "神聖攻撃で敵に\nダメージを与える",
-  "en": "Damage the enemy with\nholy power",
+  "en": "Damage the enemy\nwith holy power",
   "status": "done",
   "slots": [
    "w:2bcac4"
@@ -352,7 +352,7 @@
  {
   "id": "e:252650",
   "jp": "敵メンバーを裏切らせ\n自分の戦力にする",
-  "en": "Turn enemy members into\nyour own force",
+  "en": "Turn enemy members\ninto your own force",
   "status": "done",
   "slots": [
    "w:2bcae8"
@@ -379,7 +379,7 @@
  {
   "id": "e:2526b0",
   "jp": "敵のヘッド以外を\n全て倒す",
-  "en": "Defeat every enemy but\nthe Head",
+  "en": "Defeat every\nenemy but the Head",
   "status": "done",
   "slots": [
    "w:2bcaf4"
@@ -388,7 +388,7 @@
  {
   "id": "e:2526cc",
   "jp": "威力＝敵ヘッド以外に∞",
-  "en": "Power=Infinite, except\nfoe's Head",
+  "en": "Power=Infinite,\nexcept foe's Head",
   "status": "done",
   "slots": [
    "w:2bcaf8",
@@ -434,7 +434,7 @@
  {
   "id": "e:252754",
   "jp": "倒れた自分のメンバー\nを復活させる",
-  "en": "Revive your fallen\nmembers",
+  "en": "Revive your\nfallen members",
   "status": "done",
   "slots": [
    "w:2bcb0c"
@@ -479,7 +479,7 @@
  {
   "id": "e:2527e4",
   "jp": "一定時間、\n敵を弱めるが…",
-  "en": "Weakens the enemy for a\nwhile, but...",
+  "en": "Weakens the enemy\nfor a while, but...",
   "status": "done",
   "slots": [
    "w:2bcb24"
@@ -515,7 +515,7 @@
  {
   "id": "e:25286c",
   "jp": "効力＝同デュエル中ずっと",
-  "en": "Effect=For this whole\nDuel",
+  "en": "Effect=For\nthis whole Duel",
   "status": "done",
   "slots": [
    "w:2bcb40",
@@ -525,7 +525,7 @@
  {
   "id": "e:252888",
   "jp": "発動中、敵のＡＴＫを\n１にする",
-  "en": "While active, the foe's\nATK becomes 1",
+  "en": "While active, the\nfoe's ATK becomes 1",
   "status": "done",
   "slots": [
    "w:2bcb48"
@@ -534,7 +534,7 @@
  {
   "id": "e:2528a8",
   "jp": "つたを自在に振るい\n敵にダメージを与える",
-  "en": "Lash the enemy freely\nwith vines",
+  "en": "Lash the enemy\nfreely with vines",
   "status": "done",
   "slots": [
    "w:2bcb54"
@@ -543,7 +543,7 @@
  {
   "id": "e:2528d0",
   "jp": "威力＝自ＴＥＣ＋３－敵ＧＥＮ",
-  "en": "Power=Own TEC+3-Foe\nGEN",
+  "en": "Power=Own\nTEC+3-Foe GEN",
   "status": "done",
   "slots": [
    "w:2bcb58",
@@ -562,7 +562,7 @@
  {
   "id": "e:25291c",
   "jp": "吹きすさぶ砂嵐で\n敵にダメージを与える",
-  "en": "Damage the enemy with a\nhowling sandstorm",
+  "en": "Damage the enemy with\na howling sandstorm",
   "status": "done",
   "slots": [
    "w:2bcb60"
@@ -571,7 +571,7 @@
  {
   "id": "e:252944",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ",
-  "en": "Power=Own TEC+4-Foe\nGEN",
+  "en": "Power=Own\nTEC+4-Foe GEN",
   "status": "done",
   "slots": [
    "w:2bcb64",
@@ -592,7 +592,7 @@
  {
   "id": "e:252990",
   "jp": "泥沼に引きずりこんで\n敵にダメージを与える",
-  "en": "Drag the enemy into a\nmire for damage",
+  "en": "Drag the enemy into\na mire for damage",
   "status": "done",
   "slots": [
    "w:2bcb6c"
@@ -673,7 +673,7 @@
  {
   "id": "e:252af0",
   "jp": "敵、味方のスキルゲージを破壊",
-  "en": "Destroys both sides' Skill\nGauges",
+  "en": "Destroys both sides'\nSkill Gauges",
   "status": "done",
   "slots": [
    "w:2bcb94"
@@ -745,7 +745,7 @@
  {
   "id": "e:252bb8",
   "jp": "使用者の状態により\n与えるダメージが変化",
-  "en": "Damage varies with the\nuser's condition",
+  "en": "Damage varies with\nthe user's condition",
   "status": "done",
   "slots": [
    "w:2bcbcc"
@@ -763,7 +763,7 @@
  {
   "id": "e:252bf4",
   "jp": "ユニオン内の男性のみ\nＡＴＫとＧＥＮが上昇",
-  "en": "Raise ATK and GEN of\nUnion men only",
+  "en": "Raise ATK and GEN\nof Union men only",
   "status": "done",
   "slots": [
    "w:2bcbd8"
@@ -772,7 +772,7 @@
  {
   "id": "e:252c20",
   "jp": "効力＝同ターン内ずっと",
-  "en": "Effect=For this whole\nturn",
+  "en": "Effect=For\nthis whole turn",
   "status": "done",
   "slots": [
    "w:2bcbdc",
@@ -792,7 +792,7 @@
  {
   "id": "e:252c48",
   "jp": "狂風による攻撃で\nダメージ＋状態異常",
-  "en": "Mad-wind attack: damage\n+ ailment",
+  "en": "Mad-wind attack:\ndamage + ailment",
   "status": "done",
   "slots": [
    "w:2bcbe4"
@@ -819,7 +819,7 @@
  {
   "id": "e:252ca8",
   "jp": "ユニオン内の仲間の\nＬＵＫが上昇",
-  "en": "Raise the LUK of Union\nallies",
+  "en": "Raise the LUK\nof Union allies",
   "status": "done",
   "slots": [
    "w:2bcbf0"
@@ -828,7 +828,7 @@
  {
   "id": "e:252cc8",
   "jp": "敵ヘッド以外を\n濁流の渦に飲み込む",
-  "en": "Swallow all but the foe's\nHead in a torrent",
+  "en": "Swallow all but the\nfoe's Head in a torrent",
   "status": "done",
   "slots": [
    "w:2bcbfc"
@@ -860,7 +860,7 @@
  {
   "id": "e:252d28",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n効力＝１００％",
-  "en": "Power=Own TEC+4-Foe\nGEN\nEffect=100%",
+  "en": "Power=Own\nTEC+4-Foe GEN\nEffect=100%",
   "status": "done",
   "slots": [
    "w:2bcc0c"
@@ -878,7 +878,7 @@
  {
   "id": "e:252d7c",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n同ターン内ずっと",
-  "en": "Power=Own TEC+4-Foe\nGEN\nFor this whole turn",
+  "en": "Power=Own\nTEC+4-Foe GEN\nFor this whole turn",
   "status": "done",
   "slots": [
    "w:2bcc18",
@@ -906,7 +906,7 @@
  {
   "id": "e:252dfc",
   "jp": "敵、味方のゲージを破壊",
-  "en": "Destroys both sides'\ngauges",
+  "en": "Destroys both\nsides' gauges",
   "status": "done",
   "slots": [
    "w:2bcc30"
@@ -924,7 +924,7 @@
  {
   "id": "e:252e2c",
   "jp": "敵ダメージ＋２５％の\n確率で敵ヘッドを倒す",
-  "en": "Damage; may defeat foe's\nHead (25%)",
+  "en": "Damage; may defeat\nfoe's Head (25%)",
   "status": "done",
   "slots": [
    "w:2bcc44"
@@ -933,7 +933,7 @@
  {
   "id": "e:252e58",
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ\n成功率＝２５％",
-  "en": "Power=Own TEC+2-Foe\nGEN\nSuccess rate=25%",
+  "en": "Power=Own\nTEC+2-Foe GEN\nSuccess rate=25%",
   "status": "done",
   "slots": [
    "w:2bcc48"
@@ -1032,7 +1032,7 @@
  {
   "id": "e:252f98",
   "jp": "隕石が降り注ぎ敵味方\nどちらかにダメージ",
-  "en": "Meteors rain down and hit\none side or the other",
+  "en": "Meteors rain down and\nhit one side or the other",
   "status": "done",
   "slots": [
    "w:2bcc80"
@@ -1068,7 +1068,7 @@
  {
   "id": "e:25300c",
   "jp": "時を止めて敵に突進し\n敵にダメージを与える",
-  "en": "Stop time and rush the\nenemy for damage",
+  "en": "Stop time and rush\nthe enemy for damage",
   "status": "done",
   "slots": [
    "w:2bcc98"
@@ -1086,7 +1086,7 @@
  {
   "id": "e:253048",
   "jp": "相手の持つカードと\n同じスキル効果を発揮",
-  "en": "Use the same skill effect\nas the foe's card",
+  "en": "Use the same skill\neffect as the foe's card",
   "status": "done",
   "slots": [
    "w:2bcca4"
@@ -1627,7 +1627,7 @@
  {
   "id": "e:253a84",
   "jp": "　－ＥＸＩデータ更新－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "- Update EXI Data -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "en": "- Update EXI Data -\nMake sure a Memory Stick is inserted,\nthen press the OK button",
   "status": "done",
   "slots": [
    "i:aa6e4:aa6f4"
@@ -1636,7 +1636,7 @@
  {
   "id": "e:253ae4",
   "jp": "　　　－背景更新－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "- Update Background -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "en": "- Update Background -\nMake sure a Memory Stick is inserted,\nthen press the OK button",
   "status": "done",
   "slots": [
    "i:aa7d4:aa7e4"
@@ -1645,7 +1645,7 @@
  {
   "id": "e:253b40",
   "jp": "　　－スケール出力－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "- Output Scale -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "en": "- Output Scale -\nMake sure a Memory Stick is inserted,\nthen press the OK button",
   "status": "done",
   "slots": [
    "i:aa8e4:aa8f4"
@@ -1654,7 +1654,7 @@
  {
   "id": "e:253ba0",
   "jp": "　－スケール読み込み－\nメモリースティックが\n差さっていることを確認し\n決定ボタンを押してください",
-  "en": "- Load Scale -\nMake sure a Memory Stick is inserted, then press the OK\nbutton",
+  "en": "- Load Scale -\nMake sure a Memory Stick is inserted,\nthen press the OK button",
   "status": "done",
   "slots": [
    "i:aa9dc:aa9ec"

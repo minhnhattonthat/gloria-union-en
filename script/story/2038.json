@@ -24,7 +24,7 @@
  {
   "id": "s2038:0004c",
   "jp": "イシュト。お前はいいよな。\n昔っから、お前は皆のヒーロー\nだった。",
-  "en": "Ishut. Must be nice bein' you. Ever since we\nwere kids, you were everybody's hero.",
+  "en": "Ishut. Must be nice bein' you. Ever since\nwe were kids, you were everybody's hero.",
   "status": "done",
   "slots": [
    "0xedf"
@@ -46,7 +46,7 @@
  {
   "id": "s2038:0009e",
   "jp": "正攻法で戦える強さがある。\nさりげない優しさがある。\nそれも無自覚でな。",
-  "en": "You're strong enough to fight fair and\nsquare. You're kind without even tryin'. And\nyou don't even know it.",
+  "en": "You're strong enough to fight fair and\nsquare. You're kind without even tryin'.\nAnd you don't even know it.",
   "status": "done",
   "slots": [
    "0xf18"
@@ -68,7 +68,7 @@
  {
   "id": "s2038:00134",
   "jp": "何？　ただの僻み？\n面倒くさい男ね。",
-  "en": "What? Is this just jealousy? What a\ntiresome man.",
+  "en": "What? Is this just jealousy?\nWhat a tiresome man.",
   "status": "done",
   "slots": [
    "0xf3f"
@@ -79,7 +79,7 @@
  {
   "id": "s2038:0015c",
   "jp": "あぁ。思えば、妬み僻んでの\n人生だったな。",
-  "en": "Yeah. Come to think of it, my whole life's\nbeen envy and grudges.",
+  "en": "Yeah. Come to think of it,\nmy whole life's been envy and grudges.",
   "status": "done",
   "slots": [
    "0xf58"
@@ -101,7 +101,7 @@
  {
   "id": "s2038:0019d",
   "jp": "これで最後だ。俺とお前の１０年。\nここで終わりにしてやる！",
-  "en": "This is the last time. Ten years of you and\nme. I'm endin' it here!",
+  "en": "This is the last time. Ten years\nof you and me. I'm endin' it here!",
   "status": "done",
   "slots": [
    "0xf8a"
@@ -112,7 +112,7 @@
  {
   "id": "s2038:001db",
   "jp": "……ん？　なんだ？　\n今回はやけに素直な陣形だな。\nもっとこう囲むとかしないのか？",
-  "en": "...Hm? What's this? Your formation's awful\nstraightforward this time. Ain't you gonna\nsurround us or somethin'?",
+  "en": "...Hm? What's this? Your formation's\nawful straightforward this time.\nAin't you gonna surround us or somethin'?",
   "status": "done",
   "slots": [
    "0x103e"
@@ -134,7 +134,7 @@
  {
   "id": "s2038:00262",
   "jp": "……ハハッ。あぁ、そうだ。\nまったくもってその通りだな！",
-  "en": "...Haha. Yeah, that's right. You're dead right\nabout that!",
+  "en": "...Haha. Yeah, that's right.\nYou're dead right about that!",
   "status": "done",
   "slots": [
    "0x1071"
@@ -156,7 +156,7 @@
  {
   "id": "s2038:002ce",
   "jp": "楽しくねぇよ。\nこれで終わりなんだからな。",
-  "en": "It ain't gonna be fun. 'Cause this is where it\nends.",
+  "en": "It ain't gonna be fun.\n'Cause this is where it ends.",
   "status": "done",
   "slots": [
    "0x10a4"
@@ -244,7 +244,7 @@
  {
   "id": "s2038:003e4",
   "jp": "あなたに虐められていた所を\n助けてくれたのが、兄貴でしたね。",
-  "en": "You were bullying me, and the Boss was the\none who saved me.",
+  "en": "You were bullying me, and the\nBoss was the one who saved me.",
   "status": "done",
   "slots": [
    "0x137d"
@@ -255,7 +255,7 @@
  {
   "id": "s2038:00424",
   "jp": "好きな奴ほど……だったんだがな。\n随分と惜しいことをしたよ。\n俺って奴は……。",
-  "en": "The ones you like, you pick on... or so they\nsay. I sure blew that one. That's just the\nkind of guy I am...",
+  "en": "The ones you like, you pick on...\nor so they say. I sure blew that one.\nThat's just the kind of guy I am...",
   "status": "done",
   "slots": [
    "0x1396"
@@ -266,7 +266,7 @@
  {
   "id": "s2038:00475",
   "jp": "悪いな。ホントはお前みたいな\n無関係の奴とは戦いたくはねぇが。",
-  "en": "Sorry. Truth is, I'd rather not fight folks like\nyou who got nothin' to do with this.",
+  "en": "Sorry. Truth is, I'd rather not fight folks\nlike you who got nothin' to do with this.",
   "status": "done",
   "slots": [
    "0x1480"
@@ -276,7 +276,7 @@
  {
   "id": "s2038:004b3",
   "jp": "ま、殺しはしないから、\n大人しくするんだな……。",
-  "en": "Well, I ain't gonna kill you, so just behave\nyourself...",
+  "en": "Well, I ain't gonna kill you,\nso just behave yourself...",
   "status": "done",
   "slots": [
    "0x148a"
@@ -296,7 +296,7 @@
  {
   "id": "s2038:004f8",
   "jp": "すごいね。\nブラックモア以上かも……。",
-  "en": "Amazing. Maybe even more than\nBlackmore...",
+  "en": "Amazing. Maybe even\nmore than Blackmore...",
   "status": "done",
   "slots": [
    "0x14ae"
@@ -326,7 +326,7 @@
  {
   "id": "s2038:0056a",
   "jp": "来いよ。\n全弾、俺の斧で弾き返してやる！",
-  "en": "Come on. I'll knock back every last shot with\nmy axe!",
+  "en": "Come on. I'll knock back\nevery last shot with my axe!",
   "status": "done",
   "slots": [
    "0x15a5"
@@ -336,7 +336,7 @@
  {
   "id": "s2038:00592",
   "jp": "お前、いい目だな。\n絶対に諦めねぇ、って意思が、\nにじみ出てるぜ……。",
-  "en": "You got good eyes. The will to never give up\nis just pourin' outta you...",
+  "en": "You got good eyes. The will to never\ngive up is just pourin' outta you...",
   "status": "done",
   "slots": [
    "0x1679"
@@ -346,7 +346,7 @@
  {
   "id": "s2038:005d7",
   "jp": "どうだ？　\nグロリア海賊団に入ってみねぇか？",
-  "en": "Whaddya say? Wanna join the Gloria\nPirates?",
+  "en": "Whaddya say? Wanna\njoin the Gloria Pirates?",
   "status": "done",
   "slots": [
    "0x1683"
@@ -356,7 +356,7 @@
  {
   "id": "s2038:00603",
   "jp": "断る！\nアイツと一緒にいるなんざ\nゴメンなんでね。",
-  "en": "No way! I'd rather die than be on the same\ncrew as him.",
+  "en": "No way! I'd rather die than\nbe on the same crew as him.",
   "status": "done",
   "slots": [
    "0x169c"
@@ -366,7 +366,7 @@
  {
   "id": "s2038:00634",
   "jp": "キミ。本当に黒い牙の一員なのか？",
-  "en": "You there. Are you truly a member of the\nBlack Fang?",
+  "en": "You there. Are you truly a\nmember of the Black Fang?",
   "status": "done",
   "slots": [
    "0x1770"
@@ -396,7 +396,7 @@
  {
   "id": "s2038:006bc",
   "jp": "グボァ！\n……クッ、倒れねぇ、倒れねぇぞ\n俺は……！",
-  "en": "Gwah! ...Ngh, I won't fall... I won't fall, not\nme...!",
+  "en": "Gwah! ...Ngh, I won't fall...\nI won't fall, not me...!",
   "status": "done",
   "slots": [
    "0x194c"
@@ -429,7 +429,7 @@
  {
   "id": "s2038:0075c",
   "jp": "スキルを発動させるウィルも\n残ってない……。\n見ているだけで……辛いよ。",
-  "en": "He doesn't even have the Will left to use a\nskill... It hurts just to watch.",
+  "en": "He doesn't even have the Will left to\nuse a skill... It hurts just to watch.",
   "status": "done",
   "slots": [
    "0x2020"
@@ -451,7 +451,7 @@
  {
   "id": "s2038:007cd",
   "jp": "ク……ハハ。\n相変わらず諦めの悪い奴だよ、\nお前は。",
-  "en": "Heh... haha. You never know when to quit, do\nya?",
+  "en": "Heh... haha. You never\nknow when to quit, do ya?",
   "status": "done",
   "slots": [
    "0x205a"
@@ -517,7 +517,7 @@
  {
   "id": "s2038:00890",
   "jp": "いい目隠しになってくれたな。\nありがとう、ベルガス。",
-  "en": "You made a fine blindfold for 'em. Thanks,\nVelgas.",
+  "en": "You made a fine blindfold\nfor 'em. Thanks, Velgas.",
   "status": "done",
   "slots": [
    "0x21e7"
@@ -550,7 +550,7 @@
  {
   "id": "s2038:00900",
   "jp": "勝って奪うことが、海賊の意義だ！\n甘いこと言ってんじゃねぇぞ！",
-  "en": "Winning and taking, that's what bein' a\npirate means! Don't gimme that soft crap!",
+  "en": "Winning and taking, that's what bein'\na pirate means! Don't gimme that soft crap!",
   "status": "done",
   "slots": [
    "0x2232"
@@ -561,7 +561,7 @@
  {
   "id": "s2038:00942",
   "jp": "仲良くチャンバラなんてのは\nお遊戯にすぎない！",
-  "en": "Swinging swords together all friendly-like is\nnothin' but kiddie play!",
+  "en": "Swinging swords together all\nfriendly-like is nothin' but kiddie play!",
   "status": "done",
   "slots": [
    "0x2239"
@@ -572,7 +572,7 @@
  {
   "id": "s2038:00974",
   "jp": "てめぇらは海賊じゃねぇ……\nただの船乗りの餓鬼だ！！",
-  "en": "You lot ain't pirates... you're just a bunch of\nsailor brats!!",
+  "en": "You lot ain't pirates...\nyou're just a bunch of sailor brats!!",
   "status": "done",
   "slots": [
    "0x2240"
@@ -594,7 +594,7 @@
  {
   "id": "s2038:009c9",
   "jp": "お前にだけは心配されたくねぇよ。\nバカ野郎。",
-  "en": "You're the last guy I want worryin' about\nme. Idiot.",
+  "en": "You're the last guy I want\nworryin' about me. Idiot.",
   "status": "done",
   "slots": [
    "0x2280"
@@ -638,7 +638,7 @@
  {
   "id": "s2038:00a44",
   "jp": "ベルガス……剣を放せ。\n今ならまだ助けるぞ。",
-  "en": "Velgas... let go of the sword. I'll still let\nyou live if you do it now.",
+  "en": "Velgas... let go of the sword.\nI'll still let you live if you do it now.",
   "status": "done",
   "slots": [
    "0x23ba"
@@ -649,7 +649,7 @@
  {
   "id": "s2038:00a74",
   "jp": "邪魔はさせねぇ。まだ終わってねぇ\n俺はまだ……倒れてねぇ！",
-  "en": "I won't let you get in the way. It ain't over.\nI'm still... not down!",
+  "en": "I won't let you get in the way.\nIt ain't over. I'm still... not down!",
   "status": "done",
   "slots": [
    "0x23ec"
@@ -682,7 +682,7 @@
  {
   "id": "s2038:00ae4",
   "jp": "な！　グギ……貴様ぁ。\n嬲り殺しにしてやる！",
-  "en": "Wha...! Ngh... you bastard. I'll torture you to\ndeath!",
+  "en": "Wha...! Ngh... you bastard.\nI'll torture you to death!",
   "status": "done",
   "slots": [
    "0x2422"
@@ -693,7 +693,7 @@
  {
   "id": "s2038:00b14",
   "jp": "なにやってるのイシュト！　\n早く出口へ！",
-  "en": "What are you doing, Ishut!? Hurry to the\nexit!",
+  "en": "What are you doing,\nIshut!? Hurry to the exit!",
   "status": "done",
   "slots": [
    "0x243b"
@@ -715,7 +715,7 @@
  {
   "id": "s2038:00b61",
   "jp": "虫のいいこと言ってんじゃねぇ！\nお前は俺の永遠の敵だ！\n必ず追っかけて、また戦ってやる！",
-  "en": "Don't gimme that! You're my eternal enemy!\nI'll come after you and fight you again, for\nsure!",
+  "en": "Don't gimme that! You're my\neternal enemy! I'll come after\nyou and fight you again, for sure!",
   "status": "done",
   "slots": [
    "0x246d"
@@ -737,7 +737,7 @@
  {
   "id": "s2038:00bdb",
   "jp": "敵に情報を与えるなんざ\n海賊の風上にもおけねぇ。\n……死ね！",
-  "en": "Feedin' the enemy information... You're a\ndisgrace to pirates. ...Die!",
+  "en": "Feedin' the enemy information...\nYou're a disgrace to pirates. ...Die!",
   "status": "done",
   "slots": [
    "0x249f"
@@ -781,7 +781,7 @@
  {
   "id": "s2038:02ae4",
   "jp": "待てやゴラァ！\nテメェも背中から\n串刺しにされてぇか！",
-  "en": "Hold it right there! You wanna get skewered\nin the back too!?",
+  "en": "Hold it right there! You wanna\nget skewered in the back too!?",
   "status": "done",
   "slots": [
    "0x32e1"
@@ -791,7 +791,7 @@
  {
   "id": "s2038:02b19",
   "jp": "グッ……耐えろ……！\n今は、逃げる事だけ考えろ……！",
-  "en": "Ngh... hold it together...! Right now, just\nthink about gettin' away...!",
+  "en": "Ngh... hold it together...! Right now,\njust think about gettin' away...!",
   "status": "done",
   "slots": [
    "0x32fb"
@@ -831,7 +831,7 @@
  {
   "id": "s2038:02baf",
   "jp": "待てや小娘！\nテメェは大人しく牢屋で\n寝てろ！",
-  "en": "Hold it, girlie! You get back in your cell and\ngo to sleep like a good girl!",
+  "en": "Hold it, girlie! You get back in your\ncell and go to sleep like a good girl!",
   "status": "done",
   "slots": [
    "0x34d5"
@@ -841,7 +841,7 @@
  {
   "id": "s2038:02bdc",
   "jp": "ハッハッハ！\nあんなに息巻いてたくせに、\n結局逃げるのかよ！",
-  "en": "Hahaha! After all that huffin' and puffin',\nyou're just gonna run!?",
+  "en": "Hahaha! After all that huffin'\nand puffin', you're just gonna run!?",
   "status": "done",
   "slots": [
    "0x35bf"
@@ -871,7 +871,7 @@
  {
   "id": "s2038:02c64",
   "jp": "どうしたぁ？\nヘロヘロじゃねぇか、海賊王！",
-  "en": "What's wrong? You're all wobbly, Pirate\nKing!",
+  "en": "What's wrong?\nYou're all wobbly, Pirate King!",
   "status": "done",
   "slots": [
    "0x36cd"
@@ -891,7 +891,7 @@
  {
   "id": "s2038:02cc5",
   "jp": "テメェが奴らに出口を教えたのか。",
-  "en": "So you're the one who told 'em where the\nexit was.",
+  "en": "So you're the one who told\n'em where the exit was.",
   "status": "done",
   "slots": []
  },
@@ -940,7 +940,7 @@
  {
   "id": "s2038:02d7f",
   "jp": "おぉおぉ、そろいも揃って。\nいい部下を持ったもんだぜ！",
-  "en": "Well, well, the whole gang's here. I sure got\nmyself some fine crewmen!",
+  "en": "Well, well, the whole gang's here.\nI sure got myself some fine crewmen!",
   "status": "done",
   "slots": [
    "0x4032"
@@ -995,7 +995,7 @@
  {
   "id": "s2038:02e1b",
   "jp": "ちょ！　兄貴！　\nどこへ行くんですか！？\n兄貴！？　兄貴いいぃ！",
-  "en": "Wha-! Boss! Where are you going!? Boss!?\nBoooss!",
+  "en": "Wha-! Boss! Where are\nyou going!? Boss!? Boooss!",
   "status": "done",
   "slots": [
    "0x40eb"

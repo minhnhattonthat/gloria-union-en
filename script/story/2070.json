@@ -2,7 +2,7 @@
  {
   "id": "s2070:00028",
   "jp": "黒幕とは、随分なご挨拶じゃないか\nザザーランド。",
-  "en": "\"The man pulling the strings\"? Quite a\ngreeting, Zazarland.",
+  "en": "\"The man pulling the strings\"?\nQuite a greeting, Zazarland.",
   "status": "done",
   "slots": [
    "0x173c"
@@ -13,7 +13,7 @@
  {
   "id": "s2070:0005c",
   "jp": "黒い牙を裏で動かし、トレイシーに\n情報とカードを与えたお前を、\n誰が黒幕じゃないって言うんだ？",
-  "en": "You worked the Black Fang from the\nshadows and gave Tracey information and\ncards. Who'd say you ain't the one pullin' the\nstrings?",
+  "en": "You worked the Black Fang from\nthe shadows and gave Tracey\ninformation and cards. Who'd say\nyou ain't the one pullin' the strings?",
   "status": "done",
   "slots": [
    "0x1755"
@@ -46,7 +46,7 @@
  {
   "id": "s2070:00100",
   "jp": "まぁ、そう言うな。\n同じ軍で汗を流した仲じゃないか。",
-  "en": "Now, don't say that. We sweated together\nin the same army, didn't we?",
+  "en": "Now, don't say that. We sweated\ntogether in the same army, didn't we?",
   "status": "done",
   "slots": [
    "0x17a0"
@@ -68,7 +68,7 @@
  {
   "id": "s2070:00147",
   "jp": "あの頃はよかったなぁ。\nもう一度戻りたいって思わねぇか？",
-  "en": "Those were good days. Don't ya wish you\ncould go back?",
+  "en": "Those were good days.\nDon't ya wish you could go back?",
   "status": "done",
   "slots": [
    "0x17d2"
@@ -79,7 +79,7 @@
  {
   "id": "s2070:00183",
   "jp": "クク、確かに。\nだが、戻ったとしても結末は\n同じであろうよ。",
-  "en": "Heh heh, indeed. But even if we went back, it\nwould end the same way.",
+  "en": "Heh heh, indeed. But even if we went back,\nit would end the same way.",
   "status": "done",
   "slots": [
    "0x17f9"
@@ -167,7 +167,7 @@
  {
   "id": "s2070:002ab",
   "jp": "話してなかったのか？\n相変わらず部下の統率が\n下手くそだな。",
-  "en": "You didn't tell them? You're as bad at\nleading your men as ever.",
+  "en": "You didn't tell them? You're as\nbad at leading your men as ever.",
   "status": "done",
   "slots": [
    "0x18da"
@@ -189,7 +189,7 @@
  {
   "id": "s2070:0031c",
   "jp": "自分勝手甚だしいな。\nその脳筋さえなければ、今頃は俺と\nお前で世界を支配できたのだがな。",
-  "en": "Selfish as ever. If not for that thick skull of\nyours, you and I would be ruling the world by\nnow.",
+  "en": "Selfish as ever. If not for that\nthick skull of yours, you and I\nwould be ruling the world by now.",
   "status": "done",
   "slots": [
    "0x190c"
@@ -200,7 +200,7 @@
  {
   "id": "s2070:00377",
   "jp": "平和を生むのはお前の“力”でも、\nエンリエッタの“犠牲”でもねぇ。\n俺の“自由”さ。",
-  "en": "Peace don't come from your \"power\", or\nfrom Enryetta's \"sacrifice\". It comes from\nmy \"freedom\".",
+  "en": "Peace don't come from your \"power\",\nor from Enryetta's \"sacrifice\".\nIt comes from my \"freedom\".",
   "status": "done",
   "slots": [
    "0x1925"
@@ -211,7 +211,7 @@
  {
   "id": "s2070:003ce",
   "jp": "力強き者が世界を制する。\n誰も逆らえぬ力は、戦を無くし！\n平和を生むのだ！",
-  "en": "The strong rule the world. A power no one\ncan defy ends war! And brings peace!",
+  "en": "The strong rule the world. A power no\none can defy ends war! And brings peace!",
   "status": "done",
   "slots": [
    "0x193e"
@@ -222,7 +222,7 @@
  {
   "id": "s2070:0041b",
   "jp": "それは、闇のカード……！？\nなんでアナタが持っているの！？",
-  "en": "That's the dark card...!? Why do you have\nit!?",
+  "en": "That's the dark card...!?\nWhy do you have it!?",
   "status": "done",
   "slots": [
    "0x1995"
@@ -233,7 +233,7 @@
  {
   "id": "s2070:00459",
   "jp": "ルキア皇国は闇の遺跡“闇の邪域”\nを基に作られていてな。",
-  "en": "The Lukia Empire was built upon the ruin of\ndarkness, the \"Dark Realm\".",
+  "en": "The Lukia Empire was built upon the\nruin of darkness, the \"Dark Realm\".",
   "status": "done",
   "slots": [
    "0x19ab"
@@ -244,7 +244,7 @@
  {
   "id": "s2070:00495",
   "jp": "クリスタルは王家の秘宝として\n代々伝わっているのだよ。",
-  "en": "The Crystal has been handed down as a\ntreasure of the royal family for\ngenerations.",
+  "en": "The Crystal has been handed\ndown as a treasure of the\nroyal family for generations.",
   "status": "done",
   "slots": [
    "0x19b2"
@@ -255,7 +255,7 @@
  {
   "id": "s2070:004cf",
   "jp": "エンリエッタの他にも、普通の体で\nカードを使えるほどのウィルを\n持っている人がいたなんて……！",
-  "en": "Besides Enryetta, there's someone else\nwith an ordinary body who has enough Will\nto use a card...!",
+  "en": "Besides Enryetta, there's someone\nelse with an ordinary body who\nhas enough Will to use a card...!",
   "status": "done",
   "slots": [
    "0x19e7"
@@ -266,7 +266,7 @@
  {
   "id": "s2070:00530",
   "jp": "言っただろう。\n貴様らの１７年と、私達の１７年を\n一緒にするなと！",
-  "en": "I told you. Don't compare your seventeen\nyears with ours!",
+  "en": "I told you. Don't compare your\nseventeen years with ours!",
   "status": "done",
   "slots": [
    "0x1a00"
@@ -277,7 +277,7 @@
  {
   "id": "s2070:00575",
   "jp": "さぁ、お喋りはこれまでだ。\nメギドの闇に沈んでもらおうか！",
-  "en": "Now, enough talk. Let me sink you into the\ndarkness of Megiddo!",
+  "en": "Now, enough talk. Let me sink you\ninto the darkness of Megiddo!",
   "status": "done",
   "slots": [
    "0x1a15"
@@ -288,7 +288,7 @@
  {
   "id": "s2070:005b3",
   "jp": "貴様らさえ葬れば、我が\n“ユーフォリア計画”は完成する！",
-  "en": "Once I bury you, my \"Euforia Project\" will be\ncomplete!",
+  "en": "Once I bury you, my \"Euforia\nProject\" will be complete!",
   "status": "done",
   "slots": [
    "0x1b2c"
@@ -310,7 +310,7 @@
  {
   "id": "s2070:0060a",
   "jp": "させねぇよ……！\nそのために、俺は今まで\n生きてきたんだからなぁ！",
-  "en": "I won't let ya...! That's what I've lived for\nall this time!",
+  "en": "I won't let ya...! That's what\nI've lived for all this time!",
   "status": "done",
   "slots": [
    "0x1b63"
@@ -321,7 +321,7 @@
  {
   "id": "s2070:0064f",
   "jp": "闇のカード“メギド”は、\n渇望のウィルを力に変える！\n俺の意思は、力への渇望！",
-  "en": "The dark card \"Megiddo\" turns the Will of\ncraving into power! My will is the craving for\npower!",
+  "en": "The dark card \"Megiddo\"\nturns the Will of craving into power!\nMy will is the craving for power!",
   "status": "done",
   "slots": [
    "0x1dbf"
@@ -343,7 +343,7 @@
  {
   "id": "s2070:006dc",
   "jp": "例え残り五枚のカードを使おうが、\nお前らは俺には勝てない！",
-  "en": "Even if you used the other five cards, you\ncould never beat me!",
+  "en": "Even if you used the other five cards,\nyou could never beat me!",
   "status": "done",
   "slots": [
    "0x1df2"
@@ -387,7 +387,7 @@
  {
   "id": "s2070:00772",
   "jp": "その質問、正直され慣れたけど……\nあたしは正真正銘、親父の娘よ！\n親父譲りの力、見せてあげるわ！",
-  "en": "Honestly, I'm used to that question... but I'm\nDad's daughter, the real deal! I'll show you\nthe strength I got from him!",
+  "en": "Honestly, I'm used to that question...\nbut I'm Dad's daughter, the real deal!\nI'll show you the strength I got from him!",
   "status": "done",
   "slots": [
    "0x213a"
@@ -398,7 +398,7 @@
  {
   "id": "s2070:007d5",
   "jp": "どんなに力を底上げしても、\n俺には勝てないぜ、宰相さんよぉ。",
-  "en": "However much ya boost your power, ya\ncan't beat me, Chancellor-san.",
+  "en": "However much ya boost your power,\nya can't beat me, Chancellor-san.",
   "status": "done",
   "slots": [
    "0x221d"
@@ -409,7 +409,7 @@
  {
   "id": "s2070:00815",
   "jp": "なぜ俺が態々ここに赴いたか\nわかるか？　貴様を殺すためだよ。\nザザーランド！",
-  "en": "Do you know why I came here in person? To\nkill you. Zazarland!",
+  "en": "Do you know why I came here in\nperson? To kill you. Zazarland!",
   "status": "done",
   "slots": [
    "0x2236"
@@ -430,7 +430,7 @@
  {
   "id": "s2070:00885",
   "jp": "この人が敵の親玉ですか……。\n流石に、威圧感がありますね。",
-  "en": "So this is the enemy's ringleader... He really\nis intimidating.",
+  "en": "So this is the enemy's ringleader...\nHe really is intimidating.",
   "status": "done",
   "slots": [
    "0x1ef6"
@@ -440,7 +440,7 @@
  {
   "id": "s2070:008bf",
   "jp": "貴様はユーフォリア計画には\n重要な存在だ！\nさぁ、共に来るのだ！",
-  "en": "You are vital to the Euforia Project! Now,\ncome with me!",
+  "en": "You are vital to the Euforia\nProject! Now, come with me!",
   "status": "done",
   "slots": [
    "0x1fe0"
@@ -450,7 +450,7 @@
  {
   "id": "s2070:008fe",
   "jp": "私は絶対にアナタと行かない！\n絶対に、イシュトと一緒に\nいるんだから！",
-  "en": "I'll never go with you! I'm staying with Ishut,\nno matter what!",
+  "en": "I'll never go with you! I'm staying\nwith Ishut, no matter what!",
   "status": "done",
   "slots": [
    "0x1ffa"
@@ -460,7 +460,7 @@
  {
   "id": "s2070:00943",
   "jp": "そこまで絶対的力を持って……。\n恐怖政治でも布くつもりか？",
-  "en": "With power that absolute... Do you mean to\nrule by terror?",
+  "en": "With power that absolute...\nDo you mean to rule by terror?",
   "status": "done",
   "slots": [
    "0x230a"
@@ -470,7 +470,7 @@
  {
   "id": "s2070:0097d",
   "jp": "人を支配するのに、\n恐怖は丁度いいんだよ。\nそして、恐怖を生むのは、力だ！",
-  "en": "Fear is just right for ruling people. And what\ncreates fear is power!",
+  "en": "Fear is just right for ruling people.\nAnd what creates fear is power!",
   "status": "done",
   "slots": [
    "0x2323"
@@ -480,7 +480,7 @@
  {
   "id": "s2070:009c6",
   "jp": "なんて禍々しいウィル。\n闇のカードが扱えるわけだよ……。",
-  "en": "What a sinister Will. No wonder he can\nhandle the dark card...",
+  "en": "What a sinister Will. No wonder\nhe can handle the dark card...",
   "status": "done",
   "slots": [
    "0x23f0"
@@ -500,7 +500,7 @@
  {
   "id": "s2070:00a3a",
   "jp": "すごいウィルっすね……。\n黄泉の国でも、これだけのウィルを\n持った人はいないっすよ。",
-  "en": "What an amazing Will, sir... Not even in the\nLand of the Dead is there anyone with this\nmuch Will.",
+  "en": "What an amazing Will, sir...\nNot even in the Land of the Dead is\nthere anyone with this much Will.",
   "status": "done",
   "slots": [
    "0x24c0"
@@ -540,7 +540,7 @@
  {
   "id": "s2070:00ae9",
   "jp": "戦力は多いほうがいいな。\nよし、無駄な頭脳は抜いて、\n砲台として活用しようか。",
-  "en": "The more fighting strength, the better.\nYes, let's pull out that useless brain and use\nyou as a gun turret.",
+  "en": "The more fighting strength, the better.\nYes, let's pull out that useless\nbrain and use you as a gun turret.",
   "status": "done",
   "slots": [
    "0x2696"
@@ -560,7 +560,7 @@
  {
   "id": "s2070:00b4b",
   "jp": "これが、この世界最大の悪。\n諸悪の根源……！",
-  "en": "So this is the greatest evil in this world.\nThe root of all evil...!",
+  "en": "So this is the greatest evil in\nthis world. The root of all evil...!",
   "status": "done",
   "slots": [
    "0x277d"
@@ -580,7 +580,7 @@
  {
   "id": "s2070:00b9f",
   "jp": "貴様、裏切り者だそうだな。\nフン、ザザーランドの下につくなど\n気が知れんな。",
-  "en": "I hear you're a traitor. Hmph, I can't fathom\nserving under Zazarland.",
+  "en": "I hear you're a traitor. Hmph,\nI can't fathom serving under Zazarland.",
   "status": "done",
   "slots": [
    "0x286a"
@@ -590,7 +590,7 @@
  {
   "id": "s2070:00bea",
   "jp": "僕は、彼等の意思に賛同したのだ！\nもう皇国軍には戻らない！",
-  "en": "I agreed with their will! I'm never going back\nto the Imperial army!",
+  "en": "I agreed with their will! I'm never\ngoing back to the Imperial army!",
   "status": "done",
   "slots": [
    "0x2884"
@@ -600,7 +600,7 @@
  {
   "id": "s2070:00c24",
   "jp": "例え裏切り者と言われようとも、\n僕はルキア皇国を討つ！",
-  "en": "Even if they call me a traitor, I will strike\ndown the Lukia Empire!",
+  "en": "Even if they call me a traitor,\nI will strike down the Lukia Empire!",
   "status": "done",
   "slots": [
    "0x288e"
@@ -610,7 +610,7 @@
  {
   "id": "s2070:00c5a",
   "jp": "うわ、スゴイ覇気ね。\nなんだか自分が場違いに思えて\nきちゃうわ。",
-  "en": "Wow, what an aura. Makes me feel kind of\nout of place.",
+  "en": "Wow, what an aura.\nMakes me feel kind of out of place.",
   "status": "done",
   "slots": [
    "0x295b"
@@ -620,7 +620,7 @@
  {
   "id": "s2070:00c99",
   "jp": "船のお宝持って、\nトンズラしちゃおうかしら？",
-  "en": "Maybe I'll grab the ship's treasure and make\na run for it?",
+  "en": "Maybe I'll grab the ship's\ntreasure and make a run for it?",
   "status": "done",
   "slots": [
    "0x2965"
@@ -660,7 +660,7 @@
  {
   "id": "s2070:00d58",
   "jp": "そのひん曲がった性根。\n俺が打ん殴ってやるよ！",
-  "en": "That twisted nature of yours, I'll punch it\nstraight!",
+  "en": "That twisted nature of yours,\nI'll punch it straight!",
   "status": "done",
   "slots": [
    "0x2b17"
@@ -681,7 +681,7 @@
  {
   "id": "s2070:00dd7",
   "jp": "無敵の力なんて存在しねぇ！\n強ければその分、戦争は激化する\nだけだ！",
-  "en": "There ain't no such thing as invincible\npower! The stronger ya are, the fiercer the\nwar gets, that's all!",
+  "en": "There ain't no such thing as invincible\npower! The stronger ya are,\nthe fiercer the war gets, that's all!",
   "status": "done",
   "slots": [
    "0x2cf5"
@@ -692,7 +692,7 @@
  {
   "id": "s2070:00e1e",
   "jp": "その力を掴むまで、俺の意思は\n死なない！",
-  "en": "Until I seize that power, my will shall not\ndie!",
+  "en": "Until I seize that power,\nmy will shall not die!",
   "status": "done",
   "slots": [
    "0x2d0e"
@@ -769,7 +769,7 @@
  {
   "id": "s2070:00f44",
   "jp": "犠牲にしてきた人達の為にも、\n私が彼を討たなければ。\n犠牲になった人達が、眠れないわ。",
-  "en": "For the people I sacrificed, I must be the one\nto strike him down. Or the people who were\nsacrificed will never rest.",
+  "en": "For the people I sacrificed, I must be the\none to strike him down. Or the people\nwho were sacrificed will never rest.",
   "status": "done",
   "slots": [
    "0x351a"
@@ -780,7 +780,7 @@
  {
   "id": "s2070:00f9d",
   "jp": "……そうか。\n結局、キミは人の為に戦うんだな。",
-  "en": "...I see. In the end, you fight for other\npeople.",
+  "en": "...I see. In the end,\nyou fight for other people.",
   "status": "done",
   "slots": [
    "0x3538"
@@ -813,7 +813,7 @@
  {
   "id": "s2070:01034",
   "jp": "私は考古学者をしているのだが、\n如何せん足が悪くてね。",
-  "en": "I'm an archaeologist, but I'm afraid my legs\nare bad.",
+  "en": "I'm an archaeologist,\nbut I'm afraid my legs are bad.",
   "status": "done",
   "slots": [
    "0x4a60"
@@ -823,7 +823,7 @@
  {
   "id": "s2070:0106a",
   "jp": "名誉教授とは名ばかりの\n老いぼれになってしまったよ。",
-  "en": "I'm a professor emeritus in name only. Just\nan old man now.",
+  "en": "I'm a professor emeritus in\nname only. Just an old man now.",
   "status": "done",
   "slots": [
    "0x4a67"
@@ -843,7 +843,7 @@
  {
   "id": "s2070:010ca",
   "jp": "この場に遺跡の欠片があれば、\nすぐにでも研究を始めるさ！\nモチロン礼はしよう。",
-  "en": "If I had a ruin shard here, I'd start my\nresearch right away! I'll reward you, of\ncourse.",
+  "en": "If I had a ruin shard here,\nI'd start my research right away!\nI'll reward you, of course.",
   "status": "done",
   "slots": [
    "0x4a75"
@@ -853,7 +853,7 @@
  {
   "id": "s2070:01117",
   "jp": "どうだ？　私に遺跡の欠片を\n提供してみないか？",
-  "en": "How about it? Would you provide me with a\nruin shard?",
+  "en": "How about it? Would you\nprovide me with a ruin shard?",
   "status": "done",
   "slots": [
    "0x4a7c"
@@ -863,7 +863,7 @@
  {
   "id": "s2070:01145",
   "jp": "おぉ、交換してくれるのか。\nならば、礼を支払おう。",
-  "en": "Oh, you'll trade with me? Then let me pay\nyou your reward.",
+  "en": "Oh, you'll trade with me?\nThen let me pay you your reward.",
   "status": "done",
   "slots": [
    "0x4a83"
@@ -873,7 +873,7 @@
  {
   "id": "s2070:01177",
   "jp": "提供数に応じた礼だ。\n等価交換は取引の基本だろ？",
-  "en": "A reward to match how many you provide.\nEqual exchange is the basis of any deal, isn't\nit?",
+  "en": "A reward to match how many\nyou provide. Equal exchange is\nthe basis of any deal, isn't it?",
   "status": "done",
   "slots": [
    "0x4d60"
@@ -883,7 +883,7 @@
  {
   "id": "s2070:011a7",
   "jp": "またどこかで遺跡の欠片を\n拾ったら、ここまで持ってきて\nくれ。",
-  "en": "If you pick up another ruin shard somewhere,\nbring it here.",
+  "en": "If you pick up another ruin shard\nsomewhere, bring it here.",
   "status": "done",
   "slots": [
    "0x4d78"
@@ -893,7 +893,7 @@
  {
   "id": "s2070:011e4",
   "jp": "私は考古学者をしているのだが、\n如何せん足が悪くてね。",
-  "en": "I'm an archaeologist, but I'm afraid my legs\nare bad.",
+  "en": "I'm an archaeologist,\nbut I'm afraid my legs are bad.",
   "status": "done",
   "slots": [
    "0x5aaa"
@@ -903,7 +903,7 @@
  {
   "id": "s2070:0121a",
   "jp": "名誉教授とは名ばかりの\n老いぼれになってしまったよ。",
-  "en": "I'm a professor emeritus in name only. Just\nan old man now.",
+  "en": "I'm a professor emeritus in\nname only. Just an old man now.",
   "status": "done",
   "slots": [
    "0x5ab1"
@@ -923,7 +923,7 @@
  {
   "id": "s2070:01284",
   "jp": "ここは、エルマーレ広場。\n世界で一番美しい土地と\nいわれているんだ。",
-  "en": "This is Elmare Square. They say it's the\nmost beautiful place in the world.",
+  "en": "This is Elmare Square. They say it's\nthe most beautiful place in the world.",
   "status": "done",
   "slots": [
    "0x1cb4",
@@ -934,7 +934,7 @@
  {
   "id": "s2070:012c7",
   "jp": "いつか、このような美しい土地が\n世界を埋め尽くす事を、僕達は\n願っているんだよ。",
-  "en": "We pray that one day, beautiful lands like\nthis will fill the whole world.",
+  "en": "We pray that one day, beautiful lands\nlike this will fill the whole world.",
   "status": "done",
   "slots": [
    "0x1cbb",
@@ -978,7 +978,7 @@
  {
   "id": "s2070:013ba",
   "jp": "これが、お母さんが望んでいる\n景色なのかしらね？",
-  "en": "I wonder if this is the view Mother wishes\nfor?",
+  "en": "I wonder if this is the\nview Mother wishes for?",
   "status": "done",
   "slots": [
    "0x1c65",
@@ -989,7 +989,7 @@
  {
   "id": "s2070:013ea",
   "jp": "なんで争うのかしらね……？\nみんな、目指す先は同じなのに。",
-  "en": "Why do people fight, I wonder...? They're all\naiming for the same thing.",
+  "en": "Why do people fight, I wonder...?\nThey're all aiming for the same thing.",
   "status": "done",
   "slots": [
    "0x1c6c",
@@ -1000,7 +1000,7 @@
  {
   "id": "s2070:03888",
   "jp": "戦闘配置に着け。\nエルマーレ連合国総裁。\nエンリエッタ……ここで討つ。",
-  "en": "Battle stations. President of the Elmare\nFederation. Enryetta... we strike her down\nhere.",
+  "en": "Battle stations. President of the\nElmare Federation. Enryetta...\nwe strike her down here.",
   "status": "done",
   "slots": [
    "0x488c"
@@ -1033,7 +1033,7 @@
  {
   "id": "s2070:038ff",
   "jp": "あたしの親は、親父だけよ。\nお母さんに感謝はすれど、\n特別な情は感じないわ。",
-  "en": "My only parent is Dad. I'm grateful to\nMother, but I don't feel anything special for\nher.",
+  "en": "My only parent is Dad.\nI'm grateful to Mother, but I don't\nfeel anything special for her.",
   "status": "done",
   "slots": [
    "0x48e0"
@@ -1044,7 +1044,7 @@
  {
   "id": "s2070:0394e",
   "jp": "そうかい……ヘッ。\n俺なんかより、お前の方が\nよっぽど強いな、コリャ。",
-  "en": "That so... Heh. You're a lot stronger than\nme, y'know that?",
+  "en": "That so... Heh. You're a lot\nstronger than me, y'know that?",
   "status": "done",
   "slots": [
    "0x48fe"
@@ -1066,7 +1066,7 @@
  {
   "id": "s2070:039da",
   "jp": "髭を生やした天使が導いてくれた\n愛なのよ？\n変えたくても変わらないわ。",
-  "en": "It's a love an angel with a beard guided me\nto, you know? Even if I wanted to change it,\nit won't change.",
+  "en": "It's a love an angel with a beard\nguided me to, you know? Even if I\nwanted to change it, it won't change.",
   "status": "done",
   "slots": [
    "0x6028"
@@ -1077,7 +1077,7 @@
  {
   "id": "s2070:03a23",
   "jp": "ハッハッハ！\nそうかい！　そいつぁ天使冥利に\n尽きるってなもんだ！",
-  "en": "Hahaha! That so! Then that's an angel's\ngreatest honour!",
+  "en": "Hahaha! That so! Then that's\nan angel's greatest honour!",
   "status": "done",
   "slots": [
    "0x6042"
@@ -1099,7 +1099,7 @@
  {
   "id": "s2070:03aa7",
   "jp": "いきなり出てきて母親面する\nつもりもないわ……。\nさぁ、アナタの意思を見せてみて。",
-  "en": "I don't intend to show up out of nowhere and\nact like your mother... Now, show me your\nwill.",
+  "en": "I don't intend to show up out of\nnowhere and act like your mother...\nNow, show me your will.",
   "status": "done",
   "slots": [
    "0x5f2c"
@@ -1110,7 +1110,7 @@
  {
   "id": "s2070:03afc",
   "jp": "ここまで目的が一緒なのに、\nまだ戦わなきゃいけないのか。",
-  "en": "We want the same things this much, and we\nstill gotta fight?",
+  "en": "We want the same things this much,\nand we still gotta fight?",
   "status": "done",
   "slots": [
    "0x5c94"
@@ -1120,7 +1120,7 @@
  {
   "id": "s2070:03b34",
   "jp": "意思とは人の心か……ムズイな。",
-  "en": "So will means a person's heart... That's\ntough.",
+  "en": "So will means a person's\nheart... That's tough.",
   "status": "done",
   "slots": [
    "0x5c9e"
@@ -1130,7 +1130,7 @@
  {
   "id": "s2070:03b53",
   "jp": "わかりませんね……どうして\nそこまで、一人でやろうと\nするんですか。",
-  "en": "I don't get it... Why do you go so far to do it\nall alone?",
+  "en": "I don't get it... Why do you\ngo so far to do it all alone?",
   "status": "done",
   "slots": [
    "0x5d64"
@@ -1150,7 +1150,7 @@
  {
   "id": "s2070:03ba9",
   "jp": "アナタは、とても綺麗なウィルを\nしているのに、とても歪んでる。",
-  "en": "You have such a beautiful Will, but it's so\nwarped.",
+  "en": "You have such a beautiful Will,\nbut it's so warped.",
   "status": "done",
   "slots": [
    "0x5e34"
@@ -1180,7 +1180,7 @@
  {
   "id": "s2070:03c34",
   "jp": "この戦いで、その言葉も偽りに\nなればいいのだが……。",
-  "en": "I only hope this battle makes those words a\nlie...",
+  "en": "I only hope this battle\nmakes those words a lie...",
   "status": "done",
   "slots": [
    "0x6120"
@@ -1200,7 +1200,7 @@
  {
   "id": "s2070:03c9e",
   "jp": "初めてだなぁ。\nこんなに、戦いたくない人と\n戦うなんて……。",
-  "en": "This is a first... Fighting someone Locomoco\nreally doesn't want to fight...",
+  "en": "This is a first... Fighting someone\nLocomoco really doesn't want to fight...",
   "status": "done",
   "slots": [
    "0x6202"
@@ -1210,7 +1210,7 @@
  {
   "id": "s2070:03cd9",
   "jp": "こんな人でも、死んだら結局\n罪人課に行ってしまうんすよね……",
-  "en": "Even someone like her ends up at the Sinners\nSection when she dies, sir...",
+  "en": "Even someone like her ends up at the\nSinners Section when she dies, sir...",
   "status": "done",
   "slots": [
    "0x62cf"
@@ -1220,7 +1220,7 @@
  {
   "id": "s2070:03d15",
   "jp": "課長は、いつもこんな気持ちで\n仕事をしてるんすかねぇ……？",
-  "en": "I wonder if my section chief always feels\nlike this at work...?",
+  "en": "I wonder if my section chief\nalways feels like this at work...?",
   "status": "done",
   "slots": [
    "0x62d9"
@@ -1230,7 +1230,7 @@
  {
   "id": "s2070:03d4f",
   "jp": "この人を見ていると、ジゼル様が\nあそこまで信頼していた理由が\nわかる気がするな……。",
-  "en": "Looking at her, I think I understand why\nGiselle-sama trusted her so...",
+  "en": "Looking at her, I think I understand\nwhy Giselle-sama trusted her so...",
   "status": "done",
   "slots": [
    "0x63a6"
@@ -1260,7 +1260,7 @@
  {
   "id": "s2070:03e0e",
   "jp": "これが、エルマーレ連合国総統の\nカリスマ。というものでしょうか。",
-  "en": "Is this what they call the charisma of the\nElmare Federation's President?",
+  "en": "Is this what they call the charisma of\nthe Elmare Federation's President?",
   "status": "done",
   "slots": [
    "0x6492"
@@ -1270,7 +1270,7 @@
  {
   "id": "s2070:03e4e",
   "jp": "望まぬ戦いが時に訪れる\nというのは、騎士学校の頃に\n学んだが……。",
-  "en": "I learned in knight school that unwanted\nbattles come at times, but...",
+  "en": "I learned in knight school that\nunwanted battles come at times, but...",
   "status": "done",
   "slots": [
    "0x655f"
@@ -1300,7 +1300,7 @@
  {
   "id": "s2070:03edc",
   "jp": "これだから嫌いなのよ。\n国とか、組織って……。",
-  "en": "This is why I hate them. Countries,\norganisations...",
+  "en": "This is why I hate them.\nCountries, organisations...",
   "status": "done",
   "slots": [
    "0x665d"
@@ -1310,7 +1310,7 @@
  {
   "id": "s2070:03f0a",
   "jp": "難しいわよねぇ。\n人の上に立つってこと。",
-  "en": "It's hard, isn't it? Standing above other\npeople.",
+  "en": "It's hard, isn't it?\nStanding above other people.",
   "status": "done",
   "slots": [
    "0x672a"
@@ -1320,7 +1320,7 @@
  {
   "id": "s2070:03f32",
   "jp": "私にはとてもできないんだわさ。\nりっぱりっぱぁ～",
-  "en": "I could never do it, dontcha know. Bravo,\nbravooo~",
+  "en": "I could never do it,\ndontcha know. Bravo, bravooo~",
   "status": "done",
   "slots": [
    "0x6734"
@@ -1330,7 +1330,7 @@
  {
   "id": "s2070:03f62",
   "jp": "もう終わりにしましょう。\nこの悲しい詩は、ここで\nフィナーレですわ。",
-  "en": "Let us end it now. This sad song reaches its\nfinale here.",
+  "en": "Let us end it now. This sad\nsong reaches its finale here.",
   "status": "done",
   "slots": [
    "0x6801"
@@ -1340,7 +1340,7 @@
  {
   "id": "s2070:03fa5",
   "jp": "アナタの詩は、私がしっかりと\n後世に歌い継ぎますわ。",
-  "en": "I shall make sure your song is sung on for\ngenerations to come.",
+  "en": "I shall make sure your song is\nsung on for generations to come.",
   "status": "done",
   "slots": [
    "0x6816"
@@ -1361,7 +1361,7 @@
  {
   "id": "s2070:04009",
   "jp": "愛する人を止めたかった……。\nそれだけだった……。",
-  "en": "I wanted to stop the man I love... That was\nall...",
+  "en": "I wanted to stop the man\nI love... That was all...",
   "status": "done",
   "slots": [
    "0x72fe"
@@ -1372,7 +1372,7 @@
  {
   "id": "s2070:0403f",
   "jp": "それだけのために、私は反皇国を\n謳った……。",
-  "en": "Just for that, I raised the anti-Imperial\nbanner...",
+  "en": "Just for that, I raised the\nanti-Imperial banner...",
   "status": "done",
   "slots": [
    "0x7308"
@@ -1383,7 +1383,7 @@
  {
   "id": "s2070:0406f",
   "jp": "戦って、犠牲が増えるうちに、\n考えは変わった……。",
-  "en": "As I fought, and the sacrifices grew, my\nthinking changed...",
+  "en": "As I fought, and the sacrifices grew,\nmy thinking changed...",
   "status": "done",
   "slots": [
    "0x7312"
@@ -1394,7 +1394,7 @@
  {
   "id": "s2070:040a5",
   "jp": "平和の為なら、犠牲は厭わない。\n犠牲を、無駄にはしない……。\n戦う理由が……変わった。",
-  "en": "For peace, I would not shrink from sacrifice. I\nwould not let sacrifice be in vain... My\nreason to fight... changed.",
+  "en": "For peace, I would not shrink from sacrifice.\nI would not let sacrifice be in vain...\nMy reason to fight... changed.",
   "status": "done",
   "slots": [
    "0x731c"
@@ -1427,7 +1427,7 @@
  {
   "id": "s2070:04147",
   "jp": "その呼び方、懐かしいわね……。\nザジ……アナタは、変わらないわね\n……本当に、あの頃のまま。",
-  "en": "That name takes me back... Zazzy... you\nhaven't changed... Really, just as you were\nback then.",
+  "en": "That name takes me back...\nZazzy... you haven't changed...\nReally, just as you were back then.",
   "status": "done",
   "slots": [
    "0x7358"
@@ -1438,7 +1438,7 @@
  {
   "id": "s2070:041a6",
   "jp": "俺は、愛してるからな。\nあの頃を……あの頃の俺達を。",
-  "en": "'Cause I love it. Those days... us, back in\nthose days.",
+  "en": "'Cause I love it. Those days...\nus, back in those days.",
   "status": "done",
   "slots": [
    "0x7371"
@@ -1449,7 +1449,7 @@
  {
   "id": "s2070:041de",
   "jp": "アナタは、思い出も愛せるのね……\nフフ、羨ましいわ。",
-  "en": "You can love your memories too... Heh, I\nenvy you.",
+  "en": "You can love your memories\ntoo... Heh, I envy you.",
   "status": "done",
   "slots": [
    "0x738a"
@@ -1471,7 +1471,7 @@
  {
   "id": "s2070:04229",
   "jp": "エリーシャ……アナタには、悪い\n事しかしてあげられなかったわね。\n……ごめんなさい。",
-  "en": "Elisha... All I could ever do for you was\nwrong... I'm sorry.",
+  "en": "Elisha... All I could ever do for\nyou was wrong... I'm sorry.",
   "status": "done",
   "slots": [
    "0x73bc"
@@ -1482,7 +1482,7 @@
  {
   "id": "s2070:04280",
   "jp": "会えただけでも嬉しかったわ……。\nありがとう、お母さん。",
-  "en": "Just getting to meet you made me happy...\nThank you, Mother.",
+  "en": "Just getting to meet you made\nme happy... Thank you, Mother.",
   "status": "done",
   "slots": [
    "0x73d5"
@@ -1493,7 +1493,7 @@
  {
   "id": "s2070:042bc",
   "jp": "エリーシャ……。私のようには、\nならないで……でも、時々でいい\nから、私を思い出してね……。",
-  "en": "Elisha... Don't become like me... But now and\nthen, just sometimes, remember me...",
+  "en": "Elisha... Don't become like me... But now\nand then, just sometimes, remember me...",
   "status": "done",
   "slots": [
    "0x73ee"
@@ -1504,7 +1504,7 @@
  {
   "id": "s2070:0431b",
   "jp": "うん……。思い出すよ。\nだから忘れないように、もう一度、\nあたしの名前を呼んで……。",
-  "en": "Yeah... I'll remember. So I won't forget, say\nmy name one more time...",
+  "en": "Yeah... I'll remember. So I won't forget,\nsay my name one more time...",
   "status": "done",
   "slots": [
    "0x7407"
@@ -1515,7 +1515,7 @@
  {
   "id": "s2070:04372",
   "jp": "エリーシャ。\n愛していますよ、エリーシャ。\n世界に、平和を……エリーシャ。",
-  "en": "Elisha. I love you, Elisha. Peace... to the\nworld... Elisha.",
+  "en": "Elisha. I love you, Elisha.\nPeace... to the world... Elisha.",
   "status": "done",
   "slots": [
    "0x7420"
@@ -1570,7 +1570,7 @@
  {
   "id": "s2070:04434",
   "jp": "あなたが使わなきゃ意味ないでしょ\n……それに、あたしは犠牲を出す気\nはないわ。皆で、終わらせましょう",
-  "en": "It's no use unless you use it... Besides, I\ndon't intend to make any sacrifices. Let's\nend this, all of us.",
+  "en": "It's no use unless you use it... Besides,\nI don't intend to make any sacrifices.\nLet's end this, all of us.",
   "status": "done",
   "slots": [
    "0x757a"

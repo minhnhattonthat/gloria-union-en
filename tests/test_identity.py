@@ -36,6 +36,34 @@ def test_iso_identity(tmp_path):
     assert sha1(out) == (ROOT / "rom.sha1").read_text().splitlines()[-1].split()[0]
 
 
+@pytest.mark.skipif(not (ROOT / "work/re/eboot.elf").exists(), reason="no work/re/eboot.elf")
+def test_en_iso_writes_only_its_files(tmp_path):
+    """The English ISO changes DATA.DNS and EBOOT.BIN and nothing else: every other file keeps its extent and bytes,
+    and no sector changes outside those two files' old and new extents, the PVD and their directory records."""
+    import iso9660
+    out = build.build(tmp_path / "en.iso")
+    with open(build.ISO, "rb") as a, open(out, "rb") as b:
+        old = {p: (lba, ln, pos) for p, lba, ln, pos in iso9660.listing(a)}
+        new = {p: (lba, ln, pos) for p, lba, ln, pos in iso9660.listing(b)}
+        changed = {build.DNS, build.EBOOT}
+        assert old.keys() == new.keys()
+        assert all(old[p][:2] == new[p][:2] for p in old if p not in changed)
+        ok = {16} | {old[p][2] // 2048 for p in changed}
+        for p in changed:
+            for lba, ln, _ in (old[p], new[p]):
+                ok |= set(range(lba, lba + -(-ln // 2048)))
+        bad, step, i = [], 2048 * 512, 0
+        a.seek(0), b.seek(0)
+        while True:
+            x, y = a.read(step), b.read(step)
+            if not y:
+                break
+            bad += [i + k for k in range(-(-len(y) // 2048))
+                    if x[k * 2048:(k + 1) * 2048] != y[k * 2048:(k + 1) * 2048] and i + k not in ok]
+            i += step // 2048
+    assert not bad, bad[:20]
+
+
 def test_pack_edits(dns):
     _, plain = dns
     grown, small, moved = bytes(70000), b"abc", b"x" * 0x10000

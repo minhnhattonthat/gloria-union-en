@@ -24,7 +24,7 @@
  {
   "id": "s2035:0005d",
   "jp": "なんで、いきなりあんな奇想天外な\nことを？",
-  "en": "Why'd you suddenly do something so\nbizarre?",
+  "en": "Why'd you suddenly do\nsomething so bizarre?",
   "status": "done",
   "slots": [
    "0xae2"
@@ -57,7 +57,7 @@
  {
   "id": "s2035:000c9",
   "jp": "……まぁ、今はクリスタルよ。\n黒い牙も出てきたし、早いところ\n見つけてずらかりましょう。",
-  "en": "...Well, the Crystal comes first right now.\nThe Black Fang's shown up, so let's find it\nfast and get out of here.",
+  "en": "...Well, the Crystal comes first right now.\nThe Black Fang's shown up,\nso let's find it fast and get out of here.",
   "status": "done",
   "slots": [
    "0xb32"
@@ -123,7 +123,7 @@
  {
   "id": "s2035:00197",
   "jp": "無駄な体力は使いたくない……。\nここは、戦わないほうが\nよさそうだな。",
-  "en": "I don't want to waste our strength... Looks\nlike we'd better not fight here.",
+  "en": "I don't want to waste our strength...\nLooks like we'd better not fight here.",
   "status": "done",
   "slots": [
    "0xcdd"
@@ -134,7 +134,7 @@
  {
   "id": "s2035:001e0",
   "jp": "そうね、それじゃあ振り切るわよ。\nしっかり付いてきなさい！",
-  "en": "Right, then let's shake them off. Stay close\nbehind me!",
+  "en": "Right, then let's shake them off.\nStay close behind me!",
   "status": "done",
   "slots": [
    "0xcf6"
@@ -145,7 +145,7 @@
  {
   "id": "s2035:0021e",
   "jp": "敵は無視してかまわない！\n一刻も早く、目的地に到着しろ！",
-  "en": "You can ignore the enemy! Get to the\ndestination as fast as you can!",
+  "en": "You can ignore the enemy!\nGet to the destination as fast as you can!",
   "status": "done",
   "slots": [
    "0xdb1"
@@ -178,7 +178,7 @@
  {
   "id": "s2035:00299",
   "jp": "扉からものスゴイ威圧感を\n感じますね……。",
-  "en": "I can feel some tremendous pressure coming\nfrom that door...",
+  "en": "I can feel some tremendous\npressure coming from that door...",
   "status": "done",
   "slots": [
    "0x1602"
@@ -200,7 +200,7 @@
  {
   "id": "s2035:002e8",
   "jp": "るっさいわねぇ。\nもう少しシャンと出来ないのかしら",
-  "en": "You're so loud. Can't you pull yourself\ntogether a little?",
+  "en": "You're so loud. Can't you pull\nyourself together a little?",
   "status": "done",
   "slots": [
    "0x1642"
@@ -211,7 +211,7 @@
  {
   "id": "s2035:0031e",
   "jp": "伝説のクリスタルだぞ！？\n興奮せずにはいられるかぃ！",
-  "en": "It's the legendary Crystal, ya know!? How\ncould I not get excited!?",
+  "en": "It's the legendary Crystal, ya know!?\nHow could I not get excited!?",
   "status": "done",
   "slots": [
    "0x165b"
@@ -255,7 +255,7 @@
  {
   "id": "s2035:00422",
   "jp": "ただ、どっかの馬鹿みたいに\nはしゃいでないってだけよ。",
-  "en": "I'm just not bouncing around like some idiot I\ncould name.",
+  "en": "I'm just not bouncing around\nlike some idiot I could name.",
   "status": "done",
   "slots": [
    "0x16d4"
@@ -277,7 +277,7 @@
  {
   "id": "s2035:00475",
   "jp": "もぉ二人ともケンカは止めて！\nさぁ、行こー！",
-  "en": "Come on, you two, stop fighting! Now, let's\ngooo!",
+  "en": "Come on, you two,\nstop fighting! Now, let's gooo!",
   "status": "done",
   "slots": [
    "0x1706"
@@ -321,7 +321,7 @@
  {
   "id": "s2035:00506",
   "jp": "あのクリスタルが、私達が\n探していたものだよ！",
-  "en": "That Crystal is the one we've been looking\nfor!",
+  "en": "That Crystal is the one\nwe've been looking for!",
   "status": "done",
   "slots": [
    "0x1843"
@@ -398,7 +398,7 @@
  {
   "id": "s2035:005f3",
   "jp": "アンヌ・コーマック！\n黒い牙の一員だったの！？",
-  "en": "Anne Cormack! You're one of the Black\nFang!?",
+  "en": "Anne Cormack!\nYou're one of the Black Fang!?",
   "status": "done",
   "slots": [
    "0x1a67"
@@ -420,7 +420,7 @@
  {
   "id": "s2035:00674",
   "jp": "先回りって……俺達は真っ直ぐ\nここに向かったんだが……。",
-  "en": "Ahead of you...? We came straight here,\nthough...",
+  "en": "Ahead of you...? We came\nstraight here, though...",
   "status": "done",
   "slots": [
    "0x1a96"
@@ -574,7 +574,7 @@
  {
   "id": "s2035:02030",
   "jp": "こっちこそ！　もうお前の相手は\nし飽きてるんだよ！",
-  "en": "Right back at ya! I'm sick of dealing with\nyou!",
+  "en": "Right back at ya!\nI'm sick of dealing with you!",
   "status": "done",
   "slots": [
    "0x3082"
@@ -596,7 +596,7 @@
  {
   "id": "s2035:0208b",
   "jp": "それがアタシにも教えてくれない\nのよね。\nま、報酬が貰えるんだからいいけど",
-  "en": "Funny thing, they won't tell me either. Well,\nI'm getting paid, so I don't care.",
+  "en": "Funny thing, they won't tell me either.\nWell, I'm getting paid, so I don't care.",
   "status": "done",
   "slots": [
    "0x35e4"
@@ -629,7 +629,7 @@
  {
   "id": "s2035:0213c",
   "jp": "ブラックモア！\nあんたがあたし達から奪ったもの、\n返してもらうよ！",
-  "en": "Blackmore! I'm taking back what you stole\nfrom us!",
+  "en": "Blackmore! I'm taking back\nwhat you stole from us!",
   "status": "done",
   "slots": [
    "0x37b5"
@@ -640,7 +640,7 @@
  {
   "id": "s2035:02181",
   "jp": "あらあら、\nアタシを無視なんて、いけない子ね\nお仕置きしちゃうわよ？",
-  "en": "My, my, ignoring me? What a naughty girl.\nShall I punish you?",
+  "en": "My, my, ignoring me? What a\nnaughty girl. Shall I punish you?",
   "status": "done",
   "slots": [
    "0x37ce"
@@ -651,7 +651,7 @@
  {
   "id": "s2035:021c8",
   "jp": "ホンットにしつこいですね！\nここまで来ると感心しますよ、もう",
-  "en": "You really are persistent! At this point I'm\nalmost impressed.",
+  "en": "You really are persistent!\nAt this point I'm almost impressed.",
   "status": "done",
   "slots": [
    "0x315d"
@@ -681,7 +681,7 @@
  {
   "id": "s2035:0224f",
   "jp": "すごいね、アナタ。\n負けるたびにウィルが上昇していく\nなんて。",
-  "en": "You're amazing. Your Will goes up every time\nyou lose.",
+  "en": "You're amazing. Your Will\ngoes up every time you lose.",
   "status": "done",
   "slots": [
    "0x326d"
@@ -701,7 +701,7 @@
  {
   "id": "s2035:022a1",
   "jp": "追い詰められた時が一番\n強ぇんだよ！",
-  "en": "...is strongest when he's backed into a\ncorner!",
+  "en": "...is strongest when he's\nbacked into a corner!",
   "status": "done",
   "slots": [
    "0x329b"
@@ -721,7 +721,7 @@
  {
   "id": "s2035:022d4",
   "jp": "あたしはアンタの相手なんて\nしてらんないの！\nそこを退きなさい！",
-  "en": "I don't have time to deal with you! Get out\nof my way!",
+  "en": "I don't have time to deal with you!\nGet out of my way!",
   "status": "done",
   "slots": [
    "0x3392"
@@ -741,7 +741,7 @@
  {
   "id": "s2035:02341",
   "jp": "クリスタルにアナタ。\nフフ、お宝街道まっしぐらよぉ！",
-  "en": "The Crystal and you. Hehe, I'm on the fast\ntrack to treasure!",
+  "en": "The Crystal and you. Hehe,\nI'm on the fast track to treasure!",
   "status": "done",
   "slots": [
    "0x34a3"
@@ -761,7 +761,7 @@
  {
   "id": "s2035:02386",
   "jp": "クリスタルも、俺の首も\nお前らなんかにゃ渡さねぇよ！",
-  "en": "I ain't handing the Crystal OR my head over\nto the likes of you!",
+  "en": "I ain't handing the Crystal OR\nmy head over to the likes of you!",
   "status": "done",
   "slots": [
    "0x34d2"
@@ -771,7 +771,7 @@
  {
   "id": "s2035:023ba",
   "jp": "ベルガス、もういい、それ以上\n傷つかれては治療が厄介になる。",
-  "en": "Velgas, that's enough. If you get hurt any\nworse, patching you up will be a pain.",
+  "en": "Velgas, that's enough. If you get hurt\nany worse, patching you up will be a pain.",
   "status": "done",
   "slots": [
    "0x386c"
@@ -848,7 +848,7 @@
  {
   "id": "s2035:024f9",
   "jp": "いいのか？\nそんなに悠長に話していても。",
-  "en": "Are you sure you should be chatting so\nleisurely?",
+  "en": "Are you sure you should\nbe chatting so leisurely?",
   "status": "done",
   "slots": [
    "0x423d"
@@ -925,7 +925,7 @@
  {
   "id": "s2035:025af",
   "jp": "毒を塗った剣で刺した。って言えば\nわかるか？",
-  "en": "I stabbed her with a poisoned blade. Does\nthat make it clear?",
+  "en": "I stabbed her with a poisoned blade.\nDoes that make it clear?",
   "status": "done",
   "slots": [
    "0x4434"
@@ -969,7 +969,7 @@
  {
   "id": "s2035:02666",
   "jp": "この女、クリスタルの場所が\nわかるらしいな。",
-  "en": "I hear this girl knows where the Crystals\nare.",
+  "en": "I hear this girl knows\nwhere the Crystals are.",
   "status": "done",
   "slots": [
    "0x44a8"
@@ -991,7 +991,7 @@
  {
   "id": "s2035:026c4",
   "jp": "実は、ここに来たのは依頼者に\n頼まれたからでなぁ。\nお前らの情報も依頼者からだ。",
-  "en": "Truth is, I only came here because a client\nasked me to. Your info came from the client\ntoo.",
+  "en": "Truth is, I only came here\nbecause a client asked me to.\nYour info came from the client too.",
   "status": "done",
   "slots": [
    "0x44f7"
@@ -1013,7 +1013,7 @@
  {
   "id": "s2035:02747",
   "jp": "他にもあるけどな。\nま、要は金だよ。か・ね。",
-  "en": "There's more to it than that. But it all\ncomes down to money. M-o-n-e-y.",
+  "en": "There's more to it than that.\nBut it all comes down to money. M-o-n-e-y.",
   "status": "done",
   "slots": [
    "0x4524"
@@ -1024,7 +1024,7 @@
  {
   "id": "s2035:02777",
   "jp": "……ベルガス。こんなのをお前は\n兄貴と認めたのか……！",
-  "en": "...Velgas. You call a guy like this your big\nbrother...!?",
+  "en": "...Velgas. You call a guy like\nthis your big brother...!?",
   "status": "done",
   "slots": [
    "0x453d"
@@ -1035,7 +1035,7 @@
  {
   "id": "s2035:027b1",
   "jp": "お前にはわかんねぇさ。\n真っ向から戦って勝てちまう\nお前には、な。",
-  "en": "You wouldn't understand. Not you, who can\nwin just by fighting head-on.",
+  "en": "You wouldn't understand. Not you,\nwho can win just by fighting head-on.",
   "status": "done",
   "slots": [
    "0x4565"
@@ -1046,7 +1046,7 @@
  {
   "id": "s2035:027f6",
   "jp": "さぁ、お前らも寝てもらおう。\n暴れられては困るから、な！",
-  "en": "Now, you lot can take a nap too. Can't have\nyou making trouble!",
+  "en": "Now, you lot can take a nap too.\nCan't have you making trouble!",
   "status": "done",
   "slots": [
    "0x459b"
@@ -1079,7 +1079,7 @@
  {
   "id": "s2035:0285a",
   "jp": "ここは、従ったほうがよさそうね。",
-  "en": "Looks like we'd better do as he says for\nnow.",
+  "en": "Looks like we'd better\ndo as he says for now.",
   "status": "done",
   "slots": [
    "0x4610"
@@ -1122,7 +1122,7 @@
  {
   "id": "s2035:028cb",
   "jp": "ちょっとぐらい壊しても\nなんともないよな？",
-  "en": "Breaking off a little bit won't hurt anything,\nright?",
+  "en": "Breaking off a little bit\nwon't hurt anything, right?",
   "status": "done",
   "slots": [
    "0x2d8a"

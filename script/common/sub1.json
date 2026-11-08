@@ -2,7 +2,7 @@
  {
   "id": "c1:0024c",
   "jp": "砲弾充填完了！\nいきますよ！　覚悟してください！\n発射ァ！",
-  "en": "Shells loaded! Here I go! Brace yourselves!\nFiiire!",
+  "en": "Shells loaded! Here I go!\nBrace yourselves! Fiiire!",
   "status": "done",
   "slots": [
    "0x4b"
@@ -12,7 +12,7 @@
  {
   "id": "c1:00285",
   "jp": "おぉー面白いように人が飛んで\n行きますね。\nニャハハ！　人がゴミの……。",
-  "en": "Ooh, people are flying off like it's nothing.\nNyahaha! Look, the people are like\ngarbage...",
+  "en": "Ooh, people are flying off like\nit's nothing. Nyahaha! Look,\nthe people are like garbage...",
   "status": "done",
   "slots": [
    "0x84"
@@ -32,7 +32,7 @@
  {
   "id": "c1:0030d",
   "jp": "なんだか楽しくなってきましたね。\nニャッハッハ！　ボクは神だ！\n次弾装填、発射ァ！",
-  "en": "This is getting kind of fun. Nyahhahha! I am a\ngod! Load the next shell, fiiire!",
+  "en": "This is getting kind of fun. Nyahhahha!\nI am a god! Load the next shell, fiiire!",
   "status": "done",
   "slots": [
    "0xcf"
@@ -52,7 +52,7 @@
  {
   "id": "c1:003af",
   "jp": "まだ足りませんか？\n生憎と、砲弾はまだ余ってますよ！\n次弾装填！　発射ァ！",
-  "en": "Still not enough? Too bad for you, I've got\nplenty of shells left! Load the next shell!\nFiiire!",
+  "en": "Still not enough? Too bad for you,\nI've got plenty of shells left!\nLoad the next shell! Fiiire!",
   "status": "done",
   "slots": [
    "0x133"
@@ -62,7 +62,7 @@
  {
   "id": "c1:003f8",
   "jp": "これで一網打尽よ！\nくらいなさい！　発射！",
-  "en": "This'll get them all in one sweep! Take this!\nFire!",
+  "en": "This'll get them all in one\nsweep! Take this! Fire!",
   "status": "done",
   "slots": [
    "0x165"
@@ -72,7 +72,7 @@
  {
   "id": "c1:00422",
   "jp": "これ、ちゃんと当たってるの？\n砲身が邪魔で下が見えないんだけど",
-  "en": "Is this even hitting anything? The barrel's in\nthe way, I can't see below.",
+  "en": "Is this even hitting anything?\nThe barrel's in the way, I can't see below.",
   "status": "done",
   "slots": [
    "0x197"
@@ -82,7 +82,7 @@
  {
   "id": "c1:00460",
   "jp": "まぁ、いいや。気にしたら負けよ！\n発射！",
-  "en": "Oh well. Worrying about it means you lose!\nFire!",
+  "en": "Oh well. Worrying about\nit means you lose! Fire!",
   "status": "done",
   "slots": [
    "0x19e"
@@ -92,7 +92,7 @@
  {
   "id": "c1:00488",
   "jp": "うひゃー日頃のストレスもまとめて\n吹き飛ぶわねぇ！\nドンドン撃っちゃってぇ！",
-  "en": "Wheee, this blows away all my everyday\nstress too! Keep firing!",
+  "en": "Wheee, this blows away all my\neveryday stress too! Keep firing!",
   "status": "done",
   "slots": [
    "0x1d0"
@@ -102,7 +102,7 @@
  {
   "id": "c1:004d3",
   "jp": "ハァ……。\nリーダーって、かっこいいんだけど\n怖いのよねぇ。",
-  "en": "Sigh... The leader's cool, but scary, you\nknow.",
+  "en": "Sigh... The leader's cool,\nbut scary, you know.",
   "status": "done",
   "slots": [
    "0x1d7"
@@ -112,7 +112,7 @@
  {
   "id": "c1:0050e",
   "jp": "いやいや、弱気はダメ！\nここで頑張ってアピールするわよ！\n次弾装填！　撃てぇ！",
-  "en": "No, no, no being timid! I'll work hard here and\nshow what I've got! Load the next shell!\nFire!",
+  "en": "No, no, no being timid! I'll work\nhard here and show what I've got!\nLoad the next shell! Fire!",
   "status": "done",
   "slots": [
    "0x209"

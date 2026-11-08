@@ -24,7 +24,7 @@
  {
   "id": "s2040:00062",
   "jp": "うな～！　まだ追いかけてくる～！\nロコモコが何をしたっていうの～？",
-  "en": "Unyaaa! They're still chasing! What did\nLocomoco ever do to them!?",
+  "en": "Unyaaa! They're still chasing!\nWhat did Locomoco ever do to them!?",
   "status": "done",
   "slots": [
    "0x1d0b"
@@ -57,7 +57,7 @@
  {
   "id": "s2040:0013d",
   "jp": "なに～！？　よしお前ら！　\nまずは、あの飴を狙えー！",
-  "en": "Whaaat!? Alright, men! Aim for that candy\nfirst!",
+  "en": "Whaaat!? Alright, men!\nAim for that candy first!",
   "status": "done",
   "slots": [
    "0x1d56"
@@ -101,7 +101,7 @@
  {
   "id": "s2040:001cc",
   "jp": "遺跡のウィルの他にもう一つ、\n変なウィルを感じるの。",
-  "en": "Besides the Will of the ruins, I can feel\nanother strange Will.",
+  "en": "Besides the Will of the ruins,\nI can feel another strange Will.",
   "status": "done",
   "slots": [
    "0x1e38"
@@ -112,7 +112,7 @@
  {
   "id": "s2040:00204",
   "jp": "島も近いし、島の住人のウィルとか\nじゃないか？",
-  "en": "The island's close, so maybe it's the Will of\nthe people who live there?",
+  "en": "The island's close, so maybe it's the\nWill of the people who live there?",
   "status": "done",
   "slots": [
    "0x1e4a"
@@ -156,7 +156,7 @@
  {
   "id": "s2040:00293",
   "jp": "世にも珍しき魔法少女。\nやっかいですね……。\nあなた達、発砲を許可します。",
-  "en": "A magical girl, rare as they come. How\ntroublesome... You may open fire.",
+  "en": "A magical girl, rare as they come.\nHow troublesome... You may open fire.",
   "status": "done",
   "slots": [
    "0x1f3c"
@@ -178,7 +178,7 @@
  {
   "id": "s2040:0030e",
   "jp": "どんどん近寄ってくる……\nこの先だよ！",
-  "en": "It's getting closer and closer... It's just\nahead!",
+  "en": "It's getting closer and closer...\nIt's just ahead!",
   "status": "done",
   "slots": [
    "0x1fb5"
@@ -200,7 +200,7 @@
  {
   "id": "s2040:0034d",
   "jp": "むむ！　このウィルの感じは……！\nえぇい、行くしかない！",
-  "en": "Mm-mm! This feeling of Will...! Ahh, I've just\ngotta go!",
+  "en": "Mm-mm! This feeling of Will...!\nAhh, I've just gotta go!",
   "status": "done",
   "slots": [
    "0x1fe4"
@@ -233,7 +233,7 @@
  {
   "id": "s2040:003a9",
   "jp": "おぉ！　\n体重の乗ったいいタックルですね。",
-  "en": "Ooh! A fine tackle with real weight behind\nit.",
+  "en": "Ooh! A fine tackle with\nreal weight behind it.",
   "status": "done",
   "slots": [
    "0x20bc"
@@ -299,7 +299,7 @@
  {
   "id": "s2040:00470",
   "jp": "黒い牙のアジトで急に襲ってきた\n女の子！",
-  "en": "The girl who suddenly attacked us at the\nBlack Fang's hideout!",
+  "en": "The girl who suddenly attacked\nus at the Black Fang's hideout!",
   "status": "done",
   "slots": [
    "0x2180"
@@ -310,7 +310,7 @@
  {
   "id": "s2040:0049c",
   "jp": "追われてるの！　助けて！　\n助けろ！　\n助けなさいよ、この鈍チンども！",
-  "en": "They're chasing me! Help me! Help me! Help\nme already, you dummies!",
+  "en": "They're chasing me! Help me! Help me!\nHelp me already, you dummies!",
   "status": "done",
   "slots": [
    "0x2199"
@@ -332,7 +332,7 @@
  {
   "id": "s2040:00519",
   "jp": "混乱してるんだろ。\n……で、嬢ちゃん。\nその追ってきた奴らってのは？",
-  "en": "She's just panicked. ...So, little lady. Who\nare these folks chasin' you?",
+  "en": "She's just panicked. ...So, little lady.\nWho are these folks chasin' you?",
   "status": "done",
   "slots": [
    "0x21e7"
@@ -365,7 +365,7 @@
  {
   "id": "s2040:005d5",
   "jp": "出会い頭にいきなり発砲とは、\nマナーのなってない奴らだな。",
-  "en": "Opening fire the moment we meet. These\npeople have no manners.",
+  "en": "Opening fire the moment we meet.\nThese people have no manners.",
   "status": "done",
   "slots": [
    "0x239a"
@@ -376,7 +376,7 @@
  {
   "id": "s2040:00613",
   "jp": "あいつら、ロコモコの時もいきなり\nおそってきたの！",
-  "en": "Those guys attacked Locomoco out of\nnowhere too!",
+  "en": "Those guys attacked\nLocomoco out of nowhere too!",
   "status": "done",
   "slots": [
    "0x23b7"
@@ -387,7 +387,7 @@
  {
   "id": "s2040:00649",
   "jp": "なんという幼女愛好家。\n世も末だと思いませんか？",
-  "en": "Such dedicated little-girl chasers. Don't you\nthink the world's going to the dogs?",
+  "en": "Such dedicated little-girl chasers. Don't\nyou think the world's going to the dogs?",
   "status": "done",
   "slots": [
    "0x23d2"
@@ -398,7 +398,7 @@
  {
   "id": "s2040:0067d",
   "jp": "許せない……。奴らの愚息に鉛弾\nぶち込んでやるわ！",
-  "en": "Unforgivable... I'll pump lead right into their\nfamily jewels!",
+  "en": "Unforgivable... I'll pump lead\nright into their family jewels!",
   "status": "done",
   "slots": [
    "0x23ed"
@@ -420,7 +420,7 @@
  {
   "id": "s2040:006c2",
   "jp": "これ以上やっても無意味ですか……\nアナタ達、撤退しますよ。",
-  "en": "Going any further would be pointless... You\nlot, we are withdrawing.",
+  "en": "Going any further would be pointless...\nYou lot, we are withdrawing.",
   "status": "done",
   "slots": [
    "0x7617"
@@ -453,7 +453,7 @@
  {
   "id": "s2040:00730",
   "jp": "隊列がしっかりしていた。\nただの賊ではなさそうだな。",
-  "en": "Their formation was disciplined. They don't\nseem to be ordinary bandits.",
+  "en": "Their formation was disciplined.\nThey don't seem to be ordinary bandits.",
   "status": "done",
   "slots": [
    "0x7dd9"
@@ -497,7 +497,7 @@
  {
   "id": "s2040:007fd",
   "jp": "簡単に言うと商人の集りだ。\n主な活動は、商品を開発したり\nなんなりして、それを売ることだな",
-  "en": "Put simply, it's a group of merchants. Mostly\nthey come up with goods and whatnot, and\nsell 'em.",
+  "en": "Put simply, it's a group of merchants.\nMostly they come up with goods\nand whatnot, and sell 'em.",
   "status": "done",
   "slots": [
    "0x7e37"
@@ -508,7 +508,7 @@
  {
   "id": "s2040:0085a",
   "jp": "その中には卑劣な売買を行う\nマナーの最悪な部類も、少ないが\n存在する。",
-  "en": "Among them exist a few of the very\nworst-mannered sort, who engage in vile\ndealings.",
+  "en": "Among them exist a few of the\nvery worst-mannered sort,\nwho engage in vile dealings.",
   "status": "done",
   "slots": [
    "0x7e4d"
@@ -519,7 +519,7 @@
  {
   "id": "s2040:008a3",
   "jp": "たしかに、ロコモコちゃんの魔法は\n私でも知らないぐらい珍しいよ。",
-  "en": "It's true, Locomoco-chan's magic is so rare\nthat even I've never heard of it.",
+  "en": "It's true, Locomoco-chan's magic is so\nrare that even I've never heard of it.",
   "status": "done",
   "slots": [
    "0x7e63"
@@ -530,7 +530,7 @@
  {
   "id": "s2040:008e7",
   "jp": "魔法……フム、確かにあの魔法は\n自分も見たことが無い。\n奴等の目的は魔法に間違いないな。",
-  "en": "Magic... Hm, indeed, I have never seen magic\nlike that either. Their aim must surely be\nher magic.",
+  "en": "Magic... Hm, indeed, I have never\nseen magic like that either.\nTheir aim must surely be her magic.",
   "status": "done",
   "slots": [
    "0x7e79"
@@ -563,7 +563,7 @@
  {
   "id": "s2040:00978",
   "jp": "……悪い奴ってのは、どこにでも\nいるもんだな。",
-  "en": "...Guess there's bad guys everywhere you\ngo.",
+  "en": "...Guess there's bad\nguys everywhere you go.",
   "status": "done",
   "slots": [
    "0x7ef6"
@@ -585,7 +585,7 @@
  {
   "id": "s2040:009cf",
   "jp": "これと決めたことには、\nしつこい連中が多いからなぁ。",
-  "en": "Many of their kind are relentless once they\nset their minds on something.",
+  "en": "Many of their kind are relentless once\nthey set their minds on something.",
   "status": "done",
   "slots": [
    "0x7f28"
@@ -629,7 +629,7 @@
  {
   "id": "s2040:00a69",
   "jp": "ぃよっし……！\nロコモコちゃん。これからは\nあたしが、あなたを守ってあげる。",
-  "en": "Alriiight...! Locomoco-chan, from now on, I'll\nprotect you.",
+  "en": "Alriiight...! Locomoco-chan,\nfrom now on, I'll protect you.",
   "status": "done",
   "slots": [
    "0x7fb6"
@@ -794,7 +794,7 @@
  {
   "id": "s2040:00c9f",
   "jp": "どうやら、クリスタルのウィルを\n探知できるのはルルゥだけのよう\nですね。",
-  "en": "It seems Ruru is the only one who can sense\na Crystal's Will.",
+  "en": "It seems Ruru is the only one\nwho can sense a Crystal's Will.",
   "status": "done",
   "slots": [
    "0x819e"
@@ -827,7 +827,7 @@
  {
   "id": "s2040:00d28",
   "jp": "長旅をするのなら、\n行く先々の村や都市には\nなるべく訪れた方がいいですよ。",
-  "en": "If you're going on a long voyage, you should\nvisit as many villages and cities as you can\nalong the way.",
+  "en": "If you're going on a long voyage,\nyou should visit as many villages\nand cities as you can along the way.",
   "status": "done",
   "slots": [
    "0x2515"
@@ -847,7 +847,7 @@
  {
   "id": "s2040:00dab",
   "jp": "さらに、もらったり拾った物を\n別のものに交換してくれる人も\nいます。",
-  "en": "What's more, some people will trade the\nthings you're given or find for something\nelse.",
+  "en": "What's more, some people will\ntrade the things you're given\nor find for something else.",
   "status": "done",
   "slots": [
    "0x2523"
@@ -857,7 +857,7 @@
  {
   "id": "s2040:00dee",
   "jp": "この島のどこかに鍛冶屋があるの\nですが、何か加工できそうな物を\n持っていけば……。",
-  "en": "There's a blacksmith somewhere on this\nisland. If you bring him something he can\nwork with...",
+  "en": "There's a blacksmith somewhere\non this island. If you bring him\nsomething he can work with...",
   "status": "done",
   "slots": [
    "0x252a"
@@ -897,7 +897,7 @@
  {
   "id": "s2040:00ec3",
   "jp": "時間経過によって変化してしまう\n物もあるから、気をつけるようにね",
-  "en": "Some things change as time passes, so be\ncareful.",
+  "en": "Some things change as\ntime passes, so be careful.",
   "status": "done",
   "slots": [
    "0x25d2"
@@ -917,7 +917,7 @@
  {
   "id": "s2040:00f33",
   "jp": "ワシはかつての大海賊の武器を\n作ったことがあるんじゃ！\n本当じゃって！",
-  "en": "I once made a weapon for a great pirate of\nold! It's true, I tell ya!",
+  "en": "I once made a weapon for a great\npirate of old! It's true, I tell ya!",
   "status": "done",
   "slots": [
    "0x339b"
@@ -947,7 +947,7 @@
  {
   "id": "s2040:00fbf",
   "jp": "金塊を引き伸ばしただけ？\nバ、馬鹿を言うでないわい！\n実際に使って確かめい！",
-  "en": "I just hammered a gold bar flat? D-don't talk\nnonsense! Use it and see for yourself!",
+  "en": "I just hammered a gold bar flat? D-don't\ntalk nonsense! Use it and see for yourself!",
   "status": "done",
   "slots": [
    "0x3421"
@@ -967,7 +967,7 @@
  {
   "id": "s2040:01040",
   "jp": "なんせワシは、伝説の鍛冶師だから\nのう！\nワッハッハ！",
-  "en": "After all, I'm a legendary blacksmith!\nWahaha!",
+  "en": "After all, I'm a legendary\nblacksmith! Wahaha!",
   "status": "done",
   "slots": [
    "0x3448"
@@ -977,7 +977,7 @@
  {
   "id": "s2040:01075",
   "jp": "ワシはかつての大海賊の武器を\n作ったことがあるんじゃ！\n本当じゃって！",
-  "en": "I once made a weapon for a great pirate of\nold! It's true, I tell ya!",
+  "en": "I once made a weapon for a great\npirate of old! It's true, I tell ya!",
   "status": "done",
   "slots": [
    "0x3460"
@@ -997,7 +997,7 @@
  {
   "id": "s2040:010e2",
   "jp": "誰か、加工できるようなものを\n持ってはおらんかのう……。",
-  "en": "Doesn't anyone have something I could work\nwith...",
+  "en": "Doesn't anyone have\nsomething I could work with...",
   "status": "done",
   "slots": [
    "0x346e"
@@ -1007,7 +1007,7 @@
  {
   "id": "s2040:0111a",
   "jp": "いい天気ですね。\nお花さん達も気持ちよさそうに\n笑っています。",
-  "en": "What lovely weather. The flowers look so\nhappy, they're smiling.",
+  "en": "What lovely weather. The flowers\nlook so happy, they're smiling.",
   "status": "done",
   "slots": [
    "0x4252"
@@ -1017,7 +1017,7 @@
  {
   "id": "s2040:01157",
   "jp": "お花さん、少し痛いけど、\n我慢してくださいね。",
-  "en": "Mr. Flower, this will hurt a little, but please\nbear with it.",
+  "en": "Mr. Flower, this will hurt a little,\nbut please bear with it.",
   "status": "done",
   "slots": [
    "0x4259"
@@ -1037,7 +1037,7 @@
  {
   "id": "s2040:01194",
   "jp": "お花さん達にも、旅をさせてあげて\nください。\nよろしくお願いします。",
-  "en": "Please let the flowers travel with you, too.\nI'm counting on you.",
+  "en": "Please let the flowers travel with you,\ntoo. I'm counting on you.",
   "status": "done",
   "slots": [
    "0x42cf"
@@ -1047,7 +1047,7 @@
  {
   "id": "s2040:011d7",
   "jp": "世界中をお花でいっぱいにするのが\n私の夢なんです。",
-  "en": "My dream is to fill the whole world with\nflowers.",
+  "en": "My dream is to fill the\nwhole world with flowers.",
   "status": "done",
   "slots": [
    "0x4318"
@@ -1067,7 +1067,7 @@
  {
   "id": "s2040:01222",
   "jp": "な、なんですかアナタは！\nここは、アナタの様な悪魔が\n来る所ではありません！",
-  "en": "Wh-who are you!? A devil like you has no\nbusiness coming here!",
+  "en": "Wh-who are you!? A devil like\nyou has no business coming here!",
   "status": "done",
   "slots": [
    "0x4342"
@@ -1077,7 +1077,7 @@
  {
   "id": "s2040:0126d",
   "jp": "帰ってください！\nこれ以上、この島を不幸に\nさせないで！",
-  "en": "Go away! Don't bring any more misery to\nthis island!",
+  "en": "Go away! Don't bring any\nmore misery to this island!",
   "status": "done",
   "slots": [
    "0x4349"
@@ -1087,7 +1087,7 @@
  {
   "id": "s2040:012a4",
   "jp": "アナタの様な悪魔はこの世から\n消え去るべきです。",
-  "en": "Devils like you should vanish from this\nworld.",
+  "en": "Devils like you should\nvanish from this world.",
   "status": "done",
   "slots": [
    "0x4364"
@@ -1107,7 +1107,7 @@
  {
   "id": "s2040:012eb",
   "jp": "フフフ、\nアナタ、いい目をしているわね？\nこれを受け取りなさい！",
-  "en": "Hehehe, you've got good eyes, haven't you?\nTake this!",
+  "en": "Hehehe, you've got good eyes,\nhaven't you? Take this!",
   "status": "done",
   "slots": [
    "0x5139"
@@ -1117,7 +1117,7 @@
  {
   "id": "s2040:0132a",
   "jp": "私は“海の平和を守る会”の一人！\nアナタの瞳に平和の光をみたわ！\n黙って受け取りなさい！",
-  "en": "I'm a member of the \"Society to Protect the\nPeace of the Seas\"! I saw the light of peace\nin your eyes! Just take it!",
+  "en": "I'm a member of the \"Society to Protect\nthe Peace of the Seas\"! I saw the light\nof peace in your eyes! Just take it!",
   "status": "done",
   "slots": [
    "0x5192"
@@ -1127,7 +1127,7 @@
  {
   "id": "s2040:01381",
   "jp": "私の他にも“海の平和を守る会”の\nメンバーは存在するわ！\n探してみてね！",
-  "en": "There are other members of the \"Society to\nProtect the Peace of the Seas\" besides me!\nTry looking for them!",
+  "en": "There are other members of the \"Society\nto Protect the Peace of the Seas\"\nbesides me! Try looking for them!",
   "status": "done",
   "slots": [
    "0x51b1"
@@ -1137,7 +1137,7 @@
  {
   "id": "s2040:013c8",
   "jp": "ム！　ちょっとアンタ！\nアンタのその目、気に入らないわ！",
-  "en": "Hm! Hey, you there! I don't like the look in\nyour eyes!",
+  "en": "Hm! Hey, you there!\nI don't like the look in your eyes!",
   "status": "done",
   "slots": [
    "0x51d8"
@@ -1147,7 +1147,7 @@
  {
   "id": "s2040:01400",
   "jp": "私は“海の平和を守る会”！\nアンタ達悪党を、この海から消す\n役目を持った団体よ！",
-  "en": "I'm from the \"Society to Protect the Peace\nof the Seas\"! Our job is to wipe villains like\nyou off this sea!",
+  "en": "I'm from the \"Society to Protect\nthe Peace of the Seas\"! Our job is\nto wipe villains like you off this sea!",
   "status": "done",
   "slots": [
    "0x51df"
@@ -1157,7 +1157,7 @@
  {
   "id": "s2040:0144f",
   "jp": "わかったんなら、さっさとこの\n集落からでていきなさい！",
-  "en": "If you understand, get out of this village at\nonce!",
+  "en": "If you understand,\nget out of this village at once!",
   "status": "done",
   "slots": [
    "0x51e6"
@@ -1167,7 +1167,7 @@
  {
   "id": "s2040:01485",
   "jp": "性懲りも無くきたの！？\nさっさと出て行きなさい！",
-  "en": "You came back, after all that!? Get out\nright now!",
+  "en": "You came back, after all that!?\nGet out right now!",
   "status": "done",
   "slots": [
    "0x5205"
@@ -1187,7 +1187,7 @@
  {
   "id": "s2040:014c6",
   "jp": "って、タダのロープかよぉ。\n期待して損した……。",
-  "en": "Wait, it's just a rope? Got my hopes up for\nnothin'...",
+  "en": "Wait, it's just a rope?\nGot my hopes up for nothin'...",
   "status": "done",
   "slots": [
    "0x608a"
@@ -1197,7 +1197,7 @@
  {
   "id": "s2040:014f6",
   "jp": "ん？　海になにか浮かんでますね。\n回収してみますか。",
-  "en": "Hm? Something's floating in the sea. Shall\nwe fish it out?",
+  "en": "Hm? Something's floating in\nthe sea. Shall we fish it out?",
   "status": "done",
   "slots": [
    "0x60dd"
@@ -1207,7 +1207,7 @@
  {
   "id": "s2040:0152a",
   "jp": "何故停泊用のロープがこんな所に。\nどこかの船が沈没したんですかね。",
-  "en": "Why would a mooring rope be out here? Did\nsome ship sink?",
+  "en": "Why would a mooring rope be\nout here? Did some ship sink?",
   "status": "done",
   "slots": [
    "0x6128"
@@ -1277,7 +1277,7 @@
  {
   "id": "s2040:01687",
   "jp": "む、海に物を捨てるとは！\nマナー違反だ！",
-  "en": "Hm, throwing things into the sea! A breach\nof manners!",
+  "en": "Hm, throwing things into the sea!\nA breach of manners!",
   "status": "done",
   "slots": [
    "0x6339"
@@ -1287,7 +1287,7 @@
  {
   "id": "s2040:016af",
   "jp": "停泊用のロープか。\n出航時に引っかかったのか？\nなんにせよ、許せん！",
-  "en": "A mooring rope. Did it get caught when\nsome ship set sail? Either way,\nunforgivable!",
+  "en": "A mooring rope. Did it get\ncaught when some ship set sail?\nEither way, unforgivable!",
   "status": "done",
   "slots": [
    "0x6384"
@@ -1307,7 +1307,7 @@
  {
   "id": "s2040:0170f",
   "jp": "太いロープっすねぇ。\nローガンさんを捕まえるのに\n役立つかもしれないっす！",
-  "en": "That's one thick rope! It might come in\nhandy for catching Rogan-san!",
+  "en": "That's one thick rope! It might come\nin handy for catching Rogan-san!",
   "status": "done",
   "slots": [
    "0x642d"
@@ -1327,7 +1327,7 @@
  {
   "id": "s2040:01775",
   "jp": "これだけ丈夫なものならば、\n何かに使えるかもしれないな。",
-  "en": "Something this sturdy might be useful for\nsomething.",
+  "en": "Something this sturdy might\nbe useful for something.",
   "status": "done",
   "slots": [
    "0x64cb"
@@ -1337,7 +1337,7 @@
  {
   "id": "s2040:017ad",
   "jp": "あれ、何か浮いてるよ？\nなにかなぁ？",
-  "en": "Huh, something's floating there. What could\nit be?",
+  "en": "Huh, something's floating there.\nWhat could it be?",
   "status": "done",
   "slots": [
    "0x651e"
@@ -1357,7 +1357,7 @@
  {
   "id": "s2040:017fd",
   "jp": "ひやあぁ！\nこんがらがっちゃったよぉ～！\nうごけないぃ～。誰か助けてぇ～！",
-  "en": "Hyaaah! I got all tangled up! I can't\nmoooove. Somebody heeelp!",
+  "en": "Hyaaah! I got all tangled up!\nI can't moooove. Somebody heeelp!",
   "status": "done",
   "slots": [
    "0x657b"
@@ -1367,7 +1367,7 @@
  {
   "id": "s2040:01846",
   "jp": "ヘヘヘッ今日は運がいいぜ！\nなんせ、あの“天上への担い手”に\n会っちまったんだからなぁ！",
-  "en": "Hehehe, today's my lucky day! I went and\nmet the \"Bearer to the Heavens\"!",
+  "en": "Hehehe, today's my lucky day!\nI went and met the \"Bearer to the Heavens\"!",
   "status": "done",
   "slots": [
    "0x662f"
@@ -1407,7 +1407,7 @@
  {
   "id": "s2040:0192b",
   "jp": "こんなにデカイのが獲れるなんて、\nいやぁ～“天上への担い手”\n様様だねぇ。",
-  "en": "To think I'd catch one this big... Man, I owe it\nall to the \"Bearer to the Heavens.\"",
+  "en": "To think I'd catch one this big... Man,\nI owe it all to the \"Bearer to the Heavens.\"",
   "status": "done",
   "slots": [
    "0x66d0",
@@ -1418,7 +1418,7 @@
  {
   "id": "s2040:01974",
   "jp": "その魚拓、お前にやるよ！\n嬉しくなって何枚も作っちまった\nからな！　ガッハッハ！",
-  "en": "You can have that fish print! I was so happy\nI made a whole bunch! Gahaha!",
+  "en": "You can have that fish print! I was so\nhappy I made a whole bunch! Gahaha!",
   "status": "done",
   "slots": [
    "0x66d7"

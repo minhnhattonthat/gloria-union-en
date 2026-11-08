@@ -35,7 +35,7 @@
  {
   "id": "s2063:0008b",
   "jp": "いや、それは違いまっすね。\nローガンさん独特のウィルが\n感じられないっすから。",
-  "en": "No, it's not them, sir. I can't sense\nRogan-san's particular Will.",
+  "en": "No, it's not them, sir. I can't\nsense Rogan-san's particular Will.",
   "status": "done",
   "slots": [
    "0x1074"
@@ -123,7 +123,7 @@
  {
   "id": "s2063:001b3",
   "jp": "たくさん出てきやがった……！\nおぉ、怯むな俺！　いくぞ！",
-  "en": "A whole bunch of 'em came out...! Come on,\ndon't flinch, me! Here goes!",
+  "en": "A whole bunch of 'em came out...!\nCome on, don't flinch, me! Here goes!",
   "status": "done",
   "slots": [
    "0x123f"
@@ -178,7 +178,7 @@
  {
   "id": "s2063:0028a",
   "jp": "ただの幽霊って……思いっきり\n怪しいじゃない。",
-  "en": "\"Just a ghost\"... That's as suspicious as it\ngets.",
+  "en": "\"Just a ghost\"...\nThat's as suspicious as it gets.",
   "status": "done",
   "slots": [
    "0x2669"
@@ -200,7 +200,7 @@
  {
   "id": "s2063:002fa",
   "jp": "じ、実は、私の思い出の品を探して\nいるのです。",
-  "en": "W-well, you see, I'm looking for a keepsake\nof mine.",
+  "en": "W-well, you see, I'm looking\nfor a keepsake of mine.",
   "status": "done",
   "slots": [
    "0x2698"
@@ -299,7 +299,7 @@
  {
   "id": "s2063:004a3",
   "jp": "んー、まぁ、持ってても大して\n価値ないし。\nいいわよ、あげる。",
-  "en": "Hmm, well, it's not worth much to me\nanyway. Sure, you can have it.",
+  "en": "Hmm, well, it's not worth much to\nme anyway. Sure, you can have it.",
   "status": "done",
   "slots": [
    "0x278f"
@@ -365,7 +365,7 @@
  {
   "id": "s2063:0056f",
   "jp": "これは私の思い出の品。\nアナタ達に渡すわけにはいかない！",
-  "en": "This is my keepsake. I can't give it to the\nlikes of you!",
+  "en": "This is my keepsake.\nI can't give it to the likes of you!",
   "status": "done",
   "slots": [
    "0x2903"
@@ -453,7 +453,7 @@
  {
   "id": "s2063:0069b",
   "jp": "……ま、いいか。\nさぁ、次の島に急ごう！",
-  "en": "...Oh well. Come on, let's hurry to the next\nisland!",
+  "en": "...Oh well. Come on,\nlet's hurry to the next island!",
   "status": "done",
   "slots": [
    "0x2a55"
@@ -464,7 +464,7 @@
  {
   "id": "s2063:006c8",
   "jp": "ひっひっひ。果実はいらんかえ？\nおいしいおいしい果実じゃよ。",
-  "en": "Heh heh heh. Care for some fruit? Tasty,\ntasty fruit.",
+  "en": "Heh heh heh. Care for some fruit?\nTasty, tasty fruit.",
   "status": "done",
   "slots": [
    "0x1359",
@@ -490,7 +490,7 @@
  {
   "id": "s2063:00733",
   "jp": "禁断の果実は力を与える。\n人ならざる、禁忌の力をなぁ\nひっひっひ。",
-  "en": "The forbidden fruit grants power. Inhuman,\nforbidden power... Heh heh heh.",
+  "en": "The forbidden fruit grants power.\nInhuman, forbidden power... Heh heh heh.",
   "status": "done",
   "slots": [
    "0x13e0",
@@ -501,7 +501,7 @@
  {
   "id": "s2063:00774",
   "jp": "妖しの果実は呪いの果実。\nなにが起こるかわからない……。\nひっひっひ。",
-  "en": "The bewitching fruit is a cursed fruit. Who\nknows what will happen... Heh heh heh.",
+  "en": "The bewitching fruit is a cursed fruit.\nWho knows what will happen... Heh heh heh.",
   "status": "done",
   "slots": [
    "0x1492",
@@ -545,7 +545,7 @@
  {
   "id": "s2063:00832",
   "jp": "このお墓の中の人のでしょうか……",
-  "en": "Could it belong to whoever's in this\ngrave...?",
+  "en": "Could it belong to\nwhoever's in this grave...?",
   "status": "done",
   "slots": [
    "0x15da",
@@ -589,7 +589,7 @@
  {
   "id": "s2063:008fa",
   "jp": "まぁ、せっかく拾ったんだし、\n使わないてはないわよね。",
-  "en": "Well, since I picked it up, I might as well use\nit.",
+  "en": "Well, since I picked it up,\nI might as well use it.",
   "status": "done",
   "slots": [
    "0x16dc",
@@ -600,7 +600,7 @@
  {
   "id": "s2063:00930",
   "jp": "おぉ、カードじゃねぇか。\nこんな所にもあるもんだなぁ。",
-  "en": "Ooh, a card. Fancy findin' one in a place like\nthis.",
+  "en": "Ooh, a card. Fancy findin'\none in a place like this.",
   "status": "done",
   "slots": [
    "0x1728",
@@ -633,7 +633,7 @@
  {
   "id": "s2063:0099c",
   "jp": "カードとは、ウィルの集合体と\nいわれているが……このカードには\nどのようなウィルが……。",
-  "en": "Cards are said to be masses of Will... What\nkind of Will is in this card...?",
+  "en": "Cards are said to be masses of Will...\nWhat kind of Will is in this card...?",
   "status": "done",
   "slots": [
    "0x17de",
@@ -677,7 +677,7 @@
  {
   "id": "s2063:00a4d",
   "jp": "あぁ、やっぱりそうっす。\nあるもんすねぇ、こんな所にも。",
-  "en": "Yep, it sure is, sir. You find 'em in the\nstrangest places.",
+  "en": "Yep, it sure is, sir. You find\n'em in the strangest places.",
   "status": "done",
   "slots": [
    "0x18f9",
@@ -699,7 +699,7 @@
  {
   "id": "s2063:00a98",
   "jp": "墓の横にあるのがなんとも\n不気味だな……。",
-  "en": "Lying beside a grave, of all places... How\neerie...",
+  "en": "Lying beside a grave,\nof all places... How eerie...",
   "status": "done",
   "slots": [
    "0x197a",
@@ -809,7 +809,7 @@
  {
   "id": "s2063:00bff",
   "jp": "パメラ様ってば、ツイてるだわさ！",
-  "en": "The Great Pamela-sama sure is lucky,\ndontcha know!",
+  "en": "The Great Pamela-sama\nsure is lucky, dontcha know!",
   "status": "done",
   "slots": [
    "0x1bff",
@@ -886,7 +886,7 @@
  {
   "id": "s2063:02c3c",
   "jp": "ありがとうございます！\nこれで、安心して逝くことが\nできます……！",
-  "en": "Thank you so much! Now I can pass on in\npeace...!",
+  "en": "Thank you so much!\nNow I can pass on in peace...!",
   "status": "done",
   "slots": [
    "0x442b"
@@ -897,7 +897,7 @@
  {
   "id": "s2063:02c81",
   "jp": "これ、ささやかですけどお礼です。",
-  "en": "It's only a small thing, but please take this\nas thanks.",
+  "en": "It's only a small thing,\nbut please take this as thanks.",
   "status": "done",
   "slots": [
    "0x4432"
@@ -930,7 +930,7 @@
  {
   "id": "s2063:02ce7",
   "jp": "お、エリーシャさん、\nいいもの貰ったっすね。",
-  "en": "Ooh, you got something nice, Elisha-san,\nma'am.",
+  "en": "Ooh, you got something nice,\nElisha-san, ma'am.",
   "status": "done",
   "slots": [
    "0x450d"
@@ -952,7 +952,7 @@
  {
   "id": "s2063:02d20",
   "jp": "それ、現世に残った霊が、\n未練を断った時に現れる物なんすよ",
-  "en": "That's something that appears when a\nspirit left in this world lets go of its\nattachments, ma'am.",
+  "en": "That's something that appears\nwhen a spirit left in this world\nlets go of its attachments, ma'am.",
   "status": "done",
   "slots": [
    "0x4539"
@@ -974,7 +974,7 @@
  {
   "id": "s2063:02d88",
   "jp": "逆っすよ。\n聖のウィルが、悪霊から守って\nくれるっすよ。",
-  "en": "The opposite, ma'am. Its holy Will protects\nyou from evil spirits.",
+  "en": "The opposite, ma'am. Its holy Will\nprotects you from evil spirits.",
   "status": "done",
   "slots": [
    "0x4565"

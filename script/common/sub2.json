@@ -2,7 +2,7 @@
  {
   "id": "c2:06800",
   "jp": "お、こりゃあ敵が落とした奴か？\nなら、遠慮なくいただくぜ！",
-  "en": "Oh, did the enemy drop this? Then I'll help\nmyself!",
+  "en": "Oh, did the enemy drop this?\nThen I'll help myself!",
   "status": "done",
   "slots": [
    "0x74"
@@ -12,7 +12,7 @@
  {
   "id": "c2:0683a",
   "jp": "敵の落し物なら、問答無用で\nいただきますよ。",
-  "en": "If the enemy dropped it, I'm taking it, no\nquestions asked.",
+  "en": "If the enemy dropped it,\nI'm taking it, no questions asked.",
   "status": "done",
   "slots": [
    "0x6f0"
@@ -32,7 +32,7 @@
  {
   "id": "c2:06886",
   "jp": "敵が落としたんならこれは\n戦利品だ。もらっていくぜ。",
-  "en": "If the enemy dropped it, it's spoils of war.\nI'm takin' it.",
+  "en": "If the enemy dropped it,\nit's spoils of war. I'm takin' it.",
   "status": "done",
   "slots": [
    "0x13e8"
@@ -72,7 +72,7 @@
  {
   "id": "c2:06929",
   "jp": "あらら、落し物っすよ？\n名乗りでないなら、私がもらうっす",
-  "en": "Oh my, somebody dropped this, sir? If\nnobody claims it, I'll take it, sir.",
+  "en": "Oh my, somebody dropped this, sir?\nIf nobody claims it, I'll take it, sir.",
   "status": "done",
   "slots": [
    "0x2dd8"
@@ -92,7 +92,7 @@
  {
   "id": "c2:06976",
   "jp": "この戦利品。\nありがたく使わせてもらう！",
-  "en": "These spoils of war. I'll put them to good\nuse!",
+  "en": "These spoils of war.\nI'll put them to good use!",
   "status": "done",
   "slots": [
    "0x3ad0"
@@ -122,7 +122,7 @@
  {
   "id": "c2:069d6",
   "jp": "この戦利品を売って\n弾代にしませんか？",
-  "en": "Why don't we sell these spoils and use it for\nbullet money?",
+  "en": "Why don't we sell these spoils\nand use it for bullet money?",
   "status": "done",
   "slots": [
    "0x4e44"

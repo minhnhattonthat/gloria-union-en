@@ -13,7 +13,7 @@
  {
   "id": "s2077:0005a",
   "jp": "負け惜しみはこの上なく惨めよ。\n……さぁ、死になさい。",
-  "en": "Sore losers are the most pathetic thing\nthere is. ...Now, die.",
+  "en": "Sore losers are the most pathetic\nthing there is. ...Now, die.",
   "status": "done",
   "slots": [
    "0x1932"
@@ -46,7 +46,7 @@
  {
   "id": "s2077:000ef",
   "jp": "庇うつもりはない……\nただ、殺しはしないでほしいんだ。",
-  "en": "I ain't protectin' him... I just don't want ya\nto kill him.",
+  "en": "I ain't protectin' him...\nI just don't want ya to kill him.",
   "status": "done",
   "slots": [
    "0x1981"
@@ -79,7 +79,7 @@
  {
   "id": "s2077:00151",
   "jp": "なら、尚更引き下がれないわ……。\nこいつを殺して、全てを終わらせる\nのよ！",
-  "en": "Then all the more reason I can't back down...\nI kill him, and it all ends!",
+  "en": "Then all the more reason I can't\nback down... I kill him, and it all ends!",
   "status": "done",
   "slots": [
    "0x19cc"
@@ -112,7 +112,7 @@
  {
   "id": "s2077:001be",
   "jp": "こいつはルキア皇国の皇帝だ。\nこいつを殺せば、次はルキア皇国の\n領地にいる兵全員との戦いになる。",
-  "en": "He's the Emperor of the Lukia Empire. Kill\nhim, and next we're fightin' every soldier in\nLukia's territory.",
+  "en": "He's the Emperor of the Lukia Empire.\nKill him, and next we're fightin'\nevery soldier in Lukia's territory.",
   "status": "done",
   "slots": [
    "0x1a1f"
@@ -123,7 +123,7 @@
  {
   "id": "s2077:00221",
   "jp": "アシュレイは元々悲劇の皇帝として\n人気があるようでしたからね。",
-  "en": "It seems Ashrey was popular as the tragic\nemperor to begin with.",
+  "en": "It seems Ashrey was popular as\nthe tragic emperor to begin with.",
   "status": "done",
   "slots": [
    "0x1a43"
@@ -145,7 +145,7 @@
  {
   "id": "s2077:00286",
   "jp": "俺はアシュレイに、もっと\n世界をみせてやりたいんだ。\n戦争じゃなくて、綺麗な世界を。",
-  "en": "I wanna show Ashrey more of the world. Not\nwar, but a beautiful world.",
+  "en": "I wanna show Ashrey more of the world.\nNot war, but a beautiful world.",
   "status": "done",
   "slots": [
    "0x1a95"
@@ -189,7 +189,7 @@
  {
   "id": "s2077:0034b",
   "jp": "……オイ。\n何、勝手に終わらせてんだよ。\nまだ、僕は降りてねぇぞ……！",
-  "en": "...Hey. Who said you could wrap this up? I\nain't out of this yet...!",
+  "en": "...Hey. Who said you could wrap\nthis up? I ain't out of this yet...!",
   "status": "done",
   "slots": [
    "0x1b07"
@@ -255,7 +255,7 @@
  {
   "id": "s2077:0044e",
   "jp": "イシュト！\n悪いけど、約束守れそうにないわ！",
-  "en": "Ishut! Sorry, but looks like I can't keep that\npromise!",
+  "en": "Ishut! Sorry, but looks like\nI can't keep that promise!",
   "status": "done",
   "slots": [
    "0x1c16"
@@ -277,7 +277,7 @@
  {
   "id": "s2077:004aa",
   "jp": "ユ、ユーフォリアを復活させる為の\nウィルを、吸収してる！？",
-  "en": "H-he's absorbing the Will meant to revive\nEuforia!?",
+  "en": "H-he's absorbing the Will\nmeant to revive Euforia!?",
   "status": "done",
   "slots": [
    "0x1c48"
@@ -288,7 +288,7 @@
  {
   "id": "s2077:004e8",
   "jp": "私みたいな変換機もないのに\nそんなことしたら……！",
-  "en": "If he does that without a converter like\nmine...!",
+  "en": "If he does that without\na converter like mine...!",
   "status": "done",
   "slots": [
    "0x1c4f"
@@ -354,7 +354,7 @@
  {
   "id": "s2077:005ca",
   "jp": "僕ハ、幸福ヲ手ニ入レル！！\n貴様ラハ、邪魔ダアァァァ！！",
-  "en": "I. Will seize. Happiness!! You. Are in. My\nwaaaaay!!",
+  "en": "I. Will seize. Happiness!!\nYou. Are in. My waaaaay!!",
   "status": "done",
   "slots": [
    "0x1d00"
@@ -365,7 +365,7 @@
  {
   "id": "s2077:00606",
   "jp": "何よアレ！　あたし達でも\nわかるくらい、巨大なウィルを\nアシュレイから感じるわ！",
-  "en": "What is that!? Even we can feel a huge Will\ncoming off Ashrey!",
+  "en": "What is that!? Even we can feel\na huge Will coming off Ashrey!",
   "status": "done",
   "slots": [
    "0x1d19"
@@ -376,7 +376,7 @@
  {
   "id": "s2077:00659",
   "jp": "体の崩壊が始まってる……\nもう、アシュレイは助からない。",
-  "en": "His body's started to break down... Ashrey\ncan't be saved anymore.",
+  "en": "His body's started to break down...\nAshrey can't be saved anymore.",
   "status": "done",
   "slots": [
    "0x1d40"
@@ -387,7 +387,7 @@
  {
   "id": "s2077:00695",
   "jp": "そこまでしないと……アイツの\n幸せは掴めないってのかよ……！",
-  "en": "Does he have to go this far... to grab his\nhappiness...!",
+  "en": "Does he have to go this far...\nto grab his happiness...!",
   "status": "done",
   "slots": [
    "0x1d67"
@@ -398,7 +398,7 @@
  {
   "id": "s2077:006d5",
   "jp": "掴めないんじゃない。\nわからねぇのさ……。イシュト、\nここまできた。終わらせてやれ。",
-  "en": "It ain't that he can't grab it. He just don't\nknow what it is... Ishut, we've come this far.\nFinish it for him.",
+  "en": "It ain't that he can't grab it.\nHe just don't know what it is... Ishut,\nwe've come this far. Finish it for him.",
   "status": "done",
   "slots": [
    "0x1d9c"
@@ -442,7 +442,7 @@
  {
   "id": "s2077:0078a",
   "jp": "長旅もここで終わりだ。\nこれまでに俺が掴んだ全てを、\nこの一撃に込める！！",
-  "en": "The long voyage ends here. Everything I've\ngrabbed hold of till now, I'm puttin' into this\none blow!!",
+  "en": "The long voyage ends here.\nEverything I've grabbed hold of till now,\nI'm puttin' into this one blow!!",
   "status": "done",
   "slots": [
    "0x1f8c"
@@ -453,7 +453,7 @@
  {
   "id": "s2077:007d7",
   "jp": "これが本当に最後です！\nボクの全身全霊を賭けて、\nアナタを倒します！！",
-  "en": "This really is the last! I'll stake everything I\nam to defeat you!!",
+  "en": "This really is the last! I'll stake\neverything I am to defeat you!!",
   "status": "done",
   "slots": [
    "0x2059"
@@ -463,7 +463,7 @@
  {
   "id": "s2077:0081c",
   "jp": "物怖じしちゃダメ……！\nここで全てを終わらせるんだ！\n負けられないんだ！",
-  "en": "I mustn't be scared...! We'll end it all here!\nWe can't lose!",
+  "en": "I mustn't be scared...!\nWe'll end it all here! We can't lose!",
   "status": "done",
   "slots": [
    "0x211f"
@@ -473,7 +473,7 @@
  {
   "id": "s2077:00863",
   "jp": "これが最後！\n全弾その身に撃ちこんで\nやるんだから！",
-  "en": "This is the last! I'm putting every round I've\ngot into you!",
+  "en": "This is the last! I'm putting\nevery round I've got into you!",
   "status": "done",
   "slots": [
    "0x21e5"
@@ -493,7 +493,7 @@
  {
   "id": "s2077:008e7",
   "jp": "アシュレイ。キミを倒せば\nこの戦争は終わる……。\n終わらせてもらうぞ！",
-  "en": "Ashrey. Defeating you will end this war...\nAllow me to end it!",
+  "en": "Ashrey. Defeating you will end\nthis war... Allow me to end it!",
   "status": "done",
   "slots": [
    "0x2371"
@@ -503,7 +503,7 @@
  {
   "id": "s2077:0092c",
   "jp": "うぅ……怖い。\nでも、やらなきゃ！\nロコモコが、やらなきゃ！",
-  "en": "Uuu... scary. But Locomoco has to do it!\nLocomoco has to!",
+  "en": "Uuu... scary. But Locomoco\nhas to do it! Locomoco has to!",
   "status": "done",
   "slots": [
    "0x2437"
@@ -533,7 +533,7 @@
  {
   "id": "s2077:009d3",
   "jp": "シャンティエの意思の元に！\n貴様を穿つ！",
-  "en": "In the name of Chantier's will! I will pierce\nyou!",
+  "en": "In the name of Chantier's will!\nI will pierce you!",
   "status": "done",
   "slots": [
    "0x25cd"
@@ -573,7 +573,7 @@
  {
   "id": "s2077:00a51",
   "jp": "全力！　全開！！\nいっくぞぉぉぉぉぉぉ！！！！",
-  "en": "Full power! Full throttle!! Here I\ngooooooooo!!!!",
+  "en": "Full power! Full throttle!!\nHere I gooooooooo!!!!",
   "status": "done",
   "slots": [
    "0x2829"
@@ -583,7 +583,7 @@
  {
   "id": "s2077:00a7f",
   "jp": "こんなこと、アタシの柄じゃ\nないんだけど……まぁ、いいか。",
-  "en": "This isn't really my style... Oh well,\nwhatever.",
+  "en": "This isn't really my style...\nOh well, whatever.",
   "status": "done",
   "slots": [
    "0x28f6"
@@ -603,7 +603,7 @@
  {
   "id": "s2077:00ad6",
   "jp": "相変わらず、ラスボスってのは\nしぶといんだわさ。",
-  "en": "Final bosses are as stubborn as ever,\ndontcha know.",
+  "en": "Final bosses are as stubborn\nas ever, dontcha know.",
   "status": "done",
   "slots": [
    "0x29d8"
@@ -613,7 +613,7 @@
  {
   "id": "s2077:00b06",
   "jp": "お願いだから、これ以上変身とか\nしないでよね？",
-  "en": "Please, no more transformations or\nanything, okay?",
+  "en": "Please, no more transformations\nor anything, okay?",
   "status": "done",
   "slots": [
    "0x29e2"
@@ -623,7 +623,7 @@
  {
   "id": "s2077:00b34",
   "jp": "これほどまでの力の塊……。\n思わず惹かれそうになりますわね。",
-  "en": "Such a mass of power... I'm almost drawn to\nit.",
+  "en": "Such a mass of power...\nI'm almost drawn to it.",
   "status": "done",
   "slots": [
    "0x2ab6"
@@ -633,7 +633,7 @@
  {
   "id": "s2077:00b70",
   "jp": "って、いけませんわ！\nこれは倒すべき相手……。\n気を引き締めなければ！",
-  "en": "No, no, I mustn't! This is an enemy to\ndefeat... I must stay focused!",
+  "en": "No, no, I mustn't! This is an enemy\nto defeat... I must stay focused!",
   "status": "done",
   "slots": [
    "0x2ac0"
@@ -643,7 +643,7 @@
  {
   "id": "s2077:00bb5",
   "jp": "ハハハハハハ！！\n最高に燃えるシチュエーションだ！\n胸が高鳴るぜぇぇぇ！！",
-  "en": "Hahahahahaha!! The most fired-up situation\never! My heart's poundiiiing!!",
+  "en": "Hahahahahaha!! The most fired-up\nsituation ever! My heart's poundiiiing!!",
   "status": "done",
   "slots": [
    "0x2afe"
@@ -675,7 +675,7 @@
  {
   "id": "s2077:00c26",
   "jp": "僕は……決して……間違っていた\nとは思わない。思いたくない。",
-  "en": "I... will never... think I was wrong. I don't\nwant to.",
+  "en": "I... will never... think I was\nwrong. I don't want to.",
   "status": "done",
   "slots": [
    "0x2d2e"
@@ -686,7 +686,7 @@
  {
   "id": "s2077:00c66",
   "jp": "正しいか間違ったかじゃない。\n何をしたくて、何をしたかだ。",
-  "en": "It ain't about right or wrong. It's what you\nwanted to do, and what you did.",
+  "en": "It ain't about right or wrong. It's what\nyou wanted to do, and what you did.",
   "status": "done",
   "slots": [
    "0x2d47"
@@ -708,7 +708,7 @@
  {
   "id": "s2077:00cc9",
   "jp": "そうか……。それが、自由か……。\n……いいものだな。とても楽だ。",
-  "en": "I see... So that is freedom... It's nice. So\neasy.",
+  "en": "I see... So that is freedom...\nIt's nice. So easy.",
   "status": "done",
   "slots": [
    "0x2d6a"
@@ -719,7 +719,7 @@
  {
   "id": "s2077:00d0d",
   "jp": "自由になれば、\n幸せはすぐに見つかるさ……。\nそれも大量にな。",
-  "en": "Once you're free, you'll find happiness in no\ntime... And loads of it.",
+  "en": "Once you're free, you'll find\nhappiness in no time... And loads of it.",
   "status": "done",
   "slots": [
    "0x2d83"
@@ -730,7 +730,7 @@
  {
   "id": "s2077:00d4e",
   "jp": "皆に……伝えてやらねば、\n僕の夢は……叶ったと。",
-  "en": "I have to... tell everyone... that my dream...\ncame true.",
+  "en": "I have to... tell everyone...\nthat my dream... came true.",
   "status": "done",
   "slots": [
    "0x2d9c"
@@ -752,7 +752,7 @@
  {
   "id": "s2077:00d91",
   "jp": "後は……お前に任せるよ。\n……じゃあな、イシュト。",
-  "en": "I'll leave... the rest to you... ...See you,\nIshut.",
+  "en": "I'll leave... the rest to you...\n...See you, Ishut.",
   "status": "done",
   "slots": [
    "0x2dce"
@@ -873,7 +873,7 @@
  {
   "id": "s2077:00ecc",
   "jp": "これ以上、\nユーフォリアを利用される\nわけにはいかないから……。",
-  "en": "Because I can't let anyone use Euforia\nanymore...",
+  "en": "Because I can't let anyone\nuse Euforia anymore...",
   "status": "done",
   "slots": [
    "0x35c7"
@@ -895,7 +895,7 @@
  {
   "id": "s2077:00f30",
   "jp": "私とイシュトで、\nユーフォリアを沈める。",
-  "en": "You and me, Ishut. We'll sink Euforia\ntogether.",
+  "en": "You and me, Ishut.\nWe'll sink Euforia together.",
   "status": "done",
   "slots": [
    "0x35f6"
@@ -917,7 +917,7 @@
  {
   "id": "s2077:00f73",
   "jp": "私は、ユーフォリアの核。\n私がユーフォリアの\n核になれば……。",
-  "en": "I'm Euforia's core. If I become Euforia's\ncore...",
+  "en": "I'm Euforia's core.\nIf I become Euforia's core...",
   "status": "done",
   "slots": [
    "0x3628"
@@ -928,7 +928,7 @@
  {
   "id": "s2077:00fb4",
   "jp": "そして、イシュトの剣を\n台座に刺せば、ユーフォリアは\n再び海に沈む。",
-  "en": "And then, if you put your sword in the\npedestal, Ishut, Euforia will sink into the sea\nagain.",
+  "en": "And then, if you put your\nsword in the pedestal, Ishut,\nEuforia will sink into the sea again.",
   "status": "done",
   "slots": [
    "0x3632"
@@ -994,7 +994,7 @@
  {
   "id": "s2077:01086",
   "jp": "遺跡のカードもない。\n私もいない。これでユーフォリアが\n沈めば……全てが終わる。",
-  "en": "No more ruin cards. No more me. If Euforia\nsinks now... it all ends.",
+  "en": "No more ruin cards. No more me.\nIf Euforia sinks now... it all ends.",
   "status": "done",
   "slots": [
    "0x36db"
@@ -1038,7 +1038,7 @@
  {
   "id": "s2077:01106",
   "jp": "ユーフォリアの力を利用しようと\nするやつは腐るほどいるんだ。",
-  "en": "There's more folks than ya can count who'd\ntry to use Euforia's power.",
+  "en": "There's more folks than ya can count\nwho'd try to use Euforia's power.",
   "status": "done",
   "slots": [
    "0x374d"
@@ -1049,7 +1049,7 @@
  {
   "id": "s2077:01146",
   "jp": "そんな人達に利用されるなら、\nいっそ……。",
-  "en": "If it's gonna be used by people like that,\nthen better to just...",
+  "en": "If it's gonna be used by people\nlike that, then better to just...",
   "status": "done",
   "slots": [
    "0x3766"
@@ -1170,7 +1170,7 @@
  {
   "id": "s2077:0127c",
   "jp": "すごい……これが、シンフォニア。\n……綺麗。",
-  "en": "Amazing... So this is Symphonia. ...It's\nbeautiful.",
+  "en": "Amazing... So this is Symphonia.\n...It's beautiful.",
   "status": "done",
   "slots": [
    "0x3a39"
@@ -1181,7 +1181,7 @@
  {
   "id": "s2077:012ac",
   "jp": "シンフォニアセット\nプログラム“ユーフォリア”起動！",
-  "en": "Symphonia. Set. Program \"Euforia\".\nActivate!",
+  "en": "Symphonia. Set.\nProgram \"Euforia\". Activate!",
   "status": "done",
   "slots": [
    "0x3a52"
@@ -1203,7 +1203,7 @@
  {
   "id": "s2077:012fb",
   "jp": "なにモタモタしてんだ！\n早く船に乗り込め！",
-  "en": "What're ya dawdlin' for!? Get on the ship,\nnow!",
+  "en": "What're ya dawdlin' for!?\nGet on the ship, now!",
   "status": "done",
   "slots": [
    "0x3aa0"
@@ -1258,7 +1258,7 @@
  {
   "id": "s2077:0139e",
   "jp": "イシュト、ダメだよ。\nイシュトにだって、まだやることが\nあるでしょ？",
-  "en": "No, Ishut. You still have things to do too,\ndon't you?",
+  "en": "No, Ishut. You still have\nthings to do too, don't you?",
   "status": "done",
   "slots": [
    "0x3b4e"
@@ -1280,7 +1280,7 @@
  {
   "id": "s2077:013f6",
   "jp": "ここから、新しい歴史が始まる。\nイシュト、あなたはその歴史の\n最初の人になって。",
-  "en": "A new history starts here. Ishut, be the\nfirst person of that history.",
+  "en": "A new history starts here. Ishut,\nbe the first person of that history.",
   "status": "done",
   "slots": [
    "0x3b80"
@@ -1291,7 +1291,7 @@
  {
   "id": "s2077:01449",
   "jp": "歴史の、最初の人……？\n新たなる……海賊時代、か。",
-  "en": "The first person of history...? A new... age\nof pirates, huh.",
+  "en": "The first person of history...?\nA new... age of pirates, huh.",
   "status": "done",
   "slots": [
    "0x3b99"
@@ -1313,7 +1313,7 @@
  {
   "id": "s2077:01490",
   "jp": "……いつか俺一人でユーフォリアを\n復活させてやるからな！",
-  "en": "...Someday I'm gonna bring Euforia back all\nby myself, ya hear!",
+  "en": "...Someday I'm gonna bring Euforia\nback all by myself, ya hear!",
   "status": "done",
   "slots": [
    "0x3be7"
@@ -1346,7 +1346,7 @@
  {
   "id": "s2077:01503",
   "jp": "調子いいなぁおい。\nわぁったよ。お前ら！\n出航ォ！",
-  "en": "You've sure perked up, huh. Fine, fine. You\nlot! Set saaail!",
+  "en": "You've sure perked up, huh.\nFine, fine. You lot! Set saaail!",
   "status": "done",
   "slots": [
    "0x3c52"
@@ -1357,7 +1357,7 @@
  {
   "id": "s2077:01538",
   "jp": "ルルゥ！　また会いましょう！\nセクシーになった僕を見せて\nあげますよー！",
-  "en": "Ruru! Let's meet again! I'll show you the new,\nsexy me!",
+  "en": "Ruru! Let's meet again!\nI'll show you the new, sexy me!",
   "status": "done",
   "slots": [
    "0x3d44"
@@ -1368,7 +1368,7 @@
  {
   "id": "s2077:01583",
   "jp": "馬鹿達の面倒はあたしがみるから\n安心しなさい！",
-  "en": "I'll look after these idiots, so don't you\nworry!",
+  "en": "I'll look after these idiots,\nso don't you worry!",
   "status": "done",
   "slots": [
    "0x3d81"
@@ -1401,7 +1401,7 @@
  {
   "id": "s2077:015fe",
   "jp": "マジで！？\nオ、オイ聞いたか今の。",
-  "en": "Seriously!? H-Hey, did you hear that just\nnow?",
+  "en": "Seriously!? H-Hey,\ndid you hear that just now?",
   "status": "done",
   "slots": [
    "0x3e13"

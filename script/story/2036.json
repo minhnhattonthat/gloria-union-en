@@ -24,7 +24,7 @@
  {
   "id": "s2036:00050",
   "jp": "お寝坊さんですね。\n寝顔にチューするところでした。",
-  "en": "You're quite the sleepyhead. I was about to\nkiss you while you slept.",
+  "en": "You're quite the sleepyhead.\nI was about to kiss you while you slept.",
   "status": "done",
   "slots": [
    "0xb53"
@@ -101,7 +101,7 @@
  {
   "id": "s2036:00125",
   "jp": "地面を殴っても拳を痛めるだけよ。\nそれよりも、脱出の方法を考えない\nとね。",
-  "en": "Punching the floor will only hurt your fist.\nMore importantly, we need to think of a way\nout.",
+  "en": "Punching the floor will only hurt\nyour fist. More importantly,\nwe need to think of a way out.",
   "status": "done",
   "slots": [
    "0xc49"
@@ -167,7 +167,7 @@
  {
   "id": "s2036:00215",
   "jp": "細かいことを気にしたら負けですよ\nっと。\nん……よし、開きました。",
-  "en": "Sweat the details and you've already lost.\nHm... There, it's open.",
+  "en": "Sweat the details and you've\nalready lost. Hm... There, it's open.",
   "status": "done",
   "slots": [
    "0xcef"
@@ -211,7 +211,7 @@
  {
   "id": "s2036:002b1",
   "jp": "さも当然のように言うわね……。",
-  "en": "She says that like it's the most natural\nthing in the world...",
+  "en": "She says that like it's the most\nnatural thing in the world...",
   "status": "done",
   "slots": [
    "0xfa1"
@@ -222,7 +222,7 @@
  {
   "id": "s2036:002d4",
   "jp": "ふざけるな！\nもう一度牢屋に入れてやる！",
-  "en": "Don't mess with me! I'll throw you back in\nthe cell!",
+  "en": "Don't mess with me!\nI'll throw you back in the cell!",
   "status": "done",
   "slots": [
    "0xfbb"
@@ -233,7 +233,7 @@
  {
   "id": "s2036:00300",
   "jp": "見張り兵はあれだけか？\nなら、ルルゥの牢屋の鍵も\n持ってるな。",
-  "en": "Is he the only guard? Then he must have the\nkey to Ruru's cell too.",
+  "en": "Is he the only guard? Then he must\nhave the key to Ruru's cell too.",
   "status": "done",
   "slots": [
    "0x105a"
@@ -332,7 +332,7 @@
  {
   "id": "s2036:0043b",
   "jp": "これで全員揃ったな。\nここは黒い牙のアジトなんだろ？\nなら、ブラックモアもいるはずだ。",
-  "en": "That's everyone together. This is the Black\nFang's hideout, right? Then Blackmore must\nbe here too.",
+  "en": "That's everyone together.\nThis is the Black Fang's hideout, right?\nThen Blackmore must be here too.",
   "status": "done",
   "slots": [
    "0x1cc0"
@@ -365,7 +365,7 @@
  {
   "id": "s2036:004ba",
   "jp": "あぁそれなんだけど、\n少し寄る所があるんだけど、いい？",
-  "en": "Ah, about that. There's somewhere I need\nto stop by first. Is that okay?",
+  "en": "Ah, about that. There's somewhere\nI need to stop by first. Is that okay?",
   "status": "done",
   "slots": [
    "0x1d0b"
@@ -376,7 +376,7 @@
  {
   "id": "s2036:004f4",
   "jp": "急いでるんだぞ？\nそんなの無理に決まってるだろ。",
-  "en": "We're in a hurry, you know. Obviously that's\nout of the question.",
+  "en": "We're in a hurry, you know.\nObviously that's out of the question.",
   "status": "done",
   "slots": [
    "0x1d32"
@@ -387,7 +387,7 @@
  {
   "id": "s2036:00528",
   "jp": "あら、助けられた相手に対して\n随分な物言いね……。",
-  "en": "My, that's some way to talk to the person\nwho saved you...",
+  "en": "My, that's some way to talk to\nthe person who saved you...",
   "status": "done",
   "slots": [
    "0x1d4b"
@@ -409,7 +409,7 @@
  {
   "id": "s2036:0058c",
   "jp": "ん、それじゃあ、先にエリーシャの\n用事を終わらせちゃおうよ。",
-  "en": "Mm, then let's take care of Elisha's errand\nfirst.",
+  "en": "Mm, then let's take care\nof Elisha's errand first.",
   "status": "done",
   "slots": [
    "0x1d7a"
@@ -497,7 +497,7 @@
  {
   "id": "s2036:00676",
   "jp": "ロコモコね、\nシンフォニアを探してるの。\nどこにあるか知らない？",
-  "en": "Locomoco is looking for Symphonia. Do you\nknow where it is?",
+  "en": "Locomoco is looking for Symphonia.\nDo you know where it is?",
   "status": "done",
   "slots": [
    "0x1edb"
@@ -563,7 +563,7 @@
  {
   "id": "s2036:00762",
   "jp": "古代ユーフォリアを探してるって、\nどういう意味よ？\n普通はクリスタルとかでしょ？",
-  "en": "What do you mean, looking for ancient\nEuforia? Normally people look for Crystals,\nright?",
+  "en": "What do you mean,\nlooking for ancient Euforia?\nNormally people look for Crystals, right?",
   "status": "done",
   "slots": [
    "0x1f9d"
@@ -585,7 +585,7 @@
  {
   "id": "s2036:007c8",
   "jp": "嘘！　気配がするもん！\n明らかに異質なウィルを、\nこの島から感じたんだもん！",
-  "en": "Liar! I can feel it! I felt a really strange\nWill coming from this island!",
+  "en": "Liar! I can feel it! I felt a really\nstrange Will coming from this island!",
   "status": "done",
   "slots": [
    "0x1fde"
@@ -596,7 +596,7 @@
  {
   "id": "s2036:00817",
   "jp": "感じる……？\nまさか、この子供もウィルを\n探知できるのか！？",
-  "en": "Feel it...? Don't tell me this kid can detect\nWill too!?",
+  "en": "Feel it...? Don't tell me this\nkid can detect Will too!?",
   "status": "done",
   "slots": [
    "0x1ff7"
@@ -629,7 +629,7 @@
  {
   "id": "s2036:0234b",
   "jp": "兄貴、何焦ってるんですか。\n子供が怒ったぐらいです。",
-  "en": "Boss, what are you panicking for? It's just an\nangry kid.",
+  "en": "Boss, what are you panicking for?\nIt's just an angry kid.",
   "status": "done",
   "slots": [
    "0x2e1f"
@@ -662,7 +662,7 @@
  {
   "id": "s2036:023f6",
   "jp": "こんな子供に大きなウィル！？　\nなによそれ！",
-  "en": "A huge Will in a little kid like this!? What the\nheck!",
+  "en": "A huge Will in a little kid\nlike this!? What the heck!",
   "status": "done",
   "slots": [
    "0x2e75"
@@ -684,7 +684,7 @@
  {
   "id": "s2036:0244b",
   "jp": "本当のこと言わないと、ロコモコの\nキャンディーが火を噴いちゃうぜ！",
-  "en": "If you don't tell me the truth, Locomoco's\ncandy's gonna spit fire!",
+  "en": "If you don't tell me the truth,\nLocomoco's candy's gonna spit fire!",
   "status": "done",
   "slots": [
    "0x356d"
@@ -706,7 +706,7 @@
  {
   "id": "s2036:024ac",
   "jp": "ねこさんでも、教えてくれなきゃ\nゆるさないんだから！",
-  "en": "Even if you're a kitty, I won't forgive you\nunless you tell me!",
+  "en": "Even if you're a kitty, I won't\nforgive you unless you tell me!",
   "status": "done",
   "slots": [
    "0x3679"
@@ -717,7 +717,7 @@
  {
   "id": "s2036:024e4",
   "jp": "なんたる理不尽。\nこれが子供パゥワ～ってやつですね",
-  "en": "How unreasonable. So this is what they call\nkid powaaa.",
+  "en": "How unreasonable. So this is\nwhat they call kid powaaa.",
   "status": "done",
   "slots": [
    "0x3693"
@@ -728,7 +728,7 @@
  {
   "id": "s2036:0251a",
   "jp": "なんで、アナタみたいな子供が\nそんなに強いスキルを使えるの！？",
-  "en": "How can a kid like you use such a powerful\nskill!?",
+  "en": "How can a kid like you use\nsuch a powerful skill!?",
   "status": "done",
   "slots": [
    "0x377d"
@@ -761,7 +761,7 @@
  {
   "id": "s2036:025d2",
   "jp": "メテオを使えるウィッチは\nロコモコだけだよ！\n普通のウィッチと一緒にしないで！",
-  "en": "Locomoco's the only Witch who can use\nMeteor! Don't lump me in with normal\nWitches!",
+  "en": "Locomoco's the only Witch\nwho can use Meteor! Don't lump\nme in with normal Witches!",
   "status": "done",
   "slots": [
    "0x37c9"
@@ -783,7 +783,7 @@
  {
   "id": "s2036:0266a",
   "jp": "せっかく親父の居場所がわかった\nのに、なんなのよこの娘は～！",
-  "en": "I finally find out where Dad is, and now\nwhat's with this kid!?",
+  "en": "I finally find out where Dad is,\nand now what's with this kid!?",
   "status": "done",
   "slots": [
    "0x38e3"
@@ -794,7 +794,7 @@
  {
   "id": "s2036:026aa",
   "jp": "お兄ちゃん達のばかぁ！　\nもう知らない！　\nうえぇ～～～～～～～～～～ん！！",
-  "en": "You guys are big dummies! I'm not talking to\nyou anymore! Waaaaaaaaaaaaaah!!",
+  "en": "You guys are big dummies! I'm not talking\nto you anymore! Waaaaaaaaaaaaaah!!",
   "status": "done",
   "slots": [
    "0x3b5f"
@@ -816,7 +816,7 @@
  {
   "id": "s2036:02710",
   "jp": "なんでしょう、この罪悪感。\n今すぐ追いかけて謝りに\n行きたいんですが……。",
-  "en": "What is this guilt I'm feeling? I kind of want\nto chase after her right now and\napologize...",
+  "en": "What is this guilt I'm feeling?\nI kind of want to chase after\nher right now and apologize...",
   "status": "done",
   "slots": [
    "0x42a8"
@@ -860,7 +860,7 @@
  {
   "id": "s2036:0279e",
   "jp": "さぁ、早くエリーシャさんの\n用事をすませましょう。",
-  "en": "Now, let's hurry and take care of\nElisha-san's errand.",
+  "en": "Now, let's hurry and take\ncare of Elisha-san's errand.",
   "status": "done",
   "slots": [
    "0x4314"
@@ -915,7 +915,7 @@
  {
   "id": "s2036:028ae",
   "jp": "あぁ、\nそれが黒い牙との因縁ってわけか。",
-  "en": "Ah, so that's your history with the Black\nFang.",
+  "en": "Ah, so that's your history\nwith the Black Fang.",
   "status": "done",
   "slots": [
    "0x4393"
@@ -948,7 +948,7 @@
  {
   "id": "s2036:0292b",
   "jp": "うわぁ、油断ならねぇな……。\n回収しとこ。",
-  "en": "Yikes, can't let my guard down... I'll grab\nthis.",
+  "en": "Yikes, can't let my guard\ndown... I'll grab this.",
   "status": "done",
   "slots": [
    "0x119e",
@@ -1014,7 +1014,7 @@
  {
   "id": "s2036:02a1a",
   "jp": "よくもまぁここまで、\n狡い手を思いつくもんよねぇ。",
-  "en": "It's amazing how they keep coming up with\nsuch dirty tricks.",
+  "en": "It's amazing how they keep\ncoming up with such dirty tricks.",
   "status": "done",
   "slots": [
    "0x136a",
@@ -1035,7 +1035,7 @@
  {
   "id": "s2036:02a61",
   "jp": "錆びだらけだなぁ。\n……まぁ、倒した敵を縛るぐらい\nには使えるか。",
-  "en": "It's all rusty. ...Well, guess it's good enough\nfor tying up enemies we beat.",
+  "en": "It's all rusty. ...Well, guess it's good\nenough for tying up enemies we beat.",
   "status": "done",
   "slots": [
    "0x32a8"

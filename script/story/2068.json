@@ -46,7 +46,7 @@
  {
   "id": "s2068:00094",
   "jp": "ロコモコちゃん、\nあまり、見ない方がいいっす……。",
-  "en": "Locomoco-chan, better not look too much,\nokay...",
+  "en": "Locomoco-chan, better\nnot look too much, okay...",
   "status": "done",
   "slots": [
    "0x397c"
@@ -90,7 +90,7 @@
  {
   "id": "s2068:0010b",
   "jp": "人間と兵器を一体化させる\n人体実験……。",
-  "en": "Human experiments... fusing people with\nweapons...",
+  "en": "Human experiments...\nfusing people with weapons...",
   "status": "done",
   "slots": [
    "0x39fa"
@@ -101,7 +101,7 @@
  {
   "id": "s2068:00137",
   "jp": "実験？　私には地獄にしか\n見えないわ……。",
-  "en": "Experiments? It looks like nothing but hell to\nme...",
+  "en": "Experiments? It looks like\nnothing but hell to me...",
   "status": "done",
   "slots": [
    "0x3a26"
@@ -123,7 +123,7 @@
  {
   "id": "s2068:00193",
   "jp": "ハズシテ。ダレカ、コノカラダ……\nハズシテ",
-  "en": "Take it off. Someone, this body... Take it\noff.",
+  "en": "Take it off. Someone,\nthis body... Take it off.",
   "status": "done",
   "slots": [
    "0x3a71"
@@ -134,7 +134,7 @@
  {
   "id": "s2068:001c1",
   "jp": "ウィルの流れがグチャグチャ……。\n絵の具を混ぜたみたいになってる。",
-  "en": "The Will is flowing all jumbled up... Like\npaints all mixed together.",
+  "en": "The Will is flowing all jumbled up...\nLike paints all mixed together.",
   "status": "done",
   "slots": [
    "0x3a9f"
@@ -156,7 +156,7 @@
  {
   "id": "s2068:00226",
   "jp": "兵器と人間は流れるウィルが違う。\nだから、拒絶反応が出てるんだ……",
-  "en": "The Will that flows in weapons is different\nfrom a human's. That's why their bodies are\nrejecting it...",
+  "en": "The Will that flows in weapons\nis different from a human's.\nThat's why their bodies are rejecting it...",
   "status": "done",
   "slots": [
    "0x3b07"
@@ -167,7 +167,7 @@
  {
   "id": "s2068:0026c",
   "jp": "なんとか抑えようとしているみたい\nだけど、逆にそれがあの子達を\n苦しめているんだわさ……。",
-  "en": "Looks like something's trying to hold it\ndown, but that only makes those kids suffer\nmore, dontcha know...",
+  "en": "Looks like something's trying to hold\nit down, but that only makes those\nkids suffer more, dontcha know...",
   "status": "done",
   "slots": [
    "0x3b3a"
@@ -233,7 +233,7 @@
  {
   "id": "s2068:0038c",
   "jp": "オ久シブリデスネ。プロトタイプ。\nエネルギーハ足リテマスカ？",
-  "en": "Long time no see. Prototype. Is your energy.\nSufficient?",
+  "en": "Long time no see. Prototype.\nIs your energy. Sufficient?",
   "status": "done",
   "slots": [
    "0x3cdf"
@@ -255,7 +255,7 @@
  {
   "id": "s2068:003df",
   "jp": "アジョー・グラフォー……。\n反皇国の人間だったのか。",
-  "en": "Ajo-Grafor... So you were with the\nanti-Imperials.",
+  "en": "Ajo-Grafor... So you were\nwith the anti-Imperials.",
   "status": "done",
   "slots": [
    "0x3d26"
@@ -277,7 +277,7 @@
  {
   "id": "s2068:0043c",
   "jp": "ベルガスを改造したのも、お前だな",
-  "en": "The one who rebuilt Velgas... that was you,\ntoo.",
+  "en": "The one who rebuilt Velgas...\nthat was you, too.",
   "status": "done",
   "slots": [
    "0x3d5f"
@@ -288,7 +288,7 @@
  {
   "id": "s2068:00461",
   "jp": "彼は素晴らしかったよ。\n我々に新たな可能性を\n教えてくれた。",
-  "en": "He was wonderful. He showed us new\npossibilities.",
+  "en": "He was wonderful.\nHe showed us new possibilities.",
   "status": "done",
   "slots": [
    "0x3d78"
@@ -310,7 +310,7 @@
  {
   "id": "s2068:004b5",
   "jp": "なにが可能性よ……ただ人体実験の\n道具にしただけじゃない！",
-  "en": "Possibilities, my foot... You just made him a\ntool for your human experiments!",
+  "en": "Possibilities, my foot... You just made\nhim a tool for your human experiments!",
   "status": "done",
   "slots": [
    "0x3dcb"
@@ -332,7 +332,7 @@
  {
   "id": "s2068:00534",
   "jp": "同じ兵器でも、Ｍｋ－２のパーツを\n使うことによって、拒絶反応を\n極限まで抑えることができる。",
-  "en": "Same weapon parts, but by using Mk-II's\nparts, I could keep the rejection down to\nthe bare minimum.",
+  "en": "Same weapon parts, but by using\nMk-II's parts, I could keep the\nrejection down to the bare minimum.",
   "status": "done",
   "slots": [
    "0x3e12"
@@ -354,7 +354,7 @@
  {
   "id": "s2068:005ee",
   "jp": "ウィルの性質を\n人工的に変質させるなんて、\n不可能だよ！",
-  "en": "Changing the nature of Will artificially...\nThat's impossible!",
+  "en": "Changing the nature of Will\nartificially... That's impossible!",
   "status": "done",
   "slots": [
    "0x3e35"
@@ -365,7 +365,7 @@
  {
   "id": "s2068:00629",
   "jp": "確かに、現代の技術力じゃ\n到底無理だ……なら、古代の知識を\n借りようじゃないか。",
-  "en": "True, it's far beyond today's technology...\nSo why not borrow the knowledge of the\nancients?",
+  "en": "True, it's far beyond today's\ntechnology... So why not borrow\nthe knowledge of the ancients?",
   "status": "done",
   "slots": [
    "0x3e4e"
@@ -453,7 +453,7 @@
  {
   "id": "s2068:007bc",
   "jp": "回りくどい事言ってないで\nハッキリ言いなさいよ。",
-  "en": "Stop beating around the bush and say it\nplainly.",
+  "en": "Stop beating around the\nbush and say it plainly.",
   "status": "done",
   "slots": [
    "0x3f4d"
@@ -464,7 +464,7 @@
  {
   "id": "s2068:007f0",
   "jp": "遺跡のカードに含まれる強大な\nウィル。それを何枚もエネルギーに\n変換して撃ちだしたら、どうなる？",
-  "en": "The cards of the ruins hold enormous Will.\nWhat would happen if you turned card after\ncard into energy and fired it off?",
+  "en": "The cards of the ruins hold enormous Will.\nWhat would happen if you turned card\nafter card into energy and fired it off?",
   "status": "done",
   "slots": [
    "0x3f66"
@@ -497,7 +497,7 @@
  {
   "id": "s2068:0089c",
   "jp": "島１つ吹き飛ぶだけじゃ\nすまないわよ……。",
-  "en": "It wouldn't stop at blowing away one\nisland...",
+  "en": "It wouldn't stop at\nblowing away one island...",
   "status": "done",
   "slots": [
    "0x3fd4"
@@ -519,7 +519,7 @@
  {
   "id": "s2068:008ed",
   "jp": "なるほど、超強力な兵器の\n出来上がりってわけか……。",
-  "en": "I see. So that makes her one super-powerful\nweapon...",
+  "en": "I see. So that makes her one\nsuper-powerful weapon...",
   "status": "done",
   "slots": [
    "0x403c"
@@ -530,7 +530,7 @@
  {
   "id": "s2068:00925",
   "jp": "正式名称“シンフォニア”\nそれが、キミの本当の名前だ。",
-  "en": "Official designation: \"Symphonia\". That is\nyour real name.",
+  "en": "Official designation: \"Symphonia\".\nThat is your real name.",
   "status": "done",
   "slots": [
    "0x4055"
@@ -574,7 +574,7 @@
  {
   "id": "s2068:00a01",
   "jp": "チクショウ！　これも、平和の為の\n犠牲だって言うのかよ！",
-  "en": "Damn it! Ya gonna tell me this is a sacrifice\nfor peace too!?",
+  "en": "Damn it! Ya gonna tell me this\nis a sacrifice for peace too!?",
   "status": "done",
   "slots": [
    "0x41c4"
@@ -585,7 +585,7 @@
  {
   "id": "s2068:00a3d",
   "jp": "考えるのは後だ！　\n今は目の前の敵と、この胸糞悪い\n研究室をぶっ壊す事を考えろ！",
-  "en": "Think about it later! Right now, think about\nthe enemy in front of you and smashing this\ndisgusting lab to bits!",
+  "en": "Think about it later! Right now,\nthink about the enemy in front of you\nand smashing this disgusting lab to bits!",
   "status": "done",
   "slots": [
    "0x41e2"
@@ -618,7 +618,7 @@
  {
   "id": "s2068:00ad7",
   "jp": "そう。キミには有り余る存在だ。\nだから大人しくカードを渡してくれ\nないか？",
-  "en": "Right. She's far too much for the likes of\nyou. So won't you be a good boy and hand\nover the cards?",
+  "en": "Right. She's far too much for the\nlikes of you. So won't you be a\ngood boy and hand over the cards?",
   "status": "done",
   "slots": [
    "0x5f6f"
@@ -651,7 +651,7 @@
  {
   "id": "s2068:00b56",
   "jp": "悪いな。それと、ありがとうな。\nお前のおかげでベルガスと戦えた。",
-  "en": "Sorry. And thanks. Thanks to you, I got to\nfight Velgas.",
+  "en": "Sorry. And thanks. Thanks to you,\nI got to fight Velgas.",
   "status": "done",
   "slots": [
    "0x6ec0"
@@ -673,7 +673,7 @@
  {
   "id": "s2068:00bbb",
   "jp": "あぁ。\nどうせなら、派手に壊してやんよ。\nこの剣でな！",
-  "en": "Yeah. If I'm doin' it anyway, I'll wreck ya with\na bang. With this sword!",
+  "en": "Yeah. If I'm doin' it anyway,\nI'll wreck ya with a bang. With this sword!",
   "status": "done",
   "slots": [
    "0x6ef8"
@@ -684,7 +684,7 @@
  {
   "id": "s2068:00bf4",
   "jp": "アナタはここで倒さなきゃダメ。\nこれ以上、研究はさせない！",
-  "en": "We have to beat you here. I won't let you do\nany more research!",
+  "en": "We have to beat you here.\nI won't let you do any more research!",
   "status": "done",
   "slots": [
    "0x6169"
@@ -695,7 +695,7 @@
  {
   "id": "s2068:00c32",
   "jp": "なら僕を殺すことだね。\n研究は僕にとって酸素みたいなもの\nだから。",
-  "en": "Then you'll have to kill me. Research is like\noxygen to me.",
+  "en": "Then you'll have to kill me.\nResearch is like oxygen to me.",
   "status": "done",
   "slots": [
    "0x6182"
@@ -706,7 +706,7 @@
  {
   "id": "s2068:00c77",
   "jp": "ゴメンね。\nもし違うところで出会えていたら、\nアナタと姉妹になりたかったよ。",
-  "en": "I'm sorry. If we'd met somewhere else, I'd\nhave liked to be your sister.",
+  "en": "I'm sorry. If we'd met somewhere else,\nI'd have liked to be your sister.",
   "status": "done",
   "slots": [
    "0x70cd"
@@ -728,7 +728,7 @@
  {
   "id": "s2068:00ce9",
   "jp": "どうだい？\nルルゥの素晴らしさが\nわかっただろう？",
-  "en": "Well? Now you see how wonderful Ruru is,\ndon't you?",
+  "en": "Well? Now you see how\nwonderful Ruru is, don't you?",
   "status": "done",
   "slots": [
    "0x6073"
@@ -738,7 +738,7 @@
  {
   "id": "s2068:00d1a",
   "jp": "そんなのとっくにわかってますよ。\nなんせ、兄貴が惚れた女の子\nなんですからね。",
-  "en": "We knew that long ago. She's the girl the\nBoss fell for, after all.",
+  "en": "We knew that long ago. She's the\ngirl the Boss fell for, after all.",
   "status": "done",
   "slots": [
    "0x608d"
@@ -748,7 +748,7 @@
  {
   "id": "s2068:00d67",
   "jp": "アンタみたいなのを、\n外道っていうのよ。\n覚悟しなさい！",
-  "en": "People like you are what we call scum. Get\nready!",
+  "en": "People like you are what\nwe call scum. Get ready!",
   "status": "done",
   "slots": [
    "0x6256"
@@ -758,7 +758,7 @@
  {
   "id": "s2068:00d9e",
   "jp": "道を外れて何が悪いんだい？\nたまに道をそれないと見えない\n景色だってあるんだよ？",
-  "en": "What's wrong with leaving the path? Some\nviews you can only see if you stray from it\nnow and then, you know?",
+  "en": "What's wrong with leaving the path?\nSome views you can only see if you\nstray from it now and then, you know?",
   "status": "done",
   "slots": [
    "0x626f"
@@ -768,7 +768,7 @@
  {
   "id": "s2068:00ded",
   "jp": "一つだけ教えろ。\nこの研究にエンリエッタは\n協力しているのか？",
-  "en": "Tell me one thing. Is Enryetta helping with\nthis research?",
+  "en": "Tell me one thing. Is Enryetta\nhelping with this research?",
   "status": "done",
   "slots": [
    "0x634a"
@@ -778,7 +778,7 @@
  {
   "id": "s2068:00e2a",
   "jp": "モチロン！\n彼女はこの研究所を提供し、\n研究費まで負担してくれた！",
-  "en": "Of course! She gave me this lab and even\npaid for the research!",
+  "en": "Of course! She gave me this lab\nand even paid for the research!",
   "status": "done",
   "slots": [
    "0x6363"
@@ -828,7 +828,7 @@
  {
   "id": "s2068:00f1a",
   "jp": "断る！\n貴様の様な外道と協力など、\n死んでもするものか！",
-  "en": "I refuse! I would sooner die than work with\nscum like you!",
+  "en": "I refuse! I would sooner die\nthan work with scum like you!",
   "status": "done",
   "slots": [
    "0x649c"
@@ -848,7 +848,7 @@
  {
   "id": "s2068:00f91",
   "jp": "こ、この人、怖いよ……。\nもう、絶対負けられないんだから！",
-  "en": "Th-this man is scary... Now Locomoco really\ncan't lose!",
+  "en": "Th-this man is scary...\nNow Locomoco really can't lose!",
   "status": "done",
   "slots": [
    "0x65a0"
@@ -858,7 +858,7 @@
  {
   "id": "s2068:00fcb",
   "jp": "あぁあ、こんな事して。\n罪人課のお世話になること\n決定ですよ？　アナタ。",
-  "en": "Oh dear, doing stuff like this. That's a sure\ntrip to the Sinners Section, you know? You,\nsir.",
+  "en": "Oh dear, doing stuff like this.\nThat's a sure trip to the Sinners\nSection, you know? You, sir.",
   "status": "done",
   "slots": [
    "0x6674"
@@ -878,7 +878,7 @@
  {
   "id": "s2068:01055",
   "jp": "……みんなそう言うんすよ。\nウチに来る罪人さんは。",
-  "en": "...That's what they all say, sir. The sinners\nwho come to us.",
+  "en": "...That's what they all say, sir.\nThe sinners who come to us.",
   "status": "done",
   "slots": [
    "0x66a7"
@@ -898,7 +898,7 @@
  {
   "id": "s2068:010b5",
   "jp": "シャンティエは研究材料に\n困らないからね。",
-  "en": "Chantier is never short of research\nmaterial, after all.",
+  "en": "Chantier is never short of\nresearch material, after all.",
   "status": "done",
   "slots": [
    "0x679b"
@@ -938,7 +938,7 @@
  {
   "id": "s2068:01129",
   "jp": "この研究には、キミのパーツの\n一部も使われてるんだから。",
-  "en": "After all, some of your parts went into this\nresearch too.",
+  "en": "After all, some of your parts\nwent into this research too.",
   "status": "done",
   "slots": [
    "0x68c2"
@@ -978,7 +978,7 @@
  {
   "id": "s2068:011d3",
   "jp": "貴様の様な輩を、\n許すわけにはいかない！\n覚悟しろぉぉぉ！",
-  "en": "I can't let vermin like you go unpunished!\nPrepare yourselfff!",
+  "en": "I can't let vermin like you go\nunpunished! Prepare yourselfff!",
   "status": "done",
   "slots": [
    "0x6a9d"
@@ -988,7 +988,7 @@
  {
   "id": "s2068:0120c",
   "jp": "キミに許されたところで\nなんだというんだい？",
-  "en": "And what would it matter if you forgave\nme?",
+  "en": "And what would it matter\nif you forgave me?",
   "status": "done",
   "slots": [
    "0x6ab6"
@@ -998,7 +998,7 @@
  {
   "id": "s2068:01238",
   "jp": "ま、いいか。\nただの凡人に、僕の考えは\n理解できないだろうからね。",
-  "en": "Oh, never mind. An ordinary person couldn't\nunderstand my ideas anyway.",
+  "en": "Oh, never mind. An ordinary person\ncouldn't understand my ideas anyway.",
   "status": "done",
   "slots": [
    "0x6ac0"
@@ -1008,7 +1008,7 @@
  {
   "id": "s2068:01279",
   "jp": "アンタを見てると、\n姉さんを思い出すわね。\nま、ここまで酷くないけど。",
-  "en": "Looking at you reminds me of my sister. Not\nthat she was this bad, though.",
+  "en": "Looking at you reminds me of my sister.\nNot that she was this bad, though.",
   "status": "done",
   "slots": [
    "0x6b94"
@@ -1018,7 +1018,7 @@
  {
   "id": "s2068:012be",
   "jp": "彼女は唯一僕の意思を\n理解できた人だよ。\n惜しい人を亡くしたものだね。",
-  "en": "She was the only one who understood my\nvision. Such a loss.",
+  "en": "She was the only one who\nunderstood my vision. Such a loss.",
   "status": "done",
   "slots": [
    "0x6bad"
@@ -1028,7 +1028,7 @@
  {
   "id": "s2068:01303",
   "jp": "アンタみたいなタイプは見た事ない\nから、結構面白かったけど。\nどうやら、ここまでのようね。",
-  "en": "I've never seen a type like you, so it was\npretty fun. But looks like this is as far as you\ngo.",
+  "en": "I've never seen a type like you,\nso it was pretty fun. But looks\nlike this is as far as you go.",
   "status": "done",
   "slots": [
    "0x6c81"
@@ -1058,7 +1058,7 @@
  {
   "id": "s2068:013a1",
   "jp": "キミは、どこか人とは違う雰囲気が\nするね……面白そうだ。",
-  "en": "There's something about you that's not like\nother people... Interesting.",
+  "en": "There's something about you that's\nnot like other people... Interesting.",
   "status": "done",
   "slots": [
    "0x6d8e"
@@ -1068,7 +1068,7 @@
  {
   "id": "s2068:013d9",
   "jp": "この世で最も醜い音は、人の悲鳴。\nその音を自らかき鳴らす者は、\n誰であろうと許しません！",
-  "en": "The ugliest sound in this world is a human\nscream. Anyone who plays that sound with\ntheir own hands, I will not forgive, whoever\nthey may be!",
+  "en": "The ugliest sound in this world is a\nhuman scream. Anyone who plays\nthat sound with their own hands,\nI will not forgive, whoever they may be!",
   "status": "done",
   "slots": [
    "0x6da8"
@@ -1078,7 +1078,7 @@
  {
   "id": "s2068:01430",
   "jp": "かわいそうですけど、\n破壊させてもらいますよ。",
-  "en": "I feel sorry for you, but I'm going to break\nyou.",
+  "en": "I feel sorry for you,\nbut I'm going to break you.",
   "status": "done",
   "slots": [
    "0x6fd3"
@@ -1098,7 +1098,7 @@
  {
   "id": "s2068:01486",
   "jp": "悪いわね。\n恨むなら、アンタを作ったあの男を\n恨みなさい！",
-  "en": "Sorry. If you want to blame someone, blame\nthat man who made you!",
+  "en": "Sorry. If you want to blame someone,\nblame that man who made you!",
   "status": "done",
   "slots": [
    "0x71bf"
@@ -1108,7 +1108,7 @@
  {
   "id": "s2068:014bf",
   "jp": "敵、ガンナー、攻撃態勢。\n迎撃ヲ開始シマス。",
-  "en": "Enemy. Gunner. Attack stance. Beginning\ninterception.",
+  "en": "Enemy. Gunner. Attack stance.\nBeginning interception.",
   "status": "done",
   "slots": [
    "0x71dd"
@@ -1128,7 +1128,7 @@
  {
   "id": "s2068:01513",
   "jp": "悪いが、娘のコピーなんかに\n負ける訳にはいかねぇんでな。\n破壊させてもらうぜぇ。",
-  "en": "Sorry, but I ain't losin' to some copy of my\ndaughter. I'm gonna break ya.",
+  "en": "Sorry, but I ain't losin' to some copy\nof my daughter. I'm gonna break ya.",
   "status": "done",
   "slots": [
    "0x72e6"
@@ -1178,7 +1178,7 @@
  {
   "id": "s2068:0161c",
   "jp": "ウィルノ特殊ナ活用法、魔法ヲ感知\n排除シマス。",
-  "en": "Special use of Will. Magic. Detected.\nEliminating.",
+  "en": "Special use of Will. Magic.\nDetected. Eliminating.",
   "status": "done",
   "slots": [
    "0x74d4"
@@ -1208,7 +1208,7 @@
  {
   "id": "s2068:0168d",
   "jp": "貴様の様な兵器に情はかけん。\n今すぐこの場で、破壊してやろう！",
-  "en": "I show no mercy to a weapon like you. I'll\ndestroy you right here and now!",
+  "en": "I show no mercy to a weapon like you.\nI'll destroy you right here and now!",
   "status": "done",
   "slots": [
    "0x769a"
@@ -1248,7 +1248,7 @@
  {
   "id": "s2068:01720",
   "jp": "あの研究者に加担した以上、\nアナタも悪の一員です。\n覚悟しなさい！",
-  "en": "Since you sided with that researcher, you\ntoo are a part of evil. Prepare yourself!",
+  "en": "Since you sided with that researcher,\nyou too are a part of evil. Prepare yourself!",
   "status": "done",
   "slots": [
    "0x787e"
@@ -1268,7 +1268,7 @@
  {
   "id": "s2068:01798",
   "jp": "あのルルゥさんと瓜二つのこの人に\n果たして僕の槍が通用するのか…。",
-  "en": "Will my spear even work on someone who's\nthe spitting image of Ruru-san...?",
+  "en": "Will my spear even work on someone\nwho's the spitting image of Ruru-san...?",
   "status": "done",
   "slots": [
    "0x7970"
@@ -1278,7 +1278,7 @@
  {
   "id": "s2068:017da",
   "jp": "戦闘準備、ＯＫ。\n戦闘ヲ、開始シマス。",
-  "en": "Battle preparation. OK. Commencing.\nBattle.",
+  "en": "Battle preparation. OK.\nCommencing. Battle.",
   "status": "done",
   "slots": [
    "0x798e"
@@ -1288,7 +1288,7 @@
  {
   "id": "s2068:01800",
   "jp": "アナタを壊して、そのパーツを\n売ったら、どれほどのお金に\nなるんでしょうね？",
-  "en": "I wonder how much money your parts would\nbring if I broke you and sold them?",
+  "en": "I wonder how much money your parts\nwould bring if I broke you and sold them?",
   "status": "done",
   "slots": [
    "0x7a62"
@@ -1298,7 +1298,7 @@
  {
   "id": "s2068:0184b",
   "jp": "目標、グロリア海賊団。\n攻撃ヲ、開始シマス。",
-  "en": "Target. Gloria Pirates. Commencing.\nAttack.",
+  "en": "Target. Gloria Pirates.\nCommencing. Attack.",
   "status": "done",
   "slots": [
    "0x7a80"
@@ -1308,7 +1308,7 @@
  {
   "id": "s2068:01877",
   "jp": "偽者なんかじゃ、このパメラ様には\n勝てないんだわさ！",
-  "en": "A fake can't beat the Great Pamela-sama,\ndontcha know!",
+  "en": "A fake can't beat the Great\nPamela-sama, dontcha know!",
   "status": "done",
   "slots": [
    "0x7b54"
@@ -1328,7 +1328,7 @@
  {
   "id": "s2068:018bc",
   "jp": "感情という音を持たない機械に、\n用はありませんわ。\nさぁ、大人しくしていなさいな。",
-  "en": "I have no use for a machine without the\nsound called feeling. Now, be a good girl and\nkeep still.",
+  "en": "I have no use for a machine\nwithout the sound called feeling.\nNow, be a good girl and keep still.",
   "status": "done",
   "slots": [
    "0x7c46"
@@ -1348,7 +1348,7 @@
  {
   "id": "s2068:01941",
   "jp": "身体損傷……全体ダメージ、９０％\nを越えました……修理を……修……\n理……を……。",
-  "en": "Body damage... total damage, over 90%...\nrepair... re... pair...",
+  "en": "Body damage... total damage,\nover 90%... repair... re... pair...",
   "status": "done",
   "slots": [
    "0x85df"
@@ -1381,7 +1381,7 @@
  {
   "id": "s2068:019f3",
   "jp": "カードが本当の動力源だったなんて\n……そりゃあ燃費が悪くて当たり前\nですよ。",
-  "en": "So cards were her real power source... No\nwonder she burns through fuel so fast.",
+  "en": "So cards were her real power source...\nNo wonder she burns through fuel so fast.",
   "status": "done",
   "slots": [
    "0x8694"
@@ -1392,7 +1392,7 @@
  {
   "id": "s2068:01a42",
   "jp": "黒い牙がルルゥを攫おうとした訳が\n今更だけどわかったわね。",
-  "en": "It's late, but now we know why the Black\nFang tried to kidnap Ruru.",
+  "en": "It's late, but now we know why the\nBlack Fang tried to kidnap Ruru.",
   "status": "done",
   "slots": [
    "0x86aa"
@@ -1425,7 +1425,7 @@
  {
   "id": "s2068:01aec",
   "jp": "遺跡を貪り始めた時点で、\nあなたを普通の女の子とは\n思っていませんでしたよ。",
-  "en": "From the moment you started devouring\nruins, I never thought you were an ordinary\ngirl.",
+  "en": "From the moment you started\ndevouring ruins, I never thought\nyou were an ordinary girl.",
   "status": "done",
   "slots": [
    "0x86f5"
@@ -1458,7 +1458,7 @@
  {
   "id": "s2068:01ba7",
   "jp": "変とはなんだ変とは。\n不意な中傷はマナー違反だぞ。",
-  "en": "What do you mean, weird? An unprovoked\ninsult is a breach of manners!",
+  "en": "What do you mean, weird?\nAn unprovoked insult is a breach of manners!",
   "status": "done",
   "slots": [
    "0x8737"
@@ -1469,7 +1469,7 @@
  {
   "id": "s2068:01bdd",
   "jp": "そうねぇ。確かに思ったよりも\n驚かないんだわさ。\n他にもスゴイ人なんて沢山いるし。",
-  "en": "Well, true, I'm less surprised than I thought\nI'd be, dontcha know. There are loads of\nother amazing people around.",
+  "en": "Well, true, I'm less surprised than I\nthought I'd be, dontcha know. There are\nloads of other amazing people around.",
   "status": "done",
   "slots": [
    "0x8771"
@@ -1480,7 +1480,7 @@
  {
   "id": "s2068:01c32",
   "jp": "ある意味古代兵器なんか目じゃない\n危険さよね、私達って。",
-  "en": "In a way, we're a lot more dangerous than\nany ancient weapon, aren't we?",
+  "en": "In a way, we're a lot more dangerous\nthan any ancient weapon, aren't we?",
   "status": "done",
   "slots": [
    "0x87a4"
@@ -1491,7 +1491,7 @@
  {
   "id": "s2068:01c6e",
   "jp": "可愛くて最強なんて、最高に心躍る\n組み合わせですわ！",
-  "en": "Cute and the strongest! What a thrilling\ncombination!",
+  "en": "Cute and the strongest!\nWhat a thrilling combination!",
   "status": "done",
   "slots": [
    "0x87d7"
@@ -1502,7 +1502,7 @@
  {
   "id": "s2068:01ca6",
   "jp": "最強！　なんといい響きでしょう。\nボクは、ルルゥさんを尊敬します！",
-  "en": "The strongest! What a wonderful ring that\nhas. I look up to you, Ruru-san!",
+  "en": "The strongest! What a wonderful ring\nthat has. I look up to you, Ruru-san!",
   "status": "done",
   "slots": [
    "0x880a"
@@ -1524,7 +1524,7 @@
  {
   "id": "s2068:01d3d",
   "jp": "憧れのシンフォニアが\nルルゥおねえちゃんだったなんて、\nロコモコ大感動だよ！",
-  "en": "The Symphonia Locomoco always dreamed\nof was Ruru-oneechan! Locomoco is soooo\nmoved!",
+  "en": "The Symphonia Locomoco always\ndreamed of was Ruru-oneechan!\nLocomoco is soooo moved!",
   "status": "done",
   "slots": [
    "0x8851"
@@ -1546,7 +1546,7 @@
  {
   "id": "s2068:01d99",
   "jp": "ホント、改めて見ると\n濃いメンバーよね……。",
-  "en": "Honestly, looking at us again... we're one\ncolorful bunch...",
+  "en": "Honestly, looking at us again...\nwe're one colorful bunch...",
   "status": "done",
   "slots": [
    "0x88a4"
@@ -1590,7 +1590,7 @@
  {
   "id": "s2068:01e37",
   "jp": "お前ら……\n友情を深めるのも結構だが、\nヤベェのが来たぞ。",
-  "en": "You lot... Bonding's all well and good, but\nsomethin' nasty's comin'.",
+  "en": "You lot... Bonding's all well and good,\nbut somethin' nasty's comin'.",
   "status": "done",
   "slots": [
    "0x8929"
@@ -1601,7 +1601,7 @@
  {
   "id": "s2068:01e74",
   "jp": "総員突撃！　目標は疲弊している！\n今が勝負だ！",
-  "en": "All troops, charge! The enemy is exhausted!\nNow is our chance!",
+  "en": "All troops, charge! The enemy\nis exhausted! Now is our chance!",
   "status": "done",
   "slots": [
    "0x8bd1"
@@ -1667,7 +1667,7 @@
  {
   "id": "s2068:01f52",
   "jp": "弱音を吐いた奴から死ぬぞ！\nオメェら！　気合入れろ！",
-  "en": "The first one to whine is the first one to die!\nYou lot! Get fired up!",
+  "en": "The first one to whine is the first\none to die! You lot! Get fired up!",
   "status": "done",
   "slots": [
    "0x8c9f"
@@ -1678,7 +1678,7 @@
  {
   "id": "s2068:01f8a",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x5938",
@@ -1689,7 +1689,7 @@
  {
   "id": "s2068:01fd7",
   "jp": "キミの手にある鎖。\nそれは世界とキミを繋いでいる\n忌まわしき鎖だ。",
-  "en": "The chain in your hand. It is the cursed chain\nthat binds you to the world.",
+  "en": "The chain in your hand. It is the cursed\nchain that binds you to the world.",
   "status": "done",
   "slots": [
    "0x593f",
@@ -1700,7 +1700,7 @@
  {
   "id": "s2068:02018",
   "jp": "その鎖、私の手で断ち切って\nやろうではないか！",
-  "en": "Allow me to sever that chain with my own\nhands!",
+  "en": "Allow me to sever that\nchain with my own hands!",
   "status": "done",
   "slots": [
    "0x5946",
@@ -1711,7 +1711,7 @@
  {
   "id": "s2068:02046",
   "jp": "これでキミは、性という鎖から\n解放された。\n喜びたまえ。",
-  "en": "There. You have been freed from the chain\nof gender. Rejoice.",
+  "en": "There. You have been freed from\nthe chain of gender. Rejoice.",
   "status": "done",
   "slots": [
    "0x5956",
@@ -1734,7 +1734,7 @@
  {
   "id": "s2068:0209e",
   "jp": "心なしか、逞しくなった気が\nしますね。",
-  "en": "I feel like I've gotten a bit more rugged,\nsomehow.",
+  "en": "I feel like I've gotten a bit\nmore rugged, somehow.",
   "status": "done",
   "slots": [
    "0x5a20",
@@ -1770,7 +1770,7 @@
  {
   "id": "s2068:020fe",
   "jp": "変わってない？\nいい度胸ね。\nちょっと面貸しなさいよ。",
-  "en": "I haven't changed? You've got some nerve.\nStep outside for a minute.",
+  "en": "I haven't changed? You've got some\nnerve. Step outside for a minute.",
   "status": "done",
   "slots": [
    "0x5aa8",
@@ -1830,7 +1830,7 @@
  {
   "id": "s2068:0219f",
   "jp": "これは……ある意味、歴史的瞬間\nなのかもしれない……。",
-  "en": "This may be... in a sense, a historic\nmoment...",
+  "en": "This may be... in a sense,\na historic moment...",
   "status": "done",
   "slots": [
    "0x5c78",
@@ -1842,7 +1842,7 @@
  {
   "id": "s2068:021d9",
   "jp": "ま、これで変な男に言い寄られなく\nて済むわね。",
-  "en": "Well, at least now weird men won't come\nhitting on me.",
+  "en": "Well, at least now weird men\nwon't come hitting on me.",
   "status": "done",
   "slots": [
    "0x5cca",
@@ -1902,7 +1902,7 @@
  {
   "id": "s2068:02287",
   "jp": "意味ねぇことしてねぇで、\nさっさと戦闘に戻れぇ。",
-  "en": "Quit messin' around with pointless stuff and\nget back to the fight.",
+  "en": "Quit messin' around with pointless\nstuff and get back to the fight.",
   "status": "done",
   "slots": [
    "0x5e5a",
@@ -1921,14 +1921,14 @@
  {
   "id": "s2068:022f1",
   "jp": "んもぅ、細かい事気にしないでよ！\n器の小さい子は嫌われちゃうわよ？",
-  "en": "Oh, come on, don't fuss over the little\nthings! Small-minded kids don't get any love,\nyou know?",
+  "en": "Oh, come on, don't fuss over the\nlittle things! Small-minded kids\ndon't get any love, you know?",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2068:02333",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x5e7b",
@@ -1939,7 +1939,7 @@
  {
   "id": "s2068:02380",
   "jp": "キミも性転換をしたいのかい？\nその志は見事。\nただ一つ、残念なお知らせだ。",
-  "en": "You too wish to change your gender? A\nsplendid aspiration. There is just one piece\nof bad news.",
+  "en": "You too wish to change your gender?\nA splendid aspiration.\nThere is just one piece of bad news.",
   "status": "done",
   "slots": [
    "0x5e82",
@@ -1950,7 +1950,7 @@
  {
   "id": "s2068:023c9",
   "jp": "性転換をするにはあるアイテムが\n必要なのだが、キミは持っていない\nようだ。出直したまえ。",
-  "en": "A certain item is needed for a sex change,\nand it seems you don't have it. Come back\nlater.",
+  "en": "A certain item is needed for a\nsex change, and it seems you\ndon't have it. Come back later.",
   "status": "done",
   "slots": [
    "0x5e89",
@@ -1979,7 +1979,7 @@
  {
   "id": "s2068:0247b",
   "jp": "私もドクターに追いつく為に、\n日夜研究を行っているのですが、\nなかなか追いつきませんね。",
-  "en": "I do research day and night to catch up with\nthe Doctor, but I just can't seem to.",
+  "en": "I do research day and night to catch up\nwith the Doctor, but I just can't seem to.",
   "status": "done",
   "slots": [
    "0x42ed",
@@ -1990,7 +1990,7 @@
  {
   "id": "s2068:024d2",
   "jp": "まぁ、彼は古代ユーフォリア文字を\n読める唯一の人物ですから、仕方が\nないと言えば仕方がないんですが。",
-  "en": "Well, he's the only person who can read\nancient Euforian script, so it can't be helped,\nI suppose.",
+  "en": "Well, he's the only person who\ncan read ancient Euforian script,\nso it can't be helped, I suppose.",
   "status": "done",
   "slots": [
    "0x42f4",
@@ -2001,7 +2001,7 @@
  {
   "id": "s2068:02535",
   "jp": "何か大きな事をすれば、近づけると\n思うんですけどね……。",
-  "en": "I think if I did something big, I could get\ncloser...",
+  "en": "I think if I did something big,\nI could get closer...",
   "status": "done",
   "slots": [
    "0x42fb",
@@ -2023,7 +2023,7 @@
  {
   "id": "s2068:025b4",
   "jp": "なぁ、知ってるか？\nここにある墓の主。\n全部、実験で失敗した人間なんだ。",
-  "en": "Hey, ya know? The people in these graves.\nEvery one of 'em is someone an experiment\nfailed on.",
+  "en": "Hey, ya know? The people in\nthese graves. Every one of 'em is\nsomeone an experiment failed on.",
   "status": "done",
   "slots": [
    "0x43a7",
@@ -2034,7 +2034,7 @@
  {
   "id": "s2068:025fb",
   "jp": "どうだ？\nたくさんいるだろ？\n土地が足りなくなるぐらい、さ。",
-  "en": "Well? There's a lot of 'em, right? So many\nwe're runnin' out of land.",
+  "en": "Well? There's a lot of 'em, right?\nSo many we're runnin' out of land.",
   "status": "done",
   "slots": [
    "0x43ae",
@@ -2045,7 +2045,7 @@
  {
   "id": "s2068:02636",
   "jp": "俺はさ、色んな研究をして、\n人の役に立つものを\n開発したかったんだ。",
-  "en": "Me, I wanted to do all kinds of research and\ninvent stuff that helps people.",
+  "en": "Me, I wanted to do all kinds of research\nand invent stuff that helps people.",
   "status": "done",
   "slots": [
    "0x43b5",
@@ -2056,7 +2056,7 @@
  {
   "id": "s2068:02679",
   "jp": "だから、エネルギー体である\nウィルと体が不自由な人間を一体化\nさせる実験には賛成派なんだ……。",
-  "en": "That's why I'm all for the experiments that\nfuse Will, a kind of energy, with people\nwhose bodies don't work right...",
+  "en": "That's why I'm all for the experiments\nthat fuse Will, a kind of energy,\nwith people whose bodies don't work right...",
   "status": "done",
   "slots": [
    "0x43bc",
@@ -2067,7 +2067,7 @@
  {
   "id": "s2068:026d6",
   "jp": "だけど……その実験で多くの人間が\n死んでるんだ……矛盾してるよな。",
-  "en": "But... those experiments've killed so many\npeople... Kinda contradictory, huh?",
+  "en": "But... those experiments've killed so\nmany people... Kinda contradictory, huh?",
   "status": "done",
   "slots": [
    "0x43c3",
@@ -2078,7 +2078,7 @@
  {
   "id": "s2068:02718",
   "jp": "なぁ、その日記、俺にくれないか？\nそれ読んで、もう一度、\n人ってもんを知りてぇんだ。",
-  "en": "Hey, would ya give me that diary? I wanna\nread it and learn what people really are, one\nmore time.",
+  "en": "Hey, would ya give me that diary?\nI wanna read it and learn what\npeople really are, one more time.",
   "status": "done",
   "slots": [
    "0x43ca",
@@ -2089,7 +2089,7 @@
  {
   "id": "s2068:0276b",
   "jp": "変わりにそれやるよ。\n俺が作った、まぁオモチャみてぇな\nモンだけどな。",
-  "en": "I'll give ya this in return. Somethin' I made.\nKinda like a toy, though.",
+  "en": "I'll give ya this in return. Somethin'\nI made. Kinda like a toy, though.",
   "status": "done",
   "slots": [
    "0x4439",
@@ -2140,7 +2140,7 @@
  {
   "id": "s2068:02834",
   "jp": "なぁ、知ってるか？\nここにある墓の主。\n全部、実験で失敗した人間なんだ。",
-  "en": "Hey, ya know? The people in these graves.\nEvery one of 'em is someone an experiment\nfailed on.",
+  "en": "Hey, ya know? The people in\nthese graves. Every one of 'em is\nsomeone an experiment failed on.",
   "status": "done",
   "slots": [
    "0x4471",
@@ -2151,7 +2151,7 @@
  {
   "id": "s2068:0287b",
   "jp": "どうだ？\nたくさんいるだろ？\n土地が足りなくなるぐらい、さ。",
-  "en": "Well? There's a lot of 'em, right? So many\nwe're runnin' out of land.",
+  "en": "Well? There's a lot of 'em, right?\nSo many we're runnin' out of land.",
   "status": "done",
   "slots": [
    "0x4478",
@@ -2162,7 +2162,7 @@
  {
   "id": "s2068:028b6",
   "jp": "俺はさ、色んな研究をして、\n人の役に立つものを\n開発したかったんだ。",
-  "en": "Me, I wanted to do all kinds of research and\ninvent stuff that helps people.",
+  "en": "Me, I wanted to do all kinds of research\nand invent stuff that helps people.",
   "status": "done",
   "slots": [
    "0x447f",
@@ -2173,7 +2173,7 @@
  {
   "id": "s2068:028f9",
   "jp": "だから、エネルギー体である\nウィルと体が不自由な人間を一体化\nさせる実験には賛成派なんだ……。",
-  "en": "That's why I'm all for the experiments that\nfuse Will, a kind of energy, with people\nwhose bodies don't work right...",
+  "en": "That's why I'm all for the experiments\nthat fuse Will, a kind of energy,\nwith people whose bodies don't work right...",
   "status": "done",
   "slots": [
    "0x4486",
@@ -2184,7 +2184,7 @@
  {
   "id": "s2068:02956",
   "jp": "だけど……その実験で多くの人間が\n死んでるんだ……矛盾してるよな。",
-  "en": "But... those experiments've killed so many\npeople... Kinda contradictory, huh?",
+  "en": "But... those experiments've killed so\nmany people... Kinda contradictory, huh?",
   "status": "done",
   "slots": [
    "0x448d",
@@ -2206,7 +2206,7 @@
  {
   "id": "s2068:029b9",
   "jp": "この足枷、\nかなりの血がついてるな……。",
-  "en": "These shackles... there's a lot of blood on\n'em...",
+  "en": "These shackles...\nthere's a lot of blood on 'em...",
   "status": "done",
   "slots": [
    "0x4540",
@@ -2239,7 +2239,7 @@
  {
   "id": "s2068:02a2f",
   "jp": "トコトン外道ですよ。\nあのマッドサイエンティストは。",
-  "en": "He's scum through and through. That mad\nscientist.",
+  "en": "He's scum through and through.\nThat mad scientist.",
   "status": "done",
   "slots": [
    "0x4646",
@@ -2272,7 +2272,7 @@
  {
   "id": "s2068:02aa6",
   "jp": "足枷をされても、\nなお、ここまで逃げてきたのね。",
-  "en": "Even in shackles, they still made it all the\nway here.",
+  "en": "Even in shackles, they still\nmade it all the way here.",
   "status": "done",
   "slots": [
    "0x4730",
@@ -2294,7 +2294,7 @@
  {
   "id": "s2068:02b02",
   "jp": "足枷か……罪人でもなかった\nだろうに。",
-  "en": "Shackles, huh... And I bet they weren't even\na criminal.",
+  "en": "Shackles, huh... And I bet\nthey weren't even a criminal.",
   "status": "done",
   "slots": [
    "0x47c7",
@@ -2305,7 +2305,7 @@
  {
   "id": "s2068:02b28",
   "jp": "これをつけるのにはもっと相応しい\n奴がいるだろう、なぁ？",
-  "en": "There's somebody a lot more deserving of\nthese, ain't there?",
+  "en": "There's somebody a lot more\ndeserving of these, ain't there?",
   "status": "done",
   "slots": [
    "0x4812",
@@ -2360,7 +2360,7 @@
  {
   "id": "s2068:02bf2",
   "jp": "相変わらず、現世のやり方は\nえげつないっすね……。",
-  "en": "The living world's ways are as nasty as\never...",
+  "en": "The living world's ways\nare as nasty as ever...",
   "status": "done",
   "slots": [
    "0x498c",
@@ -2371,7 +2371,7 @@
  {
   "id": "s2068:02c24",
   "jp": "こんなんだから、私の仕事が\n減らないんすよ……。",
-  "en": "This is why my work never gets any\nlighter...",
+  "en": "This is why my work\nnever gets any lighter...",
   "status": "done",
   "slots": [
    "0x49d7",
@@ -2393,7 +2393,7 @@
  {
   "id": "s2068:02c6f",
   "jp": "許すわけにはいかない……。\nこの足枷をつけた奴らを！",
-  "en": "I cannot forgive them... Those who put\nthese shackles on!",
+  "en": "I cannot forgive them...\nThose who put these shackles on!",
   "status": "done",
   "slots": [
    "0x4a6e",
@@ -2404,7 +2404,7 @@
  {
   "id": "s2068:02ca3",
   "jp": "足枷……きっと、ここまで必死に\n逃げてきたのですね。",
-  "en": "Shackles... They must have fled all this way,\ndesperately.",
+  "en": "Shackles... They must have\nfled all this way, desperately.",
   "status": "done",
   "slots": [
    "0x4aba",
@@ -2415,7 +2415,7 @@
  {
   "id": "s2068:02cd7",
   "jp": "残虐非道……悪は、滅びるべきです",
-  "en": "Brutal and inhuman... Evil must be\ndestroyed.",
+  "en": "Brutal and inhuman...\nEvil must be destroyed.",
   "status": "done",
   "slots": [
    "0x4b05",
@@ -2448,7 +2448,7 @@
  {
   "id": "s2068:02d28",
   "jp": "この捕虜……。\n必死に逃げて、茂みの中に\n隠れた所で、息絶えちゃったのね。",
-  "en": "This prisoner... ran for their life, hid in the\nbushes, and died right here.",
+  "en": "This prisoner... ran for their life,\nhid in the bushes, and died right here.",
   "status": "done",
   "slots": [
    "0x4c01",
@@ -2459,7 +2459,7 @@
  {
   "id": "s2068:02d71",
   "jp": "アタシも、あと一歩間違えてれば\nこうなっていたのかもね……。",
-  "en": "One wrong step, and I might have ended up\nlike this too...",
+  "en": "One wrong step, and I might\nhave ended up like this too...",
   "status": "done",
   "slots": [
    "0x4c4c",
@@ -2470,7 +2470,7 @@
  {
   "id": "s2068:02dad",
   "jp": "騎士団時代に見慣れていたと\n思っていましたが。\n今こうして見ると……。",
-  "en": "I thought I'd grown used to this in my days in\nthe knights. But seeing it now...",
+  "en": "I thought I'd grown used to this in my\ndays in the knights. But seeing it now...",
   "status": "done",
   "slots": [
    "0x4c98",
@@ -2525,7 +2525,7 @@
  {
   "id": "s2068:02e49",
   "jp": "どれだけの悲しい詩を作れば、\nこの足枷の人物の悲しみを\n伝えられるのでしょうかね……。",
-  "en": "How many sad songs would I have to write\nto convey the sorrow of the one in these\nshackles...",
+  "en": "How many sad songs would I have\nto write to convey the sorrow\nof the one in these shackles...",
   "status": "done",
   "slots": [
    "0x4e1f",
@@ -2558,7 +2558,7 @@
  {
   "id": "s2068:02ec0",
   "jp": "これ、遺跡の欠片か？\nでも、光の海域って\n感じじゃねぇな。",
-  "en": "Is this a ruin shard? Don't feel like the Sea\nof Light, though.",
+  "en": "Is this a ruin shard? Don't feel\nlike the Sea of Light, though.",
   "status": "done",
   "slots": [
    "0x4f6c",
@@ -2591,7 +2591,7 @@
  {
   "id": "s2068:02f3c",
   "jp": "遺跡の欠片のように思えますけど、\n何か違いますね……。",
-  "en": "It looks like a ruin shard, but something's\ndifferent...",
+  "en": "It looks like a ruin shard,\nbut something's different...",
   "status": "done",
   "slots": [
    "0x504e",
@@ -2602,7 +2602,7 @@
  {
   "id": "s2068:02f72",
   "jp": "これ、闇の遺跡の欠片！？\nなんでこんな所に……。",
-  "en": "Is this a ruin shard from the ruin of\ndarkness!? Why is it here...?",
+  "en": "Is this a ruin shard from the ruin\nof darkness!? Why is it here...?",
   "status": "done",
   "slots": [
    "0x509a",
@@ -2613,7 +2613,7 @@
  {
   "id": "s2068:02fa2",
   "jp": "エルマーレ連合国は、\nもう闇の遺跡を見つけたってこと？\nだとしたらマズイよ！",
-  "en": "Does that mean the Elmare Federation's\nalready found the ruin of darkness? If so,\nthat's bad!",
+  "en": "Does that mean the Elmare\nFederation's already found the\nruin of darkness? If so, that's bad!",
   "status": "done",
   "slots": [
    "0x50e5",
@@ -2624,7 +2624,7 @@
  {
   "id": "s2068:02fed",
   "jp": "この石、まさか遺跡の欠片……\nの、わけないわよね？",
-  "en": "This stone... it can't be a ruin shard... can\nit?",
+  "en": "This stone... it can't be\na ruin shard... can it?",
   "status": "done",
   "slots": [
    "0x5131",
@@ -2635,7 +2635,7 @@
  {
   "id": "s2068:0301f",
   "jp": "だって、明らかに雰囲気が\n違うもの、むしろ真逆だし……。\n気のせいよ、気のせい。",
-  "en": "I mean, it clearly feels different. More like\nthe exact opposite... It's my imagination,\nthat's all.",
+  "en": "I mean, it clearly feels different.\nMore like the exact opposite...\nIt's my imagination, that's all.",
   "status": "done",
   "slots": [
    "0x517c",
@@ -2657,7 +2657,7 @@
  {
   "id": "s2068:0307f",
   "jp": "これがあるってことは。\nクソッ、どこかに奴等がいるな！",
-  "en": "If this is here... Damn it, they're around here\nsomewhere!",
+  "en": "If this is here... Damn it,\nthey're around here somewhere!",
   "status": "done",
   "slots": [
    "0x5213",
@@ -2679,7 +2679,7 @@
  {
   "id": "s2068:030d4",
   "jp": "だが、光の海域のものとは\n違うようだ。\nこれはいったい……。",
-  "en": "But it doesn't appear to be from the Sea of\nLight. What on earth is this...",
+  "en": "But it doesn't appear to be from the\nSea of Light. What on earth is this...",
   "status": "done",
   "slots": [
    "0x52aa",
@@ -2690,7 +2690,7 @@
  {
   "id": "s2068:0310f",
   "jp": "あれ？　この欠片？\nなんか変だよ？",
-  "en": "Huh? This shard? Something's weird about\nit.",
+  "en": "Huh? This shard?\nSomething's weird about it.",
   "status": "done",
   "slots": [
    "0x52f6",
@@ -2734,7 +2734,7 @@
  {
   "id": "s2068:031b3",
   "jp": "なんだこの欠片は……。\n持っているだけで、こう。\n不安になってくるというか……。",
-  "en": "What is this shard... Just holding it makes\nme feel... uneasy, somehow...",
+  "en": "What is this shard... Just holding it\nmakes me feel... uneasy, somehow...",
   "status": "done",
   "slots": [
    "0x5424",
@@ -2756,7 +2756,7 @@
  {
   "id": "s2068:03224",
   "jp": "この欠片、なんだか持ってるだけで\n気持ち悪くなってきますね。",
-  "en": "Just holding this shard makes me feel sick,\nsomehow.",
+  "en": "Just holding this shard\nmakes me feel sick, somehow.",
   "status": "done",
   "slots": [
    "0x54bb",
@@ -2811,7 +2811,7 @@
  {
   "id": "s2068:032f3",
   "jp": "まぁ、\nこういう物ほど高いっていうし。\nもらっておくわね。",
-  "en": "Well, they say things like this fetch the\nhighest price. I'll take it.",
+  "en": "Well, they say things like this\nfetch the highest price. I'll take it.",
   "status": "done",
   "slots": [
    "0x564d",
@@ -2822,7 +2822,7 @@
  {
   "id": "s2068:0332c",
   "jp": "な、なんだこの欠片！\nボクの気合が、吸い取られていく\nような……。",
-  "en": "Wh-what is this shard! It's like it's sucking\nout my fighting spirit...",
+  "en": "Wh-what is this shard! It's like it's\nsucking out my fighting spirit...",
   "status": "done",
   "slots": [
    "0x5699",
@@ -2844,7 +2844,7 @@
  {
   "id": "s2068:03384",
   "jp": "あらぁ！　遺跡の欠片じゃない！\nラッキーだわさ！",
-  "en": "Oh my! Isn't this a ruin shard! Lucky, dontcha\nknow!",
+  "en": "Oh my! Isn't this a ruin shard!\nLucky, dontcha know!",
   "status": "done",
   "slots": [
    "0x5730",
@@ -2855,7 +2855,7 @@
  {
   "id": "s2068:033b4",
   "jp": "きっと誰かが落としたんだわさ。\nオマヌケだわさ～。",
-  "en": "Someone must have dropped it, dontcha\nknow. What a dummy~.",
+  "en": "Someone must have dropped it,\ndontcha know. What a dummy~.",
   "status": "done",
   "slots": [
    "0x577b",
@@ -2877,7 +2877,7 @@
  {
   "id": "s2068:0340e",
   "jp": "きっと闇の遺跡の欠片ですわね。\nあぁヤダヤダ、ですわ。",
-  "en": "It must be a ruin shard from the ruin of\ndarkness. Oh, how dreadful.",
+  "en": "It must be a ruin shard from the\nruin of darkness. Oh, how dreadful.",
   "status": "done",
   "slots": [
    "0x5820",
@@ -2888,7 +2888,7 @@
  {
   "id": "s2068:03444",
   "jp": "うお、この欠片。\n闇の力が宿ってやがる。\n気持ち悪いぜ。",
-  "en": "Whoa, this shard. There's dark power in it.\nCreepy.",
+  "en": "Whoa, this shard.\nThere's dark power in it. Creepy.",
   "status": "done",
   "slots": [
    "0x585c",
@@ -2899,7 +2899,7 @@
  {
   "id": "s2068:0347b",
   "jp": "闇の戦士ってのもカッコイイが、\nやっぱり男は光の戦士だろ！",
-  "en": "A warrior of darkness sounds cool, but a real\nman's a warrior of light!",
+  "en": "A warrior of darkness sounds cool,\nbut a real man's a warrior of light!",
   "status": "done",
   "slots": [
    "0x58a7",
@@ -2943,7 +2943,7 @@
  {
   "id": "s2068:08f3f",
   "jp": "戦略的撤退っぽかったなぁ。\nまだ何かあるのか……？",
-  "en": "Looked like a tactical retreat. Is there\nsomethin' else...?",
+  "en": "Looked like a tactical retreat.\nIs there somethin' else...?",
   "status": "done",
   "slots": [
    "0xb7be"

@@ -13,7 +13,7 @@
  {
   "id": "s2072:00039",
   "jp": "皇国城。闇の遺跡って言ったほうが\nわかりやすいか？",
-  "en": "The Imperial castle. Or should I say the ruin\nof darkness, so it's clearer?",
+  "en": "The Imperial castle. Or should I say\nthe ruin of darkness, so it's clearer?",
   "status": "done",
   "slots": [
    "0x14a5"
@@ -24,7 +24,7 @@
  {
   "id": "s2072:0006f",
   "jp": "“闇の邪域”\n闇のクリスタルが眠っていた場所。",
-  "en": "The \"Dark Realm\". Where the Crystal of\ndarkness slept.",
+  "en": "The \"Dark Realm\". Where the\nCrystal of darkness slept.",
   "status": "done",
   "slots": [
    "0x14be"
@@ -101,7 +101,7 @@
  {
   "id": "s2072:001b6",
   "jp": "まだ、ご到着しておりません。\nエルマーレ連合の残党に阻まれて\nしまいまして……。",
-  "en": "They have not yet arrived. They were held\nup by the remnants of the Elmare\nFederation...",
+  "en": "They have not yet arrived.\nThey were held up by the remnants\nof the Elmare Federation...",
   "status": "done",
   "slots": [
    "0x164b"
@@ -123,7 +123,7 @@
  {
   "id": "s2072:00256",
   "jp": "ちょっと待った！\n世界を支配なんて、\nさせてたまるか！",
-  "en": "Hold it right there! Like hell I'll let ya rule\nthe world!",
+  "en": "Hold it right there!\nLike hell I'll let ya rule the world!",
   "status": "done",
   "slots": [
    "0x168b"
@@ -200,7 +200,7 @@
  {
   "id": "s2072:0032f",
   "jp": "そう、“幸福感”だ。\nユーフォリアは、僕に幸福を\n与えてくれる大切なものだ。",
-  "en": "Yes, \"euphoria\". Euforia is a precious thing\nthat will give me happiness.",
+  "en": "Yes, \"euphoria\". Euforia is a precious\nthing that will give me happiness.",
   "status": "done",
   "slots": [
    "0x1756"
@@ -211,7 +211,7 @@
  {
   "id": "s2072:0037e",
   "jp": "そう思うように、ガリオレッドに\n教育でもされたか……？",
-  "en": "Did Gariored bring ya up to think that\nway...?",
+  "en": "Did Gariored bring ya\nup to think that way...?",
   "status": "done",
   "slots": [
    "0x176f"
@@ -222,7 +222,7 @@
  {
   "id": "s2072:003b8",
   "jp": "ガリオレッドは関係ない。\nこれは、僕の意思だ。",
-  "en": "Gariored has nothing to do with it. This is\nmy will.",
+  "en": "Gariored has nothing to\ndo with it. This is my will.",
   "status": "done",
   "slots": [
    "0x17a4"
@@ -244,7 +244,7 @@
  {
   "id": "s2072:0040f",
   "jp": "誰もが望み、限られた者にしか\n叶えられない意思だな……。",
-  "en": "A will everyone wishes for, and only a few\never get to fulfil...",
+  "en": "A will everyone wishes for,\nand only a few ever get to fulfil...",
   "status": "done",
   "slots": [
    "0x17d6"
@@ -255,7 +255,7 @@
  {
   "id": "s2072:0044b",
   "jp": "僕の幸せは、僕だけが掴める。\nユーフォリアは、渡さない！",
-  "en": "My happiness is mine alone to seize. I will\nnot give up Euforia!",
+  "en": "My happiness is mine alone to seize.\nI will not give up Euforia!",
   "status": "done",
   "slots": [
    "0x17ef"
@@ -266,7 +266,7 @@
  {
   "id": "s2072:00487",
   "jp": "カードはお互い三枚ずつか。\nいい勝負ができそうだな。",
-  "en": "Three cards each, huh. This oughta be a\ngood fight.",
+  "en": "Three cards each, huh.\nThis oughta be a good fight.",
   "status": "done",
   "slots": [
    "0x18ab"
@@ -277,7 +277,7 @@
  {
   "id": "s2072:004bf",
   "jp": "いい勝負などいらない。\n僕は今すぐにでも幸せになりたい。\nだから、死ね。",
-  "en": "I don't need a good fight. I want to be happy\nright now. So die.",
+  "en": "I don't need a good fight.\nI want to be happy right now. So die.",
   "status": "done",
   "slots": [
    "0x18c4"
@@ -288,7 +288,7 @@
  {
   "id": "s2072:0050a",
   "jp": "いいか！　絶対にアシュレイを\n止めろ！　絶対にだ！",
-  "en": "Listen! Stop Ashrey no matter what! No\nmatter what!",
+  "en": "Listen! Stop Ashrey no matter\nwhat! No matter what!",
   "status": "done",
   "slots": [
    "0x18dd"
@@ -299,7 +299,7 @@
  {
   "id": "s2072:00540",
   "jp": "イシュト、僕はどうして、\nお前を逃がしたのだろうな。\nその剣まで持たせて、だ。",
-  "en": "Ishut, I wonder why I let you escape. Even\nletting you take that sword.",
+  "en": "Ishut, I wonder why I let you escape.\nEven letting you take that sword.",
   "status": "done",
   "slots": [
    "0x1a1d"
@@ -310,7 +310,7 @@
  {
   "id": "s2072:00591",
   "jp": "知るか。\n昔は昔だろうが。\n今を生きろよ。",
-  "en": "How should I know. The past's the past. Live\nin the now.",
+  "en": "How should I know. The past's\nthe past. Live in the now.",
   "status": "done",
   "slots": [
    "0x1a37"
@@ -321,7 +321,7 @@
  {
   "id": "s2072:005be",
   "jp": "……そうだな。\n今はただ、お前を殺すことに\n集中するとしよう。",
-  "en": "...True. For now, I'll focus only on killing\nyou.",
+  "en": "...True. For now,\nI'll focus only on killing you.",
   "status": "done",
   "slots": [
    "0x1a50"
@@ -354,7 +354,7 @@
  {
   "id": "s2072:00640",
   "jp": "ホント、見れば見るほど、\n兄貴にそっくりですね。\nまぁ、外見だけですが。",
-  "en": "Really, the more I look, the more you look\njust like the Boss. Only on the outside,\nthough.",
+  "en": "Really, the more I look,\nthe more you look just like the Boss.\nOnly on the outside, though.",
   "status": "done",
   "slots": [
    "0x1b2b"
@@ -364,7 +364,7 @@
  {
   "id": "s2072:00687",
   "jp": "僕とアイツを一緒にするな！\n虫唾が走るわ！",
-  "en": "Don't lump me in with him! It makes my skin\ncrawl!",
+  "en": "Don't lump me in with him!\nIt makes my skin crawl!",
   "status": "done",
   "slots": [
    "0x1b44"
@@ -374,7 +374,7 @@
  {
   "id": "s2072:006b1",
   "jp": "安心してください。\nアナタよりも、兄貴の方が\n百倍カッコいいですから！",
-  "en": "Don't worry. The Boss is a hundred times\ncooler than you!",
+  "en": "Don't worry. The Boss is a\nhundred times cooler than you!",
   "status": "done",
   "slots": [
    "0x1b5e"
@@ -434,7 +434,7 @@
  {
   "id": "s2072:00798",
   "jp": "やれやれ、ガリオレッドの奴め。\nとんだ置き土産を残しやがって",
-  "en": "Good grief, that Gariored. What a parting\ngift he left us.",
+  "en": "Good grief, that Gariored.\nWhat a parting gift he left us.",
   "status": "done",
   "slots": [
    "0x1e49"
@@ -444,7 +444,7 @@
  {
   "id": "s2072:007d4",
   "jp": "悪いが、こちとらまだまだ\n現役でね。\n若いモンにゃあ、負けねぇよ。",
-  "en": "Sorry, but I'm still in my prime. I ain't losin'\nto some young'un.",
+  "en": "Sorry, but I'm still in my prime.\nI ain't losin' to some young'un.",
   "status": "done",
   "slots": [
    "0x1e5e"
@@ -454,7 +454,7 @@
  {
   "id": "s2072:00815",
   "jp": "幸せになる……か。\nそれにしては、やり方が些か\n乱暴すぎやしないか？",
-  "en": "To be happy... is it? Even so, aren't your\nmethods a touch too violent?",
+  "en": "To be happy... is it? Even so,\naren't your methods a touch too violent?",
   "status": "done",
   "slots": [
    "0x1f39"
@@ -464,7 +464,7 @@
  {
   "id": "s2072:00858",
   "jp": "やり方？\nこれ以外のやり方があるとでも\nいうのか？",
-  "en": "Methods? Are you saying there's any other\nway?",
+  "en": "Methods? Are you saying\nthere's any other way?",
   "status": "done",
   "slots": [
    "0x1f52"
@@ -474,7 +474,7 @@
  {
   "id": "s2072:00889",
   "jp": "それ以外……だと？\nそうか、知らないのか……\n不憫なものだな。",
-  "en": "Any other way... you say? I see, so you don't\nknow... How pitiful.",
+  "en": "Any other way... you say? I see,\nso you don't know... How pitiful.",
   "status": "done",
   "slots": [
    "0x1f67"
@@ -494,7 +494,7 @@
  {
   "id": "s2072:008fe",
   "jp": "笑えばいい、か。\nその笑い方が、わからないんだ\nけどな……。",
-  "en": "Just laugh, huh. Except I don't know how to\nlaugh...",
+  "en": "Just laugh, huh. Except I\ndon't know how to laugh...",
   "status": "done",
   "slots": [
    "0x2054"
@@ -504,7 +504,7 @@
  {
   "id": "s2072:00939",
   "jp": "幸せなんて、よくよく考えた事も\nなかったすねぇ。",
-  "en": "I never really thought about happiness\nmuch, sir.",
+  "en": "I never really thought\nabout happiness much, sir.",
   "status": "done",
   "slots": [
    "0x2128"
@@ -514,7 +514,7 @@
  {
   "id": "s2072:00969",
   "jp": "ま、それを考える必要もないぐらい\n幸せなのかもしれないっすね。",
-  "en": "Well, maybe I'm so happy I don't even need\nto think about it, sir.",
+  "en": "Well, maybe I'm so happy I don't\neven need to think about it, sir.",
   "status": "done",
   "slots": [
    "0x213d"
@@ -554,7 +554,7 @@
  {
   "id": "s2072:00a11",
   "jp": "このような兵器にまで、幸せは\n宿っているのだろうか……フッ。\n虫唾が走るな。",
-  "en": "Does happiness live even in a weapon like\nthis... Heh. It makes my skin crawl.",
+  "en": "Does happiness live even in a weapon\nlike this... Heh. It makes my skin crawl.",
   "status": "done",
   "slots": [
    "0x2313"
@@ -564,7 +564,7 @@
  {
   "id": "s2072:00a5c",
   "jp": "幸せになりたい。\nそんな些細な事で、アナタは世界を\n動かそうというのですか！",
-  "en": "You want to be happy. For something so\ntrivial, you would move the world!?",
+  "en": "You want to be happy. For something\nso trivial, you would move the world!?",
   "status": "done",
   "slots": [
    "0x23ee"
@@ -574,7 +574,7 @@
  {
   "id": "s2072:00aa7",
   "jp": "その些細な事さえ得られないから、\nここまで必死なんじゃないか。",
-  "en": "It's because I can't get even that trivial\nthing that I'm this desperate.",
+  "en": "It's because I can't get even that\ntrivial thing that I'm this desperate.",
   "status": "done",
   "slots": [
    "0x2407"
@@ -594,7 +594,7 @@
  {
   "id": "s2072:00b0d",
   "jp": "まさか、ガリオレッド宰相の後ろに\nこんな人がいたなんて……。",
-  "en": "To think there was someone like this behind\nChancellor Gariored...",
+  "en": "To think there was someone like\nthis behind Chancellor Gariored...",
   "status": "done",
   "slots": [
    "0x24f7"
@@ -614,7 +614,7 @@
  {
   "id": "s2072:00b73",
   "jp": "幸せになるのなんて簡単よ。\n欲望のままに動けばいいんだわ。",
-  "en": "Being happy is easy. You just follow your\ndesires.",
+  "en": "Being happy is easy.\nYou just follow your desires.",
   "status": "done",
   "slots": [
    "0x25d9"
@@ -624,7 +624,7 @@
  {
   "id": "s2072:00bad",
   "jp": "ま、その結果が今の行動なんだから\n質が悪いわね。",
-  "en": "Well, the result of that is what he's doing\nnow, so it's nasty stuff.",
+  "en": "Well, the result of that is what\nhe's doing now, so it's nasty stuff.",
   "status": "done",
   "slots": [
    "0x25e3"
@@ -644,7 +644,7 @@
  {
   "id": "s2072:00c17",
   "jp": "やっと好きに生きれたのに、\n行動がこれじゃあねぇ。\nま、ご愁傷様。",
-  "en": "You finally get to live as you like, and this is\nwhat you do? Well, my condolences.",
+  "en": "You finally get to live as you like, and this\nis what you do? Well, my condolences.",
   "status": "done",
   "slots": [
    "0x26b3"
@@ -654,7 +654,7 @@
  {
   "id": "s2072:00c58",
   "jp": "私の詩を聞けば、\nどんな暗い気持ちも吹き飛びますわ",
-  "en": "One listen to my song, and any gloomy\nfeeling will be blown away.",
+  "en": "One listen to my song, and any\ngloomy feeling will be blown away.",
   "status": "done",
   "slots": [
    "0x2780"
@@ -696,7 +696,7 @@
  {
   "id": "s2072:00d01",
   "jp": "それほど意思の強い奴が多いんだ。\n世界最強の軍事力は伊達じゃない。",
-  "en": "That's how many of 'em have strong wills.\nThe world's mightiest army ain't just for\nshow.",
+  "en": "That's how many of 'em have\nstrong wills. The world's\nmightiest army ain't just for show.",
   "status": "done",
   "slots": [
    "0x310c"
@@ -751,7 +751,7 @@
  {
   "id": "s2072:00dd5",
   "jp": "チッ、将軍部隊が到着しやがった！\nお前ら、下がれぇ！",
-  "en": "Tch, the generals' units are here! You lot,\nfall back!",
+  "en": "Tch, the generals'\nunits are here! You lot, fall back!",
   "status": "done",
   "slots": [
    "0x3261"
@@ -762,7 +762,7 @@
  {
   "id": "s2072:00e0d",
   "jp": "な、なんでだよ！\nここでアシュレイを討てば、\n終わるんだぞ！",
-  "en": "Wh-why!? If we take down Ashrey here, it's\nall over!",
+  "en": "Wh-why!? If we take down\nAshrey here, it's all over!",
   "status": "done",
   "slots": [
    "0x327a"
@@ -773,7 +773,7 @@
  {
   "id": "s2072:00e4c",
   "jp": "馬鹿野郎！\n今アシュレイを殺してみろ！\n次に殺されるのは俺達だ！",
-  "en": "You idiot! Try killin' Ashrey now! We'll be the\nnext ones killed!",
+  "en": "You idiot! Try killin' Ashrey now!\nWe'll be the next ones killed!",
   "status": "done",
   "slots": [
    "0x32b6"
@@ -784,7 +784,7 @@
  {
   "id": "s2072:00e8f",
   "jp": "兵があたし達を包囲しようとして\nいる。下がらないと、囲まれて\n一網打尽にされちゃうわ。",
-  "en": "The soldiers are trying to surround us. If we\ndon't fall back, they'll have us boxed in and\nwipe us out in one go.",
+  "en": "The soldiers are trying to surround us.\nIf we don't fall back, they'll have us\nboxed in and wipe us out in one go.",
   "status": "done",
   "slots": [
    "0x32cf"
@@ -795,7 +795,7 @@
  {
   "id": "s2072:00ee8",
   "jp": "しかも兵の動きが早い。\n流石は、ルキア皇国の双璧の部隊\nと言ったところかしらね。",
-  "en": "And the soldiers move fast. Just what you'd\nexpect of the Lukia Empire's twin pillars, I\nsuppose.",
+  "en": "And the soldiers move fast.\nJust what you'd expect of the Lukia\nEmpire's twin pillars, I suppose.",
   "status": "done",
   "slots": [
    "0x32d9"
@@ -850,7 +850,7 @@
  {
   "id": "s2072:01012",
   "jp": "アシュレイ様……。\nもったいないお言葉にございます。",
-  "en": "Ashrey-sama... Such words are more than\nwe deserve.",
+  "en": "Ashrey-sama... Such words\nare more than we deserve.",
   "status": "done",
   "slots": [
    "0x336b"

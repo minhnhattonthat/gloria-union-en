@@ -2,7 +2,7 @@
  {
   "id": "s2048:00028",
   "jp": "この島のどこかに、クリスタルの\nウィルを感じる。",
-  "en": "I sense the Will of a Crystal somewhere on\nthis island.",
+  "en": "I sense the Will of a Crystal\nsomewhere on this island.",
   "status": "done",
   "slots": [
    "0x19e7"
@@ -35,7 +35,7 @@
  {
   "id": "s2048:00092",
   "jp": "雨がうっとうしいわね。\n火薬が湿気のせいで燃えにくく\nなってる。",
-  "en": "This rain is annoying. The damp makes the\ngunpowder harder to light.",
+  "en": "This rain is annoying. The damp\nmakes the gunpowder harder to light.",
   "status": "done",
   "slots": [
    "0x1a32"
@@ -57,7 +57,7 @@
  {
   "id": "s2048:000ec",
   "jp": "水のカードの力で、多少和らげる\nことはできるけど……。",
-  "en": "The water card's power can soften it a\nlittle, but...",
+  "en": "The water card's power\ncan soften it a little, but...",
   "status": "done",
   "slots": [
    "0x1a5e"
@@ -79,7 +79,7 @@
  {
   "id": "s2048:00147",
   "jp": "フッハッハ！\n命がけで奪ったモンのわりに、\n大したことねぇなぁ！",
-  "en": "Fwahaha! For somethin' you stole at the risk\nof your lives, it ain't much, is it!",
+  "en": "Fwahaha! For somethin' you stole at\nthe risk of your lives, it ain't much, is it!",
   "status": "done",
   "slots": [
    "0x1b67"
@@ -156,7 +156,7 @@
  {
   "id": "s2048:0028b",
   "jp": "向こうは雨避け完備か。\nやってくれるぜ。",
-  "en": "And they've got cover from the rain. He's\ngood.",
+  "en": "And they've got cover\nfrom the rain. He's good.",
   "status": "done",
   "slots": [
    "0x1c79"
@@ -167,7 +167,7 @@
  {
   "id": "s2048:002b7",
   "jp": "ま、せいぜいこんがり焼けてくれ。\n馬の食費は高いんでな。\nヒャハハハハ！！",
-  "en": "Well, do me a favour and roast up nice and\ncrispy. Horse feed's expensive.\nHyahahahaha!!",
+  "en": "Well, do me a favour and roast\nup nice and crispy. Horse feed's\nexpensive. Hyahahahaha!!",
   "status": "done",
   "slots": [
    "0x1c92"
@@ -178,7 +178,7 @@
  {
   "id": "s2048:00304",
   "jp": "ふざけやがって……\nアイツだけはただじゃおかねぇぞ！",
-  "en": "That bastard... He's the one guy I ain't\nlettin' off!",
+  "en": "That bastard... He's the\none guy I ain't lettin' off!",
   "status": "done",
   "slots": [
    "0x1cd6"
@@ -200,7 +200,7 @@
  {
   "id": "s2048:0038d",
   "jp": "イシュト。熱くならないで、\n焦りは死神を呼び寄せるわよ。",
-  "en": "Ishut. Don't get worked up. Haste invites\nthe Reaper.",
+  "en": "Ishut. Don't get worked up.\nHaste invites the Reaper.",
   "status": "done",
   "slots": [
    "0x1e04"
@@ -222,7 +222,7 @@
  {
   "id": "s2048:003ec",
   "jp": "よし。いくわよ、イシュト。\n敵をやっつけて、ブラックモアを\n引きずり出してやりましょう！",
-  "en": "Good. Let's go, Ishut. Let's beat the enemy\nand drag Blackmore out!",
+  "en": "Good. Let's go, Ishut. Let's beat\nthe enemy and drag Blackmore out!",
   "status": "done",
   "slots": [
    "0x1e3b"
@@ -244,7 +244,7 @@
  {
   "id": "s2048:0045a",
   "jp": "あの大砲は厄介ですね……。\nフフッ、その厄介が味方についたら\nどれほど気持ちがいいんでしょうか",
-  "en": "Those cannons are a nuisance... Heheh,\nimagine how good it'd feel to have that\nnuisance on our side.",
+  "en": "Those cannons are a nuisance...\nHeheh, imagine how good it'd feel\nto have that nuisance on our side.",
   "status": "done",
   "slots": [
    "0x1e6d"
@@ -288,7 +288,7 @@
  {
   "id": "s2048:0055d",
   "jp": "なんだよなんだよ。\n雁首揃えて大したことねぇなぁ！\nオラ、もっと派手に行こうか！",
-  "en": "What's this, what's this? All lined up and\nnothin' to show for it! C'mon, let's make it\nflashier!",
+  "en": "What's this, what's this?\nAll lined up and nothin' to show for it!\nC'mon, let's make it flashier!",
   "status": "done",
   "slots": [
    "0x479b"
@@ -332,7 +332,7 @@
  {
   "id": "s2048:00605",
   "jp": "一振りで５人が吹っ飛ぶなんて……\nありえないよ。",
-  "en": "Sending five people flying with one swing...\nThat's impossible.",
+  "en": "Sending five people flying with\none swing... That's impossible.",
   "status": "done",
   "slots": [
    "0x4ec0"
@@ -365,7 +365,7 @@
  {
   "id": "s2048:00686",
   "jp": "当たり前でしょ？　あたし“達”は\n親父の子供なのよ？",
-  "en": "Of course! \"We\" are all Dad's children, aren't\nwe?",
+  "en": "Of course! \"We\" are all\nDad's children, aren't we?",
   "status": "done",
   "slots": [
    "0x4f23"
@@ -376,7 +376,7 @@
  {
   "id": "s2048:006be",
   "jp": "どしたぁ！　俺を倒したければ\n今の５倍はきやがれ！！",
-  "en": "What's wrong!? If ya wanna beat me, come\nat me with five times this many!!",
+  "en": "What's wrong!? If ya wanna beat me,\ncome at me with five times this many!!",
   "status": "done",
   "slots": [
    "0x4f51"
@@ -387,7 +387,7 @@
  {
   "id": "s2048:006f6",
   "jp": "ギギ。なんという武力だ……。\n俺が長年かけて育てた部下を……！",
-  "en": "Grr. What power... My men, whom I raised\nfor years...!",
+  "en": "Grr. What power... My men,\nwhom I raised for years...!",
   "status": "done",
   "slots": [
    "0x4f71"
@@ -398,7 +398,7 @@
  {
   "id": "s2048:00738",
   "jp": "だ、だがしかし。この雨が降る限り\n砲撃手は倒せない！　",
-  "en": "B-but still! As long as this rain falls, you\ncan't defeat my gunners!",
+  "en": "B-but still! As long as this rain falls,\nyou can't defeat my gunners!",
   "status": "done",
   "slots": [
    "0x4f7b"
@@ -442,7 +442,7 @@
  {
   "id": "s2048:007c8",
   "jp": "悪いけど、大砲はもらったよ。\n泥棒猫なもんでね。",
-  "en": "Sorry, but the cannons are mine. I'm a cat\nburglar, you see.",
+  "en": "Sorry, but the cannons are mine.\nI'm a cat burglar, you see.",
   "status": "done",
   "slots": [
    "0x5077"
@@ -453,7 +453,7 @@
  {
   "id": "s2048:007fc",
   "jp": "ハ。ハハッ！\nまったく、頼りになるなぁ、\nお前ってやつは！",
-  "en": "Ha. Haha! You really are reliable, ya know\nthat!",
+  "en": "Ha. Haha! You really are\nreliable, ya know that!",
   "status": "done",
   "slots": [
    "0x508d"
@@ -497,7 +497,7 @@
  {
   "id": "s2048:008fc",
   "jp": "あ、あの……その金貨、この頭巾と\n交換してくれますか？\n……ダメ……ですか？",
-  "en": "Um... Would you trade that gold coin for this\nhood? ...You can't... can you?",
+  "en": "Um... Would you trade that gold coin\nfor this hood? ...You can't... can you?",
   "status": "done",
   "slots": [
    "0x1fe2",
@@ -508,7 +508,7 @@
  {
   "id": "s2048:00947",
   "jp": "い、いいんですか……？\nあ、ありがとう！\nありがとうございます！",
-  "en": "R-really...? Th-thank you! Thank you so\nmuch!",
+  "en": "R-really...? Th-thank you!\nThank you so much!",
   "status": "done",
   "slots": [
    "0x2051",
@@ -519,7 +519,7 @@
  {
   "id": "s2048:00986",
   "jp": "その頭巾、お姉ちゃんが作ったもの\nなんです。\n大事にしてください。それでは。",
-  "en": "My big sister made that hood. Please take\ngood care of it. Goodbye.",
+  "en": "My big sister made that hood.\nPlease take good care of it. Goodbye.",
   "status": "done",
   "slots": [
    "0x2058",
@@ -530,7 +530,7 @@
  {
   "id": "s2048:009d1",
   "jp": "エヘヘ、これで、お姉ちゃんに\n楽をさせてあげられるぞ！",
-  "en": "Ehehe, now I can make life easier for my big\nsister!",
+  "en": "Ehehe, now I can make life\neasier for my big sister!",
   "status": "done",
   "slots": [
    "0x2078",
@@ -541,7 +541,7 @@
  {
   "id": "s2048:00a07",
   "jp": "どこかに……お金になりそうなもの\nないかなぁ。",
-  "en": "Isn't there... anything around here that\ncould get me some money?",
+  "en": "Isn't there... anything around here\nthat could get me some money?",
   "status": "done",
   "slots": [
    "0x2090",
@@ -552,7 +552,7 @@
  {
   "id": "s2048:00a35",
   "jp": "早く見つけて、お姉ちゃんに\n楽をさせてあげないと！",
-  "en": "I've got to find something quick, so I can\nmake life easier for my big sister!",
+  "en": "I've got to find something quick,\nso I can make life easier for my big sister!",
   "status": "done",
   "slots": [
    "0x2097",
@@ -563,7 +563,7 @@
  {
   "id": "s2048:00a67",
   "jp": "遂に、俺達にもチャンスが来た！\nこの地獄の島から逃げる\nチャンスが！",
-  "en": "At last, our chance has come! Our chance to\nescape this island of hell!",
+  "en": "At last, our chance has come!\nOur chance to escape this island of hell!",
   "status": "done",
   "slots": [
    "0x73e4"
@@ -573,7 +573,7 @@
  {
   "id": "s2048:00aaa",
   "jp": "黒い牙が実用していた砲台だ。\n型落ちしてるが、それでも\n威力は充分。",
-  "en": "These are cannons the Black Fang used.\nThey're old models, but they still pack\nplenty of power.",
+  "en": "These are cannons the Black\nFang used. They're old models,\nbut they still pack plenty of power.",
   "status": "done",
   "slots": [
    "0x73eb"
@@ -583,7 +583,7 @@
  {
   "id": "s2048:00aed",
   "jp": "心配ない、まだ数はある。\n共に、黒い牙を倒そうじゃないか！",
-  "en": "Don't worry, there are more. Let's beat the\nBlack Fang together!",
+  "en": "Don't worry, there are more.\nLet's beat the Black Fang together!",
   "status": "done",
   "slots": [
    "0x745a"
@@ -603,7 +603,7 @@
  {
   "id": "s2048:00b66",
   "jp": "なんだ、何もないのか？\n仕方ない。コレを着ろ。",
-  "en": "What, you have nothing? Can't be helped.\nWear this.",
+  "en": "What, you have nothing?\nCan't be helped. Wear this.",
   "status": "done",
   "slots": [
    "0x7479"
@@ -613,7 +613,7 @@
  {
   "id": "s2048:00b94",
   "jp": "これで少しは凌げるだろう。\n……よし！　みんな、行くぞ！",
-  "en": "That should help a little. ...All right!\nEveryone, let's go!",
+  "en": "That should help a little.\n...All right! Everyone, let's go!",
   "status": "done",
   "slots": [
    "0x74e8"
@@ -623,7 +623,7 @@
  {
   "id": "s2048:00bcc",
   "jp": "絶対にこの島から出てやる……！\n故郷の家族に……会わなければ！\n墓前に花を……手向けなければ！",
-  "en": "I'll get off this island no matter what...! I\nhave to see my family back home! I have to\nlay flowers at their graves!",
+  "en": "I'll get off this island no matter what...!\nI have to see my family back home!\nI have to lay flowers at their graves!",
   "status": "done",
   "slots": [
    "0x7500"
@@ -633,7 +633,7 @@
  {
   "id": "s2048:00c29",
   "jp": "黒い牙が壊滅寸前！？\nそ、それは……本当ですか？",
-  "en": "The Black Fang are on the verge of\ncollapse!? I-is that... true?",
+  "en": "The Black Fang are on the verge\nof collapse!? I-is that... true?",
   "status": "done",
   "slots": [
    "0x2e75",
@@ -655,7 +655,7 @@
  {
   "id": "s2048:00c7a",
   "jp": "アンタ達がやってくれたのかい？\nおぉ……なんということだ。",
-  "en": "Was it you people who did this? Oh... I can't\nbelieve it.",
+  "en": "Was it you people who did this?\nOh... I can't believe it.",
   "status": "done",
   "slots": [
    "0x2e99",
@@ -677,7 +677,7 @@
  {
   "id": "s2048:00cdc",
   "jp": "よっしゃ！　そうと決まったら\n早速脱出するぞ！\nもうこんな島とはおさらばだ！",
-  "en": "All right! Now that it's settled, let's escape\nright away! So long to this island!",
+  "en": "All right! Now that it's settled, let's\nescape right away! So long to this island!",
   "status": "done",
   "slots": [
    "0x2f1a",
@@ -688,7 +688,7 @@
  {
   "id": "s2048:00d27",
   "jp": "このご恩は一生忘れません。\n勇者様。",
-  "en": "I will never forget this kindness as long as I\nlive, hero.",
+  "en": "I will never forget this\nkindness as long as I live, hero.",
   "status": "done",
   "slots": [
    "0x2f32",
@@ -710,7 +710,7 @@
  {
   "id": "s2048:00d7b",
   "jp": "ふんぎぎぎ……ッハァ！　ハァ……\nあ、開かねぇ……なんなんだよ\nまったく……。",
-  "en": "Nnngh... Haah! Haah... I-it won't open... What\nthe hell is with this thing...",
+  "en": "Nnngh... Haah! Haah... I-it won't open...\nWhat the hell is with this thing...",
   "status": "done",
   "slots": [
    "0x3d65",
@@ -721,7 +721,7 @@
  {
   "id": "s2048:00dc8",
   "jp": "このカバン、まだ中身がある\nようですね……開けて、みますか？",
-  "en": "This bag seems to still have something in\nit... Shall we open it?",
+  "en": "This bag seems to still have\nsomething in it... Shall we open it?",
   "status": "done",
   "slots": [
    "0x3dbf",
@@ -743,7 +743,7 @@
  {
   "id": "s2048:00e49",
   "jp": "あ、カバンだ。\nでも閉まってるね……開けてみる？",
-  "en": "Oh, a bag. But it's shut... Should I try\nopening it?",
+  "en": "Oh, a bag. But it's shut...\nShould I try opening it?",
   "status": "done",
   "slots": [
    "0x3e6a",
@@ -754,7 +754,7 @@
  {
   "id": "s2048:00e79",
   "jp": "ふにゅる～……ッハァ、ハァ。\nも～全然開かないよ！",
-  "en": "Fnyuuu... Haah, haah. Geez, it won't open at\nall!",
+  "en": "Fnyuuu... Haah, haah.\nGeez, it won't open at all!",
   "status": "done",
   "slots": [
    "0x3ebb",
@@ -765,7 +765,7 @@
  {
   "id": "s2048:00eab",
   "jp": "中々高級そうなカバンね。\nなんでこんな所に落っこちてる\nのかしら？",
-  "en": "What a fancy-looking bag. I wonder why it's\nlying around here?",
+  "en": "What a fancy-looking bag.\nI wonder why it's lying around here?",
   "status": "done",
   "slots": [
    "0x3f0e",
@@ -776,7 +776,7 @@
  {
   "id": "s2048:00eec",
   "jp": "中身も何か入ってるみたい。\n親父に頼んで開けてもらおう\nかしら。",
-  "en": "Looks like there's something inside, too.\nMaybe I'll ask Dad to open it.",
+  "en": "Looks like there's something inside,\ntoo. Maybe I'll ask Dad to open it.",
   "status": "done",
   "slots": [
    "0x3f54",
@@ -787,7 +787,7 @@
  {
   "id": "s2048:00f2b",
   "jp": "なんだぁこのカバン。\nちょっと開けて中身を確認するか。",
-  "en": "What's with this bag? Let's open it and see\nwhat's inside.",
+  "en": "What's with this bag?\nLet's open it and see what's inside.",
   "status": "done",
   "slots": [
    "0x3fa7",
@@ -820,7 +820,7 @@
  {
   "id": "s2048:00fc1",
   "jp": "ん？　落し物か？\n誰のであろうか。\n少し中身を確認させてもらうか。",
-  "en": "Hm? Something lost? I wonder whose it is. I\nshall take a little look inside.",
+  "en": "Hm? Something lost? I wonder whose it is.\nI shall take a little look inside.",
   "status": "done",
   "slots": [
    "0x4052",
@@ -831,7 +831,7 @@
  {
   "id": "s2048:01002",
   "jp": "ん？　開かないな。\n厳重にロックされているのだな。\nまぁいい。こちらで預かっておこう",
-  "en": "Hm? It won't open. It's securely locked. Very\nwell. I shall keep it for now.",
+  "en": "Hm? It won't open. It's securely locked.\nVery well. I shall keep it for now.",
   "status": "done",
   "slots": [
    "0x4098",
@@ -842,7 +842,7 @@
  {
   "id": "s2048:01055",
   "jp": "ん？　なんだろうこのカバン\n何が入ってるんだろう？",
-  "en": "Hm? What's this bag? What's inside, I\nwonder?",
+  "en": "Hm? What's this bag?\nWhat's inside, I wonder?",
   "status": "done",
   "slots": [
    "0x40e4",
@@ -853,7 +853,7 @@
  {
   "id": "s2048:01087",
   "jp": "うにゅ～、全然開かないよぉ。\nお兄ちゃんに開けてもらおっと。",
-  "en": "Unyuuu, it won't open at all. I'll get Big\nBrother to open it.",
+  "en": "Unyuuu, it won't open at all.\nI'll get Big Brother to open it.",
   "status": "done",
   "slots": [
    "0x412a",
@@ -864,7 +864,7 @@
  {
   "id": "s2048:010c3",
   "jp": "おや？　カバンが落ちてるっすね。\n誰のっすかねぇ。\nちょっと失敬して……。",
-  "en": "Oh? There's a bag lying here, sir. Whose\ncould it be? Pardon me, just a peek...",
+  "en": "Oh? There's a bag lying here, sir.\nWhose could it be? Pardon me, just a peek...",
   "status": "done",
   "slots": [
    "0x417d",
@@ -875,7 +875,7 @@
  {
   "id": "s2048:0110c",
   "jp": "ちょ！　全然開かない\nじゃないっすか！\nどうなってるんすか！？",
-  "en": "Hey! It won't open at all, sir! What's going\non!?",
+  "en": "Hey! It won't open at all,\nsir! What's going on!?",
   "status": "done",
   "slots": [
    "0x41ce",
@@ -886,7 +886,7 @@
  {
   "id": "s2048:01149",
   "jp": "なんだこのカバンは。\n何故こんなにも無造作に置いて\nあるんだ……？",
-  "en": "What is this bag? Why has it been left lying\naround so carelessly...?",
+  "en": "What is this bag? Why has it been\nleft lying around so carelessly...?",
   "status": "done",
   "slots": [
    "0x4221",
@@ -908,7 +908,7 @@
  {
   "id": "s2048:011b0",
   "jp": "こんな所に宝物庫なんてあった\nのかよ……ん？　あれは。",
-  "en": "There was a treasury in a place like this...?\nHm? What's that?",
+  "en": "There was a treasury in a place\nlike this...? Hm? What's that?",
   "status": "done",
   "slots": [
    "0x8a67"
@@ -918,7 +918,7 @@
  {
   "id": "s2048:011e6",
   "jp": "こんな立派な台座に置いてある\nなんて、相当な物なんだろうな。",
-  "en": "Sittin' on a pedestal this fancy, it's gotta be\nsomethin' special.",
+  "en": "Sittin' on a pedestal this fancy,\nit's gotta be somethin' special.",
   "status": "done",
   "slots": [
    "0x8ab2"
@@ -938,7 +938,7 @@
  {
   "id": "s2048:0123d",
   "jp": "地下宝物庫ですか。\nどうやら、他の宝物庫はコレを隠す\n為のフェイクだったようですね。",
-  "en": "An underground treasury. It seems the\nother treasuries were just fakes to hide\nthis one.",
+  "en": "An underground treasury.\nIt seems the other treasuries\nwere just fakes to hide this one.",
   "status": "done",
   "slots": [
    "0x8b43"
@@ -968,7 +968,7 @@
  {
   "id": "s2048:012d7",
   "jp": "うわぁ、なにここ？\nキラキラしすぎてて目が痛いよぉ。",
-  "en": "Wow, what is this place? It's so sparkly it\nhurts my eyes.",
+  "en": "Wow, what is this place?\nIt's so sparkly it hurts my eyes.",
   "status": "done",
   "slots": [
    "0x8c1f"
@@ -998,7 +998,7 @@
  {
   "id": "s2048:0137e",
   "jp": "お宝は私達グロリア海賊団が\nいただいていくわよ。\nざまぁみなさい。",
-  "en": "We, the Gloria Pirates, will be taking the\ntreasure. Serves you right.",
+  "en": "We, the Gloria Pirates, will be taking\nthe treasure. Serves you right.",
   "status": "done",
   "slots": [
    "0x8d4a"
@@ -1008,7 +1008,7 @@
  {
   "id": "s2048:013bf",
   "jp": "おぉ、あったあった。\nブラックモアの野郎だからな。\nやると思ったぜ。",
-  "en": "Ooh, there it is. It's that bastard\nBlackmore, after all. Knew he'd pull\nsomethin' like this.",
+  "en": "Ooh, there it is. It's that\nbastard Blackmore, after all.\nKnew he'd pull somethin' like this.",
   "status": "done",
   "slots": [
    "0x8dc9"
@@ -1018,7 +1018,7 @@
  {
   "id": "s2048:01402",
   "jp": "だが、俺をハメるには\nまだまだ、だったようだな。",
-  "en": "But it looks like he's still got a long way to\ngo before he can trap me.",
+  "en": "But it looks like he's still got a long\nway to go before he can trap me.",
   "status": "done",
   "slots": [
    "0x8e1f"
@@ -1088,7 +1088,7 @@
  {
   "id": "s2048:0152e",
   "jp": "お、これロストマテリアル\nじゃないっすか？\nエヘヘ、いいもん拾ったっす。",
-  "en": "Oh, isn't this Lost Material, sir? Ehehe, I\npicked up something good.",
+  "en": "Oh, isn't this Lost Material, sir?\nEhehe, I picked up something good.",
   "status": "done",
   "slots": [
    "0x9090"
@@ -1098,7 +1098,7 @@
  {
   "id": "s2048:01575",
   "jp": "黒い牙め、このような所に\n宝を隠していたとは……。\n一番高価なのは、これか？",
-  "en": "So the Black Fang hid their treasure in a\nplace like this... Is this the most valuable\none?",
+  "en": "So the Black Fang hid their\ntreasure in a place like this...\nIs this the most valuable one?",
   "status": "done",
   "slots": [
    "0x9108"
@@ -1118,7 +1118,7 @@
  {
   "id": "s2048:05318",
   "jp": "どうした、やけに冷静じゃねぇか。\n俺が憎いんだろ？　\nお友達を殺されてさぁ。",
-  "en": "What's wrong? You're awfully calm. You\nhate me, don't ya? For killin' your little\nfriend.",
+  "en": "What's wrong? You're awfully calm.\nYou hate me, don't ya?\nFor killin' your little friend.",
   "status": "done",
   "slots": [
    "0x9247"
@@ -1129,7 +1129,7 @@
  {
   "id": "s2048:05367",
   "jp": "冷静じゃねぇよ。\n血液が沸騰しすぎて、カラカラに\nなっちまったのさ。",
-  "en": "I ain't calm. My blood boiled so hard it's all\ndried up.",
+  "en": "I ain't calm. My blood boiled\nso hard it's all dried up.",
   "status": "done",
   "slots": [
    "0x9261"
@@ -1140,7 +1140,7 @@
  {
   "id": "s2048:053ae",
   "jp": "そりゃ助かった。\n俺の一張羅が汚れなくて済む。",
-  "en": "Well, that's a relief. Now my Sunday best\nwon't get dirty.",
+  "en": "Well, that's a relief. Now my\nSunday best won't get dirty.",
   "status": "done",
   "slots": [
    "0x927a"
@@ -1151,7 +1151,7 @@
  {
   "id": "s2048:053e0",
   "jp": "安心しろよ、\n全身真っ赤になっちまえば、\n汚れなんて気になんねぇよ。",
-  "en": "Don't worry. Once you're red all over, you\nwon't care about a little dirt.",
+  "en": "Don't worry. Once you're red all over,\nyou won't care about a little dirt.",
   "status": "done",
   "slots": [
    "0x9294"
@@ -1162,7 +1162,7 @@
  {
   "id": "s2048:05427",
   "jp": "口の減らない餓鬼だ……テメェは\n普通に殺さねぇ、お仲間の目の前で\nゆっくりと殺してやる。",
-  "en": "Smart-mouthed brat... I ain't killin' you the\nnormal way. I'll kill you slowly, right in front\nof your friends.",
+  "en": "Smart-mouthed brat... I ain't killin'\nyou the normal way. I'll kill you slowly,\nright in front of your friends.",
   "status": "done",
   "slots": [
    "0x92ad"
@@ -1224,7 +1224,7 @@
  {
   "id": "s2048:05556",
   "jp": "追い詰めたわよ、ブラックモア。\n逃げ道はないわ、覚悟しなさい！",
-  "en": "We've got you cornered, Blackmore. There's\nno way out. Get ready!",
+  "en": "We've got you cornered, Blackmore.\nThere's no way out. Get ready!",
   "status": "done",
   "slots": [
    "0x94c1"
@@ -1234,7 +1234,7 @@
  {
   "id": "s2048:05594",
   "jp": "なんだ、もう勝ったつもりか？\n相変わらず愉快な頭だな。",
-  "en": "What, you think you've already won? Your\nhead's as full of sunshine as ever.",
+  "en": "What, you think you've already won?\nYour head's as full of sunshine as ever.",
   "status": "done",
   "slots": [
    "0x94da"
@@ -1284,7 +1284,7 @@
  {
   "id": "s2048:05663",
   "jp": "まぁいい。\nそろそろ聞き飽きてきた所だ。\n決着、つけてやるぜ。",
-  "en": "Whatever. I'm gettin' sick of hearin' it. Let's\nsettle this.",
+  "en": "Whatever. I'm gettin'\nsick of hearin' it. Let's settle this.",
   "status": "done",
   "slots": [
    "0x9634"
@@ -1294,7 +1294,7 @@
  {
   "id": "s2048:056a0",
   "jp": "この島の住人。\n皆、黒い牙に攫われた者達の\n様だな……。",
-  "en": "The people of this island. They all seem to\nbe people the Black Fang abducted...",
+  "en": "The people of this island. They all seem\nto be people the Black Fang abducted...",
   "status": "done",
   "slots": [
    "0x971d"
@@ -1304,7 +1304,7 @@
  {
   "id": "s2048:056d7",
   "jp": "そうだ。\n国を作るのには何かと\n人が必要だからな。",
-  "en": "That's right. Building a country takes\npeople, one way or another.",
+  "en": "That's right. Building a country\ntakes people, one way or another.",
   "status": "done",
   "slots": [
    "0x9736"
@@ -1334,7 +1334,7 @@
  {
   "id": "s2048:05766",
   "jp": "ロコモコ、アナタみたいな\n悪そうな人初めて見た！\n絶対に、許さないんだから！",
-  "en": "Locomoco's never seen anyone as\nevil-looking as you! Locomoco will never\nforgive you!",
+  "en": "Locomoco's never seen\nanyone as evil-looking as you!\nLocomoco will never forgive you!",
   "status": "done",
   "slots": [
    "0x984b"
@@ -1344,7 +1344,7 @@
  {
   "id": "s2048:057b1",
   "jp": "なんだぁ？　このクソ餓鬼は？\n殺されたいのか？",
-  "en": "What? Who's this little brat? Want to get\nkilled?",
+  "en": "What? Who's this little brat?\nWant to get killed?",
   "status": "done",
   "slots": [
    "0x9864"
@@ -1354,7 +1354,7 @@
  {
   "id": "s2048:057df",
   "jp": "アナタ、ここで死んだら\n確実に地獄行きっすよ。",
-  "en": "If you die here, you're definitely going to\nHell, sir.",
+  "en": "If you die here, you're\ndefinitely going to Hell, sir.",
   "status": "done",
   "slots": [
    "0x993f"
@@ -1394,7 +1394,7 @@
  {
   "id": "s2048:05871",
   "jp": "チッ、寝返ったか。\nシャンティエの騎士様ってのは、\n案外使えねぇ連中なんだな。",
-  "en": "Tch, turned on me, huh. Turns out the\nknights of Chantier are pretty useless after\nall.",
+  "en": "Tch, turned on me, huh.\nTurns out the knights of Chantier\nare pretty useless after all.",
   "status": "done",
   "slots": [
    "0x9a68"
@@ -1414,7 +1414,7 @@
  {
   "id": "s2048:05903",
   "jp": "喰らいやがれ！\nこいつが、ベルガスを殺された\n俺の怒りだぁ！",
-  "en": "Take this! This is my rage for what you did\nto Velgas!",
+  "en": "Take this! This is my rage\nfor what you did to Velgas!",
   "status": "done",
   "slots": [
    "0xa477"
@@ -1447,7 +1447,7 @@
  {
   "id": "s2048:0597a",
   "jp": "どうした。アイツの傷は\nもっと深かったぞ……。",
-  "en": "What's wrong? His wound was a lot deeper\nthan that...",
+  "en": "What's wrong? His wound\nwas a lot deeper than that...",
   "status": "done",
   "slots": [
    "0xac93"
@@ -1480,7 +1480,7 @@
  {
   "id": "s2048:059d6",
   "jp": "じょ、情報を、やる！　\nとびきりの……情報だ！",
-  "en": "I-I'll give you information! Top-grade...\ninformation!",
+  "en": "I-I'll give you information!\nTop-grade... information!",
   "status": "done",
   "slots": [
    "0xacde"
@@ -1557,7 +1557,7 @@
  {
   "id": "s2048:05a82",
   "jp": "俺達の依頼人と……\nその女の、正体だ……。",
-  "en": "About our client... and who that girl really\nis...",
+  "en": "About our client...\nand who that girl really is...",
   "status": "done",
   "slots": [
    "0xad87"
@@ -1601,7 +1601,7 @@
  {
   "id": "s2048:05af7",
   "jp": "あ、あぁ……わかった！　話す！\n……その女は、ある古代兵器の鍵を\n握っている。遺跡のカードのことだ",
-  "en": "Y-yeah... Got it! I'll talk! ...That girl holds\nthe key to a certain ancient weapon. I mean\nthe cards in the ruins.",
+  "en": "Y-yeah... Got it! I'll talk! ...That girl holds\nthe key to a certain ancient weapon.\nI mean the cards in the ruins.",
   "status": "done",
   "slots": [
    "0xae1a"
@@ -1634,7 +1634,7 @@
  {
   "id": "s2048:05bc0",
   "jp": "うぅん。私はただ、イシュトを\n導けってことしか、覚えてない。",
-  "en": "No. All I remember is that I have to guide\nIshut.",
+  "en": "No. All I remember is that\nI have to guide Ishut.",
   "status": "done",
   "slots": [
    "0xae6a"
@@ -1656,7 +1656,7 @@
  {
   "id": "s2048:05c2a",
   "jp": "これで助かる、ハハッ！\n言う、言うぞ！　俺達の依頼者は",
-  "en": "I'm saved, haha! I'll talk, I'll talk! Our\nclient is--",
+  "en": "I'm saved, haha! I'll talk,\nI'll talk! Our client is--",
   "status": "done",
   "slots": [
    "0xae96"
@@ -1678,7 +1678,7 @@
  {
   "id": "s2048:05c85",
   "jp": "ウィルが局地的に大きくなってる！\nこれは、まさか……カードの力！？",
-  "en": "The Will is swelling in one spot! This is... no\nway... a card's power!?",
+  "en": "The Will is swelling in one spot!\nThis is... no way... a card's power!?",
   "status": "done",
   "slots": [
    "0xaf02"
@@ -1766,7 +1766,7 @@
  {
   "id": "s2048:05d8c",
   "jp": "口封じか。ん？　\n弾が体内に残ってるな、どれ……。\nッ！　この銃弾……まさか！",
-  "en": "Silenced, huh. Hm? The bullet's still in his\nbody. Let's see... Ah! This bullet... it can't\nbe!",
+  "en": "Silenced, huh. Hm? The bullet's\nstill in his body. Let's see...\nAh! This bullet... it can't be!",
   "status": "done",
   "slots": [
    "0xb0af"
@@ -1810,7 +1810,7 @@
  {
   "id": "s2048:05e45",
   "jp": "火の遺跡“火竜の城”にあるはず\nなのに！",
-  "en": "It should be in the fire ruins, \"Fire Dragon\nCastle\"!",
+  "en": "It should be in the fire ruins,\n\"Fire Dragon Castle\"!",
   "status": "done",
   "slots": [
    "0xb26c"
@@ -1821,7 +1821,7 @@
  {
   "id": "s2048:05e71",
   "jp": "なに！？　水のカードの他に、\nまだカードがあるのか？",
-  "en": "What!? There are other cards besides the\nwater card?",
+  "en": "What!? There are other cards\nbesides the water card?",
   "status": "done",
   "slots": [
    "0xb285"
@@ -1832,7 +1832,7 @@
  {
   "id": "s2048:05ea9",
   "jp": "カードは、全部で六枚。\n水・火・土・風・闇・光。",
-  "en": "There are six cards in all. Water, fire, earth,\nwind, dark and light.",
+  "en": "There are six cards in all. Water,\nfire, earth, wind, dark and light.",
   "status": "done",
   "slots": [
    "0xb29e"
@@ -1843,7 +1843,7 @@
  {
   "id": "s2048:05edd",
   "jp": "その全てが、あれほどの威力を\n持っている、と。",
-  "en": "And every one of them has that much\npower.",
+  "en": "And every one of them\nhas that much power.",
   "status": "done",
   "slots": [
    "0xb2b7"
@@ -1865,7 +1865,7 @@
  {
   "id": "s2048:05f1e",
   "jp": "待てよ。クリスタルは、俺にしか\n解放できないんじゃなかったのか？",
-  "en": "Hold on. Wasn't I supposed to be the only\none who can release a Crystal?",
+  "en": "Hold on. Wasn't I supposed to be the\nonly one who can release a Crystal?",
   "status": "done",
   "slots": [
    "0xb2e6"
@@ -1876,7 +1876,7 @@
  {
   "id": "s2048:05f62",
   "jp": "信じられないかも知れないけど……\nあの人の持ってる剣と、\nあの人自体のウィル。",
-  "en": "You might not believe it, but... the sword\nthat person had, and that person's own\nWill...",
+  "en": "You might not believe it, but...\nthe sword that person had,\nand that person's own Will...",
   "status": "done",
   "slots": [
    "0xb2ff"
@@ -1898,7 +1898,7 @@
  {
   "id": "s2048:05fdf",
   "jp": "なん……だと？\nそんな奴、この世に存在するわけが\nないだろ！",
-  "en": "What... did you say? There's no way a guy\nlike that exists in this world!",
+  "en": "What... did you say? There's no way\na guy like that exists in this world!",
   "status": "done",
   "slots": [
    "0xb31f"
@@ -1920,7 +1920,7 @@
  {
   "id": "s2048:06031",
   "jp": "アイツの名前はアシュレイ。\nルキア皇国の新皇帝、そして、\nお前の双子の兄だ。",
-  "en": "His name is Ashrey. The new Emperor of the\nLukia Empire, and your twin brother.",
+  "en": "His name is Ashrey. The new Emperor of\nthe Lukia Empire, and your twin brother.",
   "status": "done",
   "slots": [
    "0xb366"
@@ -1942,7 +1942,7 @@
  {
   "id": "s2048:060ae",
   "jp": "じゃ、じゃあ！\nイシュトを指名手配にしたのって！",
-  "en": "Th-then! The one who put Ishut on the\nwanted list was...!",
+  "en": "Th-then! The one who put\nIshut on the wanted list was...!",
   "status": "done",
   "slots": [
    "0xb392"
@@ -1953,7 +1953,7 @@
  {
   "id": "s2048:060e2",
   "jp": "どうやら、奴のユーフォリア計画は\n思った以上に早く進展している\nみたいだな……クソ。",
-  "en": "Looks like his Euforia Project is movin' along\na lot faster than I thought... Damn.",
+  "en": "Looks like his Euforia Project is movin'\nalong a lot faster than I thought... Damn.",
   "status": "done",
   "slots": [
    "0xb3b6"
@@ -1997,7 +1997,7 @@
  {
   "id": "s2048:061a2",
   "jp": "だとしたら。俺は必ずお前より先に\nクリスタルを手に入れてやる……！\n覚悟しやがれ、アシュレイ！",
-  "en": "If that's how it is, I'll get the Crystals\nbefore you, no matter what...! Get ready,\nAshrey!",
+  "en": "If that's how it is,\nI'll get the Crystals before you,\nno matter what...! Get ready, Ashrey!",
   "status": "done",
   "slots": [
    "0xb408"

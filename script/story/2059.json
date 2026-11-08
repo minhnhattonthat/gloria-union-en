@@ -2,7 +2,7 @@
  {
   "id": "s2059:00028",
   "jp": "ここがラッタートチェレステビーチ\n世界で一番美しいビーチね……。\n綺麗すぎて溜息がでちゃうわ。",
-  "en": "So this is Lattato Celeste Beach, the most\nbeautiful beach in the world... It's so pretty\nit takes my breath away.",
+  "en": "So this is Lattato Celeste Beach,\nthe most beautiful beach in the world...\nIt's so pretty it takes my breath away.",
   "status": "done",
   "slots": [
    "0x2c43"
@@ -13,7 +13,7 @@
  {
   "id": "s2059:00089",
   "jp": "環境を守るために、ある程度名声を\n得ている人でないと足を踏み入れ\nられないらしいですよ。",
-  "en": "To protect the environment, apparently\nonly people with a certain amount of fame\nare allowed to set foot here.",
+  "en": "To protect the environment, apparently\nonly people with a certain amount of\nfame are allowed to set foot here.",
   "status": "done",
   "slots": [
    "0x2c59"
@@ -46,7 +46,7 @@
  {
   "id": "s2059:00131",
   "jp": "どうしてこんなに綺麗なのかしら。\n気になるんだわさ……。",
-  "en": "Why is it so pretty, I wonder? I'm curious,\ndontcha know...",
+  "en": "Why is it so pretty, I wonder?\nI'm curious, dontcha know...",
   "status": "done",
   "slots": [
    "0x2ce9"
@@ -57,7 +57,7 @@
  {
   "id": "s2059:0016d",
   "jp": "ここに殿方の一人でも呼んで、\n星を見ながら語らえば、その後は\n……んふふ。",
-  "en": "If I invited a gentleman here and we talked\nwhile gazing at the stars, then\nafterwards... mmhehe.",
+  "en": "If I invited a gentleman here and we\ntalked while gazing at the stars,\nthen afterwards... mmhehe.",
   "status": "done",
   "slots": [
    "0x2d20"
@@ -68,7 +68,7 @@
  {
   "id": "s2059:001ba",
   "jp": "私は泳げないんで、砂のお城でも\n作るっすよ。",
-  "en": "I can't swim, so I'll build a sandcastle or\nsomething.",
+  "en": "I can't swim, so I'll build a\nsandcastle or something.",
   "status": "done",
   "slots": [
    "0x2d40"
@@ -134,7 +134,7 @@
  {
   "id": "s2059:0027e",
   "jp": "ねぇねぇお姉さん。\n俺達と一緒に泳ごうぜ？",
-  "en": "Hey, hey, lady. Come swim with us, why\ndon'tcha?",
+  "en": "Hey, hey, lady. Come swim\nwith us, why don'tcha?",
   "status": "done",
   "slots": [
    "0x2eac"
@@ -167,7 +167,7 @@
  {
   "id": "s2059:0030a",
   "jp": "あら、こんな綺麗な砂浜でも\nお盛んなんて、反吐が出るわね。",
-  "en": "Oh my, getting frisky even on a beach this\npretty. It makes me sick.",
+  "en": "Oh my, getting frisky even on a\nbeach this pretty. It makes me sick.",
   "status": "done",
   "slots": [
    "0x2f5a"
@@ -178,7 +178,7 @@
  {
   "id": "s2059:00348",
   "jp": "第一声から辛辣ね。\n余りに見向きされないから\n拗ねてるのかしら？",
-  "en": "Harsh, right from your first word. Sulking\nbecause nobody looks your way?",
+  "en": "Harsh, right from your first word.\nSulking because nobody looks your way?",
   "status": "done",
   "slots": [
    "0x2f73"
@@ -200,7 +200,7 @@
  {
   "id": "s2059:003a4",
   "jp": "おやおや、久々に会ったと思ったら\nこれですよ。困ったもんですね。",
-  "en": "My, my, we meet again after so long, and\nthis is what we get. What a pain.",
+  "en": "My, my, we meet again after so long,\nand this is what we get. What a pain.",
   "status": "done",
   "slots": [
    "0x2fc1"
@@ -211,7 +211,7 @@
  {
   "id": "s2059:003e8",
   "jp": "無粋な。もう少しこの綺麗な海を\n眺めようとはしないものか……。",
-  "en": "How tasteless. Can't they gaze at this\nbeautiful sea a little longer...",
+  "en": "How tasteless. Can't they gaze at\nthis beautiful sea a little longer...",
   "status": "done",
   "slots": [
    "0x2ff1"
@@ -222,7 +222,7 @@
  {
   "id": "s2059:0042a",
   "jp": "変な男に会わないうちに、\n海に入りましょう。",
-  "en": "Let's get into the sea before we meet any\nweird men.",
+  "en": "Let's get into the sea before\nwe meet any weird men.",
   "status": "done",
   "slots": [
    "0x3021"
@@ -244,7 +244,7 @@
  {
   "id": "s2059:00486",
   "jp": "あぁいう殿方は、\nご遠慮願いたいですね。",
-  "en": "I'd rather we did without gentlemen like\nthat.",
+  "en": "I'd rather we did without\ngentlemen like that.",
   "status": "done",
   "slots": [
    "0x308f"
@@ -255,7 +255,7 @@
  {
   "id": "s2059:004b2",
   "jp": "ほら、こうやって、腕を通すんすよ",
-  "en": "Look, you put your arms through like this,\nsee?",
+  "en": "Look, you put your arms\nthrough like this, see?",
   "status": "done",
   "slots": [
    "0x30bb"
@@ -299,7 +299,7 @@
  {
   "id": "s2059:00534",
   "jp": "はいはい、せめてボク達は\n砂浜を楽しみましょうねー",
-  "en": "Yes, yes. At least let's enjoy the beach, you\nand me.",
+  "en": "Yes, yes. At least let's\nenjoy the beach, you and me.",
   "status": "done",
   "slots": [
    "0x3148"
@@ -310,7 +310,7 @@
  {
   "id": "s2059:0056a",
   "jp": "いい？　よく見てなさい！　\nあたしにかかれば男の一匹や二匹\n簡単に釣れるのよ！",
-  "en": "Now, watch closely! For me, hooking a guy or\ntwo is easy!",
+  "en": "Now, watch closely! For me,\nhooking a guy or two is easy!",
   "status": "done",
   "slots": [
    "0x316f"
@@ -365,7 +365,7 @@
  {
   "id": "s2059:00633",
   "jp": "まぁ、色々見て回るのも\n楽しそうですね。行きますか。",
-  "en": "Well, looking around at everything does\nsound fun. Shall we?",
+  "en": "Well, looking around at everything\ndoes sound fun. Shall we?",
   "status": "done",
   "slots": [
    "0x3202"
@@ -387,7 +387,7 @@
  {
   "id": "s2059:00695",
   "jp": "はぁいゲットォちょろいちょろい。\nというわけで、悪いけど邪魔だから\n寝ててねぇ。",
-  "en": "Aaand got one, easy-peasy. So, sorry, but\nyou're in the way, so take a nap.",
+  "en": "Aaand got one, easy-peasy. So, sorry,\nbut you're in the way, so take a nap.",
   "status": "done",
   "slots": [
    "0x5e6c"
@@ -420,7 +420,7 @@
  {
   "id": "s2059:0071e",
   "jp": "ねぇねぇ君ぃ、\n可愛いコスプレしてるねぇ。",
-  "en": "Hey, hey, you. That's some cute cosplay you\ngot there.",
+  "en": "Hey, hey, you. That's some\ncute cosplay you got there.",
   "status": "done",
   "slots": [
    "0x5f7e"
@@ -442,7 +442,7 @@
  {
   "id": "s2059:00778",
   "jp": "か、可愛い～！　君！　俺と一緒に\n遊んでくれないか！？",
-  "en": "S-so cute! Hey, you! Won't you hang out with\nme!?",
+  "en": "S-so cute! Hey, you!\nWon't you hang out with me!?",
   "status": "done",
   "slots": [
    "0x608a"
@@ -464,7 +464,7 @@
  {
   "id": "s2059:007c3",
   "jp": "ウンディーネのお姉さん。\n俺達と一緒に泳がない？",
-  "en": "Miss Undine. Won't you come swimming with\nus?",
+  "en": "Miss Undine. Won't you\ncome swimming with us?",
   "status": "done",
   "slots": [
    "0x6196"
@@ -475,7 +475,7 @@
  {
   "id": "s2059:007f7",
   "jp": "この海に不釣合いな輩だな。\n……いいだろう。付いて来れるなら\n付いて来るがいい。",
-  "en": "You're out of place in this sea... Very well.\nFollow me if you can keep up.",
+  "en": "You're out of place in this sea...\nVery well. Follow me if you can keep up.",
   "status": "done",
   "slots": [
    "0x61b0"
@@ -486,7 +486,7 @@
  {
   "id": "s2059:0084a",
   "jp": "ね、ねぇお嬢ちゃん。\nお、お兄ちゃんと一緒に、遊ぼう？",
-  "en": "H-hey, little missy. W-wanna play with your\nbig brother here?",
+  "en": "H-hey, little missy. W-wanna\nplay with your big brother here?",
   "status": "done",
   "slots": [
    "0x62a2"
@@ -519,7 +519,7 @@
  {
   "id": "s2059:008e8",
   "jp": "あらあらナンパですか？\n私も罪作りな女ですね。",
-  "en": "Oh my, are you hitting on me? I'm such a\nheartbreaker.",
+  "en": "Oh my, are you hitting on me?\nI'm such a heartbreaker.",
   "status": "done",
   "slots": [
    "0x63c8"
@@ -574,7 +574,7 @@
  {
   "id": "s2059:009ba",
   "jp": "うわ！　めっちゃ美人！\nこれは逃がすまい……！\nえぇと、なんでしょうか？",
-  "en": "Whoa! She's gorgeous! I can't let this one\nget away...! Um, what is it?",
+  "en": "Whoa! She's gorgeous! I can't let\nthis one get away...! Um, what is it?",
   "status": "done",
   "slots": [
    "0x65e2"
@@ -585,7 +585,7 @@
  {
   "id": "s2059:00a05",
   "jp": "詩を作っている端でチラチラと\n目障りなので、海の藻屑でも何でも\nなってくださいな。",
-  "en": "You keep flitting about at the edge of my\nvision while I compose my poetry, so please\ngo become driftwood on the sea, or\nwhatever you like.",
+  "en": "You keep flitting about at the edge of\nmy vision while I compose my poetry,\nso please go become driftwood\non the sea, or whatever you like.",
   "status": "done",
   "slots": [
    "0x65fc"
@@ -647,7 +647,7 @@
  {
   "id": "s2059:00b0d",
   "jp": "き、綺麗な女性にはトゲがあるって\nわけか……ハハ。",
-  "en": "S-so every beautiful rose has its thorns...\nHaha.",
+  "en": "S-so every beautiful rose\nhas its thorns... Haha.",
   "status": "done",
   "slots": [
    "0x685f"
@@ -721,7 +721,7 @@
  {
   "id": "s2059:00c21",
   "jp": "いい詩が思い浮かびましたわ～。\nタイトルは“海に沈んだ僕”で\n決定ですわね。",
-  "en": "A fine poem has come to me. I'll call it \"Me,\nSunk Beneath the Sea\".",
+  "en": "A fine poem has come to me.\nI'll call it \"Me, Sunk Beneath the Sea\".",
   "status": "done",
   "slots": [
    "0x73d1"
@@ -732,7 +732,7 @@
  {
   "id": "s2059:00c70",
   "jp": "結局普通に遊んじゃったわねぇ。\nま、それもたまにはいいか！",
-  "en": "In the end we just played like normal. Well,\nthat's nice once in a while!",
+  "en": "In the end we just played like normal.\nWell, that's nice once in a while!",
   "status": "done",
   "slots": [
    "0x7404"
@@ -754,7 +754,7 @@
  {
   "id": "s2059:00cc5",
   "jp": "あらら、ロコモコさん\nおねむっすか？　いっぱい遊び\nましたからねぇ。",
-  "en": "Oh my, sleepy, Locomoco-san? You played a\nlot, after all.",
+  "en": "Oh my, sleepy, Locomoco-san?\nYou played a lot, after all.",
   "status": "done",
   "slots": [
    "0x7444"
@@ -765,7 +765,7 @@
  {
   "id": "s2059:00d0c",
   "jp": "あ、こんな所にいた。\nもう、探しましたよ。",
-  "en": "Ah, there you are. Geez, I was looking for\nyou.",
+  "en": "Ah, there you are. Geez,\nI was looking for you.",
   "status": "done",
   "slots": [
    "0x74f2"
@@ -798,7 +798,7 @@
  {
   "id": "s2059:00d70",
   "jp": "ねぇちょっといい加減しつこいって\nわからないのかしら！",
-  "en": "Hey, can't you get it through your head that\nyou're being a pest!?",
+  "en": "Hey, can't you get it through your\nhead that you're being a pest!?",
   "status": "done",
   "slots": [
    "0x7533"
@@ -809,7 +809,7 @@
  {
   "id": "s2059:00daa",
   "jp": "フハハハ！\nよいではないかよいではないか！",
-  "en": "Fwahahaha! Come now, come now, what's\nthe harm!",
+  "en": "Fwahahaha! Come now,\ncome now, what's the harm!",
   "status": "done",
   "slots": [
    "0x7548"
@@ -820,7 +820,7 @@
  {
   "id": "s2059:00dd8",
   "jp": "なにやら面白いことになってますね",
-  "en": "Something interesting seems to be\nhappening.",
+  "en": "Something interesting\nseems to be happening.",
   "status": "done",
   "slots": [
    "0x7664"
@@ -842,7 +842,7 @@
  {
   "id": "s2059:00e35",
   "jp": "嫌がる女の子を無理やり\nナンパするとは、許すまじ！　\n二人とも、行くわよ！",
-  "en": "Forcing himself on a girl who doesn't want\nit... Unforgivable! You two, let's go!",
+  "en": "Forcing himself on a girl who doesn't\nwant it... Unforgivable! You two, let's go!",
   "status": "done",
   "slots": [
    "0x7696"
@@ -853,7 +853,7 @@
  {
   "id": "s2059:00e82",
   "jp": "え、えぇ！？　行くんですか？\nどうせコーマックですよ？",
-  "en": "Wh-whaaat!? We're going? She's a Cormack,\nyou know?",
+  "en": "Wh-whaaat!? We're going?\nShe's a Cormack, you know?",
   "status": "done",
   "slots": [
    "0x76af"
@@ -886,7 +886,7 @@
  {
   "id": "s2059:00ef8",
   "jp": "うわぁ綺麗な海！　\n人っこ一人いないし。",
-  "en": "Wow, what a beautiful sea! And not a soul\naround.",
+  "en": "Wow, what a beautiful sea!\nAnd not a soul around.",
   "status": "done",
   "slots": [
    "0x5207"
@@ -897,7 +897,7 @@
  {
   "id": "s2059:00f24",
   "jp": "これは泳ぐしかないわね！\n着替え着替えっとぉ～。",
-  "en": "I've got no choice but to swim! Time to\nchange, change...",
+  "en": "I've got no choice but to swim!\nTime to change, change...",
   "status": "done",
   "slots": [
    "0x5219"
@@ -930,7 +930,7 @@
  {
   "id": "s2059:00fb2",
   "jp": "ふぅ……。\nあぁ気持ちよかった。\nそろそろあがろうかしらね。",
-  "en": "Phew... Ah, that felt wonderful. Shall I get\nout soon, I wonder?",
+  "en": "Phew... Ah, that felt wonderful.\nShall I get out soon, I wonder?",
   "status": "done",
   "slots": [
    "0x5324"
@@ -941,7 +941,7 @@
  {
   "id": "s2059:00ff1",
   "jp": "おぉ、これはこれは、\n秘境って所じゃないですか？\nう～ん、なんという開放感！",
-  "en": "Ooh, well, well, isn't this what you'd call a\nhidden paradise? Mmm, what freedom!",
+  "en": "Ooh, well, well, isn't this what you'd call\na hidden paradise? Mmm, what freedom!",
   "status": "done",
   "slots": [
    "0x5465"
@@ -952,7 +952,7 @@
  {
   "id": "s2059:01040",
   "jp": "フフフ、誰もいないことだし、\nもう少し開放的になって\nみようかな。てりゃ～。",
-  "en": "Hehehe, since nobody's around, maybe I'll\nget a little more free. Hiyaah!",
+  "en": "Hehehe, since nobody's around,\nmaybe I'll get a little more free. Hiyaah!",
   "status": "done",
   "slots": [
    "0x5477"
@@ -963,7 +963,7 @@
  {
   "id": "s2059:0108f",
   "jp": "おぉ～、きもちぃもんですね。\n何かに目覚めてしまいそうです。",
-  "en": "Ooh, this feels nice. I might awaken to\nsomething.",
+  "en": "Ooh, this feels nice.\nI might awaken to something.",
   "status": "done",
   "slots": [
    "0x556b"
@@ -985,7 +985,7 @@
  {
   "id": "s2059:01124",
   "jp": "……さて、そろそろ行きますか。\n皆さんいますかねぇ？",
-  "en": "...Well, shall we get going? Is everyone here,\nI wonder?",
+  "en": "...Well, shall we get going?\nIs everyone here, I wonder?",
   "status": "done",
   "slots": [
    "0x5579"
@@ -996,7 +996,7 @@
  {
   "id": "s2059:0115c",
   "jp": "なんときれいな海原よ！\nわたしの心はたかぶっておるぞー！",
-  "en": "What a beautiful expanse of sea! My heart\ndoth soar!",
+  "en": "What a beautiful expanse of sea!\nMy heart doth soar!",
   "status": "done",
   "slots": [
    "0x56c1"
@@ -1073,7 +1073,7 @@
  {
   "id": "s2059:012bf",
   "jp": "あー！　風がきもちー！\n水もつめたいし、さいこーだね！",
-  "en": "Aah! The wind feels great! And the water's\ncold, it's the best!",
+  "en": "Aah! The wind feels great!\nAnd the water's cold, it's the best!",
   "status": "done",
   "slots": [
    "0x5a2c"
@@ -1084,7 +1084,7 @@
  {
   "id": "s2059:012f9",
   "jp": "はぁ～、もうこのまま\nねちゃおうかなぁ……。",
-  "en": "Haaah, maybe Locomoco'll just fall asleep\nlike this...",
+  "en": "Haaah, maybe Locomoco'll\njust fall asleep like this...",
   "status": "done",
   "slots": [
    "0x5a33"
@@ -1095,7 +1095,7 @@
  {
   "id": "s2059:01329",
   "jp": "はっ、ダメダメ！\n早くみんなの所にもどらなくちゃ！",
-  "en": "Ah, no no! Locomoco has to get back to\neveryone!",
+  "en": "Ah, no no! Locomoco has\nto get back to everyone!",
   "status": "done",
   "slots": [
    "0x5a3a"
@@ -1106,7 +1106,7 @@
  {
   "id": "s2059:0135f",
   "jp": "ひょえ～、\nここまで綺麗な海をみたのは\n初めてっすねぇ！",
-  "en": "Whoa, it's my first time seeing a sea this\nbeautiful, sir!",
+  "en": "Whoa, it's my first time seeing\na sea this beautiful, sir!",
   "status": "done",
   "slots": [
    "0x5b7b"
@@ -1117,7 +1117,7 @@
  {
   "id": "s2059:0139a",
   "jp": "せっかくの機会ですし、\nちょっと泳ぎましょうか。\nそれー！",
-  "en": "Since I've got the chance, maybe I'll swim a\nlittle. Here goes!",
+  "en": "Since I've got the chance,\nmaybe I'll swim a little. Here goes!",
   "status": "done",
   "slots": [
    "0x5b8d"
@@ -1139,7 +1139,7 @@
  {
   "id": "s2059:013fc",
   "jp": "課長もたまにはこういう癒しを\nくれないっすかねぇ～。",
-  "en": "Wish my section chief gave us a break like\nthis now and then, sir.",
+  "en": "Wish my section chief gave us a\nbreak like this now and then, sir.",
   "status": "done",
   "slots": [
    "0x5c88"
@@ -1150,7 +1150,7 @@
  {
   "id": "s2059:01434",
   "jp": "……なんか、仕事のことを思い出し\nたら落ち着かなくなってきて\nしまったっす。",
-  "en": "...Thinking about work kinda made me\nrestless, sir.",
+  "en": "...Thinking about work\nkinda made me restless, sir.",
   "status": "done",
   "slots": [
    "0x5c8f"
@@ -1161,7 +1161,7 @@
  {
   "id": "s2059:01483",
   "jp": "充分堪能したことだし、\nそろそろ上がるっすかねぇ。",
-  "en": "I've enjoyed it plenty, so I guess I'll get out\nnow.",
+  "en": "I've enjoyed it plenty,\nso I guess I'll get out now.",
   "status": "done",
   "slots": [
    "0x5c96"
@@ -1183,7 +1183,7 @@
  {
   "id": "s2059:014cb",
   "jp": "ナンパしてくるのはいいけど、\nしつこいナンパはウザイだけだって\nわかんないかしらね？",
-  "en": "Hitting on me is fine, but don't they get that\npushy pick-ups are just annoying?",
+  "en": "Hitting on me is fine, but don't they get\nthat pushy pick-ups are just annoying?",
   "status": "done",
   "slots": [
    "0x338c",
@@ -1194,7 +1194,7 @@
  {
   "id": "s2059:0151e",
   "jp": "こんな薔薇もらったって、\n嬉しくともなんともねぇっつうの！",
-  "en": "Getting a rose like this doesn't make me\nhappy one bit, I'm telling you!",
+  "en": "Getting a rose like this doesn't make\nme happy one bit, I'm telling you!",
   "status": "done",
   "slots": [
    "0x3393",
@@ -1216,7 +1216,7 @@
  {
   "id": "s2059:015a3",
   "jp": "私はいいのかって？\n大丈夫よ。そんな花一輪貰う為に\n海に来たんじゃないもの。",
-  "en": "Am I sure, you ask? It's fine. I didn't come to\nthe sea to get some single flower.",
+  "en": "Am I sure, you ask? It's fine. I didn't come\nto the sea to get some single flower.",
   "status": "done",
   "slots": [
    "0x3409",
@@ -1238,7 +1238,7 @@
  {
   "id": "s2059:0160f",
   "jp": "“天上への担い手”として\n古代ユーフォリア時代から\n崇敬されているマンタ。",
-  "en": "The Manta has been revered as the \"Bearer\nto the Heavens\" since the ancient Euforian\nera.",
+  "en": "The Manta has been revered as\nthe \"Bearer to the Heavens\"\nsince the ancient Euforian era.",
   "status": "done",
   "slots": [
    "0x3428",
@@ -1249,7 +1249,7 @@
  {
   "id": "s2059:01658",
   "jp": "そんなマンタと一緒に泳げるのは、\nこのビーチだけなの。\nどう？　アナタも一緒に泳がない？",
-  "en": "This beach is the only place you can swim\nwith the Manta. How about it? Want to\nswim with me?",
+  "en": "This beach is the only place\nyou can swim with the Manta.\nHow about it? Want to swim with me?",
   "status": "done",
   "slots": [
    "0x342f",
@@ -1271,7 +1271,7 @@
  {
   "id": "s2059:016d0",
   "jp": "この島のずうっと東の方にね、\n山に囲まれた静かな海があるのよ。",
-  "en": "Way off to the east of this island, there's a\nquiet sea surrounded by mountains.",
+  "en": "Way off to the east of this island, there's\na quiet sea surrounded by mountains.",
   "status": "done",
   "slots": [
    "0x34ca",
@@ -1282,7 +1282,7 @@
  {
   "id": "s2059:0170e",
   "jp": "お客さん美人さんだから、\nナンパとかがウザったくなったら\nそこにいけばいいと思うわよ。",
-  "en": "You're a pretty one, so if the pick-ups get\nannoying, I think you should go there.",
+  "en": "You're a pretty one, so if the pick-ups\nget annoying, I think you should go there.",
   "status": "done",
   "slots": [
    "0x34d1",
@@ -1315,7 +1315,7 @@
  {
   "id": "s2059:017a6",
   "jp": "おや、いらっしゃい。\nどの素材で剣を作って\n欲しいんだい？",
-  "en": "Oh, welcome. What material do you want\nyour sword made from?",
+  "en": "Oh, welcome. What material do\nyou want your sword made from?",
   "status": "done",
   "slots": [
    "0x35ec",
@@ -1337,7 +1337,7 @@
  {
   "id": "s2059:01838",
   "jp": "ここニンフェッタ海岸に住んでいる\n人口の九割は女でね。",
-  "en": "Ninety percent of the people living here on\nNymphetta Coast are women.",
+  "en": "Ninety percent of the people living\nhere on Nymphetta Coast are women.",
   "status": "done",
   "slots": [
    "0x35fa",
@@ -1359,7 +1359,7 @@
  {
   "id": "s2059:018b5",
   "jp": "ホレ、完成。\nしつこい男がいたら、\nコイツでぶった切ってやりな！",
-  "en": "There, done. If any man gets pushy, cut him\ndown with this!",
+  "en": "There, done. If any man gets pushy,\ncut him down with this!",
   "status": "done",
   "slots": [
    "0x3675",
@@ -1370,7 +1370,7 @@
  {
   "id": "s2059:018f4",
   "jp": "しつこいナンパをする男に\nロクなやつはいないさ。\n遠慮はいらないよ。",
-  "en": "A man who keeps pushing a pick-up is never\nany good. No need to hold back.",
+  "en": "A man who keeps pushing a pick-up is\nnever any good. No need to hold back.",
   "status": "done",
   "slots": [
    "0x3695",
@@ -1381,7 +1381,7 @@
  {
   "id": "s2059:01937",
   "jp": "おや、いらっしゃい。\nどの素材で剣を作って\n欲しいんだい？",
-  "en": "Oh, welcome. What material do you want\nyour sword made from?",
+  "en": "Oh, welcome. What material do\nyou want your sword made from?",
   "status": "done",
   "slots": [
    "0x36ad",
@@ -1392,7 +1392,7 @@
  {
   "id": "s2059:01970",
   "jp": "素材が無い？\nだったら武器は作れないよ。\n帰んな。",
-  "en": "No material? Then I can't make a weapon.\nOff you go.",
+  "en": "No material? Then I can't\nmake a weapon. Off you go.",
   "status": "done",
   "slots": [
    "0x36b4",
@@ -1403,7 +1403,7 @@
  {
   "id": "s2059:019a1",
   "jp": "ん？\n砂の中に変なのが混じってる\nみたいですね。",
-  "en": "Hm? Something strange seems to be mixed\nin with the sand.",
+  "en": "Hm? Something strange seems\nto be mixed in with the sand.",
   "status": "done",
   "slots": [
    "0x374e",
@@ -1425,7 +1425,7 @@
  {
   "id": "s2059:019fe",
   "jp": "おかしいな？　砂の中にウィルの\n反応がある……掘ってみよう。",
-  "en": "That's odd? There's a Will reading in the\nsand... Let's dig!",
+  "en": "That's odd? There's a Will\nreading in the sand... Let's dig!",
   "status": "done",
   "slots": [
    "0x37ec",
@@ -1447,7 +1447,7 @@
  {
   "id": "s2059:01a5e",
   "jp": "星の砂ねぇ。\nどのみち砂じゃないの。\n……あら？",
-  "en": "Star sand, huh. It's still just sand, either\nway. ...Oh?",
+  "en": "Star sand, huh. It's still just sand,\neither way. ...Oh?",
   "status": "done",
   "slots": [
    "0x389c",
@@ -1458,7 +1458,7 @@
  {
   "id": "s2059:01a8d",
   "jp": "砂の中からこんな鉱石が。\nフフ、砂も侮れないってわけ？",
-  "en": "An ore like this, out of the sand. Hehe, so\nyou can't underestimate sand either?",
+  "en": "An ore like this, out of the sand. Hehe,\nso you can't underestimate sand either?",
   "status": "done",
   "slots": [
    "0x38f2",
@@ -1491,7 +1491,7 @@
  {
   "id": "s2059:01b0e",
   "jp": "おや？　なんですか？\nこの砂だけ妙に明るいような……。",
-  "en": "Oh? What's this? Just this sand seems\nstrangely bright...",
+  "en": "Oh? What's this? Just this\nsand seems strangely bright...",
   "status": "done",
   "slots": [
    "0x39fc",
@@ -1502,7 +1502,7 @@
  {
   "id": "s2059:01b44",
   "jp": "おぉ、鉱石じゃないっすか。\nこんな所にもあるもんっすねぇ。",
-  "en": "Ooh, isn't this ore, sir? So there's some\neven in places like this.",
+  "en": "Ooh, isn't this ore, sir? So there's\nsome even in places like this.",
   "status": "done",
   "slots": [
    "0x3a52",
@@ -1524,7 +1524,7 @@
  {
   "id": "s2059:01b95",
   "jp": "やはりスターダスト！\nめったにとれないはずなのだが。\n私は運がいいようだな。",
-  "en": "Stardust, as I thought! It should be very\nhard to find. I must be lucky.",
+  "en": "Stardust, as I thought! It should be\nvery hard to find. I must be lucky.",
   "status": "done",
   "slots": [
    "0x3b02",
@@ -1546,7 +1546,7 @@
  {
   "id": "s2059:01c08",
   "jp": "砂の中から鉱石が！\nど、どういうこと\nなんでしょうか……。",
-  "en": "Ore out of the sand! Wh-what does this\nmean...",
+  "en": "Ore out of the sand!\nWh-what does this mean...",
   "status": "done",
   "slots": [
    "0x3bb2",
@@ -1570,7 +1570,7 @@
  {
   "id": "s2059:01c56",
   "jp": "スターダスト！\n星砂のウィルが結晶となってできる\n幻の鉱石！　これは高いわよ！",
-  "en": "Stardust! A phantom ore made when the\nWill of star sand crystallises! This is worth\na lot!",
+  "en": "Stardust! A phantom ore made\nwhen the Will of star sand\ncrystallises! This is worth a lot!",
   "status": "done",
   "slots": [
    "0x3c62",
@@ -1583,7 +1583,7 @@
  {
   "id": "s2059:01ca3",
   "jp": "ムム！　\n砂の中から何かを感じるだわさ！\nちょいやー！",
-  "en": "Hmm! I sense something in the sand, dontcha\nknow! Hi-yah!",
+  "en": "Hmm! I sense something in the sand,\ndontcha know! Hi-yah!",
   "status": "done",
   "slots": [
    "0x3cbc",
@@ -1594,7 +1594,7 @@
  {
   "id": "s2059:01cd8",
   "jp": "これはスターダスト！\nそれもここまで綺麗なのは、\n相当珍しいはずなんだわさ！",
-  "en": "This is Stardust! And one this pretty must\nbe really rare, dontcha know!",
+  "en": "This is Stardust! And one this pretty\nmust be really rare, dontcha know!",
   "status": "done",
   "slots": [
    "0x3d12",
@@ -1616,7 +1616,7 @@
  {
   "id": "s2059:01d3c",
   "jp": "まぁ、綺麗な光。\nまさしく星の輝きですわね。",
-  "en": "My, what a beautiful light. Truly the twinkle\nof the stars.",
+  "en": "My, what a beautiful light.\nTruly the twinkle of the stars.",
   "status": "done",
   "slots": [
    "0x3dc2",
@@ -1634,7 +1634,7 @@
  {
   "id": "s2059:01d90",
   "jp": "コイツが原因か。面白ぇ。\nもらってやるよ。",
-  "en": "So this is what's doin' it. Interestin'. I'll\ntake it.",
+  "en": "So this is what's doin' it.\nInterestin'. I'll take it.",
   "status": "done",
   "slots": []
  },
@@ -1652,7 +1652,7 @@
  {
   "id": "s2059:01ddb",
   "jp": "ボクが拾ったところで、\nなんの意味もないですよね……。",
-  "en": "There's no point in me picking it up, is\nthere...",
+  "en": "There's no point in me\npicking it up, is there...",
   "status": "done",
   "slots": [
    "0x3eb6",
@@ -1718,7 +1718,7 @@
  {
   "id": "s2059:01eac",
   "jp": "あ、ピンガーの耳だ。\n誰が落としたんだろう……。",
-  "en": "Oh, Pinger ears. Who dropped them, I\nwonder...",
+  "en": "Oh, Pinger ears.\nWho dropped them, I wonder...",
   "status": "done",
   "slots": [
    "0x405f",
@@ -1795,7 +1795,7 @@
  {
   "id": "s2059:01f60",
   "jp": "にゃんにゃん。\nフフ、これで私も獣人族の\n仲間入りですね。",
-  "en": "Nyan-nyan. Hehe, now I'm one of the\nbeastmen too.",
+  "en": "Nyan-nyan. Hehe,\nnow I'm one of the beastmen too.",
   "status": "done",
   "slots": [
    "0x426f",
@@ -1813,14 +1813,14 @@
  {
   "id": "s2059:01fae",
   "jp": "さすがに、この歳になってまで、\nネコのマネなんてできないわよね。",
-  "en": "At my age, I really can't go imitating a cat,\ncan I?",
+  "en": "At my age, I really can't\ngo imitating a cat, can I?",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2059:01fee",
   "jp": "なんでこんな所にネコの耳飾りが\nあるんだわさ？",
-  "en": "Why are there cat-ear ornaments in a place\nlike this, dontcha know?",
+  "en": "Why are there cat-ear ornaments\nin a place like this, dontcha know?",
   "status": "done",
   "slots": [
    "0x4352",
@@ -1831,7 +1831,7 @@
  {
   "id": "s2059:0201c",
   "jp": "これでエリーシャあたりを\nおちょくってやるんだわさ！",
-  "en": "I'll use these to tease Elisha or somebody,\ndontcha know!",
+  "en": "I'll use these to tease Elisha\nor somebody, dontcha know!",
   "status": "done",
   "slots": [
    "0x439d",
@@ -1853,7 +1853,7 @@
  {
   "id": "s2059:02071",
   "jp": "にゃんにゃん。\nこれで殿方達もイチコロですわ。",
-  "en": "Nyan-nyan. With these, the gentlemen will\nfall for me at first sight.",
+  "en": "Nyan-nyan. With these, the gentlemen\nwill fall for me at first sight.",
   "status": "done",
   "slots": [
    "0x4446",
@@ -1889,7 +1889,7 @@
  {
   "id": "s2059:020f3",
   "jp": "新品同然だし……\nもらっておきましょうか。\nゴミになってもマズイですし。",
-  "en": "It's practically brand new... I'll take it. It'd\nbe bad if it became litter.",
+  "en": "It's practically brand new... I'll take it.\nIt'd be bad if it became litter.",
   "status": "done",
   "slots": [
    "0x453a",
@@ -1900,7 +1900,7 @@
  {
   "id": "s2059:0213a",
   "jp": "わ、すごい。\nこのサンダル、歩くと音がするよ。",
-  "en": "Wow, amazing. These sandals make a sound\nwhen you walk.",
+  "en": "Wow, amazing. These sandals\nmake a sound when you walk.",
   "status": "done",
   "slots": [
    "0x458d",
@@ -1966,7 +1966,7 @@
  {
   "id": "s2059:0221c",
   "jp": "なんすか、このサンダル？\n変な仕掛けが施されているっすよ。",
-  "en": "What are these sandals, sir? There's some\nweird gadget built into them.",
+  "en": "What are these sandals, sir?\nThere's some weird gadget built into them.",
   "status": "done",
   "slots": [
    "0x4764",
@@ -1977,7 +1977,7 @@
  {
   "id": "s2059:02256",
   "jp": "なるほど、歩くと音が鳴るんすね。\n面白いっす。",
-  "en": "I see, they make a sound when you walk.\nInteresting, sir.",
+  "en": "I see, they make a sound when\nyou walk. Interesting, sir.",
   "status": "done",
   "slots": [
    "0x47af",
@@ -1988,7 +1988,7 @@
  {
   "id": "s2059:02284",
   "jp": "こう、砂浜にサンダルだけがあると\n不安になるな。",
-  "en": "Seeing just a pair of sandals on the beach\nlike this makes me uneasy.",
+  "en": "Seeing just a pair of sandals on the\nbeach like this makes me uneasy.",
   "status": "done",
   "slots": [
    "0x47fb",
@@ -1999,7 +1999,7 @@
  {
   "id": "s2059:022b4",
   "jp": "このサンダルの持ち主に\nなにかなければいいのだが……。",
-  "en": "I hope nothing happened to the owner of\nthese sandals...",
+  "en": "I hope nothing happened to\nthe owner of these sandals...",
   "status": "done",
   "slots": [
    "0x4846",
@@ -2021,7 +2021,7 @@
  {
   "id": "s2059:022ff",
   "jp": "懐かしいですね。\n子供の頃にどうしてもほしくて、\nお父様にねだった事があったんです",
-  "en": "How nostalgic. When I was a child, I wanted\nthese so badly that I begged Father for\nthem.",
+  "en": "How nostalgic. When I was a child,\nI wanted these so badly that\nI begged Father for them.",
   "status": "done",
   "slots": [
    "0x48ef",
@@ -2043,7 +2043,7 @@
  {
   "id": "s2059:02369",
   "jp": "まぁ、クツがあるだけマシって\n感じよね……。",
-  "en": "Well, I suppose having shoes at all is\nsomething...",
+  "en": "Well, I suppose having\nshoes at all is something...",
   "status": "done",
   "slots": [
    "0x498d",
@@ -2076,7 +2076,7 @@
  {
   "id": "s2059:02403",
   "jp": "あら、このサンダル、\n歩くたびに音がでるのですね？",
-  "en": "Oh my, these sandals make a sound with\nevery step?",
+  "en": "Oh my, these sandals make\na sound with every step?",
   "status": "done",
   "slots": [
    "0x4a77",
@@ -2098,14 +2098,14 @@
  {
   "id": "s2059:02467",
   "jp": "ガキのサンダルか。\nヘッ、幼稚なデザインだぜ。",
-  "en": "Kids' sandals, huh. Heh, what a childish\ndesign.",
+  "en": "Kids' sandals, huh. Heh,\nwhat a childish design.",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2059:02495",
   "jp": "ま、もし俺が子供でも、\nこのサンダルは履かねぇけどな。",
-  "en": "Well, even if I was a kid, I wouldn't wear\nthese sandals.",
+  "en": "Well, even if I was a kid,\nI wouldn't wear these sandals.",
   "status": "done",
   "slots": []
  },
@@ -2123,7 +2123,7 @@
  {
   "id": "s2059:024ec",
   "jp": "な、なぜぬいぐるみがこんな所に。\nま、まさか……ここって……。",
-  "en": "Wh-why is there a stuffed toy in a place like\nthis? D-don't tell me... this place is...",
+  "en": "Wh-why is there a stuffed toy in a place\nlike this? D-don't tell me... this place is...",
   "status": "done",
   "slots": [
    "0x4bc1",
@@ -2134,7 +2134,7 @@
  {
   "id": "s2059:0252a",
   "jp": "薄暗い所ね。\nまぁ、ちょっと涼しいと思えば\n楽っちゃ楽か。",
-  "en": "It's gloomy here. Well, if I think of it as a\nbit cool, it's comfortable enough.",
+  "en": "It's gloomy here. Well, if I think of it\nas a bit cool, it's comfortable enough.",
   "status": "done",
   "slots": [
    "0x4cbd",
@@ -2145,7 +2145,7 @@
  {
   "id": "s2059:02563",
   "jp": "……よし、休憩終わり。\nって、あら？　こんな人形、\nあたし持ってたかしら……？",
-  "en": "...All right, break's over. Huh? Did I have a\ndoll like this...?",
+  "en": "...All right, break's over. Huh?\nDid I have a doll like this...?",
   "status": "done",
   "slots": [
    "0x4d08",
@@ -2167,7 +2167,7 @@
  {
   "id": "s2059:025cf",
   "jp": "この人形、わずかだけど邪気を\n弱めてくれてるみたい。\nもらっておこう。",
-  "en": "This doll seems to be weakening the evil\naura, if only a little. I'll take it.",
+  "en": "This doll seems to be weakening the\nevil aura, if only a little. I'll take it.",
   "status": "done",
   "slots": [
    "0x4c6a",
@@ -2200,7 +2200,7 @@
  {
   "id": "s2059:02672",
   "jp": "あぁ～ここが課長の言ってた\n現世一の自殺スポットっすね。",
-  "en": "Ahh, so this is the number-one suicide spot\nin the living world my section chief told me\nabout, sir.",
+  "en": "Ahh, so this is the number-one\nsuicide spot in the living world my\nsection chief told me about, sir.",
   "status": "done",
   "slots": [
    "0x4e07",
@@ -2222,7 +2222,7 @@
  {
   "id": "s2059:026cb",
   "jp": "人形さんが、ここに結界を張って\nビーチを守ってくれてたんすね。\nありがとうございまっす。",
-  "en": "So the doll has been putting up a barrier\nhere to protect the beach. Thank you very\nmuch, sir!",
+  "en": "So the doll has been putting up a\nbarrier here to protect the beach.\nThank you very much, sir!",
   "status": "done",
   "slots": [
    "0x4e68",
@@ -2244,7 +2244,7 @@
  {
   "id": "s2059:0274c",
   "jp": "この人形だけ違う。\nお守り代わりに持っておくか。",
-  "en": "Only this doll is different. I'll keep it as a\ncharm.",
+  "en": "Only this doll is different.\nI'll keep it as a charm.",
   "status": "done",
   "slots": [
    "0x4f06",
@@ -2266,7 +2266,7 @@
  {
   "id": "s2059:027a8",
   "jp": "この人形も、どこか沈痛な\n感じがします……。",
-  "en": "This doll also feels somehow\ngrief-stricken...",
+  "en": "This doll also feels\nsomehow grief-stricken...",
   "status": "done",
   "slots": [
    "0x4f9d",
@@ -2277,7 +2277,7 @@
  {
   "id": "s2059:027d4",
   "jp": "嫌な所に迷い込んじゃったわね……\n早く出ましょう。",
-  "en": "I've wandered into a nasty place... Let's get\nout of here, quick.",
+  "en": "I've wandered into a nasty place...\nLet's get out of here, quick.",
   "status": "done",
   "slots": [
    "0x4fe9",
@@ -2288,7 +2288,7 @@
  {
   "id": "s2059:02806",
   "jp": "に、人形が……勝手に、動……\nきゃああぁぁぁ！！",
-  "en": "Th-the doll... it's moving... on its own...\nKyaaaaah!!",
+  "en": "Th-the doll... it's moving...\non its own... Kyaaaaah!!",
   "status": "done",
   "slots": [
    "0x5034",
@@ -2299,7 +2299,7 @@
  {
   "id": "s2059:02836",
   "jp": "あら、なんか穏やかじゃないわね。",
-  "en": "Oh my, something's not very peaceful\naround here.",
+  "en": "Oh my, something's not\nvery peaceful around here.",
   "status": "done",
   "slots": [
    "0x5080",
@@ -2321,7 +2321,7 @@
  {
   "id": "s2059:028a6",
   "jp": "あら、なにやら涼しい所にでて\nしまいましたわ。",
-  "en": "Oh my, I seem to have come out somewhere\nrather cool.",
+  "en": "Oh my, I seem to have come\nout somewhere rather cool.",
   "status": "done",
   "slots": [
    "0x5117",
@@ -2332,7 +2332,7 @@
  {
   "id": "s2059:028d4",
   "jp": "あら人形さん、どうしたの？\nこの先には通したくないのかしら？",
-  "en": "Oh my, little doll, what's wrong? You don't\nwant me to go any further?",
+  "en": "Oh my, little doll, what's wrong?\nYou don't want me to go any further?",
   "status": "done",
   "slots": [
    "0x5162",
@@ -2343,21 +2343,21 @@
  {
   "id": "s2059:02910",
   "jp": "あぁ？　なんだここ。\n不吉な匂いがプンプンするぜ。",
-  "en": "Huh? What is this place? It reeks of bad\nomens.",
+  "en": "Huh? What is this place?\nIt reeks of bad omens.",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2059:02942",
   "jp": "おう、お前も感じるか人形。\n大丈夫だ、俺が守ってやるよ！",
-  "en": "Hey, you feel it too, doll? Don't worry, I'll\nprotect ya!",
+  "en": "Hey, you feel it too, doll?\nDon't worry, I'll protect ya!",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2059:07f2c",
   "jp": "ム、人の恋路を邪魔するもの、\n無礼なり！",
-  "en": "Hm, whoever gets in the way of another's\nromance is an insolent wretch!",
+  "en": "Hm, whoever gets in the way of\nanother's romance is an insolent wretch!",
   "status": "done",
   "slots": [
    "0x8414"
@@ -2368,7 +2368,7 @@
  {
   "id": "s2059:07f58",
   "jp": "あんたのほうがよっぽど無礼よ\nこの骸骨魔人！",
-  "en": "You're a lot more insolent, you skeleton\nfiend!",
+  "en": "You're a lot more insolent,\nyou skeleton fiend!",
   "status": "done",
   "slots": [
    "0x842d"
@@ -2423,7 +2423,7 @@
  {
   "id": "s2059:0800e",
   "jp": "優雅な美女だと思ったが\nとんだ豪傑だったようだな……。\n私のタイプではない！　さらばだ！",
-  "en": "I took you for an elegant beauty, but you\nturned out to be quite the warrior... You're\nnot my type! Farewell!",
+  "en": "I took you for an elegant beauty,\nbut you turned out to be quite the warrior...\nYou're not my type! Farewell!",
   "status": "done",
   "slots": [
    "0xa620"
@@ -2456,7 +2456,7 @@
  {
   "id": "s2059:0809f",
   "jp": "なにやら友情が芽生えてますが……",
-  "en": "Some kind of friendship seems to be\nbudding...",
+  "en": "Some kind of friendship\nseems to be budding...",
   "status": "done",
   "slots": [
    "0xad84"
@@ -2478,7 +2478,7 @@
  {
   "id": "s2059:08104",
   "jp": "それはある特殊な条件下の\n男の人の場合なんですけどね。",
-  "en": "That only applies to men, under very special\nconditions.",
+  "en": "That only applies to men,\nunder very special conditions.",
   "status": "done",
   "slots": [
    "0xadb0"
@@ -2489,7 +2489,7 @@
  {
   "id": "s2059:0813e",
   "jp": "改めて、エリーシャよ。\nよろしく、アンヌ。",
-  "en": "Let's start over. I'm Elisha. Nice to meet\nyou, Anne.",
+  "en": "Let's start over. I'm Elisha.\nNice to meet you, Anne.",
   "status": "done",
   "slots": [
    "0xadc6"

@@ -79,7 +79,7 @@
  {
   "id": "s2078:000e3",
   "jp": "この銃の腕前……オイオイ、\nマジかよ。",
-  "en": "That kind of aim... Oh, come on. You're\nkiddin' me.",
+  "en": "That kind of aim... Oh,\ncome on. You're kiddin' me.",
   "status": "done",
   "slots": [
    "0x134b"
@@ -123,7 +123,7 @@
  {
   "id": "s2078:0015a",
   "jp": "私とてルキア皇国の一兵。\nあれしきで死んでたまるか……。",
-  "en": "I am a soldier of the Lukia Empire too. As if I\nwould die from something like that...",
+  "en": "I am a soldier of the Lukia Empire too.\nAs if I would die from something like that...",
   "status": "done",
   "slots": [
    "0x1457"
@@ -255,7 +255,7 @@
  {
   "id": "s2078:002ff",
   "jp": "闇のカード、アシュレイの剣。\nこの二つを合わせれば……！",
-  "en": "The dark card and Ashrey's sword. If I\ncombine the two...!",
+  "en": "The dark card and Ashrey's sword.\nIf I combine the two...!",
   "status": "done",
   "slots": [
    "0x1615"
@@ -266,7 +266,7 @@
  {
   "id": "s2078:0033b",
   "jp": "ユ、ユーフォリアを復活させる為の\nウィルを、吸収してる！？",
-  "en": "H-he's absorbing the Will meant to revive\nEuforia!?",
+  "en": "H-he's absorbing the Will\nmeant to revive Euforia!?",
   "status": "done",
   "slots": [
    "0x1654"
@@ -321,7 +321,7 @@
  {
   "id": "s2078:0041c",
   "jp": "フハハハ！　私は王族を超えた！\n私が！　私こそが、最強ダァ！",
-  "en": "Hahahaha! I have surpassed royalty! I! I\nalone am the strongest!",
+  "en": "Hahahaha! I have surpassed royalty!\nI! I alone am the strongest!",
   "status": "done",
   "slots": [
    "0x16de"
@@ -332,7 +332,7 @@
  {
   "id": "s2078:0045c",
   "jp": "やっかいなもんだな……。\n力に取り憑かれた男ってのは。",
-  "en": "What a pain they are... men possessed by\npower.",
+  "en": "What a pain they are...\nmen possessed by power.",
   "status": "done",
   "slots": [
    "0x16f7"
@@ -343,7 +343,7 @@
  {
   "id": "s2078:00496",
   "jp": "力が全てだ！　力こそ平和！\n力こそ自由だ！",
-  "en": "Power is everything! Power is peace! Power\nis freedom!",
+  "en": "Power is everything!\nPower is peace! Power is freedom!",
   "status": "done",
   "slots": [
    "0x1710"
@@ -376,7 +376,7 @@
  {
   "id": "s2078:00520",
   "jp": "念願の力を手に入れたが……。\n存外、感動もしないものだな。",
-  "en": "I have gained the power I longed for... Yet it\nmoves me less than I expected.",
+  "en": "I have gained the power I longed for...\nYet it moves me less than I expected.",
   "status": "done",
   "slots": [
    "0x1805"
@@ -409,7 +409,7 @@
  {
   "id": "s2078:005bd",
   "jp": "過去を振り返るのは嫌いなんじゃ\nなかったのか？",
-  "en": "Didn't ya say you hated lookin' back on the\npast?",
+  "en": "Didn't ya say you hated lookin'\nback on the past?",
   "status": "done",
   "slots": [
    "0x1850"
@@ -420,7 +420,7 @@
  {
   "id": "s2078:005ef",
   "jp": "嫌いだよ。\nだから、これで最後だ。",
-  "en": "I do hate it. That is why this is the last\ntime.",
+  "en": "I do hate it. That is why\nthis is the last time.",
   "status": "done",
   "slots": [
    "0x1869"
@@ -431,7 +431,7 @@
  {
   "id": "s2078:00615",
   "jp": "なんつー力だ……！\n体が、震えるッ！",
-  "en": "What kinda power is this...! My body's\nshakin'!",
+  "en": "What kinda power is this...!\nMy body's shakin'!",
   "status": "done",
   "slots": [
    "0x1984"
@@ -441,7 +441,7 @@
  {
   "id": "s2078:00639",
   "jp": "動け……俺の体！\nアイツを……アイツを、\n倒すんだよぉぉぉ！！",
-  "en": "Move... my body! I gotta... I gotta beat that\nguy!!",
+  "en": "Move... my body! I gotta...\nI gotta beat that guy!!",
   "status": "done",
   "slots": [
    "0x1999"
@@ -481,7 +481,7 @@
  {
   "id": "s2078:006f7",
   "jp": "ものすごいウィル……。\nこんな人に、勝てるの？",
-  "en": "Such incredible Will... Can we beat someone\nlike this?",
+  "en": "Such incredible Will...\nCan we beat someone like this?",
   "status": "done",
   "slots": [
    "0x1b60"
@@ -511,7 +511,7 @@
  {
   "id": "s2078:00783",
   "jp": "自分の意思に振り回されるような\n人に、アタシは負けないわ！",
-  "en": "I won't lose to someone who gets jerked\naround by his own will!",
+  "en": "I won't lose to someone who gets\njerked around by his own will!",
   "status": "done",
   "slots": [
    "0x1c57"
@@ -521,7 +521,7 @@
  {
   "id": "s2078:007bd",
   "jp": "これで本当に終わりだなぁ。\n長かったぜぇ……。",
-  "en": "This is really the end, huh. It's been a long\nhaul...",
+  "en": "This is really the end,\nhuh. It's been a long haul...",
   "status": "done",
   "slots": [
    "0x1d2b"
@@ -541,7 +541,7 @@
  {
   "id": "s2078:0080c",
   "jp": "恐ろしい力だな……\nしかし、臆してばかりもいられない。",
-  "en": "Fearsome power... However, I cannot let\nfear hold me back.",
+  "en": "Fearsome power... However,\nI cannot let fear hold me back.",
   "status": "done",
   "slots": [
    "0x1e14"
@@ -561,7 +561,7 @@
  {
   "id": "s2078:00853",
   "jp": "このウィルを上回るには……。\nロコモコの限界を超えないと。",
-  "en": "To beat this Will... Locomoco has to go past\nher limit.",
+  "en": "To beat this Will...\nLocomoco has to go past her limit.",
   "status": "done",
   "slots": [
    "0x1ef6"
@@ -581,7 +581,7 @@
  {
   "id": "s2078:008a3",
   "jp": "ふえぇ～……。\n地上には、怖いものが沢山っすねぇ",
-  "en": "Eeek... There's lots of scary stuff up here on\nthe surface, sir...",
+  "en": "Eeek... There's lots of scary stuff\nup here on the surface, sir...",
   "status": "done",
   "slots": [
    "0x1fcd"
@@ -591,7 +591,7 @@
  {
   "id": "s2078:008d3",
   "jp": "早く終わらせて、気持ちよく\n黄泉の国に帰るっすよ！",
-  "en": "Let's wrap this up fast, so I can go back to\nthe Land of the Dead feeling good, sir!",
+  "en": "Let's wrap this up fast, so I can go back\nto the Land of the Dead feeling good, sir!",
   "status": "done",
   "slots": [
    "0x1fe2"
@@ -661,7 +661,7 @@
  {
   "id": "s2078:009b7",
   "jp": "この槍と気合で！\n新たな海路を切り開く者なりぃ！！",
-  "en": "With this spear and my fighting spirit! I shall\ncarve out a new sea route!!",
+  "en": "With this spear and my fighting spirit!\nI shall carve out a new sea route!!",
   "status": "done",
   "slots": [
    "0x231f"
@@ -671,7 +671,7 @@
  {
   "id": "s2078:009e9",
   "jp": "これが終わったら、綺麗な海行って\n暖かな日を浴びながら、\nフルーツでも食べたいわねぇ。",
-  "en": "When this is over, I wanna go to some pretty\nsea and eat fruit while soaking up the warm\nsun.",
+  "en": "When this is over, I wanna go to\nsome pretty sea and eat fruit\nwhile soaking up the warm sun.",
   "status": "done",
   "slots": [
    "0x23ec"
@@ -681,7 +681,7 @@
  {
   "id": "s2078:00a3e",
   "jp": "終わらせるわよ。\nアタシの史上最高の剣技。\n見せてあげるわ。",
-  "en": "Let's finish this. I'll show you the finest\nswordplay of my life, dear.",
+  "en": "Let's finish this. I'll show you the\nfinest swordplay of my life, dear.",
   "status": "done",
   "slots": [
    "0x2401"
@@ -691,7 +691,7 @@
  {
   "id": "s2078:00a79",
   "jp": "どんなにウィルを高めたって、\nこのパメラ様の足元にも\n及ばないんだわさ！",
-  "en": "No matter how much you raise your Will, you\ncan't even come close to the Great\nPamela-sama, dontcha know!",
+  "en": "No matter how much you raise your Will,\nyou can't even come close to the\nGreat Pamela-sama, dontcha know!",
   "status": "done",
   "slots": [
    "0x24ce"
@@ -701,7 +701,7 @@
  {
   "id": "s2078:00ac0",
   "jp": "フッフッフ。\n最高のショーを見せて\nあげるんだわさ。",
-  "en": "Hmhmhm. I'll show you the greatest show\nthere is, dontcha know.",
+  "en": "Hmhmhm. I'll show you the greatest\nshow there is, dontcha know.",
   "status": "done",
   "slots": [
    "0x24d8"
@@ -711,7 +711,7 @@
  {
   "id": "s2078:00af3",
   "jp": "力強い詩も好きですが、\n私、やっぱり友愛の詩が\n一番好きですわ。",
-  "en": "I do like powerful songs, but I, after all, love\nsongs of friendship best of all.",
+  "en": "I do like powerful songs, but I, after all,\nlove songs of friendship best of all.",
   "status": "done",
   "slots": [
    "0x25ac"
@@ -731,7 +731,7 @@
  {
   "id": "s2078:00b77",
   "jp": "最強対最強の戦い！！\n燃える、燃えるぜぇぇぇ！",
-  "en": "Strongest versus strongest!! I'm fired up, so\nfired uuup!",
+  "en": "Strongest versus strongest!!\nI'm fired up, so fired uuup!",
   "status": "done",
   "slots": [
    "0x25f4"
@@ -741,7 +741,7 @@
  {
   "id": "s2078:00ba5",
   "jp": "勝つのは、俺様だぁぁぁ！！",
-  "en": "The winner's gonna be me, the great\nchampion!!",
+  "en": "The winner's gonna be me,\nthe great champion!!",
   "status": "done",
   "slots": [
    "0x25fe"
@@ -828,7 +828,7 @@
  {
   "id": "s2078:00cbf",
   "jp": "皆逃げて！\nこのままじゃ、大爆発が起こるよ！",
-  "en": "Everyone, run! At this rate, there's going to\nbe a huge explosion!",
+  "en": "Everyone, run! At this rate,\nthere's going to be a huge explosion!",
   "status": "done",
   "slots": [
    "0x2f43"
@@ -850,7 +850,7 @@
  {
   "id": "s2078:00d02",
   "jp": "人が死ぬとき、体内の残留ウィルは\n外に吐き出されるんだけど。",
-  "en": "When a person dies, the Will left in their\nbody is released outside, but...",
+  "en": "When a person dies, the Will left in\ntheir body is released outside, but...",
   "status": "done",
   "slots": [
    "0x2fa6"
@@ -883,7 +883,7 @@
  {
   "id": "s2078:00d91",
   "jp": "とりあえず、無事じゃすまないん\nじゃないんですか？",
-  "en": "For starters, I don't think we'd come out of\nit unharmed, would we?",
+  "en": "For starters, I don't think we'd\ncome out of it unharmed, would we?",
   "status": "done",
   "slots": [
    "0x3006"
@@ -894,7 +894,7 @@
  {
   "id": "s2078:00dc7",
   "jp": "死ナバ諸共！\nコノ戦争ニ、最早勝者ハイラナイ！",
-  "en": "If I Die. You Die With Me! This War. Shall\nHave. No Victor!",
+  "en": "If I Die. You Die With Me!\nThis War. Shall Have. No Victor!",
   "status": "done",
   "slots": [
    "0x302d"
@@ -938,7 +938,7 @@
  {
   "id": "s2078:00e31",
   "jp": "なぁに、ちょっと親友と\n一緒に水浴びするだけさ！",
-  "en": "Ah, I'm just gonna take a little dip with my\nbest friend!",
+  "en": "Ah, I'm just gonna take a\nlittle dip with my best friend!",
   "status": "done",
   "slots": [
    "0x30eb"
@@ -949,7 +949,7 @@
  {
   "id": "s2078:00e65",
   "jp": "まさか、海に飛び込む気ですか！？",
-  "en": "Don't tell me you're going to jump into the\nsea!?",
+  "en": "Don't tell me you're going\nto jump into the sea!?",
   "status": "done",
   "slots": [
    "0x3104"
@@ -993,7 +993,7 @@
  {
   "id": "s2078:00ebb",
   "jp": "グロリア海賊団はお前に任せる！\n今日からお前が船長だ！",
-  "en": "I'm leavin' the Gloria Pirates to you! From\ntoday, you're the captain!",
+  "en": "I'm leavin' the Gloria Pirates to you!\nFrom today, you're the captain!",
   "status": "done",
   "slots": [
    "0x3192"
@@ -1015,7 +1015,7 @@
  {
   "id": "s2078:00f04",
   "jp": "イシュト！\nお前は、このユーフォリアを\nなんとかしろ！　いいな！？",
-  "en": "Ishut! You do somethin' about this Euforia!\nGot it!?",
+  "en": "Ishut! You do somethin'\nabout this Euforia! Got it!?",
   "status": "done",
   "slots": [
    "0x31c4"

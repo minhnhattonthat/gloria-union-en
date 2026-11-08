@@ -24,7 +24,7 @@
  {
   "id": "s2045:000aa",
   "jp": "ここのどこかに、お宝があるのね？",
-  "en": "So there's treasure somewhere around\nhere?",
+  "en": "So there's treasure\nsomewhere around here?",
   "status": "done",
   "slots": [
    "0x177d"
@@ -35,7 +35,7 @@
  {
   "id": "s2045:000cf",
   "jp": "ボルドレーゼ島の民は、タルに物を\n保管する習わしがあったらしい。",
-  "en": "Seems the people of Bordolese Island had a\ncustom of storin' things in barrels.",
+  "en": "Seems the people of Bordolese Island\nhad a custom of storin' things in barrels.",
   "status": "done",
   "slots": [
    "0x1796"
@@ -46,7 +46,7 @@
  {
   "id": "s2045:00113",
   "jp": "なるほど、じゃあそのタルの中に\nお宝は眠っているのね？\nって、こんなことしてていいの？",
-  "en": "I see, so the treasure's sleeping in one of\nthose barrels? Wait, should we be doing this\nright now?",
+  "en": "I see, so the treasure's sleeping\nin one of those barrels? Wait,\nshould we be doing this right now?",
   "status": "done",
   "slots": [
    "0x17af"
@@ -57,7 +57,7 @@
  {
   "id": "s2045:0016c",
   "jp": "このまま行くと金が尽きる。\nクリスタル探しも重要だが、\n金も重要ってことだ。",
-  "en": "Keep goin' like this and we'll run outta\nmoney. Searchin' for Crystals is important,\nbut so's money.",
+  "en": "Keep goin' like this and we'll\nrun outta money. Searchin'\nfor Crystals is important, but so's money.",
   "status": "done",
   "slots": [
    "0x17c5"
@@ -123,7 +123,7 @@
  {
   "id": "s2045:00234",
   "jp": "船長ならば、ビシッと決めて\nもらいたいな。",
-  "en": "As captain, I'd like you to make it crisp and\nclear.",
+  "en": "As captain, I'd like you to\nmake it crisp and clear.",
   "status": "done",
   "slots": [
    "0x18b6"
@@ -145,7 +145,7 @@
  {
   "id": "s2045:0027b",
   "jp": "あーうっせぇな！\n噂程度に聞いたんだから、\nしょうがねぇだろ！",
-  "en": "Ahh, shaddap! I only heard it as a rumor, so\nwhaddya want!",
+  "en": "Ahh, shaddap! I only heard it\nas a rumor, so whaddya want!",
   "status": "done",
   "slots": [
    "0x1909"
@@ -156,7 +156,7 @@
  {
   "id": "s2045:002bc",
   "jp": "どうやら、手当たり次第に探すしか\nなさそうね。",
-  "en": "Looks like we'll just have to search every\none we can get our hands on.",
+  "en": "Looks like we'll just have to search\nevery one we can get our hands on.",
   "status": "done",
   "slots": [
    "0x1922"
@@ -178,7 +178,7 @@
  {
   "id": "s2045:00309",
   "jp": "うっさい！　つべこべ言わずに\nさっさと動く！　撃つわよ！？",
-  "en": "Shut up! Quit griping and get moving! Or I'll\nshoot!",
+  "en": "Shut up! Quit griping and\nget moving! Or I'll shoot!",
   "status": "done",
   "slots": [
    "0x1958"
@@ -255,7 +255,7 @@
  {
   "id": "s2045:00417",
   "jp": "何でも入れればいいってもんでも\nないでしょうに……。",
-  "en": "Just because you can put anything in one\ndoesn't mean you should...",
+  "en": "Just because you can put anything\nin one doesn't mean you should...",
   "status": "done",
   "slots": [
    "0x1b75"
@@ -277,7 +277,7 @@
  {
   "id": "s2045:00470",
   "jp": "笑わないでくれルルゥ、ただでさえ\n心にヒビがはいってるんだから。",
-  "en": "Don't laugh, Ruru. My heart's already\ncracked enough as it is.",
+  "en": "Don't laugh, Ruru. My heart's\nalready cracked enough as it is.",
   "status": "done",
   "slots": [
    "0x1bd1"
@@ -299,7 +299,7 @@
  {
   "id": "s2045:004bf",
   "jp": "ケー！　じゃねぇ！　こんの野郎ぉ\nもう一度棺桶に突っ込んでやる！！",
-  "en": "Don't \"Keee!\" me! You bastard, I'm stuffin'\nyou back in your coffin!!",
+  "en": "Don't \"Keee!\" me! You bastard,\nI'm stuffin' you back in your coffin!!",
   "status": "done",
   "slots": [
    "0x1c03"
@@ -310,7 +310,7 @@
  {
   "id": "s2045:00505",
   "jp": "なに？　今の奇妙な叫び声は……！",
-  "en": "What? What was that strange scream just\nnow...!",
+  "en": "What? What was that\nstrange scream just now...!",
   "status": "done",
   "slots": [
    "0x1cf0"
@@ -321,7 +321,7 @@
  {
   "id": "s2045:0052a",
   "jp": "お宝だと思って開けたら骸骨に\n襲われるし……。",
-  "en": "I open what I think is treasure and get\nattacked by a skeleton...",
+  "en": "I open what I think is treasure\nand get attacked by a skeleton...",
   "status": "done",
   "slots": [
    "0x1d05"
@@ -376,7 +376,7 @@
  {
   "id": "s2045:005e7",
   "jp": "えぇ。そうよ。でも、骸骨が出て\nきたり、奇妙な叫び声が聞こえたり\nで、正直うんざりしてるわ。",
-  "en": "Yes, I am. But with skeletons popping out\nand strange screams echoing around,\nfrankly, I'm fed up.",
+  "en": "Yes, I am. But with skeletons\npopping out and strange screams\nechoing around, frankly, I'm fed up.",
   "status": "done",
   "slots": [
    "0x1d7d"
@@ -398,7 +398,7 @@
  {
   "id": "s2045:00667",
   "jp": "ルルゥ。思い出し笑いはいいが、\n俺の聞こえないところで笑ってくれ",
-  "en": "Ruru. Laugh about it all you want, but do it\nwhere I can't hear.",
+  "en": "Ruru. Laugh about it all you want,\nbut do it where I can't hear.",
   "status": "done",
   "slots": [
    "0x1dc2"
@@ -409,7 +409,7 @@
  {
   "id": "s2045:006ab",
   "jp": "怖いならさっさと出て行けば？\nま、あたし達はお宝もらうけど。",
-  "en": "If you're scared, why not just leave? We'll\nbe taking the treasure, of course.",
+  "en": "If you're scared, why not just leave?\nWe'll be taking the treasure, of course.",
   "status": "done",
   "slots": [
    "0x1dee"
@@ -420,7 +420,7 @@
  {
   "id": "s2045:006eb",
   "jp": "あ、今の。ちょっとカチーンと\nきちゃったわよ。",
-  "en": "Oh, that just now. That really got on my\nnerves, dear.",
+  "en": "Oh, that just now.\nThat really got on my nerves, dear.",
   "status": "done",
   "slots": [
    "0x1e07"
@@ -442,7 +442,7 @@
  {
   "id": "s2045:0073a",
   "jp": "勝負よ！　どちらが先にお宝を\n見つけられるか！",
-  "en": "It's a contest! Whoever finds the treasure\nfirst!",
+  "en": "It's a contest! Whoever\nfinds the treasure first!",
   "status": "done",
   "slots": [
    "0x1e3e"
@@ -453,7 +453,7 @@
  {
   "id": "s2045:0076c",
   "jp": "上等よ！　負けた方は勝った方の\n傘下に入るでいいわね！",
-  "en": "You're on! The loser joins the winner's fleet,\ndeal!?",
+  "en": "You're on! The loser joins\nthe winner's fleet, deal!?",
   "status": "done",
   "slots": [
    "0x1e5c"
@@ -464,7 +464,7 @@
  {
   "id": "s2045:007a6",
   "jp": "お、おいエリーシャそんな勝手に。",
-  "en": "H-hey, Elisha, don't just decide on your\nown...",
+  "en": "H-hey, Elisha, don't just\ndecide on your own...",
   "status": "done",
   "slots": [
    "0x1e75"
@@ -497,7 +497,7 @@
  {
   "id": "s2045:007f5",
   "jp": "フフ、あのグロリア海賊団がアタシ\nの傘下に……面白いじゃない。\nやってやるわ！",
-  "en": "Hehehe, the Gloria Pirates under my flag...\nHow fun. You're on!",
+  "en": "Hehehe, the Gloria Pirates under\nmy flag... How fun. You're on!",
   "status": "done",
   "slots": [
    "0x1ed3"
@@ -519,7 +519,7 @@
  {
   "id": "s2045:0086b",
   "jp": "アーッハッハ！　どうやらあたしの\n勝ちのようね！　大人しく傘下に\nなりなさい！",
-  "en": "Ahahaha! Looks like I win! Now come quietly\nand join my fleet!",
+  "en": "Ahahaha! Looks like I win!\nNow come quietly and join my fleet!",
   "status": "done",
   "slots": [
    "0x535e"
@@ -530,7 +530,7 @@
  {
   "id": "s2045:008bc",
   "jp": "男に二言はないけど、\n女に二言はあるのよ！",
-  "en": "A man never goes back on his word, but a\nwoman sure does!",
+  "en": "A man never goes back on his word,\nbut a woman sure does!",
   "status": "done",
   "slots": [
    "0x537b"
@@ -585,7 +585,7 @@
  {
   "id": "s2045:00948",
   "jp": "くぅ～、いつかあの傲慢な頭を\n下げさせてやるわ！",
-  "en": "Grrr, someday I'll make her bow that\narrogant head of hers!",
+  "en": "Grrr, someday I'll make her bow\nthat arrogant head of hers!",
   "status": "done",
   "slots": [
    "0x5abf"
@@ -606,7 +606,7 @@
  {
   "id": "s2045:009d9",
   "jp": "平和はいつでも僕らの胸に！\n海の平和を守る会をよろしく！",
-  "en": "Peace is always in our hearts! Please\nsupport the Society to Protect the Peace of\nthe Seas!",
+  "en": "Peace is always in our hearts!\nPlease support the Society to\nProtect the Peace of the Seas!",
   "status": "done",
   "slots": [
    "0x3468"
@@ -616,7 +616,7 @@
  {
   "id": "s2045:00a11",
   "jp": "平和はいつでも僕らの胸に！\n海の平和を守る会をよろしく！",
-  "en": "Peace is always in our hearts! Please\nsupport the Society to Protect the Peace of\nthe Seas!",
+  "en": "Peace is always in our hearts!\nPlease support the Society to\nProtect the Peace of the Seas!",
   "status": "done",
   "slots": [
    "0x3480"
@@ -626,7 +626,7 @@
  {
   "id": "s2045:00a49",
   "jp": "戦闘というのは、何も力だけが\nモノを言うわけではない。",
-  "en": "In battle, power is not the only thing that\ncounts.",
+  "en": "In battle, power is not the\nonly thing that counts.",
   "status": "done",
   "slots": [
    "0x3514"
@@ -636,7 +636,7 @@
  {
   "id": "s2045:00a7f",
   "jp": "戦闘陣形や用兵術を駆使すれば、\n相手がルキア皇国だろうが\n問題なく撃破することができる。",
-  "en": "Make full use of formations and tactics, and\nyou can defeat any foe, even the Lukia\nEmpire.",
+  "en": "Make full use of formations and tactics,\nand you can defeat any foe,\neven the Lukia Empire.",
   "status": "done",
   "slots": [
    "0x351b"
@@ -646,7 +646,7 @@
  {
   "id": "s2045:00ad6",
   "jp": "この本にはそのことが\n事細かに載っている。\n参考にしたまえ。",
-  "en": "This book covers that in great detail. Use it\nfor reference.",
+  "en": "This book covers that in great\ndetail. Use it for reference.",
   "status": "done",
   "slots": [
    "0x3593"
@@ -656,7 +656,7 @@
  {
   "id": "s2045:00b11",
   "jp": "戦場を蹂躙する猛将もいいが、\n戦場を掻き回す策士というのも\nいいものだろう？",
-  "en": "A fierce general who tramples the\nbattlefield is fine, but a tactician who\nthrows the battlefield into chaos is fine\ntoo, wouldn't you say?",
+  "en": "A fierce general who tramples the\nbattlefield is fine, but a tactician\nwho throws the battlefield into\nchaos is fine too, wouldn't you say?",
   "status": "done",
   "slots": [
    "0x35ab"
@@ -666,7 +666,7 @@
  {
   "id": "s2045:00b5c",
   "jp": "ん～、このコート。\nなんか嫌な感じがするなぁ。\nこう、違和感っていうの？",
-  "en": "Hmm, this coat. Something about it gives\nme a bad feeling. Like, an odd vibe, you\nknow?",
+  "en": "Hmm, this coat. Something\nabout it gives me a bad feeling.\nLike, an odd vibe, you know?",
   "status": "done",
   "slots": [
    "0x363f"
@@ -676,7 +676,7 @@
  {
   "id": "s2045:00ba3",
   "jp": "あ、丁度いい所に来たねアンタ。\nどうだいこのコート。\n格安で買わないかい？",
-  "en": "Ah, you came at just the right time. How\nabout this coat? Want to buy it cheap?",
+  "en": "Ah, you came at just the right time.\nHow about this coat? Want to buy it cheap?",
   "status": "done",
   "slots": [
    "0x3646"
@@ -696,7 +696,7 @@
  {
   "id": "s2045:00c0c",
   "jp": "あ、なんだか清々しくなった\n気分だな。\n本当になんだったんだあのコート。",
-  "en": "Ah, I feel so refreshed now. What on earth\nwas that coat?",
+  "en": "Ah, I feel so refreshed now.\nWhat on earth was that coat?",
   "status": "done",
   "slots": [
    "0x36bc"
@@ -706,7 +706,7 @@
  {
   "id": "s2045:00c53",
   "jp": "……あれ？\nそもそも俺、あんな商品調達\nしたか……？",
-  "en": "...Huh? Did I even stock something like that\nin the first place...?",
+  "en": "...Huh? Did I even stock something\nlike that in the first place...?",
   "status": "done",
   "slots": [
    "0x36d4"
@@ -716,7 +716,7 @@
  {
   "id": "s2045:00c86",
   "jp": "あら、あなた。\n中々いい体してるわね！",
-  "en": "Oh my, you there. You've got quite a nice\nbody!",
+  "en": "Oh my, you there.\nYou've got quite a nice body!",
   "status": "done",
   "slots": [
    "0x3783"
@@ -726,7 +726,7 @@
  {
   "id": "s2045:00cac",
   "jp": "あなたなら、\nきっと世界が狙えるわ！",
-  "en": "With a body like yours, you could surely go\nfor the world title!",
+  "en": "With a body like yours,\nyou could surely go for the world title!",
   "status": "done",
   "slots": [
    "0x378a"
@@ -746,7 +746,7 @@
  {
   "id": "s2045:00d17",
   "jp": "あぁ～男の人はいいわねぇ。\n筋肉がつきやすいから\nタイムも早いわ。",
-  "en": "Ahh, men have it so good. They build muscle\neasily, so their times are fast too.",
+  "en": "Ahh, men have it so good. They build\nmuscle easily, so their times are fast too.",
   "status": "done",
   "slots": [
    "0x381f"
@@ -756,7 +756,7 @@
  {
   "id": "s2045:00d58",
   "jp": "……は！　いけないいけない！\n弱気になった時点で私の負けよ！\n頑張れ、私！",
-  "en": "...Ah! No, no! The moment I lose heart, I've\nlost! Go for it, me!",
+  "en": "...Ah! No, no! The moment I lose heart,\nI've lost! Go for it, me!",
   "status": "done",
   "slots": [
    "0x3826"
@@ -766,7 +766,7 @@
  {
   "id": "s2045:00da1",
   "jp": "私は、世界一のスイマーに\nなるんだから！",
-  "en": "Because I'm going to be the world's best\nswimmer!",
+  "en": "Because I'm going to be\nthe world's best swimmer!",
   "status": "done",
   "slots": [
    "0x382d"
@@ -776,7 +776,7 @@
  {
   "id": "s2045:00dc9",
   "jp": "そうと決まったら特訓よぉ！",
-  "en": "With that settled, it's time for special\ntraining!",
+  "en": "With that settled,\nit's time for special training!",
   "status": "done",
   "slots": [
    "0x3845"
@@ -786,7 +786,7 @@
  {
   "id": "s2045:00de4",
   "jp": "驚いたじゃろ？\nここまで多くの樽を見て。",
-  "en": "Surprised you, didn't it? Seeing this many\nbarrels.",
+  "en": "Surprised you, didn't it?\nSeeing this many barrels.",
   "status": "done",
   "slots": [
    "0x38dc"
@@ -796,7 +796,7 @@
  {
   "id": "s2045:00e0c",
   "jp": "この島は、樽の原料となる\nオーク木が大量に生えてての。\nそれはもう大量だったんじゃ。",
-  "en": "This island once had oak trees, the material\nfor barrels, growing all over. Truly, so very\nmany of them.",
+  "en": "This island once had oak trees,\nthe material for barrels, growing all over.\nTruly, so very many of them.",
   "status": "done",
   "slots": [
    "0x38e3"
@@ -806,7 +806,7 @@
  {
   "id": "s2045:00e5f",
   "jp": "初めは邪魔になる木を切り\n活用していただけなのじゃが、\nそれが何時しか伝統となったのじゃ",
-  "en": "At first we only cut down the trees in the\nway and put them to use, but before we\nknew it, it became a tradition.",
+  "en": "At first we only cut down the trees\nin the way and put them to use, but\nbefore we knew it, it became a tradition.",
   "status": "done",
   "slots": [
    "0x38ea"
@@ -836,7 +836,7 @@
  {
   "id": "s2045:00f0c",
   "jp": "おぬしの意外な行動が、\n歴史に残るかもしれんぞ？",
-  "en": "Some unexpected thing you do might go\ndown in history, you know?",
+  "en": "Some unexpected thing you do\nmight go down in history, you know?",
   "status": "done",
   "slots": [
    "0x3910"
@@ -954,7 +954,7 @@
  {
   "id": "s2045:01031",
   "jp": "スケルトンじゃないってことは、\n当たりだね？\nやったー！",
-  "en": "If it's not a skeleton, that means it's a\nwinner, right? Yay!",
+  "en": "If it's not a skeleton,\nthat means it's a winner, right? Yay!",
   "status": "done",
   "slots": [
    "0x21bd",
@@ -977,7 +977,7 @@
  {
   "id": "s2045:0106f",
   "jp": "うひゃあぁぁぁ！\nイシュト、笑ってごめんねぇぇ！",
-  "en": "Hyaaaaaah! Ishut, I'm sorry I laughed at\nyouuuu!",
+  "en": "Hyaaaaaah! Ishut,\nI'm sorry I laughed at youuuu!",
   "status": "done",
   "slots": [
    "0x4581"
@@ -1071,7 +1071,7 @@
  {
   "id": "s2045:01136",
   "jp": "ハズレか。まぁいい。\nさっさと倒して次行くぞ！",
-  "en": "A dud, huh. Whatever. Beat it quick and on\nto the next one!",
+  "en": "A dud, huh. Whatever.\nBeat it quick and on to the next one!",
   "status": "done",
   "slots": [
    "0x491d"
@@ -1081,7 +1081,7 @@
  {
   "id": "s2045:01164",
   "jp": "これが樽だな？\nよし、開けるぞ。えい！",
-  "en": "This is a barrel, yes? Right, I'm opening it.\nHyah!",
+  "en": "This is a barrel, yes?\nRight, I'm opening it. Hyah!",
   "status": "done",
   "slots": [
    "0x2389",
@@ -1095,7 +1095,7 @@
  {
   "id": "s2045:0118a",
   "jp": "当たりか。\nこれだけあれば、\n当分は過ごせそうだな。",
-  "en": "A winner. With this much, we should be fine\nfor a while.",
+  "en": "A winner. With this much,\nwe should be fine for a while.",
   "status": "done",
   "slots": [
    "0x23df",
@@ -1279,7 +1279,7 @@
  {
   "id": "s2045:01330",
   "jp": "部下の子達も連れてくれば\nよかったかしら……？",
-  "en": "Maybe I should have brought my girls along\ntoo...?",
+  "en": "Maybe I should have brought\nmy girls along too...?",
   "status": "done",
   "slots": [
    "0x5206"

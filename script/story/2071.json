@@ -24,7 +24,7 @@
  {
   "id": "s2071:0006d",
   "jp": "私の事などいい！\nそれよりも、お前のことだ……。\nウィルの調子はどうだ。",
-  "en": "Never mind me! More importantly, you... How\nis your Will?",
+  "en": "Never mind me! More importantly,\nyou... How is your Will?",
   "status": "done",
   "slots": [
    "0x2213"
@@ -35,7 +35,7 @@
  {
   "id": "s2071:000b8",
   "jp": "好調です。\n今までで一番ウィルが高まって\nいますよ。",
-  "en": "Excellent. My Will is the highest it has ever\nbeen.",
+  "en": "Excellent. My Will is the\nhighest it has ever been.",
   "status": "done",
   "slots": [
    "0x2229"
@@ -46,7 +46,7 @@
  {
   "id": "s2071:000ef",
   "jp": "そうか……ククク。\nあと少しだ！　あと少しで……我が\nユーフォリア計画は成功するぞ！",
-  "en": "I see... Heh heh heh. Just a little more! Just\na little more and... my Euforia Project will\nsucceed!",
+  "en": "I see... Heh heh heh. Just a little more!\nJust a little more and...\nmy Euforia Project will succeed!",
   "status": "done",
   "slots": [
    "0x223f"
@@ -90,7 +90,7 @@
  {
   "id": "s2071:001c3",
   "jp": "グロリア海賊団……。\nエルマーレ連合国はどうした。",
-  "en": "The Gloria Pirates... What became of the\nElmare Federation?",
+  "en": "The Gloria Pirates... What\nbecame of the Elmare Federation?",
   "status": "done",
   "slots": [
    "0x23f9"
@@ -112,7 +112,7 @@
  {
   "id": "s2071:00214",
   "jp": "そうか……。\nやはり、彼女の“犠牲”では、\n世界を平和にはできなかったのだ。",
-  "en": "I see... So her \"sacrifice\" could not bring\npeace to the world after all.",
+  "en": "I see... So her \"sacrifice\" could not\nbring peace to the world after all.",
   "status": "done",
   "slots": [
    "0x242b"
@@ -123,7 +123,7 @@
  {
   "id": "s2071:00263",
   "jp": "できるさ……エリーの犠牲の上に\n立ち、俺達は、お前らを倒す。",
-  "en": "It can... We'll stand on Ellie's sacrifice and\nbeat you lot.",
+  "en": "It can... We'll stand on Ellie's\nsacrifice and beat you lot.",
   "status": "done",
   "slots": [
    "0x2444"
@@ -134,7 +134,7 @@
  {
   "id": "s2071:002a3",
   "jp": "貴様も、平和の為には犠牲が\n必要だとでもいうのか？",
-  "en": "So you too say sacrifice is needed for\npeace?",
+  "en": "So you too say sacrifice\nis needed for peace?",
   "status": "done",
   "slots": [
    "0x245d"
@@ -145,7 +145,7 @@
  {
   "id": "s2071:002d9",
   "jp": "んなこと言わねぇよ。\n俺は……俺のしたいことをやる。\nただそれだけだ。",
-  "en": "I ain't sayin' that. I... do what I wanna do.\nThat's all.",
+  "en": "I ain't sayin' that. I...\ndo what I wanna do. That's all.",
   "status": "done",
   "slots": [
    "0x2476"
@@ -156,7 +156,7 @@
  {
   "id": "s2071:00322",
   "jp": "何をしたくて、何をしたか。\nそうだよな、親父。",
-  "en": "What you wanted to do, and what you did.\nRight, Dad?",
+  "en": "What you wanted to do,\nand what you did. Right, Dad?",
   "status": "done",
   "slots": [
    "0x248f"
@@ -167,7 +167,7 @@
  {
   "id": "s2071:00354",
   "jp": "あぁ、それが“自由”\nそれこそが、海賊だ。",
-  "en": "Yeah. That's \"freedom\". That's what bein' a\npirate is.",
+  "en": "Yeah. That's \"freedom\".\nThat's what bein' a pirate is.",
   "status": "done",
   "slots": [
    "0x24a8"
@@ -178,7 +178,7 @@
  {
   "id": "s2071:00382",
   "jp": "酷く曖昧で中途半端だな。\nそんなものに“力”は負けない。",
-  "en": "Terribly vague and half-baked. \"Power\" will\nnever lose to such a thing.",
+  "en": "Terribly vague and half-baked.\n\"Power\" will never lose to such a thing.",
   "status": "done",
   "slots": [
    "0x24dd"
@@ -189,7 +189,7 @@
  {
   "id": "s2071:003be",
   "jp": "ガリオレッド宰相、カードを\n渡してください。",
-  "en": "Chancellor Gariored, please give me the\ncard.",
+  "en": "Chancellor Gariored,\nplease give me the card.",
   "status": "done",
   "slots": [
    "0x24f6"
@@ -266,7 +266,7 @@
  {
   "id": "s2071:0048c",
   "jp": "指示に変更はない。\n貴様の様な人形が、自分の考えで\n動こうとするな！",
-  "en": "Your orders have not changed. A puppet like\nyou does not act on its own ideas!",
+  "en": "Your orders have not changed. A puppet\nlike you does not act on its own ideas!",
   "status": "done",
   "slots": [
    "0x25c8"
@@ -299,7 +299,7 @@
  {
   "id": "s2071:004fb",
   "jp": "急に張り切りだしたな。\nどうした？\nそんなに兄を殺したいのか？",
-  "en": "Suddenly full of fight. What is it? Do you\nwant to kill your brother that badly?",
+  "en": "Suddenly full of fight. What is it?\nDo you want to kill your brother that badly?",
   "status": "done",
   "slots": [
    "0x2613"
@@ -310,7 +310,7 @@
  {
   "id": "s2071:0053c",
   "jp": "フン、恩知らずもいいところだな。\nキミを城から逃がしたのは、\n他ならぬアシュレイだというのに。",
-  "en": "Hmph, the height of ingratitude. When it\nwas none other than Ashrey who let you\nescape from the castle.",
+  "en": "Hmph, the height of ingratitude.\nWhen it was none other than Ashrey\nwho let you escape from the castle.",
   "status": "done",
   "slots": [
    "0x261d"
@@ -376,7 +376,7 @@
  {
   "id": "s2071:00628",
   "jp": "ヘ、メギドを持ってない\nお前なんかにゃ負けねぇよ。",
-  "en": "Heh, I ain't losin' to you now that ya don't\nhave Megiddo.",
+  "en": "Heh, I ain't losin' to you now\nthat ya don't have Megiddo.",
   "status": "done",
   "slots": [
    "0x2808"
@@ -398,7 +398,7 @@
  {
   "id": "s2071:00694",
   "jp": "お前は、覚えてるか？\n昔の、三人つるんでた時のこと。",
-  "en": "Do ya remember? Back when the three of us\nhung out?",
+  "en": "Do ya remember? Back when\nthe three of us hung out?",
   "status": "done",
   "slots": [
    "0x3963"
@@ -431,7 +431,7 @@
  {
   "id": "s2071:00745",
   "jp": "もしもの話は嫌いじゃないが、\n後悔は好きではない。\nだから、俺は後悔していないよ。",
-  "en": "I don't mind talk of what-ifs, but I don't care\nfor regret. So I have no regrets.",
+  "en": "I don't mind talk of what-ifs, but I don't\ncare for regret. So I have no regrets.",
   "status": "done",
   "slots": [
    "0x39af"
@@ -464,7 +464,7 @@
  {
   "id": "s2071:007f5",
   "jp": "１７年間思い続けたこの意思！\n貴様の様な若輩に、破れるものか！",
-  "en": "A will I've held for seventeen years! As if a\nyoungster like you could break it!",
+  "en": "A will I've held for seventeen years!\nAs if a youngster like you could break it!",
   "status": "done",
   "slots": [
    "0x353e"
@@ -474,7 +474,7 @@
  {
   "id": "s2071:00833",
   "jp": "意思の強さに年月は関係ねぇ！\n俺の意思はお前を超え！\nアシュレイを超え！",
-  "en": "The years got nothin' to do with how strong\na will is! My will's gonna surpass you! Surpass\nAshrey!",
+  "en": "The years got nothin'\nto do with how strong a will is!\nMy will's gonna surpass you! Surpass Ashrey!",
   "status": "done",
   "slots": [
    "0x3558"
@@ -494,7 +494,7 @@
  {
   "id": "s2071:0088d",
   "jp": "そんなに目をギラつかせて、\nどこが宰相っていうんですか……。",
-  "en": "With your eyes glaring like that, how are\nyou a chancellor...",
+  "en": "With your eyes glaring like that,\nhow are you a chancellor...",
   "status": "done",
   "slots": [
    "0x3636"
@@ -504,7 +504,7 @@
  {
   "id": "s2071:008c9",
   "jp": "宰相だったら、\n大人しく机にかじりついてて\nくださいよ。まったく。",
-  "en": "If you're a chancellor, then sit quietly glued\nto your desk. Honestly.",
+  "en": "If you're a chancellor, then sit\nquietly glued to your desk. Honestly.",
   "status": "done",
   "slots": [
    "0x3648"
@@ -514,7 +514,7 @@
  {
   "id": "s2071:0090a",
   "jp": "この人、闇のカードがなくても\n充分に強い……。",
-  "en": "He's strong enough even without the dark\ncard...",
+  "en": "He's strong enough even\nwithout the dark card...",
   "status": "done",
   "slots": [
    "0x371c"
@@ -524,7 +524,7 @@
  {
   "id": "s2071:00938",
   "jp": "って、気圧されちゃダメ……！\n私達だって成長したんだもん。\n負けられないよ！",
-  "en": "No, I can't let him overwhelm me...! We've\ngrown too. We can't lose!",
+  "en": "No, I can't let him overwhelm me...!\nWe've grown too. We can't lose!",
   "status": "done",
   "slots": [
    "0x3731"
@@ -544,7 +544,7 @@
  {
   "id": "s2071:0098c",
   "jp": "フン、随分と覇気がないな。\n母が死んだ事がそんなに辛いか。",
-  "en": "Hmph, you've no spirit at all. Does your\nmother's death hurt that much?",
+  "en": "Hmph, you've no spirit at all.\nDoes your mother's death hurt that much?",
   "status": "done",
   "slots": [
    "0x3825"
@@ -574,7 +574,7 @@
  {
   "id": "s2071:00a05",
   "jp": "ま、いいわ。\nこれで躊躇いは無くなった……。\nバイバイ、お父さん。",
-  "en": "Well, whatever. Now I have no more\ndoubts... Bye-bye, Father.",
+  "en": "Well, whatever. Now I have no\nmore doubts... Bye-bye, Father.",
   "status": "done",
   "slots": [
    "0x3872"
@@ -604,7 +604,7 @@
  {
   "id": "s2071:00abd",
   "jp": "大人の考える事って、わからないよ",
-  "en": "Locomoco doesn't understand what\ngrown-ups think.",
+  "en": "Locomoco doesn't understand\nwhat grown-ups think.",
   "status": "done",
   "slots": [
    "0x3b8d"
@@ -614,7 +614,7 @@
  {
   "id": "s2071:00ade",
   "jp": "こんなに自由な人達を、どうして\n支配なんてしようとするの？",
-  "en": "Why would you try to rule people who are so\nfree?",
+  "en": "Why would you try to rule\npeople who are so free?",
   "status": "done",
   "slots": [
    "0x3b97"
@@ -644,7 +644,7 @@
  {
   "id": "s2071:00b5b",
   "jp": "ま、黄泉の国はいい所っすから、\n安心してくださいね。",
-  "en": "Well, the Land of the Dead is a nice place, so\ndon't worry, sir.",
+  "en": "Well, the Land of the Dead is a\nnice place, so don't worry, sir.",
   "status": "done",
   "slots": [
    "0x3c71"
@@ -684,7 +684,7 @@
  {
   "id": "s2071:00c0e",
   "jp": "私の正義は私の中にある。\n私は私の正義の為、アナタを倒す！",
-  "en": "My justice lies within me. For my justice, I\nwill defeat you!",
+  "en": "My justice lies within me.\nFor my justice, I will defeat you!",
   "status": "done",
   "slots": [
    "0x3ed4"
@@ -694,7 +694,7 @@
  {
   "id": "s2071:00c48",
   "jp": "この世の理は所詮戦だ。\n勝った者が、正義なのだよ！",
-  "en": "The law of this world is war, in the end. The\nwinner is justice!",
+  "en": "The law of this world is war,\nin the end. The winner is justice!",
   "status": "done",
   "slots": [
    "0x3ee9"
@@ -704,7 +704,7 @@
  {
   "id": "s2071:00c7a",
   "jp": "裏切り者が。\n煩わしいが、私が引導を\n渡してやろう……！",
-  "en": "Traitor. Tiresome as it is, I shall put an end\nto you myself...!",
+  "en": "Traitor. Tiresome as it is,\nI shall put an end to you myself...!",
   "status": "done",
   "slots": [
    "0x3fd3"
@@ -714,7 +714,7 @@
  {
   "id": "s2071:00cb1",
   "jp": "裏切りがなんだ！\n僕は本当に強くなる為に\nグロリア海賊団に入ったのだ！",
-  "en": "So what if I'm a traitor! I joined the Gloria\nPirates to become truly strong!",
+  "en": "So what if I'm a traitor! I joined the\nGloria Pirates to become truly strong!",
   "status": "done",
   "slots": [
    "0x3fed"
@@ -734,7 +734,7 @@
  {
   "id": "s2071:00d07",
   "jp": "世界を支配なんて、つまらないわ。\nだって、それで全部終わっちゃう\nじゃない。",
-  "en": "Ruling the world sounds boring. I mean, then\nit's all over, isn't it?",
+  "en": "Ruling the world sounds boring.\nI mean, then it's all over, isn't it?",
   "status": "done",
   "slots": [
    "0x40cb"
@@ -744,7 +744,7 @@
  {
   "id": "s2071:00d52",
   "jp": "終わりが無いからこそ、\nこの世は楽しいってものよ？",
-  "en": "It's because there's no end that this world is\nfun, you know?",
+  "en": "It's because there's no end that\nthis world is fun, you know?",
   "status": "done",
   "slots": [
    "0x40e0"
@@ -754,7 +754,7 @@
  {
   "id": "s2071:00d84",
   "jp": "結局、世界征服なんて企んでる奴は\nみんな死んじゃうのよ？",
-  "en": "In the end, anyone plotting to conquer the\nworld ends up dead, you know?",
+  "en": "In the end, anyone plotting to conquer\nthe world ends up dead, you know?",
   "status": "done",
   "slots": [
    "0x41ad"
@@ -764,7 +764,7 @@
  {
   "id": "s2071:00dbc",
   "jp": "下手な変革なんて、この世界は\n必要ないんだわさ。\nアンタの行いは、無駄なんだわさ。",
-  "en": "This world doesn't need some botched\nrevolution, dontcha know. What you're doing\nis a waste, dontcha know.",
+  "en": "This world doesn't need some\nbotched revolution, dontcha know.\nWhat you're doing is a waste, dontcha know.",
   "status": "done",
   "slots": [
    "0x41b7"
@@ -794,7 +794,7 @@
  {
   "id": "s2071:00e59",
   "jp": "最終決戦！\nフハハ、拳が滾るぜぇ！",
-  "en": "The final battle! Hahaha, my fists are\nburnin'!",
+  "en": "The final battle! Hahaha,\nmy fists are burnin'!",
   "status": "done",
   "slots": [
    "0x42f3"
@@ -814,7 +814,7 @@
  {
   "id": "s2071:00e97",
   "jp": "グハッ……クッ。\nこのままでは体がもたない……。",
-  "en": "Guhah... Ngh. My body won't hold out like\nthis...",
+  "en": "Guhah... Ngh. My body\nwon't hold out like this...",
   "status": "done",
   "slots": [
    "0x4635"
@@ -891,7 +891,7 @@
  {
   "id": "s2071:00f97",
   "jp": "なにコレ……とんでもなく大きな\nウィルが、海の中から出てくるよ！",
-  "en": "What is this... A ridiculously huge Will is\ncoming up out of the sea!",
+  "en": "What is this... A ridiculously huge\nWill is coming up out of the sea!",
   "status": "done",
   "slots": [
    "0x4f16"
@@ -924,7 +924,7 @@
  {
   "id": "s2071:0101c",
   "jp": "ユーフォリア計画とは……。\n封印された古代ユーフォリア王国を\n復活させるための計画だ。",
-  "en": "The Euforia Project is... a plan to revive the\nsealed ancient Kingdom of Euforia.",
+  "en": "The Euforia Project is... a plan to revive\nthe sealed ancient Kingdom of Euforia.",
   "status": "done",
   "slots": [
    "0x4fa0"
@@ -935,7 +935,7 @@
  {
   "id": "s2071:01075",
   "jp": "そんな……\n皇国軍は、シンフォニアが目的\nだったんじゃないの！？",
-  "en": "No way... Wasn't the Imperial army after\nSymphonia!?",
+  "en": "No way... Wasn't the Imperial\narmy after Symphonia!?",
   "status": "done",
   "slots": [
    "0x4fb9"
@@ -946,7 +946,7 @@
  {
   "id": "s2071:010b8",
   "jp": "一つだけ教えてやる。\nシンフォニアの、真の目的だ。",
-  "en": "I'll tell you one thing. Symphonia's true\npurpose.",
+  "en": "I'll tell you one thing.\nSymphonia's true purpose.",
   "status": "done",
   "slots": [
    "0x4fd2"
@@ -968,7 +968,7 @@
  {
   "id": "s2071:01105",
   "jp": "それは、古代ユーフォリア王国を\n蘇らせることだ。",
-  "en": "It is to bring the ancient Kingdom of Euforia\nback to life.",
+  "en": "It is to bring the ancient\nKingdom of Euforia back to life.",
   "status": "done",
   "slots": [
    "0x5004"
@@ -1001,7 +1001,7 @@
  {
   "id": "s2071:01169",
   "jp": "ユーフォリアの絶対的、無敵の力！\nこの力で……私は世界の王となり！\n世界をこの手で自在に動かすのだ！",
-  "en": "Euforia's absolute, invincible power! With\nthis power... I shall become king of the\nworld! And move the world as I please with\nmy own hands!",
+  "en": "Euforia's absolute, invincible power!\nWith this power... I shall become\nking of the world! And move the\nworld as I please with my own hands!",
   "status": "done",
   "slots": [
    "0x504f"
@@ -1012,7 +1012,7 @@
  {
   "id": "s2071:011d0",
   "jp": "世界の……王だと？\nそんな……そんなこと……\nさせるわけねぇだろ！",
-  "en": "King of the... world? Like... like hell I'm\nlettin' ya do that!",
+  "en": "King of the... world? Like...\nlike hell I'm lettin' ya do that!",
   "status": "done",
   "slots": [
    "0x507d"
@@ -1056,7 +1056,7 @@
  {
   "id": "s2071:01276",
   "jp": "ユーフォリアの力は僕のモノだ。\nあの力で、僕は僕の意思を叶える！",
-  "en": "Euforia's power is mine. With that power, I\nwill make my will come true!",
+  "en": "Euforia's power is mine. With that power,\nI will make my will come true!",
   "status": "done",
   "slots": [
    "0x518d"
@@ -1100,7 +1100,7 @@
  {
   "id": "s2071:012fb",
   "jp": "この炎、ブラックモアの時にも\nみた、あの……。",
-  "en": "These flames... I saw them that time with\nBlackmore, the same...",
+  "en": "These flames... I saw them that\ntime with Blackmore, the same...",
   "status": "done",
   "slots": [
    "0x5244"
@@ -1133,7 +1133,7 @@
  {
   "id": "s2071:01395",
   "jp": "ガリオレッド。\n育ててくれてありがとう。\nずっと前から、殺したかったよ。",
-  "en": "Gariored. Thank you for raising me. I've\nwanted to kill you for a long, long time.",
+  "en": "Gariored. Thank you for raising me.\nI've wanted to kill you for a long, long time.",
   "status": "done",
   "slots": [
    "0x52ae"
@@ -1188,7 +1188,7 @@
  {
   "id": "s2071:01488",
   "jp": "これで僕は、世界を変える！\n僕だけの幸せを……\n手に入れられるんだ！",
-  "en": "Now I will change the world! I can have... a\nhappiness all my own!",
+  "en": "Now I will change the world!\nI can have... a happiness all my own!",
   "status": "done",
   "slots": [
    "0x53a3"
@@ -1232,7 +1232,7 @@
  {
   "id": "s2071:01525",
   "jp": "アシュレイの表情、ありゃヤベェ。\nとんでもねぇ事を考えてる顔だぜ！",
-  "en": "That look on Ashrey's face, that's bad news.\nThat's the face of someone thinkin'\nsomethin' crazy!",
+  "en": "That look on Ashrey's face,\nthat's bad news. That's the face of\nsomeone thinkin' somethin' crazy!",
   "status": "done",
   "slots": [
    "0x5473"
@@ -1254,7 +1254,7 @@
  {
   "id": "s2071:01590",
   "jp": "体力がヤベェ。\nなにか、回復するものはねぇか……",
-  "en": "I'm in bad shape. Ain't there anything to\nheal up with...",
+  "en": "I'm in bad shape. Ain't there\nanything to heal up with...",
   "status": "done",
   "slots": [
    "0x2924"
@@ -1294,7 +1294,7 @@
  {
   "id": "s2071:01635",
   "jp": "この調子で戦ってたら、\nあっという間にエネルギーが\n切れちゃうよぉ。",
-  "en": "If we keep fighting like this, my energy will\nrun out in no time.",
+  "en": "If we keep fighting like this,\nmy energy will run out in no time.",
   "status": "done",
   "slots": [
    "0x2a52"
@@ -1344,7 +1344,7 @@
  {
   "id": "s2071:016ff",
   "jp": "体力が少しでもなくなったら\n袋叩きにされるな。",
-  "en": "Lose even a bit of stamina and they'll gang\nup on ya.",
+  "en": "Lose even a bit of stamina\nand they'll gang up on ya.",
   "status": "done",
   "slots": [
    "0x2bcb"
@@ -1364,7 +1364,7 @@
  {
   "id": "s2071:0174c",
   "jp": "戦闘中こそ、栄養分をとらなければ\nなるまい。",
-  "en": "It is precisely in battle that one must take\nin nourishment.",
+  "en": "It is precisely in battle that\none must take in nourishment.",
   "status": "done",
   "slots": [
    "0x2c74"
@@ -1394,7 +1394,7 @@
  {
   "id": "s2071:017bb",
   "jp": "みなさんお強いっすねぇ。\n私如きじゃついて行けないっす。",
-  "en": "Everyone's so strong, sir. Someone like me\ncan't keep up.",
+  "en": "Everyone's so strong, sir.\nSomeone like me can't keep up.",
   "status": "done",
   "slots": [
    "0x2d65"
@@ -1414,7 +1414,7 @@
  {
   "id": "s2071:0181d",
   "jp": "流石に敵は手強いな……。\n体力を回復させなければ。",
-  "en": "The enemy really is tough... I must recover\nmy strength.",
+  "en": "The enemy really is tough...\nI must recover my strength.",
   "status": "done",
   "slots": [
    "0x2e15"
@@ -1434,7 +1434,7 @@
  {
   "id": "s2071:01868",
   "jp": "流石に、両手が痺れてきましたね。\nミネラルリーフで回復しなくては。",
-  "en": "Both my hands are going numb. I must\nrecover with a Mineral Leaf.",
+  "en": "Both my hands are going numb.\nI must recover with a Mineral Leaf.",
   "status": "done",
   "slots": [
    "0x2ec5"
@@ -1514,7 +1514,7 @@
  {
   "id": "s2071:01981",
   "jp": "敵がウザッたくなってきたわさ。\nここらでちょっと休憩っと。",
-  "en": "The enemy's getting annoying, dontcha\nknow. Time for a little break.",
+  "en": "The enemy's getting annoying,\ndontcha know. Time for a little break.",
   "status": "done",
   "slots": [
    "0x3165"
@@ -1564,7 +1564,7 @@
  {
   "id": "s2071:01a7f",
   "jp": "敵のプレッシャーが半端じゃねぇな\n気をつけねぇと。",
-  "en": "The enemy's pressure ain't no joke. Gotta\nwatch it.",
+  "en": "The enemy's pressure ain't\nno joke. Gotta watch it.",
   "status": "done",
   "slots": [
    "0x32dc"
@@ -1574,7 +1574,7 @@
  {
   "id": "s2071:01ab1",
   "jp": "それは……マンタの魚拓か。\n随分と珍しいものを持っているな。",
-  "en": "That's... a Manta Fish Print. You've got\nsomething mighty rare there.",
+  "en": "That's... a Manta Fish Print.\nYou've got something mighty rare there.",
   "status": "done",
   "slots": [
    "0x3378"
@@ -1584,7 +1584,7 @@
  {
   "id": "s2071:01aed",
   "jp": "マンタってのは、\n古代ユーフォリア時代から生きてる\n聖なる生き物でな。",
-  "en": "The manta's a sacred creature that's lived\nsince the days of ancient Euforia.",
+  "en": "The manta's a sacred creature that's\nlived since the days of ancient Euforia.",
   "status": "done",
   "slots": [
    "0x337f"
@@ -1594,7 +1594,7 @@
  {
   "id": "s2071:01b32",
   "jp": "別名“天上への担い手”って\n呼ばれてるんだ。",
-  "en": "They call it the \"Bearer to the Heavens\",\ntoo.",
+  "en": "They call it the \"Bearer\nto the Heavens\", too.",
   "status": "done",
   "slots": [
    "0x3386"
@@ -1604,7 +1604,7 @@
  {
   "id": "s2071:01b5e",
   "jp": "その証拠に、\n発見されている遺跡の全ての壁画に\nマンタが描かれているらしい。",
-  "en": "Proof of that is, they say there's a manta\npainted on every mural in every ruin found so\nfar.",
+  "en": "Proof of that is, they say\nthere's a manta painted on every\nmural in every ruin found so far.",
   "status": "done",
   "slots": [
    "0x338d"
@@ -1624,7 +1624,7 @@
  {
   "id": "s2071:01bc4",
   "jp": "コイツはたまたま浜に\n打ち上げられていたマンタで作った\nマントだ。",
-  "en": "This here's a Manta Mantle, made from a\nmanta that happened to wash up on the\nbeach.",
+  "en": "This here's a Manta Mantle,\nmade from a manta that happened\nto wash up on the beach.",
   "status": "done",
   "slots": [
    "0x3403"
@@ -1634,7 +1634,7 @@
  {
   "id": "s2071:01c05",
   "jp": "身につけたら、いい事あるかもな。",
-  "en": "Wear it, and maybe somethin' good'll\nhappen.",
+  "en": "Wear it, and maybe somethin'\ngood'll happen.",
   "status": "done",
   "slots": [
    "0x340a"
@@ -1644,7 +1644,7 @@
  {
   "id": "s2071:01c26",
   "jp": "なぁアンタ。\n“マンタの伝説”って知ってるか？",
-  "en": "Hey, you. Ever heard the \"legend of the\nmanta\"?",
+  "en": "Hey, you. Ever heard the\n\"legend of the manta\"?",
   "status": "done",
   "slots": [
    "0x342d"
@@ -1664,7 +1664,7 @@
  {
   "id": "s2071:01c9f",
   "jp": "マンタを見ると幸せになれる\nとも言われてるんだ。",
-  "en": "They say if you see a manta, you'll find\nhappiness.",
+  "en": "They say if you see a manta,\nyou'll find happiness.",
   "status": "done",
   "slots": [
    "0x343b"
@@ -1684,7 +1684,7 @@
  {
   "id": "s2071:01cf0",
   "jp": "マンタは遺跡の壁画にも\n描かれているらしい。",
-  "en": "They say mantas are painted on the murals\nin the ruins too.",
+  "en": "They say mantas are painted\non the murals in the ruins too.",
   "status": "done",
   "slots": [
    "0x345a"

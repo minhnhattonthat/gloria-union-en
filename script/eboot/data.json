@@ -184,7 +184,7 @@
  {
   "id": "e:2bc39a",
   "jp": "嬢ちゃんが襲われてるぜ？\n助けるか？",
-  "en": "A girl's bein' attacked, ya\nknow? Gonna help her?",
+  "en": "A girl's bein' attacked,\nya know? Gonna help her?",
   "status": "done",
   "slots": [
    "w:2bc658"
@@ -275,7 +275,7 @@
  {
   "id": "e:2bc538",
   "jp": "あの島にローガンがいるらしい\n行ってみるか？",
-  "en": "Rogan's on that island, they\nsay. Wanna go see?",
+  "en": "Rogan's on that island,\nthey say. Wanna go see?",
   "status": "done",
   "slots": [
    "w:2bc770"
@@ -293,7 +293,7 @@
  {
   "id": "e:2bc58c",
   "jp": "女が男に追われてるな……。\n助ける、か？",
-  "en": "Some guy's chasin' a\nwoman... Help her, maybe?",
+  "en": "Some guy's chasin'\na woman... Help her, maybe?",
   "status": "done",
   "slots": [
    "w:2bc7a8"
@@ -338,7 +338,7 @@
  {
   "id": "e:2bc9a8",
   "jp": "自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "Works if own TEC >= foe\nGEN",
+  "en": "Works if own\nTEC >= foe GEN",
   "status": "done",
   "slots": [
    "w:2bca44",

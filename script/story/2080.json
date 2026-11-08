@@ -13,7 +13,7 @@
  {
   "id": "s2080:00021",
   "jp": "悪いな、なかなか来れなくて。\n色々と面倒ごとに巻き込まれてさ。",
-  "en": "Sorry I couldn't come for so long. I got\ndragged into all kinds of trouble.",
+  "en": "Sorry I couldn't come for so long.\nI got dragged into all kinds of trouble.",
   "status": "done",
   "slots": [
    "0x814"
@@ -24,7 +24,7 @@
  {
   "id": "s2080:00063",
   "jp": "でも、これで終わり。\n後はどっかの頭のいい奴にでも\nまかせて、俺はしばらく休暇だ。",
-  "en": "But that's all over now. I'll leave the rest to\nsome smart guy somewhere and take a\nvacation for a while.",
+  "en": "But that's all over now. I'll leave the\nrest to some smart guy somewhere\nand take a vacation for a while.",
   "status": "done",
   "slots": [
    "0x81b"
@@ -46,7 +46,7 @@
  {
   "id": "s2080:000ec",
   "jp": "海賊が嫌になったわけじゃないし、\n親父……ザザーランドと決別した\nわけじゃない。",
-  "en": "It ain't 'cause I got sick of bein' a pirate,\nand I didn't break off with Dad... with\nZazarland either.",
+  "en": "It ain't 'cause I got sick of bein'\na pirate, and I didn't break off\nwith Dad... with Zazarland either.",
   "status": "done",
   "slots": [
    "0x829"
@@ -57,7 +57,7 @@
  {
   "id": "s2080:0013f",
   "jp": "戦いたくなったのさ。\nグロリア海賊団のみんなと。\nピンガーはついてきたけどな。",
-  "en": "I just wanted to fight 'em. Everyone in the\nGloria Pirates. Pinger came with me,\nthough.",
+  "en": "I just wanted to fight 'em.\nEveryone in the Gloria Pirates.\nPinger came with me, though.",
   "status": "done",
   "slots": [
    "0x833"
@@ -68,7 +68,7 @@
  {
   "id": "s2080:00190",
   "jp": "まぁ、要するに、最初に戻った\nわけだ！\n強くてコンティニューだ！",
-  "en": "So basically, I'm back where I started! It's\nNew Game Plus!",
+  "en": "So basically, I'm back where I\nstarted! It's New Game Plus!",
   "status": "done",
   "slots": [
    "0x848"
@@ -79,7 +79,7 @@
  {
   "id": "s2080:001d3",
   "jp": "ココに来たのは、その報告。\n……我ながら、未練は断ち切れんよ\nウン。",
-  "en": "That's what I came here to tell ya. ...Even I\ngotta admit, I can't let go. Yup.",
+  "en": "That's what I came here to tell ya.\n...Even I gotta admit, I can't let go. Yup.",
   "status": "done",
   "slots": [
    "0x85a"
@@ -101,7 +101,7 @@
  {
   "id": "s2080:00239",
   "jp": "……いっそ、もう一度復活させて\nみるか。",
-  "en": "...Maybe I should just try bringin' it back\nagain.",
+  "en": "...Maybe I should just try\nbringin' it back again.",
   "status": "done",
   "slots": [
    "0x87e"
@@ -134,7 +134,7 @@
  {
   "id": "s2080:002cd",
   "jp": "で？　何のようだ？\n俺は今感傷に浸ってたんだが。",
-  "en": "So? What do ya want? I was in the middle of\ngettin' sentimental here.",
+  "en": "So? What do ya want? I was in the\nmiddle of gettin' sentimental here.",
   "status": "done",
   "slots": [
    "0x93f"
@@ -145,7 +145,7 @@
  {
   "id": "s2080:00301",
   "jp": "未練タラタラに悔し涙流して\nハンカチ噛んでただけでしょ。",
-  "en": "You were just biting your handkerchief and\ncrying tears of bitter regret.",
+  "en": "You were just biting your handkerchief\nand crying tears of bitter regret.",
   "status": "done",
   "slots": [
    "0x955"
@@ -156,7 +156,7 @@
  {
   "id": "s2080:0033d",
   "jp": "出航の準備が出来ました。\n新米の子分もいるんですから、\n早いところきてくださいね。",
-  "en": "We're ready to set sail. You've got new\nhenchmen now too, so please hurry up and\ncome.",
+  "en": "We're ready to set sail.\nYou've got new henchmen now too,\nso please hurry up and come.",
   "status": "done",
   "slots": [
    "0x967"
@@ -222,7 +222,7 @@
  {
   "id": "s2080:00483",
   "jp": "……また来るよ、必ず。\nそれまで、もう少しだけ、\n待っててくれ。",
-  "en": "...I'll come again, I promise. Till then, wait\nfor me just a little longer.",
+  "en": "...I'll come again, I promise. Till then,\nwait for me just a little longer.",
   "status": "done",
   "slots": [
    "0xa00"
@@ -255,7 +255,7 @@
  {
   "id": "s2080:004e6",
   "jp": "なんだ、これ。\nルルゥの杖についてた宝石に\n似てるな……。",
-  "en": "What's this? Looks like the jewel that was\non Ruru's staff...",
+  "en": "What's this? Looks like the\njewel that was on Ruru's staff...",
   "status": "done",
   "slots": [
    "0xa50"

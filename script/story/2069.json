@@ -2,7 +2,7 @@
  {
   "id": "s2069:00028",
   "jp": "お母さん……あの実験。\nどういうことなの？",
-  "en": "Mother... those experiments. What do they\nmean?",
+  "en": "Mother... those experiments.\nWhat do they mean?",
   "status": "done",
   "slots": [
    "0x1661"
@@ -13,7 +13,7 @@
  {
   "id": "s2069:00056",
   "jp": "あの方々の犠牲のおかげで、\nルルゥＭｋ－２が生まれたのよ。",
-  "en": "Thanks to those people's sacrifice, Ruru\nMk-II was born.",
+  "en": "Thanks to those people's sacrifice,\nRuru Mk-II was born.",
   "status": "done",
   "slots": [
    "0x167a"
@@ -35,7 +35,7 @@
  {
   "id": "s2069:000cc",
   "jp": "それを言うなら、アナタ達だって、\nルルゥという戦争の道具を使って\n敵を倒しているじゃない。",
-  "en": "If you put it that way, you defeat your\nenemies with a tool of war called Ruru too,\ndon't you?",
+  "en": "If you put it that way,\nyou defeat your enemies with a tool\nof war called Ruru too, don't you?",
   "status": "done",
   "slots": [
    "0x16ac"
@@ -46,7 +46,7 @@
  {
   "id": "s2069:00129",
   "jp": "ルルゥは家族だ！\n道具なんて安い言葉を\n使うんじゃねぇよ！",
-  "en": "Ruru's family! Don't use a cheap word like\n\"tool\"!",
+  "en": "Ruru's family! Don't use\na cheap word like \"tool\"!",
   "status": "done",
   "slots": [
    "0x16c5"
@@ -57,7 +57,7 @@
  {
   "id": "s2069:00166",
   "jp": "アナタ達は、ここに来るまでに\n何人の人を殺めましたか？",
-  "en": "How many people did you kill on your way\nhere?",
+  "en": "How many people did you\nkill on your way here?",
   "status": "done",
   "slots": [
    "0x16de"
@@ -79,7 +79,7 @@
  {
   "id": "s2069:001ab",
   "jp": "人は皆犠牲の上に立っている。\nしかし、犠牲は平等に力を与えて\nしまう。悪にも、正義にもです。",
-  "en": "Everyone stands on top of sacrifice. But\nsacrifice gives power equally. To evil and to\njustice alike.",
+  "en": "Everyone stands on top of sacrifice.\nBut sacrifice gives power equally.\nTo evil and to justice alike.",
   "status": "done",
   "slots": [
    "0x171e"
@@ -90,7 +90,7 @@
  {
   "id": "s2069:0020a",
   "jp": "それならば、こちらで犠牲を\n決めちまえば、悪に力は生まれない\n……そうだったよな。",
-  "en": "Then if we choose the sacrifices ourselves,\nevil gets no power... That's what you said,\nwasn't it?",
+  "en": "Then if we choose the sacrifices\nourselves, evil gets no power...\nThat's what you said, wasn't it?",
   "status": "done",
   "slots": [
    "0x1737"
@@ -134,7 +134,7 @@
  {
   "id": "s2069:002db",
   "jp": "犠牲が必要といいながら、犠牲を\n出すことを心から嫌っていたお前が\n……こんなことをしているからだ！",
-  "en": "Because you, who said sacrifice was needed\nbut hated making sacrifices from the\nbottom of your heart... are doing this!",
+  "en": "Because you, who said sacrifice was\nneeded but hated making sacrifices from\nthe bottom of your heart... are doing this!",
   "status": "done",
   "slots": [
    "0x17a3"
@@ -189,7 +189,7 @@
  {
   "id": "s2069:003d6",
   "jp": "何がエルマーレ連合だ！\n何が反皇国連合軍だ！",
-  "en": "Elmare Federation, my ass! Anti-Imperial\nFederation Army, my ass!",
+  "en": "Elmare Federation, my ass!\nAnti-Imperial Federation Army, my ass!",
   "status": "done",
   "slots": [
    "0x181f"
@@ -211,7 +211,7 @@
  {
   "id": "s2069:0041b",
   "jp": "お前はこの１７年間……どれだけの\n無駄な犠牲を出したんだ！",
-  "en": "These 17 years... how many pointless\nsacrifices have you made!",
+  "en": "These 17 years... how many\npointless sacrifices have you made!",
   "status": "done",
   "slots": [
    "0x1851"
@@ -233,7 +233,7 @@
  {
   "id": "s2069:00466",
   "jp": "無駄な犠牲なんてない！\n彼らの魂は、犠牲は！\n私の意思となって生き続けている！",
-  "en": "There are no pointless sacrifices! Their\nsouls, their sacrifice! They live on as my\nwill!",
+  "en": "There are no pointless sacrifices!\nTheir souls, their sacrifice!\nThey live on as my will!",
   "status": "done",
   "slots": [
    "0x187d"
@@ -255,7 +255,7 @@
  {
   "id": "s2069:004df",
   "jp": "親父ぃ、お母さんを怒らせて\nどうするのよ！",
-  "en": "Dad, what are you doing making Mother\nangry!",
+  "en": "Dad, what are you doing\nmaking Mother angry!",
   "status": "done",
   "slots": [
    "0x1947"
@@ -266,7 +266,7 @@
  {
   "id": "s2069:0050d",
   "jp": "おかげでウィルが\nうなぎのぼりだよ！",
-  "en": "Thanks to you, her Will's shooting through\nthe roof!",
+  "en": "Thanks to you, her Will's\nshooting through the roof!",
   "status": "done",
   "slots": [
    "0x1965"
@@ -299,7 +299,7 @@
  {
   "id": "s2069:00589",
   "jp": "お前みたいなひよっ子に同意され\nても、嬉しくもなんともねぇよ！\nお前ら、気ぃ引き締めろよ？",
-  "en": "Havin' a fledgling like you agree with me\ndon't make me happy one bit! You lot, stay\nsharp, ya hear?",
+  "en": "Havin' a fledgling like you agree with\nme don't make me happy one bit!\nYou lot, stay sharp, ya hear?",
   "status": "done",
   "slots": [
    "0x19ba"
@@ -343,7 +343,7 @@
  {
   "id": "s2069:0064f",
   "jp": "そう。\nならば、アナタもここで、\n犠牲となりなさい！",
-  "en": "I see. Then you too shall become a sacrifice\nhere!",
+  "en": "I see. Then you too shall\nbecome a sacrifice here!",
   "status": "done",
   "slots": [
    "0x21ee"
@@ -354,7 +354,7 @@
  {
   "id": "s2069:00686",
   "jp": "私は、アナタを殺す。\nアナタの犠牲の上に立って、\n世界を平和にしてみせる。",
-  "en": "I will kill you. I will stand on your sacrifice\nand bring peace to the world.",
+  "en": "I will kill you. I will stand on your\nsacrifice and bring peace to the world.",
   "status": "done",
   "slots": [
    "0x22e7"
@@ -376,7 +376,7 @@
  {
   "id": "s2069:00701",
   "jp": "アナタも犠牲の上に立つ人間なら\nわかるはずです！\n私の意思が、願いが！",
-  "en": "If you too stand on sacrifice, you must\nunderstand! My will, my wish!",
+  "en": "If you too stand on sacrifice,\nyou must understand! My will, my wish!",
   "status": "done",
   "slots": [
    "0x1e99"
@@ -386,7 +386,7 @@
  {
   "id": "s2069:00746",
   "jp": "わからねぇよ！\n俺は、犠牲の上に立つなんて事は\nできねぇ。",
-  "en": "I don't understand it! I can't go standin' on\ntop of sacrifices.",
+  "en": "I don't understand it! I can't go\nstandin' on top of sacrifices.",
   "status": "done",
   "slots": [
    "0x1eb3"
@@ -396,7 +396,7 @@
  {
   "id": "s2069:0077f",
   "jp": "アイツは、俺の、永遠のライバル\nなんだからなぁ！",
-  "en": "'Cause that guy was my eternal rival, damn\nit!",
+  "en": "'Cause that guy was my\neternal rival, damn it!",
   "status": "done",
   "slots": [
    "0x1ebd"
@@ -406,7 +406,7 @@
  {
   "id": "s2069:007af",
   "jp": "何故、何故わからないのですか！\n平和を願う気持ちは、\n皆一緒のハズです！",
-  "en": "Why, why can't you understand! Everyone\nwishes for peace in the same way!",
+  "en": "Why, why can't you understand!\nEveryone wishes for peace in the same way!",
   "status": "done",
   "slots": [
    "0x1fa7"
@@ -416,7 +416,7 @@
  {
   "id": "s2069:007f6",
   "jp": "残念ながら、平和ってのは\nそこにいる人と同じ数\n存在するんですよ。",
-  "en": "Sadly, there are as many kinds of peace as\nthere are people around.",
+  "en": "Sadly, there are as many kinds of\npeace as there are people around.",
   "status": "done",
   "slots": [
    "0x1fc1"
@@ -426,7 +426,7 @@
  {
   "id": "s2069:00837",
   "jp": "例えどんな戦火の中でも、\n笑ってる人はいるんですよ。",
-  "en": "Even in the middle of any war, there are\npeople who are smiling.",
+  "en": "Even in the middle of any war,\nthere are people who are smiling.",
   "status": "done",
   "slots": [
    "0x1fcb"
@@ -436,7 +436,7 @@
  {
   "id": "s2069:0086b",
   "jp": "仲間が一人消えるたびに、ウィルが\n高まっていく……悲しいね。",
-  "en": "Every time one of her comrades vanishes,\nher Will rises... It's sad.",
+  "en": "Every time one of her comrades\nvanishes, her Will rises... It's sad.",
   "status": "done",
   "slots": [
    "0x209f"
@@ -446,7 +446,7 @@
  {
   "id": "s2069:008a7",
   "jp": "黙りなさい！\nアナタさえいなくなれば、\n皇国軍の計画は崩れる！",
-  "en": "Be quiet! If only you were gone, the Imperial\narmy's plan would fall apart!",
+  "en": "Be quiet! If only you were gone,\nthe Imperial army's plan would fall apart!",
   "status": "done",
   "slots": [
    "0x20b8"
@@ -496,7 +496,7 @@
  {
   "id": "s2069:00972",
   "jp": "死んだ人を犠牲なんて呼んで。\nそれって、なんかおかしいよね。",
-  "en": "Calling dead people a sacrifice... That's\nkinda wrong, isn't it?",
+  "en": "Calling dead people a sacrifice...\nThat's kinda wrong, isn't it?",
   "status": "done",
   "slots": [
    "0x24cc"
@@ -506,7 +506,7 @@
  {
   "id": "s2069:009ae",
   "jp": "純粋な子供にはわかりませんよ。\nこの、捩れきった世界の事なんて。",
-  "en": "An innocent child can't understand. Not this\nworld, twisted as it is.",
+  "en": "An innocent child can't understand.\nNot this world, twisted as it is.",
   "status": "done",
   "slots": [
    "0x24e5"
@@ -526,7 +526,7 @@
  {
   "id": "s2069:00a18",
   "jp": "死体に理由がついたって、\n死体は死体なんすから。",
-  "en": "Give a corpse a reason, and it's still a\ncorpse, sir.",
+  "en": "Give a corpse a reason,\nand it's still a corpse, sir.",
   "status": "done",
   "slots": [
    "0x25bc"
@@ -536,7 +536,7 @@
  {
   "id": "s2069:00a48",
   "jp": "私とアナタは似ていますね。\n同じ、犠牲の上に立つ者。",
-  "en": "You and I are alike. Both of us stand on\nsacrifice.",
+  "en": "You and I are alike.\nBoth of us stand on sacrifice.",
   "status": "done",
   "slots": [
    "0x26a6"
@@ -546,7 +546,7 @@
  {
   "id": "s2069:00a7c",
   "jp": "私は、犠牲の上に立てる程\n大それた者でもないさ。",
-  "en": "I am no one grand enough to stand on\nsacrifice.",
+  "en": "I am no one grand enough\nto stand on sacrifice.",
   "status": "done",
   "slots": [
    "0x26c0"
@@ -576,7 +576,7 @@
  {
   "id": "s2069:00ada",
   "jp": "アナタだって、戦争の為に\n生み出された道具なのです。\n私達と、一緒なのですよ。",
-  "en": "You too are a tool, made for war. You are\njust like us.",
+  "en": "You too are a tool, made for war.\nYou are just like us.",
   "status": "done",
   "slots": [
    "0x27c9"
@@ -586,7 +586,7 @@
  {
   "id": "s2069:00b27",
   "jp": "アナタも私も、同じ\n“正義を目指すもの”",
-  "en": "You and I are the same: \"those who strive\nfor justice\".",
+  "en": "You and I are the same: \"those\nwho strive for justice\".",
   "status": "done",
   "slots": [
    "0x28a4"
@@ -596,7 +596,7 @@
  {
   "id": "s2069:00b4f",
   "jp": "もしも違う道があったらと\n思うと……。",
-  "en": "When I think that there might have been\nanother path...",
+  "en": "When I think that there might\nhave been another path...",
   "status": "done",
   "slots": [
    "0x28b9"
@@ -616,7 +616,7 @@
  {
   "id": "s2069:00ba7",
   "jp": "アナタは、そうまでして……\nそうまでしてルキア皇国に\n勝ちたかったのですか！",
-  "en": "You went that far... Did you want to beat\nthe Lukia Empire that badly!?",
+  "en": "You went that far... Did you want to\nbeat the Lukia Empire that badly!?",
   "status": "done",
   "slots": [
    "0x29ad"
@@ -626,7 +626,7 @@
  {
   "id": "s2069:00bf2",
   "jp": "ルキア皇国を討つのは、\n私だけの願いだけではないのですよ",
-  "en": "Bringing down the Lukia Empire isn't my wish\nalone, you know.",
+  "en": "Bringing down the Lukia Empire\nisn't my wish alone, you know.",
   "status": "done",
   "slots": [
    "0x29c6"
@@ -636,7 +636,7 @@
  {
   "id": "s2069:00c2a",
   "jp": "アナタが思っているほど、\nルキア皇国は憎まれているんですよ",
-  "en": "The Lukia Empire is hated more than you\nthink.",
+  "en": "The Lukia Empire is hated\nmore than you think.",
   "status": "done",
   "slots": [
    "0x29d0"
@@ -646,7 +646,7 @@
  {
   "id": "s2069:00c64",
   "jp": "アナタが、姉さんにベルガスを\n渡したわけ？",
-  "en": "So you're the one who gave Velgas to my\nsister?",
+  "en": "So you're the one who\ngave Velgas to my sister?",
   "status": "done",
   "slots": [
    "0x2aa4"
@@ -666,7 +666,7 @@
  {
   "id": "s2069:00cd7",
   "jp": "こんな人に恨まれる様な事して。\n物好きもいたもんだわさ。",
-  "en": "Doing stuff to make someone like her hate\nyou. Some people sure have odd tastes,\ndontcha know.",
+  "en": "Doing stuff to make someone like\nher hate you. Some people sure\nhave odd tastes, dontcha know.",
   "status": "done",
   "slots": [
    "0x2b91"
@@ -676,7 +676,7 @@
  {
   "id": "s2069:00d0f",
   "jp": "本当の物好きは、自分が物好きだと\n言う事に気がつかないもの\nなんですよ。",
-  "en": "The truly odd never notice that they're the\nodd ones, you know.",
+  "en": "The truly odd never notice that\nthey're the odd ones, you know.",
   "status": "done",
   "slots": [
    "0x2baa"
@@ -686,7 +686,7 @@
  {
   "id": "s2069:00d56",
   "jp": "アナタの心を表すには、\nどれほどの悲しい詩を語れば\nいいのでしょうか……。",
-  "en": "How many sad songs must I recite to\nexpress your heart...",
+  "en": "How many sad songs must I\nrecite to express your heart...",
   "status": "done",
   "slots": [
    "0x2c7e"
@@ -696,7 +696,7 @@
  {
   "id": "s2069:00d9f",
   "jp": "私を語るのに詩は必要ありません。\n事実と結果さえあれば、\n私は充分です。",
-  "en": "I need no songs to tell of me. Facts and\nresults are enough for me.",
+  "en": "I need no songs to tell of me.\nFacts and results are enough for me.",
   "status": "done",
   "slots": [
    "0x2c97"
@@ -717,7 +717,7 @@
  {
   "id": "s2069:00e18",
   "jp": "これだけ攻めても、まだウィルが\n普通の人の倍はある……。",
-  "en": "Even after all that, her Will's still twice a\nnormal person's...",
+  "en": "Even after all that, her Will's\nstill twice a normal person's...",
   "status": "done",
   "slots": [
    "0x36dd"
@@ -728,7 +728,7 @@
  {
   "id": "s2069:00e54",
   "jp": "１７年って年月は、こうまで人を\n壊せるのか……。",
-  "en": "Can seventeen years really break a person\nthis much...",
+  "en": "Can seventeen years really\nbreak a person this much...",
   "status": "done",
   "slots": [
    "0x36f6"
@@ -739,7 +739,7 @@
  {
   "id": "s2069:00e88",
   "jp": "フン、貴様らの１７年と、私達の\n１７年を一緒にするな。",
-  "en": "Hmph. Don't compare your seventeen years\nwith ours.",
+  "en": "Hmph. Don't compare your\nseventeen years with ours.",
   "status": "done",
   "slots": [
    "0x370b"
@@ -761,7 +761,7 @@
  {
   "id": "s2069:00eda",
   "jp": "誰？\nそれならば、そこの脳筋大男が\n知っているよ。",
-  "en": "Who? Well, that musclebrained giant over\nthere knows.",
+  "en": "Who? Well, that musclebrained\ngiant over there knows.",
   "status": "done",
   "slots": [
    "0x37be"
@@ -783,7 +783,7 @@
  {
   "id": "s2069:00f41",
   "jp": "今は宰相だよ。\nザザーランド元将軍。",
-  "en": "It's Chancellor now, former General\nZazarland.",
+  "en": "It's Chancellor now,\nformer General Zazarland.",
   "status": "done",
   "slots": [
    "0x37ec"
@@ -827,7 +827,7 @@
  {
   "id": "s2069:00fef",
   "jp": "はいはい、あまりはしゃいで\n転ばないようにね。",
-  "en": "Yes, yes, don't get too excited and trip,\nnow.",
+  "en": "Yes, yes, don't get too\nexcited and trip, now.",
   "status": "done",
   "slots": [
    "0x1aeb",
@@ -838,7 +838,7 @@
  {
   "id": "s2069:0101d",
   "jp": "エンリエッタ様が来てから、\nこの地を狙って来る人達も\nいなくなりましたし。",
-  "en": "Since Enryetta-sama came, nobody comes\nafter this land anymore.",
+  "en": "Since Enryetta-sama came,\nnobody comes after this land anymore.",
   "status": "done",
   "slots": [
    "0x1af2"
@@ -868,7 +868,7 @@
  {
   "id": "s2069:01094",
   "jp": "ハイハイ。まってくださいねー。\nあ、アナタもお一つどうですか？",
-  "en": "Yes, yes. Just a moment. Oh, would you like\none too?",
+  "en": "Yes, yes. Just a moment.\nOh, would you like one too?",
   "status": "done",
   "slots": [
    "0x1b1d"
@@ -898,7 +898,7 @@
  {
   "id": "s2069:0111d",
   "jp": "隣で戦争が起こってるってのに、\nのん気なもんだねぇ。",
-  "en": "There's a war right next door, and they're\nthis carefree.",
+  "en": "There's a war right next door,\nand they're this carefree.",
   "status": "done",
   "slots": [
    "0x1beb"
@@ -918,7 +918,7 @@
  {
   "id": "s2069:0117f",
   "jp": "何時の間に、この景色が懐かしく\nなっちまったんだろうなぁ。",
-  "en": "When did this view start feelin' so\nnostalgic?",
+  "en": "When did this view start\nfeelin' so nostalgic?",
   "status": "done",
   "slots": [
    "0x1c0a"
@@ -928,7 +928,7 @@
  {
   "id": "s2069:011b9",
   "jp": "そ、それは、\nクリスタルと海底の薔薇！？",
-  "en": "Th-that's the Crystal and the Seabed\nRose!?",
+  "en": "Th-that's the Crystal\nand the Seabed Rose!?",
   "status": "done",
   "slots": [
    "0x1cb4"
@@ -938,7 +938,7 @@
  {
   "id": "s2069:011e1",
   "jp": "ありがとう、持ってきてくれた\nのかい？\nじゃあ、早速つくりますね！",
-  "en": "Thank you, you brought them for me? Then\nI'll make it right away!",
+  "en": "Thank you, you brought them for me?\nThen I'll make it right away!",
   "status": "done",
   "slots": [
    "0x1cbb"
@@ -958,7 +958,7 @@
  {
   "id": "s2069:0123f",
   "jp": "これでまた一歩、ドクターに\n近づけたよ。ありがとう！",
-  "en": "That's one more step closer to the Doctor.\nThank you!",
+  "en": "That's one more step closer\nto the Doctor. Thank you!",
   "status": "done",
   "slots": [
    "0x1da4"
@@ -968,7 +968,7 @@
  {
   "id": "s2069:01273",
   "jp": "そういえばさっき、\nスゴイ爆発音がしたなぁ……\nなんだったんだろう？",
-  "en": "Come to think of it, I heard a huge explosion\nearlier... I wonder what it was?",
+  "en": "Come to think of it, I heard a huge\nexplosion earlier... I wonder what it was?",
   "status": "done",
   "slots": [
    "0x1dbc"

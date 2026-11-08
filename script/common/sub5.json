@@ -2,7 +2,7 @@
  {
   "id": "c5:00000",
   "jp": "…何だコイツ\n立ったまま寝てるぜ",
-  "en": "...What's with this guy? He's sleepin'\nstanding up.",
+  "en": "...What's with this guy?\nHe's sleepin' standing up.",
   "status": "done",
   "at": "0x0",
   "max": 31
@@ -58,7 +58,7 @@
  {
   "id": "c5:000b5",
   "jp": "何この人…眠ってるよ？",
-  "en": "What's with this person... Are they\nsleeping?",
+  "en": "What's with this person...\nAre they sleeping?",
   "status": "done",
   "at": "0xb5",
   "max": 22

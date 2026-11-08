@@ -2,7 +2,7 @@
  {
   "id": "s2056:00028",
   "jp": "俺がルルゥに会ってから、\nもうだいぶ月日が流れたなぁ。",
-  "en": "A lot of time has passed since I met Ruru,\nhuh.",
+  "en": "A lot of time has passed\nsince I met Ruru, huh.",
   "status": "done",
   "slots": [
    "0x14d6"
@@ -13,7 +13,7 @@
  {
   "id": "s2056:00062",
   "jp": "あの時はごめんね。\nいきなり押しかけちゃって。",
-  "en": "Sorry about back then. Barging in on you out\nof nowhere.",
+  "en": "Sorry about back then.\nBarging in on you out of nowhere.",
   "status": "done",
   "slots": [
    "0x14e8"
@@ -46,7 +46,7 @@
  {
   "id": "s2056:000c0",
   "jp": "誰だ！\nこの世で最も人から避けられる\n二文字を言った奴は！",
-  "en": "Who said it!? Who said the one word that\nmakes people avoid you more than any\nother!?",
+  "en": "Who said it!? Who said the one\nword that makes people avoid\nyou more than any other!?",
   "status": "done",
   "slots": [
    "0x1521"
@@ -68,7 +68,7 @@
  {
   "id": "s2056:0011c",
   "jp": "んなわけないだろ！\nなんで真顔でそんなこと聞くんだ！",
-  "en": "Of course not! Why are you askin' that with\na straight face!?",
+  "en": "Of course not! Why are you askin'\nthat with a straight face!?",
   "status": "done",
   "slots": [
    "0x1565"
@@ -79,7 +79,7 @@
  {
   "id": "s2056:00154",
   "jp": "あの時は、まだ純粋に楽しんで\nやってましたね……。",
-  "en": "Back then, I was still doing this purely for\nfun...",
+  "en": "Back then, I was still\ndoing this purely for fun...",
   "status": "done",
   "slots": [
    "0x1588"
@@ -90,7 +90,7 @@
  {
   "id": "s2056:0018a",
   "jp": "お前なぁ、\nせっかくの楽しい雰囲気を\nしんみりさせるんじゃないよ。",
-  "en": "Come on, don't go spoilin' the fun mood by\ngettin' all gloomy.",
+  "en": "Come on, don't go spoilin'\nthe fun mood by gettin' all gloomy.",
   "status": "done",
   "slots": [
    "0x159a"
@@ -101,7 +101,7 @@
  {
   "id": "s2056:001cf",
   "jp": "女性から詰られるのが楽しい\nのですか？　やはり変態ですね。",
-  "en": "You enjoy being scolded by women? So you\nreally are a pervert.",
+  "en": "You enjoy being scolded by women?\nSo you really are a pervert.",
   "status": "done",
   "slots": [
    "0x15e5"
@@ -134,7 +134,7 @@
  {
   "id": "s2056:00261",
   "jp": "……意外ですね。兄貴はもっと\n「あぁ、そうだな……。」って感じ\nになると思ったんですが。",
-  "en": "...That's a surprise. I thought you'd go more\nlike, \"Yeah, that's right...\", Boss.",
+  "en": "...That's a surprise. I thought you'd go\nmore like, \"Yeah, that's right...\", Boss.",
   "status": "done",
   "slots": [
    "0x1647"
@@ -145,7 +145,7 @@
  {
   "id": "s2056:002bc",
   "jp": "俺はまだ、自分の中の海賊ってのを\n見つけてないからな。それまでは\n落ち込んでらんねぇって！",
-  "en": "I still haven't found the pirate inside me. Till\nthen, I can't afford to mope!",
+  "en": "I still haven't found the pirate inside me.\nTill then, I can't afford to mope!",
   "status": "done",
   "slots": [
    "0x165c"
@@ -156,7 +156,7 @@
  {
   "id": "s2056:00319",
   "jp": "ハハハ。ずいぶんと立派な事を\n言うようになったな。",
-  "en": "Hahaha. You've started sayin' some pretty\nfine things.",
+  "en": "Hahaha. You've started sayin'\nsome pretty fine things.",
   "status": "done",
   "slots": [
    "0x1694"
@@ -167,7 +167,7 @@
  {
   "id": "s2056:0034f",
   "jp": "親父、あんたには感謝してるよ。\nあんたがいなかったら、今でも俺は\n船乗りのガキのままだったと思う。",
-  "en": "Dad, I'm grateful to you. If it weren't for\nyou, I think I'd still be a sailor brat.",
+  "en": "Dad, I'm grateful to you. If it weren't\nfor you, I think I'd still be a sailor brat.",
   "status": "done",
   "slots": [
    "0x16a9"
@@ -178,7 +178,7 @@
  {
   "id": "s2056:003b4",
   "jp": "俺だけじゃねぇ、お前の仲間や、\n死んだお前のダチのおかげでもある",
-  "en": "It ain't just me. It's thanks to your crew too,\nand your friend who died.",
+  "en": "It ain't just me. It's thanks to your\ncrew too, and your friend who died.",
   "status": "done",
   "slots": [
    "0x16be"
@@ -244,7 +244,7 @@
  {
   "id": "s2056:004a6",
   "jp": "これからもグロリア海賊団の旅は\n続いていく！　ってか？",
-  "en": "\"And the Gloria Pirates' journey continues!\"\nSomethin' like that?",
+  "en": "\"And the Gloria Pirates' journey\ncontinues!\" Somethin' like that?",
   "status": "done",
   "slots": [
    "0x1791"
@@ -310,7 +310,7 @@
  {
   "id": "s2056:005a5",
   "jp": "あの声まさか……。\nいや、そんなハズがねぇ。",
-  "en": "That voice... It can't be... No, there's no\nway.",
+  "en": "That voice... It can't be...\nNo, there's no way.",
   "status": "done",
   "slots": [
    "0x196b"
@@ -387,7 +387,7 @@
  {
   "id": "s2056:0067e",
   "jp": "あの人……体の中に\nカードのウィルを取り込んでる！\nまともに相手をするのは危険だよ！",
-  "en": "That person... has taken a card's Will into\nhis body! It's dangerous to fight him\nhead-on!",
+  "en": "That person... has taken\na card's Will into his body!\nIt's dangerous to fight him head-on!",
   "status": "done",
   "slots": [
    "0x1b63"
@@ -420,7 +420,7 @@
  {
   "id": "s2056:00705",
   "jp": "まぁまぁ、今日は挨拶だけだ。\n俺はここらで失礼するぜ。",
-  "en": "Now, now, I'm just here to say hi today. I'll\nbe takin' my leave now.",
+  "en": "Now, now, I'm just here to say hi today.\nI'll be takin' my leave now.",
   "status": "done",
   "slots": [
    "0x1be9"
@@ -453,7 +453,7 @@
  {
   "id": "s2056:0077d",
   "jp": "体の半分が機械など、\n現代の技術ではありえん。\nカードの力を取り込むなら尚更だ。",
-  "en": "Half a body made of machinery is impossible\nwith modern technology. All the more so if\nit takes in a card's power.",
+  "en": "Half a body made of machinery is\nimpossible with modern technology.\nAll the more so if it takes in a card's power.",
   "status": "done",
   "slots": [
    "0x3515"
@@ -475,7 +475,7 @@
  {
   "id": "s2056:007f5",
   "jp": "機械にもウィルがあるからな。\n繋ぎ合わせようとすると拒絶反応が\n出て、まともに動きはしない。",
-  "en": "Because machines have Will too. If you try\nto join them, a rejection reaction occurs,\nand nothing works properly.",
+  "en": "Because machines have Will too.\nIf you try to join them, a rejection reaction\noccurs, and nothing works properly.",
   "status": "done",
   "slots": [
    "0x354c"
@@ -541,7 +541,7 @@
  {
   "id": "s2056:00909",
   "jp": "イシュト、落ち着きなさい。\nピンガーに当たるなんて、\nあなたらしくないわ。",
-  "en": "Ishut, calm down. Taking it out on Pinger\nisn't like you.",
+  "en": "Ishut, calm down. Taking it\nout on Pinger isn't like you.",
   "status": "done",
   "slots": [
    "0x3619"
@@ -585,7 +585,7 @@
  {
   "id": "s2056:009cd",
   "jp": "いや、いない。\n子供の頃からの付き合いだ。\n断言できる。",
-  "en": "No, he didn't. I've known him since we were\nkids. I can say that for sure.",
+  "en": "No, he didn't. I've known him since\nwe were kids. I can say that for sure.",
   "status": "done",
   "slots": [
    "0x3667"
@@ -596,7 +596,7 @@
  {
   "id": "s2056:00a08",
   "jp": "ローガンと同じで、黄泉の国から\n逃げ出したんじゃ。",
-  "en": "Maybe he escaped from the Land of the\nDead, like Rogan?",
+  "en": "Maybe he escaped from the\nLand of the Dead, like Rogan?",
   "status": "done",
   "slots": [
    "0x3695"
@@ -607,7 +607,7 @@
  {
   "id": "s2056:00a3e",
   "jp": "それなら私に連絡がくるはずっす。\n体が機械化していましたし……\nその線は薄いっすね。",
-  "en": "Then I'd have been contacted about it, sir.\nAnd his body was mechanised... That's not\nvery likely.",
+  "en": "Then I'd have been contacted about it,\nsir. And his body was mechanised...\nThat's not very likely.",
   "status": "done",
   "slots": [
    "0x36a7"
@@ -662,7 +662,7 @@
  {
   "id": "s2056:00b17",
   "jp": "悪いが、考えてる暇はねぇ。\n先を急ぐぞ。",
-  "en": "Sorry, but there ain't time to think. Let's\nhurry on.",
+  "en": "Sorry, but there ain't time\nto think. Let's hurry on.",
   "status": "done",
   "slots": [
    "0x3720"
@@ -673,7 +673,7 @@
  {
   "id": "s2056:00b43",
   "jp": "あの偽者野郎、\n俺のダチの死を冒涜しやがって……\n絶対許さねぇ！",
-  "en": "That fake bastard, desecratin' my friend's\ndeath... I'll never forgive him!",
+  "en": "That fake bastard, desecratin'\nmy friend's death... I'll never forgive him!",
   "status": "done",
   "slots": [
    "0x3735"
@@ -694,7 +694,7 @@
  {
   "id": "s2056:00ba1",
   "jp": "なんだ、このカケラ……\nスゲェ力を感じるぞ……！",
-  "en": "What's this shard... I can feel incredible\npower from it...!",
+  "en": "What's this shard... I can feel\nincredible power from it...!",
   "status": "done",
   "slots": [
    "0x229e"
@@ -714,7 +714,7 @@
  {
   "id": "s2056:00bde",
   "jp": "ただの石ではないようですね……。\n考古学に疎いボクにでもわかる\nぐらいですからね。",
-  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows nothing of\narchaeology can tell.",
+  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows\nnothing of archaeology can tell.",
   "status": "done",
   "slots": [
    "0x2335"
@@ -774,7 +774,7 @@
  {
   "id": "s2056:00ce4",
   "jp": "遺跡の欠片か。\n海から流れてきたのか……？",
-  "en": "A ruin shard, huh. Did it wash up from the\nsea...?",
+  "en": "A ruin shard, huh.\nDid it wash up from the sea...?",
   "status": "done",
   "slots": [
    "0x24fa"
@@ -794,7 +794,7 @@
  {
   "id": "s2056:00d1b",
   "jp": "紛れもなくこれは遺跡の欠片……。\n実に興味深い。",
-  "en": "There is no mistaking it: a ruin shard... Truly\nfascinating.",
+  "en": "There is no mistaking it: a\nruin shard... Truly fascinating.",
   "status": "done",
   "slots": [
    "0x2591"
@@ -814,7 +814,7 @@
  {
   "id": "s2056:00d6c",
   "jp": "この石から、すっごいたくさんの\nウィルを感じるよ！",
-  "en": "Locomoco can feel sooo much Will from this\nstone!",
+  "en": "Locomoco can feel sooo\nmuch Will from this stone!",
   "status": "done",
   "slots": [
    "0x2628"
@@ -844,7 +844,7 @@
  {
   "id": "s2056:00dcf",
   "jp": "遺跡の欠片じゃないですか！\nな、なんでこんな所に……。",
-  "en": "Isn't that a ruin shard!? Wh-why is it in a\nplace like this...",
+  "en": "Isn't that a ruin shard!?\nWh-why is it in a place like this...",
   "status": "done",
   "slots": [
    "0x26d8"
@@ -854,7 +854,7 @@
  {
   "id": "s2056:00e05",
   "jp": "この石、えもいえぬ威圧感を\n感じるな……。",
-  "en": "This stone gives off an indescribable\npressure...",
+  "en": "This stone gives off an\nindescribable pressure...",
   "status": "done",
   "slots": [
    "0x272b"
@@ -884,7 +884,7 @@
  {
   "id": "s2056:00e6f",
   "jp": "持ってるだけで力が湧いてくると\n言うか。地面からエネルギーを\n吸い取ってるような感じがします。",
-  "en": "Just holding it, I feel power welling up, or\nrather... it feels like it's drawing energy\nfrom the ground.",
+  "en": "Just holding it, I feel power welling up,\nor rather... it feels like it's\ndrawing energy from the ground.",
   "status": "done",
   "slots": [
    "0x280d"
@@ -934,7 +934,7 @@
  {
   "id": "s2056:00f49",
   "jp": "な、なんだこの不思議な石は。\n見た目以上に重く感じる……。",
-  "en": "Wh-what is this strange stone? It feels\nheavier than it looks...",
+  "en": "Wh-what is this strange stone?\nIt feels heavier than it looks...",
   "status": "done",
   "slots": [
    "0x298e"
@@ -944,7 +944,7 @@
  {
   "id": "s2056:00f83",
   "jp": "ひょっとしたらスゴイものかも\nしれません！\n師匠に見ていただきましょう！",
-  "en": "It might be something amazing! I'll have\nMaster take a look at it!",
+  "en": "It might be something amazing!\nI'll have Master take a look at it!",
   "status": "done",
   "slots": [
    "0x29e4"
@@ -974,7 +974,7 @@
  {
   "id": "s2056:01022",
   "jp": "この石、なにか威圧感というか、\n圧迫感のようなものを感じますね。",
-  "en": "This stone gives off a kind of pressure, or\nrather an oppressive feeling.",
+  "en": "This stone gives off a kind of pressure,\nor rather an oppressive feeling.",
   "status": "done",
   "slots": [
    "0x2adc"
@@ -984,7 +984,7 @@
  {
   "id": "s2056:01062",
   "jp": "まぁ、簡単に言うと\n見た目より重く感じる。\nというだけなんですけど……。",
-  "en": "Well, to put it simply, it just feels heavier\nthan it looks...",
+  "en": "Well, to put it simply,\nit just feels heavier than it looks...",
   "status": "done",
   "slots": [
    "0x2b27"
@@ -994,7 +994,7 @@
  {
   "id": "s2056:010a9",
   "jp": "お？　なんだこの石。\n見た目より随分と重いな。",
-  "en": "Oh? What's this stone? It's a lot heavier\nthan it looks.",
+  "en": "Oh? What's this stone?\nIt's a lot heavier than it looks.",
   "status": "done",
   "slots": [
    "0x2b6a"

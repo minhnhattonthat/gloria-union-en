@@ -15568,7 +15568,7 @@
  {
   "id": "e:24e1f0",
   "jp": "【勝敗条件】\n敵味方どちらかのメンバー数（左右の数字）が\n０になると戦闘終了となります。",
-  "en": "[Victory Conditions]\nThe battle ends when the member count of either side (the\nnumbers on the left and right) reaches 0.",
+  "en": "[Victory Conditions]\nThe battle ends when the member count of either\nside (the numbers on the left and right) reaches 0.",
   "status": "done",
   "slots": [
    "w:24f0e8"
@@ -15595,7 +15595,7 @@
  {
   "id": "e:24e2d2",
   "jp": "【銃兵の突撃】\nエリーシャが率いる銃兵の突撃には、\n「敵に反撃されない」長所があります。",
-  "en": "[Gun Unit Charge]\nThe charge of the gun units Elisha leads has a strength: \"the\nenemy can't counterattack.\"",
+  "en": "[Gun Unit Charge]\nThe charge of the gun units Elisha leads has\na strength: \"the enemy can't counterattack.\"",
   "status": "done",
   "slots": [
    "w:24f10c"
@@ -15604,7 +15604,7 @@
  {
   "id": "e:24e329",
   "jp": "敵のメンバーを一方的に減らした上で\n白兵戦を開始できます。",
-  "en": "They can cut down enemy members one-sidedly, then start\nthe melee.",
+  "en": "They can cut down enemy members\none-sidedly, then start the melee.",
   "status": "done",
   "slots": [
    "w:24f118"
@@ -15622,7 +15622,7 @@
  {
   "id": "e:24e3b0",
   "jp": "【反撃】\n突撃／反撃が終わると、\n残ったメンバーで白兵戦に移ります。",
-  "en": "[Counterattack]\nOnce the charge and counterattack are over, the remaining\nmembers go into melee.",
+  "en": "[Counterattack]\nOnce the charge and counterattack are over,\nthe remaining members go into melee.",
   "status": "done",
   "slots": [
    "w:24f130"
@@ -15631,7 +15631,7 @@
  {
   "id": "e:24e3f3",
   "jp": "【銃兵の反撃】\nエリーシャが率いる銃兵には\n「反撃できない」という短所があります。",
-  "en": "[Gun Unit Counterattack]\nThe gun units Elisha leads have a weakness: \"they can't\ncounterattack.\"",
+  "en": "[Gun Unit Counterattack]\nThe gun units Elisha leads have a\nweakness: \"they can't counterattack.\"",
   "status": "done",
   "slots": [
    "w:24f13c"
@@ -15640,7 +15640,7 @@
  {
   "id": "e:24e444",
   "jp": "攻撃を仕掛けられると、不利な状況で\n白兵戦を開始しなければなりません。",
-  "en": "When they are attacked, they have to start the melee at a\ndisadvantage.",
+  "en": "When they are attacked, they have\nto start the melee at a disadvantage.",
   "status": "done",
   "slots": [
    "w:24f148"
@@ -15667,7 +15667,7 @@
  {
   "id": "e:24e4fe",
   "jp": "相性が良い場合でも相手との能力差に\nよって、戦況が不利になることもあるため\n注意が必要です。",
-  "en": "Be careful: even with a good matchup, a gap in ability can\nstill turn the battle against you.",
+  "en": "Be careful: even with a good matchup,\na gap in ability can still turn the battle against you.",
   "status": "done",
   "slots": [
    "w:24f16c"
@@ -15676,7 +15676,7 @@
  {
   "id": "e:24e559",
   "jp": "【戦闘結果】\n戦闘内容に応じ敗者側の士気を\n減らすことができます",
-  "en": "[Battle Results]\nDepending on how the battle went, you can reduce the losing\nside's morale.",
+  "en": "[Battle Results]\nDepending on how the battle went,\nyou can reduce the losing side's morale.",
   "status": "done",
   "slots": [
    "w:24f178"
@@ -15703,7 +15703,7 @@
  {
   "id": "e:24e615",
   "jp": "敗北条件キャラクターの部隊士気が\n０になると、ゲームオーバーとなりますので\n注意が必要です。",
-  "en": "Be careful: if the morale of a character in the defeat\nconditions reaches 0, it's game over.",
+  "en": "Be careful: if the morale of a character in the\ndefeat conditions reaches 0, it's game over.",
   "status": "done",
   "slots": [
    "w:24f19c"
@@ -15712,7 +15712,7 @@
  {
   "id": "e:24e670",
   "jp": "【カードＰＯＷＥＲ上昇】\n敵に与えた士気ダメージに応じ、使用していた\nカードのＰＯＷＥＲが上昇します。",
-  "en": "[Card POWER Up]\nThe POWER of the card in use rises with the morale damage\ndealt to the enemy.",
+  "en": "[Card POWER Up]\nThe POWER of the card in use rises with\nthe morale damage dealt to the enemy.",
   "status": "done",
   "slots": [
    "w:24f1a8"
@@ -15721,7 +15721,7 @@
  {
   "id": "e:24e6d5",
   "jp": "カードＰＯＷＥＲを上昇させていくことで\n戦闘に勝利した際、より多くの士気ダメージを\n敵に与えることが可能となります。",
-  "en": "By raising a card's POWER, you can deal more morale damage\nto the enemy when you win a battle.",
+  "en": "By raising a card's POWER, you can deal more morale\ndamage to the enemy when you win a battle.",
   "status": "done",
   "slots": [
    "w:24f1b4"
@@ -15748,7 +15748,7 @@
  {
   "id": "e:24e7f8",
   "jp": "【Ａｇｇｒｅｓｓｉｖｅ】\n方向キー右を押している間、\n部隊は攻撃重視の作戦を採ります。",
-  "en": "[Aggressive]\nWhile you hold right on the D-pad, the unit fights with an\nattack-focused strategy.",
+  "en": "[Aggressive]\nWhile you hold right on the D-pad,\nthe unit fights with an attack-focused strategy.",
   "status": "done",
   "slots": [
    "w:24f1d8"
@@ -15757,7 +15757,7 @@
  {
   "id": "e:24e84d",
   "jp": "作戦中は攻撃力がアップします。\nまた、ユニットの能力によっては\n攻撃に属性が付加されます。",
-  "en": "During this strategy its attack goes up. Depending on the\nunit's abilities, its attacks may also gain an element.",
+  "en": "During this strategy its attack goes up. Depending on\nthe unit's abilities, its attacks may also gain an element.",
   "status": "done",
   "slots": [
    "w:24f1e4"
@@ -15766,7 +15766,7 @@
  {
   "id": "e:24e8a6",
   "jp": "ただし徐々にゲージを消費するため、\nあらかじめスキルゲージを\n溜めておく必要があります。",
-  "en": "But it slowly uses up the gauge, so you need to fill the Skill\nGauge beforehand.",
+  "en": "But it slowly uses up the gauge,\nso you need to fill the Skill Gauge beforehand.",
   "status": "done",
   "slots": [
    "w:24f1f0"
@@ -15775,7 +15775,7 @@
  {
   "id": "e:24e8fd",
   "jp": "方向キー右を押している間は、\nずっと攻撃力アップの効果が継続します。",
-  "en": "As long as you hold right on the D-pad, the attack boost\nlasts.",
+  "en": "As long as you hold right on the D-pad,\nthe attack boost lasts.",
   "status": "done",
   "slots": [
    "w:24f1fc"
@@ -15784,7 +15784,7 @@
  {
   "id": "e:24e941",
   "jp": "【Ｐａｓｓｉｖｅ】\n方向キー左を押している間、\n部隊は慎重姿勢の作戦を採ります。",
-  "en": "[Passive]\nWhile you hold left on the D-pad, the unit takes a cautious\nstrategy.",
+  "en": "[Passive]\nWhile you hold left on the D-pad,\nthe unit takes a cautious strategy.",
   "status": "done",
   "slots": [
    "w:24f208"
@@ -15793,7 +15793,7 @@
  {
   "id": "e:24e990",
   "jp": "作戦中は攻撃力がダウンしますが、\nスキルゲージを徐々に\n蓄積することができます。",
-  "en": "During this strategy its attack goes down, but the Skill\nGauge slowly fills up.",
+  "en": "During this strategy its attack goes down,\nbut the Skill Gauge slowly fills up.",
   "status": "done",
   "slots": [
    "w:24f214"
@@ -15820,7 +15820,7 @@
  {
   "id": "e:24ea5c",
   "jp": "戦闘中徐々に蓄積されていき、\n蓄積状況により３段階に分かれます。",
-  "en": "It slowly fills during battle and has 3 levels, depending on\nhow full it is.",
+  "en": "It slowly fills during battle and has 3 levels,\ndepending on how full it is.",
   "status": "done",
   "slots": [
    "w:24f238"
@@ -15847,7 +15847,7 @@
  {
   "id": "e:24eb14",
   "jp": "敵ユニットによっては攻撃に\n属性が付加されます。",
-  "en": "Depending on the enemy unit, its attacks may gain an\nelement.",
+  "en": "Depending on the enemy unit,\nits attacks may gain an element.",
   "status": "done",
   "slots": [
    "w:24f25c"
@@ -15865,7 +15865,7 @@
  {
   "id": "e:24eb93",
   "jp": "【クリティカル】\n突撃時には、強力な攻撃\n「クリティカル」が稀に発生します。",
-  "en": "[Critical]\nDuring a charge, a powerful attack, a \"Critical,\" rarely\nhappens.",
+  "en": "[Critical]\nDuring a charge, a powerful attack,\na \"Critical,\" rarely happens.",
   "status": "done",
   "slots": [
    "w:24f274"
@@ -15874,7 +15874,7 @@
  {
   "id": "e:24ebde",
   "jp": "クリティカルが発生すると\nヘッド（部隊のリーダー）が倒れ、\n部隊がパニックとなります。",
-  "en": "When a Critical happens, the Head (the unit's leader) falls and\nthe unit panics.",
+  "en": "When a Critical happens, the Head (the\nunit's leader) falls and the unit panics.",
   "status": "done",
   "slots": [
    "w:24f280"
@@ -15892,7 +15892,7 @@
  {
   "id": "e:24ec86",
   "jp": "また、画面上部に表示される\nチャンスタイムがなくなると、\nパニック状態から復帰します。",
-  "en": "When the Chance Time shown at the top of the screen runs\nout, the unit recovers from the panic.",
+  "en": "When the Chance Time shown at the top of the\nscreen runs out, the unit recovers from the panic.",
   "status": "done",
   "slots": [
    "w:24f298"
@@ -15919,7 +15919,7 @@
  {
   "id": "e:24ed70",
   "jp": "方向キー左を押し続ければ、\n「Ｐａｓｓｉｖｅ」指示を出して\nスキルゲージを回復できます。",
-  "en": "If you keep holding left on the D-pad, you give the \"Passive\"\norder and refill the Skill Gauge.",
+  "en": "If you keep holding left on the D-pad,\nyou give the \"Passive\" order and refill the Skill Gauge.",
   "status": "done",
   "slots": [
    "w:24f2bc"
@@ -15937,7 +15937,7 @@
  {
   "id": "e:24edfb",
   "jp": "ただし、既に説明があった通り、\n使用条件とエースタイプを満たしていないと、\nスキルを使うことはできません。",
-  "en": "But as explained before, you can't use a skill unless you meet\nits conditions and Ace Type.",
+  "en": "But as explained before, you can't use a skill\nunless you meet its conditions and Ace Type.",
   "status": "done",
   "slots": [
    "w:24f2d4"
@@ -15946,7 +15946,7 @@
  {
   "id": "e:24ee64",
   "jp": "条件を満たしている場合、\n□ボタンでスキル発動です！",
-  "en": "If the conditions are met, press the Square button to unleash\nthe skill!",
+  "en": "If the conditions are met,\npress the Square button to unleash the skill!",
   "status": "done",
   "slots": [
    "w:24f2e0"
@@ -15955,7 +15955,7 @@
  {
   "id": "e:24ee98",
   "jp": "【Ｃｈａｒｇｅスキル】\n□ボタンを押し続けて、満タンまで\nチャージして使う種類のスキルです。",
-  "en": "[Charge Skill]\nA kind of skill you use by holding the Square button until it\ncharges to full.",
+  "en": "[Charge Skill]\nA kind of skill you use by holding the\nSquare button until it charges to full.",
   "status": "done",
   "slots": [
    "w:24f2ec"
@@ -15964,7 +15964,7 @@
  {
   "id": "e:24eef3",
   "jp": "途中で□ボタンを離すと、\n使用中断になるので、注意しましょう。",
-  "en": "If you let go of the Square button partway, the skill is\ncancelled, so be careful.",
+  "en": "If you let go of the Square button partway,\nthe skill is cancelled, so be careful.",
   "status": "done",
   "slots": [
    "w:24f2f8"
@@ -15973,7 +15973,7 @@
  {
   "id": "e:24ef31",
   "jp": "【強攻撃】\n攻撃中、ときどき「強攻撃」という\n特殊なアタックが発動します。",
-  "en": "[Strong Attack]\nDuring attacks, a special attack called a \"Strong Attack\"\nsometimes happens.",
+  "en": "[Strong Attack]\nDuring attacks, a special attack called\na \"Strong Attack\" sometimes happens.",
   "status": "done",
   "slots": [
    "w:24f304"
@@ -15991,7 +15991,7 @@
  {
   "id": "e:24efb8",
   "jp": "また、スキルのチャージ中に\n敵の「強攻撃」を受けると、\nチャージが中断してしまいます。",
-  "en": "Also, if you take an enemy \"Strong Attack\" while charging a\nskill, the charge is interrupted.",
+  "en": "Also, if you take an enemy \"Strong Attack\"\nwhile charging a skill, the charge is interrupted.",
   "status": "done",
   "slots": [
    "w:24f31c"

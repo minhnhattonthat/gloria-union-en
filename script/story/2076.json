@@ -2,7 +2,7 @@
  {
   "id": "s2076:00028",
   "jp": "ここが、ユーフォリアの中心……。\nあの台座に、剣を刺せば……。",
-  "en": "This is the heart of Euforia... If I plunge the\nsword into that pedestal...",
+  "en": "This is the heart of Euforia...\nIf I plunge the sword into that pedestal...",
   "status": "done",
   "slots": [
    "0xce9"
@@ -35,7 +35,7 @@
  {
   "id": "s2076:000ba",
   "jp": "グロリア海賊団！？\n何故だ……何故、僕の邪魔を\nするのだ！！",
-  "en": "The Gloria Pirates!? Why... why do you get\nin my way!!",
+  "en": "The Gloria Pirates!? Why...\nwhy do you get in my way!!",
   "status": "done",
   "slots": [
    "0xf04"
@@ -46,7 +46,7 @@
  {
   "id": "s2076:000f9",
   "jp": "もう止めて！\nユーフォリアを復活させても、\nアナタは幸せになんてなれない！",
-  "en": "Stop it! Even if you revive Euforia, you'll\nnever be happy!",
+  "en": "Stop it! Even if you revive Euforia,\nyou'll never be happy!",
   "status": "done",
   "slots": [
    "0xf1d"
@@ -57,7 +57,7 @@
  {
   "id": "s2076:00146",
   "jp": "勝手なことを言うな！\n僕は、僕は、この日のために、\n生きてきたのだ！",
-  "en": "Don't talk nonsense! I, I have lived for this\nday!",
+  "en": "Don't talk nonsense! I,\nI have lived for this day!",
   "status": "done",
   "slots": [
    "0xf36"
@@ -90,7 +90,7 @@
  {
   "id": "s2076:001de",
   "jp": "闇のカードが、アシュレイの\n暗いウィルに反応してるんだ……。",
-  "en": "The dark card is reacting to Ashrey's dark\nWill...",
+  "en": "The dark card is reacting\nto Ashrey's dark Will...",
   "status": "done",
   "slots": [
    "0xf72"
@@ -112,7 +112,7 @@
  {
   "id": "s2076:0024c",
   "jp": "イシュト、\nもう、考えている暇はないわ。\nアシュレイを……倒しましょう。",
-  "en": "Ishut, there's no time left to think. Let's...\ndefeat Ashrey.",
+  "en": "Ishut, there's no time left to think.\nLet's... defeat Ashrey.",
   "status": "done",
   "slots": [
    "0xfca"
@@ -134,7 +134,7 @@
  {
   "id": "s2076:002b4",
   "jp": "総員、戦闘準備！\nこれが、最後の戦いだ！\n気を引き締めろ！",
-  "en": "Everyone, get ready for battle! This is the\nfinal fight! Stay sharp!",
+  "en": "Everyone, get ready for battle!\nThis is the final fight! Stay sharp!",
   "status": "done",
   "slots": [
    "0xff8"
@@ -145,7 +145,7 @@
  {
   "id": "s2076:002f1",
   "jp": "イシュト！！\n貴様は！　貴様だけは！\n僕が、殺してやる！",
-  "en": "Ishut!! You! You, of all people! I'll kill you\nmyself!",
+  "en": "Ishut!! You! You, of all people!\nI'll kill you myself!",
   "status": "done",
   "slots": [
    "0x1188"
@@ -177,7 +177,7 @@
  {
   "id": "s2076:00399",
   "jp": "これ以上、アナタを先には\n行かせない！\nここで、倒す！",
-  "en": "I won't let you go any further! We'll beat you\nhere!",
+  "en": "I won't let you go any further!\nWe'll beat you here!",
   "status": "done",
   "slots": [
    "0x1335"
@@ -187,7 +187,7 @@
  {
   "id": "s2076:003ce",
   "jp": "ここがアンタの墓場よ。\nこんな立派な所で死ねるんだから、\n光栄に思いなさいよ。",
-  "en": "This is your grave. Be honoured you get to\ndie in such a splendid place.",
+  "en": "This is your grave. Be honoured you\nget to die in such a splendid place.",
   "status": "done",
   "slots": [
    "0x13fb"
@@ -237,7 +237,7 @@
  {
   "id": "s2076:004b5",
   "jp": "なら、ロコモコの最大魔法で、\n終わらせてあげる！",
-  "en": "Then Locomoco will end it with her biggest\nmagic!",
+  "en": "Then Locomoco will end it\nwith her biggest magic!",
   "status": "done",
   "slots": [
    "0x168c"
@@ -247,7 +247,7 @@
  {
   "id": "s2076:004e5",
   "jp": "もうローガンさんもいないってのに\n随分と残業したもんすねぇ。",
-  "en": "Rogan-san's gone and everything, and I've\nstill put in loads of overtime, sir.",
+  "en": "Rogan-san's gone and everything,\nand I've still put in loads of overtime, sir.",
   "status": "done",
   "slots": [
    "0x1760"
@@ -267,7 +267,7 @@
  {
   "id": "s2076:0053a",
   "jp": "貴様を倒せば全てが終わる！\nここで決めさせてもらう！",
-  "en": "Defeat you, and it all ends! I'll settle it\nhere!",
+  "en": "Defeat you, and it all ends!\nI'll settle it here!",
   "status": "done",
   "slots": [
    "0x1842"
@@ -287,7 +287,7 @@
  {
   "id": "s2076:00581",
   "jp": "これでもまだ、復活を諦めないの\nならば、今度こそ私は、アナタを\n滅します！",
-  "en": "If you still won't give up on the revival, then\nthis time I will destroy you!",
+  "en": "If you still won't give up on the revival,\nthen this time I will destroy you!",
   "status": "done",
   "slots": [
    "0x19ce"
@@ -307,7 +307,7 @@
  {
   "id": "s2076:005e7",
   "jp": "これ以上世界を混乱に陥れる\nわけにはいかない！\nいくぞぉぉぉ！！",
-  "en": "I cannot let you throw the world into any\nmore chaos! Here I gooo!!",
+  "en": "I cannot let you throw the world\ninto any more chaos! Here I gooo!!",
   "status": "done",
   "slots": [
    "0x1a9e"
@@ -317,7 +317,7 @@
  {
   "id": "s2076:00626",
   "jp": "アナタ個人に恨みは無いけど、\n自由にお宝探しができないのは\n嫌なのよ。",
-  "en": "I don't have anything against you\npersonally, but I hate not being free to hunt\ntreasure.",
+  "en": "I don't have anything against\nyou personally, but I hate not\nbeing free to hunt treasure.",
   "status": "done",
   "slots": [
    "0x1b6b"
@@ -337,7 +337,7 @@
  {
   "id": "s2076:00686",
   "jp": "この世界もなかなか興味深かった\nけど、どうやらここでお終いのよう\nなんだわさ。",
-  "en": "This world was pretty interesting too, but\nlooks like this is the end, dontcha know.",
+  "en": "This world was pretty interesting too,\nbut looks like this is the end, dontcha know.",
   "status": "done",
   "slots": [
    "0x1c4d"
@@ -411,7 +411,7 @@
  {
   "id": "s2076:0079e",
   "jp": "ルキア皇国皇帝アシュレイ。\nエルマーレ連合国総裁エンリエッタ\n共に死亡……。",
-  "en": "Ashrey, Emperor of the Lukia Empire.\nEnryetta, President of the Elmare\nFederation. Both dead...",
+  "en": "Ashrey, Emperor of the Lukia Empire.\nEnryetta, President of the\nElmare Federation. Both dead...",
   "status": "done",
   "slots": [
    "0x2657"
@@ -433,7 +433,7 @@
  {
   "id": "s2076:00810",
   "jp": "世界を二分する二大国家が、こんな\n海賊にやられたって世間に言ったら\nどうなるんだろうな。",
-  "en": "Wonder what'd happen if we told the world\nthe two great nations splittin' it in half got\nbeat by a bunch of pirates.",
+  "en": "Wonder what'd happen if we told the\nworld the two great nations splittin'\nit in half got beat by a bunch of pirates.",
   "status": "done",
   "slots": [
    "0x267a"
@@ -466,7 +466,7 @@
  {
   "id": "s2076:0089f",
   "jp": "……なぁ。もしもアシュレイが俺と\n一緒に城を出ていたら、こんなこと\nにはならなかったのかな……。",
-  "en": "...Hey. If Ashrey had left the castle with\nme, do ya think none of this would've\nhappened...?",
+  "en": "...Hey. If Ashrey had left the\ncastle with me, do ya think none\nof this would've happened...?",
   "status": "done",
   "slots": [
    "0x26d3"
@@ -477,7 +477,7 @@
  {
   "id": "s2076:00902",
   "jp": "もしもの話は止めましょうよ。\n兄貴らしくありません。",
-  "en": "Let's not talk about what-ifs. It's not like\nyou, Boss.",
+  "en": "Let's not talk about what-ifs.\nIt's not like you, Boss.",
   "status": "done",
   "slots": [
    "0x26e9"
@@ -565,7 +565,7 @@
  {
   "id": "s2076:009ee",
   "jp": "転生体を作れるほどの\n強いウィルが、アシュレイを\n無理やり生かしてるんだ！",
-  "en": "A Will strong enough to create\nreincarnations is forcing Ashrey to stay\nalive!",
+  "en": "A Will strong enough to\ncreate reincarnations is\nforcing Ashrey to stay alive!",
   "status": "done",
   "slots": [
    "0x27c9"

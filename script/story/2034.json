@@ -13,7 +13,7 @@
  {
   "id": "s2034:00045",
   "jp": "名前どおり、水に囲まれてますね。",
-  "en": "Just like the name says, it's surrounded by\nwater.",
+  "en": "Just like the name says,\nit's surrounded by water.",
   "status": "done",
   "slots": [
    "0x158f"
@@ -24,7 +24,7 @@
  {
   "id": "s2034:0006a",
   "jp": "行動範囲がかなり制限されるわね。\nやっかいだわぁ。",
-  "en": "That really limits where we can move. What\na pain.",
+  "en": "That really limits where\nwe can move. What a pain.",
   "status": "done",
   "slots": [
    "0x15a5"
@@ -57,7 +57,7 @@
  {
   "id": "s2034:000d6",
   "jp": "いやぁ、\nなんで俺が指名手配されてるのかが\nどうしても気になってな。",
-  "en": "Well, I just can't stop wondering why I'm\nwanted all of a sudden.",
+  "en": "Well, I just can't stop wondering\nwhy I'm wanted all of a sudden.",
   "status": "done",
   "slots": [
    "0x15fe"
@@ -90,7 +90,7 @@
  {
   "id": "s2034:00168",
   "jp": "アンタ達って、何も知らないのね。\n呆れちゃうわ。",
-  "en": "You guys really don't know anything, do you?\nUnbelievable.",
+  "en": "You guys really don't know anything,\ndo you? Unbelievable.",
   "status": "done",
   "slots": [
    "0x1657"
@@ -112,7 +112,7 @@
  {
   "id": "s2034:001af",
   "jp": "コレだけの金額を出せる国なんて、\nこの世に一国しかないわ。",
-  "en": "There's only one country in the world that\ncould put up this kind of money.",
+  "en": "There's only one country in the world\nthat could put up this kind of money.",
   "status": "done",
   "slots": [
    "0x1697"
@@ -134,7 +134,7 @@
  {
   "id": "s2034:00204",
   "jp": "世界最大最強の軍事国。\nルキア皇国よ。",
-  "en": "The biggest, strongest military power in\nthe world. The Lukia Empire.",
+  "en": "The biggest, strongest military\npower in the world. The Lukia Empire.",
   "status": "done",
   "slots": [
    "0x16e2"
@@ -156,7 +156,7 @@
  {
   "id": "s2034:00245",
   "jp": "世界最大最強の軍事国家ですか……\nぶっとんだ話ですねぇ。",
-  "en": "The world's biggest, strongest military\nnation... That's a crazy story.",
+  "en": "The world's biggest, strongest\nmilitary nation... That's a crazy story.",
   "status": "done",
   "slots": [
    "0x170e"
@@ -178,7 +178,7 @@
  {
   "id": "s2034:002a4",
   "jp": "一周して冷静になりましたよ。\nにしても、とんでもない国が\n敵になってしまいましたよ、兄貴。",
-  "en": "I've come all the way around to calm. Still,\nwe've made a terrible country our enemy,\nBoss.",
+  "en": "I've come all the way around to calm.\nStill, we've made a terrible\ncountry our enemy, Boss.",
   "status": "done",
   "slots": [
    "0x1756"
@@ -189,7 +189,7 @@
  {
   "id": "s2034:00301",
   "jp": "……まぁ、ルルゥと会えただけ\nよしとするか。",
-  "en": "...Well, I got to meet Ruru, so I'll call it\neven.",
+  "en": "...Well, I got to meet Ruru,\nso I'll call it even.",
   "status": "done",
   "slots": [
    "0x176c"
@@ -222,7 +222,7 @@
  {
   "id": "s2034:00379",
   "jp": "……兄貴はほっといて。\nルルゥは、どうしてクリスタルの\n場所を知っているんですか？",
-  "en": "...Let's leave the Boss be. Ruru, how do you\nknow where the Crystal is?",
+  "en": "...Let's leave the Boss be. Ruru,\nhow do you know where the Crystal is?",
   "status": "done",
   "slots": [
    "0x17c2"
@@ -233,7 +233,7 @@
  {
   "id": "s2034:003ce",
   "jp": "違うよ。\nクリスタルから漏れてるウィルを\n探知してるの。",
-  "en": "I don't. I'm detecting the Will leaking out of\nthe Crystal.",
+  "en": "I don't. I'm detecting the Will\nleaking out of the Crystal.",
   "status": "done",
   "slots": [
    "0x17e6"
@@ -244,7 +244,7 @@
  {
   "id": "s2034:00409",
   "jp": "離れた場所にあるウィルを\n探知できるんですか？\nすごいですねぇ。",
-  "en": "You can detect Will from far away? That's\namazing.",
+  "en": "You can detect Will from\nfar away? That's amazing.",
   "status": "done",
   "slots": [
    "0x17fc"
@@ -255,7 +255,7 @@
  {
   "id": "s2034:0044c",
   "jp": "ウィルの探知機なんて最近じゃ\nどこにでも出回ってるけどね。",
-  "en": "Will detectors are all over the place these\ndays, though.",
+  "en": "Will detectors are all over\nthe place these days, though.",
   "status": "done",
   "slots": [
    "0x1812"
@@ -277,7 +277,7 @@
  {
   "id": "s2034:004a3",
   "jp": "まぁ、クリスタルのウィルを探る\nほどの探知機なんて、あるのか\nどうかわからないけどね。",
-  "en": "Well, I don't know if there's a detector good\nenough to track down a Crystal's Will,\nthough.",
+  "en": "Well, I don't know if there's a\ndetector good enough to track\ndown a Crystal's Will, though.",
   "status": "done",
   "slots": [
    "0x183e"
@@ -288,7 +288,7 @@
  {
   "id": "s2034:004fc",
   "jp": "よかったぁ……私の存在意義が\nなくなるところだった……。",
-  "en": "Phew... I almost lost my whole reason for\nexisting...",
+  "en": "Phew... I almost lost my\nwhole reason for existing...",
   "status": "done",
   "slots": [
    "0x1854"
@@ -299,7 +299,7 @@
  {
   "id": "s2034:00538",
   "jp": "俺の剣、クリスタル、ルキア皇国\nそして、ルルゥにグロリア海賊団。\n……濃いなぁ～。",
-  "en": "My sword, the Crystal, the Lukia Empire, and\nnow Ruru and the Gloria Pirates. ...That's a\nlot to take in.",
+  "en": "My sword, the Crystal, the Lukia Empire,\nand now Ruru and the Gloria Pirates.\n...That's a lot to take in.",
   "status": "done",
   "slots": [
    "0x1886"
@@ -310,7 +310,7 @@
  {
   "id": "s2034:0058d",
   "jp": "そうですねぇ。\n昨日まで末端の海賊だったはず\nなんですけどねぇ。",
-  "en": "It sure is. Just yesterday we were\nbottom-rung pirates.",
+  "en": "It sure is. Just yesterday we\nwere bottom-rung pirates.",
   "status": "done",
   "slots": [
    "0x189c"
@@ -332,7 +332,7 @@
  {
   "id": "s2034:005eb",
   "jp": "あ、いや、ルルゥ、\nそういうわけじゃなくてだなぁ！\n俺は、ルルゥがいて嬉しいぞ！",
-  "en": "Ah, no, Ruru, that's not what I meant! I'm\nglad you're here, Ruru!",
+  "en": "Ah, no, Ruru, that's not what I meant!\nI'm glad you're here, Ruru!",
   "status": "done",
   "slots": [
    "0x18e4"
@@ -376,7 +376,7 @@
  {
   "id": "s2034:00683",
   "jp": "ど、どうしたのよ急に……。",
-  "en": "Wh-what's gotten into you all of a\nsudden...?",
+  "en": "Wh-what's gotten into\nyou all of a sudden...?",
   "status": "done",
   "slots": [
    "0x1961"
@@ -387,7 +387,7 @@
  {
   "id": "s2034:006a2",
   "jp": "溢れるせいよ……情熱が抑えられ\nないんじゃないですか？",
-  "en": "It's because it's overflowing... He just can't\nhold back his passion, I'd say.",
+  "en": "It's because it's overflowing...\nHe just can't hold back his passion, I'd say.",
   "status": "done",
   "slots": [
    "0x1993"
@@ -409,7 +409,7 @@
  {
   "id": "s2034:006fc",
   "jp": "走り出す青春も素晴らしいが、\nちょっと止まってもらおうか。",
-  "en": "Youth running off into the sunset is a fine\nthing, but I'm going to have to stop you\nright there.",
+  "en": "Youth running off into the sunset\nis a fine thing, but I'm going to\nhave to stop you right there.",
   "status": "done",
   "slots": [
    "0x19d2"
@@ -464,7 +464,7 @@
  {
   "id": "s2034:0076a",
   "jp": "“黒い牙”リーダー。ブラックモア\nベルガスの兄貴分だ。よろしく。",
-  "en": "Leader of the \"Black Fang,\" Blackmore.\nVelgas's big brother in arms. Pleased to\nmeet you.",
+  "en": "Leader of the \"Black Fang,\"\nBlackmore. Velgas's big brother\nin arms. Pleased to meet you.",
   "status": "done",
   "slots": [
    "0x1bc7"
@@ -508,7 +508,7 @@
  {
   "id": "s2034:00808",
   "jp": "ブラックモア！\nアンタの命も今日までよ！\n覚悟しなさい！",
-  "en": "Blackmore! Today's the last day you live!\nGet ready!",
+  "en": "Blackmore! Today's the last\nday you live! Get ready!",
   "status": "done",
   "slots": [
    "0x1c44"
@@ -596,7 +596,7 @@
  {
   "id": "s2034:0096c",
   "jp": "船長を“もの”扱いかよ。\n愛されてねぇなぁ。",
-  "en": "Calling your captain a \"what,\" are we? He's\nnot very loved, is he?",
+  "en": "Calling your captain a \"what,\"\nare we? He's not very loved, is he?",
   "status": "done",
   "slots": [
    "0x1d2f"
@@ -629,7 +629,7 @@
  {
   "id": "s2034:009f5",
   "jp": "なんとかな……。\nにしてもいきなりすぎるだろ！\nクソッ！　皆、行くぞ！",
-  "en": "More or less... But that was way too sudden!\nDammit! Everyone, let's go!",
+  "en": "More or less... But that was way too\nsudden! Dammit! Everyone, let's go!",
   "status": "done",
   "slots": [
    "0x1d67"
@@ -695,7 +695,7 @@
  {
   "id": "s2034:00b08",
   "jp": "お前はホンッットに\n俺の邪魔しかしねぇな！",
-  "en": "You really never do anything but get in my\nway, do ya!?",
+  "en": "You really never do anything\nbut get in my way, do ya!?",
   "status": "done",
   "slots": [
    "0x22f3"
@@ -706,7 +706,7 @@
  {
   "id": "s2034:00b36",
   "jp": "るせぇ！\n俺はお前に勝たなきゃ\n死んでも死にきれねぇんだ！",
-  "en": "Shaddup! If I don't beat you, I can't die in\npeace!",
+  "en": "Shaddup! If I don't beat you,\nI can't die in peace!",
   "status": "done",
   "slots": [
    "0x230c"
@@ -717,7 +717,7 @@
  {
   "id": "s2034:00b73",
   "jp": "お前に用はねぇ。\n大人しくイシュトの陰に隠れてな。",
-  "en": "I got no business with you. Be a good kitty\nand go hide behind Ishut.",
+  "en": "I got no business with you.\nBe a good kitty and go hide behind Ishut.",
   "status": "done",
   "slots": [
    "0x23f6"
@@ -727,7 +727,7 @@
  {
   "id": "s2034:00ba5",
   "jp": "兄貴に勝ちたいなら、\nまずはボクを倒す事ですね。",
-  "en": "If you want to beat the Boss, you'll have to\nbeat me first.",
+  "en": "If you want to beat the Boss,\nyou'll have to beat me first.",
   "status": "done",
   "slots": [
    "0x2410"
@@ -737,7 +737,7 @@
  {
   "id": "s2034:00bd5",
   "jp": "アナタ、本当に悪い人なの？\n悪いウィルは感じられないのに……",
-  "en": "Are you really a bad person? I can't sense\nany bad Will in you...",
+  "en": "Are you really a bad person?\nI can't sense any bad Will in you...",
   "status": "done",
   "slots": [
    "0x24e4"
@@ -767,7 +767,7 @@
  {
   "id": "s2034:00c83",
   "jp": "俺は強くなるんだ！\nその為なら、どんな奴の下にでも\nついてやらぁ！",
-  "en": "I'm gonna get stronger! If that's what it\ntakes, I'll follow anybody!",
+  "en": "I'm gonna get stronger! If that's\nwhat it takes, I'll follow anybody!",
   "status": "done",
   "slots": [
    "0x25ea"
@@ -821,7 +821,7 @@
  {
   "id": "s2034:00d3d",
   "jp": "相変わらずの回復力ですね。\nどうなってるんですかその体？\nちょっと脱いでくださいよ。",
-  "en": "Your recovery's as fast as ever. What's\ngoing on with that body of yours? Take your\nclothes off for a sec.",
+  "en": "Your recovery's as fast as ever.\nWhat's going on with that body of yours?\nTake your clothes off for a sec.",
   "status": "done",
   "slots": [
    "0x2f5f"
@@ -865,7 +865,7 @@
  {
   "id": "s2034:00de1",
   "jp": "俺も持ってねぇな。\n気合入れるために一気食い\nしちまった。",
-  "en": "I don't have any either. I wolfed it all down\nto psych myself up.",
+  "en": "I don't have any either.\nI wolfed it all down to psych myself up.",
   "status": "done",
   "slots": [
    "0x2fdc"
@@ -909,7 +909,7 @@
  {
   "id": "s2034:00e76",
   "jp": "ル、ルルゥ！？　どうしたんだ。\nいきなり壁を殴るなんて……壁が\nちょっと壊れたぞ。",
-  "en": "R-Ruru!? What's wrong? Punching the wall\nout of nowhere... The wall's a little broken\nnow.",
+  "en": "R-Ruru!? What's wrong?\nPunching the wall out of nowhere...\nThe wall's a little broken now.",
   "status": "done",
   "slots": [
    "0x3080"
@@ -920,7 +920,7 @@
  {
   "id": "s2034:00ecb",
   "jp": "「チッ、食料もねぇのかよ！\nこの甲斐性なしが！」\nってことなんじゃないですか？",
-  "en": "I think she means, \"Tch, you don't even have\nfood!? You useless man!\"",
+  "en": "I think she means, \"Tch, you don't\neven have food!? You useless man!\"",
   "status": "done",
   "slots": [
    "0x30b5"
@@ -931,7 +931,7 @@
  {
   "id": "s2034:00f1c",
   "jp": "そ、そうなのか！？\nはあぁ俺はなんて不甲斐ない男\nなんだ……！",
-  "en": "Is that so!? Aaah, what a pathetic man I\nam...!",
+  "en": "Is that so!? Aaah,\nwhat a pathetic man I am...!",
   "status": "done",
   "slots": [
    "0x30ce"
@@ -1041,7 +1041,7 @@
  {
   "id": "s2034:010b8",
   "jp": "いやいやいや！　ちょっとは\nおかしいと思いなさいよ！",
-  "en": "No no no! You should think that's at least a\nlittle weird!",
+  "en": "No no no! You should think\nthat's at least a little weird!",
   "status": "done",
   "slots": [
    "0x31f9"
@@ -1063,7 +1063,7 @@
  {
   "id": "s2034:01115",
   "jp": "よし！　エネルギー回復！\n三人とも、行くよッ！\n早くしないとクリスタルが！",
-  "en": "Okay! Energy restored! Come on, you three!\nIf we don't hurry, the Crystal...!",
+  "en": "Okay! Energy restored! Come on,\nyou three! If we don't hurry, the Crystal...!",
   "status": "done",
   "slots": [
    "0x3244"
@@ -1106,7 +1106,7 @@
  {
   "id": "s2034:011b1",
   "jp": "金貨じゃねぇか！\nうわぁ初めて見た！　すっげぇ！",
-  "en": "It's a gold coin! Whoa, first time I've seen\none! Amazing!",
+  "en": "It's a gold coin! Whoa,\nfirst time I've seen one! Amazing!",
   "status": "done",
   "slots": [
    "0x205d"
@@ -1126,7 +1126,7 @@
  {
   "id": "s2034:011f0",
   "jp": "金貨じゃないですか！\nいやぁ、海賊始めて\n初めてのお宝ですよ。",
-  "en": "A gold coin! My, my, our first treasure since\nwe started pirating.",
+  "en": "A gold coin! My, my, our first\ntreasure since we started pirating.",
   "status": "done",
   "slots": [
    "0x20f4"
@@ -1146,7 +1146,7 @@
  {
   "id": "s2034:0123a",
   "jp": "うーん、遺跡の欠片だったら\n嬉しかったんだけどなぁ。",
-  "en": "Hmm, I would've been happier with a ruin\nshard.",
+  "en": "Hmm, I would've been\nhappier with a ruin shard.",
   "status": "done",
   "slots": [
    "0x218b"

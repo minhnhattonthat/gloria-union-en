@@ -1672,7 +1672,7 @@
  {
   "id": "e:281048",
   "jp": "謎の女",
-  "en": "Mystery Woman",
+  "en": "Mystery Lady",
   "status": "done",
   "slots": [
    "w:2eec70"
@@ -1681,7 +1681,7 @@
  {
   "id": "e:281050",
   "jp": "ナゾノオンナ",
-  "en": "Mystery Woman",
+  "en": "Mystery Lady",
   "status": "done",
   "slots": [
    "w:2eec78"
@@ -1763,7 +1763,7 @@
  {
   "id": "e:2810dc",
   "jp": "気合全開の青年",
-  "en": "Fired-Up Youth",
+  "en": "Fired-Up Lad",
   "status": "done",
   "slots": [
    "w:2eece8"
@@ -1817,7 +1817,7 @@
  {
   "id": "e:28113c",
   "jp": "目つきの悪い男",
-  "en": "Shifty-Eyed Guy",
+  "en": "Glaring Man",
   "status": "done",
   "slots": [
    "w:2eed30"
@@ -1880,7 +1880,7 @@
  {
   "id": "e:2811a4",
   "jp": "謎の美女",
-  "en": "Mystery Beauty",
+  "en": "Mystery Belle",
   "status": "done",
   "slots": [
    "w:2eed84"
@@ -1907,7 +1907,7 @@
  {
   "id": "e:2811cc",
   "jp": "不思議な雰囲気の人",
-  "en": "Strange Person",
+  "en": "Odd Stranger",
   "status": "done",
   "slots": [
    "w:2eeda8"
@@ -1961,7 +1961,7 @@
  {
   "id": "e:281224",
   "jp": "皇国騎士団員",
-  "en": "Imperial Knight",
+  "en": "Empire Knight",
   "status": "done",
   "slots": [
    "w:2eedf0"
@@ -1970,7 +1970,7 @@
  {
   "id": "e:281234",
   "jp": "バッソフォンド兵",
-  "en": "Bassofondo Man",
+  "en": "Bassofondan",
   "status": "done",
   "slots": [
    "w:2eedfc"
@@ -1988,7 +1988,7 @@
  {
   "id": "e:28125c",
   "jp": "シャンティエの騎士",
-  "en": "Chantier Knight",
+  "en": "Chantier Blade",
   "status": "done",
   "slots": [
    "w:2eee14"
@@ -2060,7 +2060,7 @@
  {
   "id": "e:2812b8",
   "jp": "反対派の男性",
-  "en": "Opposition Man",
+  "en": "Dissenter",
   "status": "done",
   "slots": [
    "w:2eee74"
@@ -2330,7 +2330,7 @@
  {
   "id": "e:281434",
   "jp": "慈愛ある老婆",
-  "en": "Kind Old Woman",
+  "en": "Kind Old Lady",
   "status": "done",
   "slots": [
    "w:2eefe8"
@@ -2357,7 +2357,7 @@
  {
   "id": "e:281460",
   "jp": "歓喜する女性",
-  "en": "Overjoyed Lady",
+  "en": "Elated Woman",
   "status": "done",
   "slots": [
    "w:2ef00c"
@@ -2411,7 +2411,7 @@
  {
   "id": "e:2814b0",
   "jp": "綺麗好き少女",
-  "en": "Neat-Freak Girl",
+  "en": "Tidy Girl",
   "status": "done",
   "slots": [
    "w:2ef054"
@@ -2447,7 +2447,7 @@
  {
   "id": "e:2814e8",
   "jp": "勇敢な商人",
-  "en": "Brave Merchant",
+  "en": "Bold Merchant",
   "status": "done",
   "slots": [
    "w:2ef084"
@@ -2465,7 +2465,7 @@
  {
   "id": "e:281500",
   "jp": "涙ぐむ商人",
-  "en": "Teary Merchant",
+  "en": "Teary Trader",
   "status": "done",
   "slots": [
    "w:2ef09c"
@@ -2537,7 +2537,7 @@
  {
   "id": "e:281558",
   "jp": "かつての名医",
-  "en": "Once-Great Doc",
+  "en": "Ex-Top Doctor",
   "status": "done",
   "slots": [
    "w:2ef0fc"
@@ -2582,7 +2582,7 @@
  {
   "id": "e:28159c",
   "jp": "支援隊隊長",
-  "en": "Lead Supporter",
+  "en": "Support Chief",
   "status": "done",
   "slots": [
    "w:2ef138"
@@ -2618,7 +2618,7 @@
  {
   "id": "e:2815c8",
   "jp": "明るい好青年",
-  "en": "Nice Young Man",
+  "en": "Cheery Youth",
   "status": "done",
   "slots": [
    "w:2ef168"
@@ -2682,7 +2682,7 @@
  {
   "id": "e:281620",
   "jp": "防衛のリーダー",
-  "en": "Defense Leader",
+  "en": "Defense Chief",
   "status": "done",
   "slots": [
    "w:2ef1bc"
@@ -2773,7 +2773,7 @@
  {
   "id": "e:28169c",
   "jp": "港の漁師",
-  "en": "Port Fisherman",
+  "en": "Port Angler",
   "status": "done",
   "slots": [
    "w:2ef240"

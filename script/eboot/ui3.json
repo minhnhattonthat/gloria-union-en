@@ -1947,7 +1947,7 @@
  {
   "id": "e:284970",
   "jp": "うひゃぁ～冷たくて気持ちい\nわねぇ～！",
-  "en": "Ooh, it's cold and feels so\ngood, darling!",
+  "en": "Ooh, it's cold and\nfeels so good, darling!",
   "status": "done",
   "slots": [
    "w:2f6ca4"
@@ -1956,7 +1956,7 @@
  {
   "id": "e:284998",
   "jp": "よぉし！　あの岩のところまで\n泳ぐわよぉ！",
-  "en": "Alright! I'm swimming out\nto that rock!",
+  "en": "Alright! I'm swimming\nout to that rock!",
   "status": "done",
   "slots": [
    "w:2f6cac"
@@ -1965,7 +1965,7 @@
  {
   "id": "e:2849c4",
   "jp": "ふぅ……。\nあぁ気持ちよかった。\nそろそろあがろうかしらね。",
-  "en": "Phew... Ah, that felt\nwonderful. Shall I get out\nsoon, I wonder?",
+  "en": "Phew... Ah, that felt\nwonderful. Shall I get\nout soon, I wonder?",
   "status": "done",
   "slots": [
    "w:2f6cb4"
@@ -1974,7 +1974,7 @@
  {
   "id": "e:284a00",
   "jp": "ん～！　水がとうめいでとっても\nきれい！",
-  "en": "Mmm! The water's so clear\nand pretty!",
+  "en": "Mmm! The water's\nso clear and pretty!",
   "status": "done",
   "slots": [
    "w:2f6cbc"
@@ -1983,7 +1983,7 @@
  {
   "id": "e:284a28",
   "jp": "なんか水に入ってないみたい～。",
-  "en": "It's like I'm not even in the\nwater!",
+  "en": "It's like I'm not\neven in the water!",
   "status": "done",
   "slots": [
    "w:2f6cc4"
@@ -1992,7 +1992,7 @@
  {
   "id": "e:284a48",
   "jp": "ぶくぶくぶく……ぷはぁ！\nあ～、気持ちよかった！",
-  "en": "Blub blub blub... pwah! Ahh,\nthat felt great!",
+  "en": "Blub blub blub... pwah!\nAhh, that felt great!",
   "status": "done",
   "slots": [
    "w:2f6ccc"
@@ -2010,7 +2010,7 @@
  {
   "id": "e:284ab4",
   "jp": "兄貴のタイダルウェイブで\nサーフィンもしてみたい\nですねぇ。怒られそうですが……。",
-  "en": "I'd love to surf the Boss's\nTidal Wave. He'd yell at\nme, though...",
+  "en": "I'd love to surf the\nBoss's Tidal Wave.\nHe'd yell at me, though...",
   "status": "done",
   "slots": [
    "w:2f6cdc"
@@ -2019,7 +2019,7 @@
  {
   "id": "e:284b08",
   "jp": "……さて、そろそろ行きますか。\n皆さんいますかねぇ？",
-  "en": "...Well, shall we get going?\nIs everyone here, I\nwonder?",
+  "en": "...Well, shall we get\ngoing? Is everyone\nhere, I wonder?",
   "status": "done",
   "slots": [
    "w:2f6ce4"
@@ -2028,7 +2028,7 @@
  {
   "id": "e:284b3c",
   "jp": "あー！　風がきもちー！\n水もつめたいし、さいこーだね！",
-  "en": "Aah! The wind feels great!\nAnd the water's cold, it's\nthe best!",
+  "en": "Aah! The wind feels great!\nAnd the water's cold,\nit's the best!",
   "status": "done",
   "slots": [
    "w:2f6cec"
@@ -2037,7 +2037,7 @@
  {
   "id": "e:284b74",
   "jp": "はぁ～、もうこのままねちゃおう\nかなぁ……。",
-  "en": "Haa... Maybe I'll just fall\nasleep like this...",
+  "en": "Haa... Maybe I'll just\nfall asleep like this...",
   "status": "done",
   "slots": [
    "w:2f6cf4"
@@ -2055,7 +2055,7 @@
  {
   "id": "e:284bd4",
   "jp": "ふい～。冷たくてきんもちぃっす。",
-  "en": "Phew. It's cold and feels\nso good, sir.",
+  "en": "Phew. It's cold and\nfeels so good, sir.",
   "status": "done",
   "slots": [
    "w:2f6d04"
@@ -2064,7 +2064,7 @@
  {
   "id": "e:284bf8",
   "jp": "課長もたまにはこういう癒しを\nくれないっすかねぇ～。",
-  "en": "Wish my section chief gave\nus a break like this now\nand then, sir.",
+  "en": "Wish my section chief\ngave us a break like\nthis now and then, sir.",
   "status": "done",
   "slots": [
    "w:2f6d0c"
@@ -2073,7 +2073,7 @@
  {
   "id": "e:284c2c",
   "jp": "……なんか、仕事のことを思い出し\nたら落ち着かなくなってきて\nしまったっす。",
-  "en": "...Thinking about work\nkinda made me restless,\nsir.",
+  "en": "...Thinking about\nwork kinda made\nme restless, sir.",
   "status": "done",
   "slots": [
    "w:2f6d14"
@@ -2100,7 +2100,7 @@
  {
   "id": "e:284cdc",
   "jp": "世界を震撼させる物語が\n今、始まる……。",
-  "en": "A tale that will shake the\nworld begins now...",
+  "en": "A tale that will shake\nthe world begins now...",
   "status": "done",
   "slots": [
    "w:2f6d74"
@@ -2136,7 +2136,7 @@
  {
   "id": "e:284d58",
   "jp": "海王神殿、その先には\n黒い牙が待ち構えていた",
-  "en": "Beyond the Sea King's\nTemple, the Black Fang lies\nin wait",
+  "en": "Beyond the Sea\nKing's Temple, the\nBlack Fang lies in wait",
   "status": "done",
   "slots": [
    "w:2f6d8c"
@@ -2154,7 +2154,7 @@
  {
   "id": "e:284d8c",
   "jp": "水のクリスタルは目の前！\n果たして誰の手に渡るのか",
-  "en": "The water Crystal is right\nthere! Whose hands will it\nfall into?",
+  "en": "The water Crystal is\nright there! Whose\nhands will it fall into?",
   "status": "done",
   "slots": [
    "w:2f6d98"
@@ -2191,7 +2191,7 @@
  {
   "id": "e:284e14",
   "jp": "囚われの身になっていた\nエリーシャの父親とは…",
-  "en": "Elisha's father, held\ncaptive, is...",
+  "en": "Elisha's father,\nheld captive, is...",
   "status": "done",
   "slots": [
    "w:2f6db0"
@@ -2218,7 +2218,7 @@
  {
   "id": "e:284e88",
   "jp": "脱獄！！ 栄光の海へ",
-  "en": "Breakout!! To the Seas of\nGlory",
+  "en": "Breakout!!\nTo the Seas of Glory",
   "status": "done",
   "slots": [
    "w:2f6dc4"
@@ -2254,7 +2254,7 @@
  {
   "id": "e:284f08",
   "jp": "異世界からの来訪者",
-  "en": "Visitor from Another\nWorld",
+  "en": "Visitor from\nAnother World",
   "status": "done",
   "slots": [
    "w:2f6ddc"
@@ -2263,7 +2263,7 @@
  {
   "id": "e:284f1c",
   "jp": "毒沼に囲まれた島。\nそこで出会ったのは…",
-  "en": "An island ringed by poison\nswamps. Who they meet\nthere is...",
+  "en": "An island ringed\nby poison swamps.\nWho they meet there is...",
   "status": "done",
   "slots": [
    "w:2f6de0"
@@ -2317,7 +2317,7 @@
  {
   "id": "e:284fec",
   "jp": "古代から続く由緒ある街は\n黒い牙に襲われていた！",
-  "en": "An old, storied town is\nunder attack by the Black\nFang!",
+  "en": "An old, storied town\nis under attack\nby the Black Fang!",
   "status": "done",
   "slots": [
    "w:2f6e04"
@@ -2335,7 +2335,7 @@
  {
   "id": "e:28502c",
   "jp": "何にしても樽だらけの島。\nこの中にお宝はあるのか？",
-  "en": "An island full of barrels,\nwhatever you do. Is there\ntreasure in one?",
+  "en": "An island full of barrels,\nwhatever you do.\nIs there treasure in one?",
   "status": "done",
   "slots": [
    "w:2f6e10"
@@ -2407,7 +2407,7 @@
  {
   "id": "e:285114",
   "jp": "ルキア皇国の将軍クラス。\nはたしてその実力は…",
-  "en": "A general of the Lukia\nEmpire. Just how strong is\nhe...",
+  "en": "A general of the\nLukia Empire. Just\nhow strong is he...",
   "status": "done",
   "slots": [
    "w:2f6e40"
@@ -2444,7 +2444,7 @@
  {
   "id": "e:2851a0",
   "jp": "風神の道を目の前にして、\nイシュト達を襲ったのは…",
-  "en": "Before the Wind God's\nRoad, what attacks Ishut's\ncrew is...",
+  "en": "Before the Wind God's\nRoad, what attacks\nIshut's crew is...",
   "status": "done",
   "slots": [
    "w:2f6e58"
@@ -2462,7 +2462,7 @@
  {
   "id": "e:2851e8",
   "jp": "遺跡の奥で出会ったのは、\nピンガーの怨敵であった。",
-  "en": "Deep in the ruin, they\nmeet Pinger's sworn\nenemy.",
+  "en": "Deep in the ruin,\nthey meet Pinger's\nsworn enemy.",
   "status": "done",
   "slots": [
    "w:2f6e64",
@@ -2481,7 +2481,7 @@
  {
   "id": "e:285230",
   "jp": "イシュトが釣り上げたのは\n古代遺跡の番人であった！",
-  "en": "What Ishut fished up was\nthe guardian of an ancient\nruin!",
+  "en": "What Ishut fished\nup was the guardian\nof an ancient ruin!",
   "status": "done",
   "slots": [
    "w:2f6e70"
@@ -2499,7 +2499,7 @@
  {
   "id": "e:285274",
   "jp": "大地の槍を目の前にして\nイシュト達を襲ったのは…",
-  "en": "Before the Earth Spear,\nwhat attacks Ishut's crew\nis...",
+  "en": "Before the Earth\nSpear, what attacks\nIshut's crew is...",
   "status": "done",
   "slots": [
    "w:2f6e7c"
@@ -2526,7 +2526,7 @@
  {
   "id": "e:2852c8",
   "jp": "思い出はふとした時に蘇る\nそして、彼もまた…",
-  "en": "Memories come back when\nyou least expect. And he,\ntoo...",
+  "en": "Memories come back\nwhen you least expect.\nAnd he, too...",
   "status": "done",
   "slots": [
    "w:2f6e94"
@@ -2535,7 +2535,7 @@
  {
   "id": "e:2852f4",
   "jp": "金髪の美少年現る！",
-  "en": "A handsome blond boy\nappears!",
+  "en": "A handsome blond\nboy appears!",
   "status": "done",
   "slots": [
    "w:2f6e9c"
@@ -2562,7 +2562,7 @@
  {
   "id": "e:285350",
   "jp": "ローガンを追うグロリア。\nそこで出会った人物とは…",
-  "en": "The Gloria chases Rogan.\nAnd the person they meet\nthere is...",
+  "en": "The Gloria chases Rogan.\nAnd the person\nthey meet there is...",
   "status": "done",
   "slots": [
    "w:2f6eac"
@@ -2598,7 +2598,7 @@
  {
   "id": "e:2853e8",
   "jp": "助けを求める声がする。\nヒーローになれる予感…",
-  "en": "A voice calls for help. A\nchance to be a hero...",
+  "en": "A voice calls for help.\nA chance to be a hero...",
   "status": "done",
   "slots": [
    "w:2f6ec4"
@@ -2607,7 +2607,7 @@
  {
   "id": "e:285418",
   "jp": "腐海を照らす光",
-  "en": "Light Over the Rotting\nSea",
+  "en": "Light Over the\nRotting Sea",
   "status": "done",
   "slots": [
    "w:2f6ecc"
@@ -2616,7 +2616,7 @@
  {
   "id": "e:285428",
   "jp": "かつての麗水都市の女王。\nその身はすでに限界だった",
-  "en": "The queen of the former\nCity of Fair Waters. Her\nbody was at its limit",
+  "en": "The queen of the former\nCity of Fair Waters.\nHer body was at its limit",
   "status": "done",
   "slots": [
    "w:2f6ed0"
@@ -2634,7 +2634,7 @@
  {
   "id": "e:28546c",
   "jp": "最前線で戦う貧困都市。\nその実態とは…",
-  "en": "A poor city fighting on\nthe front line. The truth\nis...",
+  "en": "A poor city fighting\non the front line.\nThe truth is...",
   "status": "done",
   "slots": [
    "w:2f6edc"
@@ -2688,7 +2688,7 @@
  {
   "id": "e:285534",
   "jp": "開発者トレイシー。\n彼女が開発を行う理由とは",
-  "en": "Tracey the Developer.\nWhat drives her to\ndevelop?",
+  "en": "Tracey the Developer.\nWhat drives her\nto develop?",
   "status": "done",
   "slots": [
    "w:2f6f00"
@@ -2715,7 +2715,7 @@
  {
   "id": "e:28559c",
   "jp": "科学者という名のケモノ",
-  "en": "The Beast Called a\nScientist",
+  "en": "The Beast Called\na Scientist",
   "status": "done",
   "slots": [
    "w:2f6f14"
@@ -2724,7 +2724,7 @@
  {
   "id": "e:2855b4",
   "jp": "光の海域で行われていた\n恐るべき実験とは…",
-  "en": "What terrible experiment\nwas under way in the Sea\nof Light...",
+  "en": "What terrible experiment\nwas under way in\nthe Sea of Light...",
   "status": "done",
   "slots": [
    "w:2f6f18"
@@ -2742,7 +2742,7 @@
  {
   "id": "e:2855f0",
   "jp": "犠牲なくして平和は無い。\nエンリエッタが立ち塞がる",
-  "en": "No peace without\nsacrifice. Enryetta stands\nin the way",
+  "en": "No peace without\nsacrifice. Enryetta\nstands in the way",
   "status": "done",
   "slots": [
    "w:2f6f24"
@@ -2760,7 +2760,7 @@
  {
   "id": "e:28562c",
   "jp": "同じ過去を持った三人。\nその一人の命が、今…",
-  "en": "Three with the same past.\nThe life of one of them,\nnow...",
+  "en": "Three with the same\npast. The life of\none of them, now...",
   "status": "done",
   "slots": [
    "w:2f6f30"
@@ -2778,7 +2778,7 @@
  {
   "id": "e:285670",
   "jp": "力を求め続けた男がいた。\n求め続け、そして…",
-  "en": "There was a man who\nsought power. Sought it,\nand then...",
+  "en": "There was a man\nwho sought power.\nSought it, and then...",
   "status": "done",
   "slots": [
    "w:2f6f3c"
@@ -2796,7 +2796,7 @@
  {
   "id": "e:2856a4",
   "jp": "アシュレイとの初戦。\n彼の実力やいかに…",
-  "en": "The first battle with\nAshrey. Just how strong is\nhe...",
+  "en": "The first battle\nwith Ashrey. Just\nhow strong is he...",
   "status": "done",
   "slots": [
    "w:2f6f48"
@@ -2814,7 +2814,7 @@
  {
   "id": "e:2856e0",
   "jp": "ルキア皇国騎士団将軍。\n二人の意思は、王の幸福。",
-  "en": "Generals of the Lukia\nImperial Knights. Their will:\ntheir king's happiness.",
+  "en": "Generals of the Lukia\nImperial Knights. Their\nwill: their king's happiness.",
   "status": "done",
   "slots": [
    "w:2f6f54"
@@ -2850,7 +2850,7 @@
  {
   "id": "e:285768",
   "jp": "突如として現れた謎の人物\nキーラとはいったい…",
-  "en": "A mystery person appears\nout of nowhere. Who is\nKyra...",
+  "en": "A mystery person\nappears out of nowhere.\nWho is Kyra...",
   "status": "done",
   "slots": [
    "w:2f6f6c"
@@ -2868,7 +2868,7 @@
  {
   "id": "e:2857a8",
   "jp": "幸福のために生きてきた。\nただそれだけのために…",
-  "en": "He lived for happiness. For\nthat alone...",
+  "en": "He lived for happiness.\nFor that alone...",
   "status": "done",
   "slots": [
    "w:2f6f78"
@@ -2886,7 +2886,7 @@
  {
   "id": "e:2857f0",
   "jp": "アシュレイとの決着。\nユーフォリアとの決着。",
-  "en": "Settling things with\nAshrey. Settling things\nwith Euforia.",
+  "en": "Settling things with\nAshrey. Settling\nthings with Euforia.",
   "status": "done",
   "slots": [
    "w:2f6f84"
@@ -2904,7 +2904,7 @@
  {
   "id": "e:28582c",
   "jp": "十七年間築き上げてきた。\nその栄光の道が開かれる",
-  "en": "Built up over seventeen\nyears, the road of glory\nopens",
+  "en": "Built up over\nseventeen years,\nthe road of glory opens",
   "status": "done",
   "slots": [
    "w:2f6f90"
@@ -2922,7 +2922,7 @@
  {
   "id": "e:285870",
   "jp": "真に発揮される王族の力。\nその圧倒的な力を前に…",
-  "en": "The power of royalty,\ntruly unleashed. Before its\noverwhelming might...",
+  "en": "The power of royalty,\ntruly unleashed. Before\nits overwhelming might...",
   "status": "done",
   "slots": [
    "w:2f6f9c"
@@ -2931,7 +2931,7 @@
  {
   "id": "e:2858a0",
   "jp": "大海の先に見えるもの…",
-  "en": "What Lies Past the\nOcean...",
+  "en": "What Lies Past\nthe Ocean...",
   "status": "done",
   "slots": [
    "w:2f6fa4"
@@ -2940,7 +2940,7 @@
  {
   "id": "e:2858b8",
   "jp": "戦争から一年が経った今、\nイシュトは海を見ていた…",
-  "en": "A year after the war,\nIshut was gazing at the\nsea...",
+  "en": "A year after the war,\nIshut was gazing\nat the sea...",
   "status": "done",
   "slots": [
    "w:2f6fa8"
@@ -2958,7 +2958,7 @@
  {
   "id": "e:285900",
   "jp": "栄光を掴んだ偉大な海賊は\n再び海へと旅立った！",
-  "en": "The great pirate who\nseized glory set out to sea\nagain!",
+  "en": "The great pirate\nwho seized glory\nset out to sea again!",
   "status": "done",
   "slots": [
    "w:2f6fb4"
@@ -3030,7 +3030,7 @@
  {
   "id": "e:285a20",
   "jp": "誰もいない開放感に\nピンガーは何かを解き放つ",
-  "en": "Freed by the empty beach,\nPinger lets something\nloose",
+  "en": "Freed by the empty\nbeach, Pinger lets\nsomething loose",
   "status": "done",
   "slots": [
    "w:2f6fe4"
@@ -3048,7 +3048,7 @@
  {
   "id": "e:285a5c",
   "jp": "夏には暑いポンチョ。\n我慢できないロコモコは…",
-  "en": "A poncho is hot in summer.\nUnable to bear it,\nLocomoco...",
+  "en": "A poncho is hot in\nsummer. Unable to\nbear it, Locomoco...",
   "status": "done",
   "slots": [
    "w:2f6ff0"
@@ -3093,7 +3093,7 @@
  {
   "id": "e:285b78",
   "jp": "グロリア海賊団副船長を務め、\n２丁拳銃の名手でもある\nしっかり者の女の子。",
-  "en": "The Gloria's level-headed\nfirst mate and an ace with\ntwin pistols.",
+  "en": "The Gloria's level-headed\nfirst mate and an ace\nwith twin pistols.",
   "status": "done",
   "slots": [
    "w:2f71cc"
@@ -3120,7 +3120,7 @@
  {
   "id": "e:285c60",
   "jp": "古代遺跡を調査する考古学者。\nマナーにうるさく、守らない者\nには問答無用で斬りかかる。",
-  "en": "An archaeologist of ruins.\nShe cuts down the\nill-mannered.",
+  "en": "An archaeologist of\nruins. She cuts down\nthe ill-mannered.",
   "status": "done",
   "slots": [
    "w:2f7220"
@@ -3129,7 +3129,7 @@
  {
   "id": "e:285cb8",
   "jp": "魔法の国の幼き魔法少女。\n“シンフォニア”を探すため\n現世へとやってきた。",
-  "en": "A young magical girl from\nthe land of magic, here to\nfind \"Symphonia.\"",
+  "en": "A young magical girl\nfrom the land of magic,\nhere to find \"Symphonia.\"",
   "status": "done",
   "slots": [
    "w:2f723c"
@@ -3174,7 +3174,7 @@
  {
   "id": "e:285e0c",
   "jp": "シャルム海賊団の女船長。\n妖艶な容姿と優れた剣の腕で、\n世界中のお宝の獲得を企む。",
-  "en": "Charme Pirates captain.\nAlluring, a fine sword, and\nafter all treasure.",
+  "en": "Charme Pirates captain.\nAlluring, a fine sword,\nand after all treasure.",
   "status": "done",
   "slots": [
    "w:2f72ac"
@@ -3183,7 +3183,7 @@
  {
   "id": "e:285e60",
   "jp": "熱血を通り越した灼熱の青年。\n気合の雄叫びと共に戦場を\n縦横無尽に駆け回る！",
-  "en": "Hotter than hot-blooded.\nWith a war cry, he storms\nthe battlefield!",
+  "en": "Hotter than hot-blooded.\nWith a war cry, he\nstorms the battlefield!",
   "status": "done",
   "slots": [
    "w:2f72c8"
@@ -3210,7 +3210,7 @@
  {
   "id": "e:285f54",
   "jp": "黒真珠のようなロングヘアーを\nなびかせ演奏する竪琴の音に、\n敵はもうメロメロだ！",
-  "en": "Black-pearl hair flowing,\nshe plays her harp, and\nfoes are smitten!",
+  "en": "Black-pearl hair flowing,\nshe plays her harp,\nand foes are smitten!",
   "status": "done",
   "slots": [
    "w:2f731c"
@@ -3264,7 +3264,7 @@
  {
   "id": "e:286144",
   "jp": "レバレッジ商団の女団長にして\n“開発者”と呼ばれる錬金術師\nの女性。",
-  "en": "Leader of the Leverage\nGuild, an alchemist called\n\"the Developer.\"",
+  "en": "Leader of the Leverage\nGuild, an alchemist\ncalled \"the Developer.\"",
   "status": "done",
   "slots": [
    "w:2f73c4"
@@ -3273,7 +3273,7 @@
  {
   "id": "e:286188",
   "jp": "ルキア皇国騎士団一番隊隊長。\n攻撃こそ最大の強さ、が信条。\n通称“神槍のガルム”",
-  "en": "Lukia's First Unit captain.\nAttack is all. \"Garm the\nDivine Spear.\"",
+  "en": "Lukia's First Unit captain.\nAttack is all. \"Garm\nthe Divine Spear.\"",
   "status": "done",
   "slots": [
    "w:2f73e0"
@@ -3282,7 +3282,7 @@
  {
   "id": "e:2861d8",
   "jp": "ルキア皇国騎士団三番隊隊長。\n防御と陣形こそ最大の攻撃。\n通称“守護神メラニー”",
-  "en": "Lukia's Third Unit captain.\nDefence is all. \"Melanie the\nGuardian.\"",
+  "en": "Lukia's Third Unit\ncaptain. Defence is all.\n\"Melanie the Guardian.\"",
   "status": "done",
   "slots": [
    "w:2f73fc"
@@ -3291,7 +3291,7 @@
  {
   "id": "e:286228",
   "jp": "“力こそ正義”を謳う宰相。\n平和への道を阻む者は、誰で\nあろうと切り捨てる非情な男。",
-  "en": "The Chancellor of \"might\nis right.\" He cuts down all\nwho block peace.",
+  "en": "The Chancellor of \"might\nis right.\" He cuts down\nall who block peace.",
   "status": "done",
   "slots": [
    "w:2f7418"
@@ -3336,7 +3336,7 @@
  {
   "id": "e:286398",
   "jp": "性別不明のユーフォリア人。\n物語の過去に関係する重要な\n人物の一人である。",
-  "en": "A Euforian of unknown\ngender, key to the story's\npast.",
+  "en": "A Euforian of\nunknown gender,\nkey to the story's past.",
   "status": "done",
   "slots": [
    "w:2f7488"
@@ -3354,7 +3354,7 @@
  {
   "id": "e:286438",
   "jp": "ルルゥを元とする人型兵器。\n容姿が極めて似ているが、\n言語能力は乏しい。",
-  "en": "A humanoid weapon based\non Ruru. Looks alike, but\ncan barely speak.",
+  "en": "A humanoid weapon\nbased on Ruru. Looks alike,\nbut can barely speak.",
   "status": "done",
   "slots": [
    "w:2f74c0"
@@ -3372,7 +3372,7 @@
  {
   "id": "e:2864d0",
   "jp": "ルルゥ本来の姿。\nウィルを永久的に創りだせる\nユーフォリアの核となる存在。",
-  "en": "Ruru's true form. The core\nof Euforia, able to create\nWill forever.",
+  "en": "Ruru's true form.\nThe core of Euforia, able\nto create Will forever.",
   "status": "done",
   "slots": [
    "w:2f74f8"
@@ -3381,7 +3381,7 @@
  {
   "id": "e:28651c",
   "jp": "闇のカードと剣の力によって\n王族の末裔のウィルを覚醒\nさせたアシュレイ。",
-  "en": "Ashrey, with his royal Will\nawakened by the dark\ncard and his sword.",
+  "en": "Ashrey, with his royal\nWill awakened by the\ndark card and his sword.",
   "status": "done",
   "slots": [
    "w:2f7514"
@@ -3408,7 +3408,7 @@
  {
   "id": "e:286610",
   "jp": "イシュトと合体し、\nイシュトの体をのっとろうと\n狙うアシュレイの姿",
-  "en": "Ashrey, merged with Ishut\nand out to take over his\nbody.",
+  "en": "Ashrey, merged with\nIshut and out to\ntake over his body.",
   "status": "done",
   "slots": [
    "w:2f7568"
@@ -3426,7 +3426,7 @@
  {
   "id": "e:286660",
   "jp": "雷を纏った剣を振り回し\n屍の山を築き上げる\n戦争のプロフェッショナル。",
-  "en": "A pro of war, piling up\ncorpses with a\nlightning-clad sword.",
+  "en": "A pro of war, piling\nup corpses with a\nlightning-clad sword.",
   "status": "done",
   "slots": [
    "w:2f7584"
@@ -3444,7 +3444,7 @@
  {
   "id": "e:2866b8",
   "jp": "聖なる光が細剣に宿る女戦士。\nゴーレムをも砕く力を持つが、\n邪悪なる暗黒攻撃には弱い。",
-  "en": "A holy-rapier warrior.\nSmashes golems, but fears\ndark attacks.",
+  "en": "A holy-rapier warrior.\nSmashes golems,\nbut fears dark attacks.",
   "status": "done",
   "slots": [
    "w:2f75a0"
@@ -3462,7 +3462,7 @@
  {
   "id": "e:286718",
   "jp": "軍馬に跨り戦場を駆ける戦士。\nその勢いは、例え前方に敵が\nいようとも止める事はできない",
-  "en": "A warhorse rider. Not\neven an enemy ahead can\nstop her charge.",
+  "en": "A warhorse rider.\nNot even an enemy ahead\ncan stop her charge.",
   "status": "done",
   "slots": [
    "w:2f75bc"
@@ -3498,7 +3498,7 @@
  {
   "id": "e:2867e0",
   "jp": "蒼海を渡る自由気侭な海賊。\n彼等の中にルールはない、ただ\nやりたいようにするだけだ。",
-  "en": "Free pirates of the blue\nsea. No rules: they do as\nthey please.",
+  "en": "Free pirates of the\nblue sea. No rules: they\ndo as they please.",
   "status": "done",
   "slots": [
    "w:2f75f4"
@@ -3516,7 +3516,7 @@
  {
   "id": "e:286844",
   "jp": "空を翔る天空の女戦士。\n彼女にとって地形の違いなど\n問題ではない。",
-  "en": "A woman warrior of the\nskies. Terrain makes no\ndifference to her.",
+  "en": "A woman warrior of\nthe skies. Terrain makes\nno difference to her.",
   "status": "done",
   "slots": [
    "w:2f7610"
@@ -3552,7 +3552,7 @@
  {
   "id": "e:2868f4",
   "jp": "暗闇に紛れて敵を討つ名手。\n夜間では頼もしいが、天候が雨\nだと火薬が湿り銃が使えない。",
-  "en": "She strikes from the dark.\nGreat at night, but rain\nsoaks her powder.",
+  "en": "She strikes from the dark.\nGreat at night, but\nrain soaks her powder.",
   "status": "done",
   "slots": [
    "w:2f7648"
@@ -3570,7 +3570,7 @@
  {
   "id": "e:28695c",
   "jp": "夜に真価を発揮する魔道師。\n転移による移動で敵を翻弄する\nことができる。",
-  "en": "A mage strongest at\nnight, who baffles foes by\nteleporting.",
+  "en": "A mage strongest at\nnight, who baffles\nfoes by teleporting.",
   "status": "done",
   "slots": [
    "w:2f7664"
@@ -3588,7 +3588,7 @@
  {
   "id": "e:2869b0",
   "jp": "ウィルの特殊な使用方法\n“魔法”を使う部隊。\n火炎攻撃に強い。",
-  "en": "A unit that uses \"magic,\" a\nspecial use of Will. Strong\nagainst fire.",
+  "en": "A unit that uses \"magic,\"\na special use of Will.\nStrong against fire.",
   "status": "done",
   "slots": [
    "w:2f7680"
@@ -3606,7 +3606,7 @@
  {
   "id": "e:2869fc",
   "jp": "岩石にウィルを注ぎ込むことで\n生まれた怪物。\n障害物を破壊する事ができる。",
-  "en": "A monster born from Will\npoured into rock. It can\ndestroy obstacles.",
+  "en": "A monster born from\nWill poured into rock.\nIt can destroy obstacles.",
   "status": "done",
   "slots": [
    "w:2f769c"
@@ -3624,7 +3624,7 @@
  {
   "id": "e:286a54",
   "jp": "死体にウィルを注ぎ込むことで\n現れた敵。ウィルで動いている\nので生き返ったわけではない。",
-  "en": "A corpse moved by\npoured-in Will. Not truly\nalive again.",
+  "en": "A corpse moved\nby poured-in Will.\nNot truly alive again.",
   "status": "done",
   "slots": [
    "w:2f76b8"
@@ -3696,7 +3696,7 @@
  {
   "id": "e:286bc8",
   "jp": "死して尚動きまわる剣士。\n雷撃と暗黒は物ともしないが、\n聖なる攻撃には滅法弱い。",
-  "en": "A dead swordsman. Shrugs\noff lightning and dark, but\nnot holy.",
+  "en": "A dead swordsman.\nShrugs off lightning\nand dark, but not holy.",
   "status": "done",
   "slots": [
    "w:2f7728"
@@ -3768,7 +3768,7 @@
  {
   "id": "e:286d44",
   "jp": "一度死の恐怖を体感した彼は、\n二度と死ぬまいと、敵を執拗に\n追い回す。",
-  "en": "Having tasted death, he\nhounds foes so as never\nto die again.",
+  "en": "Having tasted death,\nhe hounds foes so as\nnever to die again.",
   "status": "done",
   "slots": [
    "w:2f7798"
@@ -3805,7 +3805,7 @@
  {
   "id": "e:286df8",
   "jp": "光り物を集める習性を持つ\n海のアイドル。\nちなみに青は男の子。",
-  "en": "Sea idols who collect shiny\nthings. By the way, blue\nones are boys.",
+  "en": "Sea idols who collect\nshiny things. By the way,\nblue ones are boys.",
   "status": "done",
   "slots": [
    "w:2f77d0"
@@ -3814,7 +3814,7 @@
  {
   "id": "e:286e38",
   "jp": "光り物を集める習性を持つ\n海のアイドル。\nちなみに赤は女の子。",
-  "en": "Sea idols who collect shiny\nthings. By the way, red\nones are girls.",
+  "en": "Sea idols who collect\nshiny things. By the way,\nred ones are girls.",
   "status": "done",
   "slots": [
    "w:2f77ec"
@@ -3832,7 +3832,7 @@
  {
   "id": "e:286e80",
   "jp": "島の漁師が投げた網には今日も\n大量の魚がかかっている。",
-  "en": "The nets of the island's\nfishermen are full of fish\nagain today.",
+  "en": "The nets of the island's\nfishermen are full\nof fish again today.",
   "status": "done",
   "slots": [
    "w:2f7808"
@@ -3868,7 +3868,7 @@
  {
   "id": "e:286f20",
   "jp": "化学を用いてあらゆる物を練成\nし生み出すスペシャリスト達。",
-  "en": "Specialists who use\nchemistry to make all\nkinds of things.",
+  "en": "Specialists who use\nchemistry to make\nall kinds of things.",
   "status": "done",
   "slots": [
    "w:2f7840"
@@ -3886,7 +3886,7 @@
  {
   "id": "e:286f64",
   "jp": "怪我や病と闘う頼れる支援役。\n医者の人数が一人違うだけで、\n戦況が大きく変わる事もある。",
-  "en": "Healers who fight wounds\nand illness. One more can\nchange a battle.",
+  "en": "Healers who fight wounds\nand illness. One more\ncan change a battle.",
   "status": "done",
   "slots": [
    "w:2f785c"
@@ -3940,7 +3940,7 @@
  {
   "id": "e:287060",
   "jp": "長年の知恵と経験で戦乱を\n生き抜く男性。",
-  "en": "A man who survives the\nwars on long wisdom and\nexperience.",
+  "en": "A man who survives\nthe wars on long\nwisdom and experience.",
   "status": "done",
   "slots": [
    "w:2f78b0"
@@ -3958,7 +3958,7 @@
  {
   "id": "e:287090",
   "jp": "どんな時でも三歩後ろに下がり\n物事を見つめている女性。",
-  "en": "A woman who always\nstands three steps back\nand watches.",
+  "en": "A woman who always\nstands three steps\nback and watches.",
   "status": "done",
   "slots": [
    "w:2f78cc"
@@ -3976,7 +3976,7 @@
  {
   "id": "e:2870d4",
   "jp": "どこにでもいるような普通の人",
-  "en": "An ordinary person you'd\nfind anywhere",
+  "en": "An ordinary person\nyou'd find anywhere",
   "status": "done",
   "slots": [
    "w:2f78e8",
@@ -4040,7 +4040,7 @@
  {
   "id": "e:287158",
   "jp": "事業に成功し、多額の財産を\n手に入れた人達。\n海賊から言わせれば“カモ”",
-  "en": "People who made a\nfortune in business. To\npirates: \"marks.\"",
+  "en": "People who made a\nfortune in business.\nTo pirates: \"marks.\"",
   "status": "done",
   "slots": [
    "w:2f7958"
@@ -4076,7 +4076,7 @@
  {
   "id": "e:2871e4",
   "jp": "戦争によって財産をなくし、\n貧しい生活を余儀なくされた\n人々。",
-  "en": "People who lost their\nfortunes in the war and\nlive in poverty.",
+  "en": "People who lost their\nfortunes in the war\nand live in poverty.",
   "status": "done",
   "slots": [
    "w:2f7990"
@@ -4103,7 +4103,7 @@
  {
   "id": "e:2872a8",
   "jp": "時の移ろいとともに\n消えゆく罪の記憶…\n　　　　　　　‐咎人ラウネ",
-  "en": "Memories of sin, fading\nwith time...\n-Luane the Condemned",
+  "en": "Memories of sin,\nfading with time...\n-Luane the Condemned",
   "status": "done",
   "slots": [
    "w:2f7b0c"
@@ -4112,7 +4112,7 @@
  {
   "id": "e:2872ec",
   "jp": "毒に冒され\n非業の死を遂げた探求者…\n　　　　‐復讐のバルダック",
-  "en": "A seeker poisoned, dead\nby a cruel fate...\n-Baldack the Avenger",
+  "en": "A seeker poisoned,\ndead by a cruel fate...\n-Baldack the Avenger",
   "status": "done",
   "slots": [
    "w:2f7b10"
@@ -4157,7 +4157,7 @@
  {
   "id": "e:287424",
   "jp": "戦場を蹂躙する\n鋼鉄の人馬…\n　　　　　‐鋼鉄騎士ガラド",
-  "en": "Iron cavalry that trample\nthe battlefield...\n-Gallad, the Steel Knight",
+  "en": "Iron cavalry that\ntrample the battlefield...\n-Gallad, the Steel Knight",
   "status": "done",
   "slots": [
    "w:2f7b24"
@@ -4166,7 +4166,7 @@
  {
   "id": "e:28745c",
   "jp": "戦塵の中に現れる\n聖杖の賢者…\n　　　　‐護人ハシャハティ",
-  "en": "A holy-staffed sage in the\ndust of war... -Hasha Hatti\nthe Protector",
+  "en": "A holy-staffed sage in\nthe dust of war... -Hasha\nHatti the Protector",
   "status": "done",
   "slots": [
    "w:2f7b28"
@@ -4184,7 +4184,7 @@
  {
   "id": "e:2874d4",
   "jp": "幾多の悲しみを閉じ込める\n氷の柩…\n　　　　‐氷葬のエンリュケ",
-  "en": "A coffin of ice locking in\ncountless sorrows...\n-Ice Crusher Enreuke",
+  "en": "A coffin of ice locking\nin countless sorrows...\n-Ice Crusher Enreuke",
   "status": "done",
   "slots": [
    "w:2f7b30"
@@ -4220,7 +4220,7 @@
  {
   "id": "e:2875e0",
   "jp": "片翼を持って生まれた\n双生の女神…\n　　　　‐双生のアリステラ",
-  "en": "A twin goddess born with\nonly one wing...\n-Gemini Aristella",
+  "en": "A twin goddess born\nwith only one wing...\n-Gemini Aristella",
   "status": "done",
   "slots": [
    "w:2f7b40"
@@ -4256,7 +4256,7 @@
  {
   "id": "e:2876f0",
   "jp": "漆黒の闇より出でる\n妖艶なる悪魔…\n　　　‐闇の女帝ヴァネッサ",
-  "en": "A bewitching demon from\nthe dark... -Vanessa,\nEmpress of Darkness",
+  "en": "A bewitching demon\nfrom the dark... -Vanessa,\nEmpress of Darkness",
   "status": "done",
   "slots": [
    "w:2f7b50"
@@ -4292,7 +4292,7 @@
  {
   "id": "e:2877f4",
   "jp": "樹木とともに生きる\n気高き精霊…\n　　　‐樹木の精霊ドリアデ",
-  "en": "A noble spirit living with\nthe trees... -Dryad, Nymph\nof the Woods",
+  "en": "A noble spirit living\nwith the trees... -Dryad,\nNymph of the Woods",
   "status": "done",
   "slots": [
    "w:2f7b60"
@@ -4364,7 +4364,7 @@
  {
   "id": "e:287a08",
   "jp": "人々に災いを運ぶ\n狂気の悪魔…\n　　　　　‐狂風のネルガー",
-  "en": "A mad demon who brings\npeople disaster...\n-Nergar of the Mad Wind",
+  "en": "A mad demon who\nbrings people disaster...\n-Nergar of the Mad Wind",
   "status": "done",
   "slots": [
    "w:2f7b80"
@@ -4373,7 +4373,7 @@
  {
   "id": "e:287a44",
   "jp": "奇跡を引き寄せ\n逆境を越える不屈の射手…\n　　　　‐加護のレティオル",
-  "en": "An unyielding archer who\ndraws miracles...\n-Retiol of Protection",
+  "en": "An unyielding archer\nwho draws miracles...\n-Retiol of Protection",
   "status": "done",
   "slots": [
    "w:2f7b84"
@@ -4409,7 +4409,7 @@
  {
   "id": "e:287b58",
   "jp": "一陣の風が吹いた時\nそこにあるのは惨劇のみ\n　　　‐風天アスティボーグ",
-  "en": "When a gust blows, only\ntragedy remains\n-Wind Deity Astiborg",
+  "en": "When a gust blows,\nonly tragedy remains\n-Wind Deity Astiborg",
   "status": "done",
   "slots": [
    "w:2f7b94"
@@ -4418,7 +4418,7 @@
  {
   "id": "e:287ba0",
   "jp": "光背を浴びる聖女\n彼女は全てを統べる者\n　　‐光冠のアルマスフィア",
-  "en": "A holy woman bathed in a\nhalo. She rules over all\n-Almasphere of the Halo",
+  "en": "A holy woman bathed in\na halo. She rules over all\n-Almasphere of the Halo",
   "status": "done",
   "slots": [
    "w:2f7b98"
@@ -4445,7 +4445,7 @@
  {
   "id": "e:287c74",
   "jp": "拡散した軍勢が一になる時\n一人の英雄が生まれる…\n　　　　‐リウレウスの軍勢",
-  "en": "When a scattered army is\none, a hero is born...\n-The Legions of Riureus",
+  "en": "When a scattered army\nis one, a hero is born...\n-The Legions of Riureus",
   "status": "done",
   "slots": [
    "w:2f7ba4"
@@ -4472,7 +4472,7 @@
  {
   "id": "e:287d58",
   "jp": "己の命を差し出した聖人\nその命は民を救った\n　　　　　　‐聖人ペルセラ",
-  "en": "A saint who offered up a\nlife, and that life saved\nthe people\n-Saint Persela",
+  "en": "A saint who offered\nup a life, and that\nlife saved the people\n-Saint Persela",
   "status": "done",
   "slots": [
    "w:2f7bb0"
@@ -4481,7 +4481,7 @@
  {
   "id": "e:287da0",
   "jp": "降り注ぐ星に意思はなく\n白銀の炎は地上を燃やす\n　　　　　‐恒星アンタレス",
-  "en": "The falling stars have no\nwill; silver flames burn the\nland\n-Antares the Star",
+  "en": "The falling stars\nhave no will; silver\nflames burn the land\n-Antares the Star",
   "status": "done",
   "slots": [
    "w:2f7bb4"
@@ -4760,7 +4760,7 @@
  {
   "id": "e:2880a8",
   "jp": "・重装備可能な男性",
-  "en": "- Men who can wear heavy\ngear",
+  "en": "- Men who can\nwear heavy gear",
   "status": "done",
   "slots": [
    "w:2f7f5c"
@@ -4931,7 +4931,7 @@
  {
   "id": "e:2881fc",
   "jp": "・水棲タイプ以外",
-  "en": "- Anyone but aquatic\ntypes",
+  "en": "- Anyone but\naquatic types",
   "status": "done",
   "slots": [
    "w:2f7fa8"
@@ -4940,7 +4940,7 @@
  {
   "id": "e:288210",
   "jp": "・騎馬・水棲タイプ以外",
-  "en": "- No cavalry or aquatic\ntypes",
+  "en": "- No cavalry or\naquatic types",
   "status": "done",
   "slots": [
    "w:2f7fac"
@@ -5012,7 +5012,7 @@
  {
   "id": "e:2882ac",
   "jp": "・ゲテモノOKな人",
-  "en": "- Those who eat weird\nfood",
+  "en": "- Those who\neat weird food",
   "status": "done",
   "slots": [
    "w:2f7fcc"
@@ -5048,7 +5048,7 @@
  {
   "id": "e:2882fc",
   "jp": "・派手なものが好きな人",
-  "en": "- Those who love flashy\nthings",
+  "en": "- Those who love\nflashy things",
   "status": "done",
   "slots": [
    "w:2f7fdc"
@@ -5066,7 +5066,7 @@
  {
   "id": "e:288324",
   "jp": "・牛乳嫌いな人以外",
-  "en": "- Anyone who doesn't\nhate milk",
+  "en": "- Anyone who\ndoesn't hate milk",
   "status": "done",
   "slots": [
    "w:2f7fe4"
@@ -5102,7 +5102,7 @@
  {
   "id": "e:288364",
   "jp": "【オープニング曲】\n大海には何が待っているのか",
-  "en": "[Opening Theme]\nWhat awaits on the open\nsea?",
+  "en": "[Opening Theme]\nWhat awaits on\nthe open sea?",
   "status": "done",
   "slots": [
    "w:2f809c"
@@ -5138,7 +5138,7 @@
  {
   "id": "e:2883e8",
   "jp": "古代ユーフォリア文明の謎…\nその謎が、今明かされる…！",
-  "en": "The mystery of ancient\nEuforia... Now it is\nrevealed...!",
+  "en": "The mystery of\nancient Euforia...\nNow it is revealed...!",
   "status": "done",
   "slots": [
    "w:2f80bc"
@@ -5156,7 +5156,7 @@
  {
   "id": "e:288430",
   "jp": "戦の空気が辺りを包み\n闘志が沸々と湧き上がる！",
-  "en": "The air of war fills the\nfield, and fighting spirit\nboils up!",
+  "en": "The air of war fills\nthe field, and fighting\nspirit boils up!",
   "status": "done",
   "slots": [
    "w:2f80cc"
@@ -5174,7 +5174,7 @@
  {
   "id": "e:288478",
   "jp": "勝つ為、手に入れる為。\n海賊達は万全の準備を進める",
-  "en": "To win, to take it all. The\npirates make ready for\nbattle",
+  "en": "To win, to take it all.\nThe pirates make\nready for battle",
   "status": "done",
   "slots": [
    "w:2f80dc"
@@ -5210,7 +5210,7 @@
  {
   "id": "e:2884f4",
   "jp": "的確に戦況を読み\n戦場を支配するのだ！",
-  "en": "Read the battle right and\nrule the field!",
+  "en": "Read the battle right\nand rule the field!",
   "status": "done",
   "slots": [
    "w:2f80fc"
@@ -5228,7 +5228,7 @@
  {
   "id": "e:28852c",
   "jp": "囚われた仲間を見捨てることは\n海賊にとって一番の恥である！",
-  "en": "Abandoning a captured\nmate is a pirate's greatest\nshame!",
+  "en": "Abandoning a captured\nmate is a pirate's\ngreatest shame!",
   "status": "done",
   "slots": [
    "w:2f810c"
@@ -5246,7 +5246,7 @@
  {
   "id": "e:288570",
   "jp": "迫り来る敵の猛威！\n鉄壁の防御で守りぬけ！",
-  "en": "The foe's fury closes in!\nHold fast with an iron\ndefense!",
+  "en": "The foe's fury closes in!\nHold fast with\nan iron defense!",
   "status": "done",
   "slots": [
    "w:2f811c"
@@ -5264,7 +5264,7 @@
  {
   "id": "e:2885a8",
   "jp": "大海を制すもの闘いを制す！\n我は海の化身、我は海神なり！",
-  "en": "Who rules the sea rules the\nfight! I am the sea, the\ngod of the sea!",
+  "en": "Who rules the sea rules\nthe fight! I am the sea,\nthe god of the sea!",
   "status": "done",
   "slots": [
    "w:2f812c"
@@ -5282,7 +5282,7 @@
  {
   "id": "e:2885e8",
   "jp": "両軍が真っ向からぶつかる瞬間\n世界を揺るがす戦争が始まる！",
-  "en": "The moment two armies\ncollide, a war to shake the\nworld begins!",
+  "en": "The moment two armies\ncollide, a war to shake\nthe world begins!",
   "status": "done",
   "slots": [
    "w:2f813c"
@@ -5327,7 +5327,7 @@
  {
   "id": "e:2886a0",
   "jp": "その牙、世界を喰らう",
-  "en": "Fangs That Devour the\nWorld",
+  "en": "Fangs That\nDevour the World",
   "status": "done",
   "slots": [
    "w:2f8168"
@@ -5336,7 +5336,7 @@
  {
   "id": "e:2886b8",
   "jp": "膨れ上がった悪意の牙は\nこの世の全てを喰らいつくす！",
-  "en": "Fangs swollen with malice\nwill devour all in this\nworld!",
+  "en": "Fangs swollen with\nmalice will devour\nall in this world!",
   "status": "done",
   "slots": [
    "w:2f816c"
@@ -5345,7 +5345,7 @@
  {
   "id": "e:2886ec",
   "jp": "出でる敵、潜む策",
-  "en": "Foes Appear, Schemes\nLurk",
+  "en": "Foes Appear,\nSchemes Lurk",
   "status": "done",
   "slots": [
    "w:2f8178"
@@ -5354,7 +5354,7 @@
  {
   "id": "e:288700",
   "jp": "幾重にも練られた策は脅威の証\n商人を、甘く見るな！",
-  "en": "Layers of schemes prove\nthe threat. Don't take\nmerchants lightly!",
+  "en": "Layers of schemes\nprove the threat. Don't\ntake merchants lightly!",
   "status": "done",
   "slots": [
    "w:2f817c"
@@ -5363,7 +5363,7 @@
  {
   "id": "e:288734",
   "jp": "屍を抱く聖女",
-  "en": "The Saint Who Holds the\nDead",
+  "en": "The Saint Who\nHolds the Dead",
   "status": "done",
   "slots": [
    "w:2f8188"
@@ -5372,7 +5372,7 @@
  {
   "id": "e:288744",
   "jp": "平和を願う光背の聖女は\n屍の山から世界を照らしていた",
-  "en": "The haloed saint of peace\nlit the world from a\nmountain of corpses",
+  "en": "The haloed saint of\npeace lit the world from\na mountain of corpses",
   "status": "done",
   "slots": [
    "w:2f818c"
@@ -5408,7 +5408,7 @@
  {
   "id": "e:2887c8",
   "jp": "数千年の歴史を経て蘇りし力\n世界は再び滅ぶのであろうか…",
-  "en": "A power reborn after\nmillennia. Will the world\nfall once more...?",
+  "en": "A power reborn after\nmillennia. Will the\nworld fall once more...?",
   "status": "done",
   "slots": [
    "w:2f81ac"
@@ -5426,7 +5426,7 @@
  {
   "id": "e:288810",
   "jp": "【ユニオン結成のテーマ】\n絆の力は無限の意思を生む！",
-  "en": "[Union Theme]\nThe power of bonds gives\nrise to endless Will!",
+  "en": "[Union Theme]\nThe power of bonds\ngives rise to endless Will!",
   "status": "done",
   "slots": [
    "w:2f81bc"
@@ -5444,7 +5444,7 @@
  {
   "id": "e:288850",
   "jp": "【イシュトのテーマ】\n少年はその剣で大海を斬る！",
-  "en": "[Ishut's Theme]\nThe boy cleaves the great\nsea with his sword!",
+  "en": "[Ishut's Theme]\nThe boy cleaves the\ngreat sea with his sword!",
   "status": "done",
   "slots": [
    "w:2f81cc"
@@ -5462,7 +5462,7 @@
  {
   "id": "e:288898",
   "jp": "【ルルゥのテーマ】\n少女は少年を運命劇へと導く",
-  "en": "[Ruru's Theme]\nThe girl leads the boy into\na drama of fate",
+  "en": "[Ruru's Theme]\nThe girl leads the boy\ninto a drama of fate",
   "status": "done",
   "slots": [
    "w:2f81dc"
@@ -5471,7 +5471,7 @@
  {
   "id": "e:2888c8",
   "jp": "双銃は戦場で歌う",
-  "en": "Twin Guns Sing on the\nField",
+  "en": "Twin Guns Sing\non the Field",
   "status": "done",
   "slots": [
    "w:2f81e8"
@@ -5525,7 +5525,7 @@
  {
   "id": "e:288994",
   "jp": "【ミネソタ・グレイのテーマ】\n正しきマナーを貫き通す！",
-  "en": "[Minesota Gray's Theme]\nProper manners, upheld to\nthe end!",
+  "en": "[Minesota Gray's Theme]\nProper manners,\nupheld to the end!",
   "status": "done",
   "slots": [
    "w:2f821c"
@@ -5543,7 +5543,7 @@
  {
   "id": "e:2889e4",
   "jp": "【ロコモコのテーマ】\n幼き笑みは流星の輝き！",
-  "en": "[Locomoco's Theme]\nA young smile shines like a\nshooting star!",
+  "en": "[Locomoco's Theme]\nA young smile shines\nlike a shooting star!",
   "status": "done",
   "slots": [
    "w:2f822c"
@@ -5552,7 +5552,7 @@
  {
   "id": "e:288a10",
   "jp": "魔槍を持つ吸血鬼",
-  "en": "Vampire with a Demon\nSpear",
+  "en": "Vampire with\na Demon Spear",
   "status": "done",
   "slots": [
    "w:2f8238"
@@ -5561,7 +5561,7 @@
  {
   "id": "e:288a24",
   "jp": "【ラズベリーのテーマ】\nその魔槍は罪人を穿つ！",
-  "en": "[Raspberry's Theme]\nThat demon spear pierces\nsinners!",
+  "en": "[Raspberry's Theme]\nThat demon spear\npierces sinners!",
   "status": "done",
   "slots": [
    "w:2f823c"
@@ -5579,7 +5579,7 @@
  {
   "id": "e:288a68",
   "jp": "【フィービーのテーマ】\n故郷の為にその槍を振るう！",
-  "en": "[Fiebee's Theme]\nShe wields her spear for\nher homeland!",
+  "en": "[Fiebee's Theme]\nShe wields her spear\nfor her homeland!",
   "status": "done",
   "slots": [
    "w:2f824c"
@@ -5597,7 +5597,7 @@
  {
   "id": "e:288aac",
   "jp": "【ガングのテーマ】\n堅牢なる遺跡の守護者！",
-  "en": "[Gangr's Theme]\nThe sturdy guardian of\nthe ruins!",
+  "en": "[Gangr's Theme]\nThe sturdy guardian\nof the ruins!",
   "status": "done",
   "slots": [
    "w:2f825c"
@@ -5606,7 +5606,7 @@
  {
   "id": "e:288ad8",
   "jp": "【ユグドラのテーマ】\n可憐な乙女は悪を滅する！",
-  "en": "[Yggdra's Theme]\nA lovely maiden destroys\nevil!",
+  "en": "[Yggdra's Theme]\nA lovely maiden\ndestroys evil!",
   "status": "done",
   "slots": [
    "w:2f826c"
@@ -5624,7 +5624,7 @@
  {
   "id": "e:288b18",
   "jp": "【カミュルのテーマ】\n気合の雄叫びは敵を震わせる！",
-  "en": "[Kamuru's Theme]\nA spirited war cry makes\nfoes tremble!",
+  "en": "[Kamuru's Theme]\nA spirited war cry\nmakes foes tremble!",
   "status": "done",
   "slots": [
    "w:2f827c"
@@ -5642,7 +5642,7 @@
  {
   "id": "e:288b5c",
   "jp": "【アンヌのテーマ】\n全ては宝を手に入れる為に！",
-  "en": "[Anne's Theme]\nAll to get her hands on\ntreasure!",
+  "en": "[Anne's Theme]\nAll to get her\nhands on treasure!",
   "status": "done",
   "slots": [
    "w:2f828c"
@@ -5651,7 +5651,7 @@
  {
   "id": "e:288b8c",
   "jp": "パメラ様だわさ！",
-  "en": "Pamela-sama, Dontcha\nKnow!",
+  "en": "Pamela-sama,\nDontcha Know!",
   "status": "done",
   "slots": [
    "w:2f8298"
@@ -5687,7 +5687,7 @@
  {
   "id": "e:288c10",
   "jp": "大海に夢を託した者達",
-  "en": "Dreams Entrusted to the\nSea",
+  "en": "Dreams Entrusted\nto the Sea",
   "status": "done",
   "slots": [
    "w:2f82b8"
@@ -5696,7 +5696,7 @@
  {
   "id": "e:288c28",
   "jp": "【海賊のテーマ】\nまだ見ぬ海賊達が彼らを待つ！",
-  "en": "[Pirates' Theme]\nUnknown pirates await\nthem!",
+  "en": "[Pirates' Theme]\nUnknown pirates\nawait them!",
   "status": "done",
   "slots": [
    "w:2f82bc"
@@ -5714,7 +5714,7 @@
  {
   "id": "e:288c64",
   "jp": "【黒い牙子分のテーマ】\nその牙は死体すらも貪る！",
-  "en": "[Black Fang Lackeys'\nTheme]\nThose fangs devour even\ncorpses!",
+  "en": "[Black Fang\nLackeys' Theme]\nThose fangs devour\neven corpses!",
   "status": "done",
   "slots": [
    "w:2f82cc"
@@ -5732,7 +5732,7 @@
  {
   "id": "e:288ca0",
   "jp": "【黒い牙ボスのテーマ】\n無情で冷酷な剣が襲い掛かる！",
-  "en": "[Black Fang Boss Theme]\nA cold, merciless blade\nstrikes!",
+  "en": "[Black Fang Boss Theme]\nA cold, merciless\nblade strikes!",
   "status": "done",
   "slots": [
    "w:2f82dc"
@@ -5741,7 +5741,7 @@
  {
   "id": "e:288cd4",
   "jp": "欲塗れの商人達",
-  "en": "Merchants Steeped in\nGreed",
+  "en": "Merchants\nSteeped in Greed",
   "status": "done",
   "slots": [
    "w:2f82e8"
@@ -5768,7 +5768,7 @@
  {
   "id": "e:288d2c",
   "jp": "【商団ボスのテーマ】\n巧妙な策、見破れるか…！",
-  "en": "[Guild Boss Theme]\nCan you see through the\ncunning scheme...!",
+  "en": "[Guild Boss Theme]\nCan you see through\nthe cunning scheme...!",
   "status": "done",
   "slots": [
    "w:2f82fc"
@@ -5786,7 +5786,7 @@
  {
   "id": "e:288d70",
   "jp": "【反皇国連合のテーマ】\n皇国を挫く為、その腕を振る！",
-  "en": "[Anti-Imperial Federation\nTheme]\nSwing your arm to break\nthe Empire!",
+  "en": "[Anti-Imperial\nFederation Theme]\nSwing your arm to\nbreak the Empire!",
   "status": "done",
   "slots": [
    "w:2f830c"
@@ -5804,7 +5804,7 @@
  {
   "id": "e:288db4",
   "jp": "【エンリエッタのテーマ】\nその全ては平和の為の犠牲…",
-  "en": "[Enryetta's Theme]\nAll of it a sacrifice for\npeace...",
+  "en": "[Enryetta's Theme]\nAll of it a sacrifice\nfor peace...",
   "status": "done",
   "slots": [
    "w:2f831c"
@@ -5822,7 +5822,7 @@
  {
   "id": "e:288df4",
   "jp": "【ルキア皇国軍のテーマ】\n絶対的勝利へと、進軍せよ！",
-  "en": "[Lukia Imperial Army\nTheme]\nMarch on to absolute\nvictory!",
+  "en": "[Lukia Imperial\nArmy Theme]\nMarch on to\nabsolute victory!",
   "status": "done",
   "slots": [
    "w:2f832c"
@@ -5831,7 +5831,7 @@
  {
   "id": "e:288e28",
   "jp": "最強にして不破の豪傑",
-  "en": "Strongest, Unbreakable\nHero",
+  "en": "Strongest,\nUnbreakable Hero",
   "status": "done",
   "slots": [
    "w:2f8338"
@@ -5840,7 +5840,7 @@
  {
   "id": "e:288e40",
   "jp": "【皇国騎士団将軍のテーマ】\n決して破られる事はない！",
-  "en": "[Imperial Knights' General\nTheme]\nNever to be broken!",
+  "en": "[Imperial Knights'\nGeneral Theme]\nNever to be broken!",
   "status": "done",
   "slots": [
    "w:2f833c"
@@ -5858,7 +5858,7 @@
  {
   "id": "e:288e80",
   "jp": "【ルキア皇国ボスのテーマ】\n力を我に！　幸福を我に！",
-  "en": "[Lukia Empire Boss Theme]\nPower to me! Happiness\nto me!",
+  "en": "[Lukia Empire Boss Theme]\nPower to me!\nHappiness to me!",
   "status": "done",
   "slots": [
    "w:2f834c"
@@ -5894,7 +5894,7 @@
  {
   "id": "e:288f08",
   "jp": "【勝利ジングル】\n勝利の美酒に酔え！",
-  "en": "[Victory Jingle]\nDrink deep the wine of\nvictory!",
+  "en": "[Victory Jingle]\nDrink deep the\nwine of victory!",
   "status": "done",
   "slots": [
    "w:2f836c"
@@ -5930,7 +5930,7 @@
  {
   "id": "e:288f64",
   "jp": "【勝利ジングル】\n次なる勝利へ精進せよ！",
-  "en": "[Victory Jingle]\nTrain hard for the next\nvictory!",
+  "en": "[Victory Jingle]\nTrain hard for\nthe next victory!",
   "status": "done",
   "slots": [
    "w:2f838c"
@@ -5948,7 +5948,7 @@
  {
   "id": "e:288f9c",
   "jp": "【リザルト画面】\n戦いの行方は…！？",
-  "en": "[Results Screen]\nHow did the battle turn\nout...!?",
+  "en": "[Results Screen]\nHow did the\nbattle turn out...!?",
   "status": "done",
   "slots": [
    "w:2f839c"
@@ -5966,7 +5966,7 @@
  {
   "id": "e:288fcc",
   "jp": "【シナリオクリアジングル】\n勝利の喜びは友と分かち合え！",
-  "en": "[Scenario Clear Jingle]\nShare the joy of victory\nwith friends!",
+  "en": "[Scenario Clear Jingle]\nShare the joy of\nvictory with friends!",
   "status": "done",
   "slots": [
    "w:2f83ac"
@@ -5984,7 +5984,7 @@
  {
   "id": "e:289018",
   "jp": "【シナリオ未クリアジングル】\n戦略を改め、再戦を誓え！",
-  "en": "[Scenario Failed Jingle]\nRethink your plan and vow\na rematch!",
+  "en": "[Scenario Failed Jingle]\nRethink your plan\nand vow a rematch!",
   "status": "done",
   "slots": [
    "w:2f83bc"
@@ -6002,7 +6002,7 @@
  {
   "id": "e:289064",
   "jp": "【民衆のテーマ】\n戦いの無い緩やかで平和な日常",
-  "en": "[Townsfolk Theme]\nCalm, peaceful days\nwithout war",
+  "en": "[Townsfolk Theme]\nCalm, peaceful\ndays without war",
   "status": "done",
   "slots": [
    "w:2f83cc"
@@ -6038,7 +6038,7 @@
  {
   "id": "e:2890e0",
   "jp": "【対峙のテーマ】\n奴にだけは負けてはならない！",
-  "en": "[Standoff Theme]\nHim, of all people, I can't\nlose to!",
+  "en": "[Standoff Theme]\nHim, of all people,\nI can't lose to!",
   "status": "done",
   "slots": [
    "w:2f83ec"
@@ -6056,7 +6056,7 @@
  {
   "id": "e:289120",
   "jp": "【侵略のテーマ】\nこのピンチ。どう乗り切る…！",
-  "en": "[Invasion Theme]\nHow will we get out of\nthis pinch...!",
+  "en": "[Invasion Theme]\nHow will we get\nout of this pinch...!",
   "status": "done",
   "slots": [
    "w:2f83fc"
@@ -6074,7 +6074,7 @@
  {
   "id": "e:289158",
   "jp": "【運命のテーマ】\n一つの運命が終わりを遂げる…",
-  "en": "[Fate Theme]\nOne fate comes to its\nend...",
+  "en": "[Fate Theme]\nOne fate comes\nto its end...",
   "status": "done",
   "slots": [
    "w:2f840c"
@@ -6092,7 +6092,7 @@
  {
   "id": "e:289194",
   "jp": "【エクストラコンテンツ】\n記録された海賊達の歴史",
-  "en": "[Extra Contents]\nThe recorded history of\nthe pirates",
+  "en": "[Extra Contents]\nThe recorded history\nof the pirates",
   "status": "done",
   "slots": [
    "w:2f841c"
@@ -6110,7 +6110,7 @@
  {
   "id": "e:2891d0",
   "jp": "【セーブ画面】\n次の物語が、彼等を待つ！",
-  "en": "[Save Screen]\nThe next story awaits\nthem!",
+  "en": "[Save Screen]\nThe next story\nawaits them!",
   "status": "done",
   "slots": [
    "w:2f842c"
@@ -6146,7 +6146,7 @@
  {
   "id": "e:289254",
   "jp": "【スタッフロール曲】\n栄光への航路に終わりはない！",
-  "en": "[Staff Roll Theme]\nThe voyage to glory never\nends!",
+  "en": "[Staff Roll Theme]\nThe voyage to\nglory never ends!",
   "status": "done",
   "slots": [
    "w:2f844c"
@@ -6182,7 +6182,7 @@
  {
   "id": "e:2892d8",
   "jp": "時間の波に流されて、\n過去と現在は重なり合う",
-  "en": "Swept by the waves of\ntime, past and present\noverlap",
+  "en": "Swept by the waves\nof time, past and\npresent overlap",
   "status": "done",
   "slots": [
    "w:2f846c"
@@ -6200,7 +6200,7 @@
  {
   "id": "e:289318",
   "jp": "マスコットキャラクター\nピンガーの独り語り",
-  "en": "Pinger, our mascot\ncharacter, talks on her\nown",
+  "en": "Pinger, our\nmascot character,\ntalks on her own",
   "status": "done",
   "slots": [
    "w:2f847c"
@@ -6236,7 +6236,7 @@
  {
   "id": "e:289390",
   "jp": "イシュトへプレゼントを\n贈ろうとするルルゥの話",
-  "en": "Ruru tries to give Ishut a\npresent",
+  "en": "Ruru tries to give\nIshut a present",
   "status": "done",
   "slots": [
    "w:2f849c"
@@ -6272,7 +6272,7 @@
  {
   "id": "e:289418",
   "jp": "ミネソタ・グレイ。\n悩める考古学者である",
-  "en": "Minesota Gray. A troubled\narchaeologist",
+  "en": "Minesota Gray.\nA troubled archaeologist",
   "status": "done",
   "slots": [
    "w:2f84bc"
@@ -6281,7 +6281,7 @@
  {
   "id": "e:289440",
   "jp": "吸血鬼と魔女",
-  "en": "The Vampire and the\nWitch",
+  "en": "The Vampire\nand the Witch",
   "status": "done",
   "slots": [
    "w:2f84c8"
@@ -6290,7 +6290,7 @@
  {
   "id": "e:289450",
   "jp": "異世界に住む二人の\nプライベートとは？",
-  "en": "The private lives of two\nwho live in another\nworld?",
+  "en": "The private lives\nof two who live in\nanother world?",
   "status": "done",
   "slots": [
    "w:2f84cc"
@@ -6308,7 +6308,7 @@
  {
   "id": "e:289488",
   "jp": "全部聞き取れたら\nアナタも今日から古代人！",
-  "en": "Catch every word, and\nyou too are an ancient\nfrom today!",
+  "en": "Catch every word,\nand you too are an\nancient from today!",
   "status": "done",
   "slots": [
    "w:2f84dc"
@@ -6335,7 +6335,7 @@
  {
   "id": "e:2894fc",
   "jp": "情熱の新米騎士",
-  "en": "The Passionate Rookie\nKnight",
+  "en": "The Passionate\nRookie Knight",
   "status": "done",
   "slots": [
    "w:2f84f8"
@@ -6344,7 +6344,7 @@
  {
   "id": "e:28950c",
   "jp": "新米騎士カミュル。\n一流目指して今日も特訓！",
-  "en": "Kamuru the rookie knight.\nTraining again today to be\nfirst-rate!",
+  "en": "Kamuru the rookie knight.\nTraining again today\nto be first-rate!",
   "status": "done",
   "slots": [
    "w:2f84fc"
@@ -6362,7 +6362,7 @@
  {
   "id": "e:28954c",
   "jp": "全身から溢れ出す色気。\n大人の女性の魅力全開！",
-  "en": "Allure oozing from head\nto toe. Grown-up charm\nat full blast!",
+  "en": "Allure oozing from\nhead to toe. Grown-up\ncharm at full blast!",
   "status": "done",
   "slots": [
    "w:2f850c"
@@ -6380,7 +6380,7 @@
  {
   "id": "e:289594",
   "jp": "戦場では脅威の豪傑でも、\n娘の前ではただの父親。",
-  "en": "A fearsome hero on the\nbattlefield, just a dad to\nhis daughter.",
+  "en": "A fearsome hero on\nthe battlefield, just a\ndad to his daughter.",
   "status": "done",
   "slots": [
    "w:2f851c"
@@ -6398,7 +6398,7 @@
  {
   "id": "e:2895d4",
   "jp": "少し周りとは空気が違う\n彼女（？）の秘密とは",
-  "en": "A little out of step with\neveryone else. What is her\n(?) secret?",
+  "en": "A little out of step\nwith everyone else.\nWhat is her (?) secret?",
   "status": "done",
   "slots": [
    "w:2f852c"
@@ -6416,7 +6416,7 @@
  {
   "id": "e:289610",
   "jp": "至る所に現れる魔法少女。\n次はドコに現れるのか？",
-  "en": "The magical girl who turns\nup everywhere. Where will\nshe appear next?",
+  "en": "The magical girl who turns\nup everywhere. Where\nwill she appear next?",
   "status": "done",
   "slots": [
    "w:2f853c"
@@ -6434,7 +6434,7 @@
  {
   "id": "e:289654",
   "jp": "彼女の意思と誇りは\nシャンティエの名の下に！",
-  "en": "Her will and pride, in the\nname of Chantier!",
+  "en": "Her will and pride,\nin the name of Chantier!",
   "status": "done",
   "slots": [
    "w:2f854c"
@@ -6470,7 +6470,7 @@
  {
   "id": "e:2896cc",
   "jp": "　%s",
-  "en": "%s",
+  "en": "  %s",
   "status": "done",
   "slots": [
    "i:139868:139878"

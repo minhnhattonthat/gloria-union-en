@@ -2,7 +2,7 @@
  {
   "id": "s2058:00028",
   "jp": "あ、この先です。\nこの先にローガンさんの\nウィルを感じまっす。",
-  "en": "Ah, it's up ahead. I sense Rogan-san's Will up\nahead, sir.",
+  "en": "Ah, it's up ahead. I sense\nRogan-san's Will up ahead, sir.",
   "status": "done",
   "slots": [
    "0x25d4"
@@ -13,7 +13,7 @@
  {
   "id": "s2058:00069",
   "jp": "むぅ、私にはわからないのに。\nなんかくやしい。",
-  "en": "Mmm, and I can't sense it. That's kind of\nfrustrating.",
+  "en": "Mmm, and I can't sense it.\nThat's kind of frustrating.",
   "status": "done",
   "slots": [
    "0x25ed"
@@ -68,7 +68,7 @@
  {
   "id": "s2058:0013d",
   "jp": "いやいや、訓練とはいいものです。\n努力し己を高める。\n素晴らしいじゃないですか。",
-  "en": "No, no, training is a fine thing. Working hard\nand improving yourself. Isn't that\nwonderful?",
+  "en": "No, no, training is a fine thing.\nWorking hard and improving yourself.\nIsn't that wonderful?",
   "status": "done",
   "slots": [
    "0x268f"
@@ -79,7 +79,7 @@
  {
   "id": "s2058:00190",
   "jp": "へいへい、ちょぉっと待ちな\nそこの老若男女諸君。",
-  "en": "Hey hey, hold it right there, you folks young\nand old, men and women!",
+  "en": "Hey hey, hold it right there,\nyou folks young and old, men and women!",
   "status": "done",
   "slots": [
    "0x2738"
@@ -90,7 +90,7 @@
  {
   "id": "s2058:001c4",
   "jp": "老はいない気がしますが……。",
-  "en": "I don't think there are any old ones,\nthough...",
+  "en": "I don't think there are\nany old ones, though...",
   "status": "done",
   "slots": [
    "0x2764"
@@ -112,7 +112,7 @@
  {
   "id": "s2058:00213",
   "jp": "言えてませんよ兄貴。\nろうにゃく、にょ。とは歳や男女の\n区別なく全ての人々って意味です。",
-  "en": "You didn't say it right, Boss. \"Young and\nmeow-- old, men and... women\" means all\npeople, regardless of age or sex.",
+  "en": "You didn't say it right, Boss.\n\"Young and meow-- old, men and... women\"\nmeans all people, regardless of age or sex.",
   "status": "done",
   "slots": [
    "0x27af"
@@ -145,7 +145,7 @@
  {
   "id": "s2058:002aa",
   "jp": "ちょっとぉ！\nこのパメラ様を差し置いて\nなに盛り上がってんだわさ！",
-  "en": "Heeey! What are you all getting so worked\nup about, ignoring the Great Pamela-sama,\ndontcha know!",
+  "en": "Heeey! What are you all getting\nso worked up about, ignoring the\nGreat Pamela-sama, dontcha know!",
   "status": "done",
   "slots": [
    "0x2810"
@@ -266,7 +266,7 @@
  {
   "id": "s2058:00480",
   "jp": "なんで恩もない奴を通さなきゃ\nいけないんだわさ！",
-  "en": "Why should I let through people who haven't\ndone me any favours, dontcha know!",
+  "en": "Why should I let through people who\nhaven't done me any favours, dontcha know!",
   "status": "done",
   "slots": [
    "0x296d"
@@ -277,7 +277,7 @@
  {
   "id": "s2058:004b4",
   "jp": "うわ、ちょっと兄貴、近年稀に見る\n迷惑な人ですよ。",
-  "en": "Whoa, Boss, she's the most annoying person\nwe've seen in years.",
+  "en": "Whoa, Boss, she's the most annoying\nperson we've seen in years.",
   "status": "done",
   "slots": [
    "0x2983"
@@ -299,7 +299,7 @@
  {
   "id": "s2058:00507",
   "jp": "恩がなければ通れないというのも\n微妙な理由ですね……。",
-  "en": "Not letting us pass because we haven't done\nher a favour is a pretty questionable\nreason...",
+  "en": "Not letting us pass because we\nhaven't done her a favour is a\npretty questionable reason...",
   "status": "done",
   "slots": [
    "0x29cc"
@@ -310,7 +310,7 @@
  {
   "id": "s2058:00541",
   "jp": "別に、ここはあんたの島じゃない\nでしょうが。\nさぁ、退きなさい。",
-  "en": "This isn't your island or anything. Come on,\nmove.",
+  "en": "This isn't your island or\nanything. Come on, move.",
   "status": "done",
   "slots": [
    "0x29ec"
@@ -321,7 +321,7 @@
  {
   "id": "s2058:00584",
   "jp": "やだやだやだ！　遺跡の欠片を\n見つけるまで絶対どかない！\n持ってないなら、あっちいけ！",
-  "en": "No, no, nooo! I'm not moving until I find a ruin\nshard! If you don't have one, go away!",
+  "en": "No, no, nooo! I'm not moving until I find a\nruin shard! If you don't have one, go away!",
   "status": "done",
   "slots": [
    "0x2a05"
@@ -332,7 +332,7 @@
  {
   "id": "s2058:005dd",
   "jp": "うわ！　お兄ちゃん！　\nこれロコモコと同じ魔法だよ！\nそれもロコモコより強力な。",
-  "en": "Whoa! Big Brother! This is the same magic\nas Locomoco's! And it's stronger than\nLocomoco's.",
+  "en": "Whoa! Big Brother! This is the\nsame magic as Locomoco's!\nAnd it's stronger than Locomoco's.",
   "status": "done",
   "slots": [
    "0x2a62"
@@ -365,7 +365,7 @@
  {
   "id": "s2058:0066a",
   "jp": "こりゃあ、遺跡の欠片を持って来る\nしかねぇなぁ。",
-  "en": "Looks like we'll just have to bring her a ruin\nshard.",
+  "en": "Looks like we'll just have\nto bring her a ruin shard.",
   "status": "done",
   "slots": [
    "0x2ac5"
@@ -376,7 +376,7 @@
  {
   "id": "s2058:0069e",
   "jp": "そうしましょう。\nまともに相手すると\nこっちが疲れるわ。",
-  "en": "Let's do that. Dealing with her head-on will\njust wear us out.",
+  "en": "Let's do that. Dealing with her\nhead-on will just wear us out.",
   "status": "done",
   "slots": [
    "0x2ade"
@@ -519,7 +519,7 @@
  {
   "id": "s2058:00856",
   "jp": "イシュト、あそこ！\n遺跡を荒らしてる人達がいる！",
-  "en": "Ishut, over there! There are people\nransacking the ruins!",
+  "en": "Ishut, over there! There are\npeople ransacking the ruins!",
   "status": "done",
   "slots": [
    "0x3fcb"
@@ -563,7 +563,7 @@
  {
   "id": "s2058:00915",
   "jp": "た、食べたい……って、ダメダメ！\n早くパメラさんに持って行かないと",
-  "en": "I-I want to eat it... No, no, no! I have to take\nit to Pamela-san, quick!",
+  "en": "I-I want to eat it... No, no, no!\nI have to take it to Pamela-san, quick!",
   "status": "done",
   "slots": [
    "0x427a"
@@ -585,7 +585,7 @@
  {
   "id": "s2058:00976",
   "jp": "おおぉっ！　これこれ！\nこれを探してたんだわさ！",
-  "en": "Ooooh! This is it! This is what I was looking\nfor, dontcha know!",
+  "en": "Ooooh! This is it! This is what I\nwas looking for, dontcha know!",
   "status": "done",
   "slots": [
    "0x48ec"
@@ -596,7 +596,7 @@
  {
   "id": "s2058:009aa",
   "jp": "なんでこれを探してたの？\nパメラさんも考古学者さん？",
-  "en": "Why were you looking for it? Are you an\narchaeologist too, Pamela-san?",
+  "en": "Why were you looking for it?\nAre you an archaeologist too, Pamela-san?",
   "status": "done",
   "slots": [
    "0x4905"
@@ -607,7 +607,7 @@
  {
   "id": "s2058:009e2",
   "jp": "私ってば、探究心の塊なのよねぇ。\nそんで、この世界のことを調べて\n周ってるわけだわさ。",
-  "en": "Me, I'm a bundle of curiosity, you see. So I'm\ngoing around investigating this world,\ndontcha know.",
+  "en": "Me, I'm a bundle of curiosity, you see.\nSo I'm going around investigating\nthis world, dontcha know.",
   "status": "done",
   "slots": [
    "0x491e"
@@ -629,7 +629,7 @@
  {
   "id": "s2058:00a6d",
   "jp": "それは、ただあんたと出身が\n同じだけよ、オチビちゃん。",
-  "en": "That's just because I come from the same\nplace as you, shorty.",
+  "en": "That's just because I come from\nthe same place as you, shorty.",
   "status": "done",
   "slots": [
    "0x495e"
@@ -695,7 +695,7 @@
  {
   "id": "s2058:00b80",
   "jp": "あんた達と一緒にいるとお目当ての\nものが手に入りやすそうだからね！",
-  "en": "Because sticking with you lot looks like the\neasiest way to get what I'm after!",
+  "en": "Because sticking with you lot looks like\nthe easiest way to get what I'm after!",
   "status": "done",
   "slots": [
    "0x4a11"
@@ -706,7 +706,7 @@
  {
   "id": "s2058:00bc6",
   "jp": "うわ、これでもかってぐらいに\n自分勝手な理由だよ。",
-  "en": "Wow, that's about as selfish a reason as it\ngets.",
+  "en": "Wow, that's about as\nselfish a reason as it gets.",
   "status": "done",
   "slots": [
    "0x4a27"
@@ -728,7 +728,7 @@
  {
   "id": "s2058:00c1f",
   "jp": "そうですね。戦力は多いほうが\nいいと思います。",
-  "en": "That's true. I think the more fighters, the\nbetter.",
+  "en": "That's true. I think the\nmore fighters, the better.",
   "status": "done",
   "slots": [
    "0x4a80"
@@ -761,7 +761,7 @@
  {
   "id": "s2058:00c96",
   "jp": "ま、しばらくすれば飽きるだろ。\n勝手にさせろ。船上で暴れられても\n困るしな。",
-  "en": "Well, she'll get bored after a while. Let her\ndo as she likes. It'd be a pain if she went wild\non board, too.",
+  "en": "Well, she'll get bored after a while.\nLet her do as she likes. It'd be a\npain if she went wild on board, too.",
   "status": "done",
   "slots": [
    "0x4aef"
@@ -772,7 +772,7 @@
  {
   "id": "s2058:00ce5",
   "jp": "ま、仕方がないわね。\nこれで通れるし、\nさっさと行きましょう。",
-  "en": "Well, it can't be helped. At least we can get\nthrough now, so let's get going.",
+  "en": "Well, it can't be helped. At least we\ncan get through now, so let's get going.",
   "status": "done",
   "slots": [
    "0x4b08"
@@ -783,7 +783,7 @@
  {
   "id": "s2058:00d26",
   "jp": "あ、師匠。\n狭いので、落ちないように\n注意してください。",
-  "en": "Ah, Master. It's narrow, so please be careful\nnot to fall.",
+  "en": "Ah, Master. It's narrow,\nso please be careful not to fall.",
   "status": "done",
   "slots": [
    "0x4b7c"
@@ -871,7 +871,7 @@
  {
   "id": "s2058:00e39",
   "jp": "ローガンさん！？\nわざわざ会いにきたっすか！？",
-  "en": "Rogan-san!? You came all the way to see us,\nsir!?",
+  "en": "Rogan-san!? You came all\nthe way to see us, sir!?",
   "status": "done",
   "slots": [
    "0x4d0d"
@@ -882,7 +882,7 @@
  {
   "id": "s2058:00e6b",
   "jp": "諸君らと戦えるとワクワクしていた\nというのに中々来ないからな。\n様子を見に来た。",
-  "en": "I was thrilled at the thought of battling you\nall, yet you were so slow to arrive. So I came\nto see how things stood.",
+  "en": "I was thrilled at the thought of battling\nyou all, yet you were so slow to arrive.\nSo I came to see how things stood.",
   "status": "done",
   "slots": [
    "0x4d26"
@@ -948,7 +948,7 @@
  {
   "id": "s2058:00f80",
   "jp": "パメラ様が遺跡の欠片を\n所望している！\nなんとしてでも探し出せ！",
-  "en": "Pamela-sama desires a ruin shard! Find one,\nno matter what!",
+  "en": "Pamela-sama desires a ruin shard!\nFind one, no matter what!",
   "status": "done",
   "slots": [
    "0x2dbc"
@@ -958,7 +958,7 @@
  {
   "id": "s2058:00fbf",
   "jp": "隊長！　北西の方角に、\n遺跡跡と思われる物を発見！",
-  "en": "Captain! We've found what looks like the\nremains of ruins to the northwest!",
+  "en": "Captain! We've found what looks like\nthe remains of ruins to the northwest!",
   "status": "done",
   "slots": [
    "0x2dce"
@@ -968,7 +968,7 @@
  {
   "id": "s2058:00ff1",
   "jp": "よくやった！\n総員！　直ちにその位置へ\n移動せよ！　行けぇぇぇ！！",
-  "en": "Well done! All troops! Move to that position\nat once! Gooooo!!",
+  "en": "Well done! All troops! Move to\nthat position at once! Gooooo!!",
   "status": "done",
   "slots": [
    "0x2de0"
@@ -988,7 +988,7 @@
  {
   "id": "s2058:01045",
   "jp": "我等はパメラ様支援隊！\nパメラ様の美しさに導かれ、\n集った隊だ！",
-  "en": "We are the Pamela-sama Support Unit! A\nunit gathered here, guided by\nPamela-sama's beauty!",
+  "en": "We are the Pamela-sama Support Unit!\nA unit gathered here,\nguided by Pamela-sama's beauty!",
   "status": "done",
   "slots": [
    "0x5b6a"
@@ -998,7 +998,7 @@
  {
   "id": "s2058:01084",
   "jp": "パメラ様の仲間は我等の仲間！\nお近づきの印に、どうぞ。",
-  "en": "Pamela-sama's friends are our friends!\nPlease, take this as a token of our\nacquaintance.",
+  "en": "Pamela-sama's friends are our\nfriends! Please, take this as\na token of our acquaintance.",
   "status": "done",
   "slots": [
    "0x5b7c"
@@ -1008,7 +1008,7 @@
  {
   "id": "s2058:010ba",
   "jp": "我等はこれからも、陰ながら\nパメラ様を支援し続けたいと\n思います！",
-  "en": "We will go on supporting Pamela-sama from\nthe shadows!",
+  "en": "We will go on supporting\nPamela-sama from the shadows!",
   "status": "done",
   "slots": [
    "0x5bd5"
@@ -1018,7 +1018,7 @@
  {
   "id": "s2058:010fb",
   "jp": "我等はこれからも、陰ながら\nパメラ様を支援し続けたいと\n思います！",
-  "en": "We will go on supporting Pamela-sama from\nthe shadows!",
+  "en": "We will go on supporting\nPamela-sama from the shadows!",
   "status": "done",
   "slots": [
    "0x5bed"
@@ -1028,7 +1028,7 @@
  {
   "id": "s2058:0113c",
   "jp": "おや、珍しいねぇ。直接訪ねてくる\n人がいるなんて。",
-  "en": "Oh, how rare. Someone actually coming to\nvisit in person.",
+  "en": "Oh, how rare. Someone actually\ncoming to visit in person.",
   "status": "done",
   "slots": [
    "0x2ea1",
@@ -1039,7 +1039,7 @@
  {
   "id": "s2058:0116e",
   "jp": "この島は遺跡の跡やら毒沼やらで\n人が中々近寄らないからねぇ。\n主に注文を受けて配達するのさ。",
-  "en": "With all the ruins and poison swamps on this\nisland, people hardly come near. I mostly\ntake orders and deliver.",
+  "en": "With all the ruins and poison swamps\non this island, people hardly come near.\nI mostly take orders and deliver.",
   "status": "done",
   "slots": [
    "0x2ea8",
@@ -1050,7 +1050,7 @@
  {
   "id": "s2058:011c9",
   "jp": "さて、どれを仕立てて欲しい？\n……おぉ、いい毛皮じゃないか。\nちょっと待っててくれよ。",
-  "en": "Now, what would you like me to tailor?\n...Ooh, isn't that a fine fur. Wait just a\nmoment.",
+  "en": "Now, what would you like me to tailor?\n...Ooh, isn't that a fine fur.\nWait just a moment.",
   "status": "done",
   "slots": [
    "0x2eaf",
@@ -1061,7 +1061,7 @@
  {
   "id": "s2058:0121e",
   "jp": "ホラ、完成。\nこれを着れば、寒さなんて\n吹き飛ぶぞ！",
-  "en": "There, all done. Wear this, and the cold'll be\nblown away!",
+  "en": "There, all done. Wear this,\nand the cold'll be blown away!",
   "status": "done",
   "slots": [
    "0x2f23",
@@ -1116,7 +1116,7 @@
  {
   "id": "s2058:012d8",
   "jp": "おや、珍しいねぇ。直接訪ねてくる\n人がいるなんて。",
-  "en": "Oh, how rare. Someone actually coming to\nvisit in person.",
+  "en": "Oh, how rare. Someone actually\ncoming to visit in person.",
   "status": "done",
   "slots": [
    "0x2f70",
@@ -1127,7 +1127,7 @@
  {
   "id": "s2058:0130a",
   "jp": "この島は遺跡の後やら毒沼やらで\n人が中々近寄らないからねぇ。\n主に注文さ。",
-  "en": "With all the ruins and poison swamps on this\nisland, people hardly come near. It's mostly\norders.",
+  "en": "With all the ruins and poison\nswamps on this island, people hardly\ncome near. It's mostly orders.",
   "status": "done",
   "slots": [
    "0x2f77",
@@ -1160,7 +1160,7 @@
  {
   "id": "s2058:013c2",
   "jp": "ここストレガッタ地域に生えている\n木の名前は世界樹と言っての。",
-  "en": "The tree that grows here in the Stregatta\nregion is called the World Tree.",
+  "en": "The tree that grows here in the\nStregatta region is called the World Tree.",
   "status": "done",
   "slots": [
    "0x5e04"
@@ -1170,7 +1170,7 @@
  {
   "id": "s2058:01400",
   "jp": "遺跡のウィルと毒沼のウィルを\n養分とした大変珍しい木なのじゃ。",
-  "en": "It's a very rare tree that feeds on the Will\nof the ruins and the Will of the poison\nswamps.",
+  "en": "It's a very rare tree that feeds\non the Will of the ruins and\nthe Will of the poison swamps.",
   "status": "done",
   "slots": [
    "0x5e0b"
@@ -1180,7 +1180,7 @@
  {
   "id": "s2058:0143e",
   "jp": "世界樹の葉には不思議な力が\nあっての。\nまぁ、口に含めばわかるじゃろう。",
-  "en": "The leaves of the World Tree have a\nmysterious power. Well, you'll understand if\nyou put one in your mouth.",
+  "en": "The leaves of the World Tree have\na mysterious power. Well, you'll\nunderstand if you put one in your mouth.",
   "status": "done",
   "slots": [
    "0x5e7a"
@@ -1200,7 +1200,7 @@
  {
   "id": "s2058:01494",
   "jp": "このような両極端な地においても、\n木は生きておるのじゃ。\n素晴らしいのう。",
-  "en": "Even in a land of such extremes, the tree\nlives on. Wonderful, isn't it?",
+  "en": "Even in a land of such extremes,\nthe tree lives on. Wonderful, isn't it?",
   "status": "done",
   "slots": [
    "0x5e99"
@@ -1210,7 +1210,7 @@
  {
   "id": "s2058:014dd",
   "jp": "ここストレガッタ地域に生えている\n木の名前は世界樹と言っての。",
-  "en": "The tree that grows here in the Stregatta\nregion is called the World Tree.",
+  "en": "The tree that grows here in the\nStregatta region is called the World Tree.",
   "status": "done",
   "slots": [
    "0x3016"
@@ -1220,7 +1220,7 @@
  {
   "id": "s2058:0151b",
   "jp": "遺跡のウィルと毒沼のウィルを\n養分とした大変珍しい木なのじゃ。",
-  "en": "It's a very rare tree that feeds on the Will\nof the ruins and the Will of the poison\nswamps.",
+  "en": "It's a very rare tree that feeds\non the Will of the ruins and\nthe Will of the poison swamps.",
   "status": "done",
   "slots": [
    "0x301d"
@@ -1230,7 +1230,7 @@
  {
   "id": "s2058:01559",
   "jp": "しかし、少しでもバランスが\n崩れれば、この様に枯れてしまう。",
-  "en": "But if the balance tips even a little, it\nwithers like this.",
+  "en": "But if the balance tips even\na little, it withers like this.",
   "status": "done",
   "slots": [
    "0x308c"
@@ -1270,7 +1270,7 @@
  {
   "id": "s2058:01621",
   "jp": "うお、危ねぇ！\n毒沼に落ちる所だったぜ。",
-  "en": "Whoa, close one! I almost fell into the poison\nswamp.",
+  "en": "Whoa, close one! I almost\nfell into the poison swamp.",
   "status": "done",
   "slots": [
    "0x5f40"
@@ -1280,7 +1280,7 @@
  {
   "id": "s2058:01649",
   "jp": "苦労して拾ったんだから、\n高価な宝石であってくれよ？",
-  "en": "I went through a lot to pick this up, so you'd\nbetter be a pricey jewel.",
+  "en": "I went through a lot to pick this up,\nso you'd better be a pricey jewel.",
   "status": "done",
   "slots": [
    "0x5f96"
@@ -1300,7 +1300,7 @@
  {
   "id": "s2058:016af",
   "jp": "これでただの石っころだったら\n怒りますよ？",
-  "en": "If this turns out to be a plain old pebble, I'll\nbe mad, you know?",
+  "en": "If this turns out to be a plain old\npebble, I'll be mad, you know?",
   "status": "done",
   "slots": [
    "0x6046"
@@ -1310,7 +1310,7 @@
  {
   "id": "s2058:016d9",
   "jp": "うわ、危ないところにあるなぁ。\n取れるかなぁ？\nん～しょ……っとぉ。",
-  "en": "Whoa, it's in a dangerous spot. Can I reach\nit? Mmm... hup.",
+  "en": "Whoa, it's in a dangerous spot.\nCan I reach it? Mmm... hup.",
   "status": "done",
   "slots": [
    "0x6099"
@@ -1320,7 +1320,7 @@
  {
   "id": "s2058:0171c",
   "jp": "取れた！\nなんだろうこれ。普通の金属よりも\nウィルが豊富に含まれてる。",
-  "en": "Got it! What is this? It has more Will in it\nthan ordinary metal.",
+  "en": "Got it! What is this? It has more\nWill in it than ordinary metal.",
   "status": "done",
   "slots": [
    "0x60e4"
@@ -1330,7 +1330,7 @@
  {
   "id": "s2058:01761",
   "jp": "危な～い。\nあとちょっとで毒沼に落ちる所\nだったわ。",
-  "en": "That was close. I almost fell into the poison\nswamp.",
+  "en": "That was close. I almost\nfell into the poison swamp.",
   "status": "done",
   "slots": [
    "0x6130"
@@ -1340,7 +1340,7 @@
  {
   "id": "s2058:01794",
   "jp": "ここまで危ない思いしたんだから。\nこれはきっと高い宝石に\n違いないわ！",
-  "en": "After a scare like that, this has to be an\nexpensive jewel!",
+  "en": "After a scare like that,\nthis has to be an expensive jewel!",
   "status": "done",
   "slots": [
    "0x617b"
@@ -1350,7 +1350,7 @@
  {
   "id": "s2058:017d9",
   "jp": "ふぅ～間一髪。\n毒沼に落ちずにすんだぜ。",
-  "en": "Phew, close call. Didn't fall into the poison\nswamp.",
+  "en": "Phew, close call. Didn't fall\ninto the poison swamp.",
   "status": "done",
   "slots": [
    "0x61c7"
@@ -1360,7 +1360,7 @@
  {
   "id": "s2058:01801",
   "jp": "見た事もねぇ宝石だなぁ。\nヘヘッ、こいつぁきっと大物だぜ。",
-  "en": "A jewel I ain't ever seen. Heheh, this one's\ngotta be a big catch.",
+  "en": "A jewel I ain't ever seen. Heheh,\nthis one's gotta be a big catch.",
   "status": "done",
   "slots": [
    "0x6212"
@@ -1370,7 +1370,7 @@
  {
   "id": "s2058:0183b",
   "jp": "この宝石……\n自分ですら見た事が無い。",
-  "en": "This jewel... Even I have never seen one like\nit.",
+  "en": "This jewel... Even I have\nnever seen one like it.",
   "status": "done",
   "slots": [
    "0x6265"
@@ -1380,7 +1380,7 @@
  {
   "id": "s2058:01861",
   "jp": "毒沼のウィルに感化された宝石が\n変化したのか？",
-  "en": "Was a jewel changed by the influence of the\npoison swamp's Will?",
+  "en": "Was a jewel changed by the\ninfluence of the poison swamp's Will?",
   "status": "done",
   "slots": [
    "0x62b0"
@@ -1400,7 +1400,7 @@
  {
   "id": "s2058:018aa",
   "jp": "こんなの、ロコモコの魔法で\n引き寄せちゃえばラクチ～ン！",
-  "en": "With Locomoco's magic, pulling things like\nthis over is a piece of cake!",
+  "en": "With Locomoco's magic, pulling things\nlike this over is a piece of cake!",
   "status": "done",
   "slots": [
    "0x6315"
@@ -1410,7 +1410,7 @@
  {
   "id": "s2058:018e2",
   "jp": "おぉ、\nこれはママのお気に入りの一つ、\nダークマターだよ！　やったね！",
-  "en": "Ooh, this is one of Mama's favourites, Dark\nMatter! Yay!",
+  "en": "Ooh, this is one of Mama's\nfavourites, Dark Matter! Yay!",
   "status": "done",
   "slots": [
    "0x636b"
@@ -1420,7 +1420,7 @@
  {
   "id": "s2058:01927",
   "jp": "空からだったら、たとえ毒沼の\n近くにあってもラクショーに\n取れるっす！",
-  "en": "From the sky, it's easy to grab, even if it's\nnext to a poison swamp, sir!",
+  "en": "From the sky, it's easy to grab,\neven if it's next to a poison swamp, sir!",
   "status": "done",
   "slots": [
    "0x63be"
@@ -1430,7 +1430,7 @@
  {
   "id": "s2058:0196c",
   "jp": "うお！　これ、ダークマターっす！\n魔界最高級の宝石っすよ！",
-  "en": "Whoa! This is Dark Matter, sir! The finest\njewel of the demon world!",
+  "en": "Whoa! This is Dark Matter, sir!\nThe finest jewel of the demon world!",
   "status": "done",
   "slots": [
    "0x6414"
@@ -1440,7 +1440,7 @@
  {
   "id": "s2058:019a6",
   "jp": "流石の私でも毒沼を泳ぐ事は\nできないからな。\n慎重にとらなければ……。",
-  "en": "Even I can't swim in a poison swamp. I must\ntake it carefully...",
+  "en": "Even I can't swim in a poison swamp.\nI must take it carefully...",
   "status": "done",
   "slots": [
    "0x646e"
@@ -1450,7 +1450,7 @@
  {
   "id": "s2058:019eb",
   "jp": "なんだこの宝石は……。\n心なしかシャンティエと\n同じ雰囲気を感じるぞ。",
-  "en": "What is this jewel... I almost feel the same\nair as Chantier from it.",
+  "en": "What is this jewel... I almost feel\nthe same air as Chantier from it.",
   "status": "done",
   "slots": [
    "0x64c4"
@@ -1470,7 +1470,7 @@
  {
   "id": "s2058:01a51",
   "jp": "ここまで苦労して無価値なもの\nだったら、私泣いてしまいます。",
-  "en": "If it turns out worthless after all this\ntrouble, I'll cry.",
+  "en": "If it turns out worthless\nafter all this trouble, I'll cry.",
   "status": "done",
   "slots": [
    "0x6574"
@@ -1500,7 +1500,7 @@
  {
   "id": "s2058:01ab7",
   "jp": "お、お宝の為なら、毒沼の近く\nだろうが……関係ないわ！",
-  "en": "F-for treasure, I don't care if it's next to a\npoison swamp...!",
+  "en": "F-for treasure, I don't care if\nit's next to a poison swamp...!",
   "status": "done",
   "slots": [
    "0x667e"
@@ -1520,7 +1520,7 @@
  {
   "id": "s2058:01b38",
   "jp": "フッフッフ。不肖カミュル！\n昔からバランス感覚だけはいい！",
-  "en": "Hehehe. Unworthy as I am, I, Kamuru, have\nalways had a good sense of balance!",
+  "en": "Hehehe. Unworthy as I am, I, Kamuru,\nhave always had a good sense of balance!",
   "status": "done",
   "slots": [
    "0x672e"
@@ -1580,7 +1580,7 @@
  {
   "id": "s2058:01c32",
   "jp": "ふぅ。なんとかとれましたわね。\nこれは、どんな宝石なのかしら？",
-  "en": "Phew. I managed to get it. What kind of\njewel could this be?",
+  "en": "Phew. I managed to get it.\nWhat kind of jewel could this be?",
   "status": "done",
   "slots": [
    "0x68e4"
@@ -1590,7 +1590,7 @@
  {
   "id": "s2058:01c70",
   "jp": "こういうのはビビッたら負けだ！\n思い切って……オリャ！\nよし、ゲットォ！",
-  "en": "With stuff like this, you lose the moment\nyou chicken out! Just go for it... Orya! All\nright, got it!",
+  "en": "With stuff like this, you lose\nthe moment you chicken out!\nJust go for it... Orya! All right, got it!",
   "status": "done",
   "slots": [
    "0x692e"
@@ -1632,7 +1632,7 @@
  {
   "id": "s2058:01d20",
   "jp": "お？　なんか、ここの土だけ色が\n違いません？\n掘ってみましょうか……。",
-  "en": "Oh? Isn't the dirt a different colour just\nhere? Let's try digging...",
+  "en": "Oh? Isn't the dirt a different colour\njust here? Let's try digging...",
   "status": "done",
   "slots": [
    "0x3207",
@@ -1654,7 +1654,7 @@
  {
   "id": "s2058:01d93",
   "jp": "ん？　この土だけウィルが違う。\n掘ってみよう！",
-  "en": "Hm? The Will is different just in this dirt.\nLet's dig!",
+  "en": "Hm? The Will is different\njust in this dirt. Let's dig!",
   "status": "done",
   "slots": [
    "0x32a5",
@@ -1676,7 +1676,7 @@
  {
   "id": "s2058:01ddf",
   "jp": "この土、他の土よりも固いわね……\nなにかありそう。",
-  "en": "This dirt is harder than the rest... There's\nsomething here.",
+  "en": "This dirt is harder than the rest...\nThere's something here.",
   "status": "done",
   "slots": [
    "0x3355",
@@ -1698,7 +1698,7 @@
  {
   "id": "s2058:01e3d",
   "jp": "へへヘ、いくら土に紛れてても、\n俺の目はごまかせねぇぜ。",
-  "en": "Heheh, no matter how well it blends into the\ndirt, it can't fool my eyes.",
+  "en": "Heheh, no matter how well it blends\ninto the dirt, it can't fool my eyes.",
   "status": "done",
   "slots": [
    "0x3405",
@@ -1709,7 +1709,7 @@
  {
   "id": "s2058:01e75",
   "jp": "うを！　本当に掘り当てちまった！\nさ、さすが俺……！",
-  "en": "Whoa! I really dug somethin' up! Th-that's\nme for ya...!",
+  "en": "Whoa! I really dug somethin'\nup! Th-that's me for ya...!",
   "status": "done",
   "slots": [
    "0x345b",
@@ -1720,7 +1720,7 @@
  {
   "id": "s2058:01ea9",
   "jp": "ム、この現場の人物。やり方が\nまるで素人だ……見てられん。\n自分がやろう。",
-  "en": "Hm, whoever worked this site is a complete\namateur... I can't bear to watch. I shall do it\nmyself.",
+  "en": "Hm, whoever worked this\nsite is a complete amateur...\nI can't bear to watch. I shall do it myself.",
   "status": "done",
   "slots": [
    "0x34b5",
@@ -1731,7 +1731,7 @@
  {
   "id": "s2058:01ef2",
   "jp": "ホラ、早速出てきたぞ！\nこれはいいものだ！",
-  "en": "There, something's come out already! This\nis a fine find!",
+  "en": "There, something's come out\nalready! This is a fine find!",
   "status": "done",
   "slots": [
    "0x350b",
@@ -1742,7 +1742,7 @@
  {
   "id": "s2058:01f1c",
   "jp": "む！　ロコモコちゃんレーダーが\n反応してるよ！\nそこだ！",
-  "en": "Hm! The Locomoco-chan Radar is reacting!\nRight there!",
+  "en": "Hm! The Locomoco-chan\nRadar is reacting! Right there!",
   "status": "done",
   "slots": [
    "0x3565",
@@ -1764,7 +1764,7 @@
  {
   "id": "s2058:01f79",
   "jp": "この土だけ妙に固いっすね。\nなにかありそうですよ？",
-  "en": "This dirt is strangely hard just here, sir.\nLooks like there's something in it.",
+  "en": "This dirt is strangely hard just here,\nsir. Looks like there's something in it.",
   "status": "done",
   "slots": [
    "0x3615",
@@ -1775,7 +1775,7 @@
  {
   "id": "s2058:01fab",
   "jp": "おぉこれは立派な宝石っす！\n私、才能あるんですかねぇ？",
-  "en": "Ooh, this is a fine jewel, sir! Maybe I've got\ntalent?",
+  "en": "Ooh, this is a fine jewel,\nsir! Maybe I've got talent?",
   "status": "done",
   "slots": [
    "0x366b",
@@ -1786,7 +1786,7 @@
  {
   "id": "s2058:01fe1",
   "jp": "発掘か、面白そうだな。\n私も少しやってみるか。",
-  "en": "Excavation, eh? That looks interesting. I'll\ngive it a try too.",
+  "en": "Excavation, eh? That looks\ninteresting. I'll give it a try too.",
   "status": "done",
   "slots": [
    "0x36c5",
@@ -1797,7 +1797,7 @@
  {
   "id": "s2058:0200f",
   "jp": "おぉ、これは中々いいんじゃ\nないか？\nフフ、面白いな、発掘というのは。",
-  "en": "Ooh, isn't this rather good? Hehe,\nexcavation is interesting.",
+  "en": "Ooh, isn't this rather good?\nHehe, excavation is interesting.",
   "status": "done",
   "slots": [
    "0x371b",
@@ -1808,7 +1808,7 @@
  {
   "id": "s2058:02054",
   "jp": "発掘ですか……それならば\nセンチュリオバスターの出番です！",
-  "en": "Excavation? Then it's time for Centurio\nBuster to shine!",
+  "en": "Excavation? Then it's time\nfor Centurio Buster to shine!",
   "status": "done",
   "slots": [
    "0x3775",
@@ -1863,7 +1863,7 @@
  {
   "id": "s2058:02114",
   "jp": "アタシの鼻から逃れられない\nお宝はないのよぉ！",
-  "en": "There's no treasure that can escape my\nnose!",
+  "en": "There's no treasure that\ncan escape my nose!",
   "status": "done",
   "slots": [
    "0x392b",
@@ -1874,7 +1874,7 @@
  {
   "id": "s2058:02142",
   "jp": "発掘か。筋力の鍛錬に丁度いいかも\nしれませんね。",
-  "en": "Excavation. It might be just the thing for\ntraining my muscles.",
+  "en": "Excavation. It might be just the\nthing for training my muscles.",
   "status": "done",
   "slots": [
    "0x3985",
@@ -1885,7 +1885,7 @@
  {
   "id": "s2058:02172",
   "jp": "鍛えられる上に宝石まで……\n発掘とは、素晴らしいですね！",
-  "en": "Training and jewels too... Excavation is\nwonderful!",
+  "en": "Training and jewels too...\nExcavation is wonderful!",
   "status": "done",
   "slots": [
    "0x39db",
@@ -1907,7 +1907,7 @@
  {
   "id": "s2058:021e2",
   "jp": "女の勘以上に、パメラ様の勘は\nよく当たるんだわさ。",
-  "en": "The Great Pamela-sama's intuition is even\nmore on the mark than a woman's intuition,\ndontcha know.",
+  "en": "The Great Pamela-sama's intuition\nis even more on the mark than a\nwoman's intuition, dontcha know.",
   "status": "done",
   "slots": [
    "0x3a8b",
@@ -1940,7 +1940,7 @@
  {
   "id": "s2058:0227b",
   "jp": "ここが怪しいんだな？\nよっしゃあ、任せろ！",
-  "en": "This spot's suspicious, huh? All right, leave\nit to me!",
+  "en": "This spot's suspicious, huh?\nAll right, leave it to me!",
   "status": "done",
   "slots": [
    "0x3b9a",
@@ -1962,7 +1962,7 @@
  {
   "id": "s2058:022c6",
   "jp": "俺の拳にかかりゃ、\n地盤だって一撃だぜ！",
-  "en": "Once my fist gets to it, even the bedrock\ngoes down in one hit!",
+  "en": "Once my fist gets to it,\neven the bedrock goes down in one hit!",
   "status": "done",
   "slots": [
    "0x3c06",
@@ -1973,7 +1973,7 @@
  {
   "id": "s2058:050a8",
   "jp": "わざわざそっちから出向くなんて。\nお前、相当物好きだな！",
-  "en": "Comin' all the way out to us yourself. You\nsure are a weirdo!",
+  "en": "Comin' all the way out to us yourself.\nYou sure are a weirdo!",
   "status": "done",
   "slots": [
    "0x75c4"
@@ -1983,7 +1983,7 @@
  {
   "id": "s2058:050e0",
   "jp": "戦いは私に生を実感させる！\nさぁ、尋常に勝負だ！",
-  "en": "Battle makes me feel alive! Now, face me in\nfair combat!",
+  "en": "Battle makes me feel alive!\nNow, face me in fair combat!",
   "status": "done",
   "slots": [
    "0x75dd"
@@ -2013,7 +2013,7 @@
  {
   "id": "s2058:05182",
   "jp": "もぉ、アナタのウィル、\n変な感じするからあんまり\n近寄らないでよ！",
-  "en": "Geez, your Will feels weird, so don't come so\nclose!",
+  "en": "Geez, your Will feels weird,\nso don't come so close!",
   "status": "done",
   "slots": [
    "0x779e"
@@ -2043,7 +2043,7 @@
  {
   "id": "s2058:0522c",
   "jp": "戦いは死ぬまで終わらぬぞ！\nさぁ、戦えぇい！",
-  "en": "Battle does not end until death! Now,\nfiiight!",
+  "en": "Battle does not end\nuntil death! Now, fiiight!",
   "status": "done",
   "slots": [
    "0x78a4"
@@ -2053,7 +2053,7 @@
  {
   "id": "s2058:05258",
   "jp": "お前ほどの戦い好きは\n久しぶりに見たぜ。",
-  "en": "Haven't seen anyone who loves fightin' as\nmuch as you in a long time.",
+  "en": "Haven't seen anyone who loves fightin'\nas much as you in a long time.",
   "status": "done",
   "slots": [
    "0x7978"
@@ -2063,7 +2063,7 @@
  {
   "id": "s2058:05280",
   "jp": "貴殿は生前の私によく似ておる。\n楽しい戦いができそうだぞ！",
-  "en": "You greatly resemble me in life. This\npromises to be a joyous battle!",
+  "en": "You greatly resemble me in life.\nThis promises to be a joyous battle!",
   "status": "done",
   "slots": [
    "0x7991"
@@ -2073,7 +2073,7 @@
  {
   "id": "s2058:052ba",
   "jp": "つくづく常識ハズレな男だ。\n頭が痛くなるな。",
-  "en": "An utterly unreasonable man. He gives me a\nheadache.",
+  "en": "An utterly unreasonable man.\nHe gives me a headache.",
   "status": "done",
   "slots": [
    "0x7a65"
@@ -2093,7 +2093,7 @@
  {
   "id": "s2058:05314",
   "jp": "このガイコツ！\nロコモコの魔法でバラバラに\nしてやるんだから！",
-  "en": "You skeleton! Locomoco's magic is gonna\nblow you to pieces!",
+  "en": "You skeleton! Locomoco's magic\nis gonna blow you to pieces!",
   "status": "done",
   "slots": [
    "0x7b52"
@@ -2103,7 +2103,7 @@
  {
   "id": "s2058:05351",
   "jp": "魔法か。フフ、面白い！\nかかってくるがいい！",
-  "en": "Magic, is it? Hehe, how amusing! Come at\nme!",
+  "en": "Magic, is it? Hehe,\nhow amusing! Come at me!",
   "status": "done",
   "slots": [
    "0x7b6b"
@@ -2113,7 +2113,7 @@
  {
   "id": "s2058:0537d",
   "jp": "本当にアナタって人は……。\nいい加減帰りましょうよぉ。",
-  "en": "Honestly, you're just... Let's go back\nalready, sir.",
+  "en": "Honestly, you're just...\nLet's go back already, sir.",
   "status": "done",
   "slots": [
    "0x7c3f"
@@ -2123,7 +2123,7 @@
  {
   "id": "s2058:053b3",
   "jp": "私はまだ満足しておらぬ！\n未練を残したまま、\n帰れるわけがなかろう！",
-  "en": "I am not yet satisfied! How could I go back\nwith regrets left behind!",
+  "en": "I am not yet satisfied! How could I\ngo back with regrets left behind!",
   "status": "done",
   "slots": [
    "0x7c58"
@@ -2133,7 +2133,7 @@
  {
   "id": "s2058:053f6",
   "jp": "貴様の様なふざけた男は\n初めてみた！\n今すぐ槍の錆びにしてくれる！",
-  "en": "I've never seen a man as absurd as you! I'll\nmake you rust on my spear this instant!",
+  "en": "I've never seen a man as absurd as you!\nI'll make you rust on my spear this instant!",
   "status": "done",
   "slots": [
    "0x7d2c"
@@ -2163,7 +2163,7 @@
  {
   "id": "s2058:05476",
   "jp": "フハハハハハ！！\n私の体は鋼鉄よりも硬いぞ！",
-  "en": "Fwahahahahaha!! My body is harder than\nsteel!",
+  "en": "Fwahahahahaha!!\nMy body is harder than steel!",
   "status": "done",
   "slots": [
    "0x7e32"
@@ -2173,7 +2173,7 @@
  {
   "id": "s2058:054a2",
   "jp": "その骨の体。\n我がセンチュリオバスターで\n粉々にしてみせましょう！",
-  "en": "That body of bones. I'll smash it to dust\nwith my Centurio Buster!",
+  "en": "That body of bones. I'll smash it\nto dust with my Centurio Buster!",
   "status": "done",
   "slots": [
    "0x7f06"
@@ -2193,7 +2193,7 @@
  {
   "id": "s2058:05520",
   "jp": "グロリア海賊団カミュルの豪槍！\nとくと見よ！",
-  "en": "Behold the mighty spear of Kamuru of the\nGloria Pirates!",
+  "en": "Behold the mighty spear of\nKamuru of the Gloria Pirates!",
   "status": "done",
   "slots": [
    "0x7ff3"
@@ -2203,7 +2203,7 @@
  {
   "id": "s2058:0554c",
   "jp": "来い小童！\n偉大なる海賊の実力を\nその目に焼きつけよ！",
-  "en": "Come, whelp! Burn the might of a great\npirate into your eyes!",
+  "en": "Come, whelp! Burn the might of\na great pirate into your eyes!",
   "status": "done",
   "slots": [
    "0x800c"
@@ -2243,7 +2243,7 @@
  {
   "id": "s2058:05625",
   "jp": "私の硬度は鉄に勝る！\nやれるものならやってみよ！",
-  "en": "My hardness surpasses iron! Try it if you\ncan!",
+  "en": "My hardness surpasses iron!\nTry it if you can!",
   "status": "done",
   "slots": [
    "0x81e6"
@@ -2253,7 +2253,7 @@
  {
   "id": "s2058:05655",
   "jp": "フハハハ！\nまったく諸君らと戦うのは\n楽しいなぁ！　また会おう！",
-  "en": "Fwahahaha! Truly, battling you all is a joy!\nUntil we meet again!",
+  "en": "Fwahahaha! Truly, battling you\nall is a joy! Until we meet again!",
   "status": "done",
   "slots": [
    "0x83d3"
@@ -2264,7 +2264,7 @@
  {
   "id": "s2058:05698",
   "jp": "今回は普通に地上から帰るんだな。",
-  "en": "This time he's goin' home normally, over\nland.",
+  "en": "This time he's goin'\nhome normally, over land.",
   "status": "done",
   "slots": [
    "0x8b5b"
@@ -2297,7 +2297,7 @@
  {
   "id": "s2058:05705",
   "jp": "海水に浸かったせいだと思うっす。",
-  "en": "I think it's because he got soaked in\nseawater, sir.",
+  "en": "I think it's because he got\nsoaked in seawater, sir.",
   "status": "done",
   "slots": [
    "0x8b94"
@@ -2330,7 +2330,7 @@
  {
   "id": "s2058:05762",
   "jp": "しかし、不肖カミュル。\n彼の去る背中に漢を見ました。",
-  "en": "And yet, unworthy as I am, I, Kamuru, saw a\ntrue man in his retreating back.",
+  "en": "And yet, unworthy as I am, I, Kamuru,\nsaw a true man in his retreating back.",
   "status": "done",
   "slots": [
    "0x8c13"
@@ -2385,7 +2385,7 @@
  {
   "id": "s2058:0581f",
   "jp": "私はちょっと変わってるくらいが\n丁度いいんだわさ。",
-  "en": "For me, being a little weird is just right,\ndontcha know.",
+  "en": "For me, being a little weird\nis just right, dontcha know.",
   "status": "done",
   "slots": [
    "0x8c98"

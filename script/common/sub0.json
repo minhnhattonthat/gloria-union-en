@@ -2,7 +2,7 @@
  {
   "id": "c0:0125c",
   "jp": "おいおい……。\nまだ始まったばかりじゃねぇか。\n冗談……キツイぜ……。",
-  "en": "Oh, come on... It's only just gettin' started.\nGimme a... break...",
+  "en": "Oh, come on... It's only just gettin'\nstarted. Gimme a... break...",
   "status": "done",
   "slots": [
    "0x129"
@@ -13,7 +13,7 @@
  {
   "id": "c0:012a5",
   "jp": "こんな中途半端な所で終われねぇ。\n待ってろ皆、今……帰る。",
-  "en": "I can't end it halfway like this. Wait for me,\neveryone... I'm comin' back.",
+  "en": "I can't end it halfway like this.\nWait for me, everyone... I'm comin' back.",
   "status": "done",
   "slots": [
    "0x175"
@@ -24,7 +24,7 @@
  {
   "id": "c0:012e3",
   "jp": "体がピクリともしねぇ……。\nゴメンルルゥ、俺の意思は奴らには\n届かなかったみてぇだ……。",
-  "en": "My body won't even twitch... Sorry, Ruru,\nlooks like my will didn't reach 'em...",
+  "en": "My body won't even twitch... Sorry,\nRuru, looks like my will didn't reach 'em...",
   "status": "done",
   "slots": [
    "0x1c1"
@@ -35,7 +35,7 @@
  {
   "id": "c0:0133e",
   "jp": "ベルガス。\nいつの間にか、強くなりやがって……\nへへ……完敗だ。",
-  "en": "Velgas. When'd you get so strong... Heh... I'm\ntotally beaten.",
+  "en": "Velgas. When'd you get so strong...\nHeh... I'm totally beaten.",
   "status": "done",
   "slots": [
    "0x20d"
@@ -46,7 +46,7 @@
  {
   "id": "c0:01381",
   "jp": "アシュレイ……！\n俺はまだ負けてねぇ！　俺の意思は\n……クソ……クソオオォォ！！",
-  "en": "Ashrey...! I ain't lost yet! My will is... Damn\nit... Damn iiit!!",
+  "en": "Ashrey...! I ain't lost yet!\nMy will is... Damn it... Damn iiit!!",
   "status": "done",
   "slots": [
    "0x259"
@@ -68,7 +68,7 @@
  {
   "id": "c0:01410",
   "jp": "すいません、兄貴。\nどうやらここでお別れです。\nどうせなら、兄貴の腕の中で……。",
-  "en": "Sorry, Boss. Looks like this is goodbye. If it\nhad to happen, I'd rather it were in your\narms...",
+  "en": "Sorry, Boss. Looks like this is\ngoodbye. If it had to happen,\nI'd rather it were in your arms...",
   "status": "done",
   "slots": [
    "0x2f1"
@@ -79,7 +79,7 @@
  {
   "id": "c0:01463",
   "jp": "猫の呪いは恐ろしいですよ……。\nせいぜい、恐怖することですね……！",
-  "en": "A cat's curse is a fearsome thing... Go ahead\nand be afraid...!",
+  "en": "A cat's curse is a fearsome thing...\nGo ahead and be afraid...!",
   "status": "done",
   "slots": [
    "0x33d"
@@ -101,7 +101,7 @@
  {
   "id": "c0:01502",
   "jp": "やっぱり、兄貴は強いですね……。\nへへ、惚れ直しましたよ……。\n兄貴……――。",
-  "en": "You really are strong, Boss... Heh, I fell for\nyou all over again... Boss...",
+  "en": "You really are strong, Boss... Heh,\nI fell for you all over again... Boss...",
   "status": "done",
   "slots": [
    "0x3d5"
@@ -112,7 +112,7 @@
  {
   "id": "c0:01553",
   "jp": "体が動かないよ……。\nイシュト、どこ？　どこ、なの？",
-  "en": "I can't move my body... Ishut, where are\nyou? Where are you?",
+  "en": "I can't move my body... Ishut,\nwhere are you? Where are you?",
   "status": "done",
   "slots": [
    "0x4b7"
@@ -134,7 +134,7 @@
  {
   "id": "c0:015b9",
   "jp": "わたし、間違ってなかったね……。\nやっぱり、イシュトこそが……\nユーフォリアの……。",
-  "en": "I wasn't wrong after all... It really is you,\nIshut... who is Euforia's...",
+  "en": "I wasn't wrong after all...\nIt really is you, Ishut... who is Euforia's...",
   "status": "done",
   "slots": [
    "0x54f"
@@ -145,7 +145,7 @@
  {
   "id": "c0:01610",
   "jp": "嘘だろ、オイ……。\nこんな終わり方かよ…チクショウ。",
-  "en": "You gotta be kiddin' me... It ends like this?...\nDamn it.",
+  "en": "You gotta be kiddin' me...\nIt ends like this?... Damn it.",
   "status": "done",
   "slots": [
    "0x62a"
@@ -156,7 +156,7 @@
  {
   "id": "c0:01648",
   "jp": "惚れた弱みってのは、恐ろしいねぇ\n……先にいってるぜ。",
-  "en": "Fallin' for someone sure makes ya weak... I'll\ngo on ahead.",
+  "en": "Fallin' for someone sure makes\nya weak... I'll go on ahead.",
   "status": "done",
   "slots": [
    "0x676"
@@ -167,7 +167,7 @@
  {
   "id": "c0:01682",
   "jp": "ルキア皇国……！\nお前らだけには負けられねぇんだ！\nこんな所で……終われるかよ……！",
-  "en": "Lukia Empire...! You're the one bunch I can't\nlose to! Like hell I'm endin' it here...!",
+  "en": "Lukia Empire...! You're the one bunch I\ncan't lose to! Like hell I'm endin' it here...!",
   "status": "done",
   "slots": [
    "0x6c2"
@@ -189,7 +189,7 @@
  {
   "id": "c0:01738",
   "jp": "あのガキがよくもまぁここまで……\nイシュト……お前の、勝ちだ。",
-  "en": "That brat sure came a long way... Ishut...\nyou win.",
+  "en": "That brat sure came a\nlong way... Ishut... you win.",
   "status": "done",
   "slots": [
    "0x75a"
@@ -200,7 +200,7 @@
  {
   "id": "c0:0177a",
   "jp": "親父、みんな……イシュト。\nごめん、ちょっとだけ、休むね。",
-  "en": "Dad, everyone... Ishut. Sorry, I'm just going\nto rest a little.",
+  "en": "Dad, everyone... Ishut. Sorry,\nI'm just going to rest a little.",
   "status": "done",
   "slots": [
    "0x7ea"
@@ -211,7 +211,7 @@
  {
   "id": "c0:017b8",
   "jp": "これが、シンフォニアの力……！\n……凄いわね、ルルゥ。\nアイツが惚れるのもわかるわ……。",
-  "en": "So this is Symphonia's power...! ...You're\namazing, Ruru. No wonder that idiot fell for\nyou...",
+  "en": "So this is Symphonia's power...!\n...You're amazing, Ruru.\nNo wonder that idiot fell for you...",
   "status": "done",
   "slots": [
    "0x836"
@@ -244,7 +244,7 @@
  {
   "id": "c0:018a3",
   "jp": "そんだけ強いなら、まぁ、\nお茶ぐらいなら付き合ってあげる。\n変なことしたら撃ち殺すわよ？",
-  "en": "If you're that strong, well, I'll go out for tea\nwith you, at least. Try anything funny and I'll\nshoot you dead, okay?",
+  "en": "If you're that strong, well, I'll go out\nfor tea with you, at least. Try anything\nfunny and I'll shoot you dead, okay?",
   "status": "done",
   "slots": [
    "0x91a"
@@ -255,7 +255,7 @@
  {
   "id": "c0:018fe",
   "jp": "死ぬのは、自宅のベッドで\n妻に看られながらにしたかった……",
-  "en": "I had wished to die in my own bed at home,\nwith my wife at my side...",
+  "en": "I had wished to die in my own bed\nat home, with my wife at my side...",
   "status": "done",
   "slots": [
    "0x9ee"
@@ -266,7 +266,7 @@
  {
   "id": "c0:0193c",
   "jp": "ヤだよ……まだ、シンフォニアを\nみつけてないのに……。\n体が……痛いよぉ……。",
-  "en": "No... Locomoco hasn't even found Symphonia\nyet... It hurts...",
+  "en": "No... Locomoco hasn't even\nfound Symphonia yet... It hurts...",
   "status": "done",
   "slots": [
    "0xa7e"
@@ -277,7 +277,7 @@
  {
   "id": "c0:0198d",
   "jp": "私は死んでも故郷に帰るだけっすが\n……はぁ、課長の大目玉が怖いっす\nねぇ……ブルブル。",
-  "en": "Even if I die, I just go back home, sir... Sigh,\nbut I'm scared of my section chief chewing\nme out... Brrr.",
+  "en": "Even if I die, I just go back home,\nsir... Sigh, but I'm scared of my\nsection chief chewing me out... Brrr.",
   "status": "done",
   "slots": [
    "0xb60"
@@ -299,7 +299,7 @@
  {
   "id": "c0:01a05",
   "jp": "シャンティエが復興するまで、\n倒れるわけにはいかぬ……。\nいかぬのだ……！",
-  "en": "I cannot fall until Chantier is restored... I\ncannot...!",
+  "en": "I cannot fall until Chantier\nis restored... I cannot...!",
   "status": "done",
   "slots": [
    "0xccb"
@@ -321,7 +321,7 @@
  {
   "id": "c0:01a80",
   "jp": "我が生涯に悔いあり！\n師匠！　不出来な弟子を\nお許しくだされえぇぇぇ！！",
-  "en": "I have regrets in my life! Master! Forgive\nthis unworthy disciple!!",
+  "en": "I have regrets in my life! Master!\nForgive this unworthy disciple!!",
   "status": "done",
   "slots": [
    "0xed1"
@@ -332,7 +332,7 @@
  {
   "id": "c0:01acb",
   "jp": "センチュリオバスターが\n壊されるなんて……！\nあぁ、なんてこと……。",
-  "en": "My Centurio Buster... destroyed...! Oh, how\nawful...",
+  "en": "My Centurio Buster...\ndestroyed...! Oh, how awful...",
   "status": "done",
   "slots": [
    "0xf61"
@@ -354,7 +354,7 @@
  {
   "id": "c0:01b4a",
   "jp": "この世界ともお別れですね。\nいい詩も思い浮かびましたし、\nまぁ、こんなものでしょう……。",
-  "en": "So this is farewell to this world. A lovely\nsong came to me, too, so... well, this will\ndo...",
+  "en": "So this is farewell to this world.\nA lovely song came to me,\ntoo, so... well, this will do...",
   "status": "done",
   "slots": [
    "0x1125"
@@ -365,7 +365,7 @@
  {
   "id": "c0:01ba5",
   "jp": "ヤベェ、眠くなってきた……。\nこれで地上界での生活も終わりか…\nチ、暴れ、足り……ねぇぜ……。",
-  "en": "Crap, I'm gettin' sleepy... So this is the end\nof my life up on the surface... Tch, didn't get\nto... cut loose... enough...",
+  "en": "Crap, I'm gettin' sleepy... So this is the\nend of my life up on the surface... Tch,\ndidn't get to... cut loose... enough...",
   "status": "done",
   "slots": [
    "0x1207"
@@ -396,7 +396,7 @@
  {
   "id": "c0:01c60",
   "jp": "踏ん張ってきたけど、もうダメね。\nみんな、撤退よ！",
-  "en": "I've held out, but that's it. Everyone,\nretreat!",
+  "en": "I've held out, but that's it.\nEveryone, retreat!",
   "status": "done",
   "slots": [
    "0x95e"
@@ -406,7 +406,7 @@
  {
   "id": "c0:01c92",
   "jp": "そんな……。\nアタシじゃ、無理だってことなの？\nゴメン、親父。みんな……。",
-  "en": "No... You mean I can't do it? I'm sorry, Dad.\nEveryone...",
+  "en": "No... You mean I can't do it?\nI'm sorry, Dad. Everyone...",
   "status": "done",
   "slots": [
    "0x9a2"
@@ -416,7 +416,7 @@
  {
   "id": "c0:01cdb",
   "jp": "こいつぁちとヤベェな！\n一時撤退だ！　下がりやがれ！",
-  "en": "This is gettin' a bit dicey! Fall back for now!\nGet back, ya lot!",
+  "en": "This is gettin' a bit dicey!\nFall back for now! Get back, ya lot!",
   "status": "done",
   "slots": [
    "0x79e"
@@ -426,7 +426,7 @@
  {
   "id": "c0:01d0f",
   "jp": "戦略を誤ったか……。\n撤退する！",
-  "en": "Was my strategy mistaken...? I shall\nwithdraw!",
+  "en": "Was my strategy mistaken...?\nI shall withdraw!",
   "status": "done",
   "slots": [
    "0xa32"
@@ -436,7 +436,7 @@
  {
   "id": "c0:01d2f",
   "jp": "はひぃ～、ロコモコもう限界ぃ。\nみんなー、帰るよぉー……。",
-  "en": "Hweeh, Locomoco's at her limit. Everyone,\nlet's go hooome...",
+  "en": "Hweeh, Locomoco's at her limit.\nEveryone, let's go hooome...",
   "status": "done",
   "slots": [
    "0xac2"
@@ -446,7 +446,7 @@
  {
   "id": "c0:01d69",
   "jp": "ひ、疲労がマジでピークっす。\nこのまま死ぬぐらいなら……。\nすみません、撤退するっすよ！",
-  "en": "M-My fatigue is seriously peaking, sir.\nRather than die like this... Sorry, I'm\nretreating, sir!",
+  "en": "M-My fatigue is seriously peaking,\nsir. Rather than die like this...\nSorry, I'm retreating, sir!",
   "status": "done",
   "slots": [
    "0xba4"
@@ -456,7 +456,7 @@
  {
   "id": "c0:01dc0",
   "jp": "ここが限界か……皆、すまない。\n同志達よ！　これ以上の進撃は\n不可能だ！　撤退するぞ！",
-  "en": "So this is my limit... Forgive me, everyone.\nComrades! We can advance no further!\nRetreat!",
+  "en": "So this is my limit... Forgive me,\neveryone. Comrades!\nWe can advance no further! Retreat!",
   "status": "done",
   "slots": [
    "0xd0f"
@@ -486,7 +486,7 @@
  {
   "id": "c0:01e6f",
   "jp": "こんな所で死んでたまるもんか！\nアンタ達、撤退するよ！",
-  "en": "Like hell I'm dying in a place like this! You\nlot, we're retreating!",
+  "en": "Like hell I'm dying in a place like this!\nYou lot, we're retreating!",
   "status": "done",
   "slots": [
    "0xdf1"
@@ -496,7 +496,7 @@
  {
   "id": "c0:01ea5",
   "jp": "ぬうぅぅ！！　なんたる不覚！\nお、覚えていろぉぉぉ！！",
-  "en": "Nuuugh!! What a blunder! Y-You'll pay for\nthiiis!!",
+  "en": "Nuuugh!! What a blunder!\nY-You'll pay for thiiis!!",
   "status": "done",
   "slots": [
    "0xf15"
@@ -516,7 +516,7 @@
  {
   "id": "c0:01f2a",
   "jp": "今の状態で演奏を続けるのは\n無理がありますね……。\n後はよろしくお願いします。",
-  "en": "It is rather impossible to keep performing in\nthis state... I leave the rest to you.",
+  "en": "It is rather impossible to keep performing\nin this state... I leave the rest to you.",
   "status": "done",
   "slots": [
    "0x1169"
@@ -526,7 +526,7 @@
  {
   "id": "c0:01f77",
   "jp": "チクショウ！　拳を痛めちまった！\n一旦下がって治療するぞ！\nチクショウ！　チクショウ！！",
-  "en": "Damn it! I hurt my fist! I'm fallin' back to\npatch it up! Damn it! Damn it!!",
+  "en": "Damn it! I hurt my fist! I'm fallin'\nback to patch it up! Damn it! Damn it!!",
   "status": "done",
   "slots": [
    "0x124b"
@@ -536,7 +536,7 @@
  {
   "id": "c0:01fce",
   "jp": "っていうか、お互いに戦って疲れて\nたら、この後はもう何もする気も\n起きないんじゃないですか……？",
-  "en": "I mean, if we tire each other out fighting,\nnobody's going to feel like doing anything\nafterwards, are they...?",
+  "en": "I mean, if we tire each other out fighting,\nnobody's going to feel like doing\nanything afterwards, are they...?",
   "status": "done",
   "slots": [
    "0x45d"
@@ -546,7 +546,7 @@
  {
   "id": "c0:0202d",
   "jp": "にしても、これじゃあナンパ勝負は\nボク達の負けですね。",
-  "en": "Still, at this rate, we've lost the flirting\ncontest.",
+  "en": "Still, at this rate,\nwe've lost the flirting contest.",
   "status": "done",
   "slots": [
    "0x464"
@@ -566,7 +566,7 @@
  {
   "id": "c0:0208f",
   "jp": "アナタも私も、ウィルが\nすっからかんだねぇ。\n惜しいなぁ、後ちょっとだったのに",
-  "en": "We're both all out of Will, huh. What a\nshame, we were so close.",
+  "en": "We're both all out of Will, huh.\nWhat a shame, we were so close.",
   "status": "done",
   "slots": [
    "0x5d7"
@@ -616,7 +616,7 @@
  {
   "id": "c0:021c9",
   "jp": "もうこれ以上は戦えないんで、\nここは素直に逃げるっすよ。\nナンパ勝負はコッチの負けっすね。",
-  "en": "I can't fight any more, so I'll just run away\nlike a good girl, sir. Looks like we lost the\nflirting contest, sir.",
+  "en": "I can't fight any more, so I'll just\nrun away like a good girl, sir.\nLooks like we lost the flirting contest, sir.",
   "status": "done",
   "slots": [
    "0xbe8"
@@ -626,7 +626,7 @@
  {
   "id": "c0:02222",
   "jp": "エリーシャさん、負けたって\n知ったらどんな反応するんすかね？\n修行の旅とかに出ちゃったりして…",
-  "en": "I wonder how Elisha-san will react when she\nfinds out we lost, sir? Maybe she'll go off on\na training journey or something...",
+  "en": "I wonder how Elisha-san will react when\nshe finds out we lost, sir? Maybe she'll go\noff on a training journey or something...",
   "status": "done",
   "slots": [
    "0xbef"
@@ -636,7 +636,7 @@
  {
   "id": "c0:0227f",
   "jp": "私の戦闘についてくるとは……。\n見所があるな。\n一本とられたよ。",
-  "en": "To keep up with me in battle... You show\npromise. You got me there.",
+  "en": "To keep up with me in battle...\nYou show promise. You got me there.",
   "status": "done",
   "slots": [
    "0xd53"
@@ -646,7 +646,7 @@
  {
   "id": "c0:022be",
   "jp": "どうだ？　今日はこのまま\n戦闘訓練といこうじゃないか！",
-  "en": "How about it? Shall we keep going with\nsome combat training today!",
+  "en": "How about it? Shall we keep going\nwith some combat training today!",
   "status": "done",
   "slots": [
    "0xd5a"
@@ -656,7 +656,7 @@
  {
   "id": "c0:022f4",
   "jp": "ナンパ勝負などには興味は無いが、\nエリーシャには頭を下げないとな…\nなんと言われるのだろうか……。",
-  "en": "I have no interest in flirting contests, but I\nwill have to bow my head to Elisha... I\nwonder what she will say...",
+  "en": "I have no interest in flirting contests,\nbut I will have to bow my head to Elisha...\nI wonder what she will say...",
   "status": "done",
   "slots": [
    "0xd61"
@@ -666,7 +666,7 @@
  {
   "id": "c0:02355",
   "jp": "お互いにボロボロですね……。\nまぁ、負けた時の予防線にそう\nしたのですけど……。",
-  "en": "We're both in tatters, aren't we... Well, I did\nthat as insurance in case I lost...",
+  "en": "We're both in tatters, aren't we... Well,\nI did that as insurance in case I lost...",
   "status": "done",
   "slots": [
    "0xfe9"
@@ -686,7 +686,7 @@
  {
   "id": "c0:023e6",
   "jp": "エリーシャさんには申し訳ない事を\nしましたね。\nなんと言ったらいいか……。",
-  "en": "I've done Elisha-san a disservice. I don't\nknow what to say to her...",
+  "en": "I've done Elisha-san a disservice.\nI don't know what to say to her...",
   "status": "done",
   "slots": [
    "0xff7"
@@ -696,7 +696,7 @@
  {
   "id": "c0:0242f",
   "jp": "別に遊んでもいいけど、私ってば\n海賊の女なのよねぇ。\nグロリア海賊団って知ってる？",
-  "en": "I don't mind playing with you, but I'm a\npirate's woman, you see. Ever heard of the\nGloria Pirates?",
+  "en": "I don't mind playing with you,\nbut I'm a pirate's woman, you see.\nEver heard of the Gloria Pirates?",
   "status": "done",
   "slots": [
    "0x10cb"
@@ -706,7 +706,7 @@
  {
   "id": "c0:02480",
   "jp": "海賊の女に手を出して無事で済む？\nどう？　まだ遊ぶ気ある？\nあ、もういない。逃げただわさ……",
-  "en": "Think you'll get away unharmed after\nhitting on a pirate's woman? Well? Still feel\nlike playing? Oh, he's gone. He ran off,\ndontcha know...",
+  "en": "Think you'll get away unharmed\nafter hitting on a pirate's woman?\nWell? Still feel like playing? Oh,\nhe's gone. He ran off, dontcha know...",
   "status": "done",
   "slots": [
    "0x10d2"
@@ -716,7 +716,7 @@
  {
   "id": "c0:024db",
   "jp": "ナンパ勝負はコッチの負けねぇ。\nあんな女に負けるとは～……！\nこれは、修行が必要だわさ！",
-  "en": "We lost the flirting contest, huh. To think I\nlost to a woman like that...! I need more\ntraining, dontcha know!",
+  "en": "We lost the flirting contest, huh.\nTo think I lost to a woman like that...!\nI need more training, dontcha know!",
   "status": "done",
   "slots": [
    "0x10d9"
@@ -726,7 +726,7 @@
  {
   "id": "c0:02532",
   "jp": "アナタのように逞しい男の方は\n私の好みですが。\n体が目当てなら気をつけて？",
-  "en": "A strong man like you is just my type. But if\nit's my body you're after, do be careful.",
+  "en": "A strong man like you is just my type. But\nif it's my body you're after, do be careful.",
   "status": "done",
   "slots": [
    "0x11ad"
@@ -736,7 +736,7 @@
  {
   "id": "c0:0257b",
   "jp": "夜の私は、ちょっとばかし\nバイオレンスですわよ？",
-  "en": "The night-time me is a little bit violent, you\nknow?",
+  "en": "The night-time me is a\nlittle bit violent, you know?",
   "status": "done",
   "slots": [
    "0x11b4"
@@ -746,7 +746,7 @@
  {
   "id": "c0:025ab",
   "jp": "はぁ、しかし、女の勝負は\n完敗ですわね。\n私も修行が足りませんわ。",
-  "en": "Sigh, but I've been utterly beaten in this\ncontest between women. My training is\nlacking too.",
+  "en": "Sigh, but I've been utterly beaten\nin this contest between women.\nMy training is lacking too.",
   "status": "done",
   "slots": [
    "0x11bb"
@@ -756,7 +756,7 @@
  {
   "id": "c0:025ec",
   "jp": "フハハハハハ！\nさぁ、挙式の準備だ！\n盛大に門出を祝おうぞ！",
-  "en": "Fuhahahahaha! Now, prepare the wedding!\nLet us celebrate the new beginning in grand\nstyle!",
+  "en": "Fuhahahahaha! Now, prepare\nthe wedding! Let us celebrate\nthe new beginning in grand style!",
   "status": "done",
   "slots": [
    "0xe35"
@@ -766,7 +766,7 @@
  {
   "id": "c0:02627",
   "jp": "……まぁ、これだけ強いなら\nお宝も手に入れやすいかも\nしれないわね……。",
-  "en": "...Well, with someone this strong, getting\ntreasure might be easier...",
+  "en": "...Well, with someone this strong,\ngetting treasure might be easier...",
   "status": "done",
   "slots": [
    "0xe5e"
@@ -776,7 +776,7 @@
  {
   "id": "c0:0266e",
   "jp": "いざとなったら逃げればいいし。\n骨の体じゃ変な事も\nできないわよね……？",
-  "en": "If push comes to shove, I can just run. And\nwith a body of bones, he can't try anything\nfunny... right?",
+  "en": "If push comes to shove, I can just run.\nAnd with a body of bones,\nhe can't try anything funny... right?",
   "status": "done",
   "slots": [
    "0xe65"
@@ -786,7 +786,7 @@
  {
   "id": "c0:026b5",
   "jp": "ウフフ。\nそれじゃあ、よろしく頼むわよ。\nあ・な・た。",
-  "en": "Hehehe. Well then, I'm counting on you.\nDar-ling.",
+  "en": "Hehehe. Well then,\nI'm counting on you. Dar-ling.",
   "status": "done",
   "slots": [
    "0xe77"

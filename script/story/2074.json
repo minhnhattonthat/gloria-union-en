@@ -35,7 +35,7 @@
  {
   "id": "s2074:000cb",
   "jp": "喋るな兵器！\n……僕は、イシュトと同じぐらいに\n貴様が憎いよ。",
-  "en": "Don't speak, weapon! ...I hate you as much as\nI hate Ishut.",
+  "en": "Don't speak, weapon!\n...I hate you as much as I hate Ishut.",
   "status": "done",
   "slots": [
    "0x1463"
@@ -101,7 +101,7 @@
  {
   "id": "s2074:001b0",
   "jp": "そして、大人しく身を引きなさい。\n今ならまだ、間に合うわ。",
-  "en": "And then quietly step aside. It's not too late\nyet.",
+  "en": "And then quietly step aside.\nIt's not too late yet.",
   "status": "done",
   "slots": [
    "0x16ab"
@@ -123,7 +123,7 @@
  {
   "id": "s2074:00203",
   "jp": "アシュレイ。\nアナタは、ユーフォリアを復活\nさせて、何をするつもりですか。",
-  "en": "Ashrey. What do you mean to do once you\nrevive Euforia?",
+  "en": "Ashrey. What do you mean to\ndo once you revive Euforia?",
   "status": "done",
   "slots": [
    "0x16dd"
@@ -167,7 +167,7 @@
  {
   "id": "s2074:002e4",
   "jp": "僕が、もう一度世界を作り直す。\n汚れた世界を、浄化する。",
-  "en": "I will remake the world once more. Purify\nthis filthy world.",
+  "en": "I will remake the world once more.\nPurify this filthy world.",
   "status": "done",
   "slots": [
    "0x1740"
@@ -189,7 +189,7 @@
  {
   "id": "s2074:00335",
   "jp": "そんなに、シンフォニアとカードが\n欲しいか？",
-  "en": "You want Symphonia and the cards that\nbadly?",
+  "en": "You want Symphonia and\nthe cards that badly?",
   "status": "done",
   "slots": [
    "0x177d"
@@ -244,7 +244,7 @@
  {
   "id": "s2074:003d2",
   "jp": "アシュレイの野郎、\nルルゥにカードをインストール\nしやがった！",
-  "en": "That bastard Ashrey installed the cards\ninto Ruru!",
+  "en": "That bastard Ashrey\ninstalled the cards into Ruru!",
   "status": "done",
   "slots": [
    "0x182e"
@@ -266,7 +266,7 @@
  {
   "id": "s2074:00441",
   "jp": "水のカード“タイダルウェイブ”\nインストール、完了。",
-  "en": "Water card \"Tidal Wave\". Installation,\ncomplete.",
+  "en": "Water card \"Tidal Wave\".\nInstallation, complete.",
   "status": "done",
   "slots": [
    "0x18c8"
@@ -277,7 +277,7 @@
  {
   "id": "s2074:00479",
   "jp": "カードの力をエネルギーに変換し、\nさらにそれを増幅させている……。\nこれが、シンフォニアの力か。",
-  "en": "She converts the cards' power into energy,\nthen amplifies it further... So this is\nSymphonia's power.",
+  "en": "She converts the cards' power into\nenergy, then amplifies it further...\nSo this is Symphonia's power.",
   "status": "done",
   "slots": [
    "0x18e1"
@@ -310,7 +310,7 @@
  {
   "id": "s2074:00544",
   "jp": "土のカード“グランドスピアー”\nインストール、完了。",
-  "en": "Earth card \"Grand Spear\". Installation,\ncomplete.",
+  "en": "Earth card \"Grand Spear\".\nInstallation, complete.",
   "status": "done",
   "slots": [
    "0x19af"
@@ -332,7 +332,7 @@
  {
   "id": "s2074:005a1",
   "jp": "風のカード“バーストウィング”\nインストール、完了。",
-  "en": "Wind card \"Burst Wing\". Installation,\ncomplete.",
+  "en": "Wind card \"Burst Wing\".\nInstallation, complete.",
   "status": "done",
   "slots": [
    "0x1a42"
@@ -398,7 +398,7 @@
  {
   "id": "s2074:00643",
   "jp": "子分なら、わかるでしょ？",
-  "en": "You're his underling, so you understand,\nright?",
+  "en": "You're his underling,\nso you understand, right?",
   "status": "done",
   "slots": [
    "0x1af9"
@@ -431,7 +431,7 @@
  {
   "id": "s2074:006bc",
   "jp": "五枚……？\n闇のカードの“メギド”は\nどうした？",
-  "en": "Five...? What about the dark card,\n\"Megiddo\"?",
+  "en": "Five...? What about the\ndark card, \"Megiddo\"?",
   "status": "done",
   "slots": [
    "0x1b98"
@@ -442,7 +442,7 @@
  {
   "id": "s2074:006ef",
   "jp": "恐らくだが、闇のカードで\n自分のウィルを補ってやがるんだ。",
-  "en": "My guess is he's usin' the dark card to make\nup for his own Will.",
+  "en": "My guess is he's usin' the dark\ncard to make up for his own Will.",
   "status": "done",
   "slots": [
    "0x1bb1"
@@ -475,7 +475,7 @@
  {
   "id": "s2074:00781",
   "jp": "シンフォニアよ……命令する。\nグロリア海賊団を滅ぼせ。",
-  "en": "Symphonia... I command you. Destroy the\nGloria Pirates.",
+  "en": "Symphonia... I command you.\nDestroy the Gloria Pirates.",
   "status": "done",
   "slots": [
    "0x1cba"
@@ -497,7 +497,7 @@
  {
   "id": "s2074:007d2",
   "jp": "確認だけど、アンタ、本当に\nルルゥを破壊する気なの……？",
-  "en": "Just checking, but do you really mean to\ndestroy Ruru...?",
+  "en": "Just checking, but do you\nreally mean to destroy Ruru...?",
   "status": "done",
   "slots": [
    "0x1d2c"
@@ -519,7 +519,7 @@
  {
   "id": "s2074:00836",
   "jp": "キツイ一発お見舞いして、\nルルゥを元に戻すんだよ。",
-  "en": "I'm gonna land one hard hit and get Ruru back\nto normal.",
+  "en": "I'm gonna land one hard hit\nand get Ruru back to normal.",
   "status": "done",
   "slots": [
    "0x1d4f"
@@ -530,7 +530,7 @@
  {
   "id": "s2074:0086c",
   "jp": "んなっ！？\nむ、無茶するねぇ……。\nでも、面白そうだわ、それ。",
-  "en": "Wha!? Th-that's reckless... But it sounds\nfun.",
+  "en": "Wha!? Th-that's reckless...\nBut it sounds fun.",
   "status": "done",
   "slots": [
    "0x1d6d"
@@ -541,7 +541,7 @@
  {
   "id": "s2074:008ad",
   "jp": "来るぞ！\n総員、手加減はするな！\nルルゥを、取り戻せぇ！",
-  "en": "Here it comes! Everyone, don't hold back!\nGet Ruru back!",
+  "en": "Here it comes! Everyone,\ndon't hold back! Get Ruru back!",
   "status": "done",
   "slots": [
    "0x1d86"
@@ -563,7 +563,7 @@
  {
   "id": "s2074:0090b",
   "jp": "ウィルの数値が上昇！？\nそんな、まだ上がっている……。\nどうなっているの？",
-  "en": "Will readings rising!? No, they're still going\nup... What is happening?",
+  "en": "Will readings rising!? No, they're\nstill going up... What is happening?",
   "status": "done",
   "slots": [
    "0x1ede"
@@ -574,7 +574,7 @@
  {
   "id": "s2074:00958",
   "jp": "最優先は兄貴の命。\nボクの本気、見せてあげるよ。",
-  "en": "The Boss's life comes first. I'll show you\nwhat I've got for real.",
+  "en": "The Boss's life comes first.\nI'll show you what I've got for real.",
   "status": "done",
   "slots": [
    "0x1fba"
@@ -585,7 +585,7 @@
  {
   "id": "s2074:0098c",
   "jp": "私は、王の命に従うだけ。\n絶対に、負けません。",
-  "en": "I only obey the king's command. I will not\nlose.",
+  "en": "I only obey the king's\ncommand. I will not lose.",
   "status": "done",
   "slots": [
    "0x1fd3"
@@ -596,7 +596,7 @@
  {
   "id": "s2074:009be",
   "jp": "実はあたし、アンタと戦ってみた\nかったのよね。\n嬉しいわ！",
-  "en": "Truth is, I always wanted to fight you. I'm\nglad!",
+  "en": "Truth is, I always wanted\nto fight you. I'm glad!",
   "status": "done",
   "slots": [
    "0x20af"
@@ -607,7 +607,7 @@
  {
   "id": "s2074:009fb",
   "jp": "私も、アナタを前にすると、\n戦闘意欲が高まるのを感じます。\nお相手しましょう。",
-  "en": "Facing you, I also feel my will to fight rising.\nI shall be your opponent.",
+  "en": "Facing you, I also feel my will to\nfight rising. I shall be your opponent.",
   "status": "done",
   "slots": [
    "0x20c8"
@@ -618,7 +618,7 @@
  {
   "id": "s2074:00a4c",
   "jp": "ザザーランド。\nアナタには、初めから全力でお相手\nします。",
-  "en": "Zazarland. I will face you with full power\nfrom the start.",
+  "en": "Zazarland. I will face you with\nfull power from the start.",
   "status": "done",
   "slots": [
    "0x21ba"
@@ -629,7 +629,7 @@
  {
   "id": "s2074:00a89",
   "jp": "そいつぁ光栄だねぇ。\nそんじゃあ俺も、本気を出そうか。",
-  "en": "Well, ain't that an honour. Then I guess I'll\nget serious too.",
+  "en": "Well, ain't that an honour.\nThen I guess I'll get serious too.",
   "status": "done",
   "slots": [
    "0x21d4"
@@ -640,7 +640,7 @@
  {
   "id": "s2074:00ac3",
   "jp": "これが、シンフォニアか……！\nなんて威圧感だ、思わず後退りたく\nなってくる。",
-  "en": "So this is Symphonia...! What pressure. It\nmakes me want to step back without\nthinking.",
+  "en": "So this is Symphonia...!\nWhat pressure. It makes me want\nto step back without thinking.",
   "status": "done",
   "slots": [
    "0x22a8"
@@ -650,7 +650,7 @@
  {
   "id": "s2074:00b0e",
   "jp": "これがあの少女と思うと……ハハ。\n笑えてくるな。",
-  "en": "To think this is that girl... Haha. It's almost\nfunny.",
+  "en": "To think this is that girl...\nHaha. It's almost funny.",
   "status": "done",
   "slots": [
    "0x22bd"
@@ -660,7 +660,7 @@
  {
   "id": "s2074:00b3e",
   "jp": "これが……私が探していたモノ。\nこれが、シンフォニア……。",
-  "en": "This is... what Locomoco was looking for.\nThis is Symphonia...",
+  "en": "This is... what Locomoco was\nlooking for. This is Symphonia...",
   "status": "done",
   "slots": [
    "0x238a"
@@ -680,7 +680,7 @@
  {
   "id": "s2074:00b85",
   "jp": "うひゃあ！\n神々しいとは、まさにこういう事を\nいうんすねぇ。",
-  "en": "Whoa! So this is what they mean by divine,\nsir.",
+  "en": "Whoa! So this is what\nthey mean by divine, sir.",
   "status": "done",
   "slots": [
    "0x245a"
@@ -710,7 +710,7 @@
  {
   "id": "s2074:00c31",
   "jp": "ッ！　弱気になるな！\n勝機はあるのだ！\nいくぞぉ！",
-  "en": "...! Don't lose heart! We have a chance! Here\nwe go!",
+  "en": "...! Don't lose heart!\nWe have a chance! Here we go!",
   "status": "done",
   "slots": [
    "0x2546"
@@ -740,7 +740,7 @@
  {
   "id": "s2074:00c8a",
   "jp": "センチュリオバスターが震えている\n……それほどの存在というわけ\nですか。",
-  "en": "The Centurio Buster is trembling... So that's\nhow great a being she is.",
+  "en": "The Centurio Buster is trembling...\nSo that's how great a being she is.",
   "status": "done",
   "slots": [
    "0x2703"
@@ -750,7 +750,7 @@
  {
   "id": "s2074:00cd1",
   "jp": "負ける訳にはいきません……！\n必ずルルゥを取り戻します。",
-  "en": "I cannot lose...! I will get Ruru back, without\nfail.",
+  "en": "I cannot lose...! I will get\nRuru back, without fail.",
   "status": "done",
   "slots": [
    "0x2718"
@@ -760,7 +760,7 @@
  {
   "id": "s2074:00d09",
   "jp": "なんと神々しい光……！\nこれは、本当に兵器なのか！？",
-  "en": "What a divine light...! Is this really a\nweapon!?",
+  "en": "What a divine light...!\nIs this really a weapon!?",
   "status": "done",
   "slots": [
    "0x27e5"
@@ -780,7 +780,7 @@
  {
   "id": "s2074:00d69",
   "jp": "はあぁ、これがシンフォニアねぇ。\n流石に、圧倒されるわね。",
-  "en": "Whew, so this is Symphonia. It really is\noverwhelming.",
+  "en": "Whew, so this is Symphonia.\nIt really is overwhelming.",
   "status": "done",
   "slots": [
    "0x28bc"
@@ -790,7 +790,7 @@
  {
   "id": "s2074:00da3",
   "jp": "でも、中身がルルゥなんだから、\nちょっと気が抜けちゃうわよねぇ。",
-  "en": "But since it's Ruru inside, it kind of takes the\nedge off, doesn't it?",
+  "en": "But since it's Ruru inside,\nit kind of takes the edge off, doesn't it?",
   "status": "done",
   "slots": [
    "0x28d1"
@@ -810,7 +810,7 @@
  {
   "id": "s2074:00e1e",
   "jp": "う～もって帰りたい！\nだけど……う～～～～ん",
-  "en": "Ooh, I wanna take her home! But...\nhmmmmm.",
+  "en": "Ooh, I wanna take her home!\nBut... hmmmmm.",
   "status": "done",
   "slots": [
    "0x29ba"
@@ -820,7 +820,7 @@
  {
   "id": "s2074:00e4a",
   "jp": "なんて神々しい！\n私の総力を結して、この美しさを\n残す為の詩を作らなければ！",
-  "en": "How divine! I must pour all my strength into\na song to preserve this beauty!",
+  "en": "How divine! I must pour all my strength\ninto a song to preserve this beauty!",
   "status": "done",
   "slots": [
    "0x2a95"
@@ -840,7 +840,7 @@
  {
   "id": "s2074:00eb9",
   "jp": "いくぜシンフォニア！\n俺の力をみせてやるぜ！！",
-  "en": "Here I come, Symphonia! I'll show ya what\nI've got!!",
+  "en": "Here I come, Symphonia!\nI'll show ya what I've got!!",
   "status": "done",
   "slots": [
    "0x2aef"
@@ -883,7 +883,7 @@
  {
   "id": "s2074:00f73",
   "jp": "ルルゥ！\n元に戻ったか！？\n１＋１が何かわかるか！？",
-  "en": "Ruru! Are you back to normal!? Do ya know\nwhat 1 + 1 is!?",
+  "en": "Ruru! Are you back to normal!?\nDo ya know what 1 + 1 is!?",
   "status": "done",
   "slots": [
    "0x3422"
@@ -949,7 +949,7 @@
  {
   "id": "s2074:01059",
   "jp": "王が二人いて、\nどちらかに落ちてくるルルゥを\n見事に引き当てたこともあるんだ。",
-  "en": "There were two kings, and he's the one who\nmanaged to catch Ruru when she fell to one\nof 'em.",
+  "en": "There were two kings, and he's\nthe one who managed to catch\nRuru when she fell to one of 'em.",
   "status": "done",
   "slots": [
    "0x34fe"
@@ -993,7 +993,7 @@
  {
   "id": "s2074:01104",
   "jp": "うん……イシュトに、\n使って欲しいから。",
-  "en": "Yeah... Because I want you to use them,\nIshut.",
+  "en": "Yeah... Because I want\nyou to use them, Ishut.",
   "status": "done",
   "slots": [
    "0x365c"
@@ -1037,7 +1037,7 @@
  {
   "id": "s2074:011a2",
   "jp": "馬鹿はほっときなさい！\nそれよりも、アシュレイを\n追うのよ！",
-  "en": "Leave the idiot alone! More importantly, we\ngo after Ashrey!",
+  "en": "Leave the idiot alone!\nMore importantly, we go after Ashrey!",
   "status": "done",
   "slots": [
    "0x36ba"

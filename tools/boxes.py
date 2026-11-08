@@ -55,7 +55,8 @@ BUDGETS = {
     '3/15/22/1': (245, 1, 'measured: gate4/38 name tag, the plate ends near the 250 label; text past it draws on the map'),
     '3/20/22/1': (175, 1, 'measured: f4fix/menu_full_map/t024 header centred between the L and R arrows (~180 px); '
                           'a 40-char ruler drew stray glyphs at chars ~11 and ~33 (gate4/39): recheck real text in phase 7'),
-    '4/20/12/10': (72, 1, 'measured: f4vwf/battle_result/t066 HUD unit name, the G/A/T gauges start at +75'),
+    '4/20/12/10': (68, 1, 'measured: f4vwf/battle_result/t066 HUD unit name, the G/A/T gauges start at +75 (player); '
+                          'enemy panel right-aligned: a 68 px name ends at the pips (work/qa/hud2_r.png)'),
     '4/20/12/6': (80, 1, 'measured: fm/step.png.01 full map unit placement lists, x 395 to the screen edge'),
     '1/30/19/1': (400, 1, 'measured: wincond/stage_3_07_B/proof.png win condition, x 70 to the screen edge'),
     '1/30/19/2': (425, 2, 'measured: wincond/stage_3_07_B/proof.png lose conditions, x 45 to the screen edge'),

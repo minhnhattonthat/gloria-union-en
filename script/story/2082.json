@@ -13,7 +13,7 @@
  {
   "id": "s2082:00027",
   "jp": "いやいや、待ちなさいよ。\nここは船長であるあたしが最初に\n会うのが筋ってもんでしょう！",
-  "en": "No, no, hold on. It's only proper that I, the\ncaptain, get to see him first!",
+  "en": "No, no, hold on. It's only proper that I,\nthe captain, get to see him first!",
   "status": "done",
   "slots": [
    "0x906"
@@ -24,7 +24,7 @@
  {
   "id": "s2082:00080",
   "jp": "二人とも、争ってていいんですか？\n早く行かないと式典が\n始まっちゃいますよー。",
-  "en": "Are you two sure you should be fighting? If\nwe don't hurry, the ceremony's going to\nstart.",
+  "en": "Are you two sure you should\nbe fighting? If we don't hurry,\nthe ceremony's going to start.",
   "status": "done",
   "slots": [
    "0x91b"
@@ -35,7 +35,7 @@
  {
   "id": "s2082:000d1",
   "jp": "早めに終わらせてくださいよぉ。\nボクはもう一度兄貴の手紙を読んで\nますから。",
-  "en": "Please wrap it up quickly. I'll be rereading\nthe Boss's letter.",
+  "en": "Please wrap it up quickly.\nI'll be rereading the Boss's letter.",
   "status": "done",
   "slots": [
    "0x922"
@@ -123,7 +123,7 @@
  {
   "id": "s2082:0035c",
   "jp": "ビックリさせてやるって……。\n一年前よりビックリすることなんて\nあるんですかねぇ。",
-  "en": "\"I'll surprise you,\" he says... Could anything\nbe more surprising than a year ago, I\nwonder.",
+  "en": "\"I'll surprise you,\" he says...\nCould anything be more surprising\nthan a year ago, I wonder.",
   "status": "done",
   "slots": [
    "0xbee"
@@ -145,7 +145,7 @@
  {
   "id": "s2082:003eb",
   "jp": "ちょ、何言ってるのよ！\n船長はあたしでしょうが！",
-  "en": "H-Hey, what are you saying! I'm the captain,\nobviously!",
+  "en": "H-Hey, what are you saying!\nI'm the captain, obviously!",
   "status": "done",
   "slots": [
    "0xc18"
@@ -200,7 +200,7 @@
  {
   "id": "s2082:0045d",
   "jp": "イ、イシュト！？\nこんな所でなにやってんのよ！？",
-  "en": "I-Ishut!? What are you doing in a place like\nthis!?",
+  "en": "I-Ishut!? What are you\ndoing in a place like this!?",
   "status": "done",
   "slots": [
    "0xd61"
@@ -211,7 +211,7 @@
  {
   "id": "s2082:00491",
   "jp": "政治がひと段落したからな。\nザザーランドに任せて、\n旅に出ることにした。",
-  "en": "The politics have settled down some. So I\nleft it to Zazarland and decided to go on a\njourney.",
+  "en": "The politics have settled down some.\nSo I left it to Zazarland and\ndecided to go on a journey.",
   "status": "done",
   "slots": [
    "0xd7a"
@@ -244,7 +244,7 @@
  {
   "id": "s2082:00525",
   "jp": "なもんで、\nグロリア海賊団イシュト\nここに復活！",
-  "en": "So, Ishut of the Gloria Pirates is back, right\nhere!",
+  "en": "So, Ishut of the Gloria\nPirates is back, right here!",
   "status": "done",
   "slots": [
    "0xdc1"
@@ -266,7 +266,7 @@
  {
   "id": "s2082:0056b",
   "jp": "わぁい！\nじゃあ、またイシュトと\n海賊ができるんだね！？",
-  "en": "Yaaay! So I get to be a pirate with Ishut\nagain!?",
+  "en": "Yaaay! So I get to be a\npirate with Ishut again!?",
   "status": "done",
   "slots": [
    "0xe19"
@@ -277,7 +277,7 @@
  {
   "id": "s2082:005a6",
   "jp": "おうよ！\nで、さっきの船長の話だが、\nモチロン俺だよな？",
-  "en": "You bet! Now, about that captain thing\nearlier. It's me, of course, right?",
+  "en": "You bet! Now, about that captain\nthing earlier. It's me, of course, right?",
   "status": "done",
   "slots": [
    "0xe32"
@@ -288,7 +288,7 @@
  {
   "id": "s2082:005e1",
   "jp": "はぁ？　皇帝だからって、\n何でも思い通りにいくと思うんじゃ\nないわよ！　あたしが船長よ！",
-  "en": "Huh? Don't think everything goes your way\njust because you're the Emperor! I'm the\ncaptain!",
+  "en": "Huh? Don't think everything goes\nyour way just because you're\nthe Emperor! I'm the captain!",
   "status": "done",
   "slots": [
    "0xe4b"
@@ -321,7 +321,7 @@
  {
   "id": "s2082:00656",
   "jp": "……はぁ。またですか。\n一体何時になったら、旅立てるん\nですかねぇ。",
-  "en": "...Sigh. This again. When on earth are we\never going to set off?",
+  "en": "...Sigh. This again. When on earth\nare we ever going to set off?",
   "status": "done",
   "slots": [
    "0xe92"
@@ -332,7 +332,7 @@
  {
   "id": "s2082:0069d",
   "jp": "いいんじゃない？\nイシュトが帰ってきたし、\n時間はたっぷりあるんだから。",
-  "en": "Isn't it fine? Ishut's back, and we've got all\nthe time in the world.",
+  "en": "Isn't it fine? Ishut's back,\nand we've got all the time in the world.",
   "status": "done",
   "slots": [
    "0xec0"
@@ -343,7 +343,7 @@
  {
   "id": "s2082:006e8",
   "jp": "……そうですねぇ。\nそれじゃあ今は、これから始まる\n冒険に胸を膨らましましょうか。",
-  "en": "...I suppose so. Well then, for now, let's get\nexcited for the adventure that's about to\nbegin.",
+  "en": "...I suppose so. Well then,\nfor now, let's get excited for the\nadventure that's about to begin.",
   "status": "done",
   "slots": [
    "0xed2"
@@ -365,7 +365,7 @@
  {
   "id": "s2082:00748",
   "jp": "よぉし！　新生グロリア海賊団！\n出航だぁーー！！",
-  "en": "All riiight! The new Gloria Pirates! Set\nsaaaail!!",
+  "en": "All riiight! The new Gloria\nPirates! Set saaaail!!",
   "status": "done",
   "slots": [
    "0xf08"

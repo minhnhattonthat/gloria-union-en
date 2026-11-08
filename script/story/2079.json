@@ -24,7 +24,7 @@
  {
   "id": "s2079:00050",
   "jp": "僕は……ただ幸せに、なりたかった\n……なりたかったんだ。",
-  "en": "I... just wanted to be happy... I wanted to be\nhappy.",
+  "en": "I... just wanted to be happy...\nI wanted to be happy.",
   "status": "done",
   "slots": [
    "0x18fe"
@@ -35,7 +35,7 @@
  {
   "id": "s2079:0008c",
   "jp": "ユーフォリアに頼らなくたって……\n幸せはどこにでもあったんだ。",
-  "en": "Even without relying on Euforia... happiness\nwas everywhere.",
+  "en": "Even without relying on Euforia...\nhappiness was everywhere.",
   "status": "done",
   "slots": [
    "0x1917"
@@ -68,7 +68,7 @@
  {
   "id": "s2079:0013e",
   "jp": "もし、僕が末裔でなければ\n……幸せを、感じられていたの\nだろうか……。",
-  "en": "If I hadn't been a descendant... could I have\nfelt happiness, I wonder...",
+  "en": "If I hadn't been a descendant...\ncould I have felt happiness, I wonder...",
   "status": "done",
   "slots": [
    "0x1944"
@@ -90,7 +90,7 @@
  {
   "id": "s2079:001a4",
   "jp": "イシュト……一つだけ、兄として、\n頼みごとをしても、いいかい？",
-  "en": "Ishut... May I ask you just one favour, as your\nolder brother?",
+  "en": "Ishut... May I ask you just one favour,\nas your older brother?",
   "status": "done",
   "slots": [
    "0x1976"
@@ -233,7 +233,7 @@
  {
   "id": "s2079:003bb",
   "jp": "イシュト、\nお前は僕と一つになってくれ！\nそして、僕の夢を叶えてくれ！",
-  "en": "Ishut, become one with me! And make my\ndream come true!",
+  "en": "Ishut, become one with me!\nAnd make my dream come true!",
   "status": "done",
   "slots": [
    "0x1b61"
@@ -244,7 +244,7 @@
  {
   "id": "s2079:00404",
   "jp": "イシュトの体から、\nアシュレイの声が聞こえる……。",
-  "en": "I can hear Ashrey's voice coming from\nIshut's body...",
+  "en": "I can hear Ashrey's voice\ncoming from Ishut's body...",
   "status": "done",
   "slots": [
    "0x1b7a"
@@ -266,7 +266,7 @@
  {
   "id": "s2079:0047b",
   "jp": "はぁ？\n王族の末裔は、イシュトと\nアシュレイの二人でしょ！？",
-  "en": "Huh? The royal descendants are two people,\nIshut and Ashrey, right!?",
+  "en": "Huh? The royal descendants are two\npeople, Ishut and Ashrey, right!?",
   "status": "done",
   "slots": [
    "0x1bcf"
@@ -277,7 +277,7 @@
  {
   "id": "s2079:004ba",
   "jp": "キーラさんが言ってたでしょ？\n面白いことになっているな\nって。",
-  "en": "Remember what Kyra-san said? \"Things\nhave gotten interesting.\"",
+  "en": "Remember what Kyra-san said?\n\"Things have gotten interesting.\"",
   "status": "done",
   "slots": [
    "0x1be8"
@@ -288,7 +288,7 @@
  {
   "id": "s2079:004fb",
   "jp": "多分、王族のウィルは、イシュトと\nアシュレイがお腹の中に生まれた\n瞬間に、二つに分割されたんだよ！",
-  "en": "The royal Will was probably split in two the\nmoment Ishut and Ashrey were conceived in\nthe womb!",
+  "en": "The royal Will was probably split in\ntwo the moment Ishut and Ashrey\nwere conceived in the womb!",
   "status": "done",
   "slots": [
    "0x1bf2"
@@ -299,7 +299,7 @@
  {
   "id": "s2079:00560",
   "jp": "なるほど。\n二つに分かれた王族のウィルが、\n今戻ろうとしているわけか。",
-  "en": "I see. So the royal Will that split in two is\ntryin' to go back together now.",
+  "en": "I see. So the royal Will that split in\ntwo is tryin' to go back together now.",
   "status": "done",
   "slots": [
    "0x1c27"
@@ -321,7 +321,7 @@
  {
   "id": "s2079:005ed",
   "jp": "それよりも問題なのは\n“どちらの意思が生きるか”",
-  "en": "The bigger problem is \"whose will is going to\nlive.\"",
+  "en": "The bigger problem is\n\"whose will is going to live.\"",
   "status": "done",
   "slots": [
    "0x1c59"
@@ -332,7 +332,7 @@
  {
   "id": "s2079:00621",
   "jp": "より意思の強い方に、\n人格が左右されるってこと？",
-  "en": "You mean whoever has the stronger will\ngets to decide the personality?",
+  "en": "You mean whoever has the stronger\nwill gets to decide the personality?",
   "status": "done",
   "slots": [
    "0x1c72"
@@ -343,7 +343,7 @@
  {
   "id": "s2079:00655",
   "jp": "うん。\n意思は思い、思いは、人だから。",
-  "en": "Mm-hmm. Will is feeling, and feeling is the\nperson.",
+  "en": "Mm-hmm. Will is feeling,\nand feeling is the person.",
   "status": "done",
   "slots": [
    "0x1c8b"
@@ -354,7 +354,7 @@
  {
   "id": "s2079:0067f",
   "jp": "俺の意思は俺の意思だ！\nアシュレイ、てめぇになんか\nやれるかよおおおぉ！！",
-  "en": "My will is my will! Like I'd ever hand it over\nto you, Ashrey!!",
+  "en": "My will is my will! Like I'd ever\nhand it over to you, Ashrey!!",
   "status": "done",
   "slots": [
    "0x1cc0"
@@ -365,7 +365,7 @@
  {
   "id": "s2079:006cc",
   "jp": "僕は生涯幸せを求めてきたんだ！\n僕の方が、僕の意思の方が、強い！",
-  "en": "I have sought happiness my whole life! I am\nstronger, my will is stronger!",
+  "en": "I have sought happiness my whole life!\nI am stronger, my will is stronger!",
   "status": "done",
   "slots": [
    "0x1cd9"
@@ -409,7 +409,7 @@
  {
   "id": "s2079:00766",
   "jp": "イシュトの意思の支えである\nお前らは邪魔だ！\nさっさと消えろぉぉぉ！！",
-  "en": "You people hold up Ishut's will, so you are in\nthe way! Disappear, noooow!!",
+  "en": "You people hold up Ishut's will,\nso you are in the way! Disappear, noooow!!",
   "status": "done",
   "slots": [
    "0x1d7d"
@@ -464,7 +464,7 @@
  {
   "id": "s2079:0082e",
   "jp": "イシュトの意思は私達に\n支えられているとアシュレイは\n言った。ということは。",
-  "en": "Ashrey said Ishut's will is held up by us. So\nthat means...",
+  "en": "Ashrey said Ishut's will is\nheld up by us. So that means...",
   "status": "done",
   "slots": [
    "0x1e16"
@@ -475,7 +475,7 @@
  {
   "id": "s2079:0087d",
   "jp": "ボク達の意思をぶつければ\n兄貴の意思が勝つ。\nそういうことですね。",
-  "en": "If we hit him with our will, the Boss's will\nwins. That's the idea, isn't it?",
+  "en": "If we hit him with our will, the Boss's\nwill wins. That's the idea, isn't it?",
   "status": "done",
   "slots": [
    "0x1e3d"
@@ -486,7 +486,7 @@
  {
   "id": "s2079:008c2",
   "jp": "……なるほどね。\nじゃあ、殺さない程度に、\n喝をいれてやりますか！",
-  "en": "...I see. Then let's knock some sense into\nhim, short of killing him!",
+  "en": "...I see. Then let's knock some\nsense into him, short of killing him!",
   "status": "done",
   "slots": [
    "0x1e56"
@@ -519,7 +519,7 @@
  {
   "id": "s2079:0093d",
   "jp": "馬鹿な！　\nこの体はイシュトの体なんだぞ！\n下手をすれば二人とも……！",
-  "en": "Are you mad!? This body is Ishut's body! If\nthis goes wrong, we will both...!",
+  "en": "Are you mad!? This body is Ishut's body!\nIf this goes wrong, we will both...!",
   "status": "done",
   "slots": [
    "0x1fa3"
@@ -563,7 +563,7 @@
  {
   "id": "s2079:009ff",
   "jp": "たとえグロリア海賊団でも、\nこの力には届くまい！",
-  "en": "Not even the Gloria Pirates can match this\npower!",
+  "en": "Not even the Gloria Pirates\ncan match this power!",
   "status": "done",
   "slots": [
    "0x1fec"
@@ -585,7 +585,7 @@
  {
   "id": "s2079:00a5d",
   "jp": "全力で行くぞ。\n力を合わせて頑張ろう。",
-  "en": "We're goin' all out. Let's work together and\ndo our best.",
+  "en": "We're goin' all out. Let's work\ntogether and do our best.",
   "status": "done",
   "slots": [
    "0x200b"
@@ -607,7 +607,7 @@
  {
   "id": "s2079:00a94",
   "jp": "俺だってなぁ。\n親父と戦ってみたいんだよ。\n一人でいい思いするんじゃねぇ。",
-  "en": "Hey, I wanna fight Dad too, ya know. Don't\ngo hoggin' all the fun.",
+  "en": "Hey, I wanna fight Dad too,\nya know. Don't go hoggin' all the fun.",
   "status": "done",
   "slots": [
    "0x2035"
@@ -618,7 +618,7 @@
  {
   "id": "s2079:00ae1",
   "jp": "……フン、馬鹿が。\nならば戦闘はキミの好きにやれ。",
-  "en": "...Hmph, you fool. Then fight however you\nlike.",
+  "en": "...Hmph, you fool.\nThen fight however you like.",
   "status": "done",
   "slots": [
    "0x204a"
@@ -640,7 +640,7 @@
  {
   "id": "s2079:00b26",
   "jp": "グロリア海賊団を倒すという意味で\nすでに意思は同一になっている。\n争っていても意味は無い。",
-  "en": "In defeating the Gloria Pirates, our wills are\nalready one and the same. There is no point\nin fighting each other.",
+  "en": "In defeating the Gloria Pirates,\nour wills are already one and the same.\nThere is no point in fighting each other.",
   "status": "done",
   "slots": [
    "0x2074"
@@ -662,7 +662,7 @@
  {
   "id": "s2079:00be4",
   "jp": "あぁ、了解。\nそんじゃあ行くぞ！\n兄弟初の共同戦線だ！！",
-  "en": "Yeah, got it. Well then, let's go! It's our\nfirst team-up as brothers!!",
+  "en": "Yeah, got it. Well then, let's go!\nIt's our first team-up as brothers!!",
   "status": "done",
   "slots": [
    "0x209e"
@@ -673,7 +673,7 @@
  {
   "id": "s2079:00c1f",
   "jp": "子分には負けてらんねぇよな！\n来いピンガー！\n久々に兄貴の力をみせてやるぜ！",
-  "en": "Can't lose to my own henchman, right! Come\non, Pinger! I'll show ya your Boss's power, for\nold times' sake!",
+  "en": "Can't lose to my own henchman, right!\nCome on, Pinger! I'll show ya your\nBoss's power, for old times' sake!",
   "status": "done",
   "slots": [
    "0x21f7"
@@ -706,7 +706,7 @@
  {
   "id": "s2079:00cb2",
   "jp": "悪いな、カクカクシカジカで\n俺のわがままなんだ。\n勘弁してくれ！",
-  "en": "Sorry, yada yada, long story: it's just me\nbein' selfish. Bear with me!",
+  "en": "Sorry, yada yada, long story: it's\njust me bein' selfish. Bear with me!",
   "status": "done",
   "slots": [
    "0x230d"
@@ -739,7 +739,7 @@
  {
   "id": "s2079:00d53",
   "jp": "そんなこと言っていいのか？\n痛い目見ても知らないぜ？",
-  "en": "Ya sure you should be sayin' that? Don't\nblame me if you get hurt, ya know?",
+  "en": "Ya sure you should be sayin' that?\nDon't blame me if you get hurt, ya know?",
   "status": "done",
   "slots": [
    "0x242a"
@@ -750,7 +750,7 @@
  {
   "id": "s2079:00d8b",
   "jp": "上等。\nアンタこそ、蜂の巣になっても\n知らないわよ！",
-  "en": "Bring it. And don't you blame me if you end\nup full of holes!",
+  "en": "Bring it. And don't you blame\nme if you end up full of holes!",
   "status": "done",
   "slots": [
    "0x2444"
@@ -761,7 +761,7 @@
  {
   "id": "s2079:00dc2",
   "jp": "とうとう、親父を超える時が\n来たってわけだな。",
-  "en": "So the time's finally come for me to surpass\nDad.",
+  "en": "So the time's finally come\nfor me to surpass Dad.",
   "status": "done",
   "slots": [
    "0x2541"
@@ -772,7 +772,7 @@
  {
   "id": "s2079:00df4",
   "jp": "ヘッ、\nそう易々と超えられて堪るかよぉ。\n来いや、息子！",
-  "en": "Heh, like hell I'll let ya surpass me that easy.\nCome on, son!",
+  "en": "Heh, like hell I'll let ya surpass\nme that easy. Come on, son!",
   "status": "done",
   "slots": [
    "0x255b"
@@ -783,7 +783,7 @@
  {
   "id": "s2079:00e2f",
   "jp": "あんなにマナーを守れなかった\n少年が、立派になったものだ。",
-  "en": "That boy who never could mind his manners\nhas grown into a fine man.",
+  "en": "That boy who never could mind his\nmanners has grown into a fine man.",
   "status": "done",
   "slots": [
    "0x262f"
@@ -793,7 +793,7 @@
  {
   "id": "s2079:00e69",
   "jp": "だが、大人として、\nまだまだ負けるわけにはいかない！",
-  "en": "But as an adult, I cannot afford to lose to\nyou yet!",
+  "en": "But as an adult, I cannot\nafford to lose to you yet!",
   "status": "done",
   "slots": [
    "0x2644"
@@ -803,7 +803,7 @@
  {
   "id": "s2079:00e9d",
   "jp": "お兄ちゃん、\nいつも遊んでくれてありがとう！",
-  "en": "Big Brother, thank you for always playing\nwith Locomoco!",
+  "en": "Big Brother, thank you for\nalways playing with Locomoco!",
   "status": "done",
   "slots": [
    "0x2711"
@@ -813,7 +813,7 @@
  {
   "id": "s2079:00ec9",
   "jp": "ロコモコの精一杯の魔法。\n受け止めてね！",
-  "en": "Here's Locomoco's very best magic. Catch\nit, okay!",
+  "en": "Here's Locomoco's very\nbest magic. Catch it, okay!",
   "status": "done",
   "slots": [
    "0x271b"
@@ -843,7 +843,7 @@
  {
   "id": "s2079:00f42",
   "jp": "いつかお礼したいんで、\n今度、黄泉の国に来てください。",
-  "en": "I wanna thank you someday, so come visit\nthe Land of the Dead sometime, sir.",
+  "en": "I wanna thank you someday, so come\nvisit the Land of the Dead sometime, sir.",
   "status": "done",
   "slots": [
    "0x2822"
@@ -863,7 +863,7 @@
  {
   "id": "s2079:00f91",
   "jp": "イシュト。キミは私を\n闇の中から救ってくれた。\n感謝している。",
-  "en": "Ishut. You saved me from the darkness. I'm\ngrateful.",
+  "en": "Ishut. You saved me from\nthe darkness. I'm grateful.",
   "status": "done",
   "slots": [
    "0x290f"
@@ -903,7 +903,7 @@
  {
   "id": "s2079:01015",
   "jp": "アナタのお陰で、\n私の正義の価値観が変わりました！",
-  "en": "Thanks to you, my sense of justice has\nchanged!",
+  "en": "Thanks to you, my sense\nof justice has changed!",
   "status": "done",
   "slots": [
    "0x2ab6"
@@ -913,7 +913,7 @@
  {
   "id": "s2079:01047",
   "jp": "自分の意思にひたすら突き進む！\n私の意思を、受け取ってください！",
-  "en": "Pressing straight on toward my own will!\nPlease accept my will!",
+  "en": "Pressing straight on toward my\nown will! Please accept my will!",
   "status": "done",
   "slots": [
    "0x2acb"
@@ -923,7 +923,7 @@
  {
   "id": "s2079:01087",
   "jp": "僕は最初、キミをライバルだと\n思い込んでいた……\nしかし、今は違う！",
-  "en": "At first, I was convinced you were my rival...\nBut not anymore!",
+  "en": "At first, I was convinced you\nwere my rival... But not anymore!",
   "status": "done",
   "slots": [
    "0x2b9f"
@@ -933,7 +933,7 @@
  {
   "id": "s2079:010ca",
   "jp": "キミは、僕の目標だ！\n僕は……イシュト！\nキミを超えるぞぉぉぉ！！！",
-  "en": "You are my goal! I... Ishut! I will surpass\nyooou!!!",
+  "en": "You are my goal! I... Ishut!\nI will surpass yooou!!!",
   "status": "done",
   "slots": [
    "0x2bb4"
@@ -943,7 +943,7 @@
  {
   "id": "s2079:0110d",
   "jp": "アナタは見てて本当に飽きないわ。\nとっても面白い子。",
-  "en": "I never get bored watching you, dear. You're\nsuch an interesting boy.",
+  "en": "I never get bored watching you,\ndear. You're such an interesting boy.",
   "status": "done",
   "slots": [
    "0x2c88"
@@ -953,7 +953,7 @@
  {
   "id": "s2079:01141",
   "jp": "まだ見ていたいから、\nいなくならないでね？",
-  "en": "I want to keep watching, so don't you go\ndisappearing, okay?",
+  "en": "I want to keep watching,\nso don't you go disappearing, okay?",
   "status": "done",
   "slots": [
    "0x2c9d"
@@ -963,7 +963,7 @@
  {
   "id": "s2079:0116b",
   "jp": "アナタみたいな熱血系。\n嫌いじゃないんだわさ。",
-  "en": "Hot-blooded types like you... I don't hate\n'em, dontcha know.",
+  "en": "Hot-blooded types like you...\nI don't hate 'em, dontcha know.",
   "status": "done",
   "slots": [
    "0x2d6a"
@@ -973,7 +973,7 @@
  {
   "id": "s2079:01199",
   "jp": "このパメラ様の最強の攻撃に\n耐えられたら、もっと嫌いじゃ\nなくなるかもね。",
-  "en": "If you can take the Great Pamela-sama's\nstrongest attack, maybe I'll hate you even\nless.",
+  "en": "If you can take the Great\nPamela-sama's strongest attack,\nmaybe I'll hate you even less.",
   "status": "done",
   "slots": [
    "0x2d74"
@@ -993,7 +993,7 @@
  {
   "id": "s2079:01208",
   "jp": "アナタの詩。完成したらとても\n素晴らしいものになるでしょう。\nだから、勝たせていただきますわ！",
-  "en": "Your song will be truly wonderful once it is\ncomplete. And so, I shall be taking the\nvictory!",
+  "en": "Your song will be truly wonderful\nonce it is complete. And so,\nI shall be taking the victory!",
   "status": "done",
   "slots": [
    "0x2e64"
@@ -1056,7 +1056,7 @@
  {
   "id": "s2079:0132d",
   "jp": "いいか！\n僕は、お前と一つとなるのだ！\nお前の中で、生き続けるのだ！",
-  "en": "Listen! I will become one with you! I will live\non inside you!",
+  "en": "Listen! I will become one with you!\nI will live on inside you!",
   "status": "done",
   "slots": [
    "0x3089"
@@ -1199,7 +1199,7 @@
  {
   "id": "s2079:014cf",
   "jp": "獣人に、伝説に、サラブレッドに、\n元将軍ですよ？",
-  "en": "A beastman, a legend, a thoroughbred and\nan ex-general, you know?",
+  "en": "A beastman, a legend, a thoroughbred\nand an ex-general, you know?",
   "status": "done",
   "slots": [
    "0x38fe"
@@ -1221,7 +1221,7 @@
  {
   "id": "s2079:01518",
   "jp": "アンタだって充分濃いわよ。\nむしろ、まともな人間なんて\nこの船には乗ってないわよ。",
-  "en": "You're plenty colorful yourself. If anything,\nthere isn't a single normal person on this\nship.",
+  "en": "You're plenty colorful yourself.\nIf anything, there isn't a single\nnormal person on this ship.",
   "status": "done",
   "slots": [
    "0x3930"
@@ -1265,7 +1265,7 @@
  {
   "id": "s2079:015aa",
   "jp": "ルキア皇国とエルマーレ連合国。\n二つの大国が敗れて、世界は大変な\nことになるわねぇ。",
-  "en": "The Lukia Empire and the Elmare Federation.\nWith both great powers defeated, the\nworld's going to be in a real mess.",
+  "en": "The Lukia Empire and the Elmare Federation.\nWith both great powers defeated,\nthe world's going to be in a real mess.",
   "status": "done",
   "slots": [
    "0x399f"
@@ -1287,7 +1287,7 @@
  {
   "id": "s2079:01612",
   "jp": "簡単に終わらねぇよ。\n戦争ってやつはな……。",
-  "en": "It won't end that easy. Not a thing like\nwar...",
+  "en": "It won't end that easy.\nNot a thing like war...",
   "status": "done",
   "slots": [
    "0x39df"
@@ -1298,7 +1298,7 @@
  {
   "id": "s2079:01642",
   "jp": "……なぁ。\n最後に一つだけ、わがまま言っても\nいいかな？",
-  "en": "...Hey. Can I be selfish about just one last\nthing?",
+  "en": "...Hey. Can I be selfish\nabout just one last thing?",
   "status": "done",
   "slots": [
    "0x39f8"

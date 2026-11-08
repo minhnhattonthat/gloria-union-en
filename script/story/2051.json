@@ -13,7 +13,7 @@
  {
   "id": "s2051:00077",
   "jp": "所謂“台風の目”ってやつじゃない\nですか？",
-  "en": "Isn't this what they call \"the eye of the\nstorm\"?",
+  "en": "Isn't this what they call\n\"the eye of the storm\"?",
   "status": "done",
   "slots": [
    "0x182e"
@@ -24,7 +24,7 @@
  {
   "id": "s2051:000a5",
   "jp": "よかったぁ、コレなら照準に神経を\n使わなくてもいい。",
-  "en": "Thank goodness, now I don't have to stress\nover my aim.",
+  "en": "Thank goodness, now I don't\nhave to stress over my aim.",
   "status": "done",
   "slots": [
    "0x1844"
@@ -46,7 +46,7 @@
  {
   "id": "s2051:000f4",
   "jp": "ほらルルゥも突っ立ってないで。\n早く行くわよ。",
-  "en": "Come on, Ruru, don't just stand there. Let's\ngo.",
+  "en": "Come on, Ruru, don't just\nstand there. Let's go.",
   "status": "done",
   "slots": [
    "0x187b"
@@ -134,7 +134,7 @@
  {
   "id": "s2051:001c2",
   "jp": "ルルゥにそっくり……\n体に流れるウィルまで！",
-  "en": "She looks just like Ruru... even the Will\nflowing through her body!",
+  "en": "She looks just like Ruru...\neven the Will flowing through her body!",
   "status": "done",
   "slots": [
    "0x1a35"
@@ -145,7 +145,7 @@
  {
   "id": "s2051:001f2",
   "jp": "ありえん。ウィルは十人十色。\nまったく同じウィルは存在しない。\nそれこそ、双子でもない限りな。",
-  "en": "Impossible. Every Will is different. No two\nWills are exactly the same. Unless, that is,\nthey are twins.",
+  "en": "Impossible. Every Will is different.\nNo two Wills are exactly the same.\nUnless, that is, they are twins.",
   "status": "done",
   "slots": [
    "0x1a4e"
@@ -233,7 +233,7 @@
  {
   "id": "s2051:00341",
   "jp": "テメェか。このルルゥの偽者を\nけしかけたのは。",
-  "en": "So it was you. You sent this fake Ruru after\nus.",
+  "en": "So it was you. You sent\nthis fake Ruru after us.",
   "status": "done",
   "slots": [
    "0x1c68"
@@ -244,7 +244,7 @@
  {
   "id": "s2051:00373",
   "jp": "初めまして、ボクの名は\nアジョー・グラフォー。気軽に\n“ドクター”と呼んでくれていいよ",
-  "en": "Pleased to meet you. My name is\nAjo-Grafor. Feel free to just call me\n\"Doctor\".",
+  "en": "Pleased to meet you.\nMy name is Ajo-Grafor.\nFeel free to just call me \"Doctor\".",
   "status": "done",
   "slots": [
    "0x1c81"
@@ -255,7 +255,7 @@
  {
   "id": "s2051:003cc",
   "jp": "こっちはルルゥＭｋ－２。\nボクの作った最高傑作さ。\nホラ、ご挨拶。",
-  "en": "This is Ruru Mk-II. My finest masterpiece.\nCome now, say hello.",
+  "en": "This is Ruru Mk-II. My finest\nmasterpiece. Come now, say hello.",
   "status": "done",
   "slots": [
    "0x1c8f"
@@ -310,7 +310,7 @@
  {
   "id": "s2051:004a3",
   "jp": "この子はまだ生まれたばかりでね。\n性能に不安があるんだ。",
-  "en": "This child was only just born, you see. I'm a\nlittle uneasy about her performance.",
+  "en": "This child was only just born, you see.\nI'm a little uneasy about her performance.",
   "status": "done",
   "slots": [
    "0x1d24"
@@ -321,7 +321,7 @@
  {
   "id": "s2051:004df",
   "jp": "ま、それでも未完成のオリジナル\nよりかは数倍強いんだけどね。",
-  "en": "Well, even so, she's several times stronger\nthan the unfinished original.",
+  "en": "Well, even so, she's several times\nstronger than the unfinished original.",
   "status": "done",
   "slots": [
    "0x1d2b"
@@ -343,7 +343,7 @@
  {
   "id": "s2051:00541",
   "jp": "なんだ、知らないのかい？　悪いが\n教えられないね。自分の研究成果を\n人に渡すなんて、愚の骨頂だ。",
-  "en": "What, you don't know? Sorry, but I can't tell\nyou. Handing your research results to other\npeople is the height of folly.",
+  "en": "What, you don't know? Sorry, but I can't\ntell you. Handing your research results\nto other people is the height of folly.",
   "status": "done",
   "slots": [
    "0x1d72"
@@ -354,7 +354,7 @@
  {
   "id": "s2051:005a4",
   "jp": "チ、わけのわかんねぇ奴。\nこんな奴に、負けられるかよ！",
-  "en": "Tch, what a weirdo. I ain't losin' to a guy like\nthis!",
+  "en": "Tch, what a weirdo.\nI ain't losin' to a guy like this!",
   "status": "done",
   "slots": [
    "0x1d8b"
@@ -365,7 +365,7 @@
  {
   "id": "s2051:005de",
   "jp": "キミがユーフォリア王家の末裔か。",
-  "en": "So you're the descendant of the Euforian\nroyal family.",
+  "en": "So you're the descendant of\nthe Euforian royal family.",
   "status": "done",
   "slots": [
    "0x2772"
@@ -387,7 +387,7 @@
  {
   "id": "s2051:0060c",
   "jp": "フム、なかなか興味深い体をして\nいるね。\nよし、キミはボクがいただこう。",
-  "en": "Hmm, you have quite a fascinating body.\nVery well, you're mine.",
+  "en": "Hmm, you have quite a fascinating\nbody. Very well, you're mine.",
   "status": "done",
   "slots": [
    "0x27a5"
@@ -398,7 +398,7 @@
  {
   "id": "s2051:00657",
   "jp": "……うーん。そっくりだけど、\nなぁんか違うんだよなぁ。",
-  "en": "...Hmm. She looks just like her, but\nsomethin's just... different.",
+  "en": "...Hmm. She looks just like her,\nbut somethin's just... different.",
   "status": "done",
   "slots": [
    "0x31c0"
@@ -420,7 +420,7 @@
  {
   "id": "s2051:006ac",
   "jp": "まぁ完全に似てても困るし……。\nんあーやりづれぇ！",
-  "en": "Well, it'd be a problem if she was a perfect\ncopy, too... Argh, this is awkward!",
+  "en": "Well, it'd be a problem if she was a\nperfect copy, too... Argh, this is awkward!",
   "status": "done",
   "slots": [
    "0x31f8"
@@ -431,7 +431,7 @@
  {
   "id": "s2051:006e2",
   "jp": "おや？　キミ珍しい身体してるね。\nちょっと身体の中を見せてくれない\nかな？",
-  "en": "Oh? You have an unusual body. Would you let\nme take a little look inside it?",
+  "en": "Oh? You have an unusual body.\nWould you let me take a little look inside it?",
   "status": "done",
   "slots": [
    "0x2897"
@@ -453,7 +453,7 @@
  {
   "id": "s2051:00742",
   "jp": "キミ“オリジナル”だろ？\nこんなところにいたんだね。",
-  "en": "You're the \"original\", aren't you? So this is\nwhere you were.",
+  "en": "You're the \"original\", aren't you?\nSo this is where you were.",
   "status": "done",
   "slots": [
    "0x29a3"
@@ -475,7 +475,7 @@
  {
   "id": "s2051:0078d",
   "jp": "べぇつに。\nただ君をバラせば、娘の完成が\n早まるかなぁ、と思っただけ。",
-  "en": "Oh, nothing. I just thought that if I took you\napart, my daughter might be finished\nsooner.",
+  "en": "Oh, nothing. I just thought\nthat if I took you apart,\nmy daughter might be finished sooner.",
   "status": "done",
   "slots": [
    "0x29d6"
@@ -486,7 +486,7 @@
  {
   "id": "s2051:007d6",
   "jp": "ホントにそっくり。\nどこで、私のことを\n知ったんだろう……。",
-  "en": "She really looks just like me. Where did he\nfind out about me...?",
+  "en": "She really looks just like me.\nWhere did he find out about me...?",
   "status": "done",
   "slots": [
    "0x33eb"
@@ -518,7 +518,7 @@
  {
   "id": "s2051:00842",
   "jp": "よく見ると、違いがハッキリ\nわかってきますね。",
-  "en": "Looking closely, the differences are pretty\nobvious.",
+  "en": "Looking closely, the\ndifferences are pretty obvious.",
   "status": "done",
   "slots": [
    "0x3308"
@@ -528,7 +528,7 @@
  {
   "id": "s2051:00870",
   "jp": "エリーシャさん。\n案外鈍いんですかねぇ？",
-  "en": "Elisha-san. Maybe you're slower than you\nlook?",
+  "en": "Elisha-san. Maybe you're\nslower than you look?",
   "status": "done",
   "slots": [
    "0x330f"
@@ -538,7 +538,7 @@
  {
   "id": "s2051:00898",
   "jp": "ちょっとちょっと。\nキミの相手は僕じゃないよ。\nルルゥＭｋ－２だよ。",
-  "en": "Hey, hey. I'm not your opponent. Ruru Mk-II\nis.",
+  "en": "Hey, hey. I'm not your\nopponent. Ruru Mk-II is.",
   "status": "done",
   "slots": [
    "0x2ac0"
@@ -548,7 +548,7 @@
  {
   "id": "s2051:008db",
   "jp": "こういうのはねぇ、後ろを先に\n倒せばいいって決まってるのよ！",
-  "en": "With this kind of thing, the rule is you take\nout the one in the back first!",
+  "en": "With this kind of thing, the rule is you\ntake out the one in the back first!",
   "status": "done",
   "slots": [
    "0x2ada"
@@ -598,7 +598,7 @@
  {
   "id": "s2051:009ba",
   "jp": "ルルゥの複製品……。\nなるほど、これが先回りの正体か。",
-  "en": "A copy of Ruru... I see, so this is how they\ngot ahead of us.",
+  "en": "A copy of Ruru... I see,\nso this is how they got ahead of us.",
   "status": "done",
   "slots": [
    "0x35cf"
@@ -618,7 +618,7 @@
  {
   "id": "s2051:00a03",
   "jp": "これはこれは、\nミネソタ・グレイ教授じゃないか。",
-  "en": "Well, well, if it isn't Professor Minesota\nGray.",
+  "en": "Well, well, if it isn't\nProfessor Minesota Gray.",
   "status": "done",
   "slots": [
    "0x2cc8"
@@ -648,7 +648,7 @@
  {
   "id": "s2051:00abb",
   "jp": "クローン……というわけでは\nないようだな。\nどうなっているんだ……？",
-  "en": "It doesn't seem to be a clone... What is going\non...?",
+  "en": "It doesn't seem to be a clone...\nWhat is going on...?",
   "status": "done",
   "slots": [
    "0x36c1"
@@ -668,7 +668,7 @@
  {
   "id": "s2051:00b1e",
   "jp": "よくもお姉ちゃんを虐めたな！\nロコモコの魔法でお返しだ！",
-  "en": "How dare you pick on Big Sister! Locomoco's\nmagic will pay you back!",
+  "en": "How dare you pick on Big Sister!\nLocomoco's magic will pay you back!",
   "status": "done",
   "slots": [
    "0x2dcf"
@@ -678,7 +678,7 @@
  {
   "id": "s2051:00b56",
   "jp": "魔法の技術は\n僕の専門外なんだけどなぁ。\nまぁいいや。お相手しよう。",
-  "en": "Magic isn't really my field, but oh well. I'll\ntake you on.",
+  "en": "Magic isn't really my field,\nbut oh well. I'll take you on.",
   "status": "done",
   "slots": [
    "0x2de8"
@@ -688,7 +688,7 @@
  {
   "id": "s2051:00b99",
   "jp": "お姉ちゃんの偽者なんて、\nお姉ちゃんじゃない！\n偽お姉ちゃんだ！！",
-  "en": "A fake Big Sister isn't Big Sister! You're Fake\nBig Sister!!",
+  "en": "A fake Big Sister isn't Big Sister!\nYou're Fake Big Sister!!",
   "status": "done",
   "slots": [
    "0x37b3"
@@ -728,7 +728,7 @@
  {
   "id": "s2051:00c2f",
   "jp": "ほぉ～こりゃあそっくりっすねぇ。\nまるで双子みたいっす。",
-  "en": "Whoa, she's a perfect match, sir. Just like\ntwins.",
+  "en": "Whoa, she's a perfect match,\nsir. Just like twins.",
   "status": "done",
   "slots": [
    "0x38a5"
@@ -748,7 +748,7 @@
  {
   "id": "s2051:00c6e",
   "jp": "陸地に上がったウンディーネなんて\n怖くもなんともないよ。",
-  "en": "An Undine up on dry land doesn't scare me\none bit.",
+  "en": "An Undine up on dry land\ndoesn't scare me one bit.",
   "status": "done",
   "slots": [
    "0x2fd6"
@@ -758,7 +758,7 @@
  {
   "id": "s2051:00ca6",
   "jp": "フン。その言葉、私の槍で\n取り消させてやろう。",
-  "en": "Hmph. My spear will make you take those\nwords back.",
+  "en": "Hmph. My spear will make\nyou take those words back.",
   "status": "done",
   "slots": [
    "0x2ff0"
@@ -768,7 +768,7 @@
  {
   "id": "s2051:00cd4",
   "jp": "ルルゥの偽者とわかった以上、\n容赦はしないぞ！",
-  "en": "Now that I know you're a fake Ruru, I won't\nhold back!",
+  "en": "Now that I know you're a\nfake Ruru, I won't hold back!",
   "status": "done",
   "slots": [
    "0x3997"
@@ -778,7 +778,7 @@
  {
   "id": "s2051:00d02",
   "jp": "戦闘モードニ移行。\n戦闘、開始シマス。",
-  "en": "Switching to battle mode. Commencing.\nBattle.",
+  "en": "Switching to battle mode.\nCommencing. Battle.",
   "status": "done",
   "slots": [
    "0x39b5"
@@ -798,7 +798,7 @@
  {
   "id": "s2051:00d5f",
   "jp": "ひどいなぁ。\n僕はただの研究者だよ？\n勝手に疑うなんて……解剖するよ？",
-  "en": "How cruel. I'm just a researcher, you know?\nSuspecting me like that... I'll dissect you,\nokay?",
+  "en": "How cruel. I'm just a researcher,\nyou know? Suspecting me like that...\nI'll dissect you, okay?",
   "status": "done",
   "slots": [
    "0x30dd"
@@ -808,7 +808,7 @@
  {
   "id": "s2051:00da4",
   "jp": "私の親友を攻撃するとは……。\n許せません！",
-  "en": "Attacking my dear friend... I won't forgive\nyou!",
+  "en": "Attacking my dear friend...\nI won't forgive you!",
   "status": "done",
   "slots": [
    "0x3a89"
@@ -828,7 +828,7 @@
  {
   "id": "s2051:00dd5",
   "jp": "本体へのダメージが深刻です。\n直ちに修理をお願いします……。",
-  "en": "Damage to main body is critical. Please\nrepair immediately...",
+  "en": "Damage to main body is critical.\nPlease repair immediately...",
   "status": "done",
   "slots": [
    "0x3dc5"
@@ -850,7 +850,7 @@
  {
   "id": "s2051:00e49",
   "jp": "自分もボロボロのクセにＭｋ－２の\n心配だけしてやがる……。",
-  "en": "He's in pieces himself, and he's only worried\nabout Mk-II...",
+  "en": "He's in pieces himself,\nand he's only worried about Mk-II...",
   "status": "done",
   "slots": [
    "0x4579"
@@ -872,7 +872,7 @@
  {
   "id": "s2051:00eac",
   "jp": "冗談でも止めてはったおすよ？",
-  "en": "Even as a joke, cut it out or I'll smack you,\nokay?",
+  "en": "Even as a joke, cut it out\nor I'll smack you, okay?",
   "status": "done",
   "slots": [
    "0x45ab"
@@ -894,7 +894,7 @@
  {
   "id": "s2051:00ef0",
   "jp": "バカやってないで、\n早いとこ風のクリスタルを\n取っちゃいましょう！",
-  "en": "Stop fooling around and let's grab the wind\nCrystal, quick!",
+  "en": "Stop fooling around and let's\ngrab the wind Crystal, quick!",
   "status": "done",
   "slots": [
    "0x45dd"
@@ -905,7 +905,7 @@
  {
   "id": "s2051:00f35",
   "jp": "そうだな。コイツ一人でここにいる\nとは考えづらい。",
-  "en": "Right. Hard to believe he's here all by\nhimself.",
+  "en": "Right. Hard to believe\nhe's here all by himself.",
   "status": "done",
   "slots": [
    "0x4601"
@@ -916,7 +916,7 @@
  {
   "id": "s2051:00f6b",
   "jp": "なぁ親父、\nアジョー・グラフォーは\nルキア皇国の人間じゃないのか？",
-  "en": "Hey, Dad. Ain't Ajo-Grafor one of the Lukia\nEmpire's people?",
+  "en": "Hey, Dad. Ain't Ajo-Grafor one\nof the Lukia Empire's people?",
   "status": "done",
   "slots": [
    "0x4617"
@@ -927,7 +927,7 @@
  {
   "id": "s2051:00fb0",
   "jp": "ルキア皇国は科学者を前線に\n出すほど馬鹿じゃねぇ。",
-  "en": "The Lukia Empire ain't dumb enough to send\na scientist to the front line.",
+  "en": "The Lukia Empire ain't dumb enough\nto send a scientist to the front line.",
   "status": "done",
   "slots": [
    "0x4630"
@@ -960,7 +960,7 @@
  {
   "id": "s2051:01030",
   "jp": "我は選定者。王なる者を決め、\n王ならぬ者を排除するもの。",
-  "en": "I am the Selector. I decide who shall be king,\nand cast out who shall not.",
+  "en": "I am the Selector. I decide who shall\nbe king, and cast out who shall not.",
   "status": "done",
   "slots": [
    "0x1f42"
@@ -990,7 +990,7 @@
  {
   "id": "s2051:010b9",
   "jp": "選定は終了した。我はそなたを\n王と認めよう。\nしかし、王の力はまだか弱い。",
-  "en": "The selection is complete. I acknowledge\nyou as king. But the power of a king is yet\nweak.",
+  "en": "The selection is complete.\nI acknowledge you as king.\nBut the power of a king is yet weak.",
   "status": "done",
   "slots": [
    "0x1fbf"
@@ -1000,7 +1000,7 @@
  {
   "id": "s2051:01102",
   "jp": "偉大なるウィルに煌く時。\nその玉の名を聞けるであろう。",
-  "en": "When it shines with great Will, you shall\nhear the name of the orb.",
+  "en": "When it shines with great Will,\nyou shall hear the name of the orb.",
   "status": "done",
   "slots": [
    "0x1fc6"
@@ -1020,7 +1020,7 @@
  {
   "id": "s2051:01143",
   "jp": "王が道を踏み外した時。\nその玉もまた歪む。",
-  "en": "Should the king stray from the path, so too\nwill the orb be warped.",
+  "en": "Should the king stray from the path,\nso too will the orb be warped.",
   "status": "done",
   "slots": [
    "0x2024"
@@ -1040,7 +1040,7 @@
  {
   "id": "s2051:01184",
   "jp": "我は選定者。王なる者を決め。\n王ならぬ者を排除するもの。",
-  "en": "I am the Selector. I decide who shall be king,\nand cast out who shall not.",
+  "en": "I am the Selector. I decide who shall\nbe king, and cast out who shall not.",
   "status": "done",
   "slots": [
    "0x2043"
@@ -1090,7 +1090,7 @@
  {
   "id": "s2051:01254",
   "jp": "最近、兄貴がお疲れのよう\nですからね。\nちょっと摘んでいきますか。",
-  "en": "The Boss seems tired lately. Maybe I'll pick\nsome.",
+  "en": "The Boss seems tired lately.\nMaybe I'll pick some.",
   "status": "done",
   "slots": [
    "0x2182"
@@ -1130,7 +1130,7 @@
  {
   "id": "s2051:012dd",
   "jp": "あら、ハーブ。\nこんな所に自生してるのね。",
-  "en": "Oh, herbs. So they grow wild in places like\nthis.",
+  "en": "Oh, herbs. So they grow\nwild in places like this.",
   "status": "done",
   "slots": [
    "0x22b0"
@@ -1140,7 +1140,7 @@
  {
   "id": "s2051:01307",
   "jp": "ん～いい匂い。\nもうちょっともらっていこうかしら",
-  "en": "Mmm, nice smell. Maybe I'll take a little\nmore.",
+  "en": "Mmm, nice smell.\nMaybe I'll take a little more.",
   "status": "done",
   "slots": [
    "0x22fb"
@@ -1150,7 +1150,7 @@
  {
   "id": "s2051:01337",
   "jp": "お、ハーブじゃねぇか。\nヘヘ、ちょっと拝借。",
-  "en": "Oh, ain't these herbs? Heheh, I'll borrow a\nfew.",
+  "en": "Oh, ain't these herbs?\nHeheh, I'll borrow a few.",
   "status": "done",
   "slots": [
    "0x2347"
@@ -1170,7 +1170,7 @@
  {
   "id": "s2051:01380",
   "jp": "お、これはハーブだな？\nどれ、一つもらおうか",
-  "en": "Oh, these are herbs, are they not? Let's\nsee, I shall take one.",
+  "en": "Oh, these are herbs, are they not?\nLet's see, I shall take one.",
   "status": "done",
   "slots": [
    "0x23de"
@@ -1200,7 +1200,7 @@
  {
   "id": "s2051:01411",
   "jp": "口の中がスースーして\n気持ちいいね！",
-  "en": "It's all minty in Locomoco's mouth! Feels\ngood!",
+  "en": "It's all minty in Locomoco's\nmouth! Feels good!",
   "status": "done",
   "slots": [
    "0x24c0"

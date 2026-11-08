@@ -2,7 +2,7 @@
  {
   "id": "s2033:00028",
   "jp": "最初に向かうのは\n“海王神殿”だよ。",
-  "en": "The first place we're headed is the \"Sea\nKing's Temple.\"",
+  "en": "The first place we're headed\nis the \"Sea King's Temple.\"",
   "status": "done",
   "slots": [
    "0x12f1"
@@ -13,7 +13,7 @@
  {
   "id": "s2033:00050",
   "jp": "おぉ、偶然ですね。\nボク達もそこを目指して\nいたんですよ。",
-  "en": "Oh, what a coincidence. That's where we\nwere headed too.",
+  "en": "Oh, what a coincidence.\nThat's where we were headed too.",
   "status": "done",
   "slots": [
    "0x1307"
@@ -46,7 +46,7 @@
  {
   "id": "s2033:000d8",
   "jp": "こんの……ハァ、もういい。\nルルゥ、方角を教えてくれ。",
-  "en": "Why you... *sigh* Forget it. Ruru, which way\ndo we go?",
+  "en": "Why you... *sigh* Forget it.\nRuru, which way do we go?",
   "status": "done",
   "slots": [
    "0x1353"
@@ -79,7 +79,7 @@
  {
   "id": "s2033:00138",
   "jp": "海を越えるのかぁ。\nよし、そんじゃあ船に乗り込もう。",
-  "en": "So we cross the sea, huh. All right, let's\nboard the ship.",
+  "en": "So we cross the sea, huh.\nAll right, let's board the ship.",
   "status": "done",
   "slots": [
    "0x13a5"
@@ -90,7 +90,7 @@
  {
   "id": "s2033:00170",
   "jp": "あの筏なら、もう海の底よん。",
-  "en": "If you mean that raft, it's at the bottom of\nthe sea~",
+  "en": "If you mean that raft,\nit's at the bottom of the sea~",
   "status": "done",
   "slots": [
    "0x13ba"
@@ -134,7 +134,7 @@
  {
   "id": "s2033:001df",
   "jp": "テメェ！　俺のお手製海賊船を！\n何者だ！",
-  "en": "You! My handmade pirate ship! Who the hell\nare you!?",
+  "en": "You! My handmade pirate ship!\nWho the hell are you!?",
   "status": "done",
   "slots": [
    "0x1631"
@@ -145,7 +145,7 @@
  {
   "id": "s2033:0020b",
   "jp": "“シャルム海賊団”船長。\nアンヌ・コーマック！",
-  "en": "Captain of the \"Charme Pirates.\" Anne\nCormack!",
+  "en": "Captain of the \"Charme\nPirates.\" Anne Cormack!",
   "status": "done",
   "slots": [
    "0x1658"
@@ -167,7 +167,7 @@
  {
   "id": "s2033:00265",
   "jp": "な！　も、もしかして、指名手配を\n見て来たのか！？",
-  "en": "Wha! D-don't tell me you came after seeing\nthat wanted poster!?",
+  "en": "Wha! D-don't tell me you came\nafter seeing that wanted poster!?",
   "status": "done",
   "slots": [
    "0x1686"
@@ -189,7 +189,7 @@
  {
   "id": "s2033:002e6",
   "jp": "狙わない方がおかしいってものよ？",
-  "en": "It'd be strange NOT to go after it, don't you\nthink?",
+  "en": "It'd be strange NOT to go\nafter it, don't you think?",
   "status": "done",
   "slots": [
    "0x16b4"
@@ -222,7 +222,7 @@
  {
   "id": "s2033:00371",
   "jp": "船が壊された。\nこの小さい島じゃ逃げ場もない。\n戦うしかないだろ！",
-  "en": "They wrecked our ship. There's nowhere to\nrun on this tiny island. We've got no choice\nbut to fight!",
+  "en": "They wrecked our ship. There's\nnowhere to run on this tiny island.\nWe've got no choice but to fight!",
   "status": "done",
   "slots": [
    "0x1718"
@@ -233,7 +233,7 @@
  {
   "id": "s2033:003b6",
   "jp": "あらぁ？\n果敢と無謀は違うわよ？",
-  "en": "Oh my? Bravery and recklessness aren't the\nsame thing, dear.",
+  "en": "Oh my? Bravery and recklessness\naren't the same thing, dear.",
   "status": "done",
   "slots": [
    "0x1731"
@@ -244,7 +244,7 @@
  {
   "id": "s2033:003da",
   "jp": "行くぞピンガー！\n悪いルルゥ、後ろに下がっておいて\nくれ。",
-  "en": "Let's go, Pinger! Sorry, Ruru, stay back for\nnow.",
+  "en": "Let's go, Pinger! Sorry,\nRuru, stay back for now.",
   "status": "done",
   "slots": [
    "0x174a"
@@ -277,7 +277,7 @@
  {
   "id": "s2033:0043b",
   "jp": "ふふん。私をただの女の子とは\n思わないほうがいいよ。",
-  "en": "Heh heh. You'd better not think I'm just an\nordinary girl.",
+  "en": "Heh heh. You'd better not\nthink I'm just an ordinary girl.",
   "status": "done",
   "slots": [
    "0x17b1"
@@ -299,7 +299,7 @@
  {
   "id": "s2033:00484",
   "jp": "兄貴、只でさえ不利なんですから。\n協力してもらいましょう！",
-  "en": "Boss, we're at a disadvantage as it is. Let's\ntake her help!",
+  "en": "Boss, we're at a disadvantage\nas it is. Let's take her help!",
   "status": "done",
   "slots": [
    "0x17f1"
@@ -332,7 +332,7 @@
  {
   "id": "s2033:004f3",
   "jp": "フフフ、大人の実力、\nじっくり見せてあげるわ。",
-  "en": "Hehehe. Let me show you what a grown-up\ncan do, nice and slow.",
+  "en": "Hehehe. Let me show you what a\ngrown-up can do, nice and slow.",
   "status": "done",
   "slots": [
    "0x190f"
@@ -343,7 +343,7 @@
  {
   "id": "s2033:00525",
   "jp": "思った以上にやるわね……。\nアンタ達！",
-  "en": "You're better than I expected... Get them,\nyou lot!",
+  "en": "You're better than I expected...\nGet them, you lot!",
   "status": "done",
   "slots": [
    "0x2647"
@@ -365,7 +365,7 @@
  {
   "id": "s2033:00572",
   "jp": "実力が拮抗している分、\n数の差が出ますね……。",
-  "en": "We're evenly matched, so their numbers are\nmaking the difference...",
+  "en": "We're evenly matched, so their\nnumbers are making the difference...",
   "status": "done",
   "slots": [
    "0x2760"
@@ -409,7 +409,7 @@
  {
   "id": "s2033:0060a",
   "jp": "“グロリア海賊団”副船長。\nエリーシャ！\nとその他。",
-  "en": "First mate of the \"Gloria Pirates.\" Elisha!\nAnd co.",
+  "en": "First mate of the \"Gloria\nPirates.\" Elisha! And co.",
   "status": "done",
   "slots": [
    "0x28d8"
@@ -420,7 +420,7 @@
  {
   "id": "s2033:00641",
   "jp": "自分以外はテキトーだ……。",
-  "en": "She couldn't care less about anyone but\nherself...",
+  "en": "She couldn't care less\nabout anyone but herself...",
   "status": "done",
   "slots": [
    "0x28ed"
@@ -431,7 +431,7 @@
  {
   "id": "s2033:00660",
   "jp": "グロリア海賊団！？\n超ビッグネームじゃねぇか！",
-  "en": "The Gloria Pirates!? That's a seriously big\nname!",
+  "en": "The Gloria Pirates!?\nThat's a seriously big name!",
   "status": "done",
   "slots": [
    "0x2910"
@@ -442,7 +442,7 @@
  {
   "id": "s2033:00692",
   "jp": "な、なんでこんな所に……。\nえぇい、考えてる暇はありません。\nここは素直に受け入れましょう！",
-  "en": "Wh-what are they doing in a place like\nthis...? Agh, there's no time to think. Let's\njust accept her help!",
+  "en": "Wh-what are they doing in a place like\nthis...? Agh, there's no time to think.\nLet's just accept her help!",
   "status": "done",
   "slots": [
    "0x2925"
@@ -464,7 +464,7 @@
  {
   "id": "s2033:00700",
   "jp": "はぁ……\nなぁんで親父はこんな奴らを\n擁護するのかしらねぇ。",
-  "en": "*sigh*... Why on earth does Dad want to\nlook after guys like these?",
+  "en": "*sigh*... Why on earth does Dad\nwant to look after guys like these?",
   "status": "done",
   "slots": [
    "0x2a70"
@@ -519,7 +519,7 @@
  {
   "id": "s2033:007f1",
   "jp": "グロリア海賊団の副船長さん。\n船長さんはお元気かしら？\nウフフ。",
-  "en": "Well, the first mate of the Gloria Pirates. Is\nyour captain doing well? Hehehe.",
+  "en": "Well, the first mate of the Gloria Pirates.\nIs your captain doing well? Hehehe.",
   "status": "done",
   "slots": [
    "0x21b5"
@@ -530,7 +530,7 @@
  {
   "id": "s2033:00834",
   "jp": "なんでアンタがそのことを……\nまさか！",
-  "en": "How do you know about that...? Don't tell\nme!",
+  "en": "How do you know about\nthat...? Don't tell me!",
   "status": "done",
   "slots": [
    "0x21ca"
@@ -562,7 +562,7 @@
  {
   "id": "s2033:00893",
   "jp": "そう簡単にやられるかよ！\n俺の剣を受けてみろ！",
-  "en": "Like I'd go down that easy! Take a taste of\nmy sword!",
+  "en": "Like I'd go down that easy!\nTake a taste of my sword!",
   "status": "done",
   "slots": [
    "0x22e3"
@@ -572,7 +572,7 @@
  {
   "id": "s2033:008c1",
   "jp": "ウフフ、可愛いネコちゃん。\n遊んであげるわ。",
-  "en": "Hehehe, what a cute kitty cat. I'll play with\nyou.",
+  "en": "Hehehe, what a cute kitty cat.\nI'll play with you.",
   "status": "done",
   "slots": [
    "0x23d4"
@@ -602,7 +602,7 @@
  {
   "id": "s2033:00930",
   "jp": "アナタ、本当に戦えるの？\n一撃で倒れたら承知しないわよ？",
-  "en": "Can you really fight, little one? Don't you\ndare go down in one hit.",
+  "en": "Can you really fight, little one?\nDon't you dare go down in one hit.",
   "status": "done",
   "slots": [
    "0x24f4"
@@ -666,7 +666,7 @@
  {
   "id": "s2033:00a3b",
   "jp": "助けたくて助けたわけじゃないわ。\n親父がアンタ達を仲間にしたいって\n言ってたから助けただけよ。",
-  "en": "I didn't help you because I wanted to. I only\ndid it because Dad said he wants you on our\ncrew.",
+  "en": "I didn't help you because I wanted to.\nI only did it because Dad said\nhe wants you on our crew.",
   "status": "done",
   "slots": [
    "0x349e"
@@ -688,7 +688,7 @@
  {
   "id": "s2033:00aa7",
   "jp": "そ。利害は一致してるはずよ。\n断る理由は、ないんじゃない？",
-  "en": "Yep. Our interests line up. I don't see any\nreason to say no, do you?",
+  "en": "Yep. Our interests line up.\nI don't see any reason to say no, do you?",
   "status": "done",
   "slots": [
    "0x34e6"
@@ -699,7 +699,7 @@
  {
   "id": "s2033:00ae5",
   "jp": "確かに、賞金首にされた以上。\nグロリア海賊団に入るってのは\nいい手だな。",
-  "en": "True, now that I've got a bounty on me,\njoining the Gloria Pirates is a pretty good\nmove.",
+  "en": "True, now that I've got a bounty on me,\njoining the Gloria Pirates\nis a pretty good move.",
   "status": "done",
   "slots": [
    "0x34fc"
@@ -819,7 +819,7 @@
  {
   "id": "s2033:00c45",
   "jp": "よし、それじゃあ早速\n牛から乳を搾るのを手伝ってくれ！\n頼んだぞ！",
-  "en": "Right, then! Help me milk the cows straight\naway! I'm counting on you!",
+  "en": "Right, then! Help me milk the cows\nstraight away! I'm counting on you!",
   "status": "done",
   "slots": [
    "0x1a1c"
@@ -839,7 +839,7 @@
  {
   "id": "s2033:00c8f",
   "jp": "お前は筋がいいからなぁ。\nこいつぁ美味いミルクができるぞ！",
-  "en": "You've got a knack for this. This'll make\nsome tasty milk!",
+  "en": "You've got a knack for this.\nThis'll make some tasty milk!",
   "status": "done",
   "slots": [
    "0x1a40"
@@ -849,7 +849,7 @@
  {
   "id": "s2033:00cc9",
   "jp": "ミルクは新鮮が一番！\n発酵させてチーズにするのもいいが\nできるだけ早く飲んでくれよな！",
-  "en": "Milk's best fresh! Fermenting it into cheese\nis fine too, but drink it as soon as you can,\nall right?",
+  "en": "Milk's best fresh! Fermenting\nit into cheese is fine too,\nbut drink it as soon as you can, all right?",
   "status": "done",
   "slots": [
    "0x1aaf"
@@ -869,7 +869,7 @@
  {
   "id": "s2033:00d2f",
   "jp": "海ゴブリン印のウチのミルク！\nしっかりと味わってくれ！",
-  "en": "Our very own Sea Goblin brand milk! Savor\nevery drop!",
+  "en": "Our very own Sea Goblin\nbrand milk! Savor every drop!",
   "status": "done",
   "slots": [
    "0x1ad9"
@@ -899,7 +899,7 @@
  {
   "id": "s2033:00d87",
   "jp": "綺麗な真珠だな。\n腕輪とかにしたら、ルルゥも喜んで\nくれるに違いない！",
-  "en": "What a pretty pearl. If I made it into a\nbangle or something, I bet Ruru would love\nit!",
+  "en": "What a pretty pearl. If I made\nit into a bangle or something,\nI bet Ruru would love it!",
   "status": "done",
   "slots": [
    "0x1be9"
@@ -919,7 +919,7 @@
  {
   "id": "s2033:00de1",
   "jp": "カラフルな真珠ですねぇ。\nなにかのアクセサリーに\nできそうですね。",
-  "en": "What a colorful pearl. Looks like it could be\nmade into some kind of accessory.",
+  "en": "What a colorful pearl. Looks like it could\nbe made into some kind of accessory.",
   "status": "done",
   "slots": [
    "0x1c99"
@@ -939,7 +939,7 @@
  {
   "id": "s2033:00e35",
   "jp": "うわぁ！　綺麗な真珠！\n後でイシュトに見てもらおうっと！",
-  "en": "Wow! A pretty pearl! I'll show it to Ishut\nlater!",
+  "en": "Wow! A pretty pearl!\nI'll show it to Ishut later!",
   "status": "done",
   "slots": [
    "0x1d49"
@@ -959,7 +959,7 @@
  {
   "id": "s2033:00e80",
   "jp": "カラフル真珠！　限定的な海に生息\nする貝からじゃなきゃ\nとれないものよ！",
-  "en": "A colorful pearl! You can only get these from\nshellfish that live in certain seas!",
+  "en": "A colorful pearl! You can only get these\nfrom shellfish that live in certain seas!",
   "status": "done",
   "slots": [
    "0x1df9"
@@ -989,7 +989,7 @@
  {
   "id": "s2033:00f0a",
   "jp": "誰が忘れてったんだ？\nったく、綺麗な浜辺を汚すなっての",
-  "en": "Who left this behind? Geez, don't go\nmessing up a nice beach.",
+  "en": "Who left this behind? Geez,\ndon't go messing up a nice beach.",
   "status": "done",
   "slots": [
    "0x1f00"
@@ -1009,7 +1009,7 @@
  {
   "id": "s2033:00f45",
   "jp": "ビーチサンダル発見です。\n誰かの忘れ物でしょうかねぇ？",
-  "en": "A beach sandal, found. I wonder if someone\nforgot it?",
+  "en": "A beach sandal, found.\nI wonder if someone forgot it?",
   "status": "done",
   "slots": [
    "0x1f9e"
@@ -1029,7 +1029,7 @@
  {
   "id": "s2033:00f92",
   "jp": "忘れ物？　なら、早く届けなくちゃ",
-  "en": "Did someone forget it? Then we have to\nreturn it quick!",
+  "en": "Did someone forget it?\nThen we have to return it quick!",
   "status": "done",
   "slots": [
    "0x2035"
@@ -1049,7 +1049,7 @@
  {
   "id": "s2033:00fd4",
   "jp": "あぁ、やるやる。\n脱げやすいのよねぇコレ。",
-  "en": "Ah, happens all the time. These things slip\nright off.",
+  "en": "Ah, happens all the time.\nThese things slip right off.",
   "status": "done",
   "slots": [
    "0x20cc"

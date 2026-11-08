@@ -2,7 +2,7 @@
  {
   "id": "s2075:00028",
   "jp": "私が目覚めたということは……\nそうか、念願が叶ったのか。",
-  "en": "If I have awakened... I see, so my\nlong-cherished wish has come true.",
+  "en": "If I have awakened... I see,\nso my long-cherished wish has come true.",
   "status": "done",
   "slots": [
    "0x2006"
@@ -57,7 +57,7 @@
  {
   "id": "s2075:00100",
   "jp": "ご、ごめんなさい。\nそれが、私に戻った時に\nまた忘れちゃって……。",
-  "en": "S-sorry. When I went back to being me, I\nforgot it all again...",
+  "en": "S-sorry. When I went back to\nbeing me, I forgot it all again...",
   "status": "done",
   "slots": [
    "0x2083"
@@ -68,7 +68,7 @@
  {
   "id": "s2075:00145",
   "jp": "緊急モードのままなのか！？\n燃費が悪いだろうに……。",
-  "en": "You're still in emergency mode!? Your fuel\nefficiency must be terrible...",
+  "en": "You're still in emergency mode!?\nYour fuel efficiency must be terrible...",
   "status": "done",
   "slots": [
    "0x209c"
@@ -134,7 +134,7 @@
  {
   "id": "s2075:00247",
   "jp": "双子、か……。\nなんとも面白い展開に\nなっているな。",
-  "en": "Twins, is it... Things have taken quite an\ninteresting turn.",
+  "en": "Twins, is it... Things have\ntaken quite an interesting turn.",
   "status": "done",
   "slots": [
    "0x2155"
@@ -156,7 +156,7 @@
  {
   "id": "s2075:00293",
   "jp": "兄貴がユーフォリア王家の\n末裔ってのはわかってるけど……。\n王家ってのはなんですか？",
-  "en": "I know the Boss is a descendant of the\nEuforian royal family... but what does royal\neven mean?",
+  "en": "I know the Boss is a descendant\nof the Euforian royal family...\nbut what does royal even mean?",
   "status": "done",
   "slots": [
    "0x21a3"
@@ -167,7 +167,7 @@
  {
   "id": "s2075:002ea",
   "jp": "末裔ではなく転生体なのだがな。\n王族というのはそのままの通り、\n前世が王族の者、という意味だ。",
-  "en": "Not a descendant, a reincarnation. Royal\nmeans just what it says: one who was\nroyalty in a past life.",
+  "en": "Not a descendant, a reincarnation.\nRoyal means just what it says:\none who was royalty in a past life.",
   "status": "done",
   "slots": [
    "0x21b9"
@@ -189,7 +189,7 @@
  {
   "id": "s2075:0037b",
   "jp": "俺達は、アイツを止めなきゃ\nならないんだ！\nそこを退いてくれ！",
-  "en": "We've gotta stop that guy! Get outta the\nway!",
+  "en": "We've gotta stop that guy!\nGet outta the way!",
   "status": "done",
   "slots": [
    "0x21fd"
@@ -200,7 +200,7 @@
  {
   "id": "s2075:003bc",
   "jp": "止める？　何故だ？\n彼は、ユーフォリアを復活させよう\nとしているのだぞ？",
-  "en": "Stop him? Why? He is trying to revive\nEuforia, you know?",
+  "en": "Stop him? Why? He is trying\nto revive Euforia, you know?",
   "status": "done",
   "slots": [
    "0x2216"
@@ -211,7 +211,7 @@
  {
   "id": "s2075:00407",
   "jp": "だからじゃない！\n皇国軍なんかに、ユーフォリアを\n渡すわけにはいかないわ！",
-  "en": "That's exactly why! We can't hand Euforia\nover to the Imperial army!",
+  "en": "That's exactly why! We can't hand\nEuforia over to the Imperial army!",
   "status": "done",
   "slots": [
    "0x222c"
@@ -255,7 +255,7 @@
  {
   "id": "s2075:00505",
   "jp": "そ、それじゃあ……ユーフォリアを\n封印して、カードとルルゥを作った\nのって……。",
-  "en": "Th-then... the one who sealed Euforia and\nmade the cards and Ruru...",
+  "en": "Th-then... the one who sealed Euforia\nand made the cards and Ruru...",
   "status": "done",
   "slots": [
    "0x229b"
@@ -288,7 +288,7 @@
  {
   "id": "s2075:005c0",
   "jp": "どうするも何も、\n突破するしかねぇだろ！",
-  "en": "What do we do? We break through, that's\nwhat!",
+  "en": "What do we do?\nWe break through, that's what!",
   "status": "done",
   "slots": [
    "0x22e6"
@@ -299,7 +299,7 @@
  {
   "id": "s2075:005ec",
   "jp": "二振りの剣……王族達はこのことを\n暗示していたのかもしれないな。",
-  "en": "Two swords... Perhaps the royals foresaw\nthis.",
+  "en": "Two swords... Perhaps\nthe royals foresaw this.",
   "status": "done",
   "slots": [
    "0x3474"
@@ -310,7 +310,7 @@
  {
   "id": "s2075:00630",
   "jp": "そういえば、この剣のこともよく\nわからねぇんだよな……。",
-  "en": "Come to think of it, I don't really get this\nsword either...",
+  "en": "Come to think of it, I don't\nreally get this sword either...",
   "status": "done",
   "slots": [
    "0x348e"
@@ -321,7 +321,7 @@
  {
   "id": "s2075:0066c",
   "jp": "そうか。\nならそうだな……勝ったら教えて\nやる。",
-  "en": "I see. Then let's say... I'll tell you if you\nwin.",
+  "en": "I see. Then let's say...\nI'll tell you if you win.",
   "status": "done",
   "slots": [
    "0x34ab"
@@ -332,7 +332,7 @@
  {
   "id": "s2075:0069f",
   "jp": "古代人ねぇ……。\nとてもそんな風にはみえませんね。",
-  "en": "An ancient, huh... You sure don't look like\none.",
+  "en": "An ancient, huh...\nYou sure don't look like one.",
   "status": "done",
   "slots": [
    "0x358d"
@@ -342,7 +342,7 @@
  {
   "id": "s2075:006d1",
   "jp": "私の服装は、\nその時代に合う形に変化する様に\nプログラムされていてな。",
-  "en": "My clothes are programmed to change into a\nform that suits the era.",
+  "en": "My clothes are programmed to\nchange into a form that suits the era.",
   "status": "done",
   "slots": [
    "0x35a6"
@@ -352,7 +352,7 @@
  {
   "id": "s2075:00716",
   "jp": "これでも、流行には敏感なのだよ。\nフフフ。",
-  "en": "I'm quite sensitive to fashion, you know. Heh\nheh heh.",
+  "en": "I'm quite sensitive to fashion,\nyou know. Heh heh heh.",
   "status": "done",
   "slots": [
    "0x35bb"
@@ -362,7 +362,7 @@
  {
   "id": "s2075:00740",
   "jp": "わざわざ緊急プログラムに戻すとは\nなんと無駄な事を……。\n呆れてものも言えないな。",
-  "en": "Going out of your way to revert to the\nemergency program... What a waste... I'm\ntoo appalled for words.",
+  "en": "Going out of your way to revert to the\nemergency program... What a waste...\nI'm too appalled for words.",
   "status": "done",
   "slots": [
    "0x36b3"
@@ -382,7 +382,7 @@
  {
   "id": "s2075:007bb",
   "jp": "……まぁ、こんなポヤーっとした\nプログラムを組んだのも私なんだ。\nしょうがない、かな。",
-  "en": "...Well, I'm the one who wrote such a spacey\nprogram. Can't be helped, I suppose.",
+  "en": "...Well, I'm the one who wrote such a\nspacey program. Can't be helped, I suppose.",
   "status": "done",
   "slots": [
    "0x36e6"
@@ -402,7 +402,7 @@
  {
   "id": "s2075:00836",
   "jp": "そうか？\n私が生きていた頃は、\n結構、主流だったのだがな。",
-  "en": "Is it? Back when I was alive, it was pretty\ncommon.",
+  "en": "Is it? Back when I was alive,\nit was pretty common.",
   "status": "done",
   "slots": [
    "0x37da"
@@ -412,7 +412,7 @@
  {
   "id": "s2075:0086f",
   "jp": "まぁ、物珍しいなら好都合だ。\n負ける可能性が低くなる。",
-  "en": "Well, if it's a novelty, all the better. Less\nchance I'll lose.",
+  "en": "Well, if it's a novelty,\nall the better. Less chance I'll lose.",
   "status": "done",
   "slots": [
    "0x37e4"
@@ -422,7 +422,7 @@
  {
   "id": "s2075:008a5",
   "jp": "どうやら、\nお前がこの団体のリーダーと\n見受けられる。違うか？",
-  "en": "It appears you are the leader of this group.\nAm I wrong?",
+  "en": "It appears you are the leader\nof this group. Am I wrong?",
   "status": "done",
   "slots": [
    "0x38dc"
@@ -442,7 +442,7 @@
  {
   "id": "s2075:00901",
   "jp": "いかにも、\n俺がこのグロリア海賊団船長の、\nザザーランドだ。",
-  "en": "That's right, I'm Zazarland, captain of the\nGloria Pirates.",
+  "en": "That's right, I'm Zazarland,\ncaptain of the Gloria Pirates.",
   "status": "done",
   "slots": [
    "0x390b"
@@ -452,7 +452,7 @@
  {
   "id": "s2075:0093c",
   "jp": "つまり、お前を倒せばこちらが\n有利となるわけだ……いくぞ。",
-  "en": "Which means if I defeat you, the advantage\nis mine... Here I come.",
+  "en": "Which means if I defeat you,\nthe advantage is mine... Here I come.",
   "status": "done",
   "slots": [
    "0x3924"
@@ -462,7 +462,7 @@
  {
   "id": "s2075:00976",
   "jp": "一つだけ聞きたい。\n現代の学問は、数千年前の学問に\nどれ程までに近づいている？",
-  "en": "I wish to ask one thing. How close has\ntoday's learning come to the learning of\nseveral thousand years ago?",
+  "en": "I wish to ask one thing. How close has\ntoday's learning come to the learning\nof several thousand years ago?",
   "status": "done",
   "slots": [
    "0x3a0d"
@@ -472,7 +472,7 @@
  {
   "id": "s2075:009c3",
   "jp": "そうだな。\nお前達の姿を見るに……。\n１２０％と言った所か。",
-  "en": "Let's see. Judging by the look of you... I'd\nsay 120%.",
+  "en": "Let's see. Judging by the\nlook of you... I'd say 120%.",
   "status": "done",
   "slots": [
    "0x3a26"
@@ -492,7 +492,7 @@
  {
   "id": "s2075:00a41",
   "jp": "古代ユーフォリアの学問は、\nウィルの一点張りだったからなぁ。",
-  "en": "Ancient Euforia's learning was all about Will,\nand nothing else.",
+  "en": "Ancient Euforia's learning was\nall about Will, and nothing else.",
   "status": "done",
   "slots": [
    "0x3a59"
@@ -562,7 +562,7 @@
  {
   "id": "s2075:00b7b",
   "jp": "さて、お喋りはここまでだ。\nいくぞ。小さな魔法使いよ。",
-  "en": "Now, enough chatter. Here I come, little\nmagic user.",
+  "en": "Now, enough chatter.\nHere I come, little magic user.",
   "status": "done",
   "slots": [
    "0x3bcb"
@@ -572,7 +572,7 @@
  {
   "id": "s2075:00bb1",
   "jp": "その羽……お前、黄泉の者か？",
-  "en": "Those wings... are you from the Land of the\nDead?",
+  "en": "Those wings... are you\nfrom the Land of the Dead?",
   "status": "done",
   "slots": [
    "0x3cc3"
@@ -592,7 +592,7 @@
  {
   "id": "s2075:00be3",
   "jp": "一人知り合いがいてな。\nフッ、懐かしいものだ。",
-  "en": "I had an acquaintance there. Heh, how\nnostalgic.",
+  "en": "I had an acquaintance there.\nHeh, how nostalgic.",
   "status": "done",
   "slots": [
    "0x3cf6"
@@ -602,7 +602,7 @@
  {
   "id": "s2075:00c11",
   "jp": "ウンディーネか。\n水の精霊として崇められていた者が\n手に武器を持っているとは。",
-  "en": "An Undine, hm. To think the ones once\nworshipped as water spirits would bear\nweapons.",
+  "en": "An Undine, hm. To think the\nones once worshipped as water\nspirits would bear weapons.",
   "status": "done",
   "slots": [
    "0x3dee"
@@ -642,7 +642,7 @@
  {
   "id": "s2075:00ce3",
   "jp": "よかろう。\nかかってこい。\n私は、強いぞ？",
-  "en": "Very well. Come at me. I'm strong, you\nknow?",
+  "en": "Very well. Come at me.\nI'm strong, you know?",
   "status": "done",
   "slots": [
    "0x3e40"
@@ -662,7 +662,7 @@
  {
   "id": "s2075:00d23",
   "jp": "な、何故、遺跡の守護固体が\nこんな所に……？\nプログラムを誤ったか……？",
-  "en": "Wh-why is a ruin guardian unit in a place like\nthis...? Did I make a mistake in the\nprogram...?",
+  "en": "Wh-why is a ruin guardian\nunit in a place like this...?\nDid I make a mistake in the program...?",
   "status": "done",
   "slots": [
    "0x3f34"
@@ -672,7 +672,7 @@
  {
   "id": "s2075:00d6a",
   "jp": "ほぉ、その武器。\n私ですら見たことがないとは……。\n珍しいな。少し撃ってみてくれ。",
-  "en": "Oh ho, that weapon. Even I have never seen\none... How rare. Fire it a little for me.",
+  "en": "Oh ho, that weapon. Even I have never\nseen one... How rare. Fire it a little for me.",
   "status": "done",
   "slots": [
    "0x401e"
@@ -682,7 +682,7 @@
  {
   "id": "s2075:00dbb",
   "jp": "言われなくても撃ちますよ！\nせいぜい、怪我をなさらぬように\nしてくださいね！",
-  "en": "I'll fire it without being asked! Do try not to\nget hurt!",
+  "en": "I'll fire it without being asked!\nDo try not to get hurt!",
   "status": "done",
   "slots": [
    "0x4038"
@@ -702,7 +702,7 @@
  {
   "id": "s2075:00e34",
   "jp": "お前の古代人のイメージは\n知らないが。\nまぁ、期待に沿えずにスマンな。",
-  "en": "I don't know your image of an ancient, but...\nwell, sorry I couldn't live up to it.",
+  "en": "I don't know your image of an ancient,\nbut... well, sorry I couldn't live up to it.",
   "status": "done",
   "slots": [
    "0x4125"
@@ -712,7 +712,7 @@
  {
   "id": "s2075:00e79",
   "jp": "ねぇ。なんか、古代ユーフォリアに\n関わるお宝なんてないの？",
-  "en": "Hey. Isn't there any treasure connected to\nancient Euforia?",
+  "en": "Hey. Isn't there any treasure\nconnected to ancient Euforia?",
   "status": "done",
   "slots": [
    "0x4200"
@@ -722,7 +722,7 @@
  {
   "id": "s2075:00eb3",
   "jp": "現代の物の価値が\n私にわかるわけなかろう。\nまぁ、あるとしたら、この遺跡だな",
-  "en": "How could I know what's valuable these\ndays? Well, if there's anything, it would be\nthis ruin.",
+  "en": "How could I know what's valuable\nthese days? Well, if there's\nanything, it would be this ruin.",
   "status": "done",
   "slots": [
    "0x4219"
@@ -732,7 +732,7 @@
  {
   "id": "s2075:00efe",
   "jp": "じゃあここは宝の山ってわけね。\nウフフ。\n後が楽しみね。",
-  "en": "So this place is a treasure mountain. Ufufu.\nI'm looking forward to later.",
+  "en": "So this place is a treasure mountain.\nUfufu. I'm looking forward to later.",
   "status": "done",
   "slots": [
    "0x4233"
@@ -742,7 +742,7 @@
  {
   "id": "s2075:00f35",
   "jp": "なんかアンタ、私と雰囲気が\n似てるんだわさ……。",
-  "en": "Somehow you've got a vibe like mine,\ndontcha know...",
+  "en": "Somehow you've got a vibe\nlike mine, dontcha know...",
   "status": "done",
   "slots": [
    "0x4315"
@@ -762,7 +762,7 @@
  {
   "id": "s2075:00f86",
   "jp": "ムカツク！　目立ち役はこの\nパメラ様だけで充分なんだわさ！\nアンタなんか、ぶっ倒してやる！",
-  "en": "How annoying! The Great Pamela-sama is all\nthe star this show needs, dontcha know! I'll\nknock you flat!",
+  "en": "How annoying! The Great Pamela-sama\nis all the star this show needs,\ndontcha know! I'll knock you flat!",
   "status": "done",
   "slots": [
    "0x4348"
@@ -772,7 +772,7 @@
  {
   "id": "s2075:00fdf",
   "jp": "おや、こんな所で神界の住人に\n会うとは。",
-  "en": "Oh my, to meet a resident of the divine\nrealm in a place like this.",
+  "en": "Oh my, to meet a resident of the\ndivine realm in a place like this.",
   "status": "done",
   "slots": [
    "0x444e"
@@ -782,7 +782,7 @@
  {
   "id": "s2075:01007",
   "jp": "……アナタ。\n神界とはどういった関係が？",
-  "en": "...You. What is your connection to the divine\nrealm?",
+  "en": "...You. What is your connection\nto the divine realm?",
   "status": "done",
   "slots": [
    "0x4468"
@@ -792,7 +792,7 @@
  {
   "id": "s2075:0102f",
   "jp": "なに、ただ眠っている間に\n世話になっただけだよ。",
-  "en": "Oh, nothing. They just looked after me\nwhile I slept.",
+  "en": "Oh, nothing. They just\nlooked after me while I slept.",
   "status": "done",
   "slots": [
    "0x4481"
@@ -802,7 +802,7 @@
  {
   "id": "s2075:0105f",
   "jp": "テメェの顔、なぁんか気にいらねぇ！\n一発殴らせろ！",
-  "en": "I just don't like your face! Lemme punch it\nonce!",
+  "en": "I just don't like your face!\nLemme punch it once!",
   "status": "done",
   "slots": [
    "0x44d4"
@@ -812,7 +812,7 @@
  {
   "id": "s2075:01091",
   "jp": "り、理不尽な神界人だな……。\n困った……。",
-  "en": "Wh-what an unreasonable divine being...\nWhat a bother...",
+  "en": "Wh-what an unreasonable\ndivine being... What a bother...",
   "status": "done",
   "slots": [
    "0x44ed"
@@ -822,7 +822,7 @@
  {
   "id": "s2075:010bb",
   "jp": "おいおい！　なんだよコイツの\nフォーメーションは！",
-  "en": "Hey, hey! What the hell kinda formation is\nthis guy's!?",
+  "en": "Hey, hey! What the hell kinda\nformation is this guy's!?",
   "status": "done",
   "slots": [
    "0x45e0"
@@ -877,7 +877,7 @@
  {
   "id": "s2075:01191",
   "jp": "古代ユーフォリア王国が沈んだのは\n今から約千年前だ……。",
-  "en": "The ancient Kingdom of Euforia sank about a\nthousand years ago...",
+  "en": "The ancient Kingdom of Euforia\nsank about a thousand years ago...",
   "status": "done",
   "slots": [
    "0x466c"
@@ -888,7 +888,7 @@
  {
   "id": "s2075:011cd",
   "jp": "ユーフォリアと共に眠るためには、\n人間をやめるしかなかったのだ。",
-  "en": "To sleep alongside Euforia, I had no choice\nbut to stop being human.",
+  "en": "To sleep alongside Euforia,\nI had no choice but to stop being human.",
   "status": "done",
   "slots": [
    "0x4685"
@@ -910,7 +910,7 @@
  {
   "id": "s2075:01249",
   "jp": "ユーフォリアは全てを統べる存在。\n失わせるわけにはいかなかった。",
-  "en": "Euforia is the power that rules over all. I\ncould not let it be lost.",
+  "en": "Euforia is the power that rules over all.\nI could not let it be lost.",
   "status": "done",
   "slots": [
    "0x46bc"
@@ -932,7 +932,7 @@
  {
   "id": "s2075:012b7",
   "jp": "正直言うとな……。\n千年後のことなんてわかるかい！",
-  "en": "To be honest... How should I know what'd\nhappen a thousand years later!",
+  "en": "To be honest... How should I know\nwhat'd happen a thousand years later!",
   "status": "done",
   "slots": [
    "0x470f"
@@ -965,7 +965,7 @@
  {
   "id": "s2075:01344",
   "jp": "グロリア海賊団！\nアシュレイ様のもとへは行かさん！",
-  "en": "Gloria Pirates! We will not let you reach\nAshrey-sama!",
+  "en": "Gloria Pirates! We will not\nlet you reach Ashrey-sama!",
   "status": "done",
   "slots": [
    "0x4c68"
@@ -976,7 +976,7 @@
  {
   "id": "s2075:0137a",
   "jp": "チ、メンドクセーのが出てきたぜ！\nザコはさっさと片付けるぞ！",
-  "en": "Tch, here comes a pain in the neck! Let's\nclean up the small fry quick!",
+  "en": "Tch, here comes a pain in the neck!\nLet's clean up the small fry quick!",
   "status": "done",
   "slots": [
    "0x4c86"
@@ -987,7 +987,7 @@
  {
   "id": "s2075:013ba",
   "jp": "王族のウィルのみを注目していたが\n……なるほど他の戦闘員のウィルも\n中々目を張るものがある。",
-  "en": "I was paying attention only to the royal\nWill... but I see the other fighters' Wills are\nquite remarkable too.",
+  "en": "I was paying attention only to the royal\nWill... but I see the other fighters'\nWills are quite remarkable too.",
   "status": "done",
   "slots": [
    "0x500c"
@@ -1009,7 +1009,7 @@
  {
   "id": "s2075:0142a",
   "jp": "まさか、私の力を上回るとはな。",
-  "en": "I never thought you would surpass my\npower.",
+  "en": "I never thought you\nwould surpass my power.",
   "status": "done",
   "slots": [
    "0x5877"
@@ -1064,7 +1064,7 @@
  {
   "id": "s2075:0154e",
   "jp": "しかし、私達は知らなかった。\nこの世界のウィルは、有限だった\nのだ。",
-  "en": "But we didn't know. The Will of this world\nwas finite.",
+  "en": "But we didn't know.\nThe Will of this world was finite.",
   "status": "done",
   "slots": [
    "0x58dc"
@@ -1075,7 +1075,7 @@
  {
   "id": "s2075:01595",
   "jp": "古代ユーフォリア王国は、\nウィルの枯渇が原因で滅んだのか……。",
-  "en": "So the ancient Kingdom of Euforia fell\nbecause the Will ran dry...",
+  "en": "So the ancient Kingdom of Euforia\nfell because the Will ran dry...",
   "status": "done",
   "slots": [
    "0x58f5"
@@ -1086,7 +1086,7 @@
  {
   "id": "s2075:015d7",
   "jp": "私は再びウィルが世界を満たすまで\nユーフォリアと共に眠りについた\nのであった。完。",
-  "en": "And so I went to sleep with Euforia until Will\nfilled the world again. The end.",
+  "en": "And so I went to sleep with Euforia until\nWill filled the world again. The end.",
   "status": "done",
   "slots": [
    "0x590e"
@@ -1097,7 +1097,7 @@
  {
   "id": "s2075:0162c",
   "jp": "ルルゥと遺跡のカードを作ったのも\nお前なのか？",
-  "en": "Were you the one who made Ruru and the\ncards of the ruins too?",
+  "en": "Were you the one who made Ruru\nand the cards of the ruins too?",
   "status": "done",
   "slots": [
    "0x5927"
@@ -1119,7 +1119,7 @@
  {
   "id": "s2075:016b3",
   "jp": "シンフォニアは、ユーフォリアの\n核となるための存在だ。",
-  "en": "Symphonia exists to become the core of\nEuforia.",
+  "en": "Symphonia exists to\nbecome the core of Euforia.",
   "status": "done",
   "slots": [
    "0x5947"
@@ -1152,7 +1152,7 @@
  {
   "id": "s2075:0174f",
   "jp": "なるほど……ガリオレッドは、その\nエネルギーを使って世界を制そうと\nしたのか……！",
-  "en": "I see... So Gariored meant to use that\nenergy to rule the world...!",
+  "en": "I see... So Gariored meant to use\nthat energy to rule the world...!",
   "status": "done",
   "slots": [
    "0x59ae"
@@ -1163,7 +1163,7 @@
  {
   "id": "s2075:017a4",
   "jp": "じゃあ、私がいる限り\nユーフォリアを復活させるのは無理\nってことだよね。",
-  "en": "Then as long as I'm here, nobody can revive\nEuforia, right?",
+  "en": "Then as long as I'm here,\nnobody can revive Euforia, right?",
   "status": "done",
   "slots": [
    "0x59c7"
@@ -1196,7 +1196,7 @@
  {
   "id": "s2075:01811",
   "jp": "復活させるだけなら、\n実はあるものさえあれば",
-  "en": "If it's only reviving it... as long as you have\none certain thing, actually...",
+  "en": "If it's only reviving it... as long as you\nhave one certain thing, actually...",
   "status": "done",
   "slots": [
    "0x5a2e"
@@ -1225,7 +1225,7 @@
  {
   "id": "s2075:01880",
   "jp": "剣だ。\n王族にのみ与えられる、\n二振りの剣。",
-  "en": "The swords. The two swords given only to\nroyalty.",
+  "en": "The swords. The two swords\ngiven only to royalty.",
   "status": "done",
   "slots": [
    "0x5a60"
@@ -1247,7 +1247,7 @@
  {
   "id": "s2075:018db",
   "jp": "俺の剣と、アシュレイの剣。\nそんな意味があったのか……。",
-  "en": "My sword and Ashrey's sword. So that's\nwhat they meant...",
+  "en": "My sword and Ashrey's sword.\nSo that's what they meant...",
   "status": "done",
   "slots": [
    "0x5a80"
@@ -1258,7 +1258,7 @@
  {
   "id": "s2075:01917",
   "jp": "クリスタルの封印を解いたのも、\nそういう意味があったから\nなんですね。",
-  "en": "So that's why the Boss could unseal the\nCrystals, too.",
+  "en": "So that's why the Boss could\nunseal the Crystals, too.",
   "status": "done",
   "slots": [
    "0x5a99"
@@ -1291,7 +1291,7 @@
  {
   "id": "s2075:019a1",
   "jp": "止められなかった、か。\n……まぁ、どうせまた眠るだけだ。\n後は、若い者にまかせるとするか。",
-  "en": "I couldn't stop him, hm. ...Well, I'll only be\ngoing back to sleep anyway. I'll leave the\nrest to the young.",
+  "en": "I couldn't stop him, hm. ...Well,\nI'll only be going back to sleep anyway.\nI'll leave the rest to the young.",
   "status": "done",
   "slots": [
    "0x5b6b"
@@ -1362,7 +1362,7 @@
  {
   "id": "s2075:01ace",
   "jp": "よく来た、選ばれし王家の末裔よ。",
-  "en": "Welcome, chosen descendant of the royal\nfamily.",
+  "en": "Welcome, chosen descendant\nof the royal family.",
   "status": "done",
   "slots": [
    "0x32d3"
@@ -1382,7 +1382,7 @@
  {
   "id": "s2075:01b09",
   "jp": "王家の末裔よ。\n我は“天上への担い手”\nそなたを天上へと導こう。",
-  "en": "Descendant of the royal family. I am the\n\"Bearer to the Heavens\". I shall guide you to\nthe heavens.",
+  "en": "Descendant of the royal family.\nI am the \"Bearer to the Heavens\".\nI shall guide you to the heavens.",
   "status": "done",
   "slots": [
    "0x32fa"
@@ -1432,7 +1432,7 @@
  {
   "id": "s2075:01bc2",
   "jp": "古代から残された壁画には\n優雅に海を泳ぐマンタの姿が\n描かれている……。",
-  "en": "The mural left from ancient times shows a\nmanta swimming gracefully through the\nsea...",
+  "en": "The mural left from ancient\ntimes shows a manta swimming\ngracefully through the sea...",
   "status": "done",
   "slots": [
    "0x337a"

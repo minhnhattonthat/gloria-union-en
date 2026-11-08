@@ -85,7 +85,7 @@
  {
   "id": "e:254094",
   "jp": "　　０％",
-  "en": "0%",
+  "en": "  0%",
   "status": "done",
   "slots": [
    "w:2c6ed8",
@@ -161,7 +161,7 @@
  {
   "id": "e:254210",
   "jp": "敵陣に岩石を飛ばし、\nダメージを与える兵器です。\nバトルを仕掛けた側が\nそのユニオン内に投石器を\n含めることによって、\n突撃時に投石が発動します。\n破壊可能オブジェクトです。",
-  "en": "A weapon that hurls rocks at the\nenemy lines to deal damage. If the\nside that starts a battle has a\ncatapult in its Union, it throws rocks\nduring the charge. It is a destructible\nobject.",
+  "en": "A weapon that hurls rocks at\nthe enemy lines to deal damage.\nIf the side that starts a battle\nhas a catapult in its Union,\nit throws rocks during the charge.\nIt is a destructible object.",
   "status": "done",
   "slots": [
    "w:2c7308"
@@ -170,7 +170,7 @@
  {
   "id": "e:2542bc",
   "jp": "砲台を所有している部隊の\nターン開始時に、\n特定の範囲に対して砲撃を\n行う兵器です。\n食らった敵は士気が落ちます。\nなお、夜間は砲撃できません。",
-  "en": "A weapon that bombards a set area\nat the start of the owning unit's turn.\nEnemies it hits lose morale. It can't\nfire at night.",
+  "en": "A weapon that bombards a set\narea at the start of the owning\nunit's turn. Enemies it hits lose\nmorale. It can't fire at night.",
   "status": "done",
   "slots": [
    "w:2c730c"
@@ -179,7 +179,7 @@
  {
   "id": "e:254348",
   "jp": "人々の生活の要衝である\n河川に架けられた橋です。\n石組みから木造まで、\n様々な種類があります。\n騎馬タイプのユニットは\n橋上で強化されます。",
-  "en": "A bridge over a river, a vital link in\npeople's lives. They come in many\nkinds, from stone to wood.\nCavalry-type units are strengthened\non bridges.",
+  "en": "A bridge over a river,\na vital link in people's lives.\nThey come in many kinds,\nfrom stone to wood. Cavalry-type\nunits are strengthened on bridges.",
   "status": "done",
   "slots": [
    "w:2c7310"
@@ -188,7 +188,7 @@
  {
   "id": "e:2543d0",
   "jp": "大きく開かれた門です。\n誰もが、自由に行き来する\nことができます。",
-  "en": "A wide-open gate. Anyone can come\nand go freely.",
+  "en": "A wide-open gate.\nAnyone can come and go freely.",
   "status": "done",
   "slots": [
    "w:2c7314"
@@ -206,7 +206,7 @@
  {
   "id": "e:254454",
   "jp": "木を組んで作られた柵です。\n飛行タイプのユニットは\n越えて進軍できますが、\nそれ以外は進入できません。\n破壊可能オブジェクトで、\n一度壊してしまえば\nあとは自由に移動できます。",
-  "en": "A fence of lashed timber. Flying-type\nunits can cross it; others can't enter.\nIt is a destructible object: once\nbroken, units can move through\nfreely.",
+  "en": "A fence of lashed timber.\nFlying-type units can cross\nit; others can't enter. It is a\ndestructible object: once broken,\nunits can move through freely.",
   "status": "done",
   "slots": [
    "w:2c731c"
@@ -215,7 +215,7 @@
  {
   "id": "e:254500",
   "jp": "人々が寄り集まった集落、\nもしくは一軒家です。\n訪れると、何か情報が\n得られるかもしれません。",
-  "en": "A settlement where people gather,\nor a lone house. Visit it and you may\nlearn something.",
+  "en": "A settlement where people gather,\nor a lone house. Visit it and\nyou may learn something.",
   "status": "done",
   "slots": [
    "w:2c7320"
@@ -224,7 +224,7 @@
  {
   "id": "e:25455c",
   "jp": "大勢の人々が集住する場所で、\n各地の風土や歴史によって\n固有の文化が発達しています。\n戦略上の重要拠点である\n場合も多く、訪れると\n有益な情報が得られるかも\nしれません。",
-  "en": "A place where many people live\ntogether, with a culture shaped by\nlocal climate and history. Often a key\nstrategic point; a visit may bring\nuseful information.",
+  "en": "A place where many people live\ntogether, with a culture shaped\nby local climate and history.\nOften a key strategic point; a\nvisit may bring useful information.",
   "status": "done",
   "slots": [
    "w:2c7324"
@@ -233,7 +233,7 @@
  {
   "id": "e:254604",
   "jp": "戦略上の重要拠点で、\n多くの場合、名だたる敵将が\n守備を固めています。\nここの制圧が勝利条件となる\n戦局も少なくなく、\nいかにして陥落させるかが\nカギになります。",
-  "en": "A key strategic point, usually held by\na famous enemy commander. Taking it\nis often the victory condition, and\nhow to bring it down is the key.",
+  "en": "A key strategic point, usually held by\na famous enemy commander. Taking\nit is often the victory condition,\nand how to bring it down is the key.",
   "status": "done",
   "slots": [
    "w:2c7328"
@@ -242,7 +242,7 @@
  {
   "id": "e:2546a4",
   "jp": "倒した敵が装備していた\nアイテムです。\n相手よりもＬＵＫの高い\nユニットで敵を倒すと、\nマップ上に出現します。\nそのまま放置しておくと、\n敵に奪われてしまうことも…",
-  "en": "An item the defeated enemy had\nequipped. It appears on the map when\na unit with higher LUK than the foe\ndefeats it. Leave it there and the\nenemy may take it...",
+  "en": "An item the defeated enemy had\nequipped. It appears on the map\nwhen a unit with higher LUK than\nthe foe defeats it. Leave it there\nand the enemy may take it...",
   "status": "done",
   "slots": [
    "w:2c732c"
@@ -251,7 +251,7 @@
  {
   "id": "e:254744",
   "jp": "川や海を航行する船舶です。\n現在は岸に停泊しているため、\n陸伝いに移動して\n通過することができます。\nただし甲板の広さの都合上、\n船舶のあるスクエア上で\n待機することはできません。",
-  "en": "A ship that sails rivers and seas. It is\nmoored at the shore now, so units can\ncross it over land. But the deck is\nsmall, so units can't wait on a ship's\nsquare.",
+  "en": "A ship that sails rivers and seas.\nIt is moored at the shore now,\nso units can cross it over land.\nBut the deck is small, so units\ncan't wait on a ship's square.",
   "status": "done",
   "slots": [
    "w:2c7330"
@@ -260,7 +260,7 @@
  {
   "id": "e:2547f4",
   "jp": "現在の戦況において、\n自軍、もしくは敵性部隊が\n目指すべき場所です。\nこちらが目指す場合は\n一刻も早く急行しましょう！\nまた敵性部隊が目指す場合、\n妨害して阻止しましょう！",
-  "en": "The place your army or the enemy\nforces should head for right now. If\nit's your goal, hurry there! If it's the\nenemy's, get in their way and stop\nthem!",
+  "en": "The place your army or the\nenemy forces should head for\nright now. If it's your goal,\nhurry there! If it's the enemy's,\nget in their way and stop them!",
   "status": "done",
   "slots": [
    "w:2c7334"
@@ -269,7 +269,7 @@
  {
   "id": "e:25489c",
   "jp": "装備中のアイテムに\n別の何らかのアイテムが\n反応したことを示す印です。\nその場所に行ってみると…",
-  "en": "A mark showing that some other item\nhas reacted to the item you have\nequipped. Go there and see...",
+  "en": "A mark showing that some other\nitem has reacted to the item you\nhave equipped. Go there and see...",
   "status": "done",
   "slots": [
    "w:2c7338"
@@ -314,7 +314,7 @@
  {
   "id": "e:254d44",
   "jp": "現在、アイテムを装備中のキャラクターは\n別のアイテムを装備することができません！",
-  "en": "A character who has an item equipped can't equip another\nitem!",
+  "en": "A character who has an item\nequipped can't equip another item!",
   "status": "done",
   "slots": [
    "i:cb900:cb910"
@@ -323,7 +323,7 @@
  {
   "id": "e:254d94",
   "jp": "装備可能なレベルに達していないので\nこのアイテムを装備できません！",
-  "en": "This item can't be equipped: the required level hasn't been\nreached!",
+  "en": "This item can't be equipped: the\nrequired level hasn't been reached!",
   "status": "done",
   "slots": [
    "i:cb9d4:cb9e4"
@@ -332,7 +332,7 @@
  {
   "id": "e:254dd8",
   "jp": "士気はすでに最高まで高まっています。\nこれ以上、士気回復は行えません！",
-  "en": "Morale is already at its peak. It can't be restored any\nfurther!",
+  "en": "Morale is already at its peak.\nIt can't be restored any further!",
   "status": "done",
   "slots": [
    "i:cbaa0:cbab0"
@@ -836,7 +836,7 @@
  {
   "id": "e:25541c",
   "jp": "暗黒以外に弱い",
-  "en": "Weak but to dark",
+  "en": "Weak save dark",
   "status": "done",
   "slots": [
    "w:2c8ee8"
@@ -1133,7 +1133,7 @@
  {
   "id": "e:255684",
   "jp": "毒沼地形が得意",
-  "en": "Good in Swamp",
+  "en": "Likes Poison Swamp",
   "status": "done",
   "slots": [
    "w:2c8ff0"
@@ -2340,7 +2340,7 @@
  {
   "id": "e:256040",
   "jp": "デュエル直後も移動可",
-  "en": "Can move after a\nDuel",
+  "en": "Can move\nafter a Duel",
   "status": "done",
   "slots": [
    "w:2c9428"
@@ -2403,7 +2403,7 @@
  {
   "id": "e:2560d0",
   "jp": "強攻撃の頻度が増加",
-  "en": "Strong Attack a lot",
+  "en": "Strong Attacks: up",
   "status": "done",
   "slots": [
    "w:2c9460"
@@ -3042,7 +3042,7 @@
  {
   "id": "e:2566b4",
   "jp": "■威力＝自TEC＋1－敵GEN",
-  "en": "■Power=Own TEC+1-Foe\nGEN",
+  "en": "■Power=Own\nTEC+1-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96ac"
@@ -3051,7 +3051,7 @@
  {
   "id": "e:2566cc",
   "jp": "■威力＝自TEC＋2－敵GEN",
-  "en": "■Power=Own TEC+2-Foe\nGEN",
+  "en": "■Power=Own\nTEC+2-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96b0"
@@ -3060,7 +3060,7 @@
  {
   "id": "e:2566e4",
   "jp": "■威力＝自TEC＋3－敵GEN",
-  "en": "■Power=Own TEC+3-Foe\nGEN",
+  "en": "■Power=Own\nTEC+3-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96b4"
@@ -3069,7 +3069,7 @@
  {
   "id": "e:2566fc",
   "jp": "■威力＝自TEC＋4－敵GEN",
-  "en": "■Power=Own TEC+4-Foe\nGEN",
+  "en": "■Power=Own\nTEC+4-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96b8"
@@ -3096,7 +3096,7 @@
  {
   "id": "e:25674c",
   "jp": "■威力＝敵ヘッド以外に∞",
-  "en": "■Power=Infinite, except\nfoe's Head",
+  "en": "■Power=Infinite,\nexcept foe's Head",
   "status": "done",
   "slots": [
    "w:2c96c4"
@@ -3186,7 +3186,7 @@
  {
   "id": "e:256838",
   "jp": "■効力＝同デュエル中ずっと",
-  "en": "■Effect=For this whole\nDuel",
+  "en": "■Effect=For\nthis whole Duel",
   "status": "done",
   "slots": [
    "w:2c96ec"
@@ -3195,7 +3195,7 @@
  {
   "id": "e:256854",
   "jp": "■効力＝同ターン内ずっと",
-  "en": "■Effect=For this whole\nturn",
+  "en": "■Effect=For\nthis whole turn",
   "status": "done",
   "slots": [
    "w:2c96f0"
@@ -3240,7 +3240,7 @@
  {
   "id": "e:2568d0",
   "jp": "■一騎討ちで必勝も無効化",
-  "en": "■Also cancels Always wins\nduels",
+  "en": "■Also cancels\nAlways wins duels",
   "status": "done",
   "slots": [
    "w:2c9704"
@@ -3249,7 +3249,7 @@
  {
   "id": "e:2568ec",
   "jp": "■敵のスキルゲージを破壊",
-  "en": "■Destroys the foe's Skill\nGauge",
+  "en": "■Destroys the\nfoe's Skill Gauge",
   "status": "done",
   "slots": [
    "w:2c9708"
@@ -3258,7 +3258,7 @@
  {
   "id": "e:256908",
   "jp": "■自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "■Works if own TEC >= foe\nGEN",
+  "en": "■Works if own\nTEC >= foe GEN",
   "status": "done",
   "slots": [
    "w:2c970c"
@@ -3285,7 +3285,7 @@
  {
   "id": "e:25694c",
   "jp": "■敵、味方のスキルゲージを破壊",
-  "en": "■Destroys both sides' Skill\nGauges",
+  "en": "■Destroys both sides'\nSkill Gauges",
   "status": "done",
   "slots": [
    "w:2c9718"
@@ -4231,7 +4231,7 @@
  {
   "id": "e:25742c",
   "jp": "重装備可能な男性",
-  "en": "Men who can wear heavy\ngear",
+  "en": "Men who can\nwear heavy gear",
   "status": "done",
   "slots": [
    "w:2ca5c0"
@@ -4411,7 +4411,7 @@
  {
   "id": "e:257580",
   "jp": "騎馬・水棲タイプ以外",
-  "en": "Not cavalry or aquatic\ntypes",
+  "en": "Not cavalry or\naquatic types",
   "status": "done",
   "slots": [
    "w:2ca610"
@@ -4447,7 +4447,7 @@
  {
   "id": "e:2575c4",
   "jp": "甘系が苦手でない人",
-  "en": "Those who don't mind\nsweets",
+  "en": "Those who don't\nmind sweets",
   "status": "done",
   "slots": [
    "w:2ca620"
@@ -4519,7 +4519,7 @@
  {
   "id": "e:257650",
   "jp": "派手なものが好きな人",
-  "en": "Those who like flashy\nthings",
+  "en": "Those who like\nflashy things",
   "status": "done",
   "slots": [
    "w:2ca640"
@@ -4537,7 +4537,7 @@
  {
   "id": "e:257674",
   "jp": "牛乳嫌いな人以外",
-  "en": "Anyone who doesn't hate\nmilk",
+  "en": "Anyone who\ndoesn't hate milk",
   "status": "done",
   "slots": [
    "w:2ca648"

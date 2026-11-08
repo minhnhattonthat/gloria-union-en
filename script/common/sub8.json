@@ -52,7 +52,7 @@
  {
   "id": "c8:1318f",
   "jp": "そりゃあ、栄養はあるんだろうけど\nさぁ……なんか、なぁ。",
-  "en": "Sure, I bet it's nutritious, but... I dunno,\nman.",
+  "en": "Sure, I bet it's nutritious,\nbut... I dunno, man.",
   "status": "done",
   "slots": [
    "0xb08"
@@ -62,7 +62,7 @@
  {
   "id": "c8:131c7",
   "jp": "これ、食えるのか？\nだって、明らかに腐ってる色だろ\nこれ……。",
-  "en": "Can ya even eat this? I mean, it's obviously\na rotten colour...",
+  "en": "Can ya even eat this? I mean,\nit's obviously a rotten colour...",
   "status": "done",
   "slots": [
    "0xb3e"
@@ -72,7 +72,7 @@
  {
   "id": "c8:13204",
   "jp": "美味い……！\nけど……中身まで青なのかよぉ\n食欲なくなるなぁ……。",
-  "en": "Tasty...! But... it's blue on the inside too?\nKills my appetite...",
+  "en": "Tasty...! But... it's blue on the\ninside too? Kills my appetite...",
   "status": "done",
   "slots": [
    "0xb7b"
@@ -102,7 +102,7 @@
  {
   "id": "c8:13293",
   "jp": "海の食べ物って言ったら\nこれだよなぁ！",
-  "en": "When it comes to food from the sea, this is\nit!",
+  "en": "When it comes to food\nfrom the sea, this is it!",
   "status": "done",
   "slots": [
    "0xc44"
@@ -132,7 +132,7 @@
  {
   "id": "c8:132fc",
   "jp": "ち、力が湧いてくる……！\nホントになんなんだ？\nこのキャンディー……。",
-  "en": "I-I can feel the power surgin'...! What the\nhell is this candy, seriously...?",
+  "en": "I-I can feel the power surgin'...!\nWhat the hell is this candy, seriously...?",
   "status": "done",
   "slots": [
    "0xd18"
@@ -182,7 +182,7 @@
  {
   "id": "c8:133f5",
   "jp": "ま、こんなもんでも腹の足しには\nなるか。",
-  "en": "Well, even somethin' like this'll fill my\nstomach a bit.",
+  "en": "Well, even somethin'\nlike this'll fill my stomach a bit.",
   "status": "done",
   "slots": [
    "0xe6d"
@@ -212,7 +212,7 @@
  {
   "id": "c8:1346d",
   "jp": "なんじゃこりゃ！　しょっぱ！\nこ、こんなのプリンじゃねぇ！\nプリン失格だ！",
-  "en": "What the hell is this!? Salty! Th-This ain't\npudding! It fails as a pudding!",
+  "en": "What the hell is this!? Salty!\nTh-This ain't pudding! It fails as a pudding!",
   "status": "done",
   "slots": [
    "0xf2f"
@@ -242,7 +242,7 @@
  {
   "id": "c8:134f0",
   "jp": "これ、鍋に入れて食うと美味いんだ\nよなぁ。さっそく入れようぜ！",
-  "en": "This stuff's great in a hotpot. Let's throw it\nin right away!",
+  "en": "This stuff's great in a hotpot.\nLet's throw it in right away!",
   "status": "done",
   "slots": [
    "0xfff"
@@ -252,7 +252,7 @@
  {
   "id": "c8:1352e",
   "jp": "うんめえぇぇ！　……けど。\nなぁんか物足りねぇんだよなぁ。",
-  "en": "Deliiicious! ...But. Somethin's missin',\nsomehow.",
+  "en": "Deliiicious! ...But.\nSomethin's missin', somehow.",
   "status": "done",
   "slots": [
    "0x1047"
@@ -262,7 +262,7 @@
  {
   "id": "c8:13568",
   "jp": "保存しておこうかと思ったが……\n我慢できねぇ！",
-  "en": "I was thinkin' of savin' it, but... I can't\nwait!",
+  "en": "I was thinkin' of savin'\nit, but... I can't wait!",
   "status": "done",
   "slots": [
    "0x108b"
@@ -282,7 +282,7 @@
  {
   "id": "c8:135af",
   "jp": "あれ？　ミルクが固形化してる……\nちょぉっと味見……。",
-  "en": "Huh? The milk's gone solid... Lemme just\nhave a taste...",
+  "en": "Huh? The milk's gone solid...\nLemme just have a taste...",
   "status": "done",
   "slots": [
    "0x1117"
@@ -292,7 +292,7 @@
  {
   "id": "c8:135e5",
   "jp": "こ、こりゃあ美味い！\nパンに乗せたらもう最高だ！",
-  "en": "Th-This is delicious! On some bread, it'd be\nthe best!",
+  "en": "Th-This is delicious!\nOn some bread, it'd be the best!",
   "status": "done",
   "slots": [
    "0x115f"
@@ -302,7 +302,7 @@
  {
   "id": "c8:13615",
   "jp": "し、死んでる……！\nほったらかしにしてたせいだ。\nしょうがねぇ、食うか。",
-  "en": "I-It's dead...! 'Cause I left it lyin' around.\nOh well, guess I'll eat it.",
+  "en": "I-It's dead...! 'Cause I left it lyin'\naround. Oh well, guess I'll eat it.",
   "status": "done",
   "slots": [
    "0x119c"
@@ -322,7 +322,7 @@
  {
   "id": "c8:1367b",
   "jp": "お、これピンガーが好きなやつだ。\n……どんな味がするんだろうな。",
-  "en": "Oh, this is the stuff Pinger likes. ...Wonder\nwhat it tastes like.",
+  "en": "Oh, this is the stuff Pinger likes.\n...Wonder what it tastes like.",
   "status": "done",
   "slots": [
    "0x1216"
@@ -342,7 +342,7 @@
  {
   "id": "c8:13708",
   "jp": "果物といえばコレだよなぁ。\nいっただっきまーす！",
-  "en": "When it comes to fruit, this is it. Let's diiig\nin!",
+  "en": "When it comes to fruit,\nthis is it. Let's diiig in!",
   "status": "done",
   "slots": [
    "0x12a2"
@@ -362,7 +362,7 @@
  {
   "id": "c8:13749",
   "jp": "禁断の果実……ねぇ。\n正直、見た目は普通の果物だよな。\nまぁ美味いからいいか。",
-  "en": "Forbidden fruit... huh. Honestly, it looks like\nnormal fruit. Well, it tastes good, so\nwhatever.",
+  "en": "Forbidden fruit... huh. Honestly,\nit looks like normal fruit. Well,\nit tastes good, so whatever.",
   "status": "done",
   "slots": [
    "0x132e"
@@ -372,7 +372,7 @@
  {
   "id": "c8:13796",
   "jp": "ま、神々の楽園ってのには\n惹かれるんだけどな。",
-  "en": "Well, I am kinda drawn to the whole\nparadise-of-the-gods thing.",
+  "en": "Well, I am kinda drawn to the\nwhole paradise-of-the-gods thing.",
   "status": "done",
   "slots": [
    "0x1376"
@@ -382,7 +382,7 @@
  {
   "id": "c8:137c4",
   "jp": "この海ドゼウ、なんか色が変だ……\n食えるのか？",
-  "en": "This Sea Loach is a weird colour... Can I eat\nit?",
+  "en": "This Sea Loach is a weird\ncolour... Can I eat it?",
   "status": "done",
   "slots": [
    "0x13ba"
@@ -392,7 +392,7 @@
  {
   "id": "c8:137f2",
   "jp": "うま！　なんだこの美味さ！\nこの世のどんな食べ物よりも\nうめぇ！",
-  "en": "Whoa! What is this flavour! It's tastier than\nany food in the world!",
+  "en": "Whoa! What is this flavour!\nIt's tastier than any food in the world!",
   "status": "done",
   "slots": [
    "0x1402"
@@ -412,7 +412,7 @@
  {
   "id": "c8:1385b",
   "jp": "おええぇぇぇ！\n何の罰ゲームだよ一体！",
-  "en": "Bleeeugh! What kinda punishment game is\nthis!?",
+  "en": "Bleeeugh! What kinda\npunishment game is this!?",
   "status": "done",
   "slots": [
    "0x148e"
@@ -422,7 +422,7 @@
  {
   "id": "c8:13881",
   "jp": "これ苦いんだろ？\nうわー食いたくねぇ……。",
-  "en": "This stuff's bitter, right? Ugh, I don't wanna\neat it...",
+  "en": "This stuff's bitter, right?\nUgh, I don't wanna eat it...",
   "status": "done",
   "slots": [
    "0x14cb"
@@ -432,7 +432,7 @@
  {
   "id": "c8:138ab",
   "jp": "あれ？　思ったほどでもないな。\n俺も成長したってことか？",
-  "en": "Huh? It ain't as bad as I thought. Guess I've\ngrown up too, huh?",
+  "en": "Huh? It ain't as bad as I thought.\nGuess I've grown up too, huh?",
   "status": "done",
   "slots": [
    "0x1508"
@@ -462,7 +462,7 @@
  {
   "id": "c8:13924",
   "jp": "しまったー発芽してる！\nかろうじて食えるけど、こりゃあ\nマズイな。",
-  "en": "Dang, it's sprouted! I can just about eat it,\nbut it tastes awful.",
+  "en": "Dang, it's sprouted! I can just\nabout eat it, but it tastes awful.",
   "status": "done",
   "slots": [
    "0x15d1"
@@ -512,7 +512,7 @@
  {
   "id": "c8:13a04",
   "jp": "ガツガツガツガツ……！\nやべぇ！　スプーンが止まらねぇ！",
-  "en": "Chomp chomp chomp chomp...! Uh-oh! My\nspoon won't stop!",
+  "en": "Chomp chomp chomp chomp...!\nUh-oh! My spoon won't stop!",
   "status": "done",
   "slots": [
    "0x1731"
@@ -532,7 +532,7 @@
  {
   "id": "c8:13a70",
   "jp": "おえぇ！　な、なんじゃこりゃあ！\n痛くて不味くてオマケに……\n毒がぁ……。",
-  "en": "Bleugh! Wh-What the hell is this!? It hurts\nand it's gross and on top of that...\npoisooon...",
+  "en": "Bleugh! Wh-What the hell is this!?\nIt hurts and it's gross and\non top of that... poisooon...",
   "status": "done",
   "slots": [
    "0x17bd"
@@ -542,7 +542,7 @@
  {
   "id": "c8:13ab9",
   "jp": "これ美味しいんですよねぇ。\n保存できる期間が短いので早めに\n食べちゃいましょうか。",
-  "en": "This is delicious. It doesn't keep long, so\nshall we eat it soon?",
+  "en": "This is delicious. It doesn't keep long,\nso shall we eat it soon?",
   "status": "done",
   "slots": [
    "0x1801"
@@ -552,7 +552,7 @@
  {
   "id": "c8:13b0a",
   "jp": "うん、やっぱり野菜の中ではこれが\n一番好きですね。",
-  "en": "Yes, out of all the vegetables, I like this one\nbest after all.",
+  "en": "Yes, out of all the vegetables,\nI like this one best after all.",
   "status": "done",
   "slots": [
    "0x1849"
@@ -562,7 +562,7 @@
  {
   "id": "c8:13b3c",
   "jp": "ミルクですか。\n……完全にネコ扱いですね。",
-  "en": "Milk, is it? ...You're treating me just like a\ncat.",
+  "en": "Milk, is it? ...You're\ntreating me just like a cat.",
   "status": "done",
   "slots": [
    "0x1886"
@@ -582,7 +582,7 @@
  {
   "id": "c8:13b85",
   "jp": "お、ミネラルリーフじゃないですか\nなかなかお目が高いですね。",
-  "en": "Oh, a Mineral Leaf! You've got quite a\ndiscerning eye.",
+  "en": "Oh, a Mineral Leaf!\nYou've got quite a discerning eye.",
   "status": "done",
   "slots": [
    "0x1900"
@@ -592,7 +592,7 @@
  {
   "id": "c8:13bc1",
   "jp": "ん～、体の隅々に栄養が\n行き渡ってますよ！",
-  "en": "Mmm, the nutrients are reaching every\ncorner of my body!",
+  "en": "Mmm, the nutrients are reaching\nevery corner of my body!",
   "status": "done",
   "slots": [
    "0x1948"
@@ -602,7 +602,7 @@
  {
   "id": "c8:13beb",
   "jp": "はあぁ、あの頃の記憶が蘇ってくる\nような果実ですねぇ。\n美味しくなかったら恨みますよ？",
-  "en": "Ahh, a fruit that brings back memories of\nthose days. If it's not tasty, I'll hold a\ngrudge, okay?",
+  "en": "Ahh, a fruit that brings back memories\nof those days. If it's not tasty,\nI'll hold a grudge, okay?",
   "status": "done",
   "slots": [
    "0x198c"
@@ -612,7 +612,7 @@
  {
   "id": "c8:13c40",
   "jp": "あ、意外と美味しいんですね。\nも、もう一口……。",
-  "en": "Oh, it's surprisingly tasty. J-Just one more\nbite...",
+  "en": "Oh, it's surprisingly tasty.\nJ-Just one more bite...",
   "status": "done",
   "slots": [
    "0x19d4"
@@ -652,7 +652,7 @@
  {
   "id": "c8:13cc0",
   "jp": "うはぁやっぱり美味しいですねぇ。\nあ、全部食べちゃった。\n……まぁいっか。",
-  "en": "Wahh, this really is delicious. Oh, I ate the\nwhole thing. ...Oh well.",
+  "en": "Wahh, this really is delicious. Oh,\nI ate the whole thing. ...Oh well.",
   "status": "done",
   "slots": [
    "0x1aec"
@@ -662,7 +662,7 @@
  {
   "id": "c8:13d09",
   "jp": "キャンディーですかぁ。\n初めて兄貴にもらったお菓子も\nキャンディーでしたねぇ。",
-  "en": "Candy, is it? The first sweet the Boss ever\ngave me was candy too.",
+  "en": "Candy, is it? The first sweet the\nBoss ever gave me was candy too.",
   "status": "done",
   "slots": [
    "0x1b30"
@@ -682,7 +682,7 @@
  {
   "id": "c8:13d77",
   "jp": "にゃにゃ！？　なんだかとっても\nそそられる見た目ですね……。\nいただきます！",
-  "en": "Nya-nya!? That looks really tempting...\nLet's dig in!",
+  "en": "Nya-nya!? That looks really\ntempting... Let's dig in!",
   "status": "done",
   "slots": [
    "0x1bbc"
@@ -712,7 +712,7 @@
  {
   "id": "c8:13e26",
   "jp": "ウ……そういえば、ボクは芸人じゃ\nありませんでした……。",
-  "en": "Ugh... Come to think of it, I'm not a\ncomedian...",
+  "en": "Ugh... Come to think of it,\nI'm not a comedian...",
   "status": "done",
   "slots": [
    "0x1c90"
@@ -732,7 +732,7 @@
  {
   "id": "c8:13e92",
   "jp": "この甘酸っぱさがいいんですよね。",
-  "en": "It's this sweet-and-sourness that makes it\ngood.",
+  "en": "It's this sweet-and-sourness\nthat makes it good.",
   "status": "done",
   "slots": [
    "0x1d1c"
@@ -742,7 +742,7 @@
  {
   "id": "c8:13eb3",
   "jp": "みんな大好きプリン。\nちょっとだけいただきますかねぇ。",
-  "en": "Everyone loves pudding. Shall I have just a\nlittle?",
+  "en": "Everyone loves pudding.\nShall I have just a little?",
   "status": "done",
   "slots": [
    "0x1d60"
@@ -772,7 +772,7 @@
  {
   "id": "c8:13f5c",
   "jp": "残った半分は、兄貴にア～ンさせて\nあげましょう。",
-  "en": "I'll feed the other half to the Boss. Say\n\"aah\".",
+  "en": "I'll feed the other half\nto the Boss. Say \"aah\".",
   "status": "done",
   "slots": [
    "0x1e34"
@@ -782,7 +782,7 @@
  {
   "id": "c8:13f8c",
   "jp": "この食材は滋養強壮に\n効くらしいですね……。",
-  "en": "This ingredient is supposed to be good for\nstamina...",
+  "en": "This ingredient is supposed\nto be good for stamina...",
   "status": "done",
   "slots": [
    "0x1e78"
@@ -792,7 +792,7 @@
  {
   "id": "c8:13fb8",
   "jp": "よし、残りは兄貴に食べさせて\nあげましょう。\nボクって優しいですね。",
-  "en": "All right, I'll let the Boss eat the rest.\nAren't I kind?",
+  "en": "All right, I'll let the Boss\neat the rest. Aren't I kind?",
   "status": "done",
   "slots": [
    "0x1ec0"
@@ -812,7 +812,7 @@
  {
   "id": "c8:1402b",
   "jp": "おや！　いつの間にかビンの中身が\n空っぽに！\nイッツァマ～ジック！",
-  "en": "Oh my! Before I knew it, the jar was empty!\nIt's a maaagic!",
+  "en": "Oh my! Before I knew it,\nthe jar was empty! It's a maaagic!",
   "status": "done",
   "slots": [
    "0x1f4c"
@@ -832,7 +832,7 @@
  {
   "id": "c8:140a9",
   "jp": "あぁ！　これ、ミルクが発酵して\nできたやつですね！？\nうわぁ、さっさと飲んでおけば……",
-  "en": "Ah! This is the milk, fermented, isn't it!?\nUgh, if only I'd drunk it sooner...",
+  "en": "Ah! This is the milk, fermented,\nisn't it!? Ugh, if only I'd drunk it sooner...",
   "status": "done",
   "slots": [
    "0x1fcd"
@@ -852,7 +852,7 @@
  {
   "id": "c8:14128",
   "jp": "にゃ、ドゼウが……。\nしかたない。処理しますか。",
-  "en": "Nya, the Sea Loach is... Can't be helped.\nLet's deal with it.",
+  "en": "Nya, the Sea Loach is...\nCan't be helped. Let's deal with it.",
   "status": "done",
   "slots": [
    "0x201c"
@@ -862,7 +862,7 @@
  {
   "id": "c8:14158",
   "jp": "マズイ……やっぱりもうちょっと\n早く食べるべきでしたね。",
-  "en": "Gross... I really should've eaten it a bit\nsooner.",
+  "en": "Gross... I really should've\neaten it a bit sooner.",
   "status": "done",
   "slots": [
    "0x2059"
@@ -872,7 +872,7 @@
  {
   "id": "c8:14190",
   "jp": "うふふふふ……遂に、遂にこの時が\n来ましたよマタタビちゃぁ～ん。\nも、もう、我慢できませえぇぇん！",
-  "en": "Ufufufufu... At last, at last the time has\ncome, my dear Catnip! I-I can't hold back any\nloooonger!",
+  "en": "Ufufufufu... At last, at last the\ntime has come, my dear Catnip!\nI-I can't hold back any loooonger!",
   "status": "done",
   "slots": [
    "0x2096"
@@ -882,7 +882,7 @@
  {
   "id": "c8:141f1",
   "jp": "うにゃにゃにゃにゃにゃ～～～～～\n～～～～ん！\nふにゃ！　ふにゃ～ん♪",
-  "en": "Unyanyanyanyanyaaaaaaaaaaan! Funya!\nFunyaaan!",
+  "en": "Unyanyanyanyanyaaaaaaaaaaan!\nFunya! Funyaaan!",
   "status": "done",
   "slots": [
    "0x20de"
@@ -912,7 +912,7 @@
  {
   "id": "c8:1426c",
   "jp": "禁断の果実。\n兄貴と一緒に食べたいっすねぇ。",
-  "en": "Forbidden fruit. I'd love to eat it with the\nBoss.",
+  "en": "Forbidden fruit.\nI'd love to eat it with the Boss.",
   "status": "done",
   "slots": [
    "0x2195"
@@ -922,7 +922,7 @@
  {
   "id": "c8:14298",
   "jp": "ま、食べられるのはボクですけど。\nなーんつって。",
-  "en": "Well, the one getting eaten would be me.\nJust kidding.",
+  "en": "Well, the one getting eaten\nwould be me. Just kidding.",
   "status": "done",
   "slots": [
    "0x21dd"
@@ -932,7 +932,7 @@
  {
   "id": "c8:142c8",
   "jp": "金色の海ドゼウって……。\nなんかのギャグですか？",
-  "en": "A golden Sea Loach...? Is this some kind of\ngag?",
+  "en": "A golden Sea Loach...?\nIs this some kind of gag?",
   "status": "done",
   "slots": [
    "0x2221"
@@ -1012,7 +1012,7 @@
  {
   "id": "c8:143bf",
   "jp": "あ！　発芽してる……これ以上芽が\n伸びる前に、食べておきますか。",
-  "en": "Ah! It's sprouted... Shall I eat it before the\nsprout grows any longer?",
+  "en": "Ah! It's sprouted... Shall I eat it\nbefore the sprout grows any longer?",
   "status": "done",
   "slots": [
    "0x2451"
@@ -1022,7 +1022,7 @@
  {
   "id": "c8:143ff",
   "jp": "うぅ。\n今度はもっとしっかり管理すると\nしましょう……。",
-  "en": "Ugh. Next time, I'll keep better track of\nthings...",
+  "en": "Ugh. Next time, I'll keep\nbetter track of things...",
   "status": "done",
   "slots": [
    "0x2499"
@@ -1042,7 +1042,7 @@
  {
   "id": "c8:14457",
   "jp": "脂身の部分はあまり\n好きじゃないんですよ。\n赤身の部分も充分美味しいですよ。",
-  "en": "I'm not too fond of the fatty part. The lean\npart is plenty tasty too.",
+  "en": "I'm not too fond of the fatty part.\nThe lean part is plenty tasty too.",
   "status": "done",
   "slots": [
    "0x2525"
@@ -1052,7 +1052,7 @@
  {
   "id": "c8:144a2",
   "jp": "カレーってすごいですよねぇ。\nカレーって言葉を聞いただけで\nお腹が空いてくるんですもん。",
-  "en": "Curry's amazing, isn't it. Just hearing the\nword \"curry\" makes me hungry.",
+  "en": "Curry's amazing, isn't it. Just hearing\nthe word \"curry\" makes me hungry.",
   "status": "done",
   "slots": [
    "0x2569"
@@ -1072,7 +1072,7 @@
  {
   "id": "c8:14517",
   "jp": "たまにはボクだって、高級食材\nというやつを食べてみたいですよ。",
-  "en": "Once in a while, even I'd like to try eating\none of those luxury ingredients.",
+  "en": "Once in a while, even I'd like to try\neating one of those luxury ingredients.",
   "status": "done",
   "slots": [
    "0x25f5"
@@ -1092,7 +1092,7 @@
  {
   "id": "c8:14581",
   "jp": "これが、イシュトが子供の頃から\n食べてたものなんだぁ、へぇ～。",
-  "en": "So this is what Ishut's been eating since he\nwas little. Huh~.",
+  "en": "So this is what Ishut's been\neating since he was little. Huh~.",
   "status": "done",
   "slots": [
    "0x2681"
@@ -1142,7 +1142,7 @@
  {
   "id": "c8:14655",
   "jp": "すごぉい、口の中が海の香りで\nいっぱいだ！",
-  "en": "Wow, my mouth is full of the smell of the\nsea!",
+  "en": "Wow, my mouth is full\nof the smell of the sea!",
   "status": "done",
   "slots": [
    "0x27c8"
@@ -1152,7 +1152,7 @@
  {
   "id": "c8:1467f",
   "jp": "うわぁ綺麗な青色！\nなんだか食べるのがもったいない\n気がするね！",
-  "en": "Wow, such a pretty blue! It almost feels like\na waste to eat it!",
+  "en": "Wow, such a pretty blue!\nIt almost feels like a waste to eat it!",
   "status": "done",
   "slots": [
    "0x280c"
@@ -1172,7 +1172,7 @@
  {
   "id": "c8:146e6",
   "jp": "なに？　この白いの……。\nえ？　食べ物？　\nお、おいしいのかなぁ……。",
-  "en": "What's this white thing...? Huh? It's food?\nI-I wonder if it's yummy...",
+  "en": "What's this white thing...? Huh?\nIt's food? I-I wonder if it's yummy...",
   "status": "done",
   "slots": [
    "0x2898"
@@ -1232,7 +1232,7 @@
  {
   "id": "c8:147d4",
   "jp": "これって、魚に見えるけど\nお菓子なんでしょ？\nいただきまーす。",
-  "en": "It looks like a fish, but it's a sweet, right?\nLet's dig in.",
+  "en": "It looks like a fish, but it's\na sweet, right? Let's dig in.",
   "status": "done",
   "slots": [
    "0x2a3c"
@@ -1282,7 +1282,7 @@
  {
   "id": "c8:148c9",
   "jp": "やっぱり足りない。\nあと百個持ってきて！",
-  "en": "Not enough after all. Bring me a hundred\nmore!",
+  "en": "Not enough after all.\nBring me a hundred more!",
   "status": "done",
   "slots": [
    "0x2b9c"
@@ -1292,7 +1292,7 @@
  {
   "id": "c8:148f1",
   "jp": "プリンって、とっても甘くて\nおいしいんでしょ？\n楽しみだなぁ。",
-  "en": "Pudding's really sweet and yummy, right? I\ncan't wait.",
+  "en": "Pudding's really sweet and\nyummy, right? I can't wait.",
   "status": "done",
   "slots": [
    "0x2be0"
@@ -1302,7 +1302,7 @@
  {
   "id": "c8:1492e",
   "jp": "って！　しょっぱいじゃない！\nうそつき！　嫌い！\nでもおいしい！　嫌い取り消し！",
-  "en": "Hey! It's salty! Liar! I hate you! But it's\nyummy! I take back the hate!",
+  "en": "Hey! It's salty! Liar! I hate you!\nBut it's yummy! I take back the hate!",
   "status": "done",
   "slots": [
    "0x2c28"
@@ -1312,7 +1312,7 @@
  {
   "id": "c8:1497d",
   "jp": "これが、みんなが子供の頃に\n食べてたおやつなんだぁ、へぇ～。",
-  "en": "So this is the snack everyone ate when they\nwere little. Huh~.",
+  "en": "So this is the snack everyone\nate when they were little. Huh~.",
   "status": "done",
   "slots": [
    "0x2c6c"
@@ -1322,7 +1322,7 @@
  {
   "id": "c8:149b9",
   "jp": "ん！　コリコリしてて、何時までも\n口の中に入れておきたい気がする！",
-  "en": "Mm! It's crunchy, I feel like I could keep it in\nmy mouth forever!",
+  "en": "Mm! It's crunchy, I feel like I could\nkeep it in my mouth forever!",
   "status": "done",
   "slots": [
    "0x2cb4"
@@ -1332,7 +1332,7 @@
  {
   "id": "c8:149fb",
   "jp": "うわあぁ。焼きたいけど、\nぬるぬるしててつかめないよぉ！",
-  "en": "Waaah. I want to grill it, but it's so slimy I\ncan't grab it!",
+  "en": "Waaah. I want to grill it,\nbut it's so slimy I can't grab it!",
   "status": "done",
   "slots": [
    "0x2cf8"
@@ -1352,7 +1352,7 @@
  {
   "id": "c8:14a5b",
   "jp": "今がまさに食べるとき！\nいただきまーす！",
-  "en": "Now's the perfect time to eat it! Let's dig\niiin!",
+  "en": "Now's the perfect time\nto eat it! Let's dig iiin!",
   "status": "done",
   "slots": [
    "0x2d84"
@@ -1372,7 +1372,7 @@
  {
   "id": "c8:14aa4",
   "jp": "ありゃりゃ、ミルクがこんなのに\nなっちゃったよ。\nどうしよう……。",
-  "en": "Oh dear, the milk turned into this. What\nshould I do...",
+  "en": "Oh dear, the milk turned into this.\nWhat should I do...",
   "status": "done",
   "slots": [
    "0x2e10"
@@ -1392,7 +1392,7 @@
  {
   "id": "c8:14b28",
   "jp": "あれ？　ドゼウが動かないよ？\nもう煮るなり焼くなり自由にしろ！\nってことかなぁ。",
-  "en": "Huh? The loach isn't moving. I guess it means\n\"boil me, grill me, do what you like!\"",
+  "en": "Huh? The loach isn't moving. I guess it\nmeans \"boil me, grill me, do what you like!\"",
   "status": "done",
   "slots": [
    "0x2e95"
@@ -1402,7 +1402,7 @@
  {
   "id": "c8:14b77",
   "jp": "あれ？　ドゼウってこんな味なの？\n期待はずれだなぁ……。",
-  "en": "Huh? Is this what loach tastes like? What a\nletdown...",
+  "en": "Huh? Is this what loach\ntastes like? What a letdown...",
   "status": "done",
   "slots": [
    "0x2ed2"
@@ -1432,7 +1432,7 @@
  {
   "id": "c8:14c0c",
   "jp": "これどうやって食べるの？\nえ？　まずは皮をむくの？\nどうやって？",
-  "en": "How do you eat this? Huh? You peel it first?\nHow?",
+  "en": "How do you eat this? Huh?\nYou peel it first? How?",
   "status": "done",
   "slots": [
    "0x2f9b"
@@ -1452,7 +1452,7 @@
  {
   "id": "c8:14c73",
   "jp": "禁断？　食べちゃいけないの？\nえ、いいの？　もーどっち！？",
-  "en": "Forbidden? I'm not allowed to eat it? Huh, I\nam? Geez, which is it!?",
+  "en": "Forbidden? I'm not allowed to eat it?\nHuh, I am? Geez, which is it!?",
   "status": "done",
   "slots": [
    "0x3027"
@@ -1462,7 +1462,7 @@
  {
   "id": "c8:14cad",
   "jp": "シャクシャクしてておいしい！\nでも、なんで禁断なの……？",
-  "en": "It's nice and crisp, it's yummy! But why is it\nforbidden...?",
+  "en": "It's nice and crisp, it's yummy!\nBut why is it forbidden...?",
   "status": "done",
   "slots": [
    "0x306f"
@@ -1472,7 +1472,7 @@
  {
   "id": "c8:14ce5",
   "jp": "うわぁきれいな海ドゼウ！\n食べるのがもったいないよぉ。",
-  "en": "Wow, what a pretty Sea Loach! It's a waste\nto eat it!",
+  "en": "Wow, what a pretty Sea Loach!\nIt's a waste to eat it!",
   "status": "done",
   "slots": [
    "0x30b3"
@@ -1482,7 +1482,7 @@
  {
   "id": "c8:14d1b",
   "jp": "もったいなくなかった！\nすんごく美味しい！　\n食べて正解だったね！",
-  "en": "It wasn't a waste! It's super yummy! Eating\nit was the right call!",
+  "en": "It wasn't a waste! It's super yummy!\nEating it was the right call!",
   "status": "done",
   "slots": [
    "0x30fb"
@@ -1522,7 +1522,7 @@
  {
   "id": "c8:14db0",
   "jp": "苦ければ苦いほどいいって教えて\nもらったから。これはすごい効くと\n思うよ。",
-  "en": "Someone told me the more bitter it is, the\nbetter. So I think this'll work really well.",
+  "en": "Someone told me the more bitter it is,\nthe better. So I think this'll work really well.",
   "status": "done",
   "slots": [
    "0x3213"
@@ -1542,7 +1542,7 @@
  {
   "id": "c8:14e25",
   "jp": "あ、おいしい。\nなんだか、さっぱりした気分に\nなってきたよ。",
-  "en": "Oh, it's yummy. I'm starting to feel all\nrefreshed.",
+  "en": "Oh, it's yummy. I'm starting\nto feel all refreshed.",
   "status": "done",
   "slots": [
    "0x329f"
@@ -1552,7 +1552,7 @@
  {
   "id": "c8:14e60",
   "jp": "イシュトが食べちゃダメって\n言ってたけど、もったいないよね。",
-  "en": "Ishut said not to eat it, but it'd be a waste,\nright?",
+  "en": "Ishut said not to eat it,\nbut it'd be a waste, right?",
   "status": "done",
   "slots": [
    "0x32e3"
@@ -1572,7 +1572,7 @@
  {
   "id": "c8:14ec0",
   "jp": "うわぁおいしそう！\n匂いもいいなぁ……じゅるるるるる",
-  "en": "Wow, that looks yummy! It smells good\ntoo... *sluuurp*",
+  "en": "Wow, that looks yummy!\nIt smells good too... *sluuurp*",
   "status": "done",
   "slots": [
    "0x336f"
@@ -1582,7 +1582,7 @@
  {
   "id": "c8:14ef4",
   "jp": "あむあむあむ！\nう、美味い！　美味すぎるよ！\n遺跡の欠片と同じぐらい！",
-  "en": "Nom nom nom! S-So good! It's way too good!\nAs good as ruin shards!",
+  "en": "Nom nom nom! S-So good! It's way\ntoo good! As good as ruin shards!",
   "status": "done",
   "slots": [
    "0x33b7"
@@ -1602,7 +1602,7 @@
  {
   "id": "c8:14f69",
   "jp": "あ、本当だ、美味しい。\nでも、ちょっと辛いかな？",
-  "en": "Oh, it's true, it's yummy. But maybe a little\nspicy?",
+  "en": "Oh, it's true, it's yummy.\nBut maybe a little spicy?",
   "status": "done",
   "slots": [
    "0x3443"
@@ -1612,7 +1612,7 @@
  {
   "id": "c8:14f99",
   "jp": "フグって、めったに食べられない\n高級食材らしいね……じゅるり。",
-  "en": "Pufferfish is a luxury food you hardly ever\nget to eat, right... *slurp*",
+  "en": "Pufferfish is a luxury food you hardly\never get to eat, right... *slurp*",
   "status": "done",
   "slots": [
    "0x3480"
@@ -1622,7 +1622,7 @@
  {
   "id": "c8:14fd7",
   "jp": "こ、これが、高級食材なの……？\nあまり美味しくないね……。",
-  "en": "Th-This is a luxury food...? It's not very\nyummy...",
+  "en": "Th-This is a luxury food...?\nIt's not very yummy...",
   "status": "done",
   "slots": [
    "0x34bd"
@@ -1632,7 +1632,7 @@
  {
   "id": "c8:15011",
   "jp": "たまには肉以外のもんも\n食わねぇとな！",
-  "en": "Gotta eat somethin' besides meat once in a\nwhile!",
+  "en": "Gotta eat somethin'\nbesides meat once in a while!",
   "status": "done",
   "slots": [
    "0x34fa"
@@ -1642,7 +1642,7 @@
  {
   "id": "c8:15037",
   "jp": "思ったより美味いな。\nこれからは野菜も多めに摂るか。",
-  "en": "Tastier than I thought. Maybe I'll eat more\nvegetables from now on.",
+  "en": "Tastier than I thought. Maybe I'll\neat more vegetables from now on.",
   "status": "done",
   "slots": [
    "0x3542"
@@ -1652,7 +1652,7 @@
  {
   "id": "c8:1506b",
   "jp": "たまには酒以外のモンもいいか。",
-  "en": "Somethin' besides booze is nice once in a\nwhile, I guess.",
+  "en": "Somethin' besides booze is\nnice once in a while, I guess.",
   "status": "done",
   "slots": [
    "0x3586"
@@ -1672,7 +1672,7 @@
  {
   "id": "c8:1509b",
   "jp": "エリーシャの奴、子供の頃はコレが\n大嫌いでな。\nよく叱ってたんだよ。",
-  "en": "Elisha hated this stuff when she was a kid. I\nused to scold her for it all the time.",
+  "en": "Elisha hated this stuff when she was a kid.\nI used to scold her for it all the time.",
   "status": "done",
   "slots": [
    "0x3612"
@@ -1692,7 +1692,7 @@
  {
   "id": "c8:15116",
   "jp": "酒の肴、酒の肴～っとぉ……って、\nこれしかねぇのかよ。\nしょうがねぇなぁ。",
-  "en": "Somethin' to go with my drink, somethin' to\ngo with my drink... Wait, this is all there is?\nOh well.",
+  "en": "Somethin' to go with my drink,\nsomethin' to go with my drink...\nWait, this is all there is? Oh well.",
   "status": "done",
   "slots": [
    "0x3697"
@@ -1702,7 +1702,7 @@
  {
   "id": "c8:1515f",
   "jp": "この色さえなけりゃあ、いい肴に\nなったと思うんだけどなぁ。",
-  "en": "If it weren't for this colour, it'd have made a\nfine drinkin' snack, I reckon.",
+  "en": "If it weren't for this colour, it'd have\nmade a fine drinkin' snack, I reckon.",
   "status": "done",
   "slots": [
    "0x36d4"
@@ -1712,7 +1712,7 @@
  {
   "id": "c8:15199",
   "jp": "酒のつまみにはもってこいだねぇ。\n酒がねぇのは残念だが……。",
-  "en": "Perfect for snackin' on with a drink. Shame\nthere ain't any booze, though...",
+  "en": "Perfect for snackin' on with a drink.\nShame there ain't any booze, though...",
   "status": "done",
   "slots": [
    "0x3711"
@@ -1732,7 +1732,7 @@
  {
   "id": "c8:151ea",
   "jp": "こういうのは大人の食べ物。\nだから、俺が食べるべきだろ。",
-  "en": "This here's grown-up food. So I oughta be\nthe one to eat it.",
+  "en": "This here's grown-up food.\nSo I oughta be the one to eat it.",
   "status": "done",
   "slots": [
    "0x379d"
@@ -1742,7 +1742,7 @@
  {
   "id": "c8:15222",
   "jp": "これで酒がありゃあ\n最高なんだがなぁ……。",
-  "en": "If only I had some booze with this, it'd be\nperfect...",
+  "en": "If only I had some booze\nwith this, it'd be perfect...",
   "status": "done",
   "slots": [
    "0x37e5"
@@ -1762,7 +1762,7 @@
  {
   "id": "c8:15284",
   "jp": "こ、こいつぁ……！\nへへ、見た目で判断するもんじゃ\nねぇな。",
-  "en": "Th-This is...! Heh, ya really can't judge by\nlooks.",
+  "en": "Th-This is...! Heh,\nya really can't judge by looks.",
   "status": "done",
   "slots": [
    "0x3871"
@@ -1802,7 +1802,7 @@
  {
   "id": "c8:15347",
   "jp": "グエェペッペッ！\nの、飲めたもんじゃねぇ！\nやっぱ素人の浅知恵はよくねぇな！",
-  "en": "Gweh, ptoo ptoo! Th-This ain't drinkable! An\namateur's half-baked ideas are no good\nafter all!",
+  "en": "Gweh, ptoo ptoo! Th-This ain't\ndrinkable! An amateur's half-baked\nideas are no good after all!",
   "status": "done",
   "slots": [
    "0x3970"
@@ -1812,7 +1812,7 @@
  {
   "id": "c8:15392",
   "jp": "こいつはなぁ、シャンパンの中で\n潰して、シャンパンと一緒に\n飲むのがいいんだよ。",
-  "en": "Ya see, with this one, ya crush it in\nchampagne and drink it along with the\nchampagne.",
+  "en": "Ya see, with this one,\nya crush it in champagne and drink\nit along with the champagne.",
   "status": "done",
   "slots": [
    "0x39b4"
@@ -1822,7 +1822,7 @@
  {
   "id": "c8:153e1",
   "jp": "ま、シャンパンなんて高級品。\nウチにはないけどな。",
-  "en": "Well, champagne's a luxury. We ain't got any,\nthough.",
+  "en": "Well, champagne's a luxury.\nWe ain't got any, though.",
   "status": "done",
   "slots": [
    "0x39fc"
@@ -1842,7 +1842,7 @@
  {
   "id": "c8:1542c",
   "jp": "お、なかなか美味いじゃねぇの。\nカラメルがないのが残念だけどな。",
-  "en": "Oh, that's pretty tasty. Shame there's no\ncaramel, though.",
+  "en": "Oh, that's pretty tasty.\nShame there's no caramel, though.",
   "status": "done",
   "slots": [
    "0x3a88"
@@ -1852,7 +1852,7 @@
  {
   "id": "c8:1546c",
   "jp": "コレはなぁ、子供だけのおやつじゃ\nないんだぜ？",
-  "en": "This here ain't just a snack for kids, ya\nknow?",
+  "en": "This here ain't just a\nsnack for kids, ya know?",
   "status": "done",
   "slots": [
    "0x3acc"
@@ -1862,7 +1862,7 @@
  {
   "id": "c8:1549a",
   "jp": "酒にも合うんだよこいつぁ！\nビールとの相性が特にバッチリだ！",
-  "en": "It goes great with booze too! Especially\nwith beer, perfect match!",
+  "en": "It goes great with booze too!\nEspecially with beer, perfect match!",
   "status": "done",
   "slots": [
    "0x3b14"
@@ -1872,7 +1872,7 @@
  {
   "id": "c8:154d6",
   "jp": "あぁーエリーシャ。\nちょっとこれで料理作って\nくれねぇか？",
-  "en": "Hey, Elisha. Could ya cook somethin' with\nthis for me?",
+  "en": "Hey, Elisha. Could ya cook\nsomethin' with this for me?",
   "status": "done",
   "slots": [
    "0x3b58"
@@ -1882,7 +1882,7 @@
  {
   "id": "c8:1550f",
   "jp": "美味ぇ～！　やっぱりエリーシャの\n料理は最高だぜ！",
-  "en": "Deliiicious! Elisha's cookin' is the best after\nall!",
+  "en": "Deliiicious! Elisha's cookin'\nis the best after all!",
   "status": "done",
   "slots": [
    "0x3ba0"
@@ -1902,7 +1902,7 @@
  {
   "id": "c8:1557e",
   "jp": "お、案外合うねぇ。\nまた見つけたら食ってみるか！",
-  "en": "Oh, it goes better than I thought. If I find\nmore, I'll try it again!",
+  "en": "Oh, it goes better than I thought.\nIf I find more, I'll try it again!",
   "status": "done",
   "slots": [
    "0x3c2c"
@@ -1912,7 +1912,7 @@
  {
   "id": "c8:155ae",
   "jp": "お！　きたきた！　待ってたぜぇ！\nこの時をよぉ～！！",
-  "en": "Oh! Here it comes! I've been waitin' for this\nmomeeent!!",
+  "en": "Oh! Here it comes! I've been waitin'\nfor this momeeent!!",
   "status": "done",
   "slots": [
    "0x3c70"
@@ -1922,7 +1922,7 @@
  {
   "id": "c8:155e2",
   "jp": "美味ぇ～！　やっぱりチーズには\n酒が合うねぇ！\nもう最高！　イヤッホー！",
-  "en": "Deliiicious! Cheese goes great with booze!\nThe best! Yahoo!",
+  "en": "Deliiicious! Cheese goes great\nwith booze! The best! Yahoo!",
   "status": "done",
   "slots": [
    "0x3cb8"
@@ -1942,7 +1942,7 @@
  {
   "id": "c8:1565d",
   "jp": "マズ……酒でごまかさねぇと\n食えねぇなコリャ。",
-  "en": "Nasty... Can't eat this without washin' it\ndown with booze.",
+  "en": "Nasty... Can't eat this without\nwashin' it down with booze.",
   "status": "done",
   "slots": [
    "0x3d32"
@@ -1952,7 +1952,7 @@
  {
   "id": "c8:1568b",
   "jp": "たまにはマタタビ酒も乙なモン\nじゃねぇか",
-  "en": "A little catnip liquor's a fine thing once in a\nwhile, ain't it.",
+  "en": "A little catnip liquor's a fine\nthing once in a while, ain't it.",
   "status": "done",
   "slots": [
    "0x3d6f"
@@ -1962,7 +1962,7 @@
  {
   "id": "c8:156b3",
   "jp": "かぁ～～～～うめぇ！\n日ごろの疲れが吹き飛ぶぜ！",
-  "en": "Kaaahhh, delicious! Blows away all my\neveryday fatigue!",
+  "en": "Kaaahhh, delicious! Blows\naway all my everyday fatigue!",
   "status": "done",
   "slots": [
    "0x3db7"
@@ -1982,7 +1982,7 @@
  {
   "id": "c8:156f8",
   "jp": "さて、この残った皮は、イシュトの\n部屋の前にでも置いておくか。",
-  "en": "Now, I'll leave the leftover peel outside\nIshut's room.",
+  "en": "Now, I'll leave the leftover\npeel outside Ishut's room.",
   "status": "done",
   "slots": [
    "0x3e43"
@@ -2002,7 +2002,7 @@
  {
   "id": "c8:1576c",
   "jp": "味は普通の果物だが、この湧き出る\n力はなんだ？",
-  "en": "It tastes like normal fruit, but what's this\npower welling up?",
+  "en": "It tastes like normal fruit,\nbut what's this power welling up?",
   "status": "done",
   "slots": [
    "0x3ec4"
@@ -2012,7 +2012,7 @@
  {
   "id": "c8:1579a",
   "jp": "神々の楽園、あながち嘘じゃねぇ\nみたいだな。",
-  "en": "Looks like that paradise-of-the-gods thing\nain't a lie after all.",
+  "en": "Looks like that paradise-of-the-gods\nthing ain't a lie after all.",
   "status": "done",
   "slots": [
    "0x3ed6"
@@ -2022,7 +2022,7 @@
  {
   "id": "c8:157c6",
   "jp": "どう育てばこんな色になるんだぁ？\n金なんて食ったことねぇぞ。",
-  "en": "How does it grow to be this colour? I ain't\nnever eaten gold before.",
+  "en": "How does it grow to be this colour?\nI ain't never eaten gold before.",
   "status": "done",
   "slots": [
    "0x3f1a"
@@ -2032,7 +2032,7 @@
  {
   "id": "c8:15802",
   "jp": "くはぁーうめぇ！\nなんなんだぁオイこの美味さは！\n酒が止まらねぇぜ！",
-  "en": "Kahhh, delicious! What the hell is with this\nflavour! I can't stop drinkin'!",
+  "en": "Kahhh, delicious! What the hell is\nwith this flavour! I can't stop drinkin'!",
   "status": "done",
   "slots": [
    "0x3f62"
@@ -2062,7 +2062,7 @@
  {
   "id": "c8:15877",
   "jp": "ま、健康状態で食べても\n問題ないだろ。",
-  "en": "Well, eatin' it while healthy shouldn't be a\nproblem.",
+  "en": "Well, eatin' it while healthy\nshouldn't be a problem.",
   "status": "done",
   "slots": [
    "0x4032"
@@ -2072,7 +2072,7 @@
  {
   "id": "c8:1589d",
   "jp": "これさえあればいくら酒を飲んでも\n心配ねぇ！",
-  "en": "With this, I can drink all I want and not\nworry!",
+  "en": "With this, I can drink all\nI want and not worry!",
   "status": "done",
   "slots": [
    "0x407a"
@@ -2082,7 +2082,7 @@
  {
   "id": "c8:158c9",
   "jp": "懐かしいなぁ、三人でいた時に\nよく食ってたっけな。",
-  "en": "Brings back memories. We used to eat these\nall the time, back when it was the three of\nus.",
+  "en": "Brings back memories.\nWe used to eat these all the time,\nback when it was the three of us.",
   "status": "done",
   "slots": [
    "0x40be"
@@ -2102,7 +2102,7 @@
  {
   "id": "c8:15925",
   "jp": "おいおい、これってイモだろ？\n芽が出てるじゃねぇか……。",
-  "en": "Hey, hey, this is a potato, right? It's\nsproutin'...",
+  "en": "Hey, hey, this is a potato,\nright? It's sproutin'...",
   "status": "done",
   "slots": [
    "0x414a"
@@ -2112,7 +2112,7 @@
  {
   "id": "c8:1595d",
   "jp": "ぐおぉ～ぺっぺっ！\n酒のつまみにもなりゃしねぇ！",
-  "en": "Gwohh, ptoo ptoo! It ain't even good enough\nto snack on with a drink!",
+  "en": "Gwohh, ptoo ptoo! It ain't even good\nenough to snack on with a drink!",
   "status": "done",
   "slots": [
    "0x4192"
@@ -2122,7 +2122,7 @@
  {
   "id": "c8:1598d",
   "jp": "やっぱりメシといったら肉だろ！\nオラァドンドン焼けぇ！",
-  "en": "When it comes to meals, it's gotta be meat!\nCome on, keep grillin'!",
+  "en": "When it comes to meals, it's gotta\nbe meat! Come on, keep grillin'!",
   "status": "done",
   "slots": [
    "0x41d6"
@@ -2132,7 +2132,7 @@
  {
   "id": "c8:159c3",
   "jp": "俺は食う係だからいいんだよ！\nう～！　んめぇ！",
-  "en": "I'm in charge of eatin', so it's fine! Mmm!\nDelicious!",
+  "en": "I'm in charge of eatin',\nso it's fine! Mmm! Delicious!",
   "status": "done",
   "slots": [
    "0x421e"
@@ -2142,7 +2142,7 @@
  {
   "id": "c8:159f1",
   "jp": "いくつになっても、この味は\n忘れられねぇよな。",
-  "en": "No matter how old ya get, ya never forget\nthis taste.",
+  "en": "No matter how old ya get,\nya never forget this taste.",
   "status": "done",
   "slots": [
    "0x4262"
@@ -2162,7 +2162,7 @@
  {
   "id": "c8:15a51",
   "jp": "おぉ～いい所に最高の肴がある\nじゃねぇかぁ。",
-  "en": "Ooh, if it ain't the perfect drinkin' snack,\nright where I need it.",
+  "en": "Ooh, if it ain't the perfect drinkin'\nsnack, right where I need it.",
   "status": "done",
   "slots": [
    "0x42ee"
@@ -2172,7 +2172,7 @@
  {
   "id": "c8:15a7d",
   "jp": "うおぇ……！　よ、酔いが一気に\n醒める不味さだぜ……おかしいな。",
-  "en": "Bleugh...! I-It's so nasty it sobers me right\nup... That's weird.",
+  "en": "Bleugh...! I-It's so nasty it sobers\nme right up... That's weird.",
   "status": "done",
   "slots": [
    "0x4336"
@@ -2202,7 +2202,7 @@
  {
   "id": "c8:15b02",
   "jp": "この土の匂い。\nまさしく野菜って感じよねぇ。",
-  "en": "This smell of soil. It's a vegetable through\nand through.",
+  "en": "This smell of soil. It's a\nvegetable through and through.",
   "status": "done",
   "slots": [
    "0x4406"
@@ -2212,7 +2212,7 @@
  {
   "id": "c8:15b2e",
   "jp": "煮てよし焼いてよし混ぜてよし！\n野菜って万能だから助かるわ。",
-  "en": "Good boiled, good grilled, good mixed in!\nVegetables are so versatile, they're a\nlifesaver.",
+  "en": "Good boiled, good grilled,\ngood mixed in! Vegetables are\nso versatile, they're a lifesaver.",
   "status": "done",
   "slots": [
    "0x444e"
@@ -2242,7 +2242,7 @@
  {
   "id": "c8:15b96",
   "jp": "子供の頃は嫌いでさぁ。\n親父によく叱られたもんよ。",
-  "en": "I hated these when I was a kid. Dad used to\nscold me all the time.",
+  "en": "I hated these when I was a kid.\nDad used to scold me all the time.",
   "status": "done",
   "slots": [
    "0x451e"
@@ -2252,7 +2252,7 @@
  {
   "id": "c8:15bc8",
   "jp": "今では大好物だけどね。\nうん、おいしい。",
-  "en": "Now they're my favourite, though. Mm,\nyummy.",
+  "en": "Now they're my favourite,\nthough. Mm, yummy.",
   "status": "done",
   "slots": [
    "0x4566"
@@ -2302,7 +2302,7 @@
  {
   "id": "c8:15c8b",
   "jp": "せっかくの高級食材だし。\nダメになる前に食べちゃおっと。",
-  "en": "It's a luxury ingredient, after all. I'll eat it\nbefore it goes bad.",
+  "en": "It's a luxury ingredient, after all.\nI'll eat it before it goes bad.",
   "status": "done",
   "slots": [
    "0x46a9"
@@ -2322,7 +2322,7 @@
  {
   "id": "c8:15ced",
   "jp": "キャンディーね……もう何年ぶりに\n食べるのかしら。",
-  "en": "Candy, huh... How many years has it been\nsince I last had some?",
+  "en": "Candy, huh... How many years\nhas it been since I last had some?",
   "status": "done",
   "slots": [
    "0x4735"
@@ -2332,7 +2332,7 @@
  {
   "id": "c8:15d1f",
   "jp": "あーこの味この味！\n懐かしいわねぇ～。",
-  "en": "Ah, this taste, this taste! Brings back\nmemories.",
+  "en": "Ah, this taste, this taste!\nBrings back memories.",
   "status": "done",
   "slots": [
    "0x477d"
@@ -2342,7 +2342,7 @@
  {
   "id": "c8:15d45",
   "jp": "この香ばしい香りが食欲を\n引き立てるわねぇ。",
-  "en": "This fragrant smell really whets the\nappetite.",
+  "en": "This fragrant smell really\nwhets the appetite.",
   "status": "done",
   "slots": [
    "0x47c1"
@@ -2352,7 +2352,7 @@
  {
   "id": "c8:15d71",
   "jp": "甘くて美味しいわぁ。\n……体重？　なんのことかしら？",
-  "en": "Sweet and yummy. ...My weight? Whatever\ndo you mean?",
+  "en": "Sweet and yummy. ...My weight?\nWhatever do you mean?",
   "status": "done",
   "slots": [
    "0x4809"
@@ -2402,7 +2402,7 @@
  {
   "id": "c8:15e1e",
   "jp": "塩プリンじゃない。\n流行ってるのよねぇこれ。\n騙される人多いみたいだけど。",
-  "en": "Why, it's Salt Pudding. It's all the rage.\nSeems lots of people get fooled by it,\nthough.",
+  "en": "Why, it's Salt Pudding.\nIt's all the rage. Seems lots of\npeople get fooled by it, though.",
   "status": "done",
   "slots": [
    "0x4965"
@@ -2422,7 +2422,7 @@
  {
   "id": "c8:15e88",
   "jp": "こういうのって、ある日ふと\n食べたくなってくるのよねぇ。",
-  "en": "With stuff like this, one day you just\nsuddenly get a craving for it.",
+  "en": "With stuff like this, one day you\njust suddenly get a craving for it.",
   "status": "done",
   "slots": [
    "0x49f1"
@@ -2452,7 +2452,7 @@
  {
   "id": "c8:15f17",
   "jp": "東方から伝わった料理らしいけど。\n美味しいわねぇ。\n東方の人、よくやった！",
-  "en": "They say this dish came from the East. It's\ndelicious. Good job, people of the East!",
+  "en": "They say this dish came from the East.\nIt's delicious. Good job, people of the East!",
   "status": "done",
   "slots": [
    "0x4ac5"
@@ -2462,7 +2462,7 @@
  {
   "id": "c8:15f60",
   "jp": "あら、なんだか弱ってるわねぇ。\n死んじゃう前に、食べるとしますか",
-  "en": "Oh, it looks kind of weak. Shall I eat it\nbefore it dies?",
+  "en": "Oh, it looks kind of weak.\nShall I eat it before it dies?",
   "status": "done",
   "slots": [
    "0x4b09"
@@ -2482,7 +2482,7 @@
  {
   "id": "c8:15fe2",
   "jp": "あぁー！　ミルクが発酵して\nチーズになってる！\nあ、あたしの計画が……。",
-  "en": "Aaah! The milk fermented and turned into\ncheese! M-My plan...",
+  "en": "Aaah! The milk fermented and\nturned into cheese! M-My plan...",
   "status": "done",
   "slots": [
    "0x4b95"
@@ -2512,7 +2512,7 @@
  {
   "id": "c8:160a0",
   "jp": "死んでからけっこう経ってるわね。\nここまで味が落ちるなんて……。",
-  "en": "It's been dead a good while. To think it could\nlose this much flavour...",
+  "en": "It's been dead a good while.\nTo think it could lose this much flavour...",
   "status": "done",
   "slots": [
    "0x4c57"
@@ -2532,7 +2532,7 @@
  {
   "id": "c8:16116",
   "jp": "すっぱくておいしいわぁ！\nさすが高級モノは違うわねぇ！",
-  "en": "Sour and delicious! Luxury stuff really is\nsomething else!",
+  "en": "Sour and delicious! Luxury\nstuff really is something else!",
   "status": "done",
   "slots": [
    "0x4cdc"
@@ -2562,7 +2562,7 @@
  {
   "id": "c8:16195",
   "jp": "禁断の果実ねぇ……。\n青果店の陰謀じゃないの？",
-  "en": "Forbidden fruit, huh... Isn't that just a\ngreengrocer's conspiracy?",
+  "en": "Forbidden fruit, huh... Isn't that\njust a greengrocer's conspiracy?",
   "status": "done",
   "slots": [
    "0x4dac"
@@ -2592,7 +2592,7 @@
  {
   "id": "c8:16234",
   "jp": "うわおいし！　これだけ美味しい\nなら、みんなにも分ければよかった\nかしらねぇ。",
-  "en": "Wow, delicious! If it's this good, maybe I\nshould've shared it with everyone.",
+  "en": "Wow, delicious! If it's this good,\nmaybe I should've shared it with everyone.",
   "status": "done",
   "slots": [
    "0x4e80"
@@ -2602,7 +2602,7 @@
  {
   "id": "c8:16281",
   "jp": "これをあたしに食べさせる気？\nいい度胸してるじゃない……。",
-  "en": "You expect me to eat this? You've got some\nnerve...",
+  "en": "You expect me to eat this?\nYou've got some nerve...",
   "status": "done",
   "slots": [
    "0x4ec4"
@@ -2622,7 +2622,7 @@
  {
   "id": "c8:162d0",
   "jp": "こういうのはねぇ、\n勢いが大事なのよ！",
-  "en": "With this kind of thing, momentum is\neverything!",
+  "en": "With this kind of thing,\nmomentum is everything!",
   "status": "done",
   "slots": [
    "0x4f50"
@@ -2642,7 +2642,7 @@
  {
   "id": "c8:1631e",
   "jp": "南国のフルーツと言ったらこれよ！\nコレを食べなきゃ一人前の海賊じゃ\nないわ！",
-  "en": "When it comes to tropical fruit, it's this!\nYou're not a real pirate until you've eaten\none!",
+  "en": "When it comes to tropical fruit,\nit's this! You're not a real\npirate until you've eaten one!",
   "status": "done",
   "slots": [
    "0x4fdc"
@@ -2652,7 +2652,7 @@
  {
   "id": "c8:16369",
   "jp": "爽やかで美味しいわね。\n酸味が口の中で広がるわぁ。",
-  "en": "Refreshing and tasty. The sourness spreads\nthrough your mouth.",
+  "en": "Refreshing and tasty. The sourness\nspreads through your mouth.",
   "status": "done",
   "slots": [
    "0x5024"
@@ -2682,7 +2682,7 @@
  {
   "id": "c8:163d7",
   "jp": "いつも男どもにとられちゃうから、\n今日はアタシ一人で食べさせて\nもらうわよ！",
-  "en": "The guys always take it from me, so today\nI'm eating it all by myself!",
+  "en": "The guys always take it from me,\nso today I'm eating it all by myself!",
   "status": "done",
   "slots": [
    "0x50f4"
@@ -2692,7 +2692,7 @@
  {
   "id": "c8:16422",
   "jp": "体重なんて知るかってのよ！\nさぁ、どんどん持ってきなさい！",
-  "en": "Who cares about my weight! Come on, keep\nit coming!",
+  "en": "Who cares about my weight!\nCome on, keep it coming!",
   "status": "done",
   "slots": [
    "0x513c"
@@ -2702,7 +2702,7 @@
  {
   "id": "c8:1645c",
   "jp": "さぁ、あたしの特製カレーよ！\n存分に味わいなさい！",
-  "en": "Here, it's my special curry! Enjoy it to your\nheart's content!",
+  "en": "Here, it's my special curry!\nEnjoy it to your heart's content!",
   "status": "done",
   "slots": [
    "0x5180"
@@ -2712,7 +2712,7 @@
  {
   "id": "c8:1648e",
   "jp": "うん！　やっぱり一晩寝かせると\n味が段違いね！",
-  "en": "Mm! Letting it sit overnight really makes a\nworld of difference!",
+  "en": "Mm! Letting it sit overnight really\nmakes a world of difference!",
   "status": "done",
   "slots": [
    "0x51c8"
@@ -2722,7 +2722,7 @@
  {
   "id": "c8:164bc",
   "jp": "あれ……毒があるのって、トゲトゲ\nがあるほうだっけ？",
-  "en": "Huh... was the poisonous one the one with\nthe spikes?",
+  "en": "Huh... was the poisonous one\nthe one with the spikes?",
   "status": "done",
   "slots": [
    "0x520c"
@@ -2742,7 +2742,7 @@
  {
   "id": "c8:1650b",
   "jp": "プロテイモはビタミンＣと\n食物繊維が非常に豊富だ。\nいくら食べてもいいな。",
-  "en": "Protatoes are extremely rich in vitamin C\nand dietary fibre. One can eat as many as\none likes.",
+  "en": "Protatoes are extremely rich\nin vitamin C and dietary fibre.\nOne can eat as many as one likes.",
   "status": "done",
   "slots": [
    "0x5298"
@@ -2752,7 +2752,7 @@
  {
   "id": "c8:16554",
   "jp": "余った分は保存して、\n酒の原料にでもしようかな。",
-  "en": "Perhaps I shall store the leftovers and use\nthem to make liquor.",
+  "en": "Perhaps I shall store the leftovers\nand use them to make liquor.",
   "status": "done",
   "slots": [
    "0x52e0"
@@ -2762,7 +2762,7 @@
  {
   "id": "c8:16584",
   "jp": "ミルクはカルシウムはモチロン、\n他の栄養素も多分に\n含まれているんだ。",
-  "en": "Milk contains calcium, of course, along with\nplenty of other nutrients.",
+  "en": "Milk contains calcium, of course,\nalong with plenty of other nutrients.",
   "status": "done",
   "slots": [
    "0x5324"
@@ -2782,7 +2782,7 @@
  {
   "id": "c8:165d8",
   "jp": "ミネラルとは、一般的な有機物に\n含まれる元素以外に、生体にとって\n欠かせない元素のことを指すんだ。",
-  "en": "Minerals are the elements essential to living\nthings, other than those found in ordinary\norganic matter.",
+  "en": "Minerals are the elements essential\nto living things, other than those\nfound in ordinary organic matter.",
   "status": "done",
   "slots": [
    "0x53b0"
@@ -2792,7 +2792,7 @@
  {
   "id": "c8:16639",
   "jp": "ただ、過剰症になる場合もあるから\nただ「多めに摂ればよい」という\nものではないんだ。注意するように",
-  "en": "However, one can get too much, so it's not\nsimply a matter of \"the more the better\".\nDo be careful.",
+  "en": "However, one can get too much,\nso it's not simply a matter of \"the\nmore the better\". Do be careful.",
   "status": "done",
   "slots": [
    "0x53f8"
@@ -2802,7 +2802,7 @@
  {
   "id": "c8:1669a",
   "jp": "青色というのは、食欲を減退させる\n効果があるんだ……。",
-  "en": "The colour blue has the effect of reducing\nthe appetite...",
+  "en": "The colour blue has the effect\nof reducing the appetite...",
   "status": "done",
   "slots": [
    "0x5438"
@@ -2862,7 +2862,7 @@
  {
   "id": "c8:16796",
   "jp": "うにの旬は春から秋にかけて、\n特に初夏は最も品質がいいと\n言われている。",
-  "en": "Sea urchin is in season from spring to\nautumn, and is said to be at its very best in\nearly summer.",
+  "en": "Sea urchin is in season from spring\nto autumn, and is said to be at\nits very best in early summer.",
   "status": "done",
   "slots": [
    "0x5562"
@@ -2872,7 +2872,7 @@
  {
   "id": "c8:167dd",
   "jp": "暑い日に食べるうには格別に\n美味いということだな。",
-  "en": "Which is to say, sea urchin eaten on a hot\nday is exceptionally delicious.",
+  "en": "Which is to say, sea urchin eaten on\na hot day is exceptionally delicious.",
   "status": "done",
   "slots": [
    "0x55aa"
@@ -2882,7 +2882,7 @@
  {
   "id": "c8:1680f",
   "jp": "このキャンディー、ただの\nキャンディーと思ったら大間違いだ",
-  "en": "If you think this candy is just a candy, you\nare sorely mistaken.",
+  "en": "If you think this candy is just a candy,\nyou are sorely mistaken.",
   "status": "done",
   "slots": [
    "0x55ee"
@@ -2892,7 +2892,7 @@
  {
   "id": "c8:16849",
   "jp": "このキャンディーには人の必要\nとする栄養素が大量に含まれている",
-  "en": "This candy contains a great deal of the\nnutrients people need.",
+  "en": "This candy contains a great deal\nof the nutrients people need.",
   "status": "done",
   "slots": [
    "0x562b"
@@ -2912,7 +2912,7 @@
  {
   "id": "c8:168d2",
   "jp": "かつて、タイヤキの餡がしっぽまで\n入っているべきかどうかで論争が\nあったらしいぞ。",
-  "en": "I hear there was once a debate over\nwhether a taiyaki's bean paste should go all\nthe way to the tail.",
+  "en": "I hear there was once a debate over\nwhether a taiyaki's bean paste\nshould go all the way to the tail.",
   "status": "done",
   "slots": [
    "0x5681"
@@ -2922,7 +2922,7 @@
  {
   "id": "c8:16923",
   "jp": "頭から食べるかしっぽから食べるか\nでも論争になったな。",
-  "en": "There was also a debate over whether to\neat it head first or tail first.",
+  "en": "There was also a debate over whether\nto eat it head first or tail first.",
   "status": "done",
   "slots": [
    "0x56be"
@@ -2932,7 +2932,7 @@
  {
   "id": "c8:16959",
   "jp": "今度、グロリア内で\n調査をしてみようか。",
-  "en": "Perhaps I should conduct a survey aboard\nthe Gloria.",
+  "en": "Perhaps I should conduct a\nsurvey aboard the Gloria.",
   "status": "done",
   "slots": [
    "0x56d0"
@@ -2952,7 +2952,7 @@
  {
   "id": "c8:169c6",
   "jp": "や、薬学も勉強するべき\nだったか……！",
-  "en": "I-I should have studied pharmacology as\nwell...!",
+  "en": "I-I should have studied\npharmacology as well...!",
   "status": "done",
   "slots": [
    "0x575c"
@@ -2962,7 +2962,7 @@
  {
   "id": "c8:169ec",
   "jp": "果実の赤色が均一で表面に光沢が\nあるもの、そして、ヘタが青々\nとして張りのあるものを選ぶ。",
-  "en": "Choose one with an even red colour and a\nglossy surface, and with a fresh, green, firm\nstem.",
+  "en": "Choose one with an even red\ncolour and a glossy surface,\nand with a fresh, green, firm stem.",
   "status": "done",
   "slots": [
    "0x579c"
@@ -2972,7 +2972,7 @@
  {
   "id": "c8:16a45",
   "jp": "これが、美味しいスウィートベリー\nを見分けるコツだ。",
-  "en": "That is the trick to spotting a delicious\nSweet Berry.",
+  "en": "That is the trick to spotting\na delicious Sweet Berry.",
   "status": "done",
   "slots": [
    "0x57a7"
@@ -2982,7 +2982,7 @@
  {
   "id": "c8:16a79",
   "jp": "甘酸っぱくてデリケート。\nまさしく恋の味だな。\n……自分で言うと恥ずかしいが。",
-  "en": "Sweet, sour and delicate. Truly the taste of\nlove. ...Though it's embarrassing to say so\nmyself.",
+  "en": "Sweet, sour and delicate.\nTruly the taste of love. ...Though\nit's embarrassing to say so myself.",
   "status": "done",
   "slots": [
    "0x57ef"
@@ -3012,7 +3012,7 @@
  {
   "id": "c8:16b2e",
   "jp": "懐かしいな。\n自分は特に殻を剥いて甘く味付け\nしたものが好きなんだ。",
-  "en": "How nostalgic. I'm especially fond of them\nshelled and sweetly seasoned.",
+  "en": "How nostalgic. I'm especially fond of\nthem shelled and sweetly seasoned.",
   "status": "done",
   "slots": [
    "0x58bf"
@@ -3022,7 +3022,7 @@
  {
   "id": "c8:16b71",
   "jp": "受験の時の夜食もコレをよく\n食べていたなぁ。",
-  "en": "I often ate these as a late-night snack while\nstudying for my entrance exams.",
+  "en": "I often ate these as a late-night snack\nwhile studying for my entrance exams.",
   "status": "done",
   "slots": [
    "0x5907"
@@ -3032,7 +3032,7 @@
  {
   "id": "c8:16b9d",
   "jp": "なぜ、淡水でしか生きられない\nドゼウがこんな所に……。\n研究が必要だな。",
-  "en": "Why would a loach, which can only live in\nfresh water, be in a place like this...? This\nneeds research.",
+  "en": "Why would a loach, which can only\nlive in fresh water, be in a place\nlike this...? This needs research.",
   "status": "done",
   "slots": [
    "0x594b"
@@ -3042,7 +3042,7 @@
  {
   "id": "c8:16be4",
   "jp": "味もドゼウそのものだ……。\n生き物も環境に合わせて\n進化している。というわけか。",
-  "en": "It tastes just like a loach, too... So living\nthings also evolve to suit their\nenvironment.",
+  "en": "It tastes just like a loach, too...\nSo living things also evolve\nto suit their environment.",
   "status": "done",
   "slots": [
    "0x5993"
@@ -3052,7 +3052,7 @@
  {
   "id": "c8:16c33",
   "jp": "ドゼウにはビタミンＢ２や\nビタミンＤ、カルシウム、鉄分が\n多く含まれている。",
-  "en": "Loaches are rich in vitamin B2, vitamin D,\ncalcium and iron.",
+  "en": "Loaches are rich in vitamin B2,\nvitamin D, calcium and iron.",
   "status": "done",
   "slots": [
    "0x59d3"
@@ -3072,7 +3072,7 @@
  {
   "id": "c8:16cac",
   "jp": "暑い日にはお薦めのスタミナ源だ！",
-  "en": "A recommended source of stamina on a hot\nday!",
+  "en": "A recommended source\nof stamina on a hot day!",
   "status": "done",
   "slots": [
    "0x5a26"
@@ -3082,7 +3082,7 @@
  {
   "id": "c8:16ccd",
   "jp": "む、ミルクの水分が抜けてチーズに\nなっている……。",
-  "en": "Hm, the water has gone out of the milk and\nit has turned to cheese...",
+  "en": "Hm, the water has gone out of the\nmilk and it has turned to cheese...",
   "status": "done",
   "slots": [
    "0x5a66"
@@ -3112,7 +3112,7 @@
  {
   "id": "c8:16d4a",
   "jp": "長いこと閉じ込めていたからな。\n味が落ちる前に食べるか。",
-  "en": "It's been shut away a long time. Shall I eat it\nbefore the flavour goes?",
+  "en": "It's been shut away a long time.\nShall I eat it before the flavour goes?",
   "status": "done",
   "slots": [
    "0x5af6"
@@ -3122,7 +3122,7 @@
  {
   "id": "c8:16d82",
   "jp": "味が悪いということは、栄養も\nなくなっているということだ。\n惜しいことをしたな。",
-  "en": "If it tastes bad, the nutrients are gone too.\nWhat a waste.",
+  "en": "If it tastes bad, the nutrients\nare gone too. What a waste.",
   "status": "done",
   "slots": [
    "0x5b33"
@@ -3132,7 +3132,7 @@
  {
   "id": "c8:16dd1",
   "jp": "マタタビは猫の為にあるように\n思われているが、実はそうでも\nないんだぞ。",
-  "en": "Catnip is thought to exist just for cats, but\nin fact, that is not quite so.",
+  "en": "Catnip is thought to exist just for cats,\nbut in fact, that is not quite so.",
   "status": "done",
   "slots": [
    "0x5b70"
@@ -3142,7 +3142,7 @@
  {
   "id": "c8:16e18",
   "jp": "熟したマタタビは普通に食べても\n美味しいし、薬用酒にもなるんだ。\n覚えておくように。",
-  "en": "Ripe catnip tastes good eaten normally, and\nit can also be made into a medicinal liquor.\nDo remember that.",
+  "en": "Ripe catnip tastes good eaten normally,\nand it can also be made into a\nmedicinal liquor. Do remember that.",
   "status": "done",
   "slots": [
    "0x5bb8"
@@ -3152,7 +3152,7 @@
  {
   "id": "c8:16e6b",
   "jp": "この実の黒い点は\nシュガースポットといってな。",
-  "en": "The black spots on this fruit are called\nsugar spots.",
+  "en": "The black spots on this\nfruit are called sugar spots.",
   "status": "done",
   "slots": [
    "0x5bf8"
@@ -3182,7 +3182,7 @@
  {
   "id": "c8:16ef8",
   "jp": "禁断の果実、これに関しては自分も\nよくは知らないんだ。",
-  "en": "The Forbidden Fruit... even I don't know much\nabout this one.",
+  "en": "The Forbidden Fruit... even I\ndon't know much about this one.",
   "status": "done",
   "slots": [
    "0x5c8f"
@@ -3192,7 +3192,7 @@
  {
   "id": "c8:16f2e",
   "jp": "味はごく普通、ただこの力が湧いて\nくるような感覚……この果実は\nいったい……。",
-  "en": "The taste is perfectly ordinary, but this\nfeeling of power welling up... What on earth\nis this fruit...?",
+  "en": "The taste is perfectly ordinary,\nbut this feeling of power welling up...\nWhat on earth is this fruit...?",
   "status": "done",
   "slots": [
    "0x5cd7"
@@ -3202,7 +3202,7 @@
  {
   "id": "c8:16f7b",
   "jp": "こ、これは……現代では証明\nできない現象だ！",
-  "en": "Th-This is... a phenomenon modern science\ncannot prove!",
+  "en": "Th-This is... a phenomenon\nmodern science cannot prove!",
   "status": "done",
   "slots": [
    "0x5d1b"
@@ -3212,7 +3212,7 @@
  {
   "id": "c8:16fa7",
   "jp": "しかもこの美味しさ……歴史に残る\n大発見だ！",
-  "en": "And this flavour... A great discovery for the\nhistory books!",
+  "en": "And this flavour... A great\ndiscovery for the history books!",
   "status": "done",
   "slots": [
    "0x5d63"
@@ -3222,7 +3222,7 @@
  {
   "id": "c8:16fd3",
   "jp": "たしかに、わざと腐らせて作る\n食品はあるが、これは……。",
-  "en": "Granted, there are foods made by letting\nthem rot on purpose, but this...",
+  "en": "Granted, there are foods made by\nletting them rot on purpose, but this...",
   "status": "done",
   "slots": [
    "0x5da7"
@@ -3242,7 +3242,7 @@
  {
   "id": "c8:17018",
   "jp": "実は、トカゲそのものに\n薬効はないんだ。",
-  "en": "In truth, the lizard itself has no medicinal\nvalue.",
+  "en": "In truth, the lizard itself\nhas no medicinal value.",
   "status": "done",
   "slots": [
    "0x5e28"
@@ -3252,7 +3252,7 @@
  {
   "id": "c8:17040",
   "jp": "だからいくら食べても、決して\n病が治ったりはしない。",
-  "en": "So no matter how much you eat, it will never\ncure an illness.",
+  "en": "So no matter how much you eat,\nit will never cure an illness.",
   "status": "done",
   "slots": [
    "0x5e33"
@@ -3282,7 +3282,7 @@
  {
   "id": "c8:170dc",
   "jp": "柑橘系のフルーツの皮から出る液体\nは、汚れを落とすのにも最適なんだ\nまさに二度美味しいフルーツだな！",
-  "en": "The juice from the peel of citrus fruit is\nideal for removing stains. Truly a fruit\nthat's good twice over!",
+  "en": "The juice from the peel of citrus\nfruit is ideal for removing stains.\nTruly a fruit that's good twice over!",
   "status": "done",
   "slots": [
    "0x5ef5"
@@ -3292,7 +3292,7 @@
  {
   "id": "c8:1713f",
   "jp": "プロテイモの芽には毒があってな。\nこれを食べるのは非常に危険\nなんだが……。",
-  "en": "Protato sprouts are poisonous. Eating them\nis extremely dangerous, but...",
+  "en": "Protato sprouts are poisonous.\nEating them is extremely dangerous, but...",
   "status": "done",
   "slots": [
    "0x5f35"
@@ -3322,7 +3322,7 @@
  {
   "id": "c8:171c9",
   "jp": "グリフォンのようによく運動する\n動物の肉は引き締まっていて脂が\nよくのっているな！",
-  "en": "The meat of animals that exercise a lot, like\ngriffons, is firm and nicely marbled!",
+  "en": "The meat of animals that exercise a lot,\nlike griffons, is firm and nicely marbled!",
   "status": "done",
   "slots": [
    "0x5fcc"
@@ -3332,7 +3332,7 @@
  {
   "id": "c8:1721a",
   "jp": "自分とて男だ、テンションが\n上がらないわけがあるまい！\nガツガツガツ……！",
-  "en": "I am a man as well; how could my spirits not\nrise! Chomp chomp chomp...!",
+  "en": "I am a man as well; how could my\nspirits not rise! Chomp chomp chomp...!",
   "status": "done",
   "slots": [
    "0x6014"
@@ -3342,7 +3342,7 @@
  {
   "id": "c8:17263",
   "jp": "カレーとは様々なスパイスで\n出来ている為、美味しさはモチロン\n健康にもいい！",
-  "en": "Curry is made from all kinds of spices, so it\nis not only delicious but also good for your\nhealth!",
+  "en": "Curry is made from all kinds of spices,\nso it is not only delicious but\nalso good for your health!",
   "status": "done",
   "slots": [
    "0x6058"
@@ -3352,7 +3352,7 @@
  {
   "id": "c8:172ae",
   "jp": "まさに一石二鳥の料理だな！",
-  "en": "Truly a dish that kills two birds with one\nstone!",
+  "en": "Truly a dish that kills\ntwo birds with one stone!",
   "status": "done",
   "slots": [
    "0x60a0"
@@ -3362,7 +3362,7 @@
  {
   "id": "c8:172c9",
   "jp": "これとよく似た魚で、\n毒がある魚がいるんだ。\n注意するようにな。",
-  "en": "There is a fish very similar to this one that\nis poisonous. Do be careful.",
+  "en": "There is a fish very similar to this\none that is poisonous. Do be careful.",
   "status": "done",
   "slots": [
    "0x60e4"
@@ -3382,7 +3382,7 @@
  {
   "id": "c8:17332",
   "jp": "ラカン……確か、どこかの哲学者の\n名前だったか。",
-  "en": "Rakan... If I recall, that was the name of\nsome philosopher.",
+  "en": "Rakan... If I recall, that was\nthe name of some philosopher.",
   "status": "done",
   "slots": [
    "0x616c"
@@ -3392,7 +3392,7 @@
  {
   "id": "c8:17362",
   "jp": "その哲学者の名を冠する秘薬か……\nどれどれ。",
-  "en": "An elixir bearing that philosopher's name...\nLet's see.",
+  "en": "An elixir bearing that\nphilosopher's name... Let's see.",
   "status": "done",
   "slots": [
    "0x6177"
@@ -3402,7 +3402,7 @@
  {
   "id": "c8:1738e",
   "jp": "ン！　……なかなか刺激的な味だ。\nこれが、脳を活性化させる効果に\nでもなると言うのだろうか？",
-  "en": "Nn! ...Quite a stimulating taste. Is this\nsupposed to have the effect of activating\nthe brain?",
+  "en": "Nn! ...Quite a stimulating taste.\nIs this supposed to have the\neffect of activating the brain?",
   "status": "done",
   "slots": [
    "0x61bf"
@@ -3452,7 +3452,7 @@
  {
   "id": "c8:17465",
   "jp": "ロコモコ、野菜きらーい！\n全然味しないんだもん！",
-  "en": "Locomoco hates vegetables! They don't\ntaste like anything!",
+  "en": "Locomoco hates vegetables!\nThey don't taste like anything!",
   "status": "done",
   "slots": [
    "0x631b"
@@ -3462,7 +3462,7 @@
  {
   "id": "c8:17495",
   "jp": "あ、ほんのり、塩味がする……\nおいしー！\nロコモコ、これなら食べられるよ！",
-  "en": "Oh, it's a little bit salty... Yummy! Locomoco\ncan eat this one!",
+  "en": "Oh, it's a little bit salty... Yummy!\nLocomoco can eat this one!",
   "status": "done",
   "slots": [
    "0x6363"
@@ -3472,7 +3472,7 @@
  {
   "id": "c8:174de",
   "jp": "あれ？　なんでコレがこんな所に\nあるんだろう……まぁいいや。\nいただきまーす。",
-  "en": "Huh? Why is this here... Oh well. Let's dig\niiin.",
+  "en": "Huh? Why is this here...\nOh well. Let's dig iiin.",
   "status": "done",
   "slots": [
    "0x63a7"
@@ -3482,7 +3482,7 @@
  {
   "id": "c8:1752b",
   "jp": "アハハ、おもしろーい！\nベロが真っ青だよぉ！",
-  "en": "Ahaha, so funny! Locomoco's tongue is all\nblue!",
+  "en": "Ahaha, so funny!\nLocomoco's tongue is all blue!",
   "status": "done",
   "slots": [
    "0x63ef"
@@ -3492,7 +3492,7 @@
  {
   "id": "c8:17557",
   "jp": "ホタテだぁー！\n魔法で焼いて食べよー！",
-  "en": "Scallops! Let's grill 'em with magic and eat\n'em!",
+  "en": "Scallops! Let's grill 'em\nwith magic and eat 'em!",
   "status": "done",
   "slots": [
    "0x6433"
@@ -3532,7 +3532,7 @@
  {
   "id": "c8:175d3",
   "jp": "こ、これは幻の……！！\nた、食べさせて！　食べさせて！",
-  "en": "Th-This is the legendary...!! L-Let me eat it!\nLet me eat it!",
+  "en": "Th-This is the legendary...!!\nL-Let me eat it! Let me eat it!",
   "status": "done",
   "slots": [
    "0x654b"
@@ -3542,7 +3542,7 @@
  {
   "id": "c8:17609",
   "jp": "うひゃーおいしい！\nおいしすぎる！　この味に勝る\nキャンディーはないねぇ。",
-  "en": "Wheee, yummy! Way too yummy! No candy\nbeats this taste!",
+  "en": "Wheee, yummy! Way too yummy!\nNo candy beats this taste!",
   "status": "done",
   "slots": [
    "0x6593"
@@ -3552,7 +3552,7 @@
  {
   "id": "c8:17652",
   "jp": "知ってる？　これって、お魚さんに\nみえるけどお魚さんじゃないの！",
-  "en": "Did you know? It looks like a fishy, but it\nisn't a fishy!",
+  "en": "Did you know? It looks like a fishy,\nbut it isn't a fishy!",
   "status": "done",
   "slots": [
    "0x65d7"
@@ -3572,7 +3572,7 @@
  {
   "id": "c8:176ad",
   "jp": "あ、コレ、おばあちゃんが\nお鍋にいれてたやつだぁ。\n美味しいのかなぁ……？",
-  "en": "Oh, this is the stuff Granny used to put in\nthe pot. I wonder if it's yummy...?",
+  "en": "Oh, this is the stuff Granny used to put\nin the pot. I wonder if it's yummy...?",
   "status": "done",
   "slots": [
    "0x6663"
@@ -3592,7 +3592,7 @@
  {
   "id": "c8:17709",
   "jp": "わぁいスウィートベリーだぁ！\nこおらせて食べよう！",
-  "en": "Yaaay, a Sweet Berry! Let's freeze it and\neat it!",
+  "en": "Yaaay, a Sweet Berry!\nLet's freeze it and eat it!",
   "status": "done",
   "slots": [
    "0x66ef"
@@ -3612,7 +3612,7 @@
  {
   "id": "c8:17773",
   "jp": "なんで甘いものにしょっぱいものを\nくわえるの？\n意味がわからないね！",
-  "en": "Why would you put salty stuff in something\nsweet? It makes no sense!",
+  "en": "Why would you put salty stuff in\nsomething sweet? It makes no sense!",
   "status": "done",
   "slots": [
    "0x6774"
@@ -3622,7 +3622,7 @@
  {
   "id": "c8:177b6",
   "jp": "やっぱりびみょう……。\nプリンは甘いにかぎるよ！",
-  "en": "It's just so-so after all... Pudding should be\nsweet!",
+  "en": "It's just so-so after all...\nPudding should be sweet!",
   "status": "done",
   "slots": [
    "0x67b1"
@@ -3652,7 +3652,7 @@
  {
   "id": "c8:1782b",
   "jp": "おーにゅにゅるだー！\nおもしろーい！\nどんな味がするんだろう。",
-  "en": "Ooh, it's all wriggly! So funny! I wonder what\nit tastes like.",
+  "en": "Ooh, it's all wriggly! So funny!\nI wonder what it tastes like.",
   "status": "done",
   "slots": [
    "0x687a"
@@ -3682,7 +3682,7 @@
  {
   "id": "c8:178af",
   "jp": "ロコモコのお腹の中にね！\nごちそうさま！\nちゃんと火は通したよ！",
-  "en": "Into Locomoco's tummy! Thanks for the\nmeal! Locomoco cooked it all the way\nthrough!",
+  "en": "Into Locomoco's tummy!\nThanks for the meal! Locomoco\ncooked it all the way through!",
   "status": "done",
   "slots": [
    "0x694e"
@@ -3712,7 +3712,7 @@
  {
   "id": "c8:1795c",
   "jp": "えぇー！？　これ食べるのぉ！？\nうぅー……。",
-  "en": "Whaaat!? Locomoco has to eat this!?\nUuugh...",
+  "en": "Whaaat!? Locomoco has\nto eat this!? Uuugh...",
   "status": "done",
   "slots": [
    "0x6a1e"
@@ -3722,7 +3722,7 @@
  {
   "id": "c8:17988",
   "jp": "マズイ……。\n誰か、キャンディ持ってきて！",
-  "en": "Yucky... Somebody, bring Locomoco some\ncandy!",
+  "en": "Yucky... Somebody,\nbring Locomoco some candy!",
   "status": "done",
   "slots": [
    "0x6a66"
@@ -3742,7 +3742,7 @@
  {
   "id": "c8:179e0",
   "jp": "うにゅ～すっぱぁ。\nやっぱりねこさんにあげるべきだよ",
-  "en": "Ugh, so sour. Locomoco should've given it to\nthe kitty after all.",
+  "en": "Ugh, so sour. Locomoco should've\ngiven it to the kitty after all.",
   "status": "done",
   "slots": [
    "0x6af2"
@@ -3802,7 +3802,7 @@
  {
   "id": "c8:17ad0",
   "jp": "んみゃー！　おいしいぃぃ！\n思わずキャンディを手放しそうに\nなったよ！",
-  "en": "Nmyaa! Yummyyy! Locomoco almost let go\nof her candy!",
+  "en": "Nmyaa! Yummyyy! Locomoco\nalmost let go of her candy!",
   "status": "done",
   "slots": [
    "0x6c7d"
@@ -3832,7 +3832,7 @@
  {
   "id": "c8:17b3b",
   "jp": "おばあちゃんがよく食べてたやつだ\n……あむ。",
-  "en": "This is the stuff Granny used to eat a lot...\nNom.",
+  "en": "This is the stuff Granny\nused to eat a lot... Nom.",
   "status": "done",
   "slots": [
    "0x6d4d"
@@ -3842,7 +3842,7 @@
  {
   "id": "c8:17b67",
   "jp": "ぴぎゃあ～苦いよぉ～！\n誰か、お水お水～！",
-  "en": "Pigyaaah, it's bitteeer! Somebody, water,\nwater!",
+  "en": "Pigyaaah, it's bitteeer!\nSomebody, water, water!",
   "status": "done",
   "slots": [
    "0x6d95"
@@ -3852,7 +3852,7 @@
  {
   "id": "c8:17b91",
   "jp": "何これ、フルーツ？\nわーい、食べる食べるぅ！",
-  "en": "What's this, a fruit? Yaaay, Locomoco'll eat\nit, eat it!",
+  "en": "What's this, a fruit? Yaaay,\nLocomoco'll eat it, eat it!",
   "status": "done",
   "slots": [
    "0x6dd9"
@@ -3872,7 +3872,7 @@
  {
   "id": "c8:17bdc",
   "jp": "あれ？　まだおいも残ってるよ？\nいただきまーす！",
-  "en": "Huh? There's still some potato left? Let's\ndig iiin!",
+  "en": "Huh? There's still some\npotato left? Let's dig iiin!",
   "status": "done",
   "slots": [
    "0x6e65"
@@ -3912,7 +3912,7 @@
  {
   "id": "c8:17c91",
   "jp": "ロコモコは甘口以外は\n食べられないよ！",
-  "en": "Locomoco can't eat anything but\nmild-and-sweet!",
+  "en": "Locomoco can't eat anything\nbut mild-and-sweet!",
   "status": "done",
   "slots": [
    "0x6f7d"
@@ -3922,7 +3922,7 @@
  {
   "id": "c8:17cb7",
   "jp": "この甘さなら\n何回でもおかわりできるよ！",
-  "en": "When it's this sweet, Locomoco can have\nseconds again and again!",
+  "en": "When it's this sweet, Locomoco\ncan have seconds again and again!",
   "status": "done",
   "slots": [
    "0x6fc5"
@@ -3952,7 +3952,7 @@
  {
   "id": "c8:17d19",
   "jp": "あまり地上の食物は食べないっす\nから、なんだか期待しちゃうっす。",
-  "en": "I don't eat much food from the surface, sir,\nso I've got kinda high hopes!",
+  "en": "I don't eat much food from the surface,\nsir, so I've got kinda high hopes!",
   "status": "done",
   "slots": [
    "0x7095"
@@ -3962,7 +3962,7 @@
  {
   "id": "c8:17d59",
   "jp": "んお！　こりゃあ美味いっす！\n期待以上っすよ！",
-  "en": "Nnoh! Now this is tasty, sir! Better than I\nhoped!",
+  "en": "Nnoh! Now this is tasty,\nsir! Better than I hoped!",
   "status": "done",
   "slots": [
    "0x70dd"
@@ -3972,7 +3972,7 @@
  {
   "id": "c8:17d87",
   "jp": "ミルクかぁ、独特の生臭さが\nあるっすよねぇ。",
-  "en": "Milk, huh... It's got that funky smell of its\nown, doesn't it, sir.",
+  "en": "Milk, huh... It's got that funky\nsmell of its own, doesn't it, sir.",
   "status": "done",
   "slots": [
    "0x7121"
@@ -3992,7 +3992,7 @@
  {
   "id": "c8:17dc0",
   "jp": "おぉ、潮の香りがいい感じっすねぇ\nどれどれ……。",
-  "en": "Ooh, the smell of the sea's real nice, sir.\nLet's see here...",
+  "en": "Ooh, the smell of the sea's\nreal nice, sir. Let's see here...",
   "status": "done",
   "slots": [
    "0x71ad"
@@ -4002,7 +4002,7 @@
  {
   "id": "c8:17df0",
   "jp": "これだけでも美味しいっすが、\nスープにいれてもまた美味しくなる\nと思うっす！",
-  "en": "It's tasty just like this, sir, but I bet it'd\nbe tasty in a soup too!",
+  "en": "It's tasty just like this, sir,\nbut I bet it'd be tasty in a soup too!",
   "status": "done",
   "slots": [
    "0x71f5"
@@ -4022,7 +4022,7 @@
  {
   "id": "c8:17e86",
   "jp": "ん～異文化交流ってのは難しい\nもんなんすねぇ～。",
-  "en": "Mmm, cultural exchange sure is a tough\nthing, huh, sir~.",
+  "en": "Mmm, cultural exchange sure\nis a tough thing, huh, sir~.",
   "status": "done",
   "slots": [
    "0x726f"
@@ -4052,7 +4052,7 @@
  {
   "id": "c8:17f0a",
   "jp": "これ、いわば内蔵を食べてるんっす\nよねぇ……。",
-  "en": "You know, this is basically eating its guts,\nsir...",
+  "en": "You know, this is basically\neating its guts, sir...",
   "status": "done",
   "slots": [
    "0x7338"
@@ -4072,7 +4072,7 @@
  {
   "id": "c8:17f59",
   "jp": "疲れたときの甘味って\n最高っすよねぇ。",
-  "en": "Something sweet when you're tired is the\nbest, right, sir?",
+  "en": "Something sweet when you're\ntired is the best, right, sir?",
   "status": "done",
   "slots": [
    "0x73c4"
@@ -4082,7 +4082,7 @@
  {
   "id": "c8:17f7f",
   "jp": "甘ーい、疲れた体に染み渡るっす。",
-  "en": "So sweet... It soaks right into my tired\nbody, sir.",
+  "en": "So sweet... It soaks right\ninto my tired body, sir.",
   "status": "done",
   "slots": [
    "0x740c"
@@ -4122,7 +4122,7 @@
  {
   "id": "c8:1804e",
   "jp": "マズイ……これ、課長へのお土産に\nしましょうかねぇ。",
-  "en": "Gross... Maybe I'll make this a souvenir for\nmy section chief.",
+  "en": "Gross... Maybe I'll make this a\nsouvenir for my section chief.",
   "status": "done",
   "slots": [
    "0x7524"
@@ -4142,7 +4142,7 @@
  {
   "id": "c8:180ae",
   "jp": "名前に反して？　逆っす、\n名前のせいでっすよ……。",
-  "en": "In spite of the name? No, the other way\naround, sir. Because of the name...",
+  "en": "In spite of the name? No, the other\nway around, sir. Because of the name...",
   "status": "done",
   "slots": [
    "0x756f"
@@ -4152,7 +4152,7 @@
  {
   "id": "c8:180e0",
   "jp": "スウィートベリーもラズベリーも\n意味は同じっすよ。なぁんで偽者\n呼ばわりされなきゃならないんすか",
-  "en": "Sweet Berry and Raspberry mean the same\nthing, sir. So why do I gotta get called the\nfake one!?",
+  "en": "Sweet Berry and Raspberry mean\nthe same thing, sir. So why do I\ngotta get called the fake one!?",
   "status": "done",
   "slots": [
    "0x75b7"
@@ -4172,7 +4172,7 @@
  {
   "id": "c8:1815c",
   "jp": "塩を加えたスイーツは黄泉の国でも\n流行ってるんすよぉ。",
-  "en": "Sweets with salt in 'em are all the rage in\nthe Land of the Dead too, sir.",
+  "en": "Sweets with salt in 'em are all the\nrage in the Land of the Dead too, sir.",
   "status": "done",
   "slots": [
    "0x7602"
@@ -4182,7 +4182,7 @@
  {
   "id": "c8:18192",
   "jp": "現世の塩スイーツも美味しいっす！\n課長へのお土産にしとくのは\nもったいないっすね。",
-  "en": "Salt sweets in the world of the living are\ntasty too, sir! Too good to save as a\nsouvenir for my section chief.",
+  "en": "Salt sweets in the world of the living\nare tasty too, sir! Too good to save\nas a souvenir for my section chief.",
   "status": "done",
   "slots": [
    "0x764a"
@@ -4192,7 +4192,7 @@
  {
   "id": "c8:181e3",
   "jp": "黄泉の国の子供達にも大人気の\nおやつなんすよ、コレ。",
-  "en": "This is a snack the kids in the Land of the\nDead are crazy about, sir.",
+  "en": "This is a snack the kids in the Land\nof the Dead are crazy about, sir.",
   "status": "done",
   "slots": [
    "0x768e"
@@ -4202,7 +4202,7 @@
  {
   "id": "c8:18217",
   "jp": "私はモチロン、課長も好きな、\nみんなに愛されるおやつっす。",
-  "en": "Me, of course, and my section chief likes 'em\ntoo. It's a snack everybody loves, sir.",
+  "en": "Me, of course, and my section chief likes\n'em too. It's a snack everybody loves, sir.",
   "status": "done",
   "slots": [
    "0x76d6"
@@ -4222,7 +4222,7 @@
  {
   "id": "c8:18290",
   "jp": "独特の味っすね。\nさすが課長。食べてるものもクセが\nあるっす……。",
-  "en": "It's got a unique flavour, sir. Figures, with\nmy section chief. Even what he eats is\nquirky...",
+  "en": "It's got a unique flavour, sir.\nFigures, with my section chief.\nEven what he eats is quirky...",
   "status": "done",
   "slots": [
    "0x7750"
@@ -4242,7 +4242,7 @@
  {
   "id": "c8:182e2",
   "jp": "やっぱり、課長のお土産にしとく\nのはもったいないっすね！\nあぁおいしいっす！",
-  "en": "Yeah, it's too good to save as a souvenir for\nmy section chief, sir! Aah, so tasty!",
+  "en": "Yeah, it's too good to save as a souvenir\nfor my section chief, sir! Aah, so tasty!",
   "status": "done",
   "slots": [
    "0x77d5"
@@ -4252,7 +4252,7 @@
  {
   "id": "c8:1832d",
   "jp": "お、チーズじゃないっすか。\n何時の間に用意したんすか？",
-  "en": "Oh, isn't this cheese, sir? When did you get\nthis ready?",
+  "en": "Oh, isn't this cheese, sir?\nWhen did you get this ready?",
   "status": "done",
   "slots": [
    "0x7819"
@@ -4262,7 +4262,7 @@
  {
   "id": "c8:18363",
   "jp": "パンと一緒に食べると最高に\n美味しいっすねぇ。",
-  "en": "It's the tastiest when you eat it with bread,\nsir.",
+  "en": "It's the tastiest when\nyou eat it with bread, sir.",
   "status": "done",
   "slots": [
    "0x7861"
@@ -4272,7 +4272,7 @@
  {
   "id": "c8:18391",
   "jp": "ドゼウさんが黄泉の国に旅立って\nしまったっす。\n供養するっすか。",
-  "en": "Mr. Loach has gone off on his journey to the\nLand of the Dead, sir. Shall I hold a memorial\nfor him?",
+  "en": "Mr. Loach has gone off on his\njourney to the Land of the Dead,\nsir. Shall I hold a memorial for him?",
   "status": "done",
   "slots": [
    "0x789e"
@@ -4292,7 +4292,7 @@
  {
   "id": "c8:183f6",
   "jp": "厳しい上司に困難な仕事。\n私はもうクタクタっすよ……。\nこれでも食べるっすか。",
-  "en": "A strict boss and a tough job. I'm all worn\nout, sir... Maybe I'll eat this.",
+  "en": "A strict boss and a tough job.\nI'm all worn out, sir... Maybe I'll eat this.",
   "status": "done",
   "slots": [
    "0x7918"
@@ -4302,7 +4302,7 @@
  {
   "id": "c8:18443",
   "jp": "ん！　力が湧いてきて疲れが\n吹き飛んだっす！",
-  "en": "Nn! The strength's welling up and the\ntiredness got blown away, sir!",
+  "en": "Nn! The strength's welling up and\nthe tiredness got blown away, sir!",
   "status": "done",
   "slots": [
    "0x7960"
@@ -4312,7 +4312,7 @@
  {
   "id": "c8:1846f",
   "jp": "昔、これの事をブーメランと勘違い\nして母親に酷く怒られた経験が\nあるんすよねぇ。",
-  "en": "A long time ago, I mistook one of these for a\nboomerang and my mother got real mad at\nme, sir.",
+  "en": "A long time ago, I mistook one of\nthese for a boomerang and my\nmother got real mad at me, sir.",
   "status": "done",
   "slots": [
    "0x79a4"
@@ -4322,7 +4322,7 @@
  {
   "id": "c8:184be",
   "jp": "ありますよねぇ。\nえ？　ない？",
-  "en": "Happens to everybody, right? Huh? Not\nyou?",
+  "en": "Happens to everybody,\nright? Huh? Not you?",
   "status": "done",
   "slots": [
    "0x79ec"
@@ -4332,7 +4332,7 @@
  {
   "id": "c8:184dc",
   "jp": "あ、これ、神界に生ってる\n禁断の果実じゃないっすか。\nこんな所で手に入るなんて……。",
-  "en": "Ah, isn't this the forbidden fruit that grows\nin the Divine Realm, sir? Who'd think you\ncould get one in a place like this...",
+  "en": "Ah, isn't this the forbidden fruit that\ngrows in the Divine Realm, sir? Who'd think\nyou could get one in a place like this...",
   "status": "done",
   "slots": [
    "0x7a29"
@@ -4342,7 +4342,7 @@
  {
   "id": "c8:1852f",
   "jp": "この果実には、食べた人のウィルを\n底上げする効果があるんすよ。",
-  "en": "This fruit has the power to raise the Will of\nwhoever eats it, sir.",
+  "en": "This fruit has the power to raise\nthe Will of whoever eats it, sir.",
   "status": "done",
   "slots": [
    "0x7a66"
@@ -4352,7 +4352,7 @@
  {
   "id": "c8:1856d",
   "jp": "まぁ、その代わり貴重品で、神界の\n人でも中々手にはいらないそう\nですけどね。",
-  "en": "Thing is, it's real precious, so I hear even\nfolks from the Divine Realm can hardly get\ntheir hands on one.",
+  "en": "Thing is, it's real precious,\nso I hear even folks from the Divine\nRealm can hardly get their hands on one.",
   "status": "done",
   "slots": [
    "0x7a6d"
@@ -4372,7 +4372,7 @@
  {
   "id": "c8:18607",
   "jp": "ん～最高に美味いっす！\n課長ったら、こんな美味しいの\n食べてたんすね～許さんっす！",
-  "en": "Mmm, best taste ever, sir! So my section\nchief was eating something this good~.\nUnforgivable, sir!",
+  "en": "Mmm, best taste ever, sir!\nSo my section chief was eating\nsomething this good~. Unforgivable, sir!",
   "status": "done",
   "slots": [
    "0x7af2"
@@ -4382,7 +4382,7 @@
  {
   "id": "c8:18658",
   "jp": "いいっすよ、残飯処理は下っ端の\n仕事っすから……。",
-  "en": "It's fine, sir. Cleaning up the leftovers is the\nunderling's job...",
+  "en": "It's fine, sir. Cleaning up the\nleftovers is the underling's job...",
   "status": "done",
   "slots": [
    "0x7b36"
@@ -4402,7 +4402,7 @@
  {
   "id": "c8:186ab",
   "jp": "これ、徹夜で仕事の時とかに\n食べるといいんすよね～。\n苦さで目が覚めるんすよ。",
-  "en": "This is good to eat when you're pulling an\nall-nighter at work, sir~. The bitterness\nwakes you right up.",
+  "en": "This is good to eat when you're\npulling an all-nighter at work, sir~.\nThe bitterness wakes you right up.",
   "status": "done",
   "slots": [
    "0x7bc2"
@@ -4412,7 +4412,7 @@
  {
   "id": "c8:186f8",
   "jp": "ま、私は食べ過ぎてこれを美味しい\nと感じるようになってしまったんで\nあまり効果はないっすね。",
-  "en": "Well, I've eaten so many that they started\ntasting good to me, so it doesn't do much\nanymore, sir.",
+  "en": "Well, I've eaten so many that\nthey started tasting good to me,\nso it doesn't do much anymore, sir.",
   "status": "done",
   "slots": [
    "0x7c0a"
@@ -4432,7 +4432,7 @@
  {
   "id": "c8:1878f",
   "jp": "ふんふん、甘酸っぱくて\n美味しいっすね。\nお土産にもう一つもらっておくっす",
-  "en": "Mm-hm, sweet and sour and tasty, sir. I'll\ntake one more as a souvenir.",
+  "en": "Mm-hm, sweet and sour and tasty,\nsir. I'll take one more as a souvenir.",
   "status": "done",
   "slots": [
    "0x7c96"
@@ -4462,7 +4462,7 @@
  {
   "id": "c8:18821",
   "jp": "今日は焼肉奉行の課長がいないんで\n気楽でいいっす！",
-  "en": "My section chief, the barbecue boss, isn't\nhere today, so I can relax, sir!",
+  "en": "My section chief, the barbecue boss,\nisn't here today, so I can relax, sir!",
   "status": "done",
   "slots": [
    "0x7d66"
@@ -4472,7 +4472,7 @@
  {
   "id": "c8:18853",
   "jp": "ん～！　自由に食べるお肉って\nこんなに美味しかったんすねぇ！",
-  "en": "Mmm! So meat you get to eat however you\nlike was this tasty, sir!",
+  "en": "Mmm! So meat you get to eat\nhowever you like was this tasty, sir!",
   "status": "done",
   "slots": [
    "0x7dae"
@@ -4482,7 +4482,7 @@
  {
   "id": "c8:1888f",
   "jp": "カレーは黄泉の国でも大人気の\n料理の一つなんすよ！",
-  "en": "Curry is one of the most popular dishes in\nthe Land of the Dead too, sir!",
+  "en": "Curry is one of the most popular\ndishes in the Land of the Dead too, sir!",
   "status": "done",
   "slots": [
    "0x7df2"
@@ -4502,7 +4502,7 @@
  {
   "id": "c8:188d8",
   "jp": "お。フグっていえば、現世の\n高級食材じゃないっすか。\nヘヘッ、いただきまっす！",
-  "en": "Oh. Speaking of pufferfish, isn't that a\nluxury food in the world of the living, sir?\nHeheh, I'm digging in!",
+  "en": "Oh. Speaking of pufferfish,\nisn't that a luxury food in the world of\nthe living, sir? Heheh, I'm digging in!",
   "status": "done",
   "slots": [
    "0x7e7e"
@@ -5062,7 +5062,7 @@
  {
   "id": "c8:18df9",
   "jp": "土の中で生まれた野菜か。\nシャンティエにはない食材だ。",
-  "en": "A vegetable born in the soil, is it? That's\nnot something we have in Chantier.",
+  "en": "A vegetable born in the soil, is it?\nThat's not something we have in Chantier.",
   "status": "done",
   "slots": [
    "0x8dce"
@@ -5072,7 +5072,7 @@
  {
   "id": "c8:18e2f",
   "jp": "美味しい！　これが、大地の恵みと\nいうものか……。",
-  "en": "Delicious! So this is what they call the\nblessings of the earth...",
+  "en": "Delicious! So this is what they\ncall the blessings of the earth...",
   "status": "done",
   "slots": [
    "0x8e16"
@@ -5082,7 +5082,7 @@
  {
   "id": "c8:18e61",
   "jp": "ミルクか。\nシャンティエにはなかったな。\nどんな味なのか……。",
-  "en": "Milk, is it? We didn't have it in Chantier. I\nwonder how it tastes...",
+  "en": "Milk, is it? We didn't have it in Chantier.\nI wonder how it tastes...",
   "status": "done",
   "slots": [
    "0x8e5a"
@@ -5102,7 +5102,7 @@
  {
   "id": "c8:18eb9",
   "jp": "ミネラルリーフか！\n子供の頃から大好物でな！\nありがたくいただこう！",
-  "en": "A Mineral Leaf! I've loved these since I was a\nchild! I'll gratefully accept it!",
+  "en": "A Mineral Leaf! I've loved these since\nI was a child! I'll gratefully accept it!",
   "status": "done",
   "slots": [
    "0x8ee6"
@@ -5112,7 +5112,7 @@
  {
   "id": "c8:18efc",
   "jp": "そういえば、近所で栽培されていた\nコレを全て食べてしまった事が\nあってな。",
-  "en": "Come to think of it, there was a time I ate\nevery one of these they were growing in the\nneighbourhood.",
+  "en": "Come to think of it, there was a\ntime I ate every one of these they\nwere growing in the neighbourhood.",
   "status": "done",
   "slots": [
    "0x8f23"
@@ -5122,7 +5122,7 @@
  {
   "id": "c8:18f45",
   "jp": "農園の人にはよく怒られたものだ。\nワッハッハ。",
-  "en": "The farm folk used to scold me for it all the\ntime. Wahahaha.",
+  "en": "The farm folk used to scold me\nfor it all the time. Wahahaha.",
   "status": "done",
   "slots": [
    "0x8f35"
@@ -5132,7 +5132,7 @@
  {
   "id": "c8:18f73",
   "jp": "何だコレは……どこぞの海よりも\n鮮やかな青色じゃないか……。\n本当に食べられるのか……？",
-  "en": "What is this... It's a brighter blue than any\nsea... Can you really eat this...?",
+  "en": "What is this... It's a brighter blue than\nany sea... Can you really eat this...?",
   "status": "done",
   "slots": [
    "0x8f79"
@@ -5162,7 +5162,7 @@
  {
   "id": "c8:19008",
   "jp": "美味い！　何だこの味は！\n流石は王様、といったところか。",
-  "en": "Delicious! What is this flavour! A true king, I\nsuppose.",
+  "en": "Delicious! What is this flavour!\nA true king, I suppose.",
   "status": "done",
   "slots": [
    "0x904d"
@@ -5172,7 +5172,7 @@
  {
   "id": "c8:19040",
   "jp": "これは、いいものだな。\n身の色がとてもいい。",
-  "en": "This is a fine one. The colour of the flesh is\nexcellent.",
+  "en": "This is a fine one. The colour\nof the flesh is excellent.",
   "status": "done",
   "slots": [
    "0x9091"
@@ -5202,7 +5202,7 @@
  {
   "id": "c8:19090",
   "jp": "なんだこれは。力が湧いてくる！\nただのキャンディーではなかった\nようだな。",
-  "en": "What is this? Strength is welling up in me! It\nseems this was no ordinary candy.",
+  "en": "What is this? Strength is welling up in me!\nIt seems this was no ordinary candy.",
   "status": "done",
   "slots": [
    "0x9165"
@@ -5212,7 +5212,7 @@
  {
   "id": "c8:190d9",
   "jp": "タイを模した菓子か、珍しいな。",
-  "en": "A sweet shaped like a sea bream? How\nunusual.",
+  "en": "A sweet shaped like a\nsea bream? How unusual.",
   "status": "done",
   "slots": [
    "0x91a9"
@@ -5232,7 +5232,7 @@
  {
   "id": "c8:19116",
   "jp": "ウミヘビを食べるなど……聞いた\nこともないぞ。",
-  "en": "Eating a sea snake... I've never heard of such\na thing.",
+  "en": "Eating a sea snake...\nI've never heard of such a thing.",
   "status": "done",
   "slots": [
    "0x9231"
@@ -5242,7 +5242,7 @@
  {
   "id": "c8:19144",
   "jp": "きちんと毒抜きをしているん\nだろうな……？",
-  "en": "It has been properly cleaned of its poison...\nhasn't it...?",
+  "en": "It has been properly cleaned\nof its poison... hasn't it...?",
   "status": "done",
   "slots": [
    "0x923c"
@@ -5262,7 +5262,7 @@
  {
   "id": "c8:1919c",
   "jp": "果物は贅沢物だからな。\nじっくり味わって食べなければ。",
-  "en": "Fruit is a luxury, after all. I must take my\ntime and savour it.",
+  "en": "Fruit is a luxury, after all.\nI must take my time and savour it.",
   "status": "done",
   "slots": [
    "0x92c8"
@@ -5302,7 +5302,7 @@
  {
   "id": "c8:1921d",
   "jp": "子供から女王陛下まで。\nこの実は誰にでも愛されているな。",
-  "en": "From children to Her Majesty the Queen...\nEveryone loves this nut.",
+  "en": "From children to Her Majesty the\nQueen... Everyone loves this nut.",
   "status": "done",
   "slots": [
    "0x93e0"
@@ -5312,7 +5312,7 @@
  {
   "id": "c8:19255",
   "jp": "この実を嫌いだという者を私は\nみたことがないよ。",
-  "en": "I've never met anyone who says they dislike\nthis nut.",
+  "en": "I've never met anyone who\nsays they dislike this nut.",
   "status": "done",
   "slots": [
    "0x9428"
@@ -5322,7 +5322,7 @@
  {
   "id": "c8:19285",
   "jp": "これも明日を生きるため。\nすまない。いただきます。",
-  "en": "This, too, is so that I may live tomorrow.\nForgive me. I'll eat you.",
+  "en": "This, too, is so that I may live\ntomorrow. Forgive me. I'll eat you.",
   "status": "done",
   "slots": [
    "0x9465"
@@ -5342,7 +5342,7 @@
  {
   "id": "c8:192df",
   "jp": "このまま死んでしまうなら、な？",
-  "en": "If you're going to die like this anyway,\nthen...?",
+  "en": "If you're going to die like\nthis anyway, then...?",
   "status": "done",
   "slots": [
    "0x94df"
@@ -5362,7 +5362,7 @@
  {
   "id": "c8:1930f",
   "jp": "なぜこんな所にチーズが？\n誰かが輸入したのか？",
-  "en": "Why is there cheese in a place like this? Did\nsomeone import it?",
+  "en": "Why is there cheese in a place\nlike this? Did someone import it?",
   "status": "done",
   "slots": [
    "0x956b"
@@ -5372,7 +5372,7 @@
  {
   "id": "c8:1933d",
   "jp": "……まぁ、美味しいからいいか。",
-  "en": "...Well, it's delicious, so I suppose it doesn't\nmatter.",
+  "en": "...Well, it's delicious,\nso I suppose it doesn't matter.",
   "status": "done",
   "slots": [
    "0x95b3"
@@ -5382,7 +5382,7 @@
  {
   "id": "c8:1935c",
   "jp": "遅かったか。\n……すまないが、キミにお墓は\n立ててあげられないんだ。",
-  "en": "Was I too late? ...I'm sorry, but I can't build\nyou a grave.",
+  "en": "Was I too late? ...I'm sorry,\nbut I can't build you a grave.",
   "status": "done",
   "slots": [
    "0x95f7"
@@ -5462,7 +5462,7 @@
  {
   "id": "c8:194aa",
   "jp": "これは、かつて陛下への貢物として\n差し出されていたという伝説の……\nゴクリ。",
-  "en": "This is the legendary... the one said to have\nonce been offered as tribute to Her\nMajesty... *gulp*",
+  "en": "This is the legendary... the one\nsaid to have once been offered as\ntribute to Her Majesty... *gulp*",
   "status": "done",
   "slots": [
    "0x9827"
@@ -5472,7 +5472,7 @@
  {
   "id": "c8:194f5",
   "jp": "申し訳ありません陛下……。\nフィービー、食欲には勝てません\nでした……！",
-  "en": "Forgive me, Your Majesty... I, Fiebee, could\nnot overcome my appetite...!",
+  "en": "Forgive me, Your Majesty... I, Fiebee,\ncould not overcome my appetite...!",
   "status": "done",
   "slots": [
    "0x986f"
@@ -5502,7 +5502,7 @@
  {
   "id": "c8:1956f",
   "jp": "戦場の中ではどんなものでも\n食料にしてしまわねばな。",
-  "en": "On the battlefield, one must turn anything\nat all into food.",
+  "en": "On the battlefield, one must\nturn anything at all into food.",
   "status": "done",
   "slots": [
    "0x9938"
@@ -5532,7 +5532,7 @@
  {
   "id": "c8:195d1",
   "jp": "爽やかで清々しい味だ。\nこれで少しは気が紛れるだろう。",
-  "en": "A fresh, clean taste. This should take my\nmind off things a little.",
+  "en": "A fresh, clean taste. This should\ntake my mind off things a little.",
   "status": "done",
   "slots": [
    "0x99fa"
@@ -5562,7 +5562,7 @@
  {
   "id": "c8:1964c",
   "jp": "戦場で肉は贅沢品だからな。\nありがたくいただこう。",
-  "en": "On the battlefield, meat is a luxury. I'll\ngratefully accept it.",
+  "en": "On the battlefield, meat is a luxury.\nI'll gratefully accept it.",
   "status": "done",
   "slots": [
    "0x9aca"
@@ -5572,7 +5572,7 @@
  {
   "id": "c8:1967e",
   "jp": "やはり肉はいいな。\nもう一度味わう為にも、\n頑張らなければならないな。",
-  "en": "Meat really is good. I'll have to keep fighting\nhard, if only to taste it once more.",
+  "en": "Meat really is good. I'll have to keep\nfighting hard, if only to taste it once more.",
   "status": "done",
   "slots": [
    "0x9b12"
@@ -5582,7 +5582,7 @@
  {
   "id": "c8:196c3",
   "jp": "カレーか。シャンティエにはない\n料理だな。どれどれ。",
-  "en": "Curry, is it? That's a dish we don't have in\nChantier. Let's see.",
+  "en": "Curry, is it? That's a dish we\ndon't have in Chantier. Let's see.",
   "status": "done",
   "slots": [
    "0x9b56"
@@ -5592,7 +5592,7 @@
  {
   "id": "c8:196f7",
   "jp": "おぉ、これは美味しい。\n今度、同志達にも教えてやらねば",
-  "en": "Oh, this is delicious. I must tell my comrades\nabout it someday.",
+  "en": "Oh, this is delicious. I must tell\nmy comrades about it someday.",
   "status": "done",
   "slots": [
    "0x9b9e"
@@ -5642,7 +5642,7 @@
  {
   "id": "c8:19808",
   "jp": "今は飲む側だけど、\nいずれは私も飲ませる側に\nまわるのよねぇ……。",
-  "en": "Right now I'm the one drinking it, but\nsomeday I'll be the one with a baby drinking\nmine, won't I...",
+  "en": "Right now I'm the one drinking it,\nbut someday I'll be the one with\na baby drinking mine, won't I...",
   "status": "done",
   "slots": [
    "0x9cfa"
@@ -5662,7 +5662,7 @@
  {
   "id": "c8:1986f",
   "jp": "こういうのを食べて、\n女を磨かなくっちゃね。",
-  "en": "A woman has to eat this kind of thing to\npolish herself up.",
+  "en": "A woman has to eat this kind\nof thing to polish herself up.",
   "status": "done",
   "slots": [
    "0x9d86"
@@ -5672,7 +5672,7 @@
  {
   "id": "c8:1989b",
   "jp": "究極の美女は、体の中も\n美しいものなのよ。",
-  "en": "The ultimate beauty is beautiful on the\ninside too, you know.",
+  "en": "The ultimate beauty is beautiful\non the inside too, you know.",
   "status": "done",
   "slots": [
    "0x9dce"
@@ -5682,7 +5682,7 @@
  {
   "id": "c8:198c5",
   "jp": "本当に食べられるのかしら……。\nアタシの心には「不安」の二文字\nしかないわ……。",
-  "en": "Can you really eat this, I wonder... All that's\nin my heart is one word: \"worry\"...",
+  "en": "Can you really eat this, I wonder...\nAll that's in my heart is one word: \"worry\"...",
   "status": "done",
   "slots": [
    "0x9e0b"
@@ -5692,7 +5692,7 @@
  {
   "id": "c8:19914",
   "jp": "美味しい……けど、\n食欲は湧かないわねぇ。\nあ、ダイエットに最適かも！",
-  "en": "It's tasty... but it doesn't make me hungry at\nall. Oh, it might be perfect for a diet!",
+  "en": "It's tasty... but it doesn't make me hungry\nat all. Oh, it might be perfect for a diet!",
   "status": "done",
   "slots": [
    "0x9e48"
@@ -5712,7 +5712,7 @@
  {
   "id": "c8:1997d",
   "jp": "ん～やっぱり海の幸って最高ね！",
-  "en": "Mmm, the bounty of the sea really is the\nbest!",
+  "en": "Mmm, the bounty of the\nsea really is the best!",
   "status": "done",
   "slots": [
    "0x9ecd"
@@ -5722,7 +5722,7 @@
  {
   "id": "c8:1999c",
   "jp": "うにって、海の宝石って\n言われてるのよねぇ。",
-  "en": "They say sea urchin is the jewel of the sea,\nyou know.",
+  "en": "They say sea urchin is the\njewel of the sea, you know.",
   "status": "done",
   "slots": [
    "0x9f11"
@@ -5752,7 +5752,7 @@
  {
   "id": "c8:19a1a",
   "jp": "か、体が熱い……！\nなにこれ、すごい！",
-  "en": "M-My body's burning...! What is this, it's\namazing!",
+  "en": "M-My body's burning...!\nWhat is this, it's amazing!",
   "status": "done",
   "slots": [
    "0x9fe5"
@@ -5772,7 +5772,7 @@
  {
   "id": "c8:19a68",
   "jp": "甘い……ま、本物には敵わないわね",
-  "en": "Sweet... Well, it's no match for the real\nthing.",
+  "en": "Sweet... Well, it's no\nmatch for the real thing.",
   "status": "done",
   "slots": [
    "0xa071"
@@ -5782,7 +5782,7 @@
  {
   "id": "c8:19a89",
   "jp": "ヘビって、確か滋養強壮に\nいいのよね……ゴクリ。",
-  "en": "Snakes are supposed to be good for\nstamina, aren't they... *gulp*",
+  "en": "Snakes are supposed to be good\nfor stamina, aren't they... *gulp*",
   "status": "done",
   "slots": [
    "0xa0b5"
@@ -5792,7 +5792,7 @@
  {
   "id": "c8:19ab9",
   "jp": "か、体が火照ってピリピリ……って\nコレ毒じゃない！\nきゃー誰か助けてぇ！",
-  "en": "M-My body's all hot and tingly... Hey, this is\npoison! Eek, somebody help meee!",
+  "en": "M-My body's all hot and tingly... Hey,\nthis is poison! Eek, somebody help meee!",
   "status": "done",
   "slots": [
    "0xa0fd"
@@ -5812,7 +5812,7 @@
  {
   "id": "c8:19b1b",
   "jp": "アタシもまだまだ\n女の子なのかしらねぇ。",
-  "en": "Maybe I'm still a little girl at heart after\nall.",
+  "en": "Maybe I'm still a little\ngirl at heart after all.",
   "status": "done",
   "slots": [
    "0xa189"
@@ -5842,7 +5842,7 @@
  {
   "id": "c8:19b8e",
   "jp": "これがおやつに出された時は\nよく姉さんと取り合ったもんよ。",
-  "en": "Whenever these came out as a snack, Sis\nand I used to fight over them.",
+  "en": "Whenever these came out as a snack,\nSis and I used to fight over them.",
   "status": "done",
   "slots": [
    "0xa259"
@@ -5852,7 +5852,7 @@
  {
   "id": "c8:19bc8",
   "jp": "ま、姉さんは非力だったから\nアタシの圧勝だったけどねぇ。",
-  "en": "Well, Sis was a weakling, so I always won by\na mile.",
+  "en": "Well, Sis was a weakling,\nso I always won by a mile.",
   "status": "done",
   "slots": [
    "0xa2a1"
@@ -5862,7 +5862,7 @@
  {
   "id": "c8:19c00",
   "jp": "滋養強壮に効く海ドゼウ。\nウフフ。いただきまぁす。",
-  "en": "A Sea Loach, good for stamina. Hehehe.\nLet's dig iiin.",
+  "en": "A Sea Loach, good for stamina.\nHehehe. Let's dig iiin.",
   "status": "done",
   "slots": [
    "0xa2de"
@@ -5882,7 +5882,7 @@
  {
   "id": "c8:19c4d",
   "jp": "保存用にとってたんでしょ？\nなら、今が食べる時なんじゃない？",
-  "en": "You were keeping it to save for later, right?\nThen isn't now the time to eat it?",
+  "en": "You were keeping it to save for later,\nright? Then isn't now the time to eat it?",
   "status": "done",
   "slots": [
    "0xa351"
@@ -5892,7 +5892,7 @@
  {
   "id": "c8:19c89",
   "jp": "保存しておくって、\nアタシ苦手なのよねぇ。",
-  "en": "I'm no good at saving things for later, you\nknow.",
+  "en": "I'm no good at saving\nthings for later, you know.",
   "status": "done",
   "slots": [
    "0xa38e"
@@ -5902,7 +5902,7 @@
  {
   "id": "c8:19cb3",
   "jp": "あら、海ゴブリンのチーズ？\nなら、ワインも持ってこないと。",
-  "en": "Oh, Sea Goblin Cheese? Then someone has\nto bring the wine too.",
+  "en": "Oh, Sea Goblin Cheese?\nThen someone has to bring the wine too.",
   "status": "done",
   "slots": [
    "0xa3cb"
@@ -5912,7 +5912,7 @@
  {
   "id": "c8:19ced",
   "jp": "ワインのお供は\nやっぱりチーズよねぇ。",
-  "en": "Nothing goes with wine like cheese, after\nall.",
+  "en": "Nothing goes with wine\nlike cheese, after all.",
   "status": "done",
   "slots": [
    "0xa413"
@@ -5942,7 +5942,7 @@
  {
   "id": "c8:19d6d",
   "jp": "最近、色々な事がありすぎて\nちょっと疲れ気味なのよねぇ。\nちょうどいいわ。",
-  "en": "So much has happened lately that I'm\nfeeling a little tired. This is just what I\nneeded.",
+  "en": "So much has happened lately\nthat I'm feeling a little tired.\nThis is just what I needed.",
   "status": "done",
   "slots": [
    "0xa4e3"
@@ -5952,7 +5952,7 @@
  {
   "id": "c8:19db6",
   "jp": "歳なのかし……いやいや、考えない\n考えない！",
-  "en": "Is it my age... No, no, don't think about it,\ndon't think about it!",
+  "en": "Is it my age... No, no, don't think\nabout it, don't think about it!",
   "status": "done",
   "slots": [
    "0xa52b"
@@ -5962,7 +5962,7 @@
  {
   "id": "c8:19de2",
   "jp": "安い果物だけど、なぁんか\n飽きないのよねぇこれ。",
-  "en": "It's a cheap fruit, but somehow I never get\ntired of these.",
+  "en": "It's a cheap fruit, but somehow\nI never get tired of these.",
   "status": "done",
   "slots": [
    "0xa56f"
@@ -5982,7 +5982,7 @@
  {
   "id": "c8:19e2f",
   "jp": "食べて強さを取るか、売ってお金を\n取るか……どうしましょう。",
-  "en": "Eat it and get stronger, or sell it and get\nmoney... What should I do?",
+  "en": "Eat it and get stronger, or sell it\nand get money... What should I do?",
   "status": "done",
   "slots": [
    "0xa5fb"
@@ -5992,7 +5992,7 @@
  {
   "id": "c8:19e6b",
   "jp": "まぁ、命あっての物種よね。",
-  "en": "Well, you need to be alive to enjoy anything,\nafter all.",
+  "en": "Well, you need to be alive\nto enjoy anything, after all.",
   "status": "done",
   "slots": [
    "0xa643"
@@ -6002,7 +6002,7 @@
  {
   "id": "c8:19e86",
   "jp": "金！　金よ！　なんて素晴らしい\n響きと輝きなのかしら！\n売る？　バカなこと言わないで！",
-  "en": "Gold! It's gold! What a wonderful ring and\nshine it has! Sell it? Don't be silly!",
+  "en": "Gold! It's gold! What a wonderful ring\nand shine it has! Sell it? Don't be silly!",
   "status": "done",
   "slots": [
    "0xa687"
@@ -6022,7 +6022,7 @@
  {
   "id": "c8:19f19",
   "jp": "売ってもお金になるわけないし、\nそれならいっそ……。",
-  "en": "It's not like I'd get any money for selling it,\nso I might as well...",
+  "en": "It's not like I'd get any money\nfor selling it, so I might as well...",
   "status": "done",
   "slots": [
    "0xa713"
@@ -6052,7 +6052,7 @@
  {
   "id": "c8:19f94",
   "jp": "なんでこんなに苦いのが\n好きだったのかしら……。",
-  "en": "Why did she love something so bitter, I\nwonder...",
+  "en": "Why did she love something\nso bitter, I wonder...",
   "status": "done",
   "slots": [
    "0xa7d5"
@@ -6099,7 +6099,7 @@
  {
   "id": "c8:1a05e",
   "jp": "う！　こ、これはダメだわ！\n誰か、水持ってきてちょうだい！",
-  "en": "Ugh! Th-This is no good! Somebody, bring me\nsome water!",
+  "en": "Ugh! Th-This is no good!\nSomebody, bring me some water!",
   "status": "done",
   "slots": [
    "0xa8e6"
@@ -6109,7 +6109,7 @@
  {
   "id": "c8:1a098",
   "jp": "太るから、あんまりお肉は\n食べたくない……。",
-  "en": "I don't really want to eat meat, it'll make me\nfat...",
+  "en": "I don't really want to eat meat,\nit'll make me fat...",
   "status": "done",
   "slots": [
    "0xa926"
@@ -6159,7 +6159,7 @@
  {
   "id": "c8:1a18c",
   "jp": "こんな美味しい食材を食べないって\n損よねぇ。",
-  "en": "Not eating an ingredient this tasty would be\na waste.",
+  "en": "Not eating an ingredient\nthis tasty would be a waste.",
   "status": "done",
   "slots": [
    "0xaa30"
@@ -6179,7 +6179,7 @@
  {
   "id": "c8:1a1d1",
   "jp": "１８歳未満は服用禁止、ねぇ。\nそういう意味の薬なのかしら？",
-  "en": "\"Not to be taken by anyone under 18,\" huh. I\nwonder if it's that kind of medicine?",
+  "en": "\"Not to be taken by anyone under 18,\"\nhuh. I wonder if it's that kind of medicine?",
   "status": "done",
   "slots": [
    "0xaab8"
@@ -6209,7 +6209,7 @@
  {
   "id": "c8:1a239",
   "jp": "これは！　力の源プロテイモ！？\nこれを食し、強い男になれという\n事ですね師匠！？",
-  "en": "What's this! Protato, the source of\nstrength!? You mean for me to eat this and\nbecome a strong man, Master!?",
+  "en": "What's this! Protato, the source of\nstrength!? You mean for me to eat this\nand become a strong man, Master!?",
   "status": "done",
   "slots": [
    "0xab4f"
@@ -6219,7 +6219,7 @@
  {
   "id": "c8:1a288",
   "jp": "うをぉぉぉ！！\n力がみなぎってきましたぞぉぉ！！",
-  "en": "Uwoooh!! I can feel the strength surging\nthrough meee!!",
+  "en": "Uwoooh!! I can feel the strength\nsurging through meee!!",
   "status": "done",
   "slots": [
    "0xab97"
@@ -6229,7 +6229,7 @@
  {
   "id": "c8:1a2b8",
   "jp": "カルシウムをとって！\n頑丈な男になってみせます！",
-  "en": "I'll get my calcium! I'll show you I can be a\nsturdy man!",
+  "en": "I'll get my calcium!\nI'll show you I can be a sturdy man!",
   "status": "done",
   "slots": [
    "0xabdb"
@@ -6239,7 +6239,7 @@
  {
   "id": "c8:1a2e8",
   "jp": "矢でも鉄砲でも何でも来い！\n全て弾き返してやるぅ！！\nワッハッハッハ！！",
-  "en": "Arrows, guns, bring it all on! I'll deflect\nevery last one!! Wahahahaha!!",
+  "en": "Arrows, guns, bring it all on!\nI'll deflect every last one!! Wahahahaha!!",
   "status": "done",
   "slots": [
    "0xac23"
@@ -6249,7 +6249,7 @@
  {
   "id": "c8:1a32f",
   "jp": "訓練は大量にエネルギーを消費\nしますから、これは騎士にとっては\n重要な食べ物なんですよ！",
-  "en": "Training burns a huge amount of energy, so\nthis is an important food for a knight!",
+  "en": "Training burns a huge amount of energy,\nso this is an important food for a knight!",
   "status": "done",
   "slots": [
    "0xac67"
@@ -6259,7 +6259,7 @@
  {
   "id": "c8:1a386",
   "jp": "ぬおおおぉぉぉ！\n栄養が体に染み渡るぅぅぅ！！",
-  "en": "Nuooooh! The nutrients are soaking into my\nbodyyy!!",
+  "en": "Nuooooh! The nutrients are\nsoaking into my bodyyy!!",
   "status": "done",
   "slots": [
    "0xacaf"
@@ -6269,7 +6269,7 @@
  {
   "id": "c8:1a3b4",
   "jp": "な、なんだこの毒々しい果実は……\nこれも、試練なのか……！",
-  "en": "Wh-What is this poisonous-looking fruit... Is\nthis a trial too...!?",
+  "en": "Wh-What is this poisonous-looking\nfruit... Is this a trial too...!?",
   "status": "done",
   "slots": [
    "0xacf3"
@@ -6279,7 +6279,7 @@
  {
   "id": "c8:1a3ee",
   "jp": "た、食べました！　師匠！\nこのカミュル、見事食べつくして\nやりましたぞ！",
-  "en": "I-I ate it! Master! Unworthy as I am, I,\nKamuru, ate every last bite!",
+  "en": "I-I ate it! Master! Unworthy as I am,\nI, Kamuru, ate every last bite!",
   "status": "done",
   "slots": [
    "0xad3b"
@@ -6299,7 +6299,7 @@
  {
   "id": "c8:1a461",
   "jp": "美味し！\n口の中でホタテが躍動している！！",
-  "en": "Delicious! The scallop is dancing in my\nmouth!!",
+  "en": "Delicious! The scallop\nis dancing in my mouth!!",
   "status": "done",
   "slots": [
    "0xadc7"
@@ -6309,7 +6309,7 @@
  {
   "id": "c8:1a48b",
   "jp": "こんな高級品を、よろしいのですか",
-  "en": "Are you sure? Something this high-class, for\nme?",
+  "en": "Are you sure? Something\nthis high-class, for me?",
   "status": "done",
   "slots": [
    "0xae0b"
@@ -6319,7 +6319,7 @@
  {
   "id": "c8:1a4ac",
   "jp": "ありがたき幸せ！\n非常に美味でございまする！",
-  "en": "I am most honoured! It is extremely\ndelicious!",
+  "en": "I am most honoured!\nIt is extremely delicious!",
   "status": "done",
   "slots": [
    "0xae53"
@@ -6329,7 +6329,7 @@
  {
   "id": "c8:1a4d8",
   "jp": "父上、母上。\n元気にしているだろうか……。",
-  "en": "Father, Mother. I wonder if you're doing\nwell...",
+  "en": "Father, Mother.\nI wonder if you're doing well...",
   "status": "done",
   "slots": [
    "0xae97"
@@ -6339,7 +6339,7 @@
  {
   "id": "c8:1a502",
   "jp": "ん！　力が湧いてくる。\n昔を振り返り省みることで、\n人は成長していくのだなぁ。",
-  "en": "Nn! Strength is welling up. So a person grows\nby looking back on the past and reflecting on\nit...",
+  "en": "Nn! Strength is welling up.\nSo a person grows by looking back\non the past and reflecting on it...",
   "status": "done",
   "slots": [
    "0xaedf"
@@ -6349,7 +6349,7 @@
  {
   "id": "c8:1a54f",
   "jp": "タイヤキかぁ、実家の近くでも\n売ってたなぁ。",
-  "en": "Taiyaki, huh. They sold these near home\ntoo.",
+  "en": "Taiyaki, huh. They sold\nthese near home too.",
   "status": "done",
   "slots": [
    "0xaf23"
@@ -6369,7 +6369,7 @@
  {
   "id": "c8:1a590",
   "jp": "これしきの毒！\n耐えねば一流ではないぃぃ！",
-  "en": "Poison like this! If I can't endure it, I'm not\nfirst-class!",
+  "en": "Poison like this! If I can't endure it,\nI'm not first-class!",
   "status": "done",
   "slots": [
    "0xafaf"
@@ -6389,7 +6389,7 @@
  {
   "id": "c8:1a5d9",
   "jp": "う、このつぶつぶは……食べても\n大丈夫なのですか？",
-  "en": "Ugh, these little seeds... Are they safe to\neat?",
+  "en": "Ugh, these little seeds...\nAre they safe to eat?",
   "status": "done",
   "slots": [
    "0xb03b"
@@ -6399,7 +6399,7 @@
  {
   "id": "c8:1a60b",
   "jp": "腹の中で発芽しないだろうか……。\n不安だ。",
-  "en": "What if they sprout in my belly... I'm\nworried.",
+  "en": "What if they sprout in\nmy belly... I'm worried.",
   "status": "done",
   "slots": [
    "0xb083"
@@ -6409,7 +6409,7 @@
  {
   "id": "c8:1a635",
   "jp": "海の成分がはいったプリンですか。\nどんな味がするのか……。",
-  "en": "A pudding with sea ingredients in it? I\nwonder what it tastes like...",
+  "en": "A pudding with sea ingredients in it?\nI wonder what it tastes like...",
   "status": "done",
   "slots": [
    "0xb0c0"
@@ -6429,7 +6429,7 @@
  {
   "id": "c8:1a699",
   "jp": "これが間食として出された時は、\n騎士団の同僚達とよく争奪戦に\nなったものです。",
-  "en": "Whenever these came out as a snack, my\nfellow knights and I would always end up\nfighting over them.",
+  "en": "Whenever these came out as a snack,\nmy fellow knights and I would\nalways end up fighting over them.",
   "status": "done",
   "slots": [
    "0xb13a"
@@ -6439,7 +6439,7 @@
  {
   "id": "c8:1a6e6",
   "jp": "訓練時の、つかの間の和みでしたね",
-  "en": "It was a brief moment of comfort during\ntraining.",
+  "en": "It was a brief moment of\ncomfort during training.",
   "status": "done",
   "slots": [
    "0xb182"
@@ -6469,7 +6469,7 @@
  {
   "id": "c8:1a751",
   "jp": "すまぬドゼウ殿。\n本当は生かしてやりたかったが。\nゴメン！",
-  "en": "Forgive me, Loach-dono. I truly wanted to\nlet you live. Sorry!",
+  "en": "Forgive me, Loach-dono.\nI truly wanted to let you live. Sorry!",
   "status": "done",
   "slots": [
    "0xb252"
@@ -6479,7 +6479,7 @@
  {
   "id": "c8:1a78a",
   "jp": "美味い！　この美味さに負けぬよう\n精進せねば！",
-  "en": "Delicious! I must train hard so I don't lose to\nthis deliciousness!",
+  "en": "Delicious! I must train hard so I\ndon't lose to this deliciousness!",
   "status": "done",
   "slots": [
    "0xb29a"
@@ -6489,7 +6489,7 @@
  {
   "id": "c8:1a7b8",
   "jp": "ミルクがチーズに変化した！？\nあ、味に変わりはあるのだろうか。",
-  "en": "The milk turned into cheese!? D-Does it\ntaste any different?",
+  "en": "The milk turned into cheese!?\nD-Does it taste any different?",
   "status": "done",
   "slots": [
    "0xb2de"
@@ -6499,7 +6499,7 @@
  {
   "id": "c8:1a7f6",
   "jp": "う、美味い！　味も全然違う。\nすばらしいな、これは。",
-  "en": "D-Delicious! It tastes completely different.\nThis is wonderful.",
+  "en": "D-Delicious! It tastes completely\ndifferent. This is wonderful.",
   "status": "done",
   "slots": [
    "0xb326"
@@ -6509,7 +6509,7 @@
  {
   "id": "c8:1a82a",
   "jp": "む、死んでしまわれたのか。\nいたしかたないな。",
-  "en": "Hm, it has passed away? It cannot be\nhelped.",
+  "en": "Hm, it has passed away?\nIt cannot be helped.",
   "status": "done",
   "slots": [
    "0xb363"
@@ -6549,7 +6549,7 @@
  {
   "id": "c8:1a89f",
   "jp": "騎士団に所属していた頃も、\nよく食べたものだあぁ。",
-  "en": "I ate these a lot back when I was in the\nKnights tooo.",
+  "en": "I ate these a lot back when\nI was in the Knights tooo.",
   "status": "done",
   "slots": [
    "0xb469"
@@ -6559,7 +6559,7 @@
  {
   "id": "c8:1a8d1",
   "jp": "また、メラニー殿の二本一気食いが\nみたいものだ。",
-  "en": "I'd love to see Melanie-dono eat two at once\nagain.",
+  "en": "I'd love to see Melanie-dono\neat two at once again.",
   "status": "done",
   "slots": [
    "0xb4b1"
@@ -6569,7 +6569,7 @@
  {
   "id": "c8:1a901",
   "jp": "禁断……なんと危険で人を\n惹きつける言葉なんだ！",
-  "en": "Forbidden... What a dangerous, alluring\nword!",
+  "en": "Forbidden... What a\ndangerous, alluring word!",
   "status": "done",
   "slots": [
    "0xb4ee"
@@ -6579,7 +6579,7 @@
  {
   "id": "c8:1a931",
   "jp": "は！　気がついたら食べていた。\nまだまだ修行が必要だな！",
-  "en": "Ah! Before I knew it, I'd eaten it. I still need\nmore training!",
+  "en": "Ah! Before I knew it, I'd eaten it.\nI still need more training!",
   "status": "done",
   "slots": [
    "0xb52b"
@@ -6599,7 +6599,7 @@
  {
   "id": "c8:1a993",
   "jp": "な、なんだこの素晴らしい味は！\n涙が、涙が止まらぬぅぅぅ！！",
-  "en": "Wh-What is this wonderful taste! The tears,\nthe tears won't stooop!!",
+  "en": "Wh-What is this wonderful taste!\nThe tears, the tears won't stooop!!",
   "status": "done",
   "slots": [
    "0xb5b0"
@@ -6629,7 +6629,7 @@
  {
   "id": "c8:1aa29",
   "jp": "これは気付薬にも使われていた\n物の原型だな。\nよく食べたものだ。",
-  "en": "This is what smelling salts were originally\nmade from. I ate them often.",
+  "en": "This is what smelling salts were\noriginally made from. I ate them often.",
   "status": "done",
   "slots": [
    "0xb680"
@@ -6639,7 +6639,7 @@
  {
   "id": "c8:1aa68",
   "jp": "おかげで今はこれが好物の一つに\nなってしまった……空しいな。",
-  "en": "Thanks to that, they've become one of my\nfavourite foods... How empty.",
+  "en": "Thanks to that, they've become one\nof my favourite foods... How empty.",
   "status": "done",
   "slots": [
    "0xb6c8"
@@ -6659,7 +6659,7 @@
  {
   "id": "c8:1aac3",
   "jp": "騎士の心を持った海賊……。\nカッコイイではないですか！！",
-  "en": "A pirate with the heart of a knight... Isn't\nthat cool!!",
+  "en": "A pirate with the heart of\na knight... Isn't that cool!!",
   "status": "done",
   "slots": [
    "0xb754"
@@ -6669,7 +6669,7 @@
  {
   "id": "c8:1aafb",
   "jp": "こういうギリギリなものを\n処分するのも、騎士の務めか……！",
-  "en": "Disposing of something this borderline is a\nknight's duty too...!",
+  "en": "Disposing of something this\nborderline is a knight's duty too...!",
   "status": "done",
   "slots": [
    "0xb798"
@@ -6689,7 +6689,7 @@
  {
   "id": "c8:1ab50",
   "jp": "肉とは男の食べ物！\n頭からかぶり付くのです！",
-  "en": "Meat is a man's food! You bite right into it\nhead first!",
+  "en": "Meat is a man's food!\nYou bite right into it head first!",
   "status": "done",
   "slots": [
    "0xb824"
@@ -6729,7 +6729,7 @@
  {
   "id": "c8:1ac09",
   "jp": "ボ、ボクの為にこんな高級食材を？\nあ、ありがたき幸せぇ！！",
-  "en": "Y-You'd give such a high-class ingredient to\nme? I-I am most honoured!!",
+  "en": "Y-You'd give such a high-class\ningredient to me? I-I am most honoured!!",
   "status": "done",
   "slots": [
    "0xb93c"
@@ -6739,7 +6739,7 @@
  {
   "id": "c8:1ac43",
   "jp": "ま、まさか……ボクを試すトラップ\nだったとは……まだまだ未熟です。",
-  "en": "T-To think... it was a trap to test me... I'm\nstill inexperienced.",
+  "en": "T-To think... it was a trap to\ntest me... I'm still inexperienced.",
   "status": "done",
   "slots": [
    "0xb984"
@@ -6749,7 +6749,7 @@
  {
   "id": "c8:1ac85",
   "jp": "あらあら、プロテイモですか？\n懐かしいですね。\nいただきます。",
-  "en": "Oh my, is this Protato? How nostalgic. I'll\ndig in.",
+  "en": "Oh my, is this Protato?\nHow nostalgic. I'll dig in.",
   "status": "done",
   "slots": [
    "0xb9c8"
@@ -6779,7 +6779,7 @@
  {
   "id": "c8:1ad2c",
   "jp": "あれは、私の人生の中でも\n五指に入る試練でした。",
-  "en": "That was one of the five greatest trials of\nmy life.",
+  "en": "That was one of the five\ngreatest trials of my life.",
   "status": "done",
   "slots": [
    "0xba91"
@@ -6799,7 +6799,7 @@
  {
   "id": "c8:1adb1",
   "jp": "これ、お父様がすり潰してドリンク\nみたいにして飲んでいたんですよ。\n私も少し試してみましょう。",
-  "en": "Father used to grind these up and drink\nthem like a smoothie, you know. I'll try a\nlittle myself.",
+  "en": "Father used to grind these up\nand drink them like a smoothie,\nyou know. I'll try a little myself.",
   "status": "done",
   "slots": [
    "0xbae7"
@@ -6819,7 +6819,7 @@
  {
   "id": "c8:1ae27",
   "jp": "毒々しい……腐っているわけでは\nないんですよね？\n本当に、食べられるんですよね？",
-  "en": "It looks so poisonous... It isn't rotten, is it?\nYou really can eat it, can't you?",
+  "en": "It looks so poisonous... It isn't rotten,\nis it? You really can eat it, can't you?",
   "status": "done",
   "slots": [
    "0xbb73"
@@ -6829,7 +6829,7 @@
  {
   "id": "c8:1ae76",
   "jp": "あら、美味しい。\n見た目だけで判断しては\nいけませんね。",
-  "en": "Oh my, it's delicious. I mustn't judge by looks\nalone.",
+  "en": "Oh my, it's delicious.\nI mustn't judge by looks alone.",
   "status": "done",
   "slots": [
    "0xbbbb"
@@ -6859,7 +6859,7 @@
  {
   "id": "c8:1aee9",
   "jp": "食べたい、食べたいですけど、\n売ればお金が……。",
-  "en": "I want to eat it, I really do, but if I sold it,\nthe money...",
+  "en": "I want to eat it, I really do,\nbut if I sold it, the money...",
   "status": "done",
   "slots": [
    "0xbc8b"
@@ -6889,7 +6889,7 @@
  {
   "id": "c8:1af66",
   "jp": "力が湧いてくる。父上が応援して\nくれているのでしょうか……。",
-  "en": "Strength is welling up. Is Father cheering me\non, I wonder...",
+  "en": "Strength is welling up.\nIs Father cheering me on, I wonder...",
   "status": "done",
   "slots": [
    "0xbd5f"
@@ -6899,7 +6899,7 @@
  {
   "id": "c8:1afa2",
   "jp": "あら？　これは、タイを模した\nお菓子なのかしら……？",
-  "en": "Oh? Is this a sweet shaped like a sea\nbream...?",
+  "en": "Oh? Is this a sweet\nshaped like a sea bream...?",
   "status": "done",
   "slots": [
    "0xbda3"
@@ -6919,7 +6919,7 @@
  {
   "id": "c8:1affe",
   "jp": "とりあえず焼きましたが……。\n煙がやけに目に染みますね。",
-  "en": "I've grilled it for now, but... The smoke\nreally stings my eyes.",
+  "en": "I've grilled it for now, but...\nThe smoke really stings my eyes.",
   "status": "done",
   "slots": [
    "0xbe2f"
@@ -6929,7 +6929,7 @@
  {
   "id": "c8:1b036",
   "jp": "こ、これは毒ではないですか！\nだ、だれか……解毒剤を……！",
-  "en": "Th-This is poison, isn't it! S-Somebody... an\nantidote...!",
+  "en": "Th-This is poison, isn't it!\nS-Somebody... an antidote...!",
   "status": "done",
   "slots": [
    "0xbe77"
@@ -6939,7 +6939,7 @@
  {
   "id": "c8:1b070",
   "jp": "これは……私の大好物の\nスウィートベリーじゃないですか！",
-  "en": "Why, this is my favourite food, a Sweet\nBerry!",
+  "en": "Why, this is my favourite food,\na Sweet Berry!",
   "status": "done",
   "slots": [
    "0xbebb"
@@ -6989,7 +6989,7 @@
  {
   "id": "c8:1b141",
   "jp": "え？　一個だけ？\nう～口が寂しくなってしまいます。",
-  "en": "Huh? Just one? Uuu, now my mouth feels\nlonely.",
+  "en": "Huh? Just one? Uuu,\nnow my mouth feels lonely.",
   "status": "done",
   "slots": [
    "0xc01b"
@@ -6999,7 +6999,7 @@
  {
   "id": "c8:1b173",
   "jp": "ドゼウ料理ですか。\n食べるのは久々ですね。",
-  "en": "A loach dish? It's been a while since I've had\none.",
+  "en": "A loach dish? It's been a\nwhile since I've had one.",
   "status": "done",
   "slots": [
    "0xc066"
@@ -7019,7 +7019,7 @@
  {
   "id": "c8:1b1be",
   "jp": "お腹、減りましたねぇ～。\nなにか非常食のようなものは……。",
-  "en": "I'm getting hungry... Isn't there anything like\nemergency rations...",
+  "en": "I'm getting hungry... Isn't there\nanything like emergency rations...",
   "status": "done",
   "slots": [
    "0xc05b",
@@ -7050,7 +7050,7 @@
  {
   "id": "c8:1b243",
   "jp": "海ゴブリンのチーズ、\n偶然できたのですか？\n珍しいこともあるんですねぇ。",
-  "en": "Sea Goblin Cheese, made by accident? What\na rare thing to happen.",
+  "en": "Sea Goblin Cheese, made by accident?\nWhat a rare thing to happen.",
   "status": "done",
   "slots": [
    "0xc185"
@@ -7070,7 +7070,7 @@
  {
   "id": "c8:1b2a9",
   "jp": "あら、死んでしまったのですか。\n捨てるわけにもいきませんね。",
-  "en": "Oh my, it died? Well, I can't just throw it\naway.",
+  "en": "Oh my, it died? Well,\nI can't just throw it away.",
   "status": "done",
   "slots": [
    "0xc20a"
@@ -7090,7 +7090,7 @@
  {
   "id": "c8:1b2fa",
   "jp": "少し、疲れてしまいましたね。\nコレを食べて元気になりましょう！",
-  "en": "I've gotten a little tired. Let's eat this and\nget my energy back!",
+  "en": "I've gotten a little tired.\nLet's eat this and get my energy back!",
   "status": "done",
   "slots": [
    "0xc284"
@@ -7100,7 +7100,7 @@
  {
   "id": "c8:1b338",
   "jp": "センチュリオバスターを握る両手に\n力が蘇ってきました！",
-  "en": "The strength has come back to the hands\nthat grip my Centurio Buster!",
+  "en": "The strength has come back to the\nhands that grip my Centurio Buster!",
   "status": "done",
   "slots": [
    "0xc2cc"
@@ -7120,7 +7120,7 @@
  {
   "id": "c8:1b394",
   "jp": "センチュリオバスターを撃ちながら\nでも食べられますよ♪",
-  "en": "You can even eat it while firing the Centurio\nBuster!",
+  "en": "You can even eat it while\nfiring the Centurio Buster!",
   "status": "done",
   "slots": [
    "0xc358"
@@ -7130,7 +7130,7 @@
  {
   "id": "c8:1b3ca",
   "jp": "禁断の果実。\nう、売れば……売れば大金に……！",
-  "en": "The forbidden fruit. I-If I sold it... if I sold\nit, it'd be a fortune...!",
+  "en": "The forbidden fruit. I-If I sold it...\nif I sold it, it'd be a fortune...!",
   "status": "done",
   "slots": [
    "0xc395"
@@ -7150,7 +7150,7 @@
  {
   "id": "c8:1b426",
   "jp": "綺麗な金色ですねぇ。\n食欲はそそりませんが。",
-  "en": "What a beautiful golden colour. Not very\nappetizing, though.",
+  "en": "What a beautiful golden colour.\nNot very appetizing, though.",
   "status": "done",
   "slots": [
    "0xc40f"
@@ -7160,7 +7160,7 @@
  {
   "id": "c8:1b452",
   "jp": "見た目とは真逆の美味しさです！",
-  "en": "It's delicious, the exact opposite of how it\nlooks!",
+  "en": "It's delicious, the exact\nopposite of how it looks!",
   "status": "done",
   "slots": [
    "0xc457"
@@ -7170,7 +7170,7 @@
  {
   "id": "c8:1b471",
   "jp": "こんなものを食べさせるなんて\n失礼だと思わないんですか？",
-  "en": "Making me eat something like this... Don't\nyou think that's rude?",
+  "en": "Making me eat something like this...\nDon't you think that's rude?",
   "status": "done",
   "slots": [
    "0xc494"
@@ -7190,7 +7190,7 @@
  {
   "id": "c8:1b4d1",
   "jp": "父上に無理やり食べさせられた\n記憶が……。",
-  "en": "I have memories of Father forcing me to eat\nthis...",
+  "en": "I have memories of Father\nforcing me to eat this...",
   "status": "done",
   "slots": [
    "0xc50e"
@@ -7200,7 +7200,7 @@
  {
   "id": "c8:1b4fb",
   "jp": "あー、この味です。\n懐かしいですねぇ。思い出したく\nありませんでしたが。",
-  "en": "Ahh, this is the taste. How nostalgic. Not\nthat I ever wanted to remember it.",
+  "en": "Ahh, this is the taste. How nostalgic.\nNot that I ever wanted to remember it.",
   "status": "done",
   "slots": [
    "0xc556"
@@ -7210,7 +7210,7 @@
  {
   "id": "c8:1b542",
   "jp": "父上が昔美味しそうに食べていた\nフルーツだわ！\nどんな味がするのかしら？",
-  "en": "It's the fruit Father used to eat so happily\nlong ago! I wonder how it tastes?",
+  "en": "It's the fruit Father used to eat so\nhappily long ago! I wonder how it tastes?",
   "status": "done",
   "slots": [
    "0xc59a"
@@ -7220,7 +7220,7 @@
  {
   "id": "c8:1b589",
   "jp": "甘酸っぱくて美味しいですわ！\nお父様が私に食べさせない理由が\nわかりますね。",
-  "en": "It's sweet and sour and delicious! Now I see\nwhy Father never let me have any.",
+  "en": "It's sweet and sour and delicious!\nNow I see why Father never let me have any.",
   "status": "done",
   "slots": [
    "0xc5e2"
@@ -7240,7 +7240,7 @@
  {
   "id": "c8:1b606",
   "jp": "グフッ……ア、アナタ、毒を……\n毒を盛りましたね！？",
-  "en": "Guh... Y-You... poison... You poisoned me,\ndidn't you!?",
+  "en": "Guh... Y-You... poison...\nYou poisoned me, didn't you!?",
   "status": "done",
   "slots": [
    "0xc66e"
@@ -7250,7 +7250,7 @@
  {
   "id": "c8:1b63a",
   "jp": "すごい上質なお肉のようですね。\nどんどん脂が溶けてます。\n早速いただきましょう。",
-  "en": "It looks like very high-quality meat. The fat\nis melting away. Let's eat it right now.",
+  "en": "It looks like very high-quality meat. The\nfat is melting away. Let's eat it right now.",
   "status": "done",
   "slots": [
    "0xc6b2"
@@ -7270,7 +7270,7 @@
  {
   "id": "c8:1b6ad",
   "jp": "この匂い、お腹の減りが止まり\nませんね。\n早く食べましょう！",
-  "en": "This smell... My stomach won't stop\ngrowling. Let's eat quickly!",
+  "en": "This smell... My stomach won't\nstop growling. Let's eat quickly!",
   "status": "done",
   "slots": [
    "0xc73e"
@@ -7310,7 +7310,7 @@
  {
   "id": "c8:1b751",
   "jp": "ほえぇ～。プロテイモって\nどこにでもあるのねぇ。",
-  "en": "Ohhh~. Protatoes really are everywhere,\nhuh.",
+  "en": "Ohhh~. Protatoes really\nare everywhere, huh.",
   "status": "done",
   "slots": [
    "0xc856"
@@ -7320,7 +7320,7 @@
  {
   "id": "c8:1b781",
   "jp": "どこにでも現れる。\nまさに私のような野菜なんだわさ。",
-  "en": "Showing up everywhere. It's a vegetable\njust like me, dontcha know.",
+  "en": "Showing up everywhere. It's a\nvegetable just like me, dontcha know.",
   "status": "done",
   "slots": [
    "0xc89e"
@@ -7330,7 +7330,7 @@
  {
   "id": "c8:1b7b5",
   "jp": "ミルクを飲んでる人を見ると、\nなんだか無性に笑わせたく\nなるんだわさ。",
-  "en": "When I see someone drinking milk, I get this\ncrazy urge to make them laugh, dontcha\nknow.",
+  "en": "When I see someone drinking milk,\nI get this crazy urge to make\nthem laugh, dontcha know.",
   "status": "done",
   "slots": [
    "0xc8de"
@@ -7350,7 +7350,7 @@
  {
   "id": "c8:1b811",
   "jp": "ウブッ！　そ、そんな事考えてたら\n自分が笑いそうになってしまった\nんだわさ！　危ない危ない……。",
-  "en": "Pfft! Just thinking about it nearly made me\nlaugh myself, dontcha know! Close call,\nclose call...",
+  "en": "Pfft! Just thinking about it\nnearly made me laugh myself,\ndontcha know! Close call, close call...",
   "status": "done",
   "slots": [
    "0xc931"
@@ -7360,7 +7360,7 @@
  {
   "id": "c8:1b870",
   "jp": "これを食べれば、お肌が綺麗に\nなるんだわさ～！",
-  "en": "If I eat this, my skin'll get all beautiful,\ndontcha know~!",
+  "en": "If I eat this, my skin'll get all\nbeautiful, dontcha know~!",
   "status": "done",
   "slots": [
    "0xc975"
@@ -7380,7 +7380,7 @@
  {
   "id": "c8:1b8bb",
   "jp": "なぁんでみんなコレを嫌うのかしら\nねぇ。私、結構好きなのにな。",
-  "en": "Why does everybody hate these, I wonder. I\nkinda like them.",
+  "en": "Why does everybody hate these,\nI wonder. I kinda like them.",
   "status": "done",
   "slots": [
    "0xca01"
@@ -7400,7 +7400,7 @@
  {
   "id": "c8:1b92d",
   "jp": "うんまそぉ～！\nこれは新鮮なうちに\nたべなきゃねぇ～！",
-  "en": "Looks yummyyy~! Gotta eat this while it's\nfresh~!",
+  "en": "Looks yummyyy~!\nGotta eat this while it's fresh~!",
   "status": "done",
   "slots": [
    "0xca8d"
@@ -7420,7 +7420,7 @@
  {
   "id": "c8:1b979",
   "jp": "全てのお宝はパメラ様のもの！\nいただきまーす！",
-  "en": "All treasure belongs to Pamela-sama! Let's\ndig iiin!",
+  "en": "All treasure belongs to\nPamela-sama! Let's dig iiin!",
   "status": "done",
   "slots": [
    "0xcb19"
@@ -7450,7 +7450,7 @@
  {
   "id": "c8:1b9ef",
   "jp": "レロレロレロレロレロレロレロ。\nうまい！　テーレッテレー！",
-  "en": "Lick lick lick lick lick lick lick. Tasty!\nTa-da-daaa!",
+  "en": "Lick lick lick lick lick lick lick.\nTasty! Ta-da-daaa!",
   "status": "done",
   "slots": [
    "0xcbed"
@@ -7470,7 +7470,7 @@
  {
   "id": "c8:1ba48",
   "jp": "ささいな探究心も、時には\n必要なんだわさ！",
-  "en": "A little curiosity is needed now and then,\ndontcha know!",
+  "en": "A little curiosity is needed\nnow and then, dontcha know!",
   "status": "done",
   "slots": [
    "0xcc79"
@@ -7480,7 +7480,7 @@
  {
   "id": "c8:1ba72",
   "jp": "いや、これはもうオチが\n見えてるでしょ……。",
-  "en": "Nope, I can already see the punchline\ncoming...",
+  "en": "Nope, I can already see\nthe punchline coming...",
   "status": "done",
   "slots": [
    "0xccbd"
@@ -7490,7 +7490,7 @@
  {
   "id": "c8:1ba9e",
   "jp": "うわぁマズ。\n面白みもなんにもないマズさだわさ",
-  "en": "Ugh, gross. Gross without anything funny\nabout it, dontcha know.",
+  "en": "Ugh, gross. Gross without anything\nfunny about it, dontcha know.",
   "status": "done",
   "slots": [
    "0xcd05"
@@ -7540,7 +7540,7 @@
  {
   "id": "c8:1bb3f",
   "jp": "これ、前に食べた時以来大好きに\nなっちゃったのよねぇ。",
-  "en": "I've loved these ever since the first time I\nate one.",
+  "en": "I've loved these ever since\nthe first time I ate one.",
   "status": "done",
   "slots": [
    "0xce61"
@@ -7550,7 +7550,7 @@
  {
   "id": "c8:1bb75",
   "jp": "うんま～い！\nうーん、こういうのが中毒って\nいうのかしらねぇ。",
-  "en": "Yummyyy! Mmm, I guess this is what they\ncall addiction.",
+  "en": "Yummyyy! Mmm, I guess this\nis what they call addiction.",
   "status": "done",
   "slots": [
    "0xcea9"
@@ -7560,7 +7560,7 @@
  {
   "id": "c8:1bbb2",
   "jp": "アンタとも、もう長いわねぇ。\nそして今回も。\nいただきまぁす。",
-  "en": "We go way back, you and me. And this time\ntoo. Let's dig iiin.",
+  "en": "We go way back, you and me.\nAnd this time too. Let's dig iiin.",
   "status": "done",
   "slots": [
    "0xceed"
@@ -7570,7 +7570,7 @@
  {
   "id": "c8:1bbef",
   "jp": "ん～。変わらない味って、\nとっても素敵なんだわさ！",
-  "en": "Mmm. A taste that never changes is really\nwonderful, dontcha know!",
+  "en": "Mmm. A taste that never changes\nis really wonderful, dontcha know!",
   "status": "done",
   "slots": [
    "0xcf35"
@@ -7590,7 +7590,7 @@
  {
   "id": "c8:1bc59",
   "jp": "このパメラ様が、アンタを世界に\n飛び立たせてやるんだわさ！",
-  "en": "The Great Pamela-sama will set you free\ninto the world, dontcha know!",
+  "en": "The Great Pamela-sama will set you\nfree into the world, dontcha know!",
   "status": "done",
   "slots": [
    "0xcf80"
@@ -7620,7 +7620,7 @@
  {
   "id": "c8:1bcd5",
   "jp": "ま、パメラ様ってば未成年だしぃ。\n飲むわけなぁいじゃないだわさ！",
-  "en": "Well, the Great Pamela-sama is underage,\nso of course I won't be drinking any, dontcha\nknow!",
+  "en": "Well, the Great Pamela-sama is\nunderage, so of course I won't\nbe drinking any, dontcha know!",
   "status": "done",
   "slots": [
    "0xd054"
@@ -7630,7 +7630,7 @@
  {
   "id": "c8:1bd15",
   "jp": "まぁ、料理も言いかえれば\n食材の死体だしねぇ。",
-  "en": "Well, if you think about it, cooking is just the\ncorpses of ingredients anyway.",
+  "en": "Well, if you think about it, cooking is\njust the corpses of ingredients anyway.",
   "status": "done",
   "slots": [
    "0xd091"
@@ -7640,7 +7640,7 @@
  {
   "id": "c8:1bd43",
   "jp": "味は落ちるけど、まぁ仕方がない\nだわさね。",
-  "en": "It doesn't taste as good, but oh well, it can't\nbe helped, dontcha know.",
+  "en": "It doesn't taste as good, but oh well,\nit can't be helped, dontcha know.",
   "status": "done",
   "slots": [
    "0xd0ce"
@@ -7650,7 +7650,7 @@
  {
   "id": "c8:1bd6d",
   "jp": "パメラ様にだって、疲れる時は\nあるんだわさ！",
-  "en": "Even Pamela-sama gets tired sometimes,\ndontcha know!",
+  "en": "Even Pamela-sama gets tired\nsometimes, dontcha know!",
   "status": "done",
   "slots": [
    "0xd10b"
@@ -7660,7 +7660,7 @@
  {
   "id": "c8:1bd99",
   "jp": "よぉし！　元気百倍だわさ！",
-  "en": "All right! A hundred times the energy,\ndontcha know!",
+  "en": "All right! A hundred times\nthe energy, dontcha know!",
   "status": "done",
   "slots": [
    "0xd153"
@@ -7680,7 +7680,7 @@
  {
   "id": "c8:1bdd1",
   "jp": "いい加減食べ飽きてきたんだわさ。",
-  "en": "I'm getting sick of eating them already,\ndontcha know.",
+  "en": "I'm getting sick of eating\nthem already, dontcha know.",
   "status": "done",
   "slots": [
    "0xd1cd"
@@ -7700,7 +7700,7 @@
  {
   "id": "c8:1be1a",
   "jp": "どこにでもいるもんねぇ。\nアイツらってば。",
-  "en": "They're everywhere, aren't they. Those\nguys.",
+  "en": "They're everywhere,\naren't they. Those guys.",
   "status": "done",
   "slots": [
    "0xd240"
@@ -7710,7 +7710,7 @@
  {
   "id": "c8:1be44",
   "jp": "またアンタか金ドゼウ！\n何度でも喰らってやるんだわさ！",
-  "en": "You again, Golden Loach! I'll eat you up as\nmany times as it takes, dontcha know!",
+  "en": "You again, Golden Loach! I'll eat you up\nas many times as it takes, dontcha know!",
   "status": "done",
   "slots": [
    "0xd27d"
@@ -7720,7 +7720,7 @@
  {
   "id": "c8:1be7a",
   "jp": "一番目立つのは、このパメラ様よ！",
-  "en": "The one who stands out most is me, the\nGreat Pamela-sama!",
+  "en": "The one who stands out most is me,\nthe Great Pamela-sama!",
   "status": "done",
   "slots": [
    "0xd2c5"
@@ -7730,7 +7730,7 @@
  {
   "id": "c8:1be9b",
   "jp": "く、腐ってやがる……食べるのが\n遅すぎたんだわさ。",
-  "en": "I-It's rotted... I was way too late eating it,\ndontcha know.",
+  "en": "I-It's rotted... I was way too\nlate eating it, dontcha know.",
   "status": "done",
   "slots": [
    "0xd309"
@@ -7740,7 +7740,7 @@
  {
   "id": "c8:1becd",
   "jp": "で、でも、それに負けじと立ち\n向かうパメラ様……どう？\nすごいでしょ……うぷ。",
-  "en": "B-But the Great Pamela-sama takes it on\nwithout backing down... How's that?\nAmazing, right... Urp.",
+  "en": "B-But the Great Pamela-sama\ntakes it on without backing down...\nHow's that? Amazing, right... Urp.",
   "status": "done",
   "slots": [
    "0xd351"
@@ -7750,7 +7750,7 @@
  {
   "id": "c8:1bf1a",
   "jp": "どうしよう、実験用のトカゲは\n間に合ってるんだわさ……。",
-  "en": "What do I do, I've already got enough lizards\nfor experiments, dontcha know...",
+  "en": "What do I do, I've already got enough\nlizards for experiments, dontcha know...",
   "status": "done",
   "slots": [
    "0xd395"
@@ -7760,7 +7760,7 @@
  {
   "id": "c8:1bf52",
   "jp": "ん！　食べてもなかなか\nいけるんだわさ！",
-  "en": "Mm! It's actually pretty good to eat,\ndontcha know!",
+  "en": "Mm! It's actually pretty\ngood to eat, dontcha know!",
   "status": "done",
   "slots": [
    "0xd3dd"
@@ -7770,7 +7770,7 @@
  {
   "id": "c8:1bf7a",
   "jp": "やっぱりコレを食べなきゃこの世界\nに来た意味がないってなもんだわさ",
-  "en": "If I don't eat this, there'd be no point coming\nto this world, dontcha know!",
+  "en": "If I don't eat this, there'd be no point\ncoming to this world, dontcha know!",
   "status": "done",
   "slots": [
    "0xd421"
@@ -7780,7 +7780,7 @@
  {
   "id": "c8:1bfbc",
   "jp": "ここにきてようやく実感する\nってのもどうかと思うんだけどね。",
-  "en": "Though I do wonder about only really feeling\nit now that I'm here.",
+  "en": "Though I do wonder about only\nreally feeling it now that I'm here.",
   "status": "done",
   "slots": [
    "0xd469"
@@ -7790,7 +7790,7 @@
  {
   "id": "c8:1bff8",
   "jp": "発芽したぐらいで味って\n変わるの～？",
-  "en": "Does the taste really change just because it\nsprouted~?",
+  "en": "Does the taste really change\njust because it sprouted~?",
   "status": "done",
   "slots": [
    "0xd4ad"
@@ -7800,7 +7800,7 @@
  {
   "id": "c8:1c01c",
   "jp": "あ、かわったこりゃダメだペッ！\nペペペペペペペッ！！",
-  "en": "Oh, it changed, this is no good, ptoo!\nPtoo-ptoo-ptoo-ptoo-ptoo!!",
+  "en": "Oh, it changed, this is no good,\nptoo! Ptoo-ptoo-ptoo-ptoo-ptoo!!",
   "status": "done",
   "slots": [
    "0xd4f5"
@@ -7820,7 +7820,7 @@
  {
   "id": "c8:1c071",
   "jp": "エリーシャが作ってくれたタレが\n美味しさを引き立てるんだわさ！",
-  "en": "The sauce Elisha made for me really brings\nout the flavour, dontcha know!",
+  "en": "The sauce Elisha made for me really\nbrings out the flavour, dontcha know!",
   "status": "done",
   "slots": [
    "0xd581"
@@ -7830,7 +7830,7 @@
  {
   "id": "c8:1c0af",
   "jp": "やっと、やっと出会えたわ憎き相手\nカレー！",
-  "en": "At last, at last I've found you, my hated\nnemesis... Curry!",
+  "en": "At last, at last I've found you,\nmy hated nemesis... Curry!",
   "status": "done",
   "slots": [
    "0xd5c1"
@@ -7840,7 +7840,7 @@
  {
   "id": "c8:1c0d9",
   "jp": "食の主役とか、調子乗ってんじゃ\nないわよ！\n主役はこのパメラ様なんだわさ！！",
-  "en": "Don't get cocky calling yourself the star of\nthe menu! The star is the Great\nPamela-sama, dontcha know!!",
+  "en": "Don't get cocky calling yourself the\nstar of the menu! The star is the\nGreat Pamela-sama, dontcha know!!",
   "status": "done",
   "slots": [
    "0xd5cc"
@@ -7850,7 +7850,7 @@
  {
   "id": "c8:1c124",
   "jp": "きぃー！　美味いのが逆に\nムカつくー！",
-  "en": "Grrr! Being so tasty only makes it more\nannoying!",
+  "en": "Grrr! Being so tasty only\nmakes it more annoying!",
   "status": "done",
   "slots": [
    "0xd614"
@@ -7860,7 +7860,7 @@
  {
   "id": "c8:1c14a",
   "jp": "えっへへぇ、高級食材\nいただきだわさ！",
-  "en": "Eheheh, a luxury ingredient, all mine,\ndontcha know!",
+  "en": "Eheheh, a luxury ingredient,\nall mine, dontcha know!",
   "status": "done",
   "slots": [
    "0xd658"
@@ -7890,7 +7890,7 @@
  {
   "id": "c8:1c1c1",
   "jp": "これを食べて身を引きしめ、\nいい女を維持するのですわ。",
-  "en": "I shall eat this to tone up my body and stay\na fine woman.",
+  "en": "I shall eat this to tone up my\nbody and stay a fine woman.",
   "status": "done",
   "slots": [
    "0xd72c"
@@ -7900,7 +7900,7 @@
  {
   "id": "c8:1c1f7",
   "jp": "よく\n“ミルクを飲むと胸が大きくなる”\nと信じている人がいますが。",
-  "en": "Many people believe that \"drinking milk\nmakes your bust grow.\"",
+  "en": "Many people believe that \"drinking\nmilk makes your bust grow.\"",
   "status": "done",
   "slots": [
    "0xd76c"
@@ -7910,7 +7910,7 @@
  {
   "id": "c8:1c238",
   "jp": "それは、たんぱく質の中のアミノ酸\nによるものらしいですわよ？",
-  "en": "But it seems that's due to the amino acids in\nthe protein, you know?",
+  "en": "But it seems that's due to the amino\nacids in the protein, you know?",
   "status": "done",
   "slots": [
    "0xd777"
@@ -7920,7 +7920,7 @@
  {
   "id": "c8:1c274",
   "jp": "ミルクが苦手な人は、アミノ酸が\n多分に含まれた飲料や食物を\nとるといいでしょう。",
-  "en": "Those who dislike milk would do well to take\ndrinks or foods rich in amino acids.",
+  "en": "Those who dislike milk would do well to\ntake drinks or foods rich in amino acids.",
   "status": "done",
   "slots": [
    "0xd7bf"
@@ -7930,7 +7930,7 @@
  {
   "id": "c8:1c2c3",
   "jp": "んん！　少しノドの調子が\n悪いですわね。\n……そうだ、コレを食べましょう！",
-  "en": "Ahem! My throat isn't quite right. ...I know, I\nshall eat this!",
+  "en": "Ahem! My throat isn't quite right.\n...I know, I shall eat this!",
   "status": "done",
   "slots": [
    "0xd803"
@@ -7940,7 +7940,7 @@
  {
   "id": "c8:1c30c",
   "jp": "マーマーマーマーマ～～……。\nう～ん、絶好調ですわ！",
-  "en": "Ma-ma-ma-ma-maaa~~... Mmm, in perfect\nform!",
+  "en": "Ma-ma-ma-ma-maaa~~...\nMmm, in perfect form!",
   "status": "done",
   "slots": [
    "0xd84b"
@@ -7950,7 +7950,7 @@
  {
   "id": "c8:1c340",
   "jp": "毒々しくて歪な形……私とは\n正反対の果実ですわね……！",
-  "en": "Poisonous-looking and misshapen... A fruit\nthat is my exact opposite...!",
+  "en": "Poisonous-looking and misshapen...\nA fruit that is my exact opposite...!",
   "status": "done",
   "slots": [
    "0xd88f"
@@ -7970,7 +7970,7 @@
  {
   "id": "c8:1c397",
   "jp": "いい詩というのは、いい気分を\n保つことで生まれるのですわ。",
-  "en": "Good poems are born from keeping a good\nmood.",
+  "en": "Good poems are born from\nkeeping a good mood.",
   "status": "done",
   "slots": [
    "0xd91b"
@@ -7990,7 +7990,7 @@
  {
   "id": "c8:1c3fb",
   "jp": "ミネラル豊富な海の幸は美容と\n健康にもいいんですわよ？",
-  "en": "Mineral-rich seafood is good for beauty and\nhealth too, you know?",
+  "en": "Mineral-rich seafood is good for\nbeauty and health too, you know?",
   "status": "done",
   "slots": [
    "0xd9a7"
@@ -8010,7 +8010,7 @@
  {
   "id": "c8:1c44e",
   "jp": "私が子供の頃は、キャンディーの\n代わりにハープを握っていましたわ",
-  "en": "When I was a child, I held a harp instead of a\ncandy.",
+  "en": "When I was a child,\nI held a harp instead of a candy.",
   "status": "done",
   "slots": [
    "0xda33"
@@ -8030,7 +8030,7 @@
  {
   "id": "c8:1c4a9",
   "jp": "す、素手で持つんですの？\n……少し、抵抗がありますわね。",
-  "en": "Y-You hold it with your bare hands? ...I'm a\nlittle reluctant.",
+  "en": "Y-You hold it with your bare hands?\n...I'm a little reluctant.",
   "status": "done",
   "slots": [
    "0xdabf"
@@ -8040,7 +8040,7 @@
  {
   "id": "c8:1c4e1",
   "jp": "あら美味しい。たまには\nこういうものもいいですわね。",
-  "en": "Oh my, delicious. Something like this is nice\nonce in a while.",
+  "en": "Oh my, delicious. Something\nlike this is nice once in a while.",
   "status": "done",
   "slots": [
    "0xdb07"
@@ -8070,7 +8070,7 @@
  {
   "id": "c8:1c561",
   "jp": "スウィートベリー、それは\n乙女の果実。甘くてすっぱい恋の味",
-  "en": "The Sweet Berry, the maiden's fruit. The\nsweet and sour taste of love.",
+  "en": "The Sweet Berry, the maiden's fruit.\nThe sweet and sour taste of love.",
   "status": "done",
   "slots": [
    "0xdbd7"
@@ -8090,7 +8090,7 @@
  {
   "id": "c8:1c5bc",
   "jp": "塩プリン。初めて食べますね。\nいただきます。",
-  "en": "Salt Pudding. It's my first time eating it. I'll\ndig in.",
+  "en": "Salt Pudding. It's my first\ntime eating it. I'll dig in.",
   "status": "done",
   "slots": [
    "0xdc63"
@@ -8100,7 +8100,7 @@
  {
   "id": "c8:1c5e8",
   "jp": "ほんのり塩味が甘みを強調させて\nいますね。おいしいです。",
-  "en": "The faint saltiness brings out the\nsweetness. It's delicious.",
+  "en": "The faint saltiness brings out\nthe sweetness. It's delicious.",
   "status": "done",
   "slots": [
    "0xdcab"
@@ -8120,7 +8120,7 @@
  {
   "id": "c8:1c65b",
   "jp": "あら、美味しい。\nお詩を考えている間につまむのに\n最適ですわね。",
-  "en": "Oh my, delicious. Perfect for nibbling while I\nthink up a poem.",
+  "en": "Oh my, delicious. Perfect for\nnibbling while I think up a poem.",
   "status": "done",
   "slots": [
    "0xdd37"
@@ -8130,7 +8130,7 @@
  {
   "id": "c8:1c69a",
   "jp": "さて、ドゼウを食べて体力回復と\nいたしましょう。",
-  "en": "Now then, I shall eat this loach and recover\nmy strength.",
+  "en": "Now then, I shall eat this loach\nand recover my strength.",
   "status": "done",
   "slots": [
    "0xdd7b"
@@ -8140,7 +8140,7 @@
  {
   "id": "c8:1c6ca",
   "jp": "楽器を弾くとは、皆様が思う以上に\n体力を使うものですわ。",
-  "en": "Playing an instrument takes more stamina\nthan any of you imagine.",
+  "en": "Playing an instrument takes more\nstamina than any of you imagine.",
   "status": "done",
   "slots": [
    "0xddc3"
@@ -8150,7 +8150,7 @@
  {
   "id": "c8:1c702",
   "jp": "お腹が減ってはいい演奏は\nできませんわ……。",
-  "en": "One can't give a good performance on an\nempty stomach...",
+  "en": "One can't give a good performance\non an empty stomach...",
   "status": "done",
   "slots": [
    "0xde03"
@@ -8170,7 +8170,7 @@
  {
   "id": "c8:1c758",
   "jp": "だから、非常食を食べても\n問題ないんですわ。",
-  "en": "So there's nothing wrong with eating the\nemergency rations.",
+  "en": "So there's nothing wrong with\neating the emergency rations.",
   "status": "done",
   "slots": [
    "0xde56"
@@ -8180,7 +8180,7 @@
  {
   "id": "c8:1c784",
   "jp": "チーズはお酒だけじゃなくて\n紅茶にも合うんですわよ。",
-  "en": "Cheese goes well not only with wine but\nwith tea too, you know.",
+  "en": "Cheese goes well not only with\nwine but with tea too, you know.",
   "status": "done",
   "slots": [
    "0xde9a"
@@ -8200,7 +8200,7 @@
  {
   "id": "c8:1c7d9",
   "jp": "生き物はいずれ死ぬもの。\n時の流れには敵わないのですね。",
-  "en": "All living things die someday. None can\nstand against the flow of time.",
+  "en": "All living things die someday.\nNone can stand against the flow of time.",
   "status": "done",
   "slots": [
    "0xdf1f"
@@ -8220,7 +8220,7 @@
  {
   "id": "c8:1c830",
   "jp": "ふふぅ、最近リサイタルが多くて、\nこれでは身がもちませんわ。",
-  "en": "Hoo, I've had so many recitals lately, I can't\nkeep this up.",
+  "en": "Hoo, I've had so many recitals\nlately, I can't keep this up.",
   "status": "done",
   "slots": [
    "0xdf99"
@@ -8260,7 +8260,7 @@
  {
   "id": "c8:1c8d4",
   "jp": "近くで食べようと思っていました\nのに……。",
-  "en": "And here I'd meant to eat it right next to\nhim...",
+  "en": "And here I'd meant to\neat it right next to him...",
   "status": "done",
   "slots": [
    "0xe062"
@@ -8280,7 +8280,7 @@
  {
   "id": "c8:1c94b",
   "jp": "まぁ、忘れ物というなら、\nありがたくいただきますわ。",
-  "en": "Well, if someone left it behind, I'll gratefully\naccept it.",
+  "en": "Well, if someone left it behind,\nI'll gratefully accept it.",
   "status": "done",
   "slots": [
    "0xe0e7"
@@ -8290,7 +8290,7 @@
  {
   "id": "c8:1c97f",
   "jp": "金とドゼウ。ミスマッチですが、\nそれが逆に素晴らしいハーモニーを\n奏でていますね。",
-  "en": "Gold and loach. A mismatch, and yet that is\nexactly what makes them play such a\nsplendid harmony.",
+  "en": "Gold and loach. A mismatch,\nand yet that is exactly what makes\nthem play such a splendid harmony.",
   "status": "done",
   "slots": [
    "0xe12b"
@@ -8300,7 +8300,7 @@
  {
   "id": "c8:1c9d0",
   "jp": "この音楽性が出せない私は、\nまだまだ未熟ということですわね。",
-  "en": "That I cannot bring out such musicality\nmeans I still have far to go.",
+  "en": "That I cannot bring out such\nmusicality means I still have far to go.",
   "status": "done",
   "slots": [
    "0xe173"
@@ -8310,7 +8310,7 @@
  {
   "id": "c8:1ca0c",
   "jp": "こ、これもまた、音楽性の幅を\n広げるための試練ですわ……！",
-  "en": "Th-This too is a trial to broaden my musical\nrange...!",
+  "en": "Th-This too is a trial to\nbroaden my musical range...!",
   "status": "done",
   "slots": [
    "0xe1b7"
@@ -8360,7 +8360,7 @@
  {
   "id": "c8:1cacd",
   "jp": "甘酸っぱい味。\nまさに、キスの味ですわ！",
-  "en": "A sweet and sour taste. Truly, the taste of\na kiss!",
+  "en": "A sweet and sour taste.\nTruly, the taste of a kiss!",
   "status": "done",
   "slots": [
    "0xe317"
@@ -8370,7 +8370,7 @@
  {
   "id": "c8:1caf5",
   "jp": "美しいものにはトゲと毒が\nあるものですわ！",
-  "en": "Beautiful things always have thorns and\npoison!",
+  "en": "Beautiful things always\nhave thorns and poison!",
   "status": "done",
   "slots": [
    "0xe35b"
@@ -8390,7 +8390,7 @@
  {
   "id": "c8:1cb40",
   "jp": "あまり脂ぎったお肉ばかりは\n食べたくありませんが……",
-  "en": "I'd rather not eat nothing but greasy meat,\nbut...",
+  "en": "I'd rather not eat nothing\nbut greasy meat, but...",
   "status": "done",
   "slots": [
    "0xe3e7"
@@ -8410,7 +8410,7 @@
  {
   "id": "c8:1cb91",
   "jp": "詩人なのであまり刺激物は\n食べたくないのですが……。",
-  "en": "As a poet, I'd rather not eat anything too\nspicy, but...",
+  "en": "As a poet, I'd rather not eat\nanything too spicy, but...",
   "status": "done",
   "slots": [
    "0xe473"
@@ -8420,7 +8420,7 @@
  {
   "id": "c8:1cbc5",
   "jp": "これはそれを差し引いても\n食べたくなってしまいますわね。",
-  "en": "Even so, this makes me want to eat it\nanyway.",
+  "en": "Even so, this makes me\nwant to eat it anyway.",
   "status": "done",
   "slots": [
    "0xe4bb"
@@ -8430,7 +8430,7 @@
  {
   "id": "c8:1cbfd",
   "jp": "いい女は、いい食材を食べてさらに\n美しくなるんですわ。",
-  "en": "A fine woman eats fine ingredients and\nbecomes more beautiful still.",
+  "en": "A fine woman eats fine ingredients\nand becomes more beautiful still.",
   "status": "done",
   "slots": [
    "0xe4ff"
@@ -8460,7 +8460,7 @@
  {
   "id": "c8:1cc7c",
   "jp": "聞こえる……聞こえるぜ！\n筋肉が育つ音がよぉぉ！！",
-  "en": "I hear it... I hear it, ya! The sound of my\nmuscles growin'!!",
+  "en": "I hear it... I hear it, ya!\nThe sound of my muscles growin'!!",
   "status": "done",
   "slots": [
    "0xe5d3"
@@ -8470,7 +8470,7 @@
  {
   "id": "c8:1ccae",
   "jp": "コイツを飲んで、俺の体を\n中から最強にしていくぜ！",
-  "en": "I'm gonna drink this and make my body the\nstrongest from the inside out!",
+  "en": "I'm gonna drink this and make my body\nthe strongest from the inside out!",
   "status": "done",
   "slots": [
    "0xe617"
@@ -8480,7 +8480,7 @@
  {
   "id": "c8:1cce0",
   "jp": "プハァ、うめぇ！\nこれで俺の骨は鋼鉄よりも\n硬くなった！",
-  "en": "Bwah, that's good! Now my bones are harder\nthan steel!",
+  "en": "Bwah, that's good! Now my\nbones are harder than steel!",
   "status": "done",
   "slots": [
    "0xe65f"
@@ -8510,7 +8510,7 @@
  {
   "id": "c8:1cd58",
   "jp": "お、なかなかイケるじゃねぇか！\n肉に巻いたら最高だろうな……\nよし！　今度は肉と一緒にくれ！",
-  "en": "Oh, this ain't half bad! Wrapped around\nmeat it'd be the best... All right! Next time,\ngimme it with meat!",
+  "en": "Oh, this ain't half bad! Wrapped around\nmeat it'd be the best... All right!\nNext time, gimme it with meat!",
   "status": "done",
   "slots": [
    "0xe6f2"
@@ -8520,7 +8520,7 @@
  {
   "id": "c8:1cdb3",
   "jp": "ウゲ、これかよぉ。\n魔界の味なんて、口に合わねぇよ！",
-  "en": "Ugh, this thing? Demon-world flavour ain't\nto my taste!",
+  "en": "Ugh, this thing? Demon-world\nflavour ain't to my taste!",
   "status": "done",
   "slots": [
    "0xe736"
@@ -8570,7 +8570,7 @@
  {
   "id": "c8:1ce85",
   "jp": "うめぇ！\nかっこいいし美味い、うに！\nお前すげぇな！",
-  "en": "Tasty! Cool AND tasty, urchin! You're\namazin'!",
+  "en": "Tasty! Cool AND tasty,\nurchin! You're amazin'!",
   "status": "done",
   "slots": [
    "0xe896"
@@ -8580,7 +8580,7 @@
  {
   "id": "c8:1ceb8",
   "jp": "ば、バカヤロー！　男の俺が、\nこんなガキくさいモン食えるかよ！",
-  "en": "Y-You idiot! Like a man like me's gonna eat\nkiddie stuff like this!",
+  "en": "Y-You idiot! Like a man like me's\ngonna eat kiddie stuff like this!",
   "status": "done",
   "slots": [
    "0xe8da"
@@ -8600,7 +8600,7 @@
  {
   "id": "c8:1cf1c",
   "jp": "こういうのは、豪快に頭から食べる\nんだよおぉぉーー！",
-  "en": "With stuff like this, ya chomp it head first,\nnice and bold!",
+  "en": "With stuff like this, ya chomp\nit head first, nice and bold!",
   "status": "done",
   "slots": [
    "0xe966"
@@ -8680,7 +8680,7 @@
  {
   "id": "c8:1d023",
   "jp": "コイツはいいぞ！\n小せぇけど、それ以上に根性が\nあるからな！",
-  "en": "This one's good! It's small, but it's got even\nmore guts than that!",
+  "en": "This one's good! It's small,\nbut it's got even more guts than that!",
   "status": "done",
   "slots": [
    "0xeb7d"
@@ -8690,7 +8690,7 @@
  {
   "id": "c8:1d05e",
   "jp": "いつまでも口の中でコリコリと\n残ってやがるんだ！\n男前だろ？",
-  "en": "It sticks around crunchin' in your mouth\nforever! Manly, right?",
+  "en": "It sticks around crunchin'\nin your mouth forever! Manly, right?",
   "status": "done",
   "slots": [
    "0xebc5"
@@ -8700,7 +8700,7 @@
  {
   "id": "c8:1d099",
   "jp": "おっしゃあ！　こいつを食って\nスタミナ全開だ！",
-  "en": "All riiight! I'm gonna eat this and get my\nstamina all fired up!",
+  "en": "All riiight! I'm gonna eat this\nand get my stamina all fired up!",
   "status": "done",
   "slots": [
    "0xec09"
@@ -8730,7 +8730,7 @@
  {
   "id": "c8:1d117",
   "jp": "俺の辞書に、非常時なんて言葉は\n存在しねぇんだよ！",
-  "en": "The word \"emergency\" ain't in my\ndictionary!",
+  "en": "The word \"emergency\"\nain't in my dictionary!",
   "status": "done",
   "slots": [
    "0xeccb"
@@ -8740,7 +8740,7 @@
  {
   "id": "c8:1d149",
   "jp": "チーズかぁ、これ単体で食うと\n気持ち悪くなるんだよなぁ……。",
-  "en": "Cheese, huh... Eatin' it by itself makes me\nfeel sick...",
+  "en": "Cheese, huh... Eatin'\nit by itself makes me feel sick...",
   "status": "done",
   "slots": [
    "0xed08"
@@ -8760,7 +8760,7 @@
  {
   "id": "c8:1d190",
   "jp": "死んじまったのか……。\nしかたねぇ、せめて、俺の血肉の\n一部になりな！",
-  "en": "It went and died... Can't be helped. At least\nbecome part of my flesh and blood!",
+  "en": "It went and died... Can't be helped.\nAt least become part of my flesh and blood!",
   "status": "done",
   "slots": [
    "0xed8d"
@@ -8800,7 +8800,7 @@
  {
   "id": "c8:1d238",
   "jp": "これはなぁ、一気に喉に押し込んで\n食うのがいいんだよ！",
-  "en": "See, with these, ya shove 'em down your\nthroat in one go!",
+  "en": "See, with these, ya shove 'em\ndown your throat in one go!",
   "status": "done",
   "slots": [
    "0xee93"
@@ -8820,7 +8820,7 @@
  {
   "id": "c8:1d28f",
   "jp": "お、ラッキー！\nなんであるのかはしらねぇが、\nあるんだから貰っておくぜ！",
-  "en": "Oh, lucky! Dunno why it's here, but it's here,\nso I'm takin' it!",
+  "en": "Oh, lucky! Dunno why it's here,\nbut it's here, so I'm takin' it!",
   "status": "done",
   "slots": [
    "0xef18"
@@ -8840,7 +8840,7 @@
  {
   "id": "c8:1d302",
   "jp": "またお前か……。\n男は上がったのか？　アァン？",
-  "en": "You again... You become more of a man yet?\nHuh?",
+  "en": "You again... You become\nmore of a man yet? Huh?",
   "status": "done",
   "slots": [
    "0xef8b"
@@ -8850,7 +8850,7 @@
  {
   "id": "c8:1d330",
   "jp": "なんでぇ、変わってねぇじゃねぇか\n大したことねぇな！",
-  "en": "What, you ain't changed at all! You're nothin'\nspecial!",
+  "en": "What, you ain't changed at all!\nYou're nothin' special!",
   "status": "done",
   "slots": [
    "0xefc8"
@@ -8860,7 +8860,7 @@
  {
   "id": "c8:1d364",
   "jp": "こ、これを平気で食ってこそ\nお、男だ！",
-  "en": "E-Eatin' this like it's nothin' is what m-makes\na man!",
+  "en": "E-Eatin' this like it's nothin'\nis what m-makes a man!",
   "status": "done",
   "slots": [
    "0xf005"
@@ -8900,7 +8900,7 @@
  {
   "id": "c8:1d3e6",
   "jp": "これはなぁ！\nこうやって力の限り握りつぶして\nジュースにして飲むんだよ！",
-  "en": "Here's how ya do it! Squeeze it with all your\nmight, crush it into juice and drink it!",
+  "en": "Here's how ya do it! Squeeze it with all\nyour might, crush it into juice and drink it!",
   "status": "done",
   "slots": [
    "0xf11d"
@@ -8920,7 +8920,7 @@
  {
   "id": "c8:1d440",
   "jp": "発芽してる？　関係ねぇ！\n俺が毒に負けるかぁぁぁぁ！！",
-  "en": "It sprouted? Who cares! Like I'd lose to\npoison!!",
+  "en": "It sprouted? Who cares!\nLike I'd lose to poison!!",
   "status": "done",
   "slots": [
    "0xf1a9"
@@ -8950,7 +8950,7 @@
  {
   "id": "c8:1d4c6",
   "jp": "ガツガツガツガツガツガツ！！\nモグモグモグモグモグ、ゴックン！\nおかわり！",
-  "en": "Chomp chomp chomp chomp chomp chomp!!\nMunch munch munch munch munch, gulp!\nSeconds!",
+  "en": "Chomp chomp chomp chomp\nchomp chomp!! Munch munch munch\nmunch munch, gulp! Seconds!",
   "status": "done",
   "slots": [
    "0xf27d"
@@ -8960,7 +8960,7 @@
  {
   "id": "c8:1d50f",
   "jp": "キタキタキターーー！！\n男の食物カレー！\n早速いただくぜ！",
-  "en": "Here it comes, here it comes, here it\ncomeees!! Curry, the food of men! I'm diggin'\nin!",
+  "en": "Here it comes, here it comes,\nhere it comeees!! Curry,\nthe food of men! I'm diggin' in!",
   "status": "done",
   "slots": [
    "0xf2c1"
@@ -8970,7 +8970,7 @@
  {
   "id": "c8:1d548",
   "jp": "辛さが足りねぇ！\nもっと、もっと辛くしろぉぉぉ！！",
-  "en": "It ain't hot enough! Hotter, make it\nhotterrr!!",
+  "en": "It ain't hot enough!\nHotter, make it hotterrr!!",
   "status": "done",
   "slots": [
    "0xf309"
@@ -8980,7 +8980,7 @@
  {
   "id": "c8:1d57a",
   "jp": "ヘッヘ、たけぇ食材を食って\n男を磨くぜ！",
-  "en": "Heh, I'm gonna eat a pricey ingredient and\npolish my manliness!",
+  "en": "Heh, I'm gonna eat a pricey\ningredient and polish my manliness!",
   "status": "done",
   "slots": [
    "0xf34d"
@@ -9000,7 +9000,7 @@
  {
   "id": "c8:1d5b1",
   "jp": "俺も……ここまでか……。\nあばよみんな……。",
-  "en": "So this is... the end for me too... So long,\neveryone...",
+  "en": "So this is... the end for me too...\nSo long, everyone...",
   "status": "done",
   "slots": [
    "0x12da7"
@@ -9025,7 +9025,7 @@
  {
   "id": "c8:1d5fd",
   "jp": "アイテムのお陰、か？\nうわぁ～なんか恥ずかしいなぁ～。",
-  "en": "Was it thanks to the item? Uwaah~, this is\nkinda embarrassing~.",
+  "en": "Was it thanks to the item? Uwaah~,\nthis is kinda embarrassing~.",
   "status": "done",
   "slots": [
    "0xf446",
@@ -9070,7 +9070,7 @@
  {
   "id": "c8:1d6be",
   "jp": "兄貴……どうやらボクは、ここまで\n……の、ようですね……。",
-  "en": "Boss... it seems I've reached... the end of\nthe line...",
+  "en": "Boss... it seems I've reached...\nthe end of the line...",
   "status": "done",
   "slots": [
    "0x12df8"
@@ -9095,7 +9095,7 @@
  {
   "id": "c8:1d728",
   "jp": "このアイテムのお陰ですか。\nふぅ～、危なかったですねぇ。",
-  "en": "Is it thanks to this item? Phew, that was a\nclose one.",
+  "en": "Is it thanks to this item?\nPhew, that was a close one.",
   "status": "done",
   "slots": [
    "0xf777",
@@ -9130,7 +9130,7 @@
  {
   "id": "c8:1d7af",
   "jp": "まぁ、あれだけ激しく戦っていれば\nそりゃ割れますよね。",
-  "en": "Well, fighting as hard as we were, of course\nit'd break.",
+  "en": "Well, fighting as hard as we were,\nof course it'd break.",
   "status": "done",
   "slots": [
    "0xf825"
@@ -9180,7 +9180,7 @@
  {
   "id": "c8:1d828",
   "jp": "これでも回復するけど、やっぱり\n私は遺跡の欠片が食べたいなぁ～。",
-  "en": "This heals me too, but I'd still rather eat a\nruin shard~.",
+  "en": "This heals me too, but I'd\nstill rather eat a ruin shard~.",
   "status": "done",
   "slots": [
    "0xfa27"
@@ -9240,7 +9240,7 @@
  {
   "id": "c8:1d8fe",
   "jp": "ん～リフレッシュ！\n疲れた体にはコレよね！",
-  "en": "Mmm, refreshing! This is just the thing for a\ntired body!",
+  "en": "Mmm, refreshing! This is just\nthe thing for a tired body!",
   "status": "done",
   "slots": [
    "0x10076"
@@ -9250,7 +9250,7 @@
  {
   "id": "c8:1d928",
   "jp": "あぁー！　ビンが割れてる！\nこれじゃ使い物にならないわ……。",
-  "en": "Aaah! The bottle's broken! It's useless like\nthis...",
+  "en": "Aaah! The bottle's broken!\nIt's useless like this...",
   "status": "done",
   "slots": [
    "0x1018f"
@@ -9285,7 +9285,7 @@
  {
   "id": "c8:1d9b3",
   "jp": "備えあれば憂いなし！\n俺は簡単には死なねぇのよ！",
-  "en": "Be prepared and you've nothin' to fear! I\ndon't die that easy!",
+  "en": "Be prepared and you've nothin'\nto fear! I don't die that easy!",
   "status": "done",
   "slots": [
    "0xfdc6",
@@ -9300,7 +9300,7 @@
  {
   "id": "c8:1d9e3",
   "jp": "回復はしたが……こいつぁ\n酒とは合わねぇな。",
-  "en": "It healed me, but... this stuff don't go with\nbooze.",
+  "en": "It healed me, but...\nthis stuff don't go with booze.",
   "status": "done",
   "slots": [
    "0xfd54"
@@ -9320,7 +9320,7 @@
  {
   "id": "c8:1da39",
   "jp": "誰だ、ガラスのビンなんてモンを\nフトコロに入れた奴ぁ！\nって、俺か。",
-  "en": "Who put a glass bottle in my shirt!? ...Oh, it\nwas me.",
+  "en": "Who put a glass bottle in\nmy shirt!? ...Oh, it was me.",
   "status": "done",
   "slots": [
    "0xfe74"
@@ -9340,7 +9340,7 @@
  {
   "id": "c8:1da97",
   "jp": "……ん？　なんとも無いな。\nアイテムのお陰か。\n助かった……。",
-  "en": "...Hm? I'm unharmed. Thanks to the item, I\nsuppose. Saved...",
+  "en": "...Hm? I'm unharmed. Thanks to\nthe item, I suppose. Saved...",
   "status": "done",
   "slots": [
    "0x103fc",
@@ -9355,7 +9355,7 @@
  {
   "id": "c8:1dad4",
   "jp": "食べるだけでこの効果とは。\nどんな成分が含まれているの\nだろうか……。",
-  "en": "Such an effect from simply eating it. I\nwonder what ingredients it contains...",
+  "en": "Such an effect from simply eating it.\nI wonder what ingredients it contains...",
   "status": "done",
   "slots": [
    "0x10391"
@@ -9365,7 +9365,7 @@
  {
   "id": "c8:1db19",
   "jp": "しまった！\nビンを割ってしまったぞ……。\nどう謝ったらいいだろうか……。",
-  "en": "Blast! I've broken the bottle... How ever\nshall I apologise...",
+  "en": "Blast! I've broken the bottle...\nHow ever shall I apologise...",
   "status": "done",
   "slots": [
    "0x1049c"
@@ -9390,7 +9390,7 @@
  {
   "id": "c8:1db7a",
   "jp": "ヘイヘーイ、ロコモコちゃんは\nそう簡単に倒れたりなんてしないん\nだぜぇー！",
-  "en": "Hey hey, Locomoco-chan doesn't go down\nthat easy, ya know!",
+  "en": "Hey hey, Locomoco-chan doesn't\ngo down that easy, ya know!",
   "status": "done",
   "slots": [
    "0x106f4",
@@ -9415,7 +9415,7 @@
  {
   "id": "c8:1dbdc",
   "jp": "いったぁ～い！！\nグス……ビン、割っちゃった。\nごめんなさい～！",
-  "en": "Owwwie!! *sniff*... Locomoco broke the\nbottle. I'm sorryyy!",
+  "en": "Owwwie!! *sniff*... Locomoco\nbroke the bottle. I'm sorryyy!",
   "status": "done",
   "slots": [
    "0x1079b"
@@ -9440,7 +9440,7 @@
  {
   "id": "c8:1dc47",
   "jp": "課長の折檻の方が\n百倍怖いっすからね。\nいやホントに……。",
-  "en": "My section chief's punishment is a hundred\ntimes scarier, sir. No, really...",
+  "en": "My section chief's punishment is a\nhundred times scarier, sir. No, really...",
   "status": "done",
   "slots": [
    "0x10a0f",
@@ -9455,7 +9455,7 @@
  {
   "id": "c8:1dc80",
   "jp": "日頃のストレスもこれで\nスッキリっす～。",
-  "en": "All my everyday stress is gone with this,\nsir~.",
+  "en": "All my everyday stress\nis gone with this, sir~.",
   "status": "done",
   "slots": [
    "0x1099d"
@@ -9465,7 +9465,7 @@
  {
   "id": "c8:1dca8",
   "jp": "あちゃ～。ビン割っちゃったっす。\n怒られますかねぇ。",
-  "en": "Whoops~. I broke the bottle, sir. Am I gonna\nget yelled at?",
+  "en": "Whoops~. I broke the bottle,\nsir. Am I gonna get yelled at?",
   "status": "done",
   "slots": [
    "0x10ab6"
@@ -9515,7 +9515,7 @@
  {
   "id": "c8:1dd29",
   "jp": "これが癒しのハーブの効果か。\n助かったな。",
-  "en": "So this is the effect of the Healing Herb.\nThat saved me.",
+  "en": "So this is the effect of the\nHealing Herb. That saved me.",
   "status": "done",
   "slots": [
    "0x1107b"
@@ -9525,7 +9525,7 @@
  {
   "id": "c8:1dd53",
   "jp": "何故私はガラスのビンなんてモノを\n持っていたんだろう……。\n割れるのは当たり前じゃないか。",
-  "en": "Why was I carrying something like a glass\nbottle... Of course it would break.",
+  "en": "Why was I carrying something like a\nglass bottle... Of course it would break.",
   "status": "done",
   "slots": [
    "0x11194"
@@ -9535,7 +9535,7 @@
  {
   "id": "c8:1ddac",
   "jp": "あら？　なんともないですね？\n確かに致死量の怪我をしたはず\nですが……。",
-  "en": "Oh? I'm perfectly fine? I'm sure I took a\nfatal wound, but...",
+  "en": "Oh? I'm perfectly fine?\nI'm sure I took a fatal wound, but...",
   "status": "done",
   "slots": [
    "0x11a3e",
@@ -9575,7 +9575,7 @@
  {
   "id": "c8:1de3a",
   "jp": "センチュリオバスターの反動で\nビンが割れてしまいました。\nどうしましょう……？",
-  "en": "The Centurio Buster's recoil broke the\nbottle. What shall I do...?",
+  "en": "The Centurio Buster's recoil broke\nthe bottle. What shall I do...?",
   "status": "done",
   "slots": [
    "0x11aec"
@@ -9675,7 +9675,7 @@
  {
   "id": "c8:1df67",
   "jp": "これで体力回復よん。\nお宝目指してレッツゴー！",
-  "en": "That's my strength back, dear. Off we go\nafter the treasure!",
+  "en": "That's my strength back, dear.\nOff we go after the treasure!",
   "status": "done",
   "slots": [
    "0x11396"
@@ -9685,7 +9685,7 @@
  {
   "id": "c8:1df95",
   "jp": "いたっ！　もう！\nアタシの体に傷がついたら\nどうするの！？",
-  "en": "Ouch! Honestly! What if my body gets a\nscar!?",
+  "en": "Ouch! Honestly!\nWhat if my body gets a scar!?",
   "status": "done",
   "slots": [
    "0x114af"
@@ -9745,7 +9745,7 @@
  {
   "id": "c8:1e056",
   "jp": "ぬぅ！　ガラスのビンを\n割ってしまった……！\nし、師匠に怒られる……！",
-  "en": "Nuuh! I broke the glass bottle...! M-Master's\ngoing to scold me...!",
+  "en": "Nuuh! I broke the glass bottle...!\nM-Master's going to scold me...!",
   "status": "done",
   "slots": [
    "0x117d1"
@@ -9795,7 +9795,7 @@
  {
   "id": "c8:1e0e1",
   "jp": "ちょっと！　なんで死なないの！\nこれじゃ私がアホみたいじゃない！",
-  "en": "Hey! Why aren't I dying! Now I look like a\ntotal idiot!",
+  "en": "Hey! Why aren't I dying!\nNow I look like a total idiot!",
   "status": "done",
   "slots": [
    "0x11d79",
@@ -9810,7 +9810,7 @@
  {
   "id": "c8:1e121",
   "jp": "ちょーしいいんだわさ！\nドンドンいっちゃうわよぉ！",
-  "en": "I'm on a roll, dontcha know! Let's keep it\ngoing!",
+  "en": "I'm on a roll, dontcha know!\nLet's keep it going!",
   "status": "done",
   "slots": [
    "0x11cee"
@@ -9820,7 +9820,7 @@
  {
   "id": "c8:1e153",
   "jp": "あいたー！\nガラスのビンが刺さって\n痛いんだわさー！",
-  "en": "Owww! The glass bottle stuck me and it\nhurts, dontcha know!",
+  "en": "Owww! The glass bottle stuck\nme and it hurts, dontcha know!",
   "status": "done",
   "slots": [
    "0x11e47"
@@ -9840,7 +9840,7 @@
  {
   "id": "c8:1e1a7",
   "jp": "と、思っていましたが、どうやら\n無事のようですね。\nアイテムの効果でしょうか？",
-  "en": "Or so I thought, but it seems I'm unharmed.\nIs it the item's effect?",
+  "en": "Or so I thought, but it seems I'm\nunharmed. Is it the item's effect?",
   "status": "done",
   "slots": [
    "0x12134",
@@ -9885,7 +9885,7 @@
  {
   "id": "c8:1e26d",
   "jp": "って、死なねぇよ！\n男ってのはなぁ、死なねぇ生き物\nなんだよぉ！",
-  "en": "Like hell I'm dyin'! A man's a creature that\ndon't die, ya hear!",
+  "en": "Like hell I'm dyin'! A man's a\ncreature that don't die, ya hear!",
   "status": "done",
   "slots": [
    "0x12425",
@@ -9900,7 +9900,7 @@
  {
   "id": "c8:1e2ac",
   "jp": "ウララララアアアァ！！\nもうひと暴れだぜぇ！",
-  "en": "Urararararaaah!! Time to go wild one more\ntime!",
+  "en": "Urararararaaah!!\nTime to go wild one more time!",
   "status": "done",
   "slots": [
    "0x123ba"

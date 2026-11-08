@@ -13,7 +13,7 @@
  {
   "id": "s2044:0003b",
   "jp": "まずいですねぇ、このままじゃ\nクリスタルを探せませんよ。",
-  "en": "This is bad. At this rate we can't search for\nthe Crystal.",
+  "en": "This is bad. At this rate we\ncan't search for the Crystal.",
   "status": "done",
   "slots": [
    "0x198c"
@@ -46,7 +46,7 @@
  {
   "id": "s2044:000ed",
   "jp": "んで、その中心にある町の中には、\n古代ユーフォリアの遺産が\n大量に保管されてるんだと。",
-  "en": "And the town at its center is said to store a\nwhole lotta relics of ancient Euforia.",
+  "en": "And the town at its center is said to store\na whole lotta relics of ancient Euforia.",
   "status": "done",
   "slots": [
    "0x19ce"
@@ -57,7 +57,7 @@
  {
   "id": "s2044:00146",
   "jp": "古代ユーフォリアの遺産！？\nもしかしたら、シンフォニアが\n見つかるかも！",
-  "en": "Relics of ancient Euforia!? Maybe we can find\nSymphonia!",
+  "en": "Relics of ancient Euforia!?\nMaybe we can find Symphonia!",
   "status": "done",
   "slots": [
    "0x1a28"
@@ -101,7 +101,7 @@
  {
   "id": "s2044:001f7",
   "jp": "ほんのちょっぴりの罪悪感と\nルルゥの笑顔とクリスタル。\nどっちを選ぶ気だ？",
-  "en": "A teeny bit of guilt, or Ruru's smile and a\nCrystal. Which are you gonna pick?",
+  "en": "A teeny bit of guilt, or Ruru's smile and\na Crystal. Which are you gonna pick?",
   "status": "done",
   "slots": [
    "0x1aa5"
@@ -145,7 +145,7 @@
  {
   "id": "s2044:002a8",
   "jp": "……ん？　ちょっと待って！？\n町が、町が襲われているわ！",
-  "en": "...Hm? Wait a minute!? The town... the town\nis under attack!",
+  "en": "...Hm? Wait a minute!? The town...\nthe town is under attack!",
   "status": "done",
   "slots": [
    "0x1b29"
@@ -156,7 +156,7 @@
  {
   "id": "s2044:002e4",
   "jp": "オラ！　早くこの島にある宝物庫の\n場所を教えやがれ！！",
-  "en": "Hey! Tell us where the treasury on this\nisland is, now!!",
+  "en": "Hey! Tell us where the\ntreasury on this island is, now!!",
   "status": "done",
   "slots": [
    "0x1cea"
@@ -211,7 +211,7 @@
  {
   "id": "s2044:003de",
   "jp": "遺跡の欠片をとれば住人の被害が\n多く出るか……。先よりもよほど\n大きな選択となってしまったな。",
-  "en": "And if we take the ruin shards, many of the\ntownsfolk will be hurt... This has become a\nfar bigger choice than before.",
+  "en": "And if we take the ruin shards,\nmany of the townsfolk will be hurt... This\nhas become a far bigger choice than before.",
   "status": "done",
   "slots": [
    "0x1d83"
@@ -233,7 +233,7 @@
  {
   "id": "s2044:00460",
   "jp": "テメェら、グロリア海賊団……！？\nへへっ、いい所であったなぁ。",
-  "en": "You lot, the Gloria Pirates...!? Heheh, fancy\nmeetin' you here.",
+  "en": "You lot, the Gloria Pirates...!?\nHeheh, fancy meetin' you here.",
   "status": "done",
   "slots": [
    "0x39cc"
@@ -266,7 +266,7 @@
  {
   "id": "s2044:004ec",
   "jp": "さぁらっしゃいらっしゃい！\nかの伝説の古代遺跡から\n発掘した品もあるよー！",
-  "en": "Step right up, step right up! We've even got\ngoods dug up from the legendary ancient\nruins!",
+  "en": "Step right up, step right up!\nWe've even got goods dug up\nfrom the legendary ancient ruins!",
   "status": "done",
   "slots": [
    "0x1f05",
@@ -290,7 +290,7 @@
  {
   "id": "s2044:0057e",
   "jp": "なんだよ、貧乏人かよ。\nテメェみてぇなモンはこの薄汚ねぇ\nネックレスでもつけてろ！",
-  "en": "What, you're broke? Folks like you can go\nwear this grubby necklace!",
+  "en": "What, you're broke? Folks like you\ncan go wear this grubby necklace!",
   "status": "done",
   "slots": [
    "0x1f13",
@@ -302,7 +302,7 @@
  {
   "id": "s2044:005cf",
   "jp": "金はいらねぇよ。さっさと\nソレ持ってどっかへ行きやがれ！",
-  "en": "I don't want your money. Just take it and\nget lost!",
+  "en": "I don't want your money.\nJust take it and get lost!",
   "status": "done",
   "slots": [
    "0x1f82",
@@ -341,7 +341,7 @@
  {
   "id": "s2044:00669",
   "jp": "我輩は“海の平和を守る会”！\n貴殿の瞳に海の平和を見た！\nよってこれを託す！",
-  "en": "I am of the \"Society to Protect the Peace of\nthe Seas\"! I saw the peace of the seas in\nyour eyes! I therefore entrust this to you!",
+  "en": "I am of the \"Society to Protect the Peace\nof the Seas\"! I saw the peace of the seas in\nyour eyes! I therefore entrust this to you!",
   "status": "done",
   "slots": [
    "0x20b0",
@@ -371,7 +371,7 @@
  {
   "id": "s2044:006c7",
   "jp": "私はあくまで提供者だ！\nあんな怖い奴らとなど、\n戦えるわけがあるまい！",
-  "en": "I am merely a provider! As if I could fight\nthose scary people!",
+  "en": "I am merely a provider!\nAs if I could fight those scary people!",
   "status": "done",
   "slots": [
    "0x2152",
@@ -395,7 +395,7 @@
  {
   "id": "s2044:00721",
   "jp": "この都市は、古代ユーフォリア時代\nからあると言われている都市での。\n名残も多く残っておるんじゃ。",
-  "en": "They say this city has been here since the\nage of ancient Euforia. Many traces of it\nremain.",
+  "en": "They say this city has been here\nsince the age of ancient Euforia.\nMany traces of it remain.",
   "status": "done",
   "slots": [
    "0x21ec",
@@ -407,7 +407,7 @@
  {
   "id": "s2044:00780",
   "jp": "じゃから、古代ユーフォリアに\n関する資料がタップリと\nあるんじゃよ。",
-  "en": "That's why there are plenty of records\nabout ancient Euforia here.",
+  "en": "That's why there are plenty of\nrecords about ancient Euforia here.",
   "status": "done",
   "slots": [
    "0x21f3",
@@ -419,7 +419,7 @@
  {
   "id": "s2044:007c3",
   "jp": "もし、またここに来るようなことが\nあったら、話を聞かせてあげよう。",
-  "en": "If you ever come here again, I'll tell you a\nstory.",
+  "en": "If you ever come here again,\nI'll tell you a story.",
   "status": "done",
   "slots": [
    "0x21fa",
@@ -431,7 +431,7 @@
  {
   "id": "s2044:00805",
   "jp": "おぉ、来てくれたのか。\nでは早速、話すとしようかのぉ。",
-  "en": "Oh, you came. Well then, let's get right to\nthe story.",
+  "en": "Oh, you came. Well then,\nlet's get right to the story.",
   "status": "done",
   "slots": [
    "0x221e",
@@ -455,7 +455,7 @@
  {
   "id": "s2044:0089e",
   "jp": "その優雅に海を泳ぐ姿は\n古代ユーフォリアの象徴とされて\nおっての、壁画にも残されておる。",
-  "en": "The sight of it swimming gracefully through\nthe sea was a symbol of ancient Euforia, and\nit is preserved in murals too.",
+  "en": "The sight of it swimming gracefully through\nthe sea was a symbol of ancient Euforia,\nand it is preserved in murals too.",
   "status": "done",
   "slots": [
    "0x222c",
@@ -467,7 +467,7 @@
  {
   "id": "s2044:008f5",
   "jp": "今度遺跡に立ち寄った時は、\nよぉく壁画を見るとよいぞ。",
-  "en": "The next time you stop by some ruins, take a\ngood look at the murals.",
+  "en": "The next time you stop by some ruins,\ntake a good look at the murals.",
   "status": "done",
   "slots": [
    "0x2233",
@@ -479,7 +479,7 @@
  {
   "id": "s2044:0092b",
   "jp": "これ以上黒い牙の好きにさせるな！",
-  "en": "Don't let the Black Fang do as they please\nany longer!",
+  "en": "Don't let the Black Fang do\nas they please any longer!",
   "status": "done",
   "slots": [
    "0x22dc",
@@ -503,7 +503,7 @@
  {
   "id": "s2044:00953",
   "jp": "我々でこの島の平和を守るんだ！",
-  "en": "We'll protect the peace of this island\nourselves!",
+  "en": "We'll protect the peace\nof this island ourselves!",
   "status": "done",
   "slots": [
    "0x2300",
@@ -527,7 +527,7 @@
  {
   "id": "s2044:00979",
   "jp": "この本をよく読んでおけ！\n戦い方が書いてあるぞ！\n……では、しゅっぱーつ！",
-  "en": "Read this book well! It tells you how to\nfight! ...Now, move out!",
+  "en": "Read this book well! It tells you\nhow to fight! ...Now, move out!",
   "status": "done",
   "slots": [
    "0x238a",
@@ -539,7 +539,7 @@
  {
   "id": "s2044:009c2",
   "jp": "あれ？　これ、戦い方じゃなくて\n各地の地勢や風土が書いてあるぞ？\n……大丈夫かなぁ……。",
-  "en": "Huh? This doesn't say how to fight, it's\nabout the land and climate of different\nregions... Will we be okay...?",
+  "en": "Huh? This doesn't say how to fight,\nit's about the land and climate of\ndifferent regions... Will we be okay...?",
   "status": "done",
   "slots": [
    "0x23a2",
@@ -551,7 +551,7 @@
  {
   "id": "s2044:00a19",
   "jp": "アナタ、大丈夫ですか？\n怪我をなさっていますよ？\n……少し、お待ちになってください",
-  "en": "Are you all right? You're hurt... Please wait\njust a moment.",
+  "en": "Are you all right? You're hurt...\nPlease wait just a moment.",
   "status": "done",
   "slots": [
    "0x2464",
@@ -563,7 +563,7 @@
  {
   "id": "s2044:00a6a",
   "jp": "……ハイ、これで大丈夫ですよ。\n傷口をハンカチで縛った程度ですが\n応急処置ぐらいには……。",
-  "en": "...There, this should do. I only tied the\nwound with a handkerchief, but it should\nwork as first aid...",
+  "en": "...There, this should do. I only tied\nthe wound with a handkerchief,\nbut it should work as first aid...",
   "status": "done",
   "slots": [
    "0x24d3",
@@ -575,7 +575,7 @@
  {
   "id": "s2044:00ac3",
   "jp": "ハンカチですか？　差し上げます。\nハンカチよりも、アナタの怪我が\n治るほうが大事ですから。",
-  "en": "The handkerchief? Please keep it. Your\nwound healing matters more than a\nhandkerchief.",
+  "en": "The handkerchief? Please keep it.\nYour wound healing matters\nmore than a handkerchief.",
   "status": "done",
   "slots": [
    "0x24da",
@@ -623,7 +623,7 @@
  {
   "id": "s2044:00b7a",
   "jp": "そこは教会都市リイノっていって、\n熱狂的な信者がわんさかいる都市\nなんだわ。",
-  "en": "That's the Church City of Riino. It's crawlin'\nwith fanatical believers.",
+  "en": "That's the Church City of Riino.\nIt's crawlin' with fanatical believers.",
   "status": "done",
   "slots": [
    "0x2523",
@@ -671,7 +671,7 @@
  {
   "id": "s2044:00c85",
   "jp": "うーん、いい物っぽいんだけど。\n期待してた以上ではなかったな。",
-  "en": "Hmm, seems like a good find. Not as great as\nI'd hoped, though.",
+  "en": "Hmm, seems like a good find.\nNot as great as I'd hoped, though.",
   "status": "done",
   "slots": [
    "0x2631",
@@ -695,7 +695,7 @@
  {
   "id": "s2044:00ce4",
   "jp": "おぉ。これは、バッジでしょうか？\n純銀製ならばそれなりの価値がある\nはずなんですが……。",
-  "en": "Ooh. Is this a badge? If it's pure silver, it\nshould be worth a fair bit...",
+  "en": "Ooh. Is this a badge? If it's pure silver,\nit should be worth a fair bit...",
   "status": "done",
   "slots": [
    "0x26c8",
@@ -719,7 +719,7 @@
  {
   "id": "s2044:00d52",
   "jp": "これが光ったのかぁ。\n特別大きなウィルも感じないし、\nなんだろう、コレ。",
-  "en": "So this is what was shining. I don't sense any\nspecial Will in it, though... What is this?",
+  "en": "So this is what was shining. I don't sense\nany special Will in it, though... What is this?",
   "status": "done",
   "slots": [
    "0x275f",
@@ -743,7 +743,7 @@
  {
   "id": "s2044:00db4",
   "jp": "なぁんだ。シルバーバッジかぁ。\nせめてゴールドバッジぐらいは\n欲しかったわねぇ。",
-  "en": "Oh, it's just a Silver Badge. I'd have wanted\nat least a gold one.",
+  "en": "Oh, it's just a Silver Badge.\nI'd have wanted at least a gold one.",
   "status": "done",
   "slots": [
    "0x27f6",
@@ -767,7 +767,7 @@
  {
   "id": "s2044:00e20",
   "jp": "ケッ、シルバーバッジかよ。\n驚かせやがって。",
-  "en": "Tch, a Silver Badge? Don't scare me like\nthat.",
+  "en": "Tch, a Silver Badge?\nDon't scare me like that.",
   "status": "done",
   "slots": [
    "0x288d",
@@ -791,7 +791,7 @@
  {
   "id": "s2044:00e65",
   "jp": "シルバーバッジ……\n確か、下級貴族の嗜好品だったな。\nなぜこんな所に……。",
-  "en": "A Silver Badge... If I recall, a luxury favored\nby the lesser nobility. Why would it be\nhere...",
+  "en": "A Silver Badge... If I recall,\na luxury favored by the lesser\nnobility. Why would it be here...",
   "status": "done",
   "slots": [
    "0x2924",
@@ -839,7 +839,7 @@
  {
   "id": "s2044:00efc",
   "jp": "バッジっすね。\nなんのバッジっすかねぇ……。",
-  "en": "It's a badge, sir. I wonder what it's a badge\nfor...",
+  "en": "It's a badge, sir.\nI wonder what it's a badge for...",
   "status": "done",
   "slots": [
    "0x2a6b",
@@ -863,7 +863,7 @@
  {
   "id": "s2044:00f3d",
   "jp": "下級貴族の嗜好品か……。\nこんな物を集めていないで、少しは\n募金でもしてはどうだと言いたいな",
-  "en": "A luxury of the lesser nobility... I'd like to\ntell them to stop collecting such things and\nmake a donation for once.",
+  "en": "A luxury of the lesser nobility...\nI'd like to tell them to stop collecting\nsuch things and make a donation for once.",
   "status": "done",
   "slots": [
    "0x2b14",
@@ -887,7 +887,7 @@
  {
   "id": "s2044:00fad",
   "jp": "俺の剣に反応してる……気になるな\n持っていくか。",
-  "en": "It's reactin' to my sword... Now I'm curious.\nGuess I'll take it.",
+  "en": "It's reactin' to my sword...\nNow I'm curious. Guess I'll take it.",
   "status": "done",
   "slots": [
    "0x2c08",
@@ -899,7 +899,7 @@
  {
   "id": "s2044:00fdd",
   "jp": "にゃ？\nなんでしょうか、この杖は。\nボクの鈴に反応してますよ？",
-  "en": "Meow? What's this staff? It's reacting to\nmy bell.",
+  "en": "Meow? What's this staff?\nIt's reacting to my bell.",
   "status": "done",
   "slots": [
    "0x2c54",
@@ -923,7 +923,7 @@
  {
   "id": "s2044:01048",
   "jp": "この杖、微弱だけど、ウィルを\n探知する機能があるみたい……。",
-  "en": "This staff seems to have a function for\nsensing Will, even if it's weak...",
+  "en": "This staff seems to have a function\nfor sensing Will, even if it's weak...",
   "status": "done",
   "slots": [
    "0x2ceb",
@@ -959,7 +959,7 @@
  {
   "id": "s2044:010cc",
   "jp": "いや、正確には銃についてる\n鉱石に反応してるのね。\n興味深いわ、貰っていきましょう。",
-  "en": "No, to be precise, it's reacting to the ore\nset in my gun. Interesting. I'll take it.",
+  "en": "No, to be precise, it's reacting to the\nore set in my gun. Interesting. I'll take it.",
   "status": "done",
   "slots": [
    "0x2dcd",
@@ -971,7 +971,7 @@
  {
   "id": "s2044:0111f",
   "jp": "ん？　おいおい、俺についてきても\n何もないぜ？",
-  "en": "Hm? Hey now, nothin' for you if you follow\nme around.",
+  "en": "Hm? Hey now, nothin'\nfor you if you follow me around.",
   "status": "done",
   "slots": [
    "0x2e19",
@@ -1007,7 +1007,7 @@
  {
   "id": "s2044:011d8",
   "jp": "なるほど、杖型のウィル探知機の\nようなものか。\nフフ、面白い物もあるものだな。",
-  "en": "I see, it's a sort of staff-shaped Will\ndetector. Heh, what interesting things\nthere are.",
+  "en": "I see, it's a sort of staff-shaped\nWill detector. Heh,\nwhat interesting things there are.",
   "status": "done",
   "slots": [
    "0x2efb",
@@ -1055,7 +1055,7 @@
  {
   "id": "s2044:012ff",
   "jp": "これは魔法の国にしかない\nはずなんすけどねぇ……。",
-  "en": "These should only exist in the Land of Magic,\nsir...",
+  "en": "These should only exist\nin the Land of Magic, sir...",
   "status": "done",
   "slots": [
    "0x3029",
@@ -1079,7 +1079,7 @@
  {
   "id": "s2044:01350",
   "jp": "ルルゥが好きそうな杖だな。\n持っていってやるとするか。",
-  "en": "Looks like a staff Ruru would like. I'll take it\nto her.",
+  "en": "Looks like a staff Ruru would like.\nI'll take it to her.",
   "status": "done",
   "slots": [
    "0x30c0",
@@ -1091,7 +1091,7 @@
  {
   "id": "s2044:01386",
   "jp": "お！　この指輪、綺麗だなぁ。\nきっと上物に違いないぜ！",
-  "en": "Oh! This ring's pretty. It's gotta be top\nquality!",
+  "en": "Oh! This ring's pretty.\nIt's gotta be top quality!",
   "status": "done",
   "slots": [
    "0x3169",
@@ -1103,7 +1103,7 @@
  {
   "id": "s2044:013bc",
   "jp": "悪いがもらうぜ。\n海賊なもんでね。",
-  "en": "Sorry, but I'm takin' it. I'm a pirate, after\nall.",
+  "en": "Sorry, but I'm takin' it.\nI'm a pirate, after all.",
   "status": "done",
   "slots": [
    "0x31bf",
@@ -1115,7 +1115,7 @@
  {
   "id": "s2044:013de",
   "jp": "おや？　何か落ちてますよ？\nこの家の人のでしょうか？",
-  "en": "Oh? Something's lying here. Does it belong\nto the people of this house?",
+  "en": "Oh? Something's lying here.\nDoes it belong to the people of this house?",
   "status": "done",
   "slots": [
    "0x3212",
@@ -1127,7 +1127,7 @@
  {
   "id": "s2044:01412",
   "jp": "中々お高そうな指輪ですけど。\nにゅふふ。ちょっと拝借しますよ。",
-  "en": "It looks like a pretty pricey ring. Nyufufu.\nI'll just borrow it for a bit.",
+  "en": "It looks like a pretty pricey ring.\nNyufufu. I'll just borrow it for a bit.",
   "status": "done",
   "slots": [
    "0x325d",
@@ -1151,7 +1151,7 @@
  {
   "id": "s2044:01465",
   "jp": "指輪だ。この宝石は……\nクリスタルじゃないね。\nでも、綺麗だなぁ。",
-  "en": "A ring. This gem is... not a Crystal. But it's\nso pretty.",
+  "en": "A ring. This gem is...\nnot a Crystal. But it's so pretty.",
   "status": "done",
   "slots": [
    "0x32f4",
@@ -1175,7 +1175,7 @@
  {
   "id": "s2044:014bd",
   "jp": "綺麗な指輪ねぇ。\nこんなものを落とすなんて、\n考えられないわ！",
-  "en": "What a pretty ring. I can't believe anyone\nwould drop something like this!",
+  "en": "What a pretty ring. I can't believe\nanyone would drop something like this!",
   "status": "done",
   "slots": [
    "0x339d",
@@ -1199,7 +1199,7 @@
  {
   "id": "s2044:01513",
   "jp": "こりゃあ相当なモンだぜ。\nコレを落とすとは、馬鹿な奴もいた\nもんだねぇ。",
-  "en": "This here's quite the piece. Some idiot went\nand dropped it, huh.",
+  "en": "This here's quite the piece.\nSome idiot went and dropped it, huh.",
   "status": "done",
   "slots": [
    "0x344d",
@@ -1223,7 +1223,7 @@
  {
   "id": "s2044:0156d",
   "jp": "この指輪、かなり高額な物だな。\n正式な鑑定に出したら、\nそれなりの値段になるだろう。",
-  "en": "This ring is quite expensive. If it were\nformally appraised, it would fetch a fine\nprice.",
+  "en": "This ring is quite expensive.\nIf it were formally appraised,\nit would fetch a fine price.",
   "status": "done",
   "slots": [
    "0x34eb",
@@ -1247,7 +1247,7 @@
  {
   "id": "s2044:015dd",
   "jp": "うわぁきれぇ！\nママがつけてた指輪と同じぐらい\n大きいよ！",
-  "en": "Wow, so pretty! It's as big as the ring\nMommy wore!",
+  "en": "Wow, so pretty! It's as big\nas the ring Mommy wore!",
   "status": "done",
   "slots": [
    "0x3594",
@@ -1271,7 +1271,7 @@
  {
   "id": "s2044:01633",
   "jp": "綺麗な指輪っすねぇ。\nこんなのつけて仕事したら、\n課長に殺されてしまうっすよ。",
-  "en": "What a pretty ring, sir. If I wore something\nlike this at work, my section chief would kill\nme.",
+  "en": "What a pretty ring, sir.\nIf I wore something like this at work,\nmy section chief would kill me.",
   "status": "done",
   "slots": [
    "0x3632",
@@ -1295,7 +1295,7 @@
  {
   "id": "s2044:01693",
   "jp": "この指輪、売れば相当の資金に\nなるな……。\nすまない、もらっておこう。",
-  "en": "If we sold this ring, it would bring in quite a\nlot of funds... Forgive me, I'll take it.",
+  "en": "If we sold this ring, it would bring in quite\na lot of funds... Forgive me, I'll take it.",
   "status": "done",
   "slots": [
    "0x36c9",
@@ -1307,7 +1307,7 @@
  {
   "id": "s2044:041c0",
   "jp": "どこまでも邪魔しやがって……！\n宝は諦めろ！　アジトに戻るぞ！",
-  "en": "Gettin' in our way at every turn...! Forget\nthe treasure! Back to the hideout!",
+  "en": "Gettin' in our way at every turn...!\nForget the treasure! Back to the hideout!",
   "status": "done",
   "slots": [
    "0x62b5"
@@ -1351,7 +1351,7 @@
  {
   "id": "s2044:04265",
   "jp": "素早い判断のおかげで、\n被害も少ないな。",
-  "en": "Thanks to the quick decision, there was\nlittle damage.",
+  "en": "Thanks to the quick decision,\nthere was little damage.",
   "status": "done",
   "slots": [
    "0x6ad2"
@@ -1373,7 +1373,7 @@
  {
   "id": "s2044:042a8",
   "jp": "うぅん、いいよ。なんとかウィルを\n感じた方向は憶えてるし、イシュト\nが優しいってことがわかったから。",
-  "en": "No, it's okay. I still remember which way I\nsensed the Will, and I found out that Ishut is\nkind.",
+  "en": "No, it's okay. I still remember\nwhich way I sensed the Will,\nand I found out that Ishut is kind.",
   "status": "done",
   "slots": [
    "0x6b19"
@@ -1384,7 +1384,7 @@
  {
   "id": "s2044:0430f",
   "jp": "ルルゥ……いぃ～子だなぁお前はぁ\nお～よぉしよし。",
-  "en": "Ruru... you're such a goooood girl. Theeere,\nthere, there.",
+  "en": "Ruru... you're such a goooood girl.\nTheeere, there, there.",
   "status": "done",
   "slots": [
    "0x6b32"
@@ -1516,7 +1516,7 @@
  {
   "id": "s2044:06e24",
   "jp": "どこまでも邪魔しやがって……！\n宝は諦めろ！　アジトに戻るぞ！",
-  "en": "Gettin' in our way at every turn...! Forget\nthe treasure! Back to the hideout!",
+  "en": "Gettin' in our way at every turn...!\nForget the treasure! Back to the hideout!",
   "status": "done",
   "slots": [
    "0x8f2d"
@@ -1571,7 +1571,7 @@
  {
   "id": "s2044:06ee8",
   "jp": "イシュト。ありがと～♪\nこれで精確な探知ができるよ！",
-  "en": "Ishut. Thank youuu! Now I can sense things\naccurately!",
+  "en": "Ishut. Thank youuu!\nNow I can sense things accurately!",
   "status": "done",
   "slots": [
    "0x972b"
@@ -1593,7 +1593,7 @@
  {
   "id": "s2044:06f45",
   "jp": "微笑ましいな。\nま、今日のところは大目に見て\nやるか。",
-  "en": "How heartwarming. Well, I'll let it slide for\ntoday.",
+  "en": "How heartwarming. Well,\nI'll let it slide for today.",
   "status": "done",
   "slots": [
    "0x9770"
@@ -1615,7 +1615,7 @@
  {
   "id": "s2044:06f8d",
   "jp": "気にいらねぇか？　ま、盗むって\nことは、マナー違反だからな。",
-  "en": "Don't like it? Well, stealin' is a breach of\nmanners, after all.",
+  "en": "Don't like it? Well, stealin'\nis a breach of manners, after all.",
   "status": "done",
   "slots": [
    "0x97cc"
@@ -1637,7 +1637,7 @@
  {
   "id": "s2044:0701c",
   "jp": "ま、俺達はクリスタルを集めるのが\n目的だからな。他人の目なんて気に\nしてらんねぇよ。",
-  "en": "Well, our goal is collectin' Crystals. Can't\nworry about what other folks think.",
+  "en": "Well, our goal is collectin' Crystals.\nCan't worry about what other folks think.",
   "status": "done",
   "slots": [
    "0x97fe"

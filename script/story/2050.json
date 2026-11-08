@@ -2,7 +2,7 @@
  {
   "id": "s2050:00028",
   "jp": "わぷ！\nず、随分と風が強いわねぇ。\n髪が乱れちゃうわ。",
-  "en": "Pwah! Th-the wind's really strong. It's\nmessing up my hair.",
+  "en": "Pwah! Th-the wind's really strong.\nIt's messing up my hair.",
   "status": "done",
   "slots": [
    "0x1911"
@@ -13,7 +13,7 @@
  {
   "id": "s2050:00061",
   "jp": "この先は“風神の道”だからね。\nもしかしたらもっと強くなるかも。",
-  "en": "Up ahead is \"Wind God's Road\", after all. It\nmight get even stronger.",
+  "en": "Up ahead is \"Wind God's Road\",\nafter all. It might get even stronger.",
   "status": "done",
   "slots": [
    "0x1926"
@@ -35,7 +35,7 @@
  {
   "id": "s2050:000c6",
   "jp": "オイオイ、今更身だしなみで\n女の子アピールしても遅いぞ。",
-  "en": "Hey now, it's a bit late to play the girl card\nby worryin' about your looks.",
+  "en": "Hey now, it's a bit late to play the\ngirl card by worryin' about your looks.",
   "status": "done",
   "slots": [
    "0x194d"
@@ -68,7 +68,7 @@
  {
   "id": "s2050:00126",
   "jp": "そうじゃなくて、風が強いと、\n銃の照準も狂っちゃうのよ。",
-  "en": "That's not it. When the wind's strong, it\nthrows off my gun's aim.",
+  "en": "That's not it. When the wind's strong,\nit throws off my gun's aim.",
   "status": "done",
   "slots": [
    "0x199a"
@@ -90,7 +90,7 @@
  {
   "id": "s2050:0017d",
   "jp": "ま、下手な鉄砲数撃ちゃ当たる。\nバババババーッと撃てば、\n一発ぐらい当たるだろ。",
-  "en": "Well, even a bad shot hits if he fires enough.\nGo bang-bang-bang-bang and at least one'll\nhit.",
+  "en": "Well, even a bad shot hits if he fires\nenough. Go bang-bang-bang-bang\nand at least one'll hit.",
   "status": "done",
   "slots": [
    "0x19eb"
@@ -101,7 +101,7 @@
  {
   "id": "s2050:001d0",
   "jp": "銃弾一発がどれほど高価か\n知らないの！？\n無駄撃ちは出来ないのよ！",
-  "en": "Don't you know how expensive a single bullet\nis!? I can't waste shots!",
+  "en": "Don't you know how expensive a\nsingle bullet is!? I can't waste shots!",
   "status": "done",
   "slots": [
    "0x1a00"
@@ -123,7 +123,7 @@
  {
   "id": "s2050:00234",
   "jp": "誰の酒代のせいであたしはケチに\nなったのかしらね。",
-  "en": "And whose booze bill made me a\ncheapskate, I wonder?",
+  "en": "And whose booze bill made\nme a cheapskate, I wonder?",
   "status": "done",
   "slots": [
    "0x1a2a"
@@ -145,7 +145,7 @@
  {
   "id": "s2050:00281",
   "jp": "金銭面ではエリーシャさんの方が\n船長のようですね。",
-  "en": "When it comes to money, Elisha-san seems\nto be the real captain.",
+  "en": "When it comes to money,\nElisha-san seems to be the real captain.",
   "status": "done",
   "slots": [
    "0x1a4e"
@@ -178,7 +178,7 @@
  {
   "id": "s2050:002f3",
   "jp": "私の名はユグドラ！\n正義の賞金稼ぎです！",
-  "en": "My name is Yggdra! A bounty hunter of\njustice!",
+  "en": "My name is Yggdra!\nA bounty hunter of justice!",
   "status": "done",
   "slots": [
    "0x1b43"
@@ -211,7 +211,7 @@
  {
   "id": "s2050:0034d",
   "jp": "ただの小物だったはずのアナタに\nあの高額な報奨金！\n明らかにおかしい！",
-  "en": "You were supposed to be a mere small fry,\nand yet there's that enormous reward on\nyou! It's clearly suspicious!",
+  "en": "You were supposed to be a mere small fry,\nand yet there's that enormous\nreward on you! It's clearly suspicious!",
   "status": "done",
   "slots": [
    "0x1b8c"
@@ -233,7 +233,7 @@
  {
   "id": "s2050:003c2",
   "jp": "これは何か裏がある……。\nそれを、確かめさせてもらいます！",
-  "en": "There's something behind this... and I intend\nto find out what!",
+  "en": "There's something behind this...\nand I intend to find out what!",
   "status": "done",
   "slots": [
    "0x1bc0"
@@ -288,7 +288,7 @@
  {
   "id": "s2050:0047b",
   "jp": "賞金稼ぎの“ファンタジニア旅団”\n船長ユグドラ！\nアナタ達悪を、撃ち滅ぼす者なり！",
-  "en": "Captain of the bounty hunters \"Fantasinia\nBrigade\", Yggdra! I am the one who will\ndestroy evil such as you!",
+  "en": "Captain of the bounty hunters\n\"Fantasinia Brigade\", Yggdra! I am the\none who will destroy evil such as you!",
   "status": "done",
   "slots": [
    "0x1d50"
@@ -299,7 +299,7 @@
  {
   "id": "s2050:004d0",
   "jp": "な、なんだ！？\nあの馬鹿でかい銃は！",
-  "en": "Wh-what the!? What's with that\nridiculously huge gun!?",
+  "en": "Wh-what the!? What's with\nthat ridiculously huge gun!?",
   "status": "done",
   "slots": [
    "0x1d69"
@@ -354,7 +354,7 @@
  {
   "id": "s2050:0059e",
   "jp": "ユグドラさんって、あまりお嬢様の\n風貌じゃないですよね。",
-  "en": "You know, Yggdra-san, you don't really look\nlike a pampered young lady.",
+  "en": "You know, Yggdra-san, you don't\nreally look like a pampered young lady.",
   "status": "done",
   "slots": [
    "0x38e1"
@@ -409,7 +409,7 @@
  {
   "id": "s2050:006a7",
   "jp": "アナタが正義なら、\n銃弾が自然とそれるでしょう！\nだから止りなさい！",
-  "en": "If you are just, the bullets will naturally\nmiss you! So stop right there!",
+  "en": "If you are just, the bullets will\nnaturally miss you! So stop right there!",
   "status": "done",
   "slots": [
    "0x37e4"
@@ -449,7 +449,7 @@
  {
   "id": "s2050:00766",
   "jp": "銃ってのはねぇ。\n狙った所を一発で仕留めるのが\n醍醐味なのよ！",
-  "en": "The whole point of a gun is to take down\nyour target in one shot!",
+  "en": "The whole point of a gun is to take\ndown your target in one shot!",
   "status": "done",
   "slots": [
    "0x3b1a"
@@ -459,7 +459,7 @@
  {
   "id": "s2050:007a3",
   "jp": "戦場にそんなものはいりません！\n必要なのは、確実に悪を破壊する\n破壊力です！",
-  "en": "There's no need for that on the battlefield!\nWhat you need is the firepower to destroy\nevil for certain!",
+  "en": "There's no need for that on the battlefield!\nWhat you need is the firepower\nto destroy evil for certain!",
   "status": "done",
   "slots": [
    "0x3b33"
@@ -469,7 +469,7 @@
  {
   "id": "s2050:007ee",
   "jp": "デケェ銃だな。\nそんなほっせぇ体で\nよく持てるもんだぜ。",
-  "en": "That's one big gun. Surprised ya can hold it\nwith that skinny little body.",
+  "en": "That's one big gun. Surprised ya can\nhold it with that skinny little body.",
   "status": "done",
   "slots": [
    "0x3c07"
@@ -499,7 +499,7 @@
  {
   "id": "s2050:00866",
   "jp": "そうやって簡単に人を判断するのは\nマナー違反だ。\n少し、反省してもらおうか。",
-  "en": "Judging people so easily is a breach of\nmanners. I shall have you reflect on that a\nlittle.",
+  "en": "Judging people so easily is a\nbreach of manners. I shall have\nyou reflect on that a little.",
   "status": "done",
   "slots": [
    "0x3cfe"
@@ -509,7 +509,7 @@
  {
   "id": "s2050:008b1",
   "jp": "悪の手先にマナー違反呼ばわり\nされる謂れはありません！\nアナタこそ、少し反省しなさい！",
-  "en": "I won't be accused of bad manners by a\nlackey of evil! You're the one who should\nreflect a little!",
+  "en": "I won't be accused of bad manners\nby a lackey of evil! You're the\none who should reflect a little!",
   "status": "done",
   "slots": [
    "0x3d17"
@@ -539,7 +539,7 @@
  {
   "id": "s2050:00962",
   "jp": "待ちなさいこの悪魔！\n大人しく私の銃で昇天するのです！",
-  "en": "Wait, you devil! Go quietly to heaven by my\ngun!",
+  "en": "Wait, you devil!\nGo quietly to heaven by my gun!",
   "status": "done",
   "slots": [
    "0x3eee"
@@ -549,7 +549,7 @@
  {
   "id": "s2050:00998",
   "jp": "ひえぇ！\n私になんの恨みがあるんすかぁ～！",
-  "en": "Eeeek! What have you got against me,\nma'am!?",
+  "en": "Eeeek! What have you\ngot against me, ma'am!?",
   "status": "done",
   "slots": [
    "0x3f08"
@@ -569,7 +569,7 @@
  {
   "id": "s2050:009f0",
   "jp": "全ての悪を滅ぼすのが私の意思！\n一人たりとも取り逃がすわけには\nいかないのです！",
-  "en": "Destroying all evil is my will! I can't let a\nsingle one of you escape!",
+  "en": "Destroying all evil is my will!\nI can't let a single one of you escape!",
   "status": "done",
   "slots": [
    "0x3ff5"
@@ -579,7 +579,7 @@
  {
   "id": "s2050:00a3f",
   "jp": "なんという実力……やはり、なにか\nおおきな裏があるのですね……！",
-  "en": "Such skill... There really must be something\nbig behind this...!",
+  "en": "Such skill... There really must\nbe something big behind this...!",
   "status": "done",
   "slots": [
    "0x42c0"
@@ -601,7 +601,7 @@
  {
   "id": "s2050:00ab7",
   "jp": "うーん……そうだな。\nこれ以上付きまとわれても\n面倒だし。",
-  "en": "Hmm... Yeah. It'd be a pain to have her\nfollowin' us around any longer.",
+  "en": "Hmm... Yeah. It'd be a pain to have\nher followin' us around any longer.",
   "status": "done",
   "slots": [
    "0x42f7"
@@ -634,7 +634,7 @@
  {
   "id": "s2050:00b4e",
   "jp": "あぁ\n……って、アンタ怪我はいいのか？",
-  "en": "Yeah... Wait, are you okay with those\ninjuries?",
+  "en": "Yeah... Wait, are you\nokay with those injuries?",
   "status": "done",
   "slots": [
    "0x4ae8"
@@ -700,7 +700,7 @@
  {
   "id": "s2050:00c55",
   "jp": "じゃあ、どうして賞金稼ぎなんて\nやってたの？",
-  "en": "Then why were you working as a bounty\nhunter?",
+  "en": "Then why were you working\nas a bounty hunter?",
   "status": "done",
   "slots": [
    "0x4b72"
@@ -733,7 +733,7 @@
  {
   "id": "s2050:00ca3",
   "jp": "銃の維持費と、銃弾のお金です。\nハハハ……。",
-  "en": "The upkeep on my gun, and money for\nbullets. Hahaha...",
+  "en": "The upkeep on my gun,\nand money for bullets. Hahaha...",
   "status": "done",
   "slots": [
    "0x4bbd"
@@ -744,7 +744,7 @@
  {
   "id": "s2050:00cd3",
   "jp": "あぁ、やっぱり……。\nなんか、一気に親近感が湧いたわ。",
-  "en": "Ah, I knew it... Suddenly I feel a lot closer to\nyou.",
+  "en": "Ah, I knew it... Suddenly\nI feel a lot closer to you.",
   "status": "done",
   "slots": [
    "0x4bd6"
@@ -766,7 +766,7 @@
  {
   "id": "s2050:00d58",
   "jp": "それなんですけど……。\n私を、グロリア海賊団に入れて\nくれませんか？",
-  "en": "About that... Would you let me join the\nGloria Pirates?",
+  "en": "About that... Would you let\nme join the Gloria Pirates?",
   "status": "done",
   "slots": [
    "0x4c08"
@@ -821,7 +821,7 @@
  {
   "id": "s2050:00dfb",
   "jp": "まぁ、ルキア皇国軍が\n大抵やっつけちゃうんだから、\nしょうがないわよね。",
-  "en": "Well, the Lukia Imperial Army takes care of\nmost of them, so it can't be helped.",
+  "en": "Well, the Lukia Imperial Army takes care\nof most of them, so it can't be helped.",
   "status": "done",
   "slots": [
    "0x4c98"
@@ -843,7 +843,7 @@
  {
   "id": "s2050:00e57",
   "jp": "今はとにかく戦力が欲しいからな。\nよし、採用！",
-  "en": "Right now we need all the fighters we can\nget. All right, you're hired!",
+  "en": "Right now we need all the fighters\nwe can get. All right, you're hired!",
   "status": "done",
   "slots": [
    "0x4cf4"
@@ -865,7 +865,7 @@
  {
   "id": "s2050:00ea4",
   "jp": "了解。\nじゃあ銃の維持費と銃弾の分は\n親父の酒代から引いておくわ。",
-  "en": "Got it. Then I'll take her gun upkeep and\nbullets out of Dad's booze money.",
+  "en": "Got it. Then I'll take her gun upkeep\nand bullets out of Dad's booze money.",
   "status": "done",
   "slots": [
    "0x4d26"
@@ -887,7 +887,7 @@
  {
   "id": "s2050:00ef2",
   "jp": "皆さん。よろしくお願いします！",
-  "en": "Everyone. I look forward to working with\nyou!",
+  "en": "Everyone. I look forward\nto working with you!",
   "status": "done",
   "slots": [
    "0x4d55"
@@ -898,7 +898,7 @@
  {
   "id": "s2050:00f18",
   "jp": "アンタの砲台。\nかなり使い古されてるな。\nそんなんじゃ蚊も殺せないぜ？",
-  "en": "That cannon of yours. It's seen a lot of use.\nThing like that couldn't even kill a mosquito,\nya know?",
+  "en": "That cannon of yours. It's seen a\nlot of use. Thing like that couldn't\neven kill a mosquito, ya know?",
   "status": "done",
   "slots": [
    "0x1ee2"
@@ -908,7 +908,7 @@
  {
   "id": "s2050:00f5d",
   "jp": "あ～我慢ならねぇ！\nちょっと俺に貸せ！\nスペックアップしてやるよ！",
-  "en": "Ahh, I can't stand it! Lend it here! I'll\nupgrade it for ya!",
+  "en": "Ahh, I can't stand it! Lend it here!\nI'll upgrade it for ya!",
   "status": "done",
   "slots": [
    "0x1ee9"
@@ -928,7 +928,7 @@
  {
   "id": "s2050:00fdf",
   "jp": "また古くなったら来いよな？\n待ってるぜ！",
-  "en": "Come back when it gets old again, okay? I'll\nbe waitin'!",
+  "en": "Come back when it gets old again,\nokay? I'll be waitin'!",
   "status": "done",
   "slots": [
    "0x1f81"
@@ -938,7 +938,7 @@
  {
   "id": "s2050:01007",
   "jp": "ユグドラ様は幼い頃から\nあの性格でねぇ。",
-  "en": "Yggdra-sama has had that personality ever\nsince she was little.",
+  "en": "Yggdra-sama has had that\npersonality ever since she was little.",
   "status": "done",
   "slots": [
    "0x1fa4"
@@ -948,7 +948,7 @@
  {
   "id": "s2050:0102f",
   "jp": "悪と決めたものには本当に容赦が\nないのよ……。",
-  "en": "Once she decides something is evil, she's\ntruly merciless...",
+  "en": "Once she decides something is evil,\nshe's truly merciless...",
   "status": "done",
   "slots": [
    "0x1fab"
@@ -958,7 +958,7 @@
  {
   "id": "s2050:0105d",
   "jp": "普段は誰にでも優しい、\n聖母の様な方なのにねぇ……。",
-  "en": "Even though normally she's kind to\neveryone, like a holy mother...",
+  "en": "Even though normally she's kind\nto everyone, like a holy mother...",
   "status": "done",
   "slots": [
    "0x1fb2"
@@ -968,7 +968,7 @@
  {
   "id": "s2050:01091",
   "jp": "根はいい人だから、\n仲良くしてくださいね。",
-  "en": "She's a good person at heart, so please be\nfriends with her.",
+  "en": "She's a good person at heart,\nso please be friends with her.",
   "status": "done",
   "slots": [
    "0x1fca"
@@ -988,7 +988,7 @@
  {
   "id": "s2050:010d4",
   "jp": "なんだ、このカケラ……\nスゲェ力を感じるぞ……！",
-  "en": "What's this shard... I can feel incredible\npower from it...!",
+  "en": "What's this shard... I can feel\nincredible power from it...!",
   "status": "done",
   "slots": [
    "0x2dd6"
@@ -1008,7 +1008,7 @@
  {
   "id": "s2050:01111",
   "jp": "ただの石ではないようですね……。\n考古学に疎いボクにでもわかる\nぐらいですからね。",
-  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows nothing of\narchaeology can tell.",
+  "en": "It doesn't seem to be an ordinary stone...\nEven someone like me who knows\nnothing of archaeology can tell.",
   "status": "done",
   "slots": [
    "0x2e6d"
@@ -1068,7 +1068,7 @@
  {
   "id": "s2050:01217",
   "jp": "遺跡の欠片か。\n海から流れてきたのか……？",
-  "en": "A ruin shard, huh. Did it wash up from the\nsea...?",
+  "en": "A ruin shard, huh.\nDid it wash up from the sea...?",
   "status": "done",
   "slots": [
    "0x3032"
@@ -1088,7 +1088,7 @@
  {
   "id": "s2050:0124e",
   "jp": "紛れもなくこれは遺跡の欠片……。\n実に興味深い。",
-  "en": "There is no mistaking it: a ruin shard... Truly\nfascinating.",
+  "en": "There is no mistaking it: a\nruin shard... Truly fascinating.",
   "status": "done",
   "slots": [
    "0x30c9"
@@ -1108,7 +1108,7 @@
  {
   "id": "s2050:0129f",
   "jp": "この石から、すっごいたくさんの\nウィルを感じるよ！",
-  "en": "Locomoco can feel sooo much Will from this\nstone!",
+  "en": "Locomoco can feel sooo\nmuch Will from this stone!",
   "status": "done",
   "slots": [
    "0x3160"
@@ -1138,7 +1138,7 @@
  {
   "id": "s2050:01302",
   "jp": "遺跡の欠片じゃないですか！\nな、なんでこんな所に……。",
-  "en": "Isn't that a ruin shard!? Wh-why is it in a\nplace like this...",
+  "en": "Isn't that a ruin shard!?\nWh-why is it in a place like this...",
   "status": "done",
   "slots": [
    "0x3210"
@@ -1148,7 +1148,7 @@
  {
   "id": "s2050:01338",
   "jp": "この石、えもいえぬ威圧感を\n感じるな……。",
-  "en": "This stone gives off an indescribable\npressure...",
+  "en": "This stone gives off an\nindescribable pressure...",
   "status": "done",
   "slots": [
    "0x3263"
@@ -1178,7 +1178,7 @@
  {
   "id": "s2050:0139b",
   "jp": "なんとなくですが、ただの石とは\n思えません。\n……一応持っておきましょう。",
-  "en": "It's just a hunch, but I don't think it's an\nordinary stone. ...I'll hold on to it, just in\ncase.",
+  "en": "It's just a hunch, but I don't\nthink it's an ordinary stone.\n...I'll hold on to it, just in case.",
   "status": "done",
   "slots": [
    "0x3345"
@@ -1218,7 +1218,7 @@
  {
   "id": "s2050:01433",
   "jp": "これ、絶対にただの石じゃないわ！\nアタシの鼻はごまかせないわよ？",
-  "en": "This is definitely no ordinary stone! You\ncan't fool my nose, dear.",
+  "en": "This is definitely no ordinary stone!\nYou can't fool my nose, dear.",
   "status": "done",
   "slots": [
    "0x3473"
@@ -1238,7 +1238,7 @@
  {
   "id": "s2050:01486",
   "jp": "持っているだけで何か力のような\nものを感じる、様な気がしないでも\nない！",
-  "en": "Just holding it, I feel some kind of power, or\nso it seems, or maybe not!",
+  "en": "Just holding it, I feel some kind of power,\nor so it seems, or maybe not!",
   "status": "done",
   "slots": [
    "0x350a"
@@ -1258,7 +1258,7 @@
  {
   "id": "s2050:014f1",
   "jp": "このにじみ出るようなウィルの感じ\nうーん、たまんないだわさ！",
-  "en": "The feel of this Will seeping out... Mmm, it's\nirresistible, dontcha know!",
+  "en": "The feel of this Will seeping out...\nMmm, it's irresistible, dontcha know!",
   "status": "done",
   "slots": [
    "0x35a1"
@@ -1278,7 +1278,7 @@
  {
   "id": "s2050:01542",
   "jp": "なにかとても大きな力を感じます。\nこれは、素晴らしいものですわ！",
-  "en": "I sense some very great power. This is a\nwonderful thing indeed!",
+  "en": "I sense some very great power.\nThis is a wonderful thing indeed!",
   "status": "done",
   "slots": [
    "0x3658"
@@ -1298,7 +1298,7 @@
  {
   "id": "s2050:01597",
   "jp": "持ってるだけで力が湧いてくる。\nコイツァすげぇぜ！",
-  "en": "Just holdin' it makes power well up in me.\nThis thing's amazin'!",
+  "en": "Just holdin' it makes power well\nup in me. This thing's amazin'!",
   "status": "done",
   "slots": [
    "0x36f8"

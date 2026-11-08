@@ -6,6 +6,7 @@
     python -X utf8 tools/batches.py merge bNNN ... [--overwrite]   check, then write the English into script/
     python -X utf8 tools/batches.py fit ID "English"       wrapped lines with px per line against the entry's budget
     python -X utf8 tools/batches.py sync                   copy script/ English into stale .out.tsv rows (check fails on them)
+    python -X utf8 tools/batches.py rewrap                 re-wrap script/ from the batch rows after a wrap change
 
 Copied from the skill's assets/batches.py; the ADAPTER section is this game's. Batches hold each Japanese text once
 (19k entries, 13k distinct texts): merge gives the English to every entry with the same JP that has none yet.
@@ -103,19 +104,33 @@ def item_descs(_c={}):
 
 
 def wrap(en, px, font, cap=999):
-    """Greedy word wrap of each forced line to px and cap characters (codes count as written: shortcut, they are
-    rare in wrapped windows)."""
+    """Balanced word wrap of each forced line to px and cap characters: the greedy line count, with the breaks that
+    make the lines most even (greedy left one-word widows). Codes count as written: shortcut, they are rare in
+    wrapped windows."""
     import vwf
     out = []
     for para in en.split("\n"):
-        cur = ""
-        for w in para.split(" "):
-            if cur and (vwf.line_px(cur + " " + w, font) > px or len(cur) + 1 + len(w) > cap):
-                out.append(cur)
-                cur = w
+        words = para.split(" ")
+        fits = lambda i, j: (lambda s: j - i == 1 or vwf.line_px(s, font) <= px and len(s) <= cap)(" ".join(words[i:j]))
+        n, cur = 1, ""   # greedy line count
+        for w in words:
+            if cur and not (vwf.line_px(cur + " " + w, font) <= px and len(cur) + 1 + len(w) <= cap):
+                n, cur = n + 1, w
             else:
                 cur = cur + " " + w if cur else w
-        out.append(cur)
+        # best[k][j]: (cost, breaks) for words[:j] in k lines; cost = sum of squared slack, every line counted
+        best = [{0: (0, [])}] + [{} for _ in range(n)]
+        for k in range(1, n + 1):
+            for j in range(1, len(words) + 1):
+                for i, (c, br) in best[k - 1].items():
+                    if i < j and fits(i, j):
+                        c2 = c + (px - vwf.line_px(" ".join(words[i:j]), font)) ** 2
+                        if j < len(words) and words[j - 1].endswith(END + (",",)):
+                            c2 -= (px // 4) ** 2   # rather break after a sentence or clause
+                        if j not in best[k] or c2 < best[k][j][0]:
+                            best[k][j] = (c2, br + [j])
+        cuts = [0] + best[n][len(words)][1]
+        out += [" ".join(words[a:b]) for a, b in zip(cuts, cuts[1:])]
     return "\n".join(out)
 
 
@@ -148,6 +163,8 @@ def width_problems(entry, en):
         return out
     px, lines, k, measured, font = b
     rows = TOKEN.sub("", shipped(entry, en)).split("\n")
+    if stub(rows):
+        out.append(f"stub last line {stub(rows)!r} (rewrap: `batches.py rewrap`, or rephrase)")
     cap = boxes.cell_cap(k) if k.count("/") == 3 else 999   # a GROUPS budget ('item name') has no class
     wide = [r for r in rows if vwf.line_px(r, font) > px or len(r) > cap]
     if len(rows) > lines:   # always an error: rows past a window's cell array overwrite memory (the fight crash)
@@ -156,6 +173,19 @@ def width_problems(entry, en):
         out.append(("WARN unmeasured window (measure it, don't abbreviate; docs/re/windows.md): " if not measured else "")
                    + f"{vwf.line_px(wide[0], font)} px / {len(wide[0])} chars over {px} px")
     return out
+
+
+END = tuple(".!?~)\"'…♪")
+
+
+def stub(rows):
+    """A line under 6 characters ending a sentence that the line before it runs into (a wrap widow: "...take you\\nin.").
+    Stored text doesn't mark forced breaks, so a line after a finished sentence ("Hmm...\\nYes.") passes."""
+    for k in range(1, len(rows)):
+        if (len(rows[k].strip()) < 6 and not rows[k - 1].rstrip().endswith(END)
+                and (k == len(rows) - 1 or rows[k].rstrip().endswith(END))):
+            return rows[k]
+    return None
 
 
 def encodable(char, jp=""):
@@ -376,6 +406,31 @@ def sync(entries):
     return 1 if left else 0
 
 
+def rewrap(entries):
+    """Re-wrap script/ English from its batch rows (one paragraph per forced break) after a wrap change. Only line breaks
+    may change: an entry whose words differ from its batch row (a fix in script/ only) is left alone and listed."""
+    rows = {}
+    for path in existing():
+        o = path.with_suffix(".out.tsv")
+        if o.exists():
+            rows.update((entries[i]["jp"], en) for i, en in read_out(o) if i in entries)
+    target, odd = {}, []
+    for e in entries.values():
+        en = e.get("en")
+        if not en or e.get("status") == "data" or e["jp"] not in rows:
+            continue
+        new = shipped(e, rows[e["jp"]])
+        if new != en:
+            (target.__setitem__(e["id"], new) if new.split() == en.split() else odd.append(e["id"]))
+    for path, doc, _ in docs():
+        if any(e["id"] in target for e in doc):
+            for e in doc:
+                e["en"] = target.get(e["id"], e.get("en"))
+            path.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8", newline="\n")
+    print(f"rewrapped {len(target)} entries; {len(odd)} differ from their batch row in words, left: {odd[:20]}")
+    return 0
+
+
 def fit(eid, en):
     import vwf
     e = index()[eid]
@@ -396,6 +451,8 @@ def main(argv):
         return fit(*args)
     if cmd == "sync":
         return sync(index())
+    if cmd == "rewrap":
+        return rewrap(index())
     overwrite = "--overwrite" in args
     names = [a for a in args if a not in ("--overwrite", "--warnings")]
     entries, terms = index(), glossary()

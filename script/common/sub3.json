@@ -12,7 +12,7 @@
  {
   "id": "c3:003d5",
   "jp": "どうやらみんな寝てるみたいだな。\n昼になったらまた来るか。",
-  "en": "Looks like everyone's asleep. Guess I'll come\nback in the daytime.",
+  "en": "Looks like everyone's asleep.\nGuess I'll come back in the daytime.",
   "status": "done",
   "slots": [
    "0x66"
@@ -32,7 +32,7 @@
  {
   "id": "c3:0041c",
   "jp": "みなさんご就寝のようですね。\nそっとしておきますか。",
-  "en": "It seems everyone's turned in. Shall we\nleave them be?",
+  "en": "It seems everyone's turned in.\nShall we leave them be?",
   "status": "done",
   "slots": [
    "0x9f"
@@ -52,7 +52,7 @@
  {
   "id": "c3:0045d",
   "jp": "みんな寝てるね。\nまた今度にしよう？",
-  "en": "Everyone's asleep. Let's come back another\ntime?",
+  "en": "Everyone's asleep.\nLet's come back another time?",
   "status": "done",
   "slots": [
    "0xd8"
@@ -72,7 +72,7 @@
  {
   "id": "c3:0048e",
   "jp": "寝てる、か。\n戦闘が行われてるってのに\nのん気なもんね……。",
-  "en": "Asleep, huh. There's a battle going on and\nthey're so carefree...",
+  "en": "Asleep, huh. There's a battle\ngoing on and they're so carefree...",
   "status": "done",
   "slots": [
    "0x151"
@@ -132,7 +132,7 @@
  {
   "id": "c3:00534",
   "jp": "寝ているか。\nまぁ夜は眠るものだしな。\n改めるとするか。",
-  "en": "Asleep, are they. Well, night is for sleeping.\nI shall return another time.",
+  "en": "Asleep, are they. Well, night is for\nsleeping. I shall return another time.",
   "status": "done",
   "slots": [
    "0x191"
@@ -152,7 +152,7 @@
  {
   "id": "c3:00578",
   "jp": "寝てるの～？\nふぁ。なんだかロコモコも\n眠くなってきちゃうよ。",
-  "en": "Are they asleep? *Yawn*. Locomoco's\ngetting sleepy too.",
+  "en": "Are they asleep? *Yawn*.\nLocomoco's getting sleepy too.",
   "status": "done",
   "slots": [
    "0x1ca"
@@ -232,7 +232,7 @@
  {
   "id": "c3:00699",
   "jp": "あら、寝てるの？\nもう、まだまだ夜はこれから\nなのにねぇ。",
-  "en": "Oh, they're asleep? Honestly, and the\nnight's only just getting started.",
+  "en": "Oh, they're asleep? Honestly,\nand the night's only just getting started.",
   "status": "done",
   "slots": [
    "0x2ae"
@@ -252,7 +252,7 @@
  {
   "id": "c3:006df",
   "jp": "む、寝ているのか。\nし、静かにせねば……静かに……。",
-  "en": "Hm, they're asleep. I-I must be quiet...\nquiet...",
+  "en": "Hm, they're asleep.\nI-I must be quiet... quiet...",
   "status": "done",
   "slots": [
    "0x2e7"
@@ -272,7 +272,7 @@
  {
   "id": "c3:00720",
   "jp": "寝ているのですね。\nなるべくこの近くで戦闘は\nしないようにしましょう。",
-  "en": "They're asleep. Let's try not to fight near\nhere, if we can.",
+  "en": "They're asleep. Let's try not\nto fight near here, if we can.",
   "status": "done",
   "slots": [
    "0x320"
@@ -292,7 +292,7 @@
  {
   "id": "c3:00772",
   "jp": "静かな静かな夜の町に♪\nこっそり誰かが忍び込む～♪",
-  "en": "Into the quiet, quiet town at night, someone\nsneaks in on tiptoe~",
+  "en": "Into the quiet, quiet town at night,\nsomeone sneaks in on tiptoe~",
   "status": "done",
   "slots": [
    "0x359"
@@ -302,7 +302,7 @@
  {
   "id": "c3:007a4",
   "jp": "って、そりゃ海賊じゃなくて\n泥棒だっつって！\nまた昼にでもくるだわさ。",
-  "en": "Wait, that's not a pirate, that's a thief! I'll\ncome back in the daytime, dontcha know.",
+  "en": "Wait, that's not a pirate, that's a thief!\nI'll come back in the daytime, dontcha know.",
   "status": "done",
   "slots": [
    "0x360"
@@ -322,7 +322,7 @@
  {
   "id": "c3:007f6",
   "jp": "んだよ、みんな寝てんのかよ。\n夜はまだ始まったばかりだぜ？\nつまんねぇなぁ。",
-  "en": "What, everyone's asleep? The night's only\njust started! How boring.",
+  "en": "What, everyone's asleep?\nThe night's only just started! How boring.",
   "status": "done",
   "slots": [
    "0x3b8"

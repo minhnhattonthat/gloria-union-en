@@ -2,7 +2,7 @@
  {
   "id": "s2032:00028",
   "jp": "兄貴、本当にここにクリスタルが\nあるんですか？",
-  "en": "Boss, are you sure there's really a Crystal\naround here?",
+  "en": "Boss, are you sure there's\nreally a Crystal around here?",
   "status": "done",
   "slots": [
    "0xfc8"
@@ -13,7 +13,7 @@
  {
   "id": "s2032:0005a",
   "jp": "あぁ、この近くに、“海王神殿”\nとかいう古代遺跡があるらしい。\nそれが怪しいと俺はみたね。",
-  "en": "Yeah. There's supposed to be some ancient\nruin nearby called the \"Sea King's Temple.\" If\nyou ask me, that's where it is.",
+  "en": "Yeah. There's supposed to be some ancient\nruin nearby called the \"Sea King's Temple.\"\nIf you ask me, that's where it is.",
   "status": "done",
   "slots": [
    "0xfdf"
@@ -24,7 +24,7 @@
  {
   "id": "s2032:000b7",
   "jp": "あぁ、そんな噂もありましたね。\n信憑性は皆無ですが……。",
-  "en": "Ah, yes, I did hear that rumor. Not that\nthere's a shred of truth to it...",
+  "en": "Ah, yes, I did hear that rumor.\nNot that there's a shred of truth to it...",
   "status": "done",
   "slots": [
    "0xff6"
@@ -90,7 +90,7 @@
  {
   "id": "s2032:001d6",
   "jp": "俺達はクリスタル探しで\n忙しいんだから、同郷の好で、な？",
-  "en": "We're busy hunting for the Crystal, so give\nus a break, huh? For old times' sake?",
+  "en": "We're busy hunting for the Crystal,\nso give us a break, huh? For old times' sake?",
   "status": "done",
   "slots": [
    "0x11fd"
@@ -145,7 +145,7 @@
  {
   "id": "s2032:002aa",
   "jp": "なんで俺の手配書が……！\n俺は何もしてねぇぞ！",
-  "en": "Why is there a wanted poster of me...!? I\ndidn't do anything!",
+  "en": "Why is there a wanted poster\nof me...!? I didn't do anything!",
   "status": "done",
   "slots": [
    "0x12a2"
@@ -156,7 +156,7 @@
  {
   "id": "s2032:002dc",
   "jp": "現にこうやって手配書が\n配られてるんだ。\n大人しく、捕まってもらうぜ。",
-  "en": "Well, they're handing these out, aren't\nthey? So come quietly and let me take you\nin.",
+  "en": "Well, they're handing these out,\naren't they? So come quietly\nand let me take you in.",
   "status": "done",
   "slots": [
    "0x12bc"
@@ -167,7 +167,7 @@
  {
   "id": "s2032:00325",
   "jp": "な、なんで……俺に？\n俺は、賞金首になるようなこと\nなんてしたことねぇぞ！",
-  "en": "B-but why... me? I've never done anything\nthat'd put a bounty on my head!",
+  "en": "B-but why... me? I've never done\nanything that'd put a bounty on my head!",
   "status": "done",
   "slots": [
    "0x138c"
@@ -178,7 +178,7 @@
  {
   "id": "s2032:00372",
   "jp": "兄貴、嘆いてる暇はありません！\n攻撃の準備を！\n攻撃方法、覚えてますよね？",
-  "en": "Boss, there's no time to whine! Get ready to\nattack! You do remember how to fight,\nright?",
+  "en": "Boss, there's no time to whine!\nGet ready to attack! You do\nremember how to fight, right?",
   "status": "done",
   "slots": [
    "0x13a6"
@@ -222,7 +222,7 @@
  {
   "id": "s2032:00412",
   "jp": "あぁ！　サンキューピンガー。\nよっしゃあ！　久々の戦闘だ！\n暴れてやるぜ！",
-  "en": "Yeah! Thanks, Pinger. All right! My first\nfight in ages! Time to cut loose!",
+  "en": "Yeah! Thanks, Pinger. All right!\nMy first fight in ages! Time to cut loose!",
   "status": "done",
   "slots": [
    "0x146b"
@@ -233,7 +233,7 @@
  {
   "id": "s2032:0045f",
   "jp": "よし、敵が来た。陣形をたてなおし\n迎撃しろ！",
-  "en": "All right, here they come. Regroup and\nintercept them!",
+  "en": "All right, here they come.\nRegroup and intercept them!",
   "status": "done",
   "slots": [
    "0x1485"
@@ -244,7 +244,7 @@
  {
   "id": "s2032:0048f",
   "jp": "一気に駆け抜けるぞ！　\n目指すは奴らの向こう側だ！",
-  "en": "We're charging straight through! Our goal's\nthe other side of those guys!",
+  "en": "We're charging straight through!\nOur goal's the other side of those guys!",
   "status": "done",
   "slots": [
    "0x14a2"
@@ -277,7 +277,7 @@
  {
   "id": "s2032:0053e",
   "jp": "ピンガー、あんなバカと何時までも\n一緒にいるこたぁねぇ。\n俺と来いよ。",
-  "en": "Pinger, you don't have to stick with that\nidiot forever. Come with me.",
+  "en": "Pinger, you don't have to stick with\nthat idiot forever. Come with me.",
   "status": "done",
   "slots": [
    "0x1aef"
@@ -299,7 +299,7 @@
  {
   "id": "s2032:005bd",
   "jp": "そうかよ。\n……よし、なら仲間は止めだ。\nてめぇはペットにするぞ、獣人。",
-  "en": "Fine, then. ...All right, forget being\npartners. You'll be my pet instead,\nbeastman.",
+  "en": "Fine, then. ...All right,\nforget being partners.\nYou'll be my pet instead, beastman.",
   "status": "done",
   "slots": [
    "0x1b22"
@@ -310,7 +310,7 @@
  {
   "id": "s2032:00608",
   "jp": "チィ。やはり兵の熟練度は段違いか\n退くぞ、テメェら！",
-  "en": "Tch. So their troops really are a cut above.\nFall back, you lot!",
+  "en": "Tch. So their troops really are\na cut above. Fall back, you lot!",
   "status": "done",
   "slots": [
    "0x1e69"
@@ -332,7 +332,7 @@
  {
   "id": "s2032:00665",
   "jp": "はいはい、わかりましたから鼻血\n拭いてください。汚いので。",
-  "en": "Yes, yes, I get it. Now please wipe your\nnosebleed. It's gross.",
+  "en": "Yes, yes, I get it. Now please\nwipe your nosebleed. It's gross.",
   "status": "done",
   "slots": [
    "0x25a1"
@@ -343,7 +343,7 @@
  {
   "id": "s2032:006a3",
   "jp": "俺は時々お前が子分に見えない\nことがある。",
-  "en": "Sometimes I don't feel like you're my lackey\nat all.",
+  "en": "Sometimes I don't feel like\nyou're my lackey at all.",
   "status": "done",
   "slots": [
    "0x25be"
@@ -365,7 +365,7 @@
  {
   "id": "s2032:006f2",
   "jp": "う、うぜぇ\n……そんじゃあ、気を取り直して、\nクリスタル探しでも！",
-  "en": "Y-you're a pain... ...Anyway, let's pull\nourselves together and get back to hunting\nfor the Crystal!",
+  "en": "Y-you're a pain... ...Anyway,\nlet's pull ourselves together and\nget back to hunting for the Crystal!",
   "status": "done",
   "slots": [
    "0x25f1"
@@ -442,7 +442,7 @@
  {
   "id": "s2032:007c6",
   "jp": "ゲホゲホ……！\n浜辺の砂埃がこっちにまで……！",
-  "en": "*cough cough*...! The sand from the beach\nblew all the way over here...!",
+  "en": "*cough cough*...! The sand from the\nbeach blew all the way over here...!",
   "status": "done",
   "slots": [
    "0x277f"
@@ -453,7 +453,7 @@
  {
   "id": "s2032:007f8",
   "jp": "……浜辺に落ちたのか。\nよし、見に行くぞ！",
-  "en": "...So it landed on the beach. All right, let's\ngo have a look!",
+  "en": "...So it landed on the beach.\nAll right, let's go have a look!",
   "status": "done",
   "slots": [
    "0x2798"
@@ -563,7 +563,7 @@
  {
   "id": "s2032:00912",
   "jp": "あぁ、つい。\n……キ、キミ、だ、大丈夫かな？",
-  "en": "Ah, sorry, slipped out. ...A-are, are you all\nright, miss?",
+  "en": "Ah, sorry, slipped out. ...A-are,\nare you all right, miss?",
   "status": "done",
   "slots": [
    "0x29e2"
@@ -585,7 +585,7 @@
  {
   "id": "s2032:00989",
   "jp": "クリスタル！？\nクリスタルって……。\n古代ユーフォリアの遺産の？",
-  "en": "The Crystal!? You mean the Crystal...? The\nlegacy of ancient Euforia?",
+  "en": "The Crystal!? You mean the Crystal...?\nThe legacy of ancient Euforia?",
   "status": "done",
   "slots": [
    "0x2b0f"
@@ -596,7 +596,7 @@
  {
   "id": "s2032:009cc",
   "jp": "あるかどうかもわからなすぎて\n値段が上がり続けてるっていう、\nあのクリスタルですか？",
-  "en": "The Crystal nobody can even prove exists,\nso its price just keeps going up? That\nCrystal?",
+  "en": "The Crystal nobody can even\nprove exists, so its price just\nkeeps going up? That Crystal?",
   "status": "done",
   "slots": [
    "0x2b25"
@@ -607,7 +607,7 @@
  {
   "id": "s2032:00a23",
   "jp": "う、うん。そうだよ。\n鍵は、彼の持ってる剣のことだよ。",
-  "en": "Y-yeah. That's right. The key is the sword\nhe's carrying.",
+  "en": "Y-yeah. That's right.\nThe key is the sword he's carrying.",
   "status": "done",
   "slots": [
    "0x2c18"
@@ -618,7 +618,7 @@
  {
   "id": "s2032:00a5d",
   "jp": "へぇ、兄貴の剣、前々から珍しいと\n思っていましたが……。\nそんな秘密があったとは。",
-  "en": "Huh. I always thought the Boss's sword was\nan odd one... Never guessed it had a secret\nlike that.",
+  "en": "Huh. I always thought the\nBoss's sword was an odd one...\nNever guessed it had a secret like that.",
   "status": "done",
   "slots": [
    "0x2c3c"
@@ -629,7 +629,7 @@
  {
   "id": "s2032:00ab2",
   "jp": "フ、フフハハ。\nピンガー、とうとう俺にも運が\n回ってきたみたいだぜぇ。",
-  "en": "Heh, heh heh ha ha. Pinger, looks like my\nluck's finally turned around!",
+  "en": "Heh, heh heh ha ha. Pinger,\nlooks like my luck's finally turned around!",
   "status": "done",
   "slots": [
    "0x2c55"
@@ -640,7 +640,7 @@
  {
   "id": "s2032:00afb",
   "jp": "今こそ、誰も手に入れたことのない\n古代ユーフォリアの秘宝を、\n手に入れる時だ！",
-  "en": "Now's the time to grab the treasure of\nancient Euforia that nobody's ever gotten\ntheir hands on!",
+  "en": "Now's the time to grab the treasure\nof ancient Euforia that nobody's\never gotten their hands on!",
   "status": "done",
   "slots": [
    "0x2c6a"
@@ -673,7 +673,7 @@
  {
   "id": "s2032:00b84",
   "jp": "素直に出しても下心は下心ですよ。\n……ハァ、わかりましたよ。\nルルゥ、お願いします。",
-  "en": "Saying it out loud doesn't make your\nmotives any less shady. ...*sigh* Fine, fine.\nRuru, if you would.",
+  "en": "Saying it out loud doesn't make\nyour motives any less shady.\n...*sigh* Fine, fine. Ruru, if you would.",
   "status": "done",
   "slots": [
    "0x2caf"
@@ -716,7 +716,7 @@
  {
   "id": "s2032:00c2f",
   "jp": "四葉のクローバーじゃねぇか！\nヘヘ、縁起がいいぜ。",
-  "en": "A four-leaf clover, ain't it! Heh heh, that's\ngood luck.",
+  "en": "A four-leaf clover, ain't it!\nHeh heh, that's good luck.",
   "status": "done",
   "slots": [
    "0x16c5"
@@ -746,7 +746,7 @@
  {
   "id": "s2032:00ca5",
   "jp": "お、畑発見。\nちょうど腹減ってたんだよなぁ。",
-  "en": "Oh, found a field. I was just getting hungry,\ntoo.",
+  "en": "Oh, found a field.\nI was just getting hungry, too.",
   "status": "done",
   "slots": [
    "0x1818"
@@ -776,7 +776,7 @@
  {
   "id": "s2032:00d27",
   "jp": "ま、ボクは優しいですから、\n一個で我慢してあげましょう。",
-  "en": "Well, I'm a kind soul, so I'll make do with just\none.",
+  "en": "Well, I'm a kind soul,\nso I'll make do with just one.",
   "status": "done",
   "slots": [
    "0x18fa"

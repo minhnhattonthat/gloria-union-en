@@ -35,7 +35,7 @@
  {
   "id": "s2060:00085",
   "jp": "あぁ、子供のころよくやったな。\nごっこ遊びだったけど。",
-  "en": "Yeah, I played that a lot as a kid. Just\npretend, though.",
+  "en": "Yeah, I played that a lot as a kid.\nJust pretend, though.",
   "status": "done",
   "slots": [
    "0x235b"
@@ -46,7 +46,7 @@
  {
   "id": "s2060:000bf",
   "jp": "懐かしいですね。\n私もよくやっていました。",
-  "en": "That takes me back. I used to play it often\ntoo.",
+  "en": "That takes me back.\nI used to play it often too.",
   "status": "done",
   "slots": [
    "0x238a"
@@ -57,7 +57,7 @@
  {
   "id": "s2060:000ed",
   "jp": "あんたのは“ごっこ”じゃなくなる\n気がしてならないわ……。",
-  "en": "I can't shake the feeling yours wasn't\n\"pretend\" at all...",
+  "en": "I can't shake the feeling yours\nwasn't \"pretend\" at all...",
   "status": "done",
   "slots": [
    "0x23aa"
@@ -145,7 +145,7 @@
  {
   "id": "s2060:0021c",
   "jp": "優雅さの中にも強さのある女性の\nように感じるな。",
-  "en": "She seems a woman of strength beneath\nthe grace.",
+  "en": "She seems a woman of\nstrength beneath the grace.",
   "status": "done",
   "slots": [
    "0x2561"
@@ -156,7 +156,7 @@
  {
   "id": "s2060:00250",
   "jp": "う、美しい……。\nい、いや！　見惚れるな！\nボクには師匠がいるんだ……！",
-  "en": "S-so beautiful... N-no! Don't stare! I already\nhave my Master...!",
+  "en": "S-so beautiful... N-no! Don't stare!\nI already have my Master...!",
   "status": "done",
   "slots": [
    "0x258d"
@@ -189,7 +189,7 @@
  {
   "id": "s2060:002d9",
   "jp": "お久しぶり。こんな所で会うなんて\n縁がありますね。",
-  "en": "Long time no see. Meeting you in a place like\nthis... It must be fate.",
+  "en": "Long time no see. Meeting you in\na place like this... It must be fate.",
   "status": "done",
   "slots": [
    "0x25e7"
@@ -200,7 +200,7 @@
  {
   "id": "s2060:0030f",
   "jp": "で？\nその吟遊詩人さんが、\n俺達になんのようだ？",
-  "en": "So? What does a bard want with the likes of\nus?",
+  "en": "So? What does a bard\nwant with the likes of us?",
   "status": "done",
   "slots": [
    "0x260e"
@@ -233,7 +233,7 @@
  {
   "id": "s2060:00384",
   "jp": "ホントだ！\nん～でも、なんか変だよ？",
-  "en": "It's true! Hmm... but something's weird, isn't\nit?",
+  "en": "It's true! Hmm...\nbut something's weird, isn't it?",
   "status": "done",
   "slots": [
    "0x2842"
@@ -277,7 +277,7 @@
  {
   "id": "s2060:003fd",
   "jp": "見るからに怪しいですね。\n何か裏があるんじゃないですか？",
-  "en": "She looks suspicious as anything. Isn't there\na catch here?",
+  "en": "She looks suspicious as anything.\nIsn't there a catch here?",
   "status": "done",
   "slots": [
    "0x28d3"
@@ -299,7 +299,7 @@
  {
   "id": "s2060:0044e",
   "jp": "あたし達の旅の目的はなに？\nもたもたしてると、またカードを\n奪われちゃうわよ？",
-  "en": "What's the point of our voyage? Dawdle\naround and we'll get another card stolen,\nyou know.",
+  "en": "What's the point of our voyage?\nDawdle around and we'll get\nanother card stolen, you know.",
   "status": "done",
   "slots": [
    "0x28f7"
@@ -310,7 +310,7 @@
  {
   "id": "s2060:0049f",
   "jp": "そうだね。早く行かないと……\nでも、イータさんかわいそうだよ。",
-  "en": "That's true. We have to hurry... But I feel\nbad for Eater-san.",
+  "en": "That's true. We have to hurry...\nBut I feel bad for Eater-san.",
   "status": "done",
   "slots": [
    "0x2928"
@@ -343,7 +343,7 @@
  {
   "id": "s2060:00517",
   "jp": "ちくしょう！　\nこんな端金で死んでられっか！",
-  "en": "Damn it! I ain't dying for pocket change like\nthis!",
+  "en": "Damn it! I ain't dying for\npocket change like this!",
   "status": "done",
   "slots": [
    "0x502d"
@@ -387,7 +387,7 @@
  {
   "id": "s2060:005bb",
   "jp": "はぁ～。\n日も沈んじゃったし、出立は明朝ね",
-  "en": "Haaah. The sun's gone down, too. We'll set\noff tomorrow morning.",
+  "en": "Haaah. The sun's gone down, too.\nWe'll set off tomorrow morning.",
   "status": "done",
   "slots": [
    "0x5df9"
@@ -398,7 +398,7 @@
  {
   "id": "s2060:005e9",
   "jp": "まぁまぁ、人助けが出来たのだし\nいいではありませんか。",
-  "en": "Now, now. We got to help someone, so isn't\nthat good enough?",
+  "en": "Now, now. We got to help someone,\nso isn't that good enough?",
   "status": "done",
   "slots": [
    "0x5e1e"
@@ -420,7 +420,7 @@
  {
   "id": "s2060:00642",
   "jp": "おう！　この通りピンピンしてる！\nお前らつえぇなぁ。\n俺ぁ気に入ったぞ！　うん。",
-  "en": "Yeah! Fit as a fiddle, see! You guys are damn\ntough. I like ya! Yep.",
+  "en": "Yeah! Fit as a fiddle, see!\nYou guys are damn tough. I like ya! Yep.",
   "status": "done",
   "slots": [
    "0x5e53"
@@ -431,7 +431,7 @@
  {
   "id": "s2060:00695",
   "jp": "さっきの礼儀正しい娘は、\nどこへ行った。",
-  "en": "Where did that polite young lady from\nbefore go?",
+  "en": "Where did that polite\nyoung lady from before go?",
   "status": "done",
   "slots": [
    "0x5e88"
@@ -442,7 +442,7 @@
  {
   "id": "s2060:006c1",
   "jp": "あの美しい女性がこんな粗暴な\n言葉を……！\nやはりボクには師匠しかいない！",
-  "en": "That beautiful woman, using such crude\nwords...! It's true, there is no one for me but\nmy Master!",
+  "en": "That beautiful woman,\nusing such crude words...! It's true,\nthere is no one for me but my Master!",
   "status": "done",
   "slots": [
    "0x5ead"
@@ -453,7 +453,7 @@
  {
   "id": "s2060:0070e",
   "jp": "おいおい、なんかキャラどころか\n性別まで違くないか？",
-  "en": "Whoa, whoa, isn't it more than the\npersonality? Even the gender's different,\nisn't it?",
+  "en": "Whoa, whoa, isn't it more\nthan the personality?\nEven the gender's different, isn't it?",
   "status": "done",
   "slots": [
    "0x5ec9"
@@ -464,7 +464,7 @@
  {
   "id": "s2060:00746",
   "jp": "あ？　あぁ、これね。体質。\n俺ってさぁ、夜になると男になるん\nだわ。面白ぇだろ。",
-  "en": "Huh? Oh, this. It's just how I'm built. See, at\nnight I turn into a man. Funny, right?",
+  "en": "Huh? Oh, this. It's just how I'm built. See,\nat night I turn into a man. Funny, right?",
   "status": "done",
   "slots": [
    "0x5ee2"
@@ -497,7 +497,7 @@
  {
   "id": "s2060:007dd",
   "jp": "風呂の途中で変わってしまったら\nどうするつもりなのだろうか……。",
-  "en": "What would she do if she changed halfway\nthrough a bath...?",
+  "en": "What would she do if she changed\nhalfway through a bath...?",
   "status": "done",
   "slots": [
    "0x5f40"
@@ -508,7 +508,7 @@
  {
   "id": "s2060:00821",
   "jp": "半分女で半分男、ねぇ。\nオカルトの領域じゃない。怖ッ。",
-  "en": "Half woman, half man, huh? That's occult\nterritory. Creepy.",
+  "en": "Half woman, half man, huh?\nThat's occult territory. Creepy.",
   "status": "done",
   "slots": [
    "0x5f6c"
@@ -563,7 +563,7 @@
  {
   "id": "s2060:008c3",
   "jp": "……まぁ、それは置いといて。\nなんで俺達をハメた。\nあの男、お前が雇ったんだろ？",
-  "en": "...Well, putting that aside. Why'd you set us\nup? You hired that guy, didn't ya?",
+  "en": "...Well, putting that aside. Why'd you\nset us up? You hired that guy, didn't ya?",
   "status": "done",
   "slots": [
    "0x601e"
@@ -596,7 +596,7 @@
  {
   "id": "s2060:0096b",
   "jp": "ハッハ、バレちまってたか。\n騙して悪かったな。実はさぁ、詩を\n作るために強い奴を探してんだよ。",
-  "en": "Ha ha, ya saw through me, huh? Sorry for\nfoolin' ya. Truth is, I'm lookin' for strong\nfolks so I can write my songs.",
+  "en": "Ha ha, ya saw through me, huh?\nSorry for foolin' ya. Truth is, I'm lookin'\nfor strong folks so I can write my songs.",
   "status": "done",
   "slots": [
    "0x606c"
@@ -607,7 +607,7 @@
  {
   "id": "s2060:009cc",
   "jp": "その感じで言うと似合わないわねぇ",
-  "en": "That doesn't suit you at all, the way you\ntalk now.",
+  "en": "That doesn't suit you at all,\nthe way you talk now.",
   "status": "done",
   "slots": [
    "0x6085"
@@ -618,7 +618,7 @@
  {
   "id": "s2060:009f1",
   "jp": "あんたらの強さに惚れた。\n頼む、俺を同行させてくれねぇか？",
-  "en": "I fell for how strong you lot are. Please, will\nya let me come along?",
+  "en": "I fell for how strong you lot are.\nPlease, will ya let me come along?",
   "status": "done",
   "slots": [
    "0x60a2"
@@ -640,7 +640,7 @@
  {
   "id": "s2060:00a42",
   "jp": "いいんじゃない？　そうじゃないと\n騙されてやった甲斐がないわ。",
-  "en": "Why not? Otherwise there'd be no point in\nletting ourselves get fooled.",
+  "en": "Why not? Otherwise there'd be no\npoint in letting ourselves get fooled.",
   "status": "done",
   "slots": [
    "0x60d1"
@@ -662,7 +662,7 @@
  {
   "id": "s2060:00aac",
   "jp": "なにかと面白そうですしね。",
-  "en": "She does seem like she'd be fun, in a lot of\nways.",
+  "en": "She does seem like she'd be fun,\nin a lot of ways.",
   "status": "done",
   "slots": [
    "0x6103"
@@ -827,7 +827,7 @@
  {
   "id": "s2060:00c8c",
   "jp": "ここで会ったが百年目！\nグロリア海賊団！　覚悟しやがれ！",
-  "en": "Now I've got you at last! Gloria Pirates!\nPrepare yourselves!",
+  "en": "Now I've got you at last!\nGloria Pirates! Prepare yourselves!",
   "status": "done",
   "slots": [
    "0x4f13"
@@ -838,7 +838,7 @@
  {
   "id": "s2060:00cc8",
   "jp": "黒い牙の残党！？\nもぉ～！　\n結局戦闘になっちゃうんだから！",
-  "en": "Black Fang leftovers!? Oh, come ooon! It\nalways ends in a fight!",
+  "en": "Black Fang leftovers!? Oh,\ncome ooon! It always ends in a fight!",
   "status": "done",
   "slots": [
    "0x4f31"
@@ -871,7 +871,7 @@
  {
   "id": "s2060:00d56",
   "jp": "よぉし、じゃあ船に乗れ。\n海流に乗って次の島まで行くぞぉ。",
-  "en": "Alriiight, then get on the ship. We'll ride the\ncurrent to the next island.",
+  "en": "Alriiight, then get on the ship.\nWe'll ride the current to the next island.",
   "status": "done",
   "slots": [
    "0x64e9"
@@ -915,7 +915,7 @@
  {
   "id": "s2060:00e00",
   "jp": "これでも吸血鬼っすから、\n暗視はデフォルトっすよ。",
-  "en": "I'm a vampire, after all, sir. Night vision\ncomes standard.",
+  "en": "I'm a vampire, after all, sir.\nNight vision comes standard.",
   "status": "done",
   "slots": [
    "0x6531"
@@ -970,7 +970,7 @@
  {
   "id": "s2060:00ece",
   "jp": "えぇ、彼女に構ってたら、\nお宝探しどころじゃ\nなくなってましたよ。",
-  "en": "Yes, if we'd let her drag us in, treasure\nhunting would've been the last thing on our\nminds.",
+  "en": "Yes, if we'd let her drag us in,\ntreasure hunting would've been\nthe last thing on our minds.",
   "status": "done",
   "slots": [
    "0x65c3"
@@ -1025,7 +1025,7 @@
  {
   "id": "s2060:00fc4",
   "jp": "チッ、根性なしどもが。せっかく\n俺が試してやったってのによ……。\nお前ら、引き揚げるぞ。",
-  "en": "Tch, spineless bunch. And here I went to the\ntrouble of testin' 'em... Boys, we're pullin'\nout.",
+  "en": "Tch, spineless bunch. And here\nI went to the trouble of testin'\n'em... Boys, we're pullin' out.",
   "status": "done",
   "slots": [
    "0x6694"
@@ -1047,7 +1047,7 @@
  {
   "id": "s2060:0103a",
   "jp": "紛らわしいからその呼び方止めろ。\n……さて、久々に、\nあのオカマにでも会いに行くか。",
-  "en": "Quit callin' me that, it's confusin'. ...Well\nthen, maybe I'll go see that drag queen for\nthe first time in ages.",
+  "en": "Quit callin' me that, it's confusin'.\n...Well then, maybe I'll go see that\ndrag queen for the first time in ages.",
   "status": "done",
   "slots": [
    "0x66c0"
@@ -1078,7 +1078,7 @@
  {
   "id": "s2060:010d6",
   "jp": "テメェらなんかに名乗るほど、\n俺の名は安くねぇよ！\nさっさと寝ろ！",
-  "en": "My name's way too good to waste on the\nlikes of you! Now go to sleep!",
+  "en": "My name's way too good to waste\non the likes of you! Now go to sleep!",
   "status": "done",
   "slots": [
    "0x3f09"
@@ -1098,7 +1098,7 @@
  {
   "id": "s2060:01137",
   "jp": "な、なんだテメェは！\n仮面なんてつけてねぇじゃねぇか！",
-  "en": "Wh-who the hell are you!? You ain't even\nwearin' a mask!",
+  "en": "Wh-who the hell are you!?\nYou ain't even wearin' a mask!",
   "status": "done",
   "slots": [
    "0x3ffd"
@@ -1128,7 +1128,7 @@
  {
   "id": "s2060:01191",
   "jp": "ヘッ！　小娘一人で何ができる！\nテメェラ、やっちまえ！",
-  "en": "Heh! What can one little girl do? Get 'er,\nboys!",
+  "en": "Heh! What can one little\ngirl do? Get 'er, boys!",
   "status": "done",
   "slots": [
    "0x4104"
@@ -1158,7 +1158,7 @@
  {
   "id": "s2060:01219",
   "jp": "女だからって安心するんだ。\nそれって、三流以下のすることよ？",
-  "en": "Relaxing just because I'm a woman? That's\nwhat third-raters do, you know.",
+  "en": "Relaxing just because I'm a woman?\nThat's what third-raters do, you know.",
   "status": "done",
   "slots": [
    "0x4212"
@@ -1185,7 +1185,7 @@
  {
   "id": "s2060:0129a",
   "jp": "あぁ～、悪いようにはしねぇから、\nさっさとどっか行け。な？",
-  "en": "Aaah, I won't do you any harm, so just get\nlost. 'Kay?",
+  "en": "Aaah, I won't do you any harm,\nso just get lost. 'Kay?",
   "status": "done",
   "slots": [
    "0x431d"
@@ -1195,7 +1195,7 @@
  {
   "id": "s2060:012d4",
   "jp": "淑女を狙うマナー違反の輩め。\n成敗してくれる！",
-  "en": "Ruffians who prey on a lady, a breach of\nmanners! I shall punish you!",
+  "en": "Ruffians who prey on a lady,\na breach of manners! I shall punish you!",
   "status": "done",
   "slots": [
    "0x43f1"
@@ -1225,7 +1225,7 @@
  {
   "id": "s2060:01358",
   "jp": "うるせぇガキ！\nガキは帰って飴でも舐めてやがれ！",
-  "en": "Shut it, brat! Brats should go home and suck\non candy!",
+  "en": "Shut it, brat! Brats should\ngo home and suck on candy!",
   "status": "done",
   "slots": [
    "0x44f7"
@@ -1235,7 +1235,7 @@
  {
   "id": "s2060:01388",
   "jp": "こらこら、あまり悪行が過ぎると\n地獄に落ちてしまうっすよ。",
-  "en": "Now, now, if you overdo the evil deeds you'll\nend up in Hell, sir.",
+  "en": "Now, now, if you overdo the evil\ndeeds you'll end up in Hell, sir.",
   "status": "done",
   "slots": [
    "0x45cb"
@@ -1245,7 +1245,7 @@
  {
   "id": "s2060:013c2",
   "jp": "あぁ？　なんだこの女。\n地獄に落ちるとか、電波系か？",
-  "en": "Huh? What's with this girl? \"End up in Hell\"?\nYou some kinda nutcase?",
+  "en": "Huh? What's with this girl?\n\"End up in Hell\"? You some kinda nutcase?",
   "status": "done",
   "slots": [
    "0x45e4"
@@ -1275,7 +1275,7 @@
  {
   "id": "s2060:0144d",
   "jp": "なんてわかりやすい悪！\nフフフ、腕が鳴るわ……！",
-  "en": "What blatant evil! Hehehe, my arm is\nitching...!",
+  "en": "What blatant evil! Hehehe,\nmy arm is itching...!",
   "status": "done",
   "slots": [
    "0x47a5"
@@ -1305,7 +1305,7 @@
  {
   "id": "s2060:014a5",
   "jp": "な、なんだぁ？\nこの人形は？\nってわぁぁ！　襲ってきたぁ！？",
-  "en": "Wh-what the? What's this doll? Whoa,\nwhoa! It's attacking!?",
+  "en": "Wh-what the? What's this doll?\nWhoa, whoa! It's attacking!?",
   "status": "done",
   "slots": [
    "0x48ab"
@@ -1315,7 +1315,7 @@
  {
   "id": "s2060:014e0",
   "jp": "麗しき婦女子を襲うなど、\n男の風上にも置けぬ奴等よ！\n覚悟せよ！",
-  "en": "Assaulting a fair maiden! You are a disgrace\nto all men! Prepare yourselves!",
+  "en": "Assaulting a fair maiden! You are a\ndisgrace to all men! Prepare yourselves!",
   "status": "done",
   "slots": [
    "0x497f"
@@ -1335,7 +1335,7 @@
  {
   "id": "s2060:01559",
   "jp": "その身のこなし……。\nただのゴロツキじゃないようね。",
-  "en": "The way you move... You're no ordinary\nthug, are you?",
+  "en": "The way you move...\nYou're no ordinary thug, are you?",
   "status": "done",
   "slots": [
    "0x4a6c"
@@ -1345,7 +1345,7 @@
  {
   "id": "s2060:0158d",
   "jp": "ヘッヘッヘ。\n女だからって容赦しないぜ。",
-  "en": "Heh heh heh. Just 'cause you're a woman\ndon't mean I'll go easy.",
+  "en": "Heh heh heh. Just 'cause you're\na woman don't mean I'll go easy.",
   "status": "done",
   "slots": [
    "0x4a85"
@@ -1355,7 +1355,7 @@
  {
   "id": "s2060:015b5",
   "jp": "あのねぇ。\n演技するなら、もっとマシな\n演技をするんだわさ。",
-  "en": "Look here. If you're gonna act, act a bit\nbetter than that, dontcha know.",
+  "en": "Look here. If you're gonna act,\nact a bit better than that, dontcha know.",
   "status": "done",
   "slots": [
    "0x4b59"
@@ -1395,7 +1395,7 @@
  {
   "id": "s2060:0164f",
   "jp": "俺の名はイシュト！\n通りすがりの……正義の味方さ！",
-  "en": "The name's Ishut! Just a passing... hero of\njustice!",
+  "en": "The name's Ishut!\nJust a passing... hero of justice!",
   "status": "done",
   "slots": [
    "0x3b75"
@@ -1435,7 +1435,7 @@
  {
   "id": "s2060:016c8",
   "jp": "はいはい。満足したなら、\n早くイータさんを助けますよ。",
-  "en": "Yes, yes. If you're satisfied, let's hurry up\nand save Eater-san.",
+  "en": "Yes, yes. If you're satisfied,\nlet's hurry up and save Eater-san.",
   "status": "done",
   "slots": [
    "0x3bd6"
@@ -1465,7 +1465,7 @@
  {
   "id": "s2060:01720",
   "jp": "ここコンチェル地域では、\n音楽が生活の一部になっていてね。\n年中音楽が鳴り止まない土地なのさ",
-  "en": "Here in the Concer region, music is part of\neveryday life. It's a land where the music\nnever stops, all year round.",
+  "en": "Here in the Concer region, music is\npart of everyday life. It's a land where\nthe music never stops, all year round.",
   "status": "done",
   "slots": [
    "0x2aa4"
@@ -1475,7 +1475,7 @@
  {
   "id": "s2060:0177b",
   "jp": "音楽に包まれた生活、素晴らしいと\n思わないかい？",
-  "en": "A life wrapped in music. Don't you think it's\nwonderful?",
+  "en": "A life wrapped in music.\nDon't you think it's wonderful?",
   "status": "done",
   "slots": [
    "0x2aab"
@@ -1495,7 +1495,7 @@
  {
   "id": "s2060:017bc",
   "jp": "おぬし、いい目をしておるの。\nこれをやろう。",
-  "en": "You have good eyes, young one. Here, take\nthis.",
+  "en": "You have good eyes,\nyoung one. Here, take this.",
   "status": "done",
   "slots": [
    "0x2b74"
@@ -1505,7 +1505,7 @@
  {
   "id": "s2060:017e8",
   "jp": "このベルは、心が綺麗であれば\nあるほど美しい音色が鳴ると\nいわれている。",
-  "en": "They say the purer your heart, the more\nbeautiful this bell sounds.",
+  "en": "They say the purer your heart,\nthe more beautiful this bell sounds.",
   "status": "done",
   "slots": [
    "0x2be3"
@@ -1515,7 +1515,7 @@
  {
   "id": "s2060:0182f",
   "jp": "おぬしなら、さぞいい音色が\n出るじゃろう。\nホッホッホ。ではの。",
-  "en": "I'm sure you'll draw a fine tone from it. Ho ho\nho. Farewell.",
+  "en": "I'm sure you'll draw a fine tone\nfrom it. Ho ho ho. Farewell.",
   "status": "done",
   "slots": [
    "0x2bea"
@@ -1525,7 +1525,7 @@
  {
   "id": "s2060:0186e",
   "jp": "この世は音で溢れておる。\nよぉく耳を傾けるんじゃぞ。",
-  "en": "This world overflows with sound. Listen\nclosely, now.",
+  "en": "This world overflows with sound.\nListen closely, now.",
   "status": "done",
   "slots": [
    "0x2c02"
@@ -1545,7 +1545,7 @@
  {
   "id": "s2060:018d0",
   "jp": "キミみたいな悪魔役を\nボクは探してたんだ！\nもうボクはキミしか見えてないよ！",
-  "en": "You're just the devil I've been looking for! I\nhave eyes for no one but you now!",
+  "en": "You're just the devil I've been looking for!\nI have eyes for no one but you now!",
   "status": "done",
   "slots": [
    "0x2c95"
@@ -1555,7 +1555,7 @@
  {
   "id": "s2060:0191b",
   "jp": "公演は昼からだ！\n是非来てくれたまえよぉ！",
-  "en": "The show starts at noon! Do come, I implore\nyou!",
+  "en": "The show starts at noon!\nDo come, I implore you!",
   "status": "done",
   "slots": [
    "0x2c9c"
@@ -1565,7 +1565,7 @@
  {
   "id": "s2060:01945",
   "jp": "なにをしているんだい！\nもうすぐ公演が始まるよ！",
-  "en": "What are you doing!? The show's about to\nstart!",
+  "en": "What are you doing!?\nThe show's about to start!",
   "status": "done",
   "slots": [
    "0x2cb4"
@@ -1575,7 +1575,7 @@
  {
   "id": "s2060:01975",
   "jp": "あぁ、あの素晴らしい吟遊詩人は\nいったい誰だったのかしら。",
-  "en": "Ah, who could that wonderful bard have\nbeen?",
+  "en": "Ah, who could that\nwonderful bard have been?",
   "status": "done",
   "slots": [
    "0x2d4f"
@@ -1585,7 +1585,7 @@
  {
   "id": "s2060:019af",
   "jp": "あの人の詩を聞いてから、私の心は\nあの人を追っていってしまったわ。",
-  "en": "Ever since I heard that bard's song, my\nheart has gone chasing after them.",
+  "en": "Ever since I heard that bard's song,\nmy heart has gone chasing after them.",
   "status": "done",
   "slots": [
    "0x2d56"
@@ -1595,7 +1595,7 @@
  {
   "id": "s2060:019f1",
   "jp": "あなた、あの吟遊詩人さんと\nお知り合い？\nならば、これを……。",
-  "en": "Do you know that bard? Then, please take\nthis...",
+  "en": "Do you know that bard?\nThen, please take this...",
   "status": "done",
   "slots": [
    "0x2d5d"
@@ -1605,7 +1605,7 @@
  {
   "id": "s2060:01a2e",
   "jp": "あの人が持っていた楽譜です。\nあの人に返してあげてください。\nお願いしますね。",
-  "en": "It's sheet music that bard had. Please\nreturn it to them. I'm counting on you.",
+  "en": "It's sheet music that bard had.\nPlease return it to them. I'm counting on you.",
   "status": "done",
   "slots": [
    "0x2dcc"
@@ -1615,7 +1615,7 @@
  {
   "id": "s2060:01a7b",
   "jp": "あの人の詩はまるで風。\n優しく私を包み、緩やかに心を\n攫っていってしまうの……。",
-  "en": "That bard's songs are like the wind. They\nwrap gently around me and slowly steal my\nheart away...",
+  "en": "That bard's songs are like the wind.\nThey wrap gently around me and\nslowly steal my heart away...",
   "status": "done",
   "slots": [
    "0x2de4"
@@ -1675,7 +1675,7 @@
  {
   "id": "s2060:01b62",
   "jp": "小腹が空いたな……っと！\n丁度いいところに！",
-  "en": "I'm gettin' a little peckish... Oh! Perfect\ntiming!",
+  "en": "I'm gettin' a little peckish...\nOh! Perfect timing!",
   "status": "done",
   "slots": [
    "0x2fd5"
@@ -1695,7 +1695,7 @@
  {
   "id": "s2060:01bab",
   "jp": "ふぃー。戦闘ってのは疲れますね。\n現地調達、現地調達っと。",
-  "en": "Phew. Fighting sure is tiring. Living off the\nland, living off the land...",
+  "en": "Phew. Fighting sure is tiring.\nLiving off the land, living off the land...",
   "status": "done",
   "slots": [
    "0x307e"
@@ -1715,7 +1715,7 @@
  {
   "id": "s2060:01bfa",
   "jp": "お腹空いた……\nでも、遺跡のウィルなんて\n全然感じないよ……。",
-  "en": "I'm hungry... But I can't feel any ruin Will at\nall...",
+  "en": "I'm hungry... But I can't\nfeel any ruin Will at all...",
   "status": "done",
   "slots": [
    "0x311c"
@@ -1765,7 +1765,7 @@
  {
   "id": "s2060:01cbc",
   "jp": "どっかに酒が湧く湖とかねぇのか？",
-  "en": "Ain't there a lake somewhere that springs\nbooze?",
+  "en": "Ain't there a lake somewhere\nthat springs booze?",
   "status": "done",
   "slots": [
    "0x32c0"
@@ -1775,7 +1775,7 @@
  {
   "id": "s2060:01cdd",
   "jp": "こういうサバイバルをする\n考古学者も、たまにいるんだよな。",
-  "en": "Now and then you meet archaeologists who\ndo this sort of survival.",
+  "en": "Now and then you meet archaeologists\nwho do this sort of survival.",
   "status": "done",
   "slots": [
    "0x330c"
@@ -1795,7 +1795,7 @@
  {
   "id": "s2060:01d38",
   "jp": "お腹空いた～。\nなにか食べられるのないかなぁ\n……あ！",
-  "en": "Locomoco's hungryyy. Isn't there anything\nto eat...? Oh!",
+  "en": "Locomoco's hungryyy.\nIsn't there anything to eat...? Oh!",
   "status": "done",
   "slots": [
    "0x33aa"
@@ -1805,7 +1805,7 @@
  {
   "id": "s2060:01d6d",
   "jp": "これ、前にお兄ちゃんが\n食べてたから大丈夫だよね！",
-  "en": "Big Brother ate one of these before, so it's\nokay, right?",
+  "en": "Big Brother ate one of these\nbefore, so it's okay, right?",
   "status": "done",
   "slots": [
    "0x3400"
@@ -1855,7 +1855,7 @@
  {
   "id": "s2060:01e27",
   "jp": "弾の補充ついでに、食料を確保して\nしまいましょう。",
-  "en": "While I restock my ammo, let's lay in some\nfood as well.",
+  "en": "While I restock my ammo,\nlet's lay in some food as well.",
   "status": "done",
   "slots": [
    "0x359a"
@@ -1895,7 +1895,7 @@
  {
   "id": "s2060:01e96",
   "jp": "お腹が減っちゃ、お宝探しは\nできないのよ？",
-  "en": "You can't hunt for treasure on an empty\nstomach, you know?",
+  "en": "You can't hunt for treasure on\nan empty stomach, you know?",
   "status": "done",
   "slots": [
    "0x36e1"
@@ -1915,7 +1915,7 @@
  {
   "id": "s2060:01ed5",
   "jp": "腹が減っては戦は出来ぬ！\n食料確保ぉぉぉ！！",
-  "en": "An army marches on its stomach! Securing\nprovisioooons!!",
+  "en": "An army marches on its stomach!\nSecuring provisioooons!!",
   "status": "done",
   "slots": [
    "0x377f"
@@ -1935,7 +1935,7 @@
  {
   "id": "s2060:01f1c",
   "jp": "焦らない焦らない。\n一休み一休みだわさ。",
-  "en": "No rush, no rush. Take a breather, take a\nbreather, dontcha know.",
+  "en": "No rush, no rush. Take a breather,\ntake a breather, dontcha know.",
   "status": "done",
   "slots": [
    "0x3828"
@@ -1955,7 +1955,7 @@
  {
   "id": "s2060:01f5f",
   "jp": "歌い疲れてしまいましたわ。\nしばしおまちを。",
-  "en": "I'm quite worn out from singing. Please wait\na moment.",
+  "en": "I'm quite worn out from singing.\nPlease wait a moment.",
   "status": "done",
   "slots": [
    "0x38d4"
@@ -1975,7 +1975,7 @@
  {
   "id": "s2060:01fa8",
   "jp": "サバイバルは大好きだぜ。\nこの極限の緊張感とか、\nたまんねぇよな……。",
-  "en": "I love survival. That tension right at the\nedge... can't get enough of it...",
+  "en": "I love survival. That tension right at\nthe edge... can't get enough of it...",
   "status": "done",
   "slots": [
    "0x396d"
@@ -1985,7 +1985,7 @@
  {
   "id": "s2060:01fed",
   "jp": "そして、サバイバルを制するのは、\n安全に食料を確保できる奴なんだぜ",
-  "en": "And the one who wins at survival is the one\nwho can get food safely.",
+  "en": "And the one who wins at survival\nis the one who can get food safely.",
   "status": "done",
   "slots": [
    "0x39b8"

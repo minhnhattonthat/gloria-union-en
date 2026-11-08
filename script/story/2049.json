@@ -2,7 +2,7 @@
  {
   "id": "s2049:00028",
   "jp": "前方より敵影を確認！\nあれは、ルキア皇国軍です！",
-  "en": "Enemy ships sighted ahead! That's the Lukia\nImperial Army!",
+  "en": "Enemy ships sighted ahead!\nThat's the Lukia Imperial Army!",
   "status": "done",
   "slots": [
    "0x2517"
@@ -24,7 +24,7 @@
  {
   "id": "s2049:00088",
   "jp": "ピンガー！　旗に書いてある数字を\n教えてくれ！",
-  "en": "Pinger! Tell me the numbers written on their\nflags!",
+  "en": "Pinger! Tell me the numbers\nwritten on their flags!",
   "status": "done",
   "slots": [
    "0x2541"
@@ -68,7 +68,7 @@
  {
   "id": "s2049:00120",
   "jp": "一番隊隊長のガルム。\n三番隊隊長のメラニー。\nルキア皇国、最強の槍と盾だ。",
-  "en": "Garm, captain of the First Unit. Melanie,\ncaptain of the Third Unit. The Lukia Empire's\nstrongest spear and shield.",
+  "en": "Garm, captain of the First Unit. Melanie,\ncaptain of the Third Unit. The Lukia\nEmpire's strongest spear and shield.",
   "status": "done",
   "slots": [
    "0x259d"
@@ -101,7 +101,7 @@
  {
   "id": "s2049:001ad",
   "jp": "え？　それって、おかしいわよ！\nそれじゃあアイツら、遺跡の場所が\nわかってるってことじゃない！",
-  "en": "Huh? That's weird! That means they know\nwhere the ruins are!",
+  "en": "Huh? That's weird! That means\nthey know where the ruins are!",
   "status": "done",
   "slots": [
    "0x25ea"
@@ -123,7 +123,7 @@
  {
   "id": "s2049:00229",
   "jp": "時代は流れてんだ。\n恐らく、超高感度の探知機を\n開発したか、手に入れたんだろう。",
-  "en": "Times change. They've probably developed\nor got their hands on some super-sensitive\ndetector.",
+  "en": "Times change. They've probably\ndeveloped or got their hands on\nsome super-sensitive detector.",
   "status": "done",
   "slots": [
    "0x2614"
@@ -156,7 +156,7 @@
  {
   "id": "s2049:002ba",
   "jp": "鍵と羅針盤を渡せ！\n断れば、その場で戦闘することも\n止むを得ないぞ！",
-  "en": "Hand over the key and the compass! If you\nrefuse, we will have no choice but to fight\nyou here and now!",
+  "en": "Hand over the key and the compass!\nIf you refuse, we will have no choice\nbut to fight you here and now!",
   "status": "done",
   "slots": [
    "0x2677"
@@ -178,7 +178,7 @@
  {
   "id": "s2049:00318",
   "jp": "アンタの剣と、ルルゥのことよ。\n事情を知ってる人達は、\n二人のことをそう呼ぶわ。",
-  "en": "Your sword and Ruru. People who know the\nstory call the two of them that.",
+  "en": "Your sword and Ruru. People who know\nthe story call the two of them that.",
   "status": "done",
   "slots": [
    "0x26dd"
@@ -189,7 +189,7 @@
  {
   "id": "s2049:0036b",
   "jp": "なんだかルルゥをモノ扱いされてる\nようで、気にいらねぇな。",
-  "en": "Somehow it sounds like they're treatin' Ruru\nlike an object. I don't like it.",
+  "en": "Somehow it sounds like they're treatin'\nRuru like an object. I don't like it.",
   "status": "done",
   "slots": [
    "0x26f2"
@@ -222,7 +222,7 @@
  {
   "id": "s2049:003dd",
   "jp": "私も、せっかくみんなと\n会えたんだもん。\n出て行くわけにはいかないよ！",
-  "en": "I finally got to meet everyone, too. I'm not\nleaving!",
+  "en": "I finally got to meet everyone,\ntoo. I'm not leaving!",
   "status": "done",
   "slots": [
    "0x2731"
@@ -255,7 +255,7 @@
  {
   "id": "s2049:00482",
   "jp": "ウム、ニ隊で一気に潰すか？",
-  "en": "Hmm, shall we crush them in one go with\nboth units?",
+  "en": "Hmm, shall we crush them\nin one go with both units?",
   "status": "done",
   "slots": [
    "0x285a"
@@ -266,7 +266,7 @@
  {
   "id": "s2049:004a1",
   "jp": "ならば私が前線に出て、敵の攻撃を\n防ぎます。",
-  "en": "Then I will take the front line and block the\nenemy's attacks.",
+  "en": "Then I will take the front line\nand block the enemy's attacks.",
   "status": "done",
   "slots": [
    "0x2873"
@@ -288,7 +288,7 @@
  {
   "id": "s2049:004ff",
   "jp": "槍のガルムに盾のメラニーか。\n一筋縄ではいかなそうだな……。\n武器の相性を考えねぇとな。",
-  "en": "Garm the Spear and Melanie the Shield, huh.\nThis ain't gonna be easy... I'd better think\nabout weapon matchups.",
+  "en": "Garm the Spear and Melanie the Shield,\nhuh. This ain't gonna be easy...\nI'd better think about weapon matchups.",
   "status": "done",
   "slots": [
    "0x28a5"
@@ -321,7 +321,7 @@
  {
   "id": "s2049:005b3",
   "jp": "アシュレイ様の弟か、忌々しい。\nすぐに我が剣の錆にしてくれる！",
-  "en": "Ashrey-sama's younger brother? How\nvexing. I'll make you rust on my blade soon\nenough!",
+  "en": "Ashrey-sama's younger brother?\nHow vexing. I'll make you rust\non my blade soon enough!",
   "status": "done",
   "slots": [
    "0x5a43"
@@ -332,7 +332,7 @@
  {
   "id": "s2049:005f5",
   "jp": "隊列に隙がねぇ。\nどこから抜けばいいんだ……！？",
-  "en": "There's no gap in their ranks. Where do I\nbreak through...!?",
+  "en": "There's no gap in their ranks.\nWhere do I break through...!?",
   "status": "done",
   "slots": [
    "0x5a5d"
@@ -365,7 +365,7 @@
  {
   "id": "s2049:0067d",
   "jp": "懐かしいな。こうして討ち合える\nのは何年ぶりか！",
-  "en": "This takes me back. How many years has it\nbeen since we crossed blades like this!",
+  "en": "This takes me back. How many years has\nit been since we crossed blades like this!",
   "status": "done",
   "slots": [
    "0x54ef"
@@ -376,7 +376,7 @@
  {
   "id": "s2049:006b1",
   "jp": "ヘッ、そんじゃあ今回も、\n勝ち逃げさせてもらおうかねぇ。",
-  "en": "Heh, then I guess I'll take the win and run\nthis time too.",
+  "en": "Heh, then I guess I'll take the\nwin and run this time too.",
   "status": "done",
   "slots": [
    "0x5509"
@@ -387,7 +387,7 @@
  {
   "id": "s2049:006ed",
   "jp": "貴様に敗れてから、我が隊の盾は\nさらに強化された！\nもう破られることはない！",
-  "en": "Since my defeat at your hands, my unit's\nshield has grown even stronger! It will never\nbe broken again!",
+  "en": "Since my defeat at your hands,\nmy unit's shield has grown even stronger!\nIt will never be broken again!",
   "status": "done",
   "slots": [
    "0x5e50"
@@ -409,7 +409,7 @@
  {
   "id": "s2049:00787",
   "jp": "ルキア皇国騎士団一番隊隊長\n“神槍のガルム”！\n相手をしよう。獣人の娘よ。",
-  "en": "Captain of the Lukia Imperial Knights' First\nUnit, \"Garm the Divine Spear\"! I shall be your\nopponent, beastman girl.",
+  "en": "Captain of the Lukia Imperial Knights'\nFirst Unit, \"Garm the Divine Spear\"!\nI shall be your opponent, beastman girl.",
   "status": "done",
   "slots": [
    "0x51d3"
@@ -419,7 +419,7 @@
  {
   "id": "s2049:007d0",
   "jp": "ルキア皇国軍の将軍……。\n今のボク達に相手が\nできるのでしょうか……。",
-  "en": "A general of the Lukia Imperial Army... Can\nwe really take him on as we are now...?",
+  "en": "A general of the Lukia Imperial Army...\nCan we really take him on as we are now...?",
   "status": "done",
   "slots": [
    "0x51ed"
@@ -429,7 +429,7 @@
  {
   "id": "s2049:00815",
   "jp": "ルキア皇国騎士団三番隊隊長\n“守護神メラニー”\n貴様の攻撃、全て無効化してやる！",
-  "en": "Captain of the Lukia Imperial Knights' Third\nUnit, \"Melanie the Guardian\"! I will nullify\nevery one of your attacks!",
+  "en": "Captain of the Lukia Imperial Knights'\nThird Unit, \"Melanie the Guardian\"!\nI will nullify every one of your attacks!",
   "status": "done",
   "slots": [
    "0x5b47"
@@ -449,7 +449,7 @@
  {
   "id": "s2049:008ab",
   "jp": "そこを退いて！\n次の遺跡にいけないでしょ！",
-  "en": "Get out of the way! We can't get to the next\nruins!",
+  "en": "Get out of the way!\nWe can't get to the next ruins!",
   "status": "done",
   "slots": [
    "0x5c35"
@@ -459,7 +459,7 @@
  {
   "id": "s2049:008d5",
   "jp": "行く必要は無い。\n貴様等の旅はここで終わりだ！",
-  "en": "There's no need to go. Your journey ends\nhere!",
+  "en": "There's no need to go.\nYour journey ends here!",
   "status": "done",
   "slots": [
    "0x5c4e"
@@ -469,7 +469,7 @@
  {
   "id": "s2049:00903",
   "jp": "ザザーランドの娘か。\n後世の為に、ここで摘んでおくのも\n悪くは無いな。",
-  "en": "Zazarland's daughter, eh? It wouldn't be bad\nto nip you in the bud here, for the sake of\nthe future.",
+  "en": "Zazarland's daughter, eh?\nIt wouldn't be bad to nip you in the\nbud here, for the sake of the future.",
   "status": "done",
   "slots": [
    "0x53e3"
@@ -479,7 +479,7 @@
  {
   "id": "s2049:00948",
   "jp": "そう簡単に摘まれて\nたまるもんですか！\n返り討ちにしてあげるわ！",
-  "en": "As if I'd let you nip me that easily! I'll turn\nthe tables on you!",
+  "en": "As if I'd let you nip me that easily!\nI'll turn the tables on you!",
   "status": "done",
   "slots": [
    "0x53fd"
@@ -489,7 +489,7 @@
  {
   "id": "s2049:00987",
   "jp": "ガチガチに隊を固めちゃって、\nあたしの銃がそんなに怖いの？",
-  "en": "Locking your unit up that tight... Are you\nthat scared of my guns?",
+  "en": "Locking your unit up that tight...\nAre you that scared of my guns?",
   "status": "done",
   "slots": [
    "0x5d29"
@@ -529,7 +529,7 @@
  {
   "id": "s2049:00a49",
   "jp": "妙な縁ができたのでね。\n悪いが、お相手願おうか。",
-  "en": "Fate has tangled me up with them,\nstrangely enough. Forgive me, but I must ask\nyou to face me.",
+  "en": "Fate has tangled me up with them,\nstrangely enough. Forgive me,\nbut I must ask you to face me.",
   "status": "done",
   "slots": [
    "0x560d"
@@ -539,7 +539,7 @@
  {
   "id": "s2049:00a79",
   "jp": "まさかアナタがグロリア海賊団に\n入っていようとは。\nファンの身としてはショックですね",
-  "en": "To think you'd join the Gloria Pirates. As a\nfan, I'm shocked.",
+  "en": "To think you'd join the Gloria\nPirates. As a fan, I'm shocked.",
   "status": "done",
   "slots": [
    "0x5f5b"
@@ -549,7 +549,7 @@
  {
   "id": "s2049:00acc",
   "jp": "ファンか……。\n自分の書いた本を読んでくれている\n人物と会えるとは、嬉しいな。",
-  "en": "A fan... How delightful to meet someone\nwho reads the books I wrote.",
+  "en": "A fan... How delightful to meet\nsomeone who reads the books I wrote.",
   "status": "done",
   "slots": [
    "0x5f75"
@@ -559,7 +559,7 @@
  {
   "id": "s2049:00b19",
   "jp": "だがそれなら、自分がどんな\n男なのかも知っているのでは\nないか？",
-  "en": "But if so, surely you know what kind of man I\nam?",
+  "en": "But if so, surely you know\nwhat kind of man I am?",
   "status": "done",
   "slots": [
    "0x5f8a"
@@ -569,7 +569,7 @@
  {
   "id": "s2049:00b58",
   "jp": "幼き娘よ、去れ。\nここはお前の様な者のいるべき\n場所ではない。",
-  "en": "Begone, little girl. This is no place for the\nlikes of you.",
+  "en": "Begone, little girl. This is no\nplace for the likes of you.",
   "status": "done",
   "slots": [
    "0x56f7"
@@ -589,7 +589,7 @@
  {
   "id": "s2049:00be8",
   "jp": "そんな隊列、ロコモコのメテオで\nまとめて吹き飛ばしてあげる！",
-  "en": "Locomoco's Meteor will blow those ranks of\nyours away all at once!",
+  "en": "Locomoco's Meteor will blow those\nranks of yours away all at once!",
   "status": "done",
   "slots": [
    "0x6065"
@@ -609,7 +609,7 @@
  {
   "id": "s2049:00c69",
   "jp": "貴様、奇妙な格好をしているな。\nどこの国の者だ。",
-  "en": "You wear strange clothes. What country are\nyou from?",
+  "en": "You wear strange clothes.\nWhat country are you from?",
   "status": "done",
   "slots": [
    "0x5802"
@@ -619,7 +619,7 @@
  {
   "id": "s2049:00c99",
   "jp": "私は黄泉の国\n悪魔局死人管理部罪人課の\nラズベリーっす！",
-  "en": "I'm Raspberry of the Land of the Dead, Devil\nBureau, Department of Dead Management,\nSinners Section, sir!",
+  "en": "I'm Raspberry of the Land of the Dead,\nDevil Bureau, Department of Dead\nManagement, Sinners Section, sir!",
   "status": "done",
   "slots": [
    "0x581c"
@@ -629,7 +629,7 @@
  {
   "id": "s2049:00cd0",
   "jp": "黄泉の国……\n聞いたことの無い名前だ。\n念の為、同行を願おうか。",
-  "en": "The Land of the Dead... A name I have never\nheard. Just in case, I must ask you to come\nwith us.",
+  "en": "The Land of the Dead... A name I\nhave never heard. Just in case,\nI must ask you to come with us.",
   "status": "done",
   "slots": [
    "0x5835"
@@ -639,7 +639,7 @@
  {
   "id": "s2049:00d0f",
   "jp": "貴様、何者だ！\n空を飛ぶ人間など見た事がない！",
-  "en": "Who are you!? I've never seen a human that\nflies!",
+  "en": "Who are you!? I've never\nseen a human that flies!",
   "status": "done",
   "slots": [
    "0x6168"
@@ -649,7 +649,7 @@
  {
   "id": "s2049:00d3d",
   "jp": "私は黄泉の国\n悪魔局死人管理部罪人課の\nラズベリーっす！",
-  "en": "I'm Raspberry of the Land of the Dead, Devil\nBureau, Department of Dead Management,\nSinners Section, sir!",
+  "en": "I'm Raspberry of the Land of the Dead,\nDevil Bureau, Department of Dead\nManagement, Sinners Section, sir!",
   "status": "done",
   "slots": [
    "0x6182"
@@ -659,7 +659,7 @@
  {
   "id": "s2049:00d74",
   "jp": "よ、黄泉の国？\nわ、わけがわからない……。",
-  "en": "Th-the Land of the Dead? I-I don't\nunderstand...",
+  "en": "Th-the Land of the Dead?\nI-I don't understand...",
   "status": "done",
   "slots": [
    "0x6197"
@@ -669,7 +669,7 @@
  {
   "id": "s2049:00d9e",
   "jp": "皇国騎士団の隊長か。\n丁度いい、\nここで討たせてもらうぞ！",
-  "en": "A captain of the Imperial Knights. Perfect.\nI'll strike you down here!",
+  "en": "A captain of the Imperial Knights.\nPerfect. I'll strike you down here!",
   "status": "done",
   "slots": [
    "0x5917"
@@ -679,7 +679,7 @@
  {
   "id": "s2049:00dd7",
   "jp": "シャンティエの出身者か。\n物資を得るために海賊を頼るとは、\n堕ちたものだな。",
-  "en": "One from Chantier? Relying on pirates for\nsupplies... How far you have fallen.",
+  "en": "One from Chantier? Relying on pirates\nfor supplies... How far you have fallen.",
   "status": "done",
   "slots": [
    "0x5930"
@@ -689,7 +689,7 @@
  {
   "id": "s2049:00e22",
   "jp": "貴様……！\n馬ごと深海に引きずり込んでやる！",
-  "en": "You...! I'll drag you into the deep sea, horse\nand all!",
+  "en": "You...! I'll drag you into the\ndeep sea, horse and all!",
   "status": "done",
   "slots": [
    "0x594a"
@@ -699,7 +699,7 @@
  {
   "id": "s2049:00e4e",
   "jp": "貴様等の脆弱な陣形など、\n私の槍で貫いてやる！",
-  "en": "I'll pierce your feeble formation with my\nspear!",
+  "en": "I'll pierce your feeble\nformation with my spear!",
   "status": "done",
   "slots": [
    "0x626b"
@@ -709,7 +709,7 @@
  {
   "id": "s2049:00e7c",
   "jp": "フン、貴様如きが。\n強さを語るな！",
-  "en": "Hmph, the likes of you have no right to\nspeak of strength!",
+  "en": "Hmph, the likes of you have\nno right to speak of strength!",
   "status": "done",
   "slots": [
    "0x6284"
@@ -719,7 +719,7 @@
  {
   "id": "s2049:00e9e",
   "jp": "クッ……グロリア海賊団。\n侮っていた。",
-  "en": "Ngh... The Gloria Pirates. I underestimated\nthem.",
+  "en": "Ngh... The Gloria Pirates.\nI underestimated them.",
   "status": "done",
   "slots": [
    "0x6457"
@@ -741,7 +741,7 @@
  {
   "id": "s2049:00eeb",
   "jp": "偵察部隊で来るからだ、アホ。\n装備だって、急ごしらえのナマクラ\nじゃねぇか。",
-  "en": "That's what ya get for comin' with a scout\nunit, idiot. Even your gear was slapdash\njunk.",
+  "en": "That's what ya get for comin'\nwith a scout unit, idiot.\nEven your gear was slapdash junk.",
   "status": "done",
   "slots": [
    "0x6e3a"
@@ -785,7 +785,7 @@
  {
   "id": "s2049:00f9a",
   "jp": "なるほど。奴らの探知機、感度は\nいいみたいだが、精確性はそんなに\nないみたいだな。",
-  "en": "I see. Their detector seems sensitive, but\nnot especially accurate.",
+  "en": "I see. Their detector seems sensitive,\nbut not especially accurate.",
   "status": "done",
   "slots": [
    "0x6e8b"
@@ -829,7 +829,7 @@
  {
   "id": "s2049:0105b",
   "jp": "ここからだと、同じぐらいの距離に\n遺跡が二つあるよ。",
-  "en": "From here, there are two ruins about the\nsame distance away.",
+  "en": "From here, there are two ruins\nabout the same distance away.",
   "status": "done",
   "slots": [
    "0x6f0b"
@@ -851,7 +851,7 @@
  {
   "id": "s2049:0109e",
   "jp": "うん。“風神の道”と“大地の槍”\nっていうところだよ。",
-  "en": "Yeah. Places called \"Wind God's Road\" and\n\"Earth Spear\".",
+  "en": "Yeah. Places called \"Wind\nGod's Road\" and \"Earth Spear\".",
   "status": "done",
   "slots": [
    "0x6f39"
@@ -873,7 +873,7 @@
  {
   "id": "s2049:010f9",
   "jp": "左右真逆だねぇ。どうする？",
-  "en": "They're in totally opposite directions. What\nshould we do?",
+  "en": "They're in totally opposite\ndirections. What should we do?",
   "status": "done",
   "slots": [
    "0x6f63"
@@ -884,7 +884,7 @@
  {
   "id": "s2049:01118",
   "jp": "言っておくけど、止まってる暇は\nないわよ。",
-  "en": "Just so you know, we don't have time to\nstand around.",
+  "en": "Just so you know, we don't\nhave time to stand around.",
   "status": "done",
   "slots": [
    "0x6f78"
@@ -903,7 +903,7 @@
  {
   "id": "s2049:01174",
   "jp": "そうだな。\nじゃあ、風神の道にしよう！\n風神って響きが気に入った！",
-  "en": "Right. Then let's go to Wind God's Road! I\nlike the sound of \"Wind God\"!",
+  "en": "Right. Then let's go to Wind God's Road!\nI like the sound of \"Wind God\"!",
   "status": "done",
   "slots": [
    "0x6fa0"
@@ -914,7 +914,7 @@
  {
   "id": "s2049:011b9",
   "jp": "大地の槍！　ここに行こう。\nどんな所なのか気になるからな！",
-  "en": "Earth Spear! Let's go there. I wanna know\nwhat kind of place it is!",
+  "en": "Earth Spear! Let's go there.\nI wanna know what kind of place it is!",
   "status": "done",
   "slots": [
    "0x6ffb"
@@ -925,7 +925,7 @@
  {
   "id": "s2049:011f7",
   "jp": "まさか、木や草の代わりに槍が\n生えてるってわけじゃない、よな？",
-  "en": "It's not like spears grow there instead of\ntrees and grass... right?",
+  "en": "It's not like spears grow there\ninstead of trees and grass... right?",
   "status": "done",
   "slots": [
    "0x701e"
@@ -936,7 +936,7 @@
  {
   "id": "s2049:01239",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x4a9b"
@@ -966,7 +966,7 @@
  {
   "id": "s2049:012bd",
   "jp": "気分はどう？\n神秘、感じるかしら？",
-  "en": "How do you feel? Do you sense the\nmystery?",
+  "en": "How do you feel?\nDo you sense the mystery?",
   "status": "done",
   "slots": [
    "0x4ab9"
@@ -987,7 +987,7 @@
  {
   "id": "s2049:01300",
   "jp": "心なしか、逞しくなった気が\nしますね。",
-  "en": "I feel like I've gotten a bit more rugged,\nsomehow.",
+  "en": "I feel like I've gotten a bit\nmore rugged, somehow.",
   "status": "done",
   "slots": [
    "0x4b83"
@@ -1020,7 +1020,7 @@
  {
   "id": "s2049:01360",
   "jp": "変わってない？\nいい度胸ね。\nちょっと面貸しなさいよ。",
-  "en": "I haven't changed? You've got some nerve.\nStep outside for a minute.",
+  "en": "I haven't changed? You've got some\nnerve. Step outside for a minute.",
   "status": "done",
   "slots": [
    "0x4c0b"
@@ -1075,7 +1075,7 @@
  {
   "id": "s2049:01401",
   "jp": "これは……ある意味、歴史的瞬間\nなのかもしれない……。",
-  "en": "This may be... in a sense, a historic\nmoment...",
+  "en": "This may be... in a sense,\na historic moment...",
   "status": "done",
   "slots": [
    "0x4ddb"
@@ -1086,7 +1086,7 @@
  {
   "id": "s2049:0143b",
   "jp": "ま、これで変な男に\n言い寄られなくて済むわね。",
-  "en": "Well, at least now I won't have weird men\nhitting on me.",
+  "en": "Well, at least now I won't\nhave weird men hitting on me.",
   "status": "done",
   "slots": [
    "0x4e2d"
@@ -1141,7 +1141,7 @@
  {
   "id": "s2049:014e9",
   "jp": "意味ねぇことしてねぇで、\nさっさと戦闘に戻れぇ。",
-  "en": "Quit messin' around with pointless stuff and\nget back to the fight.",
+  "en": "Quit messin' around with pointless\nstuff and get back to the fight.",
   "status": "done",
   "slots": [
    "0x4fbd"
@@ -1159,7 +1159,7 @@
  {
   "id": "s2049:01560",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x4fde"
@@ -1179,7 +1179,7 @@
  {
   "id": "s2049:015c8",
   "jp": "ま、それが一般人というものか。\nキミに用はない。\n帰りたまえ。",
-  "en": "Well, I suppose that's what ordinary people\nare like. I have no business with you. Off you\ngo.",
+  "en": "Well, I suppose that's what\nordinary people are like.\nI have no business with you. Off you go.",
   "status": "done",
   "slots": [
    "0x4fec"
@@ -1189,14 +1189,14 @@
  {
   "id": "s2049:01605",
   "jp": "一般人に用はない。\n手術を受けたかったら、紹介状でも\n持ってくるんだな。",
-  "en": "I have no business with ordinary people. If\nyou want the operation, bring me a letter of\nreferral or something.",
+  "en": "I have no business with ordinary people.\nIf you want the operation, bring me\na letter of referral or something.",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2049:0164c",
   "jp": "ルキア皇国は確かに戦争を\nしているが、それは他国が皇国に\n逆らうからだ！",
-  "en": "It's true that the Lukia Empire is at war, but\nthat's because other countries defy the\nEmpire!",
+  "en": "It's true that the Lukia Empire\nis at war, but that's because\nother countries defy the Empire!",
   "status": "done",
   "slots": [
    "0x29b6"
@@ -1206,7 +1206,7 @@
  {
   "id": "s2049:01693",
   "jp": "早々にルキア皇国に属すことにした\nこの村は戦争の被害に巻き込まれる\nことなく平和な生活を送っている。",
-  "en": "This village chose to join the Lukia Empire\nearly on, so we live in peace without getting\ncaught up in the war.",
+  "en": "This village chose to join the Lukia\nEmpire early on, so we live in peace\nwithout getting caught up in the war.",
   "status": "done",
   "slots": [
    "0x29bd"
@@ -1226,7 +1226,7 @@
  {
   "id": "s2049:01732",
   "jp": "ルキア皇国は最強の国だ。\n抵抗なんて、無意味なんだよ。",
-  "en": "The Lukia Empire is the strongest nation.\nResistance is pointless.",
+  "en": "The Lukia Empire is the strongest\nnation. Resistance is pointless.",
   "status": "done",
   "slots": [
    "0x29dc"
@@ -1236,7 +1236,7 @@
  {
   "id": "s2049:01768",
   "jp": "貴様！　グロリア海賊団だな！？",
-  "en": "You there! You're the Gloria Pirates, aren't\nyou!?",
+  "en": "You there! You're the\nGloria Pirates, aren't you!?",
   "status": "done",
   "slots": [
    "0x29ff"
@@ -1266,7 +1266,7 @@
  {
   "id": "s2049:017e9",
   "jp": "ルキア皇国は最強の国だ。\n抵抗なんて、無意味なんだよ。",
-  "en": "The Lukia Empire is the strongest nation.\nResistance is pointless.",
+  "en": "The Lukia Empire is the strongest\nnation. Resistance is pointless.",
   "status": "done",
   "slots": [
    "0x2a25"
@@ -1336,7 +1336,7 @@
  {
   "id": "s2049:0192e",
   "jp": "あら、ドゼウじゃない。\nこんな所にも生息しているのね。",
-  "en": "Oh, a loach! So they live in places like this\ntoo.",
+  "en": "Oh, a loach! So they live\nin places like this too.",
   "status": "done",
   "slots": [
    "0x3a68"
@@ -1366,7 +1366,7 @@
  {
   "id": "s2049:01998",
   "jp": "エリーシャになんか作ってもらうか",
-  "en": "Maybe I'll get Elisha to cook somethin' with\nit.",
+  "en": "Maybe I'll get Elisha to\ncook somethin' with it.",
   "status": "done",
   "slots": [
    "0x3b5c"
@@ -1426,7 +1426,7 @@
  {
   "id": "s2049:01a4d",
   "jp": "美味しそうっすねぇ。\n早速エリーシャさんに調理して\nもらうっす！",
-  "en": "Looks tasty. I'll have Elisha-san cook it right\naway!",
+  "en": "Looks tasty. I'll have\nElisha-san cook it right away!",
   "status": "done",
   "slots": [
    "0x3d65"
@@ -1436,7 +1436,7 @@
  {
   "id": "s2049:01a8c",
   "jp": "お、ドゼウくん。\nこんな所で何をしているんだい？",
-  "en": "Oh, Mr. Loach. What are you doing in a place\nlike this?",
+  "en": "Oh, Mr. Loach. What are you\ndoing in a place like this?",
   "status": "done",
   "slots": [
    "0x3db8"
@@ -1506,7 +1506,7 @@
  {
   "id": "s2049:01b5f",
   "jp": "ビン……中になにか入ってる。\nなんだろう？",
-  "en": "A bottle... There's something inside. What\ncould it be?",
+  "en": "A bottle... There's something\ninside. What could it be?",
   "status": "done",
   "slots": [
    "0x401e"
@@ -1546,7 +1546,7 @@
  {
   "id": "s2049:01bd0",
   "jp": "手紙。あぁ～そういえば昔\n流行ったな。こういうの。",
-  "en": "A letter. Ahh, these were all the rage back\nin the day.",
+  "en": "A letter. Ahh, these were\nall the rage back in the day.",
   "status": "done",
   "slots": [
    "0x414c"
@@ -1606,7 +1606,7 @@
  {
   "id": "s2049:01cca",
   "jp": "手紙じゃないっすか……。\nそういえば、まだ一回も黄泉に\n報告書送ってないっすねぇ……。",
-  "en": "Isn't that a letter... Come to think of it, I\nhaven't sent a single report back to the\nLand of the Dead yet...",
+  "en": "Isn't that a letter... Come to think of it,\nI haven't sent a single report back\nto the Land of the Dead yet...",
   "status": "done",
   "slots": [
    "0x4311"
@@ -1636,7 +1636,7 @@
  {
   "id": "s2049:01d69",
   "jp": "この難破船。\nどうやら貨物船みたいだな。",
-  "en": "This shipwreck. Looks like it was a cargo\nship.",
+  "en": "This shipwreck.\nLooks like it was a cargo ship.",
   "status": "done",
   "slots": [
    "0x444d"
@@ -1656,7 +1656,7 @@
  {
   "id": "s2049:01da6",
   "jp": "お、フルーツだ！\nまだ腐ってねぇみたいだし、\nもらっておこうぜ！",
-  "en": "Oh, fruit! Doesn't look rotten yet, so let's\ntake it!",
+  "en": "Oh, fruit! Doesn't look\nrotten yet, so let's take it!",
   "status": "done",
   "slots": [
    "0x44ae"
@@ -1666,7 +1666,7 @@
  {
   "id": "s2049:01de5",
   "jp": "お、これは、貨物船ですね？\nなにかありますかねぇ？",
-  "en": "Oh, this is a cargo ship, isn't it? I wonder if\nthere's anything here.",
+  "en": "Oh, this is a cargo ship, isn't it?\nI wonder if there's anything here.",
   "status": "done",
   "slots": [
    "0x4508"
@@ -1706,7 +1706,7 @@
  {
   "id": "s2049:01e67",
   "jp": "貨物船が難破してるわ。\nなにか拾い物はないかしら？",
-  "en": "A cargo ship's been wrecked. I wonder if\nthere's anything to pick up?",
+  "en": "A cargo ship's been wrecked.\nI wonder if there's anything to pick up?",
   "status": "done",
   "slots": [
    "0x464f"
@@ -1736,7 +1736,7 @@
  {
   "id": "s2049:01ec3",
   "jp": "お、こいつぁ難破船だな？\n拾いモン拾いモンっとぉ。",
-  "en": "Oh, it's a shipwreck, ain't it? Pickin's,\npickin's...",
+  "en": "Oh, it's a shipwreck,\nain't it? Pickin's, pickin's...",
   "status": "done",
   "slots": [
    "0x4706"
@@ -1776,7 +1776,7 @@
  {
   "id": "s2049:01f75",
   "jp": "お、このフルーツはまだ\n食べられそうだな。\nもらっておこう。",
-  "en": "Oh, this fruit still looks edible. I shall take\nit.",
+  "en": "Oh, this fruit still looks\nedible. I shall take it.",
   "status": "done",
   "slots": [
    "0x481e"
@@ -1806,7 +1806,7 @@
  {
   "id": "s2049:01fe9",
   "jp": "南国フルーツ発見！\nロコモコちゃんスゴイ！",
-  "en": "Found tropical fruit! Locomoco-chan's\namazing!",
+  "en": "Found tropical fruit!\nLocomoco-chan's amazing!",
   "status": "done",
   "slots": [
    "0x48d5"
@@ -1826,7 +1826,7 @@
  {
   "id": "s2049:0204a",
   "jp": "無事なのはこのフルーツ\nぐらいっすね。\nもらっておくっす。",
-  "en": "This fruit is about the only thing that's\nintact. I'll take it, sir.",
+  "en": "This fruit is about the only thing\nthat's intact. I'll take it, sir.",
   "status": "done",
   "slots": [
    "0x4973"
@@ -1836,7 +1836,7 @@
  {
   "id": "s2049:02083",
   "jp": "難破船の貨物を取るというのは\n少し心苦しいが……。",
-  "en": "It pains me a little to take a wrecked ship's\ncargo...",
+  "en": "It pains me a little to take\na wrecked ship's cargo...",
   "status": "done",
   "slots": [
    "0x49bf"
@@ -1846,7 +1846,7 @@
  {
   "id": "s2049:020b5",
   "jp": "明日はわが身なのだ。\nすまないが、頂戴しておこう。",
-  "en": "But it could be me tomorrow. Forgive me,\nbut I'll take it.",
+  "en": "But it could be me tomorrow.\nForgive me, but I'll take it.",
   "status": "done",
   "slots": [
    "0x4a0a"

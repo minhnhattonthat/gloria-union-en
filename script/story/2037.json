@@ -24,7 +24,7 @@
  {
   "id": "s2037:00058",
   "jp": "あら？　アナタ達。\n脱走しちゃったの？\nフフ、いけない人達ね。",
-  "en": "Oh? You lot broke out? Hehe, what naughty\npeople.",
+  "en": "Oh? You lot broke out?\nHehe, what naughty people.",
   "status": "done",
   "slots": [
    "0xcb6"
@@ -35,7 +35,7 @@
  {
   "id": "s2037:00099",
   "jp": "悪いけど、もう一度牢屋に入って\nもらうわよ。",
-  "en": "Sorry, but I'll need you to go back into your\ncells.",
+  "en": "Sorry, but I'll need you to\ngo back into your cells.",
   "status": "done",
   "slots": [
    "0xcbd"
@@ -57,7 +57,7 @@
  {
   "id": "s2037:000e4",
   "jp": "エリーシャの親父さんを\n助けなきゃならないし、\n逃げるわけにはいかないな。",
-  "en": "We've got to rescue Elisha's old man, so we\ncan't run away.",
+  "en": "We've got to rescue Elisha's old man,\nso we can't run away.",
   "status": "done",
   "slots": [
    "0xcef"
@@ -79,7 +79,7 @@
  {
   "id": "s2037:00140",
   "jp": "と言っても、\n脱獄の後処理は契約外なのよねぇ。\n下っ端にでもまかせるわ。",
-  "en": "Then again, cleaning up after a jailbreak\nisn't in my contract. I'll leave it to the\ngrunts.",
+  "en": "Then again, cleaning up after a\njailbreak isn't in my contract.\nI'll leave it to the grunts.",
   "status": "done",
   "slots": [
    "0xd21"
@@ -134,7 +134,7 @@
  {
   "id": "s2037:00233",
   "jp": "エリーシャの親父だからなぁ。\nどんな人なんだろうな。",
-  "en": "Elisha's dad, huh? Wonder what kind of guy\nhe is.",
+  "en": "Elisha's dad, huh?\nWonder what kind of guy he is.",
   "status": "done",
   "slots": [
    "0x1b69"
@@ -167,7 +167,7 @@
  {
   "id": "s2037:002ba",
   "jp": "おいおい、そんなに期待されると\n出にくいじゃねぇか。",
-  "en": "Hey, hey, with expectations like that, it's\nhard to make an entrance.",
+  "en": "Hey, hey, with expectations like that,\nit's hard to make an entrance.",
   "status": "done",
   "slots": [
    "0x1bc0"
@@ -211,7 +211,7 @@
  {
   "id": "s2037:00356",
   "jp": "ほぉ、お前らが……そうか。\nユーフォリアの鍵。羅針盤……。\nこれで奴らに一泡吹かせられるな。",
-  "en": "Hoh, so you're the ones... I see. The Key of\nEuforia. The compass... Now we can give\nthose guys a nasty surprise.",
+  "en": "Hoh, so you're the ones... I see.\nThe Key of Euforia. The compass... Now\nwe can give those guys a nasty surprise.",
   "status": "done",
   "slots": [
    "0x1d38"
@@ -255,7 +255,7 @@
  {
   "id": "s2037:00412",
   "jp": "どうよ親父！\n見事仲間にしてみせたわよ！",
-  "en": "How about that, Dad! I got them to join us,\njust like you wanted!",
+  "en": "How about that, Dad! I got them\nto join us, just like you wanted!",
   "status": "done",
   "slots": [
    "0x1dbc"
@@ -266,7 +266,7 @@
  {
   "id": "s2037:0043e",
   "jp": "そうみたいだな。\n偉いぞぉエリーシャ。\nこれで俺が働く手間が省けた。",
-  "en": "Looks like it. Good job, Elisha. Saves me the\ntrouble of working.",
+  "en": "Looks like it. Good job, Elisha.\nSaves me the trouble of working.",
   "status": "done",
   "slots": [
    "0x1dd6"
@@ -277,7 +277,7 @@
  {
   "id": "s2037:00485",
   "jp": "そういえば、ザザーランドは\nどうして黒い牙に捕まってたんだ？",
-  "en": "Come to think of it, Zazarland, how did the\nBlack Fang catch you?",
+  "en": "Come to think of it, Zazarland,\nhow did the Black Fang catch you?",
   "status": "done",
   "slots": [
    "0x1dfe"
@@ -299,7 +299,7 @@
  {
   "id": "s2037:004f7",
   "jp": "宴終わりに飲んだくれてた所を\n攫われただけでしょうが。",
-  "en": "You just got kidnapped while you were dead\ndrunk at the end of a party.",
+  "en": "You just got kidnapped while you\nwere dead drunk at the end of a party.",
   "status": "done",
   "slots": [
    "0x1e32"
@@ -321,7 +321,7 @@
  {
   "id": "s2037:00540",
   "jp": "宴の最中に襲うのは海賊の流儀に\n反するんだ！\n黒い牙はそれがわかってねぇんだ！",
-  "en": "Attacking in the middle of a party goes\nagainst the pirate code! The Black Fang just\ndoesn't get it!",
+  "en": "Attacking in the middle of a party\ngoes against the pirate code!\nThe Black Fang just doesn't get it!",
   "status": "done",
   "slots": [
    "0x1e66"
@@ -332,7 +332,7 @@
  {
   "id": "s2037:00591",
   "jp": "っていうかさぁ。\nコレぐらいの檻なら、\nさっさと脱出できたんじゃないの？",
-  "en": "And anyway, couldn't you have broken out of\na cage like this ages ago?",
+  "en": "And anyway, couldn't you have broken\nout of a cage like this ages ago?",
   "status": "done",
   "slots": [
    "0x1e8e"
@@ -343,7 +343,7 @@
  {
   "id": "s2037:005dc",
   "jp": "黒い牙の狙いは俺達と同じだろ？",
-  "en": "The Black Fang's after the same thing we\nare, right?",
+  "en": "The Black Fang's after the\nsame thing we are, right?",
   "status": "done",
   "slots": [
    "0x1ea8"
@@ -354,7 +354,7 @@
  {
   "id": "s2037:005ff",
   "jp": "だったら、黒い牙が奪った奴を\n俺が奪えばいいんじゃね？\nって考えたわけだ！　名案だろ？",
-  "en": "So why not let the Black Fang steal it, then\nsteal it from them? That's what I figured!\nBrilliant, huh?",
+  "en": "So why not let the Black Fang steal it,\nthen steal it from them?\nThat's what I figured! Brilliant, huh?",
   "status": "done",
   "slots": [
    "0x1eaf"
@@ -431,7 +431,7 @@
  {
   "id": "s2037:00765",
   "jp": "このまま脱獄されて依頼者が\n倒されちゃ堪らないわ！\nザザーランドを集中して狙うのよ！",
-  "en": "If they break out and my client gets beaten,\nI'll be in trouble! Focus everything on\nZazarland!",
+  "en": "If they break out and my client\ngets beaten, I'll be in trouble!\nFocus everything on Zazarland!",
   "status": "done",
   "slots": [
    "0x2121"
@@ -464,7 +464,7 @@
  {
   "id": "s2037:02561",
   "jp": "いい加減にしないと、\nいくらアタシでも怒っちゃうわよ？",
-  "en": "If you don't knock it off, even I might get\nangry, you know?",
+  "en": "If you don't knock it off,\neven I might get angry, you know?",
   "status": "done",
   "slots": [
    "0x3b59"
@@ -486,7 +486,7 @@
  {
   "id": "s2037:025c5",
   "jp": "アナタだけでも連れて行かないと、\n契約違反になっちゃうわ。",
-  "en": "If I don't at least bring you back, I'll be in\nbreach of contract.",
+  "en": "If I don't at least bring you back,\nI'll be in breach of contract.",
   "status": "done",
   "slots": [
    "0x3c65"
@@ -519,7 +519,7 @@
  {
   "id": "s2037:0264c",
   "jp": "彼は三日間なにも食べていないの。\nそれでも同じ口がきけるかしら？",
-  "en": "He hasn't eaten anything in three days. Will\nyou still be saying that?",
+  "en": "He hasn't eaten anything in three days.\nWill you still be saying that?",
   "status": "done",
   "slots": [
    "0x3d74"
@@ -530,7 +530,7 @@
  {
   "id": "s2037:02690",
   "jp": "な、何よこの強さ！　反則！\n……まぁ報酬分は働いたし\n帰りましょう。",
-  "en": "Wh-what is this strength!? That's cheating!\n...Well, I've done enough to earn my pay.\nTime to go home.",
+  "en": "Wh-what is this strength!?\nThat's cheating! ...Well, I've done enough\nto earn my pay. Time to go home.",
   "status": "done",
   "slots": [
    "0x3f27"
@@ -552,7 +552,7 @@
  {
   "id": "s2037:026fa",
   "jp": "なによ、いつもより調子が出てる\nじゃない。やっぱり禁酒させるべき\nなのかしら……。",
-  "en": "What, you're in better shape than usual.\nMaybe I really should keep you off the\nbooze...",
+  "en": "What, you're in better shape\nthan usual. Maybe I really\nshould keep you off the booze...",
   "status": "done",
   "slots": [
    "0x45c1"
@@ -574,7 +574,7 @@
  {
   "id": "s2037:0276c",
   "jp": "こ、これが、\nグロリア海賊団船長の力……。",
-  "en": "S-so this is the power of the Gloria Pirates'\ncaptain...",
+  "en": "S-so this is the power of\nthe Gloria Pirates' captain...",
   "status": "done",
   "slots": [
    "0x45f3"
@@ -585,7 +585,7 @@
  {
   "id": "s2037:0279a",
   "jp": "ん？　ハハッ。\n俺の力なんざ、お前の底力には\n劣っちまうよ。",
-  "en": "Hm? Haha. My power's nothing next to what\nyou've got deep down.",
+  "en": "Hm? Haha. My power's nothing next\nto what you've got deep down.",
   "status": "done",
   "slots": [
    "0x460c"
@@ -596,7 +596,7 @@
  {
   "id": "s2037:027d9",
   "jp": "いやいや、俺に一振りで五人も\n吹き飛ばすほどの力は……。",
-  "en": "No, no, I don't have the power to send five\nguys flying with one swing...",
+  "en": "No, no, I don't have the power to send\nfive guys flying with one swing...",
   "status": "done",
   "slots": [
    "0x4625"
@@ -629,7 +629,7 @@
  {
   "id": "s2037:02839",
   "jp": "クリスタルでもありゃあ、\n少しはわかっかもよ？",
-  "en": "If you had a Crystal, maybe you'd\nunderstand a little.",
+  "en": "If you had a Crystal,\nmaybe you'd understand a little.",
   "status": "done",
   "slots": [
    "0x4677"
@@ -651,7 +651,7 @@
  {
   "id": "s2037:02874",
   "jp": "ハイハイ。\nアホなことやってないで、\nさっさと出ますよ。",
-  "en": "Yes, yes. Quit fooling around and let's get\nout of here.",
+  "en": "Yes, yes. Quit fooling around\nand let's get out of here.",
   "status": "done",
   "slots": [
    "0x46c5"
@@ -684,7 +684,7 @@
  {
   "id": "s2037:028f6",
   "jp": "案外燃費悪いのね、この子。",
-  "en": "She burns through fuel faster than I\nthought.",
+  "en": "She burns through fuel\nfaster than I thought.",
   "status": "done",
   "slots": [
    "0x471e"
@@ -728,7 +728,7 @@
  {
   "id": "s2037:02985",
   "jp": "……ん？　コイツ、なんでルルゥの\n特殊な食生活を知ってんだ……？",
-  "en": "...Hm? How does this guy know about Ruru's\nspecial diet...?",
+  "en": "...Hm? How does this guy know\nabout Ruru's special diet...?",
   "status": "done",
   "slots": [
    "0x47ba"
@@ -750,7 +750,7 @@
  {
   "id": "s2037:02a14",
   "jp": "わあぁぁ！　人が考え事してんのに\n怒鳴るんじゃねぇよ！　誰だ！",
-  "en": "Waaah! Don't yell when a guy's trying to\nthink! Who are you!?",
+  "en": "Waaah! Don't yell when a guy's\ntrying to think! Who are you!?",
   "status": "done",
   "slots": [
    "0x488b"
@@ -805,7 +805,7 @@
  {
   "id": "s2037:02b2b",
   "jp": "遺跡の探索中にこんな所に\n迷い込んでしまった。\nここはどこだ。",
-  "en": "While exploring the ruins, I wandered into\nthis place. Where am I?",
+  "en": "While exploring the ruins,\nI wandered into this place. Where am I?",
   "status": "done",
   "slots": [
    "0x4912"
@@ -827,7 +827,7 @@
  {
   "id": "s2037:02b8b",
   "jp": "バカじゃない考古学者だ！\n初対面の年上に暴言とは……\n成敗してくれる！",
-  "en": "I am not an idiot, I am an archaeologist!\nInsulting your elder on first meeting... I shall\npunish you!",
+  "en": "I am not an idiot, I am an archaeologist!\nInsulting your elder on first\nmeeting... I shall punish you!",
   "status": "done",
   "slots": [
    "0x4960"
@@ -838,7 +838,7 @@
  {
   "id": "s2037:02bd4",
   "jp": "きゃあぁ！　スゴイ形相！\nなにこの化物！",
-  "en": "Eeeek! Look at that face! What is this\nmonster!?",
+  "en": "Eeeek! Look at that face!\nWhat is this monster!?",
   "status": "done",
   "slots": [
    "0x4979"
@@ -893,7 +893,7 @@
  {
   "id": "s2037:02c8c",
   "jp": "金色のとっくり？\nお酒もない牢獄に\nなんでこんなものが……。",
-  "en": "A golden sake flask? Why would there be\none in a prison with no booze...",
+  "en": "A golden sake flask? Why would there\nbe one in a prison with no booze...",
   "status": "done",
   "slots": [
    "0x3443",
@@ -937,7 +937,7 @@
  {
   "id": "s2037:02d1c",
   "jp": "あぁそっか、攫われた時に\n持ちっぱなしだったのね。\n……ハァ。",
-  "en": "Oh, right, he must've had it on him when he\ngot kidnapped. ...*sigh*",
+  "en": "Oh, right, he must've had it on him\nwhen he got kidnapped. ...*sigh*",
   "status": "done",
   "slots": [
    "0x358a",
@@ -959,7 +959,7 @@
  {
   "id": "s2037:02d70",
   "jp": "俺専用とっくりじゃあねぇか！\nこんな所にあったのか……おぉー\nおかえり、マイとっくりちゅわん！",
-  "en": "My very own sake flask! So this is where you\nwere... Ooh, welcome home, my wittle\nflasky-wasky!",
+  "en": "My very own sake flask!\nSo this is where you were... Ooh,\nwelcome home, my wittle flasky-wasky!",
   "status": "done",
   "slots": [
    "0x3621",
@@ -1006,7 +1006,7 @@
  {
   "id": "s2037:02e1a",
   "jp": "あぁ、前に兄貴に試そうとした\nやつだ。",
-  "en": "Ah, it's the one I was going to try on the\nBoss before.",
+  "en": "Ah, it's the one I was going\nto try on the Boss before.",
   "status": "done",
   "slots": [
    "0xfb0",
@@ -1054,7 +1054,7 @@
  {
   "id": "s2037:02e82",
   "jp": "目隠し用の布。\nここまで汚れてるってことは……\n手馴れてるわけね。チッ。",
-  "en": "A blindfold. If it's this filthy... they must be\nused to this. Tch.",
+  "en": "A blindfold. If it's this filthy...\nthey must be used to this. Tch.",
   "status": "done",
   "slots": [
    "0x10e5",
@@ -1100,7 +1100,7 @@
  {
   "id": "s2037:02f14",
   "jp": "神様はあまり信じねぇけど……\nもらっておくか。",
-  "en": "I don't really believe in God, but... I'll take\nit.",
+  "en": "I don't really believe in God,\nbut... I'll take it.",
   "status": "done",
   "slots": [
    "0x5d02"
@@ -1222,7 +1222,7 @@
  {
   "id": "s2037:04ec0",
   "jp": "猫は自由の生き物。\nマナーなんて知らないにゃん。",
-  "en": "Cats are creatures of freedom. We don't\nknow any manners, meow.",
+  "en": "Cats are creatures of freedom.\nWe don't know any manners, meow.",
   "status": "done",
   "slots": [
    "0x6142"
@@ -1233,7 +1233,7 @@
  {
   "id": "s2037:04ef4",
   "jp": "それは自分に対する挑戦か？\nンハハハ！　受けてたとう！",
-  "en": "Is that a challenge to me? Nhahaha! I\naccept!",
+  "en": "Is that a challenge to me?\nNhahaha! I accept!",
   "status": "done",
   "slots": [
    "0x615b"
@@ -1255,7 +1255,7 @@
  {
   "id": "s2037:04f5c",
   "jp": "あの鉱物は古代ユーフォリア兵器に\n使われていたとされるもの……。\nそれを食べるとは、ゆ、許せーん！",
-  "en": "That mineral is said to have been used in the\nweapons of ancient Euforia... And you EAT\nit!? Un-for-giv-able!",
+  "en": "That mineral is said to have been used\nin the weapons of ancient Euforia...\nAnd you EAT it!? Un-for-giv-able!",
   "status": "done",
   "slots": [
    "0x6250"
@@ -1299,7 +1299,7 @@
  {
   "id": "s2037:05050",
   "jp": "おいおい、本気かよ。\n連戦は疲れるのによー。",
-  "en": "Hey, hey, you serious? Back-to-back fights\nwear a guy out.",
+  "en": "Hey, hey, you serious?\nBack-to-back fights wear a guy out.",
   "status": "done",
   "slots": [
    "0x6451"
@@ -1310,7 +1310,7 @@
  {
   "id": "s2037:05080",
   "jp": "むぅ！　その攻撃、マナーの悪い者\nには出来ない動きだ！\nもしやお前達は……！",
-  "en": "Hmm! Those attacks... no one with bad\nmanners could move like that! Could it be\nthat you are...!",
+  "en": "Hmm! Those attacks... no one with\nbad manners could move like that!\nCould it be that you are...!",
   "status": "done",
   "slots": [
    "0x665c"
@@ -1321,7 +1321,7 @@
  {
   "id": "s2037:050cf",
   "jp": "最初ッからそう言ってるじゃねぇか\n……ったく。",
-  "en": "That's what I've been sayin' from the start!\n...Geez.",
+  "en": "That's what I've been sayin'\nfrom the start! ...Geez.",
   "status": "done",
   "slots": [
    "0x6671"
@@ -1332,7 +1332,7 @@
  {
   "id": "s2037:05101",
   "jp": "先ほどは、真に申し訳なかった！\n自分は怒ると周りが見えなくなる\n人間でな！　ハッハッハ。",
-  "en": "My deepest apologies for earlier! When I get\nangry, I lose sight of everything around me!\nHa ha ha!",
+  "en": "My deepest apologies for earlier!\nWhen I get angry, I lose sight of\neverything around me! Ha ha ha!",
   "status": "done",
   "slots": [
    "0x6ce0"
@@ -1343,7 +1343,7 @@
  {
   "id": "s2037:0515c",
   "jp": "まぁ、遺跡を食べる女の子も\nなかなかにぶっ飛んでますけどね。",
-  "en": "Well, a girl who eats ruins is pretty out\nthere too.",
+  "en": "Well, a girl who eats ruins\nis pretty out there too.",
   "status": "done",
   "slots": [
    "0x6cf6"
@@ -1365,7 +1365,7 @@
  {
   "id": "s2037:051c6",
   "jp": "ところであんた。\n考古学者ってのは本当か？",
-  "en": "By the way, you. You really an\narchaeologist?",
+  "en": "By the way, you.\nYou really an archaeologist?",
   "status": "done",
   "slots": [
    "0x6d29"
@@ -1409,7 +1409,7 @@
  {
   "id": "s2037:0525e",
   "jp": "研究所から出てここまでの道のりは\n完璧に覚えている。",
-  "en": "I remember the route from my laboratory to\nthis spot perfectly.",
+  "en": "I remember the route from my\nlaboratory to this spot perfectly.",
   "status": "done",
   "slots": [
    "0x6d88"
@@ -1442,7 +1442,7 @@
  {
   "id": "s2037:052be",
   "jp": "おおぉ！　凄いなあんた！\nよし、そうと決まれば、脱出だ！\n……あれ？　なんか忘れてるような",
-  "en": "Whoa! You're amazing! Alright, that settles\nit: we're breakin' out! ...Huh? Feels like I'm\nforgettin' something.",
+  "en": "Whoa! You're amazing! Alright,\nthat settles it: we're breakin' out! ...Huh?\nFeels like I'm forgettin' something.",
   "status": "done",
   "slots": [
    "0x6ddb"

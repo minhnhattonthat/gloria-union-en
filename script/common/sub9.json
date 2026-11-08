@@ -2,7 +2,7 @@
  {
   "id": "c9:00158",
   "jp": "カードがねぇ……。\nこれじゃなにもできねぇぜ……！",
-  "en": "I'm outta cards... I can't do a damn thing like\nthis...!",
+  "en": "I'm outta cards... I can't do\na damn thing like this...!",
   "status": "done",
   "slots": [
    "0x3e"
@@ -32,7 +32,7 @@
  {
   "id": "c9:001d3",
   "jp": "カードがない、だと……！？\nこんなもんだったのか、俺の力は！",
-  "en": "No cards left, ya say...!? Is this all my\nstrength amounted to!?",
+  "en": "No cards left, ya say...!?\nIs this all my strength amounted to!?",
   "status": "done",
   "slots": [
    "0x112"
@@ -42,7 +42,7 @@
  {
   "id": "c9:0020f",
   "jp": "これで終わりなのか！\nここまで来て、クソッ！　クソォ！",
-  "en": "Is this the end!? After coming this far,\ndammit! Dammit!",
+  "en": "Is this the end!? After coming\nthis far, dammit! Dammit!",
   "status": "done",
   "slots": [
    "0xa8"
@@ -52,7 +52,7 @@
  {
   "id": "c9:00245",
   "jp": "オイオイ、あともう少しじゃねぇか\n……終わりか。",
-  "en": "Hey, hey, we were almost there... So it's\nover.",
+  "en": "Hey, hey, we were almost\nthere... So it's over.",
   "status": "done",
   "slots": [
    "0x147"

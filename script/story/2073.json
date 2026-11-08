@@ -2,7 +2,7 @@
  {
   "id": "s2073:00028",
   "jp": "アシュレイ様はこれまで、数多くの\n辛い思いをされてきた。\n世界を掴むためにな！",
-  "en": "Ashrey-sama has endured so much suffering\nuntil now. To seize the world!",
+  "en": "Ashrey-sama has endured so much\nsuffering until now. To seize the world!",
   "status": "done",
   "slots": [
    "0x1cb7"
@@ -35,7 +35,7 @@
  {
   "id": "s2073:000df",
   "jp": "当時新米だった我らとしては、見て\nいられなかった。日に日に感情が\n無くなっていくアシュレイ様を。",
-  "en": "We were raw recruits back then, and it was\nmore than we could bear to watch.\nAshrey-sama losing more of his feelings by\nthe day.",
+  "en": "We were raw recruits back then,\nand it was more than we could\nbear to watch. Ashrey-sama losing\nmore of his feelings by the day.",
   "status": "done",
   "slots": [
    "0x1cff"
@@ -46,7 +46,7 @@
  {
   "id": "s2073:00142",
   "jp": "感情がなくなるほどの訓練……？\nどうかしてるわね。",
-  "en": "Training so hard you lose your feelings...?\nThat's insane.",
+  "en": "Training so hard you lose your\nfeelings...? That's insane.",
   "status": "done",
   "slots": [
    "0x1d15"
@@ -57,7 +57,7 @@
  {
   "id": "s2073:00178",
   "jp": "我らは騎士として、家族として……\nアシュレイ様を見守ってきた。",
-  "en": "As knights, and as family... we have\nwatched over Ashrey-sama.",
+  "en": "As knights, and as family...\nwe have watched over Ashrey-sama.",
   "status": "done",
   "slots": [
    "0x1d2b"
@@ -68,7 +68,7 @@
  {
   "id": "s2073:001ba",
   "jp": "故に、私達はアシュレイ様に\n幸せを手に入れて欲しいのだ。",
-  "en": "That is why we want Ashrey-sama to find\nhappiness.",
+  "en": "That is why we want\nAshrey-sama to find happiness.",
   "status": "done",
   "slots": [
    "0x1d41"
@@ -112,7 +112,7 @@
  {
   "id": "s2073:0025a",
   "jp": "……俺はお人好しじゃあない。\nそれに、ここで迷ってたらベルガス\nに笑われる。らしくねぇってな。",
-  "en": "...I ain't that soft. Besides, if I hesitate\nhere, Velgas'll laugh at me. Say it ain't like\nme.",
+  "en": "...I ain't that soft. Besides,\nif I hesitate here, Velgas'll\nlaugh at me. Say it ain't like me.",
   "status": "done",
   "slots": [
    "0x1dc1"
@@ -145,7 +145,7 @@
  {
   "id": "s2073:00319",
   "jp": "というわけだ。通してもらうぜ。\nガルム、メラニー。",
-  "en": "So there ya have it. We're comin' through.\nGarm, Melanie.",
+  "en": "So there ya have it. We're comin'\nthrough. Garm, Melanie.",
   "status": "done",
   "slots": [
    "0x1e28"
@@ -156,7 +156,7 @@
  {
   "id": "s2073:0034f",
   "jp": "アシュレイ様を幸せにするのが\nわれらの意思、そして信念！",
-  "en": "Making Ashrey-sama happy is our will, and\nour creed!",
+  "en": "Making Ashrey-sama happy\nis our will, and our creed!",
   "status": "done",
   "slots": [
    "0x1e48"
@@ -178,7 +178,7 @@
  {
   "id": "s2073:003ae",
   "jp": "ルキア皇国の槍として、\n私は貴様を穿つ！！",
-  "en": "As the Spear of the Lukia Empire, I shall\npierce you!!",
+  "en": "As the Spear of the Lukia Empire,\nI shall pierce you!!",
   "status": "done",
   "slots": [
    "0x34a0"
@@ -189,7 +189,7 @@
  {
   "id": "s2073:003dc",
   "jp": "お前がルキア皇国の槍なら、\n俺はグロリア海賊団の剣だ！\n覚悟しやがれ！",
-  "en": "If you're the Lukia Empire's spear, I'm the\nGloria Pirates' sword! Get ready!",
+  "en": "If you're the Lukia Empire's spear,\nI'm the Gloria Pirates' sword! Get ready!",
   "status": "done",
   "slots": [
    "0x34ba"
@@ -200,7 +200,7 @@
  {
   "id": "s2073:00425",
   "jp": "私は、皇国の盾……！\n崩れるわけには、いかないんだぁ！",
-  "en": "I am the Shield of the Empire...! I cannot\ncrumble!",
+  "en": "I am the Shield of the Empire...!\nI cannot crumble!",
   "status": "done",
   "slots": [
    "0x42bf"
@@ -244,7 +244,7 @@
  {
   "id": "s2073:004ef",
   "jp": "私は死なない！　\nアシュレイ様の夢が叶うまでは！",
-  "en": "I will not die! Not until Ashrey-sama's dream\ncomes true!",
+  "en": "I will not die! Not until\nAshrey-sama's dream comes true!",
   "status": "done",
   "slots": [
    "0x46c1"
@@ -266,7 +266,7 @@
  {
   "id": "s2073:00574",
   "jp": "アナタ達がアシュレイに幸せに\nなって欲しいという意思以上に、\nボクは兄貴に幸せになって欲しい。",
-  "en": "More than your will to see Ashrey happy, I\nwant the Boss to be happy.",
+  "en": "More than your will to see Ashrey happy,\nI want the Boss to be happy.",
   "status": "done",
   "slots": [
    "0x358e"
@@ -296,7 +296,7 @@
  {
   "id": "s2073:00620",
   "jp": "例え一国の将軍であろうとも、\nこの意思は負けません！",
-  "en": "Not even the general of a whole country\nbeats this will!",
+  "en": "Not even the general of a\nwhole country beats this will!",
   "status": "done",
   "slots": [
    "0x43b0"
@@ -306,7 +306,7 @@
  {
   "id": "s2073:00654",
   "jp": "ここまで他人に依存している意思を\n見るのはピンガー以来だよ。",
-  "en": "This is the first will I've seen this devoted\nto someone else since Pinger's.",
+  "en": "This is the first will I've seen this\ndevoted to someone else since Pinger's.",
   "status": "done",
   "slots": [
    "0x3677"
@@ -336,7 +336,7 @@
  {
   "id": "s2073:006e1",
   "jp": "完全に破壊する。\n後悔するなよ？　古代兵器！",
-  "en": "I'll destroy you completely. Don't regret it,\nancient weapon!",
+  "en": "I'll destroy you completely.\nDon't regret it, ancient weapon!",
   "status": "done",
   "slots": [
    "0x449d"
@@ -376,7 +376,7 @@
  {
   "id": "s2073:0078f",
   "jp": "いつか親父にも\n追いついて、追い抜くのが、\n私の意思なんだから！",
-  "en": "Catching up to Dad someday and passing\nhim, that's my will!",
+  "en": "Catching up to Dad someday\nand passing him, that's my will!",
   "status": "done",
   "slots": [
    "0x379a"
@@ -386,7 +386,7 @@
  {
   "id": "s2073:007ce",
   "jp": "地の利、武の利、全てこちらにある",
-  "en": "The terrain, the arms, every advantage is\nours.",
+  "en": "The terrain, the arms,\nevery advantage is ours.",
   "status": "done",
   "slots": [
    "0x45a1"
@@ -406,7 +406,7 @@
  {
   "id": "s2073:0080c",
   "jp": "少しばかり有利だからって、\n調子に乗るんじゃないわよ。",
-  "en": "Don't get cocky just because you've got a\nlittle advantage.",
+  "en": "Don't get cocky just because\nyou've got a little advantage.",
   "status": "done",
   "slots": [
    "0x45c5"
@@ -426,7 +426,7 @@
  {
   "id": "s2073:00863",
   "jp": "貴殿は元々考古学者。\n返す恩は返したろうに、\n何故奴らの味方をするのだ！",
-  "en": "You were an archaeologist to begin with.\nSurely you've repaid your debt, so why do\nyou side with them!",
+  "en": "You were an archaeologist to begin with.\nSurely you've repaid your debt,\nso why do you side with them!",
   "status": "done",
   "slots": [
    "0x3990"
@@ -436,7 +436,7 @@
  {
   "id": "s2073:008aa",
   "jp": "恩など遥か昔に返したよ。\n今自分が動く理由は、一つ。",
-  "en": "I repaid my debt long ago. There is but one\nreason I act now.",
+  "en": "I repaid my debt long ago.\nThere is but one reason I act now.",
   "status": "done",
   "slots": [
    "0x39aa"
@@ -456,7 +456,7 @@
  {
   "id": "s2073:008eb",
   "jp": "貴様等はここでなんとしても\n喰い止める！\n例えこの四肢砕けようとも！",
-  "en": "We will stop you here at all costs! Even if my\nlimbs are shattered!",
+  "en": "We will stop you here at all costs!\nEven if my limbs are shattered!",
   "status": "done",
   "slots": [
    "0x47c5"
@@ -466,7 +466,7 @@
  {
   "id": "s2073:0092e",
   "jp": "なんという忠義心だ……。\nしかし、こちらとて負ける訳には\nいかない……いかないのだ！",
-  "en": "What loyalty... But we cannot lose either...\nWe cannot!",
+  "en": "What loyalty... But we cannot\nlose either... We cannot!",
   "status": "done",
   "slots": [
    "0x47df"
@@ -496,7 +496,7 @@
  {
   "id": "s2073:009e3",
   "jp": "うぅ、人がぎっしり。\nどこからも抜けられないよ……！",
-  "en": "Ugh, people packed everywhere. There's no\nway through anywhere...!",
+  "en": "Ugh, people packed everywhere.\nThere's no way through anywhere...!",
   "status": "done",
   "slots": [
    "0x48b3"
@@ -506,7 +506,7 @@
  {
   "id": "s2073:00a17",
   "jp": "どんなことがあろうとここを\n通すな！\n隊列を乱すな！　いけぇ！",
-  "en": "Whatever happens, do not let them\nthrough! Hold formation! Go!",
+  "en": "Whatever happens, do not let\nthem through! Hold formation! Go!",
   "status": "done",
   "slots": [
    "0x48cc"
@@ -526,7 +526,7 @@
  {
   "id": "s2073:00a94",
   "jp": "心してかからないと、\nボロ負けしちゃいそうっすね。",
-  "en": "If we don't go in ready, we'll get creamed,\nsir.",
+  "en": "If we don't go in ready,\nwe'll get creamed, sir.",
   "status": "done",
   "slots": [
    "0x3b86"
@@ -536,7 +536,7 @@
  {
   "id": "s2073:00ac6",
   "jp": "空を飛べば抜けられるっすけど。\n一人で行くわけにもいかないっす\nからねぇ……。",
-  "en": "I could fly over them, but I can't exactly go\nalone, sir...",
+  "en": "I could fly over them,\nbut I can't exactly go alone, sir...",
   "status": "done",
   "slots": [
    "0x4999"
@@ -556,7 +556,7 @@
  {
   "id": "s2073:00b32",
   "jp": "ここにきて必死だな。ルキア皇国。\n今お前らが感じている感覚を、\nシャンティは百年間味わい続けた！",
-  "en": "Desperate now, are you, Lukia Empire? What\nyou feel right now, Chantier has tasted for\na hundred years!",
+  "en": "Desperate now, are you, Lukia Empire?\nWhat you feel right now, Chantier\nhas tasted for a hundred years!",
   "status": "done",
   "slots": [
    "0x3c53"
@@ -626,7 +626,7 @@
  {
   "id": "s2073:00c91",
   "jp": "心なしか、センチュリオバスターも\n重く感じますね……。",
-  "en": "Somehow, even the Centurio Buster feels\nheavier...",
+  "en": "Somehow, even the Centurio\nBuster feels heavier...",
   "status": "done",
   "slots": [
    "0x3dfa"
@@ -646,7 +646,7 @@
  {
   "id": "s2073:00cf7",
   "jp": "その乱れのない隊列。\nセンチュリオバスターでバラバラに\n粉砕してあげます！",
-  "en": "That flawless formation. I'll smash it to\npieces with the Centurio Buster!",
+  "en": "That flawless formation. I'll smash it\nto pieces with the Centurio Buster!",
   "status": "done",
   "slots": [
    "0x4c1c"
@@ -656,7 +656,7 @@
  {
   "id": "s2073:00d40",
   "jp": "攻撃のガルム将軍が\n守りに徹するとは……。",
-  "en": "For General Garm, the attacker, to devote\nhimself to defence...",
+  "en": "For General Garm, the attacker,\nto devote himself to defence...",
   "status": "done",
   "slots": [
    "0x3edc"
@@ -676,7 +676,7 @@
  {
   "id": "s2073:00d7f",
   "jp": "メラニー将軍……。\n不肖カミュル。\nアナタを超えさせていただきます！",
-  "en": "General Melanie... Unworthy as I am, I,\nKamuru, shall surpass you!",
+  "en": "General Melanie... Unworthy as I am,\nI, Kamuru, shall surpass you!",
   "status": "done",
   "slots": [
    "0x4ce2"
@@ -726,7 +726,7 @@
  {
   "id": "s2073:00e6f",
   "jp": "そんなにガチガチに固めちゃって、\nまともに動けるの？",
-  "en": "All locked up that tight, can you even move\nproperly?",
+  "en": "All locked up that tight,\ncan you even move properly?",
   "status": "done",
   "slots": [
    "0x4095"
@@ -746,7 +746,7 @@
  {
   "id": "s2073:00ee8",
   "jp": "最強の盾を誇ってるようだけど、\nパメラ様の攻撃の前には\n紙切れ同然なんだわさ！",
-  "en": "You seem proud of the strongest shield, but\nbefore Pamela-sama's attack it's as good as\na scrap of paper, dontcha know!",
+  "en": "You seem proud of the strongest shield,\nbut before Pamela-sama's attack it's as\ngood as a scrap of paper, dontcha know!",
   "status": "done",
   "slots": [
    "0x4e78"
@@ -756,7 +756,7 @@
  {
   "id": "s2073:00f35",
   "jp": "一生懸命になる人の姿は\nみな素晴らしいですわね。",
-  "en": "People giving it their all are always\nwonderful.",
+  "en": "People giving it their all\nare always wonderful.",
   "status": "done",
   "slots": [
    "0x417a"
@@ -766,7 +766,7 @@
  {
   "id": "s2073:00f65",
   "jp": "詩には残しました。\n惜しいですが、後は壊すだけですわ",
-  "en": "I've kept it in my song. It's a pity, but all\nthat's left is to destroy.",
+  "en": "I've kept it in my song. It's a pity,\nbut all that's left is to destroy.",
   "status": "done",
   "slots": [
    "0x418f"
@@ -776,7 +776,7 @@
  {
   "id": "s2073:00f99",
   "jp": "アナタの詩には、少し恋の色が\n混じっていますわね。",
-  "en": "Your song has a touch of the colour of love\nmixed in.",
+  "en": "Your song has a touch of\nthe colour of love mixed in.",
   "status": "done",
   "slots": [
    "0x4f53"
@@ -786,7 +786,7 @@
  {
   "id": "s2073:00fcb",
   "jp": "ウフフ。\n一国の将軍にも、\n恋心はあるんですわね。",
-  "en": "Ufufu. So even a general of a whole country\nhas a heart in love.",
+  "en": "Ufufu. So even a general of a\nwhole country has a heart in love.",
   "status": "done",
   "slots": [
    "0x4f68"
@@ -796,7 +796,7 @@
  {
   "id": "s2073:00ffc",
   "jp": "決死戦か！　面白ぇ！\n俺の拳でその道、\n抉じ開けてやるぜ！",
-  "en": "A fight to the death! Sounds fun! I'll punch\nthat path wide open with my fists!",
+  "en": "A fight to the death! Sounds fun!\nI'll punch that path wide open with my fists!",
   "status": "done",
   "slots": [
    "0x41d4"
@@ -827,7 +827,7 @@
  {
   "id": "s2073:01088",
   "jp": "ガルム！\n……貴様等！　許さん！！\nウオオオオオオオオォォォ！！",
-  "en": "Garm! ...You! I will not forgive you!!\nUoooooooooooh!!",
+  "en": "Garm! ...You! I will not forgive\nyou!! Uoooooooooooh!!",
   "status": "done",
   "slots": [
    "0x5154"
@@ -871,7 +871,7 @@
  {
   "id": "s2073:01151",
   "jp": "お先に、あの世でお待ちして\nおります……アシュレイ様。",
-  "en": "I shall go ahead and wait for you in the next\nworld... Ashrey-sama.",
+  "en": "I shall go ahead and wait for you\nin the next world... Ashrey-sama.",
   "status": "done",
   "slots": [
    "0x51d0"
@@ -959,7 +959,7 @@
  {
   "id": "s2073:012a5",
   "jp": "近づいてくる……\nさっきとは比べ物にならないほど、\n大きなウィルが！",
-  "en": "It's coming closer... A Will far bigger than\nbefore!",
+  "en": "It's coming closer...\nA Will far bigger than before!",
   "status": "done",
   "slots": [
    "0x5b21"
@@ -1014,7 +1014,7 @@
  {
   "id": "s2073:01365",
   "jp": "家臣の死に、涙も出ないのね。\nあんたって奴は。",
-  "en": "Not even a tear for your retainers' deaths.\nYou really are something.",
+  "en": "Not even a tear for your retainers'\ndeaths. You really are something.",
   "status": "done",
   "slots": [
    "0x5c75"
@@ -1025,7 +1025,7 @@
  {
   "id": "s2073:01397",
   "jp": "涙は枯れた。泣き方は忘れた。\n悲しみも、感じない……。",
-  "en": "My tears have dried up. I've forgotten how\nto cry. I don't even feel sorrow...",
+  "en": "My tears have dried up. I've forgotten\nhow to cry. I don't even feel sorrow...",
   "status": "done",
   "slots": [
    "0x5c8e"
@@ -1047,7 +1047,7 @@
  {
   "id": "s2073:013e6",
   "jp": "それは助かるな。\n同情されたりしたら、虫唾が走る。",
-  "en": "That's a relief. Being pitied would make my\nskin crawl.",
+  "en": "That's a relief. Being pitied\nwould make my skin crawl.",
   "status": "done",
   "slots": [
    "0x5cd3"
@@ -1080,7 +1080,7 @@
  {
   "id": "s2073:01460",
   "jp": "ルキア皇国ってのはなぁ。\n一つのデッケェ城なんだよ！\nだから、街も城の中にあるんだ！",
-  "en": "The Lukia Empire, see, is one huge castle! So\nthe town's inside the castle too!",
+  "en": "The Lukia Empire, see, is one huge castle!\nSo the town's inside the castle too!",
   "status": "done",
   "slots": [
    "0x1fbe",
@@ -1091,7 +1091,7 @@
  {
   "id": "s2073:014b3",
   "jp": "ルキア皇国は世間じゃ\n“悪の国”だからな。\nこうやって安全にしているのさ！",
-  "en": "Out in the world, the Lukia Empire's the \"evil\ncountry\". So we keep ourselves safe like\nthis!",
+  "en": "Out in the world, the Lukia\nEmpire's the \"evil country\".\nSo we keep ourselves safe like this!",
   "status": "done",
   "slots": [
    "0x1fc5",
@@ -1102,7 +1102,7 @@
  {
   "id": "s2073:014fc",
   "jp": "外からの客なんて珍しいからな。\nコイツはサービスだ！\nまたきてくれよな！",
-  "en": "Visitors from outside are rare. This one's on\nthe house! Come again!",
+  "en": "Visitors from outside are rare.\nThis one's on the house! Come again!",
   "status": "done",
   "slots": [
    "0x2034",
@@ -1113,7 +1113,7 @@
  {
   "id": "s2073:01543",
   "jp": "ルキア皇国は、別に政治が悪いわけ\nじゃねぇんだ。\n現に俺達は笑って暮らせてる。",
-  "en": "It ain't that the Lukia Empire's politics are\nbad. Look, we live here with smiles on our\nfaces.",
+  "en": "It ain't that the Lukia Empire's\npolitics are bad. Look,\nwe live here with smiles on our faces.",
   "status": "done",
   "slots": [
    "0x204c",
@@ -1135,7 +1135,7 @@
  {
   "id": "s2073:015bc",
   "jp": "ルキア皇国。俺が生まれた国、か。",
-  "en": "The Lukia Empire. The country I was born in,\nhuh.",
+  "en": "The Lukia Empire.\nThe country I was born in, huh.",
   "status": "done",
   "slots": [
    "0x2076",
@@ -1146,7 +1146,7 @@
  {
   "id": "s2073:015dd",
   "jp": "……なぁんにも感じねぇな。\n幼い頃の記憶が蘇る！　ぐらいは\nあると思ったんだけど。",
-  "en": "...I don't feel a thing. I figured I'd at least\nget some \"childhood memories come\nflooding back!\"",
+  "en": "...I don't feel a thing. I figured\nI'd at least get some \"childhood\nmemories come flooding back!\"",
   "status": "done",
   "slots": [
    "0x207d",
@@ -1157,7 +1157,7 @@
  {
   "id": "s2073:0162e",
   "jp": "ま、過去の事なんてどうでも\nいいか。\n大事なのは、今を生きる事だ。",
-  "en": "Well, who cares about the past. What\nmatters is living in the now.",
+  "en": "Well, who cares about the past.\nWhat matters is living in the now.",
   "status": "done",
   "slots": [
    "0x2084",
@@ -1190,7 +1190,7 @@
  {
   "id": "s2073:016a9",
   "jp": "キミ！　その手に持っている品、\nボクに譲ってくれないか！？",
-  "en": "You! That item in your hand, would you let\nme have it!?",
+  "en": "You! That item in your hand,\nwould you let me have it!?",
   "status": "done",
   "slots": [
    "0x81f4"
@@ -1200,7 +1200,7 @@
  {
   "id": "s2073:016e3",
   "jp": "それさえあれば、ボクの究極の\n錬金術が完成するんだ！　頼む！",
-  "en": "With that, my ultimate alchemy will be\ncomplete! Please!",
+  "en": "With that, my ultimate alchemy\nwill be complete! Please!",
   "status": "done",
   "slots": [
    "0x81fb"
@@ -1210,7 +1210,7 @@
  {
   "id": "s2073:0171f",
   "jp": "譲ってくれるのか？\nハハハ！　助かるよ！\nちょっと待っててくれ！",
-  "en": "You'll let me have it? Hahaha! You're a\nlifesaver! Wait right there!",
+  "en": "You'll let me have it? Hahaha!\nYou're a lifesaver! Wait right there!",
   "status": "done",
   "slots": [
    "0x8202"
@@ -1220,7 +1220,7 @@
  {
   "id": "s2073:0175e",
   "jp": "か、完成した……完成したぞ！\n遂に、遂にボクはやったんだ！",
-  "en": "I-it's done... It's done! At last, at last I've\ndone it!",
+  "en": "I-it's done... It's done!\nAt last, at last I've done it!",
   "status": "done",
   "slots": [
    "0x82e0"
@@ -1230,7 +1230,7 @@
  {
   "id": "s2073:01798",
   "jp": "ありがとうキミ！\nキミのおかげで成功したような\nものだ！",
-  "en": "Thank you! It's practically thanks to you\nthat it worked!",
+  "en": "Thank you! It's practically\nthanks to you that it worked!",
   "status": "done",
   "slots": [
    "0x82e7"
@@ -1240,7 +1240,7 @@
  {
   "id": "s2073:017cf",
   "jp": "その砂時計はプレゼントするよ！\n有効に使ってくれ！\nヒャッホー！",
-  "en": "The hourglass is my present to you! Put it to\ngood use! Yahoo!",
+  "en": "The hourglass is my present to you!\nPut it to good use! Yahoo!",
   "status": "done",
   "slots": [
    "0x82ee"
@@ -1250,7 +1250,7 @@
  {
   "id": "s2073:0180e",
   "jp": "星屑の砂時計は時を操る時計だ！\nただし使えるのは一回だけ。\n有効に使ってくれたまえよ？",
-  "en": "The Star Hourglass is a clock that controls\ntime! But it only works once. Put it to good\nuse, won't you?",
+  "en": "The Star Hourglass is a clock that\ncontrols time! But it only works once.\nPut it to good use, won't you?",
   "status": "done",
   "slots": [
    "0x830e"
@@ -1260,7 +1260,7 @@
  {
   "id": "s2073:01863",
   "jp": "足りないぃ……足りないぃ……。\n誰かぁ！　深海の雪とスターダスト\nを持ってきてくれぇ！",
-  "en": "Not enough... not enough... Somebody! Bring\nme Deep-Sea Snow and Stardust!",
+  "en": "Not enough... not enough... Somebody!\nBring me Deep-Sea Snow and Stardust!",
   "status": "done",
   "slots": [
    "0x8326"
@@ -1281,7 +1281,7 @@
  {
   "id": "s2073:05e7b",
   "jp": "お前にだって、前の戦闘のダメージ\nが残ってるだろうが。",
-  "en": "You've still got damage from the last fight\ntoo, don't ya?",
+  "en": "You've still got damage from\nthe last fight too, don't ya?",
   "status": "done",
   "slots": [
    "0x7215"
@@ -1303,7 +1303,7 @@
  {
   "id": "s2073:05ece",
   "jp": "アシュレイ。\nお前にも、人の心があったんだな。\n部下を心配して、戻ったんだろ？",
-  "en": "Ashrey. So you've got a human heart too.\nYou came back 'cause you were worried\nabout your men, right?",
+  "en": "Ashrey. So you've got a human heart too.\nYou came back 'cause you were\nworried about your men, right?",
   "status": "done",
   "slots": [
    "0x9706"
@@ -1313,7 +1313,7 @@
  {
   "id": "s2073:05f1b",
   "jp": "当たり前だ。僕は人間だからな。\nならば、その心配した部下を\n殺された僕の気持ちも、わかるな？",
-  "en": "Of course. I am human, after all. Then you\nunderstand how I feel, now that you've\nkilled the men I worried about?",
+  "en": "Of course. I am human, after all.\nThen you understand how I feel, now that\nyou've killed the men I worried about?",
   "status": "done",
   "slots": [
    "0x971f"
@@ -1323,7 +1323,7 @@
  {
   "id": "s2073:05f76",
   "jp": "アシュレイ。\n何故、戻ってきたのですか？\n二人のお陰で逃げられたのに。",
-  "en": "Ashrey. Why did you come back? You got\naway thanks to those two.",
+  "en": "Ashrey. Why did you come back?\nYou got away thanks to those two.",
   "status": "done",
   "slots": [
    "0x97f3"
@@ -1363,7 +1363,7 @@
  {
   "id": "s2073:06039",
   "jp": "悲しみは感じないって。\nひしひし伝わってくるっつの……。",
-  "en": "\"I don't feel sorrow,\" he says. It's coming\nthrough loud and clear...",
+  "en": "\"I don't feel sorrow,\" he says.\nIt's coming through loud and clear...",
   "status": "done",
   "slots": [
    "0x99b0"
@@ -1393,7 +1393,7 @@
  {
   "id": "s2073:060cd",
   "jp": "アシュレイ。\nテメェ、ただ戻ってきたわけじゃ\nなさそうだな。",
-  "en": "Ashrey. Looks like ya didn't just come back\nfor nothin'.",
+  "en": "Ashrey. Looks like ya didn't\njust come back for nothin'.",
   "status": "done",
   "slots": [
    "0x9aaa"
@@ -1403,7 +1403,7 @@
  {
   "id": "s2073:06108",
   "jp": "流石はザザーランド。\nよくわかってるじゃないか。",
-  "en": "As expected of Zazarland. You understand\nwell.",
+  "en": "As expected of Zazarland.\nYou understand well.",
   "status": "done",
   "slots": [
    "0x9ac3"
@@ -1413,7 +1413,7 @@
  {
   "id": "s2073:06138",
   "jp": "ユーフォリアの復活はさせねぇ。\nテメェはここで、殺すぜ！",
-  "en": "I ain't lettin' Euforia come back. I'm killin'\nyou right here!",
+  "en": "I ain't lettin' Euforia come back.\nI'm killin' you right here!",
   "status": "done",
   "slots": [
    "0x9add"
@@ -1423,7 +1423,7 @@
  {
   "id": "s2073:06170",
   "jp": "どうやら、ユーフォリア復活には\nまだ時間がかかるようだな。",
-  "en": "It seems the revival of Euforia will still take\nsome time.",
+  "en": "It seems the revival of Euforia\nwill still take some time.",
   "status": "done",
   "slots": [
    "0x9bb1"
@@ -1433,7 +1433,7 @@
  {
   "id": "s2073:061aa",
   "jp": "このスキに決めなければ、マズイな",
-  "en": "If we don't finish this while we have the\nchance, we're in trouble.",
+  "en": "If we don't finish this while we\nhave the chance, we're in trouble.",
   "status": "done",
   "slots": [
    "0x9bbb"
@@ -1453,7 +1453,7 @@
  {
   "id": "s2073:06216",
   "jp": "表情から感情を読み取れないっす。\nこれが本当の無表情って\nいうんすかね。",
-  "en": "I can't read any feelings from his face, sir. Is\nthis what a real blank face looks like?",
+  "en": "I can't read any feelings from his face, sir.\nIs this what a real blank face looks like?",
   "status": "done",
   "slots": [
    "0x9d47"
@@ -1463,7 +1463,7 @@
  {
   "id": "s2073:0625d",
   "jp": "貴様の出生、人生には大いに\n同情する部分もある。",
-  "en": "Your birth and your life deserve a great deal\nof sympathy.",
+  "en": "Your birth and your life deserve\na great deal of sympathy.",
   "status": "done",
   "slots": [
    "0x9e14"
@@ -1473,7 +1473,7 @@
  {
   "id": "s2073:0628d",
   "jp": "しかし、この戦いはすでに\nそんな感情を抱くわけには\nいかないほどに激化している。",
-  "en": "But this battle has grown far too fierce for\nme to hold such feelings.",
+  "en": "But this battle has grown far too\nfierce for me to hold such feelings.",
   "status": "done",
   "slots": [
    "0x9e1e"
@@ -1513,7 +1513,7 @@
  {
   "id": "s2073:06319",
   "jp": "アナタの悲しみ。\nこちらには、ひしひしと\n伝わってきますよ。",
-  "en": "Your sorrow. It comes through to me loud\nand clear.",
+  "en": "Your sorrow. It comes\nthrough to me loud and clear.",
   "status": "done",
   "slots": [
    "0x9ff0"
@@ -1523,7 +1523,7 @@
  {
   "id": "s2073:06354",
   "jp": "しかし、それは因果応報というもの\n……覚悟してください。",
-  "en": "But that is what they call karma... Prepare\nyourself.",
+  "en": "But that is what they call\nkarma... Prepare yourself.",
   "status": "done",
   "slots": [
    "0xa005"
@@ -1533,7 +1533,7 @@
  {
   "id": "s2073:0638c",
   "jp": "仲間を失う悲しみは、誰にでも\n宿るもの。\nそれは皇帝のアナタとて同じ。",
-  "en": "The sorrow of losing comrades dwells in\neveryone. Even in you, the Emperor.",
+  "en": "The sorrow of losing comrades dwells\nin everyone. Even in you, the Emperor.",
   "status": "done",
   "slots": [
    "0xa0d9"
@@ -1543,7 +1543,7 @@
  {
   "id": "s2073:063d1",
   "jp": "しかし、その気持ちはこちらも同じ\nなのだ。\n手を抜くわけには、いかぬ！",
-  "en": "But we feel the same. I cannot go easy on\nyou!",
+  "en": "But we feel the same.\nI cannot go easy on you!",
   "status": "done",
   "slots": [
    "0xa0ee"
@@ -1553,7 +1553,7 @@
  {
   "id": "s2073:06416",
   "jp": "アタシ達だって、\nここに来るまでに何人もの\n仲間を犠牲にしてるのよ。",
-  "en": "We've sacrificed plenty of friends to get\nhere too.",
+  "en": "We've sacrificed plenty of\nfriends to get here too.",
   "status": "done",
   "slots": [
    "0xa1bb"
@@ -1583,7 +1583,7 @@
  {
   "id": "s2073:064e2",
   "jp": "ここで諦めたら、戻れたかも\nしれないのにね。",
-  "en": "If you'd given up here, you might have been\nable to go back.",
+  "en": "If you'd given up here,\nyou might have been able to go back.",
   "status": "done",
   "slots": [
    "0xa295"
@@ -1593,7 +1593,7 @@
  {
   "id": "s2073:0650e",
   "jp": "アナタの詩は、何も色が無いようで\n誰よりも濃い色で包まれていますわ",
-  "en": "Your song seems to have no colour at all,\nyet it is wrapped in a deeper colour than\nanyone's.",
+  "en": "Your song seems to have no\ncolour at all, yet it is wrapped in\na deeper colour than anyone's.",
   "status": "done",
   "slots": [
    "0xa369"
@@ -1603,7 +1603,7 @@
  {
   "id": "s2073:06550",
   "jp": "これは……。\n複雑な詩ができそうですわね。",
-  "en": "This is... It seems this will make a\ncomplicated song.",
+  "en": "This is... It seems this will\nmake a complicated song.",
   "status": "done",
   "slots": [
    "0xa373"
@@ -1613,7 +1613,7 @@
  {
   "id": "s2073:0657a",
   "jp": "俺はお前みてぇな軟弱野郎が\n一番嫌いなんだ！",
-  "en": "Wimpy bastards like you are what I hate\nmost!",
+  "en": "Wimpy bastards like you\nare what I hate most!",
   "status": "done",
   "slots": [
    "0xa3b1"
@@ -1644,7 +1644,7 @@
  {
   "id": "s2073:065d4",
   "jp": "皇国軍の兵も、将軍ももういない。\nお前の負けだ、アシュレイ。",
-  "en": "No Imperial soldiers, no generals left. You\nlose, Ashrey.",
+  "en": "No Imperial soldiers,\nno generals left. You lose, Ashrey.",
   "status": "done",
   "slots": [
    "0xa5fb"
@@ -1677,7 +1677,7 @@
  {
   "id": "s2073:06648",
   "jp": "だが、得たものがある……。\nなにかわかるか？",
-  "en": "But I have gained something... Do you know\nwhat?",
+  "en": "But I have gained something...\nDo you know what?",
   "status": "done",
   "slots": [
    "0xadd0"
@@ -1754,7 +1754,7 @@
  {
   "id": "s2073:06702",
   "jp": "う、海から、都市が上がってくる？\n……それも、とてつもなく大きい。",
-  "en": "A c-city's rising out of the sea? ...And an\nunbelievably huge one.",
+  "en": "A c-city's rising out of the sea?\n...And an unbelievably huge one.",
   "status": "done",
   "slots": [
    "0xaec9"
@@ -1765,7 +1765,7 @@
  {
   "id": "s2073:06748",
   "jp": "これこそが、古代ユーフォリア王国\n……僕の、幸せの象徴だ。",
-  "en": "This is the ancient Kingdom of Euforia... the\nsymbol of my happiness.",
+  "en": "This is the ancient Kingdom of Euforia...\nthe symbol of my happiness.",
   "status": "done",
   "slots": [
    "0xaee2"
@@ -1798,7 +1798,7 @@
  {
   "id": "s2073:067df",
   "jp": "ハッ、どうかな！\nここでお前を倒せば、\nその計画も水の泡だ！",
-  "en": "Hah, we'll see! Beat you here, and that\nplan's all for nothin'!",
+  "en": "Hah, we'll see! Beat you here,\nand that plan's all for nothin'!",
   "status": "done",
   "slots": [
    "0xaf42"
@@ -1842,7 +1842,7 @@
  {
   "id": "s2073:06897",
   "jp": "そして、ルルゥを使役できるのは\n王である者。\nつまりは僕であることを！",
-  "en": "And the one who can command Ruru is the\nking. In other words, me!",
+  "en": "And the one who can command Ruru\nis the king. In other words, me!",
   "status": "done",
   "slots": [
    "0xaff1"
@@ -1864,7 +1864,7 @@
  {
   "id": "s2073:06916",
   "jp": "プログラム、修正完了\nシンフォニア、起動します。",
-  "en": "Program correction, complete. Symphonia,\nactivating.",
+  "en": "Program correction, complete.\nSymphonia, activating.",
   "status": "done",
   "slots": [
    "0xb03e"
@@ -1930,7 +1930,7 @@
  {
   "id": "s2073:06a0b",
   "jp": "追うぞ！\n今度こそ、アシュレイを倒すんだ！",
-  "en": "After 'em! This time, we beat Ashrey for\nsure!",
+  "en": "After 'em! This time,\nwe beat Ashrey for sure!",
   "status": "done",
   "slots": [
    "0xb15b"
@@ -1941,7 +1941,7 @@
  {
   "id": "s2073:06a39",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x2e53",
@@ -1963,7 +1963,7 @@
  {
   "id": "s2073:06ac4",
   "jp": "……ウム、どうやらキミは\n手術を受ける権利を持った\n人物のようだな。",
-  "en": "...Hm, it appears you are someone with the\nright to receive the operation.",
+  "en": "...Hm, it appears you are someone with\nthe right to receive the operation.",
   "status": "done",
   "slots": [
    "0x2e61",
@@ -1985,7 +1985,7 @@
  {
   "id": "s2073:06b22",
   "jp": "ヒュー。\nやっぱり自宅でやる手術は気持ちが\nいいわねぇ。",
-  "en": "Whew. An operation at home really does\nfeel good.",
+  "en": "Whew. An operation at\nhome really does feel good.",
   "status": "done",
   "slots": [
    "0x2e78",
@@ -2030,7 +2030,7 @@
  {
   "id": "s2073:06bb5",
   "jp": "心なしか、逞しくなった気が\nしますね。",
-  "en": "I feel like I've gotten a bit more rugged,\nsomehow.",
+  "en": "I feel like I've gotten a bit\nmore rugged, somehow.",
   "status": "done",
   "slots": [
    "0x2f50",
@@ -2066,7 +2066,7 @@
  {
   "id": "s2073:06c15",
   "jp": "変わってない？\nいい度胸ね。\nちょっと面貸しなさいよ。",
-  "en": "I haven't changed? You've got some nerve.\nStep outside for a minute.",
+  "en": "I haven't changed? You've got some\nnerve. Step outside for a minute.",
   "status": "done",
   "slots": [
    "0x2fd8",
@@ -2126,7 +2126,7 @@
  {
   "id": "s2073:06cb6",
   "jp": "これは……ある意味、歴史的瞬間\nなのかもしれない……。",
-  "en": "This may be... in a sense, a historic\nmoment...",
+  "en": "This may be... in a sense,\na historic moment...",
   "status": "done",
   "slots": [
    "0x31a8",
@@ -2138,7 +2138,7 @@
  {
   "id": "s2073:06cf0",
   "jp": "ま、これで変な男に\n言い寄られなくて済むわね。",
-  "en": "Well, at least now I won't have weird men\nhitting on me.",
+  "en": "Well, at least now I won't\nhave weird men hitting on me.",
   "status": "done",
   "slots": [
    "0x31fa",
@@ -2198,7 +2198,7 @@
  {
   "id": "s2073:06d9e",
   "jp": "意味ねぇことしてねぇで、\nさっさと戦闘に戻れぇ。",
-  "en": "Quit messin' around with pointless stuff and\nget back to the fight.",
+  "en": "Quit messin' around with pointless\nstuff and get back to the fight.",
   "status": "done",
   "slots": [
    "0x338a",
@@ -2210,21 +2210,21 @@
  {
   "id": "s2073:06dd2",
   "jp": "神や天使には性別がないって\nいうじゃない。",
-  "en": "They say gods and angels have no gender,\ndon't they?",
+  "en": "They say gods and angels\nhave no gender, don't they?",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2073:06dfc",
   "jp": "私たちにも性別はない。\nつまり！　私たちは神になったの！\nその事実を誇るといいわ！",
-  "en": "We have no gender either. In other words!\nWe have become gods! Be proud of that\nfact!",
+  "en": "We have no gender either.\nIn other words! We have become gods!\nBe proud of that fact!",
   "status": "done",
   "slots": []
  },
  {
   "id": "s2073:06e4d",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x33ab",
@@ -2246,7 +2246,7 @@
  {
   "id": "s2073:06ed8",
   "jp": "しかし、残念な事にキミには\n手術を受ける権利がない。\nすまないが、お引取り願おう。",
-  "en": "Sadly, however, you do not have the right\nto receive the operation. I'm sorry, but I\nmust ask you to leave.",
+  "en": "Sadly, however, you do not have\nthe right to receive the operation.\nI'm sorry, but I must ask you to leave.",
   "status": "done",
   "slots": [
    "0x33b9",

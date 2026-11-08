@@ -106,7 +106,7 @@ Spellings below are official: the game's own name plates (ids 1534-1580, crests 
 | エルマーレ | Elmare | | federation; stage graphics | |
 | 海王神殿 | Sea King's Temple / Sea King Shard | | ancient ruin, chapter 1; its shard item (134 px) is Sea King Shard | Sea Temple |
 | シャンティエ | Chantier | | 腐海都市 = Rotting Sea City | |
-| バッソフォンド | Bassofondo | | | |
+| バッソフォンド | Bassofondo / Bassofondan | | Bassofondan: バッソフォンド兵, its soldier (HUD name, 68 px) | |
 | 世界樹 | World Tree | | | |
 | 加工都市アレン | Craft City Allen | | | |
 | ストレガッタ | Stregatta | | region, World Tree | |

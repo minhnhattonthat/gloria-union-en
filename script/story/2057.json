@@ -35,7 +35,7 @@
  {
   "id": "s2057:00087",
   "jp": "あの船首で叫んでる人、\nまだ若いっすねぇ。\n新兵の方っすか？",
-  "en": "The guy shouting at the bow is still pretty\nyoung, sir. A new recruit?",
+  "en": "The guy shouting at the bow is still\npretty young, sir. A new recruit?",
   "status": "done",
   "slots": [
    "0x21a5"
@@ -46,7 +46,7 @@
  {
   "id": "s2057:000c6",
   "jp": "だとしたら相当図々しいわね。\n格好の的ってわからないのかしら？",
-  "en": "If so, he's got some nerve. Doesn't he know\nhe's a sitting duck?",
+  "en": "If so, he's got some nerve.\nDoesn't he know he's a sitting duck?",
   "status": "done",
   "slots": [
    "0x21ba"
@@ -68,7 +68,7 @@
  {
   "id": "s2057:0012d",
   "jp": "面倒くさそうだから、\nもうここから狙撃しちゃえばぁ？",
-  "en": "He looks like a pain, so why not just snipe\nhim from here?",
+  "en": "He looks like a pain, so why\nnot just snipe him from here?",
   "status": "done",
   "slots": [
    "0x2211"
@@ -79,7 +79,7 @@
  {
   "id": "s2057:00165",
   "jp": "うふふ、殿方はあれぐらい元気が\nあったほうがいいですわ。",
-  "en": "Hehehe, it's better for a gentleman to have\nthat much energy.",
+  "en": "Hehehe, it's better for a gentleman\nto have that much energy.",
   "status": "done",
   "slots": [
    "0x2240"
@@ -101,7 +101,7 @@
  {
   "id": "s2057:001e3",
   "jp": "あうぅ、耳をふさいでも\n聞こえてくるよぅ。",
-  "en": "Auuu, I can hear him even with my ears\ncovered.",
+  "en": "Auuu, I can hear him even\nwith my ears covered.",
   "status": "done",
   "slots": [
    "0x2295"
@@ -112,7 +112,7 @@
  {
   "id": "s2057:00211",
   "jp": "うるさい人ですねぇ。心なしか\n波が高くなった気がします。",
-  "en": "What a loud person. I'd almost say the\nwaves have got higher.",
+  "en": "What a loud person. I'd almost\nsay the waves have got higher.",
   "status": "done",
   "slots": [
    "0x22aa"
@@ -134,7 +134,7 @@
  {
   "id": "s2057:0027d",
   "jp": "いい迷惑ね。\nさっさと追い払いましょう。",
-  "en": "What a nuisance. Let's chase him off\nalready.",
+  "en": "What a nuisance.\nLet's chase him off already.",
   "status": "done",
   "slots": [
    "0x22f5"
@@ -156,7 +156,7 @@
  {
   "id": "s2057:002df",
   "jp": "イシュト、あの男、あんなんだが\nなかなかできそうだぞ。",
-  "en": "Ishut, that guy may be like that, but he\nlooks like he's pretty good.",
+  "en": "Ishut, that guy may be like that,\nbut he looks like he's pretty good.",
   "status": "done",
   "slots": [
    "0x242f"
@@ -189,7 +189,7 @@
  {
   "id": "s2057:0034f",
   "jp": "だから、あの男、印象とは違って\n強そうだぞ！",
-  "en": "I SAID, that guy looks strong, unlike how he\ncomes across!",
+  "en": "I SAID, that guy looks strong,\nunlike how he comes across!",
   "status": "done",
   "slots": [
    "0x247f"
@@ -200,7 +200,7 @@
  {
   "id": "s2057:0037f",
   "jp": "ビアローフォーメーションを組め！\n敵を真正面からねじ伏せろおぉぉ！",
-  "en": "Form the Bi-Arrow Formation! Crush the\nenemy head-on!!",
+  "en": "Form the Bi-Arrow Formation!\nCrush the enemy head-on!!",
   "status": "done",
   "slots": [
    "0x2498"
@@ -222,7 +222,7 @@
  {
   "id": "s2057:003e4",
   "jp": "……総員突撃！！！\nあの野郎の陣を粉砕しろ！！！",
-  "en": "...ALL TROOPS, CHARGE!!! SMASH THAT\nBASTARD'S RANKS!!!",
+  "en": "...ALL TROOPS, CHARGE!!!\nSMASH THAT BASTARD'S RANKS!!!",
   "status": "done",
   "slots": [
    "0x24cf"
@@ -266,7 +266,7 @@
  {
   "id": "s2057:00494",
   "jp": "粉骨砕身は自分にかける言葉で\nあって、相手を粉々にすること\nじゃないんだぞ！",
-  "en": "\"Grind your bones to dust\" is about workin'\nyourself hard, not about smashin' the other\nguy to bits!",
+  "en": "\"Grind your bones to dust\"\nis about workin' yourself hard,\nnot about smashin' the other guy to bits!",
   "status": "done",
   "slots": [
    "0x5b75"
@@ -277,7 +277,7 @@
  {
   "id": "s2057:004e3",
   "jp": "ヌヌ！　猫の獣人だと！？\nこのぉ！　愛らしい姿でたぶらかす\n気だなぁ！！？",
-  "en": "Ngh! A cat beastman!? Curses! You plan to\nbewitch me with your adorable looks, don't\nyou!?",
+  "en": "Ngh! A cat beastman!? Curses!\nYou plan to bewitch me with\nyour adorable looks, don't you!?",
   "status": "done",
   "slots": [
    "0x5c67"
@@ -288,7 +288,7 @@
  {
   "id": "s2057:00530",
   "jp": "なに勝手に顔赤らめてるんですか？\nあいにくボクには想い人がいるんで",
-  "en": "Why are you blushing all on your own? Sorry,\nbut I already have someone I love.",
+  "en": "Why are you blushing all on your own?\nSorry, but I already have someone I love.",
   "status": "done",
   "slots": [
    "0x5c7c"
@@ -299,7 +299,7 @@
  {
   "id": "s2057:00576",
   "jp": "なんと美しきご婦人よ！\nグロリアに攫われたのだな！？\nよぉし！　今助けるぞ！！",
-  "en": "What a beautiful lady! The Gloria Pirates\nkidnapped you, didn't they!? All right! I'll\nsave you now!!",
+  "en": "What a beautiful lady!\nThe Gloria Pirates kidnapped you,\ndidn't they!? All right! I'll save you now!!",
   "status": "done",
   "slots": [
    "0x5d6e"
@@ -310,7 +310,7 @@
  {
   "id": "s2057:005c7",
   "jp": "うわぁ、あたしが一番苦手で嫌いな\nタイプだ……。",
-  "en": "Ugh, he's exactly the type I hate and can't\ndeal with the most...",
+  "en": "Ugh, he's exactly the type I hate\nand can't deal with the most...",
   "status": "done",
   "slots": [
    "0x5d83"
@@ -332,7 +332,7 @@
  {
   "id": "s2057:00620",
   "jp": "うるさいのではない！！　\nこれは気合というものだ！！",
-  "en": "It's not loud!! This is what you call fighting\nspirit!!",
+  "en": "It's not loud!! This is what\nyou call fighting spirit!!",
   "status": "done",
   "slots": [
    "0x5e8a"
@@ -354,7 +354,7 @@
  {
   "id": "s2057:00686",
   "jp": "フハハ！　たしかに戦場の空気を\n読めない騎士など二流！！　だが、\nボクは空気の読める一流だ！！",
-  "en": "Fwahaha! Indeed, a knight who cannot read\nthe mood of the battlefield is second-rate!!\nBut I'm a first-rate one who can read the\nroom!!",
+  "en": "Fwahaha! Indeed, a knight who cannot\nread the mood of the battlefield is\nsecond-rate!! But I'm a first-rate\none who can read the room!!",
   "status": "done",
   "slots": [
    "0x5f98"
@@ -365,7 +365,7 @@
  {
   "id": "s2057:006e7",
   "jp": "……てめぇとはもう一生話さねぇ。",
-  "en": "...I ain't ever talkin' to you again as long as\nI live.",
+  "en": "...I ain't ever talkin'\nto you again as long as I live.",
   "status": "done",
   "slots": [
    "0x5fad"
@@ -376,7 +376,7 @@
  {
   "id": "s2057:0070c",
   "jp": "気合があるのはいい事だが、\nあまりうるさすぎるのは\nマナー違反だぞ。",
-  "en": "Fighting spirit is all well and good, but being\ntoo loud is a breach of manners.",
+  "en": "Fighting spirit is all well and good,\nbut being too loud is a breach of manners.",
   "status": "done",
   "slots": [
    "0x609e"
@@ -386,7 +386,7 @@
  {
   "id": "s2057:0074f",
   "jp": "なに！？\n戦闘しながら規律を気にする\n余裕があるとは……侮りがたし！",
-  "en": "What!? You have the leisure to worry about\ndiscipline in the middle of battle... I cannot\nunderestimate you!",
+  "en": "What!? You have the leisure to worry\nabout discipline in the middle of battle...\nI cannot underestimate you!",
   "status": "done",
   "slots": [
    "0x60b3"
@@ -396,7 +396,7 @@
  {
   "id": "s2057:00792",
   "jp": "子供……？\nここは戦場だぞ！？\n早く逃げるんだ！！",
-  "en": "A child...? This is a battlefield!? Run away,\nquick!!",
+  "en": "A child...? This is a battlefield!?\nRun away, quick!!",
   "status": "done",
   "slots": [
    "0x619d"
@@ -426,7 +426,7 @@
  {
   "id": "s2057:00813",
   "jp": "おぉ～！\nは、初めて私を怖がってくれる\n人がいたっす！",
-  "en": "Ooooh! S-somebody's actually scared of me\nfor the first time, sir!",
+  "en": "Ooooh! S-somebody's actually\nscared of me for the first time, sir!",
   "status": "done",
   "slots": [
    "0x62b1"
@@ -436,7 +436,7 @@
  {
   "id": "s2057:00848",
   "jp": "ルキア皇国騎士団……！\nシャンティエの騎士の誇りに賭けて\n貴様を倒す！",
-  "en": "Lukia Imperial Knights...! On my honour as a\nknight of Chantier, I will defeat you!",
+  "en": "Lukia Imperial Knights...! On my honour\nas a knight of Chantier, I will defeat you!",
   "status": "done",
   "slots": [
    "0x639b"
@@ -446,7 +446,7 @@
  {
   "id": "s2057:0088d",
   "jp": "シャンティエの騎士か……。\n面白い！　受けて立とう！",
-  "en": "A knight of Chantier... Interesting! I accept\nyour challenge!",
+  "en": "A knight of Chantier... Interesting!\nI accept your challenge!",
   "status": "done",
   "slots": [
    "0x63b0"
@@ -456,7 +456,7 @@
  {
   "id": "s2057:008c1",
   "jp": "賞金稼ぎが海賊とは、ミイラ取りが\nミイラとはこの事だな！",
-  "en": "A bounty hunter turned pirate! Talk about\nthe hunter becoming the hunted!",
+  "en": "A bounty hunter turned pirate!\nTalk about the hunter becoming the hunted!",
   "status": "done",
   "slots": [
    "0x649a"
@@ -466,7 +466,7 @@
  {
   "id": "s2057:008f9",
   "jp": "誰のせいでこうなったと\n思っているのですか！\nこの賞金首泥棒！",
-  "en": "Whose fault do you think this is!? You\nbounty thief!",
+  "en": "Whose fault do you think this is!?\nYou bounty thief!",
   "status": "done",
   "slots": [
    "0x64af"
@@ -476,7 +476,7 @@
  {
   "id": "s2057:00936",
   "jp": "な、なんだ？　この面妖な物体は。\nま、まさか、敵が用意した\n殺戮兵器か！？",
-  "en": "Wh-what is this bizarre object? D-don't tell\nme it's a killing machine the enemy\nprepared!?",
+  "en": "Wh-what is this bizarre object?\nD-don't tell me it's a killing\nmachine the enemy prepared!?",
   "status": "done",
   "slots": [
    "0x6599"
@@ -496,7 +496,7 @@
  {
   "id": "s2057:0098a",
   "jp": "そんなに気合入れて\n何が楽しいんだわさ。\nもっと気楽にできないのかしらねぇ",
-  "en": "What's so fun about getting all fired up like\nthat, dontcha know? Can't you take it a\nlittle easier?",
+  "en": "What's so fun about getting all\nfired up like that, dontcha know?\nCan't you take it a little easier?",
   "status": "done",
   "slots": [
    "0x6692"
@@ -506,7 +506,7 @@
  {
   "id": "s2057:009d3",
   "jp": "戦場で気を抜くなど、戦士にとって\nあってはならぬ愚行！\n気楽になど、できるものか！",
-  "en": "Letting one's guard down on the battlefield\nis folly a warrior must never commit! How\ncould I take it easy!",
+  "en": "Letting one's guard down on the\nbattlefield is folly a warrior must\nnever commit! How could I take it easy!",
   "status": "done",
   "slots": [
    "0x66a7"
@@ -527,7 +527,7 @@
  {
   "id": "s2057:00a85",
   "jp": "だが、得る物は確かにあった！\n総員！　拠点に戻り、将軍殿に\n情報を報告するぞ！　撤退！",
-  "en": "But we did gain something! All troops! Back\nto base, we'll report our findings to the\ngeneral! Retreat!",
+  "en": "But we did gain something! All troops!\nBack to base, we'll report our\nfindings to the general! Retreat!",
   "status": "done",
   "slots": [
    "0x6870"
@@ -549,7 +549,7 @@
  {
   "id": "s2057:00b2d",
   "jp": "そうか、新米とはいえ、\n貴様ほどの腕を持つ騎士がやられる\nとは、グロリアもやるではないか。",
-  "en": "I see. You may be a rookie, but for a knight\nof your skill to be beaten... The Gloria\nPirates are not bad.",
+  "en": "I see. You may be a rookie, but for\na knight of your skill to be beaten...\nThe Gloria Pirates are not bad.",
   "status": "done",
   "slots": [
    "0x6f42"
@@ -571,7 +571,7 @@
  {
   "id": "s2057:00ba3",
   "jp": "しかし、よもや逃げ帰ってくるとは\n思わなかったぞ、この臆病者め。",
-  "en": "However, I never imagined you would come\nrunning home, you coward.",
+  "en": "However, I never imagined you would\ncome running home, you coward.",
   "status": "done",
   "slots": [
    "0x6f71"
@@ -626,7 +626,7 @@
  {
   "id": "s2057:00ca6",
   "jp": "グロリア海賊団！？\nいい所に来てくれた！",
-  "en": "The Gloria Pirates!? You came at just the\nright time!",
+  "en": "The Gloria Pirates!?\nYou came at just the right time!",
   "status": "done",
   "slots": [
    "0x70d6"
@@ -637,7 +637,7 @@
  {
   "id": "s2057:00cd2",
   "jp": "お前はさっきの……！\nリベンジでもしに来たのか？",
-  "en": "You're the guy from before...! Come for\nrevenge or somethin'?",
+  "en": "You're the guy from before...!\nCome for revenge or somethin'?",
   "status": "done",
   "slots": [
    "0x70ef"
@@ -659,7 +659,7 @@
  {
   "id": "s2057:00d2e",
   "jp": "……不肖カミュル、一世一代の恥を\n忍んで、貴殿等に助けを求めたい！",
-  "en": "...Unworthy as I am, I, Kamuru, swallow the\ngreatest shame of my life to ask for your\nhelp!",
+  "en": "...Unworthy as I am, I, Kamuru,\nswallow the greatest shame\nof my life to ask for your help!",
   "status": "done",
   "slots": [
    "0x710f"
@@ -714,7 +714,7 @@
  {
   "id": "s2057:00e04",
   "jp": "なるほど……死んだら元も子も\nないってのになぁ。",
-  "en": "I see... If ya die, it's all for nothin',\nthough.",
+  "en": "I see... If ya die,\nit's all for nothin', though.",
   "status": "done",
   "slots": [
    "0x71a7"
@@ -736,7 +736,7 @@
  {
   "id": "s2057:00e51",
   "jp": "所詮皇国の将軍、人の心は無いの\nだろうよ。",
-  "en": "She's an Imperial general, after all. She\nprobably has no heart.",
+  "en": "She's an Imperial general, after all.\nShe probably has no heart.",
   "status": "done",
   "slots": [
    "0x71e8"
@@ -747,7 +747,7 @@
  {
   "id": "s2057:00e7f",
   "jp": "敵とはいえ、\n少し同情してしまいますね。",
-  "en": "He may be an enemy, but I feel a little sorry\nfor him.",
+  "en": "He may be an enemy,\nbut I feel a little sorry for him.",
   "status": "done",
   "slots": [
    "0x721b"
@@ -758,7 +758,7 @@
  {
   "id": "s2057:00eab",
   "jp": "正直、アナタ達に助けを求めた\nところで、どうせ殺されるかと\n思っていましたが……。",
-  "en": "Honestly, I thought even if I asked you for\nhelp, you'd kill me anyway...",
+  "en": "Honestly, I thought even if I asked\nyou for help, you'd kill me anyway...",
   "status": "done",
   "slots": [
    "0x7242"
@@ -769,7 +769,7 @@
  {
   "id": "s2057:00f00",
   "jp": "確かに皇国軍は我が敵。\nしかし、お前は少し違うようだ。",
-  "en": "The Imperial Army is indeed my enemy. But\nyou seem a little different.",
+  "en": "The Imperial Army is indeed my enemy.\nBut you seem a little different.",
   "status": "done",
   "slots": [
    "0x726b"
@@ -780,7 +780,7 @@
  {
   "id": "s2057:00f3a",
   "jp": "戦意のない相手を殺すのは、虐殺\nって言うのよ。グロリアはそんな\n非道なマネなんてしないわよ。",
-  "en": "Killing someone who's lost the will to fight\nis called a massacre. The Gloria Pirates\ndon't do anything that cruel.",
+  "en": "Killing someone who's lost the will to\nfight is called a massacre. The Gloria\nPirates don't do anything that cruel.",
   "status": "done",
   "slots": [
    "0x7288"
@@ -802,7 +802,7 @@
  {
   "id": "s2057:00fb2",
   "jp": "なぁ、さっきから思ってたが、\nお前性格がおかしくなってないか？",
-  "en": "Hey, I've been thinkin' this for a while, but\nhasn't your personality gone weird?",
+  "en": "Hey, I've been thinkin' this for a while,\nbut hasn't your personality gone weird?",
   "status": "done",
   "slots": [
    "0x72b4"
@@ -824,7 +824,7 @@
  {
   "id": "s2057:01019",
   "jp": "ボク、まだ戦場というものに慣れて\nいなくて。あぁも吹っ切れないと\n気が滅入ってしまうんですよ。",
-  "en": "I'm still not used to the battlefield. If I\ndon't let loose like that, I get depressed.",
+  "en": "I'm still not used to the battlefield.\nIf I don't let loose like that, I get depressed.",
   "status": "done",
   "slots": [
    "0x72ee"
@@ -868,7 +868,7 @@
  {
   "id": "s2057:010db",
   "jp": "ね、ねぇ、そのちょうちょと\nわたしのお守り、こうかんして？",
-  "en": "H-hey, will you trade that butterfly for my\nlucky charm?",
+  "en": "H-hey, will you trade that\nbutterfly for my lucky charm?",
   "status": "done",
   "slots": [
    "0x2647",
@@ -890,7 +890,7 @@
  {
   "id": "s2057:0113f",
   "jp": "わぁい！\nきれいなちょうちょさん。\nこれからよろしくね！",
-  "en": "Yaaay! Pretty butterfly, let's be friends\nfrom now on!",
+  "en": "Yaaay! Pretty butterfly,\nlet's be friends from now on!",
   "status": "done",
   "slots": [
    "0x26d9",
@@ -901,7 +901,7 @@
  {
   "id": "s2057:01176",
   "jp": "はぁ～、どこかに、きれいな\nものないかなぁ……。",
-  "en": "Haaah, isn't there anything pretty around\nhere...",
+  "en": "Haaah, isn't there anything\npretty around here...",
   "status": "done",
   "slots": [
    "0x26f1",
@@ -912,7 +912,7 @@
  {
   "id": "s2057:011a6",
   "jp": "ここは加工都市アレン。\n一見なんの変哲もないものを\n色んなものに加工している所よ。",
-  "en": "This is Craft City Allen. We turn things that\nlook completely ordinary into all sorts of\nstuff.",
+  "en": "This is Craft City Allen.\nWe turn things that look completely\nordinary into all sorts of stuff.",
   "status": "done",
   "slots": [
    "0x34b3",
@@ -923,7 +923,7 @@
  {
   "id": "s2057:011f7",
   "jp": "あら、アナタ。\nいいもの持ってるわね、\nちょっと貸して。",
-  "en": "Oh my, you. You've got something nice\nthere. Lend it to me for a sec.",
+  "en": "Oh my, you. You've got something\nnice there. Lend it to me for a sec.",
   "status": "done",
   "slots": [
    "0x34ba",
@@ -934,7 +934,7 @@
  {
   "id": "s2057:0122e",
   "jp": "ハイ。こうやって、ただの貝殻も\nセクシーな胸当てに大変身ってわけ",
-  "en": "There. Just like that, a plain old seashell\ngets a total makeover into a sexy\nbreastplate.",
+  "en": "There. Just like that,\na plain old seashell gets a total\nmakeover into a sexy breastplate.",
   "status": "done",
   "slots": [
    "0x352e",
@@ -945,7 +945,7 @@
  {
   "id": "s2057:0126e",
   "jp": "他に何か加工したかったら、\nいつでもここに来てね。",
-  "en": "If you want anything else crafted, come\nhere any time.",
+  "en": "If you want anything else crafted,\ncome here any time.",
   "status": "done",
   "slots": [
    "0x3562",
@@ -956,7 +956,7 @@
  {
   "id": "s2057:012a0",
   "jp": "あ、男のアナタには必要ない\nわよね。\n変な噂立っちゃったらゴメンね。",
-  "en": "Oh, but a man like you wouldn't need that,\nwould you? Sorry if it starts any weird\nrumours.",
+  "en": "Oh, but a man like you wouldn't\nneed that, would you?\nSorry if it starts any weird rumours.",
   "status": "done",
   "slots": [
    "0x3572",
@@ -967,7 +967,7 @@
  {
   "id": "s2057:012e3",
   "jp": "さて、私も職場に戻らないとね。\n人気加工師はツライわぁ～。",
-  "en": "Well, I'd better get back to work too. It's\ntough being a popular craftswoman.",
+  "en": "Well, I'd better get back to work too.\nIt's tough being a popular craftswoman.",
   "status": "done",
   "slots": [
    "0x3595",
@@ -978,7 +978,7 @@
  {
   "id": "s2057:0131d",
   "jp": "ここは加工都市アレン。\n一見なんの変哲もないものを\n色んなものに加工している所よ。",
-  "en": "This is Craft City Allen. We turn things that\nlook completely ordinary into all sorts of\nstuff.",
+  "en": "This is Craft City Allen.\nWe turn things that look completely\nordinary into all sorts of stuff.",
   "status": "done",
   "slots": [
    "0x35ad",
@@ -989,7 +989,7 @@
  {
   "id": "s2057:0136e",
   "jp": "何か加工したかったら、\nいつでもここに来てね。",
-  "en": "If you want anything crafted, come here any\ntime.",
+  "en": "If you want anything crafted,\ncome here any time.",
   "status": "done",
   "slots": [
    "0x35b4",
@@ -1022,7 +1022,7 @@
  {
   "id": "s2057:013f1",
   "jp": "お前もこれを身につけて、\n敵を気圧してやれ！",
-  "en": "You put this on too, and overwhelm your\nenemies!",
+  "en": "You put this on too,\nand overwhelm your enemies!",
   "status": "done",
   "slots": [
    "0x4472",
@@ -1117,7 +1117,7 @@
  {
   "id": "s2057:014d2",
   "jp": "兄貴は綺麗な貝殻好きですからねぇ\nきっと喜んでくれるはずです。",
-  "en": "The Boss loves pretty seashells. I'm sure\nhe'll be happy.",
+  "en": "The Boss loves pretty seashells.\nI'm sure he'll be happy.",
   "status": "done",
   "slots": [
    "0x4644",
@@ -1150,7 +1150,7 @@
  {
   "id": "s2057:0153c",
   "jp": "戦闘中だってのに、\n砂浜は静かなもんねぇ。\nお、貝殻発見。",
-  "en": "Even in the middle of a battle, the beach is\nso quiet. Oh, found a seashell.",
+  "en": "Even in the middle of a battle,\nthe beach is so quiet. Oh, found a seashell.",
   "status": "done",
   "slots": [
    "0x4747",
@@ -1172,7 +1172,7 @@
  {
   "id": "s2057:01594",
   "jp": "貝殻集めかぁ。\nガキの頃よくやったもんだぜ。",
-  "en": "Collectin' seashells, huh? Did that a lot\nwhen I was a kid.",
+  "en": "Collectin' seashells, huh?\nDid that a lot when I was a kid.",
   "status": "done",
   "slots": [
    "0x47de",
@@ -1194,7 +1194,7 @@
  {
   "id": "s2057:015df",
   "jp": "貝殻の中には、\n時として高額なものが存在する\n可能性がある。",
-  "en": "Among seashells, there may at times be\nsome that are worth a great deal.",
+  "en": "Among seashells, there may at times\nbe some that are worth a great deal.",
   "status": "done",
   "slots": [
    "0x487c",
@@ -1227,7 +1227,7 @@
  {
   "id": "s2057:01651",
   "jp": "とってもきれい～。\nしまっちゃお～、フンフフ～ン。",
-  "en": "It's so pretty! Locomoco's putting it away,\nhmm hmm hmmm~",
+  "en": "It's so pretty! Locomoco's putting\nit away, hmm hmm hmmm~",
   "status": "done",
   "slots": [
    "0x4982",
@@ -1238,7 +1238,7 @@
  {
   "id": "s2057:01683",
   "jp": "随分と貝殻が多い砂浜っすねぇ。\nどれどれ",
-  "en": "This beach sure has a lot of seashells, sir.\nLet's see...",
+  "en": "This beach sure has a lot of\nseashells, sir. Let's see...",
   "status": "done",
   "slots": [
    "0x49dc",
@@ -1260,7 +1260,7 @@
  {
   "id": "s2057:016d9",
   "jp": "貝殻集めか。童心に帰るな。",
-  "en": "Collecting seashells. It takes me back to my\nchildhood.",
+  "en": "Collecting seashells.\nIt takes me back to my childhood.",
   "status": "done",
   "slots": [
    "0x4a8c",
@@ -1271,7 +1271,7 @@
  {
   "id": "s2057:016f4",
   "jp": "よく同志達で、綺麗な貝殻を競い\n合ったものだなぁ。",
-  "en": "My comrades and I often competed for the\nprettiest seashells.",
+  "en": "My comrades and I often competed\nfor the prettiest seashells.",
   "status": "done",
   "slots": [
    "0x4ae2",
@@ -1326,7 +1326,7 @@
  {
   "id": "s2057:0178f",
   "jp": "貝殻、ねぇ。\nなんでこんなきれいなものが\nお金にならないのかしらね？",
-  "en": "Seashells, huh. Why don't pretty things like\nthese make any money, I wonder?",
+  "en": "Seashells, huh. Why don't pretty things\nlike these make any money, I wonder?",
   "status": "done",
   "slots": [
    "0x4c7c",
@@ -1337,7 +1337,7 @@
  {
   "id": "s2057:017d2",
   "jp": "ほら、これなんて、真珠に勝る\n美しさだと思わない？",
-  "en": "Look, don't you think this one's prettier than\na pearl?",
+  "en": "Look, don't you think this\none's prettier than a pearl?",
   "status": "done",
   "slots": [
    "0x4cc7",
@@ -1370,7 +1370,7 @@
  {
   "id": "s2057:01859",
   "jp": "そういえば、この世界の貝類は\n研究外だったわさ。",
-  "en": "Come to think of it, I never researched this\nworld's shellfish, dontcha know.",
+  "en": "Come to think of it, I never researched\nthis world's shellfish, dontcha know.",
   "status": "done",
   "slots": [
    "0x4db1",
@@ -1381,7 +1381,7 @@
  {
   "id": "s2057:01889",
   "jp": "へぇ～見たこともない貝の殻だわさ\nきれいねぇ～。",
-  "en": "Ooh, a shell I've never seen before, dontcha\nknow. So pretty!",
+  "en": "Ooh, a shell I've never seen before,\ndontcha know. So pretty!",
   "status": "done",
   "slots": [
    "0x4e07",
@@ -1403,7 +1403,7 @@
  {
   "id": "s2057:018e9",
   "jp": "この美しい貝殻のような女性に\n私はなりたいですわ。",
-  "en": "I wish to become a woman like this beautiful\nseashell.",
+  "en": "I wish to become a woman\nlike this beautiful seashell.",
   "status": "done",
   "slots": [
    "0x4eb3",
@@ -1414,7 +1414,7 @@
  {
   "id": "s2057:0191b",
   "jp": "なんだよなんだよ。\n戦いの雰囲気がちっともねぇなぁ。\nこの砂浜は！",
-  "en": "What's this, what's this? There ain't any\nfeel of battle at all on this beach!",
+  "en": "What's this, what's this? There ain't\nany feel of battle at all on this beach!",
   "status": "done",
   "slots": [
    "0x4ef6",
@@ -1491,7 +1491,7 @@
  {
   "id": "s2057:01a30",
   "jp": "わっ。こ、これって、とっても\n高級なやつだよね？\nイシュトが言ってたよ。",
-  "en": "Whoa. Th-this is a really fancy one, right?\nIshut told me.",
+  "en": "Whoa. Th-this is a really fancy one,\nright? Ishut told me.",
   "status": "done",
   "slots": [
    "0x51a4",
@@ -1513,7 +1513,7 @@
  {
   "id": "s2057:01a84",
   "jp": "あちゃー、うにを踏んでたわけね。\nん～まぁ高級食材だし、痛みわけね",
-  "en": "Oops, so I stepped on a sea urchin. Well, it's\na fancy delicacy, so I'd say we're even.",
+  "en": "Oops, so I stepped on a sea urchin. Well,\nit's a fancy delicacy, so I'd say we're even.",
   "status": "done",
   "slots": [
    "0x5254",
@@ -1535,7 +1535,7 @@
  {
   "id": "s2057:01add",
   "jp": "おぉ！　うにじゃあねぇか！\nこいつぁツイてるぜ！",
-  "en": "Ooh! Ain't that a sea urchin! Now that's\nlucky!",
+  "en": "Ooh! Ain't that a sea urchin!\nNow that's lucky!",
   "status": "done",
   "slots": [
    "0x5304",
@@ -1711,7 +1711,7 @@
  {
   "id": "s2057:01cd7",
   "jp": "こ、これはうに！\n高級食材ではないか！\nフフフ、今日のボクはツイてるぞ！",
-  "en": "Th-this is a sea urchin! Isn't it a delicacy?\nHehehe, I'm lucky today!",
+  "en": "Th-this is a sea urchin! Isn't it a\ndelicacy? Hehehe, I'm lucky today!",
   "status": "done",
   "slots": [
    "0x5852",
@@ -1755,7 +1755,7 @@
  {
   "id": "s2057:01d9c",
   "jp": "これは、高級うに！\nん～さすが私ですわ！",
-  "en": "It's a fine sea urchin! Mmm, as expected of\nme!",
+  "en": "It's a fine sea urchin!\nMmm, as expected of me!",
   "status": "done",
   "slots": [
    "0x59c0",
@@ -1799,7 +1799,7 @@
  {
   "id": "s2057:074ab",
   "jp": "メラニー将軍。真に勝手ながら\nこのカミュル、ただいまをもって\n騎士団を退団いたします。",
-  "en": "General Melanie. Selfish as it is of me, I,\nKamuru, hereby resign from the Knights as\nof this moment.",
+  "en": "General Melanie. Selfish as it is of me,\nI, Kamuru, hereby resign from\nthe Knights as of this moment.",
   "status": "done",
   "slots": [
    "0x81ee"
@@ -1810,7 +1810,7 @@
  {
   "id": "s2057:07504",
   "jp": "問題ない。既に貴様は死んだことに\nなっている！",
-  "en": "No problem. You've already been declared\ndead!",
+  "en": "No problem. You've already\nbeen declared dead!",
   "status": "done",
   "slots": [
    "0x8207"
@@ -1832,7 +1832,7 @@
  {
   "id": "s2057:07576",
   "jp": "隊列に一切の乱れがない。\nよく訓練されていますね。",
-  "en": "Not a single flaw in their ranks. They're well\ntrained.",
+  "en": "Not a single flaw in their ranks.\nThey're well trained.",
   "status": "done",
   "slots": [
    "0x8270"
@@ -1854,7 +1854,7 @@
  {
   "id": "s2057:075c5",
   "jp": "ボウヤ、\nなかなかいい目をしているな。\nフフ、強い男は好きだぞ。",
-  "en": "Little boy, you have quite good eyes. Hehe, I\nlike strong men.",
+  "en": "Little boy, you have quite good eyes.\nHehe, I like strong men.",
   "status": "done",
   "slots": [
    "0xba42"
@@ -1876,7 +1876,7 @@
  {
   "id": "s2057:0762d",
   "jp": "貴様がザザーランドの娘か。\nフン、見るだけでイライラする顔だ",
-  "en": "So you're Zazarland's daughter. Hmph, your\nface irritates me just to look at.",
+  "en": "So you're Zazarland's daughter. Hmph,\nyour face irritates me just to look at.",
   "status": "done",
   "slots": [
    "0xbc48"
@@ -1898,7 +1898,7 @@
  {
   "id": "s2057:07682",
   "jp": "久々だな！　\nこうして剣を交えるのは！",
-  "en": "It's been a while! Since we crossed swords\nlike this!",
+  "en": "It's been a while! Since we\ncrossed swords like this!",
   "status": "done",
   "slots": [
    "0xbe4e"
@@ -1920,7 +1920,7 @@
  {
   "id": "s2057:076c9",
   "jp": "フン、獣が。\n人間に勝てるとでも\n思っているのか？",
-  "en": "Hmph, a beast. Do you think you can beat a\nhuman?",
+  "en": "Hmph, a beast. Do you think\nyou can beat a human?",
   "status": "done",
   "slots": [
    "0xbb41"
@@ -1930,7 +1930,7 @@
  {
   "id": "s2057:076fa",
   "jp": "思ってないよ。\n少なくとも、兄貴には負けっぱなし\nだからね。",
-  "en": "I don't. I mean, I've never once beaten the\nBoss.",
+  "en": "I don't. I mean, I've never\nonce beaten the Boss.",
   "status": "done",
   "slots": [
    "0xbb56"
@@ -1940,7 +1940,7 @@
  {
   "id": "s2057:07735",
   "jp": "羅針盤、貴様は捕獲対象だ。\n速やかに捕らえるぞ！",
-  "en": "Compass, you are a target for capture. I will\ntake you at once!",
+  "en": "Compass, you are a target for\ncapture. I will take you at once!",
   "status": "done",
   "slots": [
    "0xbd47"
@@ -1960,7 +1960,7 @@
  {
   "id": "s2057:0778f",
   "jp": "まだ残っていたとは。\nグロリア海賊団は、どんな恩を\nアナタに売ったというのか。",
-  "en": "You're still with them? What favour could\nthe Gloria Pirates have done you?",
+  "en": "You're still with them? What favour\ncould the Gloria Pirates have done you?",
   "status": "done",
   "slots": [
    "0xbf4d"
@@ -1970,7 +1970,7 @@
  {
   "id": "s2057:077dc",
   "jp": "恩？　そんな大したことじゃない。\nただの、私利私欲さ。",
-  "en": "A favour? Nothing so grand. Merely my own\nselfish interests.",
+  "en": "A favour? Nothing so grand.\nMerely my own selfish interests.",
   "status": "done",
   "slots": [
    "0xbf62"
@@ -1980,7 +1980,7 @@
  {
   "id": "s2057:07812",
   "jp": "貴様の攻撃など、まさしく児戯。\n我が隊には通用せぬ！",
-  "en": "Your attacks are truly child's play. They\nwon't work against my unit!",
+  "en": "Your attacks are truly child's play.\nThey won't work against my unit!",
   "status": "done",
   "slots": [
    "0xc04c"
@@ -1990,7 +1990,7 @@
  {
   "id": "s2057:07846",
   "jp": "いいんだ？　そんなこと言って。\n後悔するよ？",
-  "en": "Are you sure you should say that? You'll\nregret it!",
+  "en": "Are you sure you should\nsay that? You'll regret it!",
   "status": "done",
   "slots": [
    "0xc061"
@@ -2000,7 +2000,7 @@
  {
   "id": "s2057:07872",
   "jp": "黄泉の国か……フフ。\nそこへ帰るのは、お前の方だ！",
-  "en": "The Land of the Dead... Hehe. You're the one\nwho'll be going back there!",
+  "en": "The Land of the Dead... Hehe.\nYou're the one who'll be going back there!",
   "status": "done",
   "slots": [
    "0xc14b"
@@ -2010,7 +2010,7 @@
  {
   "id": "s2057:078a4",
   "jp": "帰りたいのは山々っすけど。\nこっちの仕事はまだ\n終わってないっすよ。",
-  "en": "I'd love to go back, ma'am, but my job here\nisn't finished yet.",
+  "en": "I'd love to go back, ma'am,\nbut my job here isn't finished yet.",
   "status": "done",
   "slots": [
    "0xc160"
@@ -2020,7 +2020,7 @@
  {
   "id": "s2057:078e7",
   "jp": "シャンティエ如きが。\n我等ルキア皇国に敵うとでも\n思っているのか！",
-  "en": "The likes of Chantier think they can rival us,\nthe Lukia Empire!?",
+  "en": "The likes of Chantier think they\ncan rival us, the Lukia Empire!?",
   "status": "done",
   "slots": [
    "0xc24a"
@@ -2030,7 +2030,7 @@
  {
   "id": "s2057:07928",
   "jp": "貴様……！\nその自信、我が槍で貫いて\nくれよう……！",
-  "en": "You...! I'll pierce that confidence of yours\nwith my spear...!",
+  "en": "You...! I'll pierce that confidence\nof yours with my spear...!",
   "status": "done",
   "slots": [
    "0xc25f"
@@ -2040,7 +2040,7 @@
  {
   "id": "s2057:0795b",
   "jp": "賞金稼ぎが海賊に成り下がったか。\n愚かな。",
-  "en": "A bounty hunter fallen so low as to become\na pirate. How foolish.",
+  "en": "A bounty hunter fallen so low as\nto become a pirate. How foolish.",
   "status": "done",
   "slots": [
    "0xc350"
@@ -2060,7 +2060,7 @@
  {
   "id": "s2057:079d2",
   "jp": "貴様……ルキア皇国を愚弄するとは\n許さんぞ！",
-  "en": "You... I won't forgive you for mocking the\nLukia Empire!",
+  "en": "You... I won't forgive you for\nmocking the Lukia Empire!",
   "status": "done",
   "slots": [
    "0xc37a"
@@ -2070,7 +2070,7 @@
  {
   "id": "s2057:079fe",
   "jp": "機械の様な単調な攻撃。\n防ぐのは容易い！",
-  "en": "Monotonous attacks, like a machine. Easy to\nblock!",
+  "en": "Monotonous attacks,\nlike a machine. Easy to block!",
   "status": "done",
   "slots": [
    "0xc464"
@@ -2080,7 +2080,7 @@
  {
   "id": "s2057:07a26",
   "jp": "あらら、将軍のお出まし？\nもう、メンドクサイんだわさ。",
-  "en": "Oh my, the general herself? Ugh, what a\nhassle, dontcha know.",
+  "en": "Oh my, the general herself? Ugh,\nwhat a hassle, dontcha know.",
   "status": "done",
   "slots": [
    "0xc541"
@@ -2090,7 +2090,7 @@
  {
   "id": "s2057:07a5c",
   "jp": "フン、奇妙な女だ……。\nそうやって余裕でいられるのも\n今のうちだぞ！",
-  "en": "Hmph, a strange woman... You can only stay\nso relaxed for now!",
+  "en": "Hmph, a strange woman...\nYou can only stay so relaxed for now!",
   "status": "done",
   "slots": [
    "0xc556"
@@ -2100,7 +2100,7 @@
  {
   "id": "s2057:07a9f",
   "jp": "チ、人員不足が祟ったか……。\nカミュル軍曹、皇国を裏切った罪を\n必ず思い知らしてやるぞ……！",
-  "en": "Tch, our lack of men has cost us... Sergeant\nKamuru, I will make you pay for the crime of\nbetraying the Empire...!",
+  "en": "Tch, our lack of men has cost us...\nSergeant Kamuru, I will make you pay\nfor the crime of betraying the Empire...!",
   "status": "done",
   "slots": [
    "0xc754"
@@ -2122,7 +2122,7 @@
  {
   "id": "s2057:07b11",
   "jp": "すごい……あのメラニー将軍を\n退かせるなんて……！",
-  "en": "Amazing... They made General Melanie\nherself withdraw...!",
+  "en": "Amazing... They made General\nMelanie herself withdraw...!",
   "status": "done",
   "slots": [
    "0xcf0a"
@@ -2133,7 +2133,7 @@
  {
   "id": "s2057:07b47",
   "jp": "うんうん。それでこそ私が惚れた\n方々ですわ。",
-  "en": "Yes, yes. That's what I'd expect from the\npeople I fell for.",
+  "en": "Yes, yes. That's what I'd expect\nfrom the people I fell for.",
   "status": "done",
   "slots": [
    "0xcf36"
@@ -2144,7 +2144,7 @@
  {
   "id": "s2057:07b77",
   "jp": "これぐらいやんなきゃ、\nあたし達の中では目立てないわよ。",
-  "en": "You've got to do at least this much to stand\nout among us.",
+  "en": "You've got to do at least this\nmuch to stand out among us.",
   "status": "done",
   "slots": [
    "0xcf56"
@@ -2155,7 +2155,7 @@
  {
   "id": "s2057:07bb3",
   "jp": "なんという威厳あるお言葉……！\nエリーシャさん、いや師匠！\nボクにご指導をお願いします！！",
-  "en": "Such dignified words...! Elisha-san, no,\nMaster! Please train me!!",
+  "en": "Such dignified words...! Elisha-san,\nno, Master! Please train me!!",
   "status": "done",
   "slots": [
    "0xcf73"
@@ -2177,7 +2177,7 @@
  {
   "id": "s2057:07c23",
   "jp": "ハッハッハ！\nよかったじゃないかエリーシャ、\n弟子ができたぞ！",
-  "en": "Hahaha! Good for you, Elisha, you've got\nyourself an apprentice!",
+  "en": "Hahaha! Good for you, Elisha,\nyou've got yourself an apprentice!",
   "status": "done",
   "slots": [
    "0xcfa5"
@@ -2188,7 +2188,7 @@
  {
   "id": "s2057:07c64",
   "jp": "また変な仲間が増えたわさ。\nエリーシャ、相手よろしくねぇ。",
-  "en": "Another weirdo joins the crew, dontcha\nknow. Elisha, he's all yours.",
+  "en": "Another weirdo joins the crew,\ndontcha know. Elisha, he's all yours.",
   "status": "done",
   "slots": [
    "0xcfdc"

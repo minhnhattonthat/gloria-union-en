@@ -178,7 +178,7 @@
  {
   "id": "s2081:0042a",
   "jp": "ヘッ、言われなくたって、\nすぐに追いついてやるよ！",
-  "en": "Heh, you don't gotta tell me. I'll catch up to\nya in no time!",
+  "en": "Heh, you don't gotta tell me.\nI'll catch up to ya in no time!",
   "status": "done",
   "slots": [
    "0xb22"
@@ -189,7 +189,7 @@
  {
   "id": "s2081:00460",
   "jp": "ん？\nなんで、この一行だけぐちゃーって\nなってるの？",
-  "en": "Hm? Why is just this one line all scribbled\nout?",
+  "en": "Hm? Why is just this one\nline all scribbled out?",
   "status": "done",
   "slots": [
    "0xb37"
@@ -200,7 +200,7 @@
  {
   "id": "s2081:00497",
   "jp": "それはねぇ、乙女心って奴ですよ。",
-  "en": "That, you see, is what they call a maiden's\nheart.",
+  "en": "That, you see, is what\nthey call a maiden's heart.",
   "status": "done",
   "slots": [
    "0xb49"
@@ -244,7 +244,7 @@
  {
   "id": "s2081:0051f",
   "jp": "あぁ、\nこの先に、まだ見ぬ古代遺跡が\nあるらしいんだ！",
-  "en": "Yeah, word is there's an ancient ruin up\nahead nobody's seen yet!",
+  "en": "Yeah, word is there's an ancient\nruin up ahead nobody's seen yet!",
   "status": "done",
   "slots": [
    "0xbb0"
@@ -255,7 +255,7 @@
  {
   "id": "s2081:00558",
   "jp": "グロリア海賊団には\n負けていられねぇ！\nお前ら！　出航だぁー！！",
-  "en": "Can't let the Gloria Pirates beat us! You lot!\nSet saaail!!",
+  "en": "Can't let the Gloria Pirates\nbeat us! You lot! Set saaail!!",
   "status": "done",
   "slots": [
    "0xbc5"

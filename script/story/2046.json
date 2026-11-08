@@ -13,7 +13,7 @@
  {
   "id": "s2046:00047",
   "jp": "名前の通り、海に生息している\nゴブリン達のことよ。",
-  "en": "Just like the name says, they're goblins\nthat live in the sea.",
+  "en": "Just like the name says,\nthey're goblins that live in the sea.",
   "status": "done",
   "slots": [
    "0x1210"
@@ -24,7 +24,7 @@
  {
   "id": "s2046:0007d",
   "jp": "海ゴブリンは光ものを集める\n習性があってね？",
-  "en": "Sea Goblins have a habit of collecting shiny\nthings, see?",
+  "en": "Sea Goblins have a habit of\ncollecting shiny things, see?",
   "status": "done",
   "slots": [
    "0x1217"
@@ -35,7 +35,7 @@
  {
   "id": "s2046:000ad",
   "jp": "“海ゴブリンの居るところに\nお宝あり！”\nっていわれてるのよ！",
-  "en": "They say, \"Where there's a Sea Goblin,\nthere's treasure!\"",
+  "en": "They say, \"Where there's a\nSea Goblin, there's treasure!\"",
   "status": "done",
   "slots": [
    "0x1229"
@@ -57,7 +57,7 @@
  {
   "id": "s2046:0010b",
   "jp": "でも、この近くにいるとは\n限りませんよね？",
-  "en": "But there's no guarantee there are any\naround here, right?",
+  "en": "But there's no guarantee there\nare any around here, right?",
   "status": "done",
   "slots": [
    "0x1269"
@@ -79,7 +79,7 @@
  {
   "id": "s2046:0015c",
   "jp": "夢見がちな兄貴の分だけ\nボクは現実的に生きてるんですよ。",
-  "en": "I live realistically to make up for how much\nthe Boss daydreams.",
+  "en": "I live realistically to make up for\nhow much the Boss daydreams.",
   "status": "done",
   "slots": [
    "0x129b"
@@ -90,7 +90,7 @@
  {
   "id": "s2046:00198",
   "jp": "なんだとぉ！？\nファンタジーな耳くっつけた奴が\n何言ってやがる！",
-  "en": "What was that!? Look who's talkin', with\nthose fantasy ears stuck on your head!",
+  "en": "What was that!? Look who's talkin',\nwith those fantasy ears stuck on your head!",
   "status": "done",
   "slots": [
    "0x12b0"
@@ -112,7 +112,7 @@
  {
   "id": "s2046:00205",
   "jp": "えぇいうるさい！\n海ゴブリンの居場所なら\n問題ないわよ！",
-  "en": "Oh, shut up! I know where the Sea Goblins\nare, no problem!",
+  "en": "Oh, shut up! I know where the\nSea Goblins are, no problem!",
   "status": "done",
   "slots": [
    "0x12e8"
@@ -145,7 +145,7 @@
  {
   "id": "s2046:0029a",
   "jp": "しかも並みの船はこの海域に入る\nことすらできないし。\nこんな穴場はそうそうないわ！",
-  "en": "And ordinary ships can't even get into these\nwaters. You won't find many hidden spots\nlike this!",
+  "en": "And ordinary ships can't even\nget into these waters. You won't\nfind many hidden spots like this!",
   "status": "done",
   "slots": [
    "0x1332"
@@ -156,7 +156,7 @@
  {
   "id": "s2046:002ef",
   "jp": "あとは海ゴブリンさえ見つければ、\nお宝があること確定ってわけ。",
-  "en": "So all we have to do is find a Sea Goblin, and\nthere's definitely treasure.",
+  "en": "So all we have to do is find a Sea Goblin,\nand there's definitely treasure.",
   "status": "done",
   "slots": [
    "0x1344"
@@ -189,7 +189,7 @@
  {
   "id": "s2046:00365",
   "jp": "と、当然よ！\nあたしは、グロリア海賊団の副船長\nなんだからね！",
-  "en": "O-of course! I'm the first mate of the Gloria\nPirates, after all!",
+  "en": "O-of course! I'm the first mate\nof the Gloria Pirates, after all!",
   "status": "done",
   "slots": [
    "0x138b"
@@ -222,7 +222,7 @@
  {
   "id": "s2046:003ec",
   "jp": "見つかりはしたんだが……\n少し妙なことになってやがる。",
-  "en": "Found 'em, alright... but things have gotten\na little weird.",
+  "en": "Found 'em, alright... but things\nhave gotten a little weird.",
   "status": "done",
   "slots": [
    "0x13ca"
@@ -279,7 +279,7 @@
  {
   "id": "s2046:0047f",
   "jp": "海ゴブリンが囲まれて……\n攻撃を受けています！",
-  "en": "The Sea Goblins are surrounded... They're\nbeing attacked!",
+  "en": "The Sea Goblins are surrounded...\nThey're being attacked!",
   "status": "done",
   "slots": [
    "0x14b9"
@@ -312,7 +312,7 @@
  {
   "id": "s2046:00507",
   "jp": "海ゴブリンを殺したところで\n一文も得はねぇってのに……。\nいくぞお前ら！　",
-  "en": "Killin' Sea Goblins won't earn ya a single\ncoin... Let's go, you lot!",
+  "en": "Killin' Sea Goblins won't earn ya\na single coin... Let's go, you lot!",
   "status": "done",
   "slots": [
    "0x1506"
@@ -339,7 +339,7 @@
  {
   "id": "s2046:00572",
   "jp": "あの様子だと海ゴブリンの体力は\n残りわずかね。\nさっさと助けちゃいましょう！",
-  "en": "By the look of it, the Sea Goblins don't have\nmuch strength left. Let's hurry up and save\nthem!",
+  "en": "By the look of it, the Sea Goblins\ndon't have much strength left.\nLet's hurry up and save them!",
   "status": "done",
   "slots": [
    "0x15df"
@@ -361,7 +361,7 @@
  {
   "id": "s2046:005da",
   "jp": "そっちこそ！\n海ゴブリンになにしてるのよ！",
-  "en": "Who are YOU!? What are you doing to the\nSea Goblins!?",
+  "en": "Who are YOU!? What are you\ndoing to the Sea Goblins!?",
   "status": "done",
   "slots": [
    "0x2b69"
@@ -372,7 +372,7 @@
  {
   "id": "s2046:00608",
   "jp": "我々は海の生物を守る\n“海の犬”という組織だ！",
-  "en": "We are an organization that protects the\ncreatures of the sea, the \"Sea Dogs\"!",
+  "en": "We are an organization that protects\nthe creatures of the sea, the \"Sea Dogs\"!",
   "status": "done",
   "slots": [
    "0x2b82"
@@ -383,7 +383,7 @@
  {
   "id": "s2046:0063a",
   "jp": "海の生物を喰らう海ゴブリンを、\nこうして退治しているのだ！",
-  "en": "We're exterminating these Sea Goblins, who\ndevour the creatures of the sea!",
+  "en": "We're exterminating these Sea Goblins,\nwho devour the creatures of the sea!",
   "status": "done",
   "slots": [
    "0x2b9b"
@@ -416,7 +416,7 @@
  {
   "id": "s2046:006b5",
   "jp": "アイツら、ただじゃおかないわ！\nイシュト！　本気でいきなさい！",
-  "en": "I won't let them get away with this! Ishut!\nGo all out!",
+  "en": "I won't let them get away\nwith this! Ishut! Go all out!",
   "status": "done",
   "slots": [
    "0x2bd7"
@@ -449,7 +449,7 @@
  {
   "id": "s2046:0073e",
   "jp": "とか言って、本当は海ゴブリンが\n集めた財宝を狙っているのでは？",
-  "en": "You say that, but aren't you really after the\ntreasure the Sea Goblins collected?",
+  "en": "You say that, but aren't you really after\nthe treasure the Sea Goblins collected?",
   "status": "done",
   "slots": [
    "0x34f7"
@@ -515,7 +515,7 @@
  {
   "id": "s2046:00840",
   "jp": "時に友達として私達を癒し、\n時に食材となって、私達の血肉と\nなってくれるのです。",
-  "en": "Sometimes they comfort us as friends, and\nsometimes they become food, becoming our\nflesh and blood.",
+  "en": "Sometimes they comfort us as friends,\nand sometimes they become food,\nbecoming our flesh and blood.",
   "status": "done",
   "slots": [
    "0x16ec",
@@ -526,7 +526,7 @@
  {
   "id": "s2046:0088f",
   "jp": "つい最近生まれた子の\nタマゴのカラです。\n大きいでしょう？",
-  "en": "This is the eggshell of a little one born just\nrecently. Big, isn't it?",
+  "en": "This is the eggshell of a little one\nborn just recently. Big, isn't it?",
   "status": "done",
   "slots": [
    "0x175b",
@@ -537,7 +537,7 @@
  {
   "id": "s2046:008c8",
   "jp": "人間は強くて勝手な生き物です。\nならばせめて、感謝の心を持って\n動物達と接してくださいね。",
-  "en": "Humans are strong, selfish creatures. So at\nthe very least, please treat animals with\ngratitude in your heart.",
+  "en": "Humans are strong, selfish creatures.\nSo at the very least, please treat\nanimals with gratitude in your heart.",
   "status": "done",
   "slots": [
    "0x1762",
@@ -548,7 +548,7 @@
  {
   "id": "s2046:00921",
   "jp": "アナタ。これ以上近づかないで\nくださいますか？\n動物達が脅えています。",
-  "en": "You there. Would you please not come any\ncloser? The animals are frightened.",
+  "en": "You there. Would you please not come\nany closer? The animals are frightened.",
   "status": "done",
   "slots": [
    "0x1791",
@@ -611,7 +611,7 @@
  {
   "id": "s2046:00a1b",
   "jp": "ボクの駆動力を最大限に生かせる\nものですよ、これは。",
-  "en": "This is just the thing to make the most of\nmy mobility.",
+  "en": "This is just the thing to make\nthe most of my mobility.",
   "status": "done",
   "slots": [
    "0x5453"
@@ -631,7 +631,7 @@
  {
   "id": "s2046:00a62",
   "jp": "これで無駄の無い戦闘が\nできるようになるね！",
-  "en": "With this, we can fight without wasting a\nmove!",
+  "en": "With this, we can fight\nwithout wasting a move!",
   "status": "done",
   "slots": [
    "0x54ea"
@@ -691,7 +691,7 @@
  {
   "id": "s2046:00b22",
   "jp": "滋養強壮にいいらしいからな。\nもらっておくか。",
-  "en": "They say it's good for nourishment and\nstamina. I'll take it.",
+  "en": "They say it's good for nourishment\nand stamina. I'll take it.",
   "status": "done",
   "slots": [
    "0x56af"
@@ -711,7 +711,7 @@
  {
   "id": "s2046:00b69",
   "jp": "モ、ブ……ウヴ……あ～！\n言いにくいよ！　モブモブの実！",
-  "en": "Mo, b... uv... aah! It's hard to say! Mobmob\nFruit!",
+  "en": "Mo, b... uv... aah!\nIt's hard to say! Mobmob Fruit!",
   "status": "done",
   "slots": [
    "0x5758"
@@ -751,7 +751,7 @@
  {
   "id": "s2046:00be4",
   "jp": "モヴモヴの実じゃないか。\nこれでまた戦う事ができるぞ！",
-  "en": "Isn't this a Movmov Fruit? Now I can fight\nagain!",
+  "en": "Isn't this a Movmov Fruit?\nNow I can fight again!",
   "status": "done",
   "slots": [
    "0x588d"
@@ -794,7 +794,7 @@
  {
   "id": "s2046:00c7c",
   "jp": "危ないですねぇ。\n咬まれたらどうするんですか！",
-  "en": "That was dangerous. What would you do if it\nbit you!?",
+  "en": "That was dangerous.\nWhat would you do if it bit you!?",
   "status": "done",
   "slots": [
    "0x267a",
@@ -893,7 +893,7 @@
  {
   "id": "s2046:00dde",
   "jp": "恐ろしい海の生き物の一つだな。",
-  "en": "It is one of the fearsome creatures of the\nsea.",
+  "en": "It is one of the fearsome\ncreatures of the sea.",
   "status": "done",
   "slots": [
    "0x28fd",
@@ -915,7 +915,7 @@
  {
   "id": "s2046:00e1f",
   "jp": "魔法薬を作るのに、ウミヘビの毒は\nとっても役に立つんだよ！",
-  "en": "Sea snake venom is super useful for making\nmagic potions!",
+  "en": "Sea snake venom is super useful\nfor making magic potions!",
   "status": "done",
   "slots": [
    "0x2994",
@@ -926,7 +926,7 @@
  {
   "id": "s2046:00e59",
   "jp": "おや？　このヘビ。\n普通のヘビとは違うみたいっすね。",
-  "en": "Huh? This snake looks different from normal\nsnakes, sir.",
+  "en": "Huh? This snake looks different\nfrom normal snakes, sir.",
   "status": "done",
   "slots": [
    "0x29e7",
@@ -937,7 +937,7 @@
  {
   "id": "s2046:00e8d",
   "jp": "はじめてみたっす！\nみんなのお土産にするっすよ！",
-  "en": "It's my first time seeing one! I'll take it home\nas a souvenir for everyone!",
+  "en": "It's my first time seeing one!\nI'll take it home as a souvenir for everyone!",
   "status": "done",
   "slots": [
    "0x2a3d",
@@ -948,7 +948,7 @@
  {
   "id": "s2046:00ebd",
   "jp": "おっと、どうやらここは\nウミヘビくんの縄張りだった\nようだね。",
-  "en": "Oops, it seems this is Mr. Sea Snake's\nterritory.",
+  "en": "Oops, it seems this is Mr.\nSea Snake's territory.",
   "status": "done",
   "slots": [
    "0x2a90",
@@ -959,7 +959,7 @@
  {
   "id": "s2046:00efa",
   "jp": "すまないな、ウミヘビくん。\nもうキミの家を荒らすような事は\nしないよ。",
-  "en": "I'm sorry, Mr. Sea Snake. I won't disturb your\nhome again.",
+  "en": "I'm sorry, Mr. Sea Snake.\nI won't disturb your home again.",
   "status": "done",
   "slots": [
    "0x2adb",
@@ -970,7 +970,7 @@
  {
   "id": "s2046:037a8",
   "jp": "クッ……！\nこうなったら、海ゴブリンだけ\nでも……！",
-  "en": "Ngh...! If it comes to this, I'll at least get\nthe Sea Goblins...!",
+  "en": "Ngh...! If it comes to this,\nI'll at least get the Sea Goblins...!",
   "status": "done",
   "slots": [
    "0x422a"
@@ -1025,7 +1025,7 @@
  {
   "id": "s2046:0389b",
   "jp": "クソッ！　財ほ……海の平和が！\n撤退だぁ！",
-  "en": "Damn! The treas-- the peace of the seas!\nRetreat!",
+  "en": "Damn! The treas-- the\npeace of the seas! Retreat!",
   "status": "done",
   "slots": [
    "0x6688"
@@ -1135,7 +1135,7 @@
  {
   "id": "s2046:03a4a",
   "jp": "住処で礼と言えば……じゅるり。",
-  "en": "A thank-you at their hideout means...\n*drool*.",
+  "en": "A thank-you at their\nhideout means... *drool*.",
   "status": "done",
   "slots": [
    "0x6f68"
@@ -1157,7 +1157,7 @@
  {
   "id": "s2046:03a88",
   "jp": "礼なんだ、ありがたく受け取ろう\nじゃあねぇか。",
-  "en": "It's a thank-you. Why not accept it\ngratefully?",
+  "en": "It's a thank-you.\nWhy not accept it gratefully?",
   "status": "done",
   "slots": [
    "0x6f97"
@@ -1179,7 +1179,7 @@
  {
   "id": "s2046:03ae6",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x5f2e"
@@ -1189,7 +1189,7 @@
  {
   "id": "s2046:03b33",
   "jp": "やぁ、性別を超越する\n神秘の館へようこそ。",
-  "en": "Welcome to the House of Mysteries, where\nwe transcend gender.",
+  "en": "Welcome to the House of Mysteries,\nwhere we transcend gender.",
   "status": "done",
   "slots": [
    "0x5f35"
@@ -1219,7 +1219,7 @@
  {
   "id": "s2046:03bb2",
   "jp": "気分はどう？\n神秘、感じるかしら？",
-  "en": "How do you feel? Do you sense the\nmystery?",
+  "en": "How do you feel?\nDo you sense the mystery?",
   "status": "done",
   "slots": [
    "0x5f53"
@@ -1240,7 +1240,7 @@
  {
   "id": "s2046:03bf5",
   "jp": "心なしか、逞しくなった気が\nしますね。",
-  "en": "I feel like I've gotten a bit more rugged,\nsomehow.",
+  "en": "I feel like I've gotten a bit\nmore rugged, somehow.",
   "status": "done",
   "slots": [
    "0x601d"
@@ -1273,7 +1273,7 @@
  {
   "id": "s2046:03c55",
   "jp": "変わってない？\nいい度胸ね。\nちょっと面貸しなさいよ。",
-  "en": "I haven't changed? You've got some nerve.\nStep outside for a minute.",
+  "en": "I haven't changed? You've got some\nnerve. Step outside for a minute.",
   "status": "done",
   "slots": [
    "0x60a5"
@@ -1328,7 +1328,7 @@
  {
   "id": "s2046:03cf6",
   "jp": "これは……ある意味、歴史的瞬間\nなのかもしれない……。",
-  "en": "This may be... in a sense, a historic\nmoment...",
+  "en": "This may be... in a sense,\na historic moment...",
   "status": "done",
   "slots": [
    "0x6275"
@@ -1339,7 +1339,7 @@
  {
   "id": "s2046:03d30",
   "jp": "ま、これで変な男に\n言い寄られなくて済むわね。",
-  "en": "Well, at least now I won't have weird men\nhitting on me.",
+  "en": "Well, at least now I won't\nhave weird men hitting on me.",
   "status": "done",
   "slots": [
    "0x62c7"
@@ -1394,7 +1394,7 @@
  {
   "id": "s2046:03dde",
   "jp": "意味ねぇことしてねぇで、\nさっさと戦闘に戻れぇ。",
-  "en": "Quit messin' around with pointless stuff and\nget back to the fight.",
+  "en": "Quit messin' around with pointless\nstuff and get back to the fight.",
   "status": "done",
   "slots": [
    "0x6457"
@@ -1412,7 +1412,7 @@
  {
   "id": "s2046:03e51",
   "jp": "あら、こんな所に人が来るなんて、\n珍しいわね。",
-  "en": "Oh my, how rare for anyone to come to a\nplace like this.",
+  "en": "Oh my, how rare for anyone\nto come to a place like this.",
   "status": "done",
   "slots": [
    "0x6478"
@@ -1422,7 +1422,7 @@
  {
   "id": "s2046:03e7f",
   "jp": "私の名前はＤｒ．デラックス。\n男は女へ、女は男へと性の転換を\n可能とする医師。",
-  "en": "My name is Dr. Deluxe. A physician who can\nchange men into women, and women into\nmen.",
+  "en": "My name is Dr. Deluxe.\nA physician who can change men\ninto women, and women into men.",
   "status": "done",
   "slots": [
    "0x647f"
@@ -1432,7 +1432,7 @@
  {
   "id": "s2046:03ecc",
   "jp": "だけど、アナタは資格がないみたい\nだから手術はうけられないわ。\n残念ね。",
-  "en": "But it seems you're not qualified, so you\ncan't have the operation. Too bad.",
+  "en": "But it seems you're not qualified,\nso you can't have the operation. Too bad.",
   "status": "done",
   "slots": [
    "0x6486"
@@ -1442,7 +1442,7 @@
  {
   "id": "s2046:03f13",
   "jp": "手術を受けるには、資格として\nあるアイテムが必要なのだ。\nすまないな。",
-  "en": "To have the operation, you need a certain\nitem as your qualification. Sorry.",
+  "en": "To have the operation, you need a\ncertain item as your qualification. Sorry.",
   "status": "done",
   "slots": []
  },

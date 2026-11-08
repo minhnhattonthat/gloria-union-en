@@ -1,4 +1,4 @@
-"""Insertion (tools/insert.py) and the VWF patch (tools/vwf.py), on the marker build, without an emulator."""
+"""Insertion (tools/insert.py) and the VWF patch (tools/vwf.py), on the marker and English builds, without an emulator."""
 import json
 import struct
 import sys
@@ -16,9 +16,9 @@ from extract import ELF, FILES, SUBS, fct, from_text  # noqa: E402
 pytestmark = pytest.mark.skipif(not ELF.exists(), reason='no work/re/eboot.elf')
 
 
-@pytest.fixture(scope='module')
-def marker():
-    ins = insert.Inserter('marker')
+@pytest.fixture(scope='module', params=['marker', 'en'])
+def built(request):
+    ins = insert.Inserter(request.param)
     return ins, ins.eboot(), ins.cpk()
 
 
@@ -26,9 +26,15 @@ def cstr(b, p):
     return bytes(b[p:b.index(0, p)])
 
 
-def test_scripts_point_at_markers(marker):
-    """Every slot of every changed script reads its own marker (tag kept); code bytes outside text spans unchanged."""
-    ins, _, files = marker
+def want(ins, x):
+    """The bytes a slot must read: the build's text, or the original when the build keeps it (None)."""
+    t = ins.text(x)
+    return from_text(x['jp'] if t is None else t)
+
+
+def test_scripts_point_at_text(built):
+    """Every slot of every changed script reads its own text (tag kept); code bytes outside text spans unchanged."""
+    ins, _, files = built
     sec = fct(files[SUBS[0]], SUBS[1])
     n = 0
     for sub, entries in [('story/' + p.stem, json.loads(p.read_text('utf8'))) for p in (ROOT / 'script/story').glob('*.json')] + \
@@ -50,21 +56,22 @@ def test_scripts_point_at_markers(marker):
             if 'at' in x:
                 at, mx = int(x['at'], 16), x['max']
                 # op 0x74 skips strlen bytes, so the in-place string keeps its exact length (space padded)
-                assert cstr(new, at) == from_text(insert.marker(x))[:mx].ljust(mx, b' '), x['id']
+                assert cstr(new, at) == want(ins, x)[:mx].ljust(mx, b' '), x['id']
                 continue
             for s in x['slots']:
                 p = struct.unpack_from('<I', new, int(s, 16))[0]
                 if 'voice' in x:
                     assert new[p:p + 2] == b'\x02\x00' and struct.unpack_from('<H', new, p + 2)[0] == x['voice']
                     p += 4
-                assert cstr(new, p) == from_text(insert.marker(x)), (x['id'], s)
+                assert cstr(new, p) == want(ins, x), (x['id'], s)
                 n += 1
     assert n > 9000
 
 
-def test_eboot_points_at_markers(marker):
-    ins, out, _ = marker
+def test_eboot_points_at_text(built):
+    ins, out, _ = built
     e = ins.eb
+    descs = insert.item_descs(e)
     mem = bytes(e.d[:e.ph[0][4] + 0xA0])   # segment 0 as patched; blob separately
     blob = bytes(e.blob)
 
@@ -75,8 +82,9 @@ def test_eboot_points_at_markers(marker):
     for p in (ROOT / 'script/eboot').glob('*.json'):
         for x in json.loads(p.read_text('utf8')):
             if x['status'] == 'data': continue   # untouched; some are pointer tables that decode, and their words move
-            t = ins.text(x)   # the marker, a compact one, or None (original kept) for a format string's small buffer
-            want = from_text(x['jp'] if t is None else t)
+            t = ins.text(x)   # the text, a compact marker, or None (original kept)
+            if t is not None and x['id'] in descs: t = t.replace('\n', ' ')   # one row; breaks in a table
+            w = from_text(x['jp'] if t is None else t)
             for s in x['slots']:
                 k, *a = s.split(':')
                 a = [int(y, 16) for y in a]
@@ -84,20 +92,17 @@ def test_eboot_points_at_markers(marker):
                     v = e.word(a[0])
                 else:
                     v = ((e.word(a[0]) & 0xFFFF) << 16) + struct.unpack('<h', struct.pack('<H', e.word(a[1]) & 0xFFFF))[0]
-                assert read(v) == want, (x['id'], s)
+                assert read(v) == w, (x['id'], s)
                 n += 1
     assert n > 10000
 
 
-@pytest.mark.parametrize('mode', ['marker', 'en'])
-def test_eboot_writes(marker, mode):
+def test_eboot_writes(built):
     """romdiff over EBOOT segment 0 with the build's write log: every changed byte has a logged write, each write
     found the original bytes it expected, none overlaps or was overwritten later (new code and strings go to the blob
     in segment 1, outside this range)."""
     import romdiff
-    ins = marker[0] if mode == 'marker' else insert.Inserter('en')
-    if mode == 'en': ins.eboot()
-    e = ins.eb
+    e = built[0].eb
     end = e.ph[0][4] + 0xA0
     writes = [(int(o, 16), bytes.fromhex(a), bytes.fromhex(b), by) for o, a, b, *rest in
               (ln.split(None, 3) for ln in e.log) for by in [rest[0] if rest else '']]
@@ -107,10 +112,10 @@ def test_eboot_writes(marker, mode):
     assert ok > 0
 
 
-def test_format_buffers(marker):
+def test_format_buffers():
     """No inserted format string outputs more bytes than its sprintf buffer holds (tbl/fmtbuf.tsv; the battle_result
     crash: '%2d戦%2d勝' marker overflowed a 16-byte stack buffer)."""
-    ins = marker[0]
+    ins = insert.Inserter('marker')
     lim = insert.buf_limits()
     assert len(lim) >= 9
     for p in (ROOT / 'script/eboot').glob('*.json'):

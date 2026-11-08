@@ -55,3 +55,16 @@ def test_fewest_lines_of_all_windows():
     writes past the window's cells (the battle_result crash, "Strong Attack\\ndamage up")."""
     e = {x['id']: x for x in entries()}
     assert boxes.budget(e['e:2560bc'])[:2] == (145, 1)
+
+
+def test_balanced_wrap_and_stub_rule():
+    """Greedy wrap left one-word widows ("...let me take you\\nin."): the wrap keeps the greedy line count and evens
+    the lines out; the lint flags a short line ending a sentence the line above runs into."""
+    import batches
+    import vwf
+    t = "Well, they're handing these out, aren't they? So come quietly and let me take you in."
+    rows = batches.wrap(t, 288, 1).split("\n")
+    assert len(rows) == 3 and all(vwf.line_px(r, 1) <= 288 for r in rows) and len(rows[-1]) >= 6
+    assert " ".join(rows) == t
+    assert batches.stub(["So come quietly and let me take you", "in."]) == "in."
+    assert batches.stub(["Hmm...", "Yes."]) is None
