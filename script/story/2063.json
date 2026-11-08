@@ -2,8 +2,8 @@
  {
   "id": "s2063:00028",
   "jp": "おい貴様ら！\nペンダントを渡せ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, you! Hand over the pendant!",
+  "status": "done",
   "slots": [
    "0x1029"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2063:0004c",
   "jp": "きゃ！？\nな、なんなのよいきなり！",
-  "en": "",
-  "status": "todo",
+  "en": "Eek!? Wh-what's this all of a sudden!?",
+  "status": "done",
   "slots": [
    "0x1042"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2063:00072",
   "jp": "ローガンの屍兵か！？",
-  "en": "",
-  "status": "todo",
+  "en": "Rogan's undead soldiers!?",
+  "status": "done",
   "slots": [
    "0x105b"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2063:0008b",
   "jp": "いや、それは違いまっすね。\nローガンさん独特のウィルが\n感じられないっすから。",
-  "en": "",
-  "status": "todo",
+  "en": "No, it's not them, sir. I can't sense\nRogan-san's particular Will.",
+  "status": "done",
   "slots": [
    "0x1074"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2063:000dc",
   "jp": "ペンダントって、誰か持ってる？",
-  "en": "",
-  "status": "todo",
+  "en": "A pendant... does anyone have one?",
+  "status": "done",
   "slots": [
    "0x108d"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2063:000ff",
   "jp": "持ってたとしてもあげられませんよ\nあやしすぎるでしょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Even if we did, we couldn't give it to them.\nThey're far too suspicious.",
+  "status": "done",
   "slots": [
    "0x10a6"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2063:0013b",
   "jp": "寄越せ、寄越せー！",
-  "en": "",
-  "status": "todo",
+  "en": "Give it, give it here!",
+  "status": "done",
   "slots": [
    "0x10bf"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2063:00152",
   "jp": "襲ってきやがった！\nみんな、迎撃するぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "They're attackin'! Everyone, fight 'em off!",
+  "status": "done",
   "slots": [
    "0x10e6"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2063:0017e",
   "jp": "寄越せ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Give it...",
+  "status": "done",
   "slots": [
    "0x11f4"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2063:0018f",
   "jp": "ペンダント……。",
-  "en": "",
-  "status": "todo",
+  "en": "Pendant...",
+  "status": "done",
   "slots": [
    "0x120d"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2063:001a4",
   "jp": "寄越せぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Give it heeere!",
+  "status": "done",
   "slots": [
    "0x1226"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2063:001b3",
   "jp": "たくさん出てきやがった……！\nおぉ、怯むな俺！　いくぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "A whole bunch of 'em came out...! Come on,\ndon't flinch, me! Here goes!",
+  "status": "done",
   "slots": [
    "0x123f"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2063:001ef",
   "jp": "ふぅ。これで全部？",
-  "en": "",
-  "status": "todo",
+  "en": "Phew. Is that all of them?",
+  "status": "done",
   "slots": [
    "0x2567"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2063:00206",
   "jp": "まだだ。\n……そこのお前！　出て来い！",
-  "en": "",
-  "status": "todo",
+  "en": "Not yet. ...You there! Come out!",
+  "status": "done",
   "slots": [
    "0x258e"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2063:00230",
   "jp": "わ、私は怪しい者ではありません！\nただの幽霊です！",
-  "en": "",
-  "status": "todo",
+  "en": "I-I'm not anyone suspicious! I'm just a ghost!",
+  "status": "done",
   "slots": [
    "0x2637"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2063:00266",
   "jp": "うわ！\nこの人、体が半透明だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! This person's body is see-through!",
+  "status": "done",
   "slots": [
    "0x2650"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2063:0028a",
   "jp": "ただの幽霊って……思いっきり\n怪しいじゃない。",
-  "en": "",
-  "status": "todo",
+  "en": "\"Just a ghost\"... That's as suspicious as it\ngets.",
+  "status": "done",
   "slots": [
    "0x2669"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2063:002bc",
   "jp": "悪霊ではないようっすね。\nこんなところに、なんの用っすか？",
-  "en": "",
-  "status": "todo",
+  "en": "Doesn't look like an evil spirit, sir. What\nbusiness do you have in a place like this?",
+  "status": "done",
   "slots": [
    "0x2682"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2063:002fa",
   "jp": "じ、実は、私の思い出の品を探して\nいるのです。",
-  "en": "",
-  "status": "todo",
+  "en": "W-well, you see, I'm looking for a keepsake\nof mine.",
+  "status": "done",
   "slots": [
    "0x2698"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2063:0032c",
   "jp": "思い出の品？",
-  "en": "",
-  "status": "todo",
+  "en": "A keepsake?",
+  "status": "done",
   "slots": [
    "0x26c6"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2063:0033d",
   "jp": "古代ユーフォリア時代の遺跡から\n発掘されたペンダントです。\n大事な物なのですが……。",
-  "en": "",
-  "status": "todo",
+  "en": "A pendant dug up from a ruin of the ancient\nEuforian era. It's precious to me, but...",
+  "status": "done",
   "slots": [
    "0x26dc"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2063:00394",
   "jp": "ペンダントって言ったら\nこんなものしか……。",
-  "en": "",
-  "status": "todo",
+  "en": "If it's pendants, all I have is this...",
+  "status": "done",
   "slots": [
    "0x26fd"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2063:003c4",
   "jp": "それです！\nそれを探していたんです！",
-  "en": "",
-  "status": "todo",
+  "en": "That's it! That's what I was looking for!",
+  "status": "done",
   "slots": [
    "0x2713"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2063:003ec",
   "jp": "え？　こ、これ？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Th-this?",
+  "status": "done",
   "slots": [
    "0x2729"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2063:00401",
   "jp": "そうです！　それさえあれば、\nもうこの世に未練はありません！",
-  "en": "",
-  "status": "todo",
+  "en": "Yes! With that, I'll have no more\nattachments to this world!",
+  "status": "done",
   "slots": [
    "0x273f"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2063:00454",
   "jp": "黄泉の国に勤める身としては\n大人しく昇天してくれたほうが\nいいっすけど……。",
-  "en": "",
-  "status": "todo",
+  "en": "As someone who works in the Land of the\nDead, I'd rather you passed on quietly, but...",
+  "status": "done",
   "slots": [
    "0x276b"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2063:004a3",
   "jp": "んー、まぁ、持ってても大して\n価値ないし。\nいいわよ、あげる。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, well, it's not worth much to me\nanyway. Sure, you can have it.",
+  "status": "done",
   "slots": [
    "0x278f"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2063:004e4",
   "jp": "はあぁ！　ありがとうございます！",
-  "en": "",
-  "status": "todo",
+  "en": "Aaah! Thank you so much!",
+  "status": "done",
   "slots": [
    "0x2807"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2063:00509",
   "jp": "それをこちらに寄越せ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Hand that over to us!!",
+  "status": "done",
   "slots": [
    "0x281c"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2063:00526",
   "jp": "ヒッ！",
-  "en": "",
-  "status": "todo",
+  "en": "Eek!",
+  "status": "done",
   "slots": [
    "0x28bb"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2063:00531",
   "jp": "なんだぁ？　こいつぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "What the? What's this thing?",
+  "status": "done",
   "slots": [
    "0x28d4"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2063:0054c",
   "jp": "調べるまでも無く悪霊っすねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "An evil spirit, no need to even check, sir.",
+  "status": "done",
   "slots": [
    "0x28ed"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2063:0056f",
   "jp": "これは私の思い出の品。\nアナタ達に渡すわけにはいかない！",
-  "en": "",
-  "status": "todo",
+  "en": "This is my keepsake. I can't give it to the\nlikes of you!",
+  "status": "done",
   "slots": [
    "0x2903"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2063:005ab",
   "jp": "寄越せぇぇ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Give it heeere!!",
+  "status": "done",
   "slots": [
    "0x291c"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2063:005be",
   "jp": "ひいぃぃ！\nた、助けてくださいいぃぃ！",
-  "en": "",
-  "status": "todo",
+  "en": "Eeeek! P-please help meeee!",
+  "status": "done",
   "slots": [
    "0x2932"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2063:005e8",
   "jp": "……しょうがないわねぇ。\nいくわよ、みんな。",
-  "en": "",
-  "status": "todo",
+  "en": "...Can't be helped. Let's go, everyone.",
+  "status": "done",
   "slots": [
    "0x294b"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2063:00618",
   "jp": "お化け退治だぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ghostbusting time!",
+  "status": "done",
   "slots": [
    "0x2972"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2063:0062d",
   "jp": "それらしき物は持ってないなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't have anything like that.",
+  "status": "done",
   "slots": [
    "0x29d3"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2063:00650",
   "jp": "そうですか……わかりました。\nそれでは……。",
-  "en": "",
-  "status": "todo",
+  "en": "I see... I understand. Well then...",
+  "status": "done",
   "slots": [
    "0x29e9"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2063:00680",
   "jp": "なんだったんだろ……。",
-  "en": "",
-  "status": "todo",
+  "en": "What was that about...?",
+  "status": "done",
   "slots": [
    "0x2a40"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2063:0069b",
   "jp": "……ま、いいか。\nさぁ、次の島に急ごう！",
-  "en": "",
-  "status": "todo",
+  "en": "...Oh well. Come on, let's hurry to the next\nisland!",
+  "status": "done",
   "slots": [
    "0x2a55"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2063:006c8",
   "jp": "ひっひっひ。果実はいらんかえ？\nおいしいおいしい果実じゃよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh heh heh. Care for some fruit? Tasty,\ntasty fruit.",
+  "status": "done",
   "slots": [
    "0x1359",
    "0x140b",
@@ -477,8 +477,8 @@
  {
   "id": "s2063:00704",
   "jp": "サービスじゃ。\n食べるがよいぞぉ。\nひっひっひ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's on the house. Go on, eat up. Heh heh heh.",
+  "status": "done",
   "slots": [
    "0x13c8",
    "0x147a",
@@ -490,8 +490,8 @@
  {
   "id": "s2063:00733",
   "jp": "禁断の果実は力を与える。\n人ならざる、禁忌の力をなぁ\nひっひっひ。",
-  "en": "",
-  "status": "todo",
+  "en": "The forbidden fruit grants power. Inhuman,\nforbidden power... Heh heh heh.",
+  "status": "done",
   "slots": [
    "0x13e0",
    "0x31a6"
@@ -501,8 +501,8 @@
  {
   "id": "s2063:00774",
   "jp": "妖しの果実は呪いの果実。\nなにが起こるかわからない……。\nひっひっひ。",
-  "en": "",
-  "status": "todo",
+  "en": "The bewitching fruit is a cursed fruit. Who\nknows what will happen... Heh heh heh.",
+  "status": "done",
   "slots": [
    "0x1492",
    "0x3258"
@@ -512,8 +512,8 @@
  {
   "id": "s2063:007b9",
   "jp": "これは……カード！？\nなんでこんな所にあるんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "This is... a card!? Why's it here?",
+  "status": "done",
   "slots": [
    "0x1524",
    "0x32ea"
@@ -523,8 +523,8 @@
  {
   "id": "s2063:007e9",
   "jp": "ま、まぁ、もらっておいて\n損はねぇか……。",
-  "en": "",
-  "status": "todo",
+  "en": "W-well, can't hurt to take it...",
+  "status": "done",
   "slots": [
    "0x1559",
    "0x331f"
@@ -534,8 +534,8 @@
  {
   "id": "s2063:00813",
   "jp": "なんでこんな所にカードが……。",
-  "en": "",
-  "status": "todo",
+  "en": "Why would there be a card here...?",
+  "status": "done",
   "slots": [
    "0x15a5",
    "0x336b"
@@ -545,8 +545,8 @@
  {
   "id": "s2063:00832",
   "jp": "このお墓の中の人のでしょうか……",
-  "en": "",
-  "status": "todo",
+  "en": "Could it belong to whoever's in this\ngrave...?",
+  "status": "done",
   "slots": [
    "0x15da",
    "0x33a0"
@@ -556,8 +556,8 @@
  {
   "id": "s2063:00853",
   "jp": "スゴイ。人の怨念のウィルが\n形になって、一枚のカードに\nなってる……。",
-  "en": "",
-  "status": "todo",
+  "en": "Amazing. People's grudges have taken\nshape as Will and become a card...",
+  "status": "done",
   "slots": [
    "0x1626",
    "0x33ec"
@@ -567,8 +567,8 @@
  {
   "id": "s2063:00898",
   "jp": "このカード、どれほどの力が\nあるんだろう……。",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder how much power this card has...",
+  "status": "done",
   "slots": [
    "0x165b",
    "0x3421"
@@ -578,8 +578,8 @@
  {
   "id": "s2063:008c6",
   "jp": "あら、カードじゃない。\nどうしてこんなところに……？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, a card. What's it doing here...?",
+  "status": "done",
   "slots": [
    "0x16a7",
    "0x346d"
@@ -589,8 +589,8 @@
  {
   "id": "s2063:008fa",
   "jp": "まぁ、せっかく拾ったんだし、\n使わないてはないわよね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, since I picked it up, I might as well use\nit.",
+  "status": "done",
   "slots": [
    "0x16dc",
    "0x34a2"
@@ -600,8 +600,8 @@
  {
   "id": "s2063:00930",
   "jp": "おぉ、カードじゃねぇか。\nこんな所にもあるもんだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, a card. Fancy findin' one in a place like\nthis.",
+  "status": "done",
   "slots": [
    "0x1728",
    "0x34ee"
@@ -611,8 +611,8 @@
  {
   "id": "s2063:00966",
   "jp": "ありがたく使わせてもらうぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'll put it to good use!",
+  "status": "done",
   "slots": [
    "0x175d",
    "0x3523"
@@ -622,8 +622,8 @@
  {
   "id": "s2063:00983",
   "jp": "こ、これは……カードか？",
-  "en": "",
-  "status": "todo",
+  "en": "Th-this is... a card?",
+  "status": "done",
   "slots": [
    "0x17a9",
    "0x356f"
@@ -633,8 +633,8 @@
  {
   "id": "s2063:0099c",
   "jp": "カードとは、ウィルの集合体と\nいわれているが……このカードには\nどのようなウィルが……。",
-  "en": "",
-  "status": "todo",
+  "en": "Cards are said to be masses of Will... What\nkind of Will is in this card...?",
+  "status": "done",
   "slots": [
    "0x17de",
    "0x35a4"
@@ -644,8 +644,8 @@
  {
   "id": "s2063:009f3",
   "jp": "あ、カードみっけ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, Locomoco found a card!",
+  "status": "done",
   "slots": [
    "0x1831",
    "0x35f7"
@@ -655,8 +655,8 @@
  {
   "id": "s2063:00a06",
   "jp": "キスオブデスかぁ……\n怖いカードだなぁ、もぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "Kiss of Death... What a scary card, jeez.",
+  "status": "done",
   "slots": [
    "0x1871",
    "0x3637"
@@ -666,8 +666,8 @@
  {
   "id": "s2063:00a34",
   "jp": "これは……カードっすか？",
-  "en": "",
-  "status": "todo",
+  "en": "Is this... a card, sir?",
+  "status": "done",
   "slots": [
    "0x18c4",
    "0x368a"
@@ -677,8 +677,8 @@
  {
   "id": "s2063:00a4d",
   "jp": "あぁ、やっぱりそうっす。\nあるもんすねぇ、こんな所にも。",
-  "en": "",
-  "status": "todo",
+  "en": "Yep, it sure is, sir. You find 'em in the\nstrangest places.",
+  "status": "done",
   "slots": [
    "0x18f9",
    "0x36bf"
@@ -688,8 +688,8 @@
  {
   "id": "s2063:00a85",
   "jp": "これは、カードか？",
-  "en": "",
-  "status": "todo",
+  "en": "Is this a card?",
+  "status": "done",
   "slots": [
    "0x1945",
    "0x370b"
@@ -699,8 +699,8 @@
  {
   "id": "s2063:00a98",
   "jp": "墓の横にあるのがなんとも\n不気味だな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Lying beside a grave, of all places... How\neerie...",
+  "status": "done",
   "slots": [
    "0x197a",
    "0x3740"
@@ -710,8 +710,8 @@
  {
   "id": "s2063:00ac2",
   "jp": "キスオブデスのカード？\nなんでこんな所に……。",
-  "en": "",
-  "status": "todo",
+  "en": "The Kiss of Death card? Why is it here...?",
+  "status": "done",
   "slots": [
    "0x19c6",
    "0x378c"
@@ -721,8 +721,8 @@
  {
   "id": "s2063:00af0",
   "jp": "って、ここはお墓のすぐ横\nでしたね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, right, we're right next to a grave...",
+  "status": "done",
   "slots": [
    "0x19fb",
    "0x37c1"
@@ -732,8 +732,8 @@
  {
   "id": "s2063:00b18",
   "jp": "ガーグガングン！",
-  "en": "",
-  "status": "todo",
+  "en": "Gaagugangun!",
+  "status": "done",
   "slots": [
    "0x1a47",
    "0x380d"
@@ -743,8 +743,8 @@
  {
   "id": "s2063:00b29",
   "jp": "ガングンガグ、ガングン！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangungagu, gangun!",
+  "status": "done",
   "slots": [
    "0x1a7c",
    "0x3842"
@@ -754,8 +754,8 @@
  {
   "id": "s2063:00b42",
   "jp": "な、なんでこんな所にカードが\nあるのよぉ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-why is there a card here of all places...?",
+  "status": "done",
   "slots": [
    "0x1ac8",
    "0x388e"
@@ -765,8 +765,8 @@
  {
   "id": "s2063:00b70",
   "jp": "の、呪われてたりしないわよね？",
-  "en": "",
-  "status": "todo",
+  "en": "I-it isn't cursed or anything, is it?",
+  "status": "done",
   "slots": [
    "0x1afd",
    "0x38c3"
@@ -776,8 +776,8 @@
  {
   "id": "s2063:00b8f",
   "jp": "な、なんと！\nこのような所にカードが！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what!? A card in a place like this!",
+  "status": "done",
   "slots": [
    "0x1b49",
    "0x390f"
@@ -787,8 +787,8 @@
  {
   "id": "s2063:00bb5",
   "jp": "い、いったいどなたの持ち物\nなのだろうか……。",
-  "en": "",
-  "status": "todo",
+  "en": "I-I wonder whose it could be...",
+  "status": "done",
   "slots": [
    "0x1b7e",
    "0x3944"
@@ -798,8 +798,8 @@
  {
   "id": "s2063:00be3",
   "jp": "カード発見！\nいっただきぃ！",
-  "en": "",
-  "status": "todo",
+  "en": "Found a card! Mine!",
+  "status": "done",
   "slots": [
    "0x1bca",
    "0x3990"
@@ -809,8 +809,8 @@
  {
   "id": "s2063:00bff",
   "jp": "パメラ様ってば、ツイてるだわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "The Great Pamela-sama sure is lucky,\ndontcha know!",
+  "status": "done",
   "slots": [
    "0x1bff",
    "0x39c5"
@@ -820,8 +820,8 @@
  {
   "id": "s2063:00c20",
   "jp": "あら、こんな所に……。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, in a place like this...",
+  "status": "done",
   "slots": [
    "0x1c59",
    "0x3a1f"
@@ -831,8 +831,8 @@
  {
   "id": "s2063:00c37",
   "jp": "きっと死者の怨念がこのカードを\n生んだのね。\n鎮魂歌を奏でましょう……。",
-  "en": "",
-  "status": "todo",
+  "en": "The grudges of the dead must have given\nbirth to this card. Let me play a requiem...",
+  "status": "done",
   "slots": [
    "0x1c8e",
    "0x3a54"
@@ -842,8 +842,8 @@
  {
   "id": "s2063:00c7e",
   "jp": "なんだぁ？　このカードは。\n不気味な感じがするなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "What's this card? It feels creepy.",
+  "status": "done",
   "slots": [
    "0x1cca",
    "0x3a90"
@@ -853,8 +853,8 @@
  {
   "id": "s2063:00cb2",
   "jp": "ま、呪われていようがいまいが、\n俺には関係ないぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Eh, cursed or not, it's nothin' to me!",
+  "status": "done",
   "slots": [
    "0x1cff",
    "0x3ac5"
@@ -864,8 +864,8 @@
  {
   "id": "s2063:02c08",
   "jp": "ぎゃあああああああぁぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Gyaaaaaaaaaaah!!",
+  "status": "done",
   "slots": [
    "0x3c79"
   ],
@@ -875,8 +875,8 @@
  {
   "id": "s2063:02c29",
   "jp": "悪霊退散っと。",
-  "en": "",
-  "status": "todo",
+  "en": "Begone, evil spirit.",
+  "status": "done",
   "slots": [
    "0x4415"
   ],
@@ -886,8 +886,8 @@
  {
   "id": "s2063:02c3c",
   "jp": "ありがとうございます！\nこれで、安心して逝くことが\nできます……！",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you so much! Now I can pass on in\npeace...!",
+  "status": "done",
   "slots": [
    "0x442b"
   ],
@@ -897,8 +897,8 @@
  {
   "id": "s2063:02c81",
   "jp": "これ、ささやかですけどお礼です。",
-  "en": "",
-  "status": "todo",
+  "en": "It's only a small thing, but please take this\nas thanks.",
+  "status": "done",
   "slots": [
    "0x4432"
   ],
@@ -908,8 +908,8 @@
  {
   "id": "s2063:02ca6",
   "jp": "え、いいの？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh, are you sure?",
+  "status": "done",
   "slots": [
    "0x4498"
   ],
@@ -919,8 +919,8 @@
  {
   "id": "s2063:02cb7",
   "jp": "まぁ、もういらないですから。\n……それでは。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, I won't need it anymore. ...Farewell.",
+  "status": "done",
   "slots": [
    "0x44ae"
   ],
@@ -930,8 +930,8 @@
  {
   "id": "s2063:02ce7",
   "jp": "お、エリーシャさん、\nいいもの貰ったっすね。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, you got something nice, Elisha-san,\nma'am.",
+  "status": "done",
   "slots": [
    "0x450d"
   ],
@@ -952,8 +952,8 @@
  {
   "id": "s2063:02d20",
   "jp": "それ、現世に残った霊が、\n未練を断った時に現れる物なんすよ",
-  "en": "",
-  "status": "todo",
+  "en": "That's something that appears when a\nspirit left in this world lets go of its\nattachments, ma'am.",
+  "status": "done",
   "slots": [
    "0x4539"
   ],
@@ -963,8 +963,8 @@
  {
   "id": "s2063:02d5e",
   "jp": "へぇ～……呪われてたりしない\nわよね？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh... It isn't cursed or anything, is it?",
+  "status": "done",
   "slots": [
    "0x454f"
   ],
@@ -974,8 +974,8 @@
  {
   "id": "s2063:02d88",
   "jp": "逆っすよ。\n聖のウィルが、悪霊から守って\nくれるっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "The opposite, ma'am. Its holy Will protects\nyou from evil spirits.",
+  "status": "done",
   "slots": [
    "0x4565"
   ],
@@ -985,8 +985,8 @@
  {
   "id": "s2063:02dc3",
   "jp": "そうなんだぁ……ふぅん。",
-  "en": "",
-  "status": "todo",
+  "en": "Is that so... Hmm.",
+  "status": "done",
   "slots": [
    "0x457b"
   ],
@@ -996,8 +996,8 @@
  {
   "id": "s2063:02de0",
   "jp": "なに呆けてんだ！\nさっさと行くぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "What're you spacin' out for!? Let's go!",
+  "status": "done",
   "slots": [
    "0x4594"
   ],
@@ -1007,8 +1007,8 @@
  {
   "id": "s2063:02e06",
   "jp": "今行く！\n……ありがとね。大事にするわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Coming! ...Thanks. I'll treasure it.",
+  "status": "done",
   "slots": [
    "0x45ad"
   ],
@@ -1027,8 +1027,8 @@
  {
   "id": "s2063:00dbat",
   "jp": "悪霊軍団",
-  "en": "",
-  "status": "todo",
+  "en": "Evil Spirit Army",
+  "status": "done",
   "at": "0xdbd",
   "max": 8,
   "who": "team name"
@@ -1045,8 +1045,8 @@
  {
   "id": "s2063:02e69t",
   "jp": "悪霊軍団",
-  "en": "",
-  "status": "todo",
+  "en": "Evil Spirit Army",
+  "status": "done",
   "at": "0x2e6c",
   "max": 8,
   "who": "team name"

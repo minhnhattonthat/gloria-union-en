@@ -2349,8 +2349,8 @@
  {
   "id": "s2062:027dc",
   "jp": "ガガンガガンガガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangagangaga.",
+  "status": "done",
   "slots": [
    "0x5f4c"
   ],
@@ -2359,8 +2359,8 @@
  {
   "id": "s2062:027ef",
   "jp": "ヤダ、なにこれ、気持ち悪ぅい。",
-  "en": "",
-  "status": "todo",
+  "en": "Eww, what is this? Gross.",
+  "status": "done",
   "slots": [
    "0x5f98"
   ],
@@ -2369,8 +2369,8 @@
  {
   "id": "s2062:0280e",
   "jp": "でも、ここまで綺麗な形。\n価値がありそうね……うふふ。",
-  "en": "",
-  "status": "todo",
+  "en": "But a shape this perfect... It must be worth\nsomething... Hehehe.",
+  "status": "done",
   "slots": [
    "0x5fe3"
   ],
@@ -2379,8 +2379,8 @@
  {
   "id": "s2062:02844",
   "jp": "ぬお！　なんと面妖な。\nドクロ型の石とは……。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! How bizarre. A skull-shaped stone...",
+  "status": "done",
   "slots": [
    "0x602f"
   ],
@@ -2389,8 +2389,8 @@
  {
   "id": "s2062:02872",
   "jp": "この辺りでは石をドクロ型に削る\nのが流行っているのであろうか……",
-  "en": "",
-  "status": "todo",
+  "en": "Is carving stones into skulls the fashion\naround here, I wonder...?",
+  "status": "done",
   "slots": [
    "0x607a"
   ],
@@ -2399,8 +2399,8 @@
  {
   "id": "s2062:028b2",
   "jp": "あんらぁ？\nなにかしらこの石。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my? What's this stone?",
+  "status": "done",
   "slots": [
    "0x60cd"
   ],
@@ -2409,8 +2409,8 @@
  {
   "id": "s2062:028d0",
   "jp": "悪趣味～！　こんなの片手に持って\nたら目立って仕方がないわさ！\n……だから持って行くだわさ。",
-  "en": "",
-  "status": "todo",
+  "en": "What bad taste! Carry this around and you'd\nstick out like a sore thumb, dontcha know!\n...So I'm takin' it.",
+  "status": "done",
   "slots": [
    "0x6123"
   ],
@@ -2419,8 +2419,8 @@
  {
   "id": "s2062:0292b",
   "jp": "この石、なんだかドクロの形に\n見えますわね……。",
-  "en": "",
-  "status": "todo",
+  "en": "This stone looks rather like a skull...",
+  "status": "done",
   "slots": [
    "0x6184"
   ],
@@ -2429,8 +2429,8 @@
  {
   "id": "s2062:0295b",
   "jp": "ふわぁ、細部に至るまで\n完璧にドクロですわぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, it's a perfect skull, right down to the\ndetails.",
+  "status": "done",
   "slots": [
    "0x61cf"
   ],
@@ -2439,8 +2439,8 @@
  {
   "id": "s2062:02989",
   "jp": "うお、なんじゃあこりゃ！\nドクロの形した石ずあねぇか！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, what the hell is this! It's a\nskull-shaped stone!",
+  "status": "done",
   "slots": [
    "0x620b"
   ],
@@ -2449,8 +2449,8 @@
  {
   "id": "s2062:029bf",
   "jp": "ヘヘ、なんとなく気に\n入っちまったぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, somehow I kinda like it!",
+  "status": "done",
   "slots": [
    "0x6256"
   ],
@@ -2459,8 +2459,8 @@
  {
   "id": "s2062:029e5",
   "jp": "うお、トカゲが干からびて\n死んでる……。",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa, a lizard's dried up and died...",
+  "status": "done",
   "slots": [
    "0x62f8"
   ],
@@ -2469,8 +2469,8 @@
  {
   "id": "s2062:02a0d",
   "jp": "確か、トカゲって食べられたよな。",
-  "en": "",
-  "status": "todo",
+  "en": "Lizards are edible, right?",
+  "status": "done",
   "slots": [
    "0x6343"
   ],
@@ -2479,8 +2479,8 @@
  {
   "id": "s2062:02a2e",
   "jp": "おや、トカゲさん、ご臨終みたい\nですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, Mr. Lizard seems to have passed on.",
+  "status": "done",
   "slots": [
    "0x638f"
   ],
@@ -2489,8 +2489,8 @@
  {
   "id": "s2062:02a56",
   "jp": "ちょうどいいですし、非常食として\n持っておきましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "How convenient. Let's keep it as emergency\nrations.",
+  "status": "done",
   "slots": [
    "0x63da"
   ],
@@ -2499,8 +2499,8 @@
  {
   "id": "s2062:02a8c",
   "jp": "ありゃ、トカゲが干からびてる……",
-  "en": "",
-  "status": "todo",
+  "en": "Aww, a lizard's all dried up...",
+  "status": "done",
   "slots": [
    "0x6426"
   ],
@@ -2509,8 +2509,8 @@
  {
   "id": "s2062:02aad",
   "jp": "これ、食べられるらしいから、\n一応持っていこうっと。",
-  "en": "",
-  "status": "todo",
+  "en": "I hear you can eat these, so I'll take it just\nin case.",
+  "status": "done",
   "slots": [
    "0x6471"
   ],
@@ -2519,8 +2519,8 @@
  {
   "id": "s2062:02ae1",
   "jp": "あら？　トカゲが干からびてる。\nちょうどいいわね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? A dried-up lizard. How convenient.",
+  "status": "done",
   "slots": [
    "0x64bd"
   ],
@@ -2529,8 +2529,8 @@
  {
   "id": "s2062:02b13",
   "jp": "非常食は持っていて損じゃないし。\n持って行きましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "It never hurts to carry emergency rations.\nLet's take it.",
+  "status": "done",
   "slots": [
    "0x6508"
   ],
@@ -2539,8 +2539,8 @@
  {
   "id": "s2062:02b49",
   "jp": "お、こんな所に非常食が。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, emergency rations, right here.",
+  "status": "done",
   "slots": [
    "0x6554"
   ],
@@ -2549,8 +2549,8 @@
  {
   "id": "s2062:02b62",
   "jp": "持っていて損はマズないわな。",
-  "en": "",
-  "status": "todo",
+  "en": "Can't hurt to carry 'em.",
+  "status": "done",
   "slots": [
    "0x659f"
   ],
@@ -2559,8 +2559,8 @@
  {
   "id": "s2062:02b7f",
   "jp": "この暑さだからな……。\n小さなトカゲでは耐えられなかった\nんだろう。",
-  "en": "",
-  "status": "todo",
+  "en": "In this heat... A little lizard couldn't take\nit, I suppose.",
+  "status": "done",
   "slots": [
    "0x65eb"
   ],
@@ -2569,8 +2569,8 @@
  {
   "id": "s2062:02bc2",
   "jp": "まさしく弱肉強食だな。",
-  "en": "",
-  "status": "todo",
+  "en": "The law of the jungle, indeed.",
+  "status": "done",
   "slots": [
    "0x6636"
   ],
@@ -2579,8 +2579,8 @@
  {
   "id": "s2062:02bd9",
   "jp": "あ、トカゲさんがうだ～って\nなってる。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, Mr. Lizard's all floppy.",
+  "status": "done",
   "slots": [
    "0x6682"
   ],
@@ -2589,8 +2589,8 @@
  {
   "id": "s2062:02bff",
   "jp": "みんなのところに持っていこうっと",
-  "en": "",
-  "status": "todo",
+  "en": "Locomoco's gonna take it to everyone!",
+  "status": "done",
   "slots": [
    "0x66cd"
   ],
@@ -2599,8 +2599,8 @@
  {
   "id": "s2062:02c20",
   "jp": "トカゲさんも黄泉の国へ旅立って\nしまったっすか。",
-  "en": "",
-  "status": "todo",
+  "en": "So Mr. Lizard has set off for the Land of the\nDead too, sir.",
+  "status": "done",
   "slots": [
    "0x6719"
   ],
@@ -2609,8 +2609,8 @@
  {
   "id": "s2062:02c50",
   "jp": "それなら、その抜け殻、\n私がいただきまっすよ。",
-  "en": "",
-  "status": "todo",
+  "en": "In that case, I'll take the empty shell, sir.",
+  "status": "done",
   "slots": [
    "0x6764"
   ],
@@ -2619,8 +2619,8 @@
  {
   "id": "s2062:02c7e",
   "jp": "この暑さでやられてしまったか。\n仕方あるまい。",
-  "en": "",
-  "status": "todo",
+  "en": "The heat got it. It cannot be helped.",
+  "status": "done",
   "slots": [
    "0x67b0"
   ],
@@ -2629,8 +2629,8 @@
  {
   "id": "s2062:02cac",
   "jp": "しかし暑いな。私も干からびて\nしまいそうだ。",
-  "en": "",
-  "status": "todo",
+  "en": "It is hot, though. I may dry up too.",
+  "status": "done",
   "slots": [
    "0x67fb"
   ],
@@ -2639,8 +2639,8 @@
  {
   "id": "s2062:02cd8",
   "jp": "トカゲさん。干からびてしまった\nのですね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Mr. Lizard. You've dried up...",
+  "status": "done",
   "slots": [
    "0x6847"
   ],
@@ -2649,8 +2649,8 @@
  {
   "id": "s2062:02d06",
   "jp": "安らかに眠ってくださいね。",
-  "en": "",
-  "status": "todo",
+  "en": "Please rest in peace.",
+  "status": "done",
   "slots": [
    "0x6892"
   ],
@@ -2659,8 +2659,8 @@
  {
   "id": "s2062:02d21",
   "jp": "ガガング、ガガガンガガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangu, gagagangaga.",
+  "status": "done",
   "slots": [
    "0x68de"
   ],
@@ -2669,8 +2669,8 @@
  {
   "id": "s2062:02d3a",
   "jp": "ガガンガガ。",
-  "en": "",
-  "status": "todo",
+  "en": "Gagangaga.",
+  "status": "done",
   "slots": [
    "0x6929"
   ],
@@ -2679,8 +2679,8 @@
  {
   "id": "s2062:02d47",
   "jp": "あら、トカゲが干からびてるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, a lizard's dried up.",
+  "status": "done",
   "slots": [
    "0x6975"
   ],
@@ -2689,8 +2689,8 @@
  {
   "id": "s2062:02d66",
   "jp": "トカゲって薬膳だったっけ？\n……まぁいいわ。\nもっていきましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Weren't lizards used in medicine? ...Oh,\nwhatever. Let's take it.",
+  "status": "done",
   "slots": [
    "0x69c0"
   ],
@@ -2699,8 +2699,8 @@
  {
   "id": "s2062:02da7",
   "jp": "ト、トカゲも干からびる程の\n暑さか……むぅ。",
-  "en": "",
-  "status": "todo",
+  "en": "S-so hot even lizards dry up... Hmm.",
+  "status": "done",
   "slots": [
    "0x6a0c"
   ],
@@ -2709,8 +2709,8 @@
  {
   "id": "s2062:02dd3",
   "jp": "い、いや、負けん！\nボクは、暑さなんかには\n負けないぞぉぉぉ！！",
-  "en": "",
-  "status": "todo",
+  "en": "N-no, I won't lose! I won't lose to any heat!\nHraaagh!!",
+  "status": "done",
   "slots": [
    "0x6a57"
   ],
@@ -2719,8 +2719,8 @@
  {
   "id": "s2062:02e12",
   "jp": "あぢ～溶けそうだわさ～。",
-  "en": "",
-  "status": "todo",
+  "en": "So hooot, I'm gonna melt, dontcha know...",
+  "status": "done",
   "slots": [
    "0x6aa3"
   ],
@@ -2729,8 +2729,8 @@
  {
   "id": "s2062:02e2b",
   "jp": "トカゲも干からびるこの暑さ。\n誰か、どうにかするんだわさ～。",
-  "en": "",
-  "status": "todo",
+  "en": "Heat so bad even lizards dry up. Somebody\ndo somethin' about it, dontcha know...",
+  "status": "done",
   "slots": [
    "0x6aee"
   ],
@@ -2739,8 +2739,8 @@
  {
   "id": "s2062:02e67",
   "jp": "ト、トカゲが干からびていますわ。\nひ、非常食として、と、とって\nお、おきま、ましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "A-a lizard has dried up. L-let's t-take it as\ne-emergency r-rations.",
+  "status": "done",
   "slots": [
    "0x6b48"
   ],
@@ -2749,8 +2749,8 @@
  {
   "id": "s2062:02ebc",
   "jp": "次に干からびるのは、\nわ、私かもしれませんわね……。",
-  "en": "",
-  "status": "todo",
+  "en": "Th-the next one to dry up may be m-me...",
+  "status": "done",
   "slots": [
    "0x6b93"
   ],
@@ -2759,8 +2759,8 @@
  {
   "id": "s2062:02ef0",
   "jp": "うへ～あっちぃ……もう服なんて\nいらねぇ～。\nお前もそう思うだろう？",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh, so hot... Who needs clothes anymore?\nYou think so too, right?",
+  "status": "done",
   "slots": [
    "0x6bcf"
   ],
@@ -2769,8 +2769,8 @@
  {
   "id": "s2062:02f33",
   "jp": "って、干からびてんのかよぉ～。\nこりゃあ裸になってもダメだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Wait, you're all dried up! Guess goin' naked\nwon't save ya either.",
+  "status": "done",
   "slots": [
    "0x6c1a"
   ],
@@ -2788,8 +2788,8 @@
  {
   "id": "s2062:030d3t",
   "jp": "盗賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Bandits",
+  "status": "done",
   "at": "0x30d6",
   "max": 6,
   "who": "team name"
@@ -2797,8 +2797,8 @@
  {
   "id": "s2062:03199t",
   "jp": "皇国軍",
-  "en": "",
-  "status": "todo",
+  "en": "Imperial Army",
+  "status": "done",
   "at": "0x319c",
   "max": 6,
   "who": "team name"

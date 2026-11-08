@@ -1137,8 +1137,8 @@
  {
   "id": "s2077:0121c",
   "jp": "ありがとう。",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you.",
+  "status": "done",
   "slots": [
    "0x38ba"
   ],

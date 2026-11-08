@@ -46,8 +46,8 @@
  {
   "id": "s2066:000c0",
   "jp": "誰だ！　この世で最も人から\n避けられる二文字を言った奴は！",
-  "en": "",
-  "status": "todo",
+  "en": "Who said it!? Who called me the one word\neverybody runs from!?",
+  "status": "done",
   "slots": [
    "0x16c3"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2066:001d0",
   "jp": "女性から詰られるのが楽しいの\nですか？　やはり変態ですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Do you enjoy being reviled by women?\nYou're a pervert after all.",
+  "status": "done",
   "slots": [
    "0x1787"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2066:00262",
   "jp": "……意外ですね。兄貴はもっと\n「あぁ、そうだな……。」って\n感じになると思ったんですが。",
-  "en": "",
-  "status": "todo",
+  "en": "...That's unexpected. I thought you'd be\nmore like, \"Yeah, I guess so...\", Boss.",
+  "status": "done",
   "slots": [
    "0x17e9"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2066:005d6",
   "jp": "ハッハァ！　\nひっさしぶりだなぁ、イシュト！",
-  "en": "",
-  "status": "todo",
+  "en": "Hahaa! Long time no see, Ishut!",
+  "status": "done",
   "slots": [
    "0x1c41"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2066:00681",
   "jp": "あの人……体の中にカードのウィル\n取り込んでる！\nまともに相手をするのは危険だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "That guy... he's taken a card's Will into his\nbody! Facing him head-on is dangerous!",
+  "status": "done",
   "slots": [
    "0x1d05"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2066:0097a",
   "jp": "いえ……。しかし、気になりますね\nあの男。",
-  "en": "",
-  "status": "todo",
+  "en": "No... But that man does bother me.",
+  "status": "done",
   "slots": [
    "0x469e"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2066:009cd",
   "jp": "いや、いない。子供の頃からの\n付き合いだ、断言できる。",
-  "en": "",
-  "status": "todo",
+  "en": "No, there ain't. We've been together since\nwe were kids, I can say it for sure.",
+  "status": "done",
   "slots": [
    "0x46c8"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2066:00b88",
   "jp": "アンタの砲台、\nかなり使い古されてるな。\nそんなんじゃ蚊も殺せないぜ？",
-  "en": "",
-  "status": "todo",
+  "en": "Your cannon's seen a lot of use. You couldn't\neven kill a mosquito with that.",
+  "status": "done",
   "slots": [
    "0x2404"
   ],
@@ -724,8 +724,8 @@
  {
   "id": "s2066:00c77",
   "jp": "ここにはある勇敢な方がいらしてね",
-  "en": "",
-  "status": "todo",
+  "en": "There's a certain brave lady who comes\nhere.",
+  "status": "done",
   "slots": [
    "0x24c6"
   ],
@@ -734,8 +734,8 @@
  {
   "id": "s2066:00c98",
   "jp": "大きな武器を持って、賞金首を\nバッタバッタと倒していくのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "She carries a big weapon and knocks down\nbounty heads left and right.",
+  "status": "done",
   "slots": [
    "0x24cd"
   ],
@@ -744,8 +744,8 @@
  {
   "id": "s2066:00cd4",
   "jp": "この島に住んでいる人は、\nみんな彼女に憧れてるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Everyone who lives on this island looks up to\nher.",
+  "status": "done",
   "slots": [
    "0x24d4"
   ],
@@ -754,8 +754,8 @@
  {
   "id": "s2066:00d06",
   "jp": "ウチの娘もその一人でねぇ。\n今も外で遊んでいるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "My daughter's one of them. She's out playing\nright now.",
+  "status": "done",
   "slots": [
    "0x24db"
   ],
@@ -764,8 +764,8 @@
  {
   "id": "s2066:00d38",
   "jp": "勇敢なる海の戦士、ユグドラ様。\n私達のヒーローよ。うふふ。",
-  "en": "",
-  "status": "todo",
+  "en": "The brave warrior of the sea, Yggdra-sama.\nShe's our hero. Hehe.",
+  "status": "done",
   "slots": [
    "0x24f3"
   ],
@@ -974,8 +974,8 @@
  {
   "id": "s2066:01052",
   "jp": "なんとなくですが、\nただの石とは思えません。\n……一応持っておきましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "I can't quite say why, but it doesn't seem\nlike an ordinary stone... I'll keep it, just in\ncase.",
+  "status": "done",
   "slots": [
    "0x386e"
   ],
@@ -1044,8 +1044,8 @@
  {
   "id": "s2066:01184",
   "jp": "キャハー！　遺跡の欠片\n発見だわさ！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyahaa! Found a ruin shard, dontcha know!",
+  "status": "done",
   "slots": [
    "0x3a7f"
   ],

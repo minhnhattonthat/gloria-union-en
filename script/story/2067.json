@@ -2,8 +2,8 @@
  {
   "id": "s2067:00028",
   "jp": "ここが、エルマーレ連合国の本部。\n光の遺跡、通称“光の海域”\nです。",
-  "en": "",
-  "status": "todo",
+  "en": "This is the headquarters of the Elmare\nFederation. The ruin of light, known as the\n\"Sea of Light\".",
+  "status": "done",
   "slots": [
    "0x3482"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2067:0006f",
   "jp": "うひゃあ、広ぉい！",
-  "en": "",
-  "status": "todo",
+  "en": "Wowee, it's huuuge!",
+  "status": "done",
   "slots": [
    "0x349b"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2067:00086",
   "jp": "綺麗な建物ですねぇ。\nまさしく光の遺跡。",
-  "en": "",
-  "status": "todo",
+  "en": "What a beautiful building. Truly the ruin of\nlight.",
+  "status": "done",
   "slots": [
    "0x34c7"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2067:000b2",
   "jp": "もっと豪勢にしてるのかと思ったら\n案外そうでもないのねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "I thought it'd be all lavish, but it's not so\nmuch, dontcha know.",
+  "status": "done",
   "slots": [
    "0x34fa"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2067:000f0",
   "jp": "同盟の旗の数が半端じゃないっす。\n噂では聞いてたっすけど、ここまで\n大きな組織とは思わなかったっす。",
-  "en": "",
-  "status": "todo",
+  "en": "The number of allied flags is crazy, sir. I'd\nheard rumours, but I never thought it was\nthis big an organisation, sir.",
+  "status": "done",
   "slots": [
    "0x351a"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2067:00157",
   "jp": "同盟国は全部で七つ。\nしかしそれでも、皇国軍の力には\n及ばないのです。",
-  "en": "",
-  "status": "todo",
+  "en": "There are seven allied nations in all. And\neven so, we can't match the strength of the\nImperial army.",
+  "status": "done",
   "slots": [
    "0x3533"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2067:001a0",
   "jp": "ルキア皇国は、世界有数の軍事国家\nだが……。\nまさかこれほどに差があるとはな。",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia Empire is one of the world's\nleading military nations, but... I never\nimagined the gap was this wide.",
+  "status": "done",
   "slots": [
    "0x3565"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2067:001f1",
   "jp": "皆、歯噛みしております。",
-  "en": "",
-  "status": "todo",
+  "en": "All of us are gritting our teeth.",
+  "status": "done",
   "slots": [
    "0x357b"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2067:0020e",
   "jp": "……イシュト、\n大人しくついて来ちゃったけど、\nよかったの？",
-  "en": "",
-  "status": "todo",
+  "en": "...Ishut, we came along so meekly. Was that\nokay?",
+  "status": "done",
   "slots": [
    "0x3594"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2067:0024d",
   "jp": "それ以外に道はなかったよ。\n光の海域に着いたし、結果オーライ\nじゃないか？",
-  "en": "",
-  "status": "todo",
+  "en": "There wasn't any other way. We got to the\nSea of Light, so it all worked out, right?",
+  "status": "done",
   "slots": [
    "0x35ad"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2067:0029a",
   "jp": "それはそうだけど……。",
-  "en": "",
-  "status": "todo",
+  "en": "That's true, but...",
+  "status": "done",
   "slots": [
    "0x35c6"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2067:002b5",
   "jp": "うぅん……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmmm...",
+  "status": "done",
   "slots": [
    "0x35df"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2067:002c6",
   "jp": "あれ？　エリーシャさん、浮かない\n顔ですね。母親と再会出来たんです\nから、もっと喜んではどうですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? Elisha-san, you look glum. You've been\nreunited with your mother, so why not be\nhappier about it?",
+  "status": "done",
   "slots": [
    "0x360a"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2067:0032d",
   "jp": "再会っていっても、あたしが\n生まれてすぐに別れたらしいし。\n初対面みたいなもんよ。",
-  "en": "",
-  "status": "todo",
+  "en": "\"Reunited\"... Apparently we split up right\nafter I was born. It's like meeting her for the\nfirst time.",
+  "status": "done",
   "slots": [
    "0x3620"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2067:00382",
   "jp": "そうなんですか？\nチ、せっかくエリーシャさんの\nデレが見れると思ったのに……。",
-  "en": "",
-  "status": "todo",
+  "en": "Is that so? Tch, and here I thought I'd get to\nsee Elisha-san go all soft...",
+  "status": "done",
   "slots": [
    "0x3636"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2067:003d3",
   "jp": "デレってなによ……。\nま、嬉しいのは確かよ。混乱して\n逆に冷静なのかもしれないわね。",
-  "en": "",
-  "status": "todo",
+  "en": "What do you mean, \"soft\"...? Well, I am\nhappy, that's for sure. Maybe I'm so\nconfused it's making me calm instead.",
+  "status": "done",
   "slots": [
    "0x364f"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2067:0042a",
   "jp": "で？　突然俺達の前に現れた理由は\nなんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "So? Why'd you suddenly show up in front of\nus?",
+  "status": "done",
   "slots": [
    "0x3684"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2067:00458",
   "jp": "アナタならわかっていると思うけど\n……これよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I think you already know... It's this.",
+  "status": "done",
   "slots": [
    "0x369d"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2067:0048a",
   "jp": "光のクリスタル……！",
-  "en": "",
-  "status": "todo",
+  "en": "The Crystal of light...!",
+  "status": "done",
   "slots": [
    "0x36b6"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2067:004a3",
   "jp": "イシュトさん。\nアナタに、このクリスタルの封印を\n解いて欲しいのです。",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut-san. I want you to break the seal on\nthis Crystal.",
+  "status": "done",
   "slots": [
    "0x36cf"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2067:004ec",
   "jp": "ちょ……なんで、イシュトが封印を\n解けるって知ってるのよ！？",
-  "en": "",
-  "status": "todo",
+  "en": "H-hold on... How do you know Ishut can break\nthe seal!?",
+  "status": "done",
   "slots": [
    "0x36f3"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2067:0052c",
   "jp": "光のクリスタルが置かれていた\n台座に刻まれていたのですよ。\n“王家の末裔を探せ”と。",
-  "en": "",
-  "status": "todo",
+  "en": "It was carved into the pedestal the Crystal\nof light rested on. \"Seek the descendant of\nthe royal family.\"",
+  "status": "done",
   "slots": [
    "0x3709"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2067:00583",
   "jp": "なんで、イシュトがユーフォリアの\n末裔だって、知ってるの？",
-  "en": "",
-  "status": "todo",
+  "en": "How do you know Ishut is a descendant of\nEuforia?",
+  "status": "done",
   "slots": [
    "0x3722"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2067:005c1",
   "jp": "それは、船長さんに聞けばわかる\nと思います。",
-  "en": "",
-  "status": "todo",
+  "en": "I think if you ask your captain, you'll\nunderstand.",
+  "status": "done",
   "slots": [
    "0x373b"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2067:005f1",
   "jp": "親父に……？",
-  "en": "",
-  "status": "todo",
+  "en": "Dad...?",
+  "status": "done",
   "slots": [
    "0x3751"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2067:00602",
   "jp": "……ま、その話は後だ。\nイシュト。封印を解いてくれ。",
-  "en": "",
-  "status": "todo",
+  "en": "...Well, we'll talk about that later. Ishut.\nBreak the seal.",
+  "status": "done",
   "slots": [
    "0x3767"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2067:0063a",
   "jp": "わかった。\n……うお、なんだこれ、今までとは\n桁違いにウィルが吸い取られるぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "Got it. ...Whoa, what is this? It's suckin' out\nway more Will than ever before.",
+  "status": "done",
   "slots": [
    "0x3780"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2067:0068b",
   "jp": "光のカードは要のカードだから。\n頑張って、イシュト。",
-  "en": "",
-  "status": "todo",
+  "en": "The light card is the keystone card. Hang in\nthere, Ishut.",
+  "status": "done",
   "slots": [
    "0x3799"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2067:006c3",
   "jp": "おう、サンキューなルルゥ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, thanks, Ruru.",
+  "status": "done",
   "slots": [
    "0x37b2"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2067:006e2",
   "jp": "……ふん！",
-  "en": "",
-  "status": "todo",
+  "en": "...Hngh!",
+  "status": "done",
   "slots": [
    "0x3805"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2067:006f1",
   "jp": "ふぅ……。完了っと。\n光のカード、名前は“ホーリー”\nか……。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew... Done. The light card's name is\n\"Holy\", huh...",
+  "status": "done",
   "slots": [
    "0x386d"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2067:00732",
   "jp": "お疲れ様。スゴイ汗ね。",
-  "en": "",
-  "status": "todo",
+  "en": "Good work. You're sweating buckets.",
+  "status": "done",
   "slots": [
    "0x3883"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2067:0074d",
   "jp": "ギリギリだった……。\nそんなに強力なカードなのか？\nこのカード……。",
-  "en": "",
-  "status": "todo",
+  "en": "That was close... Is this card really that\nstrong...?",
+  "status": "done",
   "slots": [
    "0x3899"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2067:00794",
   "jp": "……お願いね。",
-  "en": "",
-  "status": "todo",
+  "en": "...Now, please.",
+  "status": "done",
   "slots": [
    "0x38b2"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2067:007a7",
   "jp": "セヤァ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hyaah!",
+  "status": "done",
   "slots": [
    "0x38dd"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2067:007b4",
   "jp": "え？\nうわあぁぁぁ！！",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Whoaaaaa!!",
+  "status": "done",
   "slots": [
    "0x3912"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2067:007ce",
   "jp": "ひ、光のカードが奪われた！！",
-  "en": "",
-  "status": "todo",
+  "en": "Th-the light card's been stolen!!",
+  "status": "done",
   "slots": [
    "0x396b"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2067:007ef",
   "jp": "エンリエッタ様、これを。",
-  "en": "",
-  "status": "todo",
+  "en": "Enryetta-sama, here.",
+  "status": "done",
   "slots": [
    "0x3984"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2067:0080c",
   "jp": "ありがとう。",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you.",
+  "status": "done",
   "slots": [
    "0x399d"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2067:0081d",
   "jp": "どういうことだ……！",
-  "en": "",
-  "status": "todo",
+  "en": "What's the meaning of this...!?",
+  "status": "done",
   "slots": [
    "0x39b6"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2067:00836",
   "jp": "ごめんなさい……。\n私は、どうしても世界を平和に\n導かなければならないの。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry... I must lead the world to peace,\nno matter what.",
+  "status": "done",
   "slots": [
    "0x39cf"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2067:00883",
   "jp": "お母さん……？",
-  "en": "",
-  "status": "todo",
+  "en": "Mom...?",
+  "status": "done",
   "slots": [
    "0x39f3"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2067:00896",
   "jp": "た、たくさんのウィルが、\nこっちに近づいてくるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "L-lots of Will is coming this way!",
+  "status": "done",
   "slots": [
    "0x3a28"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2067:008cc",
   "jp": "少しはマシになったと期待したが。\n……甘かったか。\n総員戦闘準備！　迎え撃て！",
-  "en": "",
-  "status": "todo",
+  "en": "I hoped she'd gotten a bit better... Guess I\nwas naive. All hands, ready for battle! Meet\n'em head-on!",
+  "status": "done",
   "slots": [
    "0x3a41"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2067:0091d",
   "jp": "何々、なんなのよ一体！",
-  "en": "",
-  "status": "todo",
+  "en": "What, what, what's going on here!?",
+  "status": "done",
   "slots": [
    "0x3dcc"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2067:00938",
   "jp": "ルルゥ、遺跡のカードは俺にしか\n使えないんじゃないのか！？",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru, ain't I the only one who can use the ruin\ncards!?",
+  "status": "done",
   "slots": [
    "0x3de5"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2067:00976",
   "jp": "イシュトにしか出来ないのは\n封印の解除だけ！\nカードの使用は、誰でもできるの！",
-  "en": "",
-  "status": "todo",
+  "en": "The only thing only Ishut can do is break the\nseal! Anyone can use the cards!",
+  "status": "done",
   "slots": [
    "0x3e03"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2067:009c7",
   "jp": "なんだとぉ！？\nじゃ、じゃあ皆も使えるのか！？",
-  "en": "",
-  "status": "todo",
+  "en": "What!? Th-then everyone can use 'em!?",
+  "status": "done",
   "slots": [
    "0x3e1c"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2067:009f9",
   "jp": "消費量が多すぎて誰も使えないよ。\nエンリエッタさんのウィルの量が\n異常なだけ……。",
-  "en": "",
-  "status": "todo",
+  "en": "They use up too much for anyone to use.\nEnryetta-san just has an abnormal amount\nof Will...",
+  "status": "done",
   "slots": [
    "0x3e3a"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2067:00a4e",
   "jp": "ウィルとは意思。心の力と\n謂われているわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Will is the force of intent. The power of the\nheart, they say.",
+  "status": "done",
   "slots": [
    "0x3e53"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2067:00a7c",
   "jp": "私は幼少の頃より、確固たる意思を\n持って生活してきた……。\nその意思の力、味わいなさい。",
-  "en": "",
-  "status": "todo",
+  "en": "Ever since I was a child, I've lived with an\nunshakable will... Taste the power of that\nwill.",
+  "status": "done",
   "slots": [
    "0x3e5d"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2067:00ad7",
   "jp": "あなた達のおかげで、私は仲間を\n手に入れました。\nエンリエッタという、仲間を。",
-  "en": "",
-  "status": "todo",
+  "en": "Thanks to you, I found an ally. An ally named\nEnryetta.",
+  "status": "done",
   "slots": [
    "0x617c"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2067:00b28",
   "jp": "ジゼル……。",
-  "en": "",
-  "status": "todo",
+  "en": "Giselle...",
+  "status": "done",
   "slots": [
    "0x6195"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2067:00b39",
   "jp": "私は、エンリエッタの過去と\n今を知り、そして共感しました。\nなので、私はアナタの敵です。",
-  "en": "",
-  "status": "todo",
+  "en": "I learned Enryetta's past and present, and I\nsympathise with her. So I am your enemy.",
+  "status": "done",
   "slots": [
    "0x61ae"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2067:00b94",
   "jp": "……見たかったぜ、\n鯛や平目の舞踊り。",
-  "en": "",
-  "status": "todo",
+  "en": "...I wanted to see that sea bream and\nflounder dance.",
+  "status": "done",
   "slots": [
    "0x61c7"
   ],
@@ -607,8 +607,8 @@
  {
   "id": "s2067:00bbe",
   "jp": "アナタも平和のための\n犠牲となりなさい。",
-  "en": "",
-  "status": "todo",
+  "en": "You too must become a sacrifice for peace.",
+  "status": "done",
   "slots": [
    "0x6409"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2067:00bea",
   "jp": "平和のための犠牲？\nわけがわからん。\n自分の平和ぐらい自分で見つける。",
-  "en": "",
-  "status": "todo",
+  "en": "A sacrifice for peace? Makes no sense. I'll\nfind my own peace myself.",
+  "status": "done",
   "slots": [
    "0x6423"
   ],
@@ -629,8 +629,8 @@
  {
   "id": "s2067:00c33",
   "jp": "そういうところ、\n昔の彼とそっくりだわ。",
-  "en": "",
-  "status": "todo",
+  "en": "That side of you is just like him in the old\ndays.",
+  "status": "done",
   "slots": [
    "0x643c"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2067:00c5f",
   "jp": "まさか、実の母親に裏切られるとは\n思わなかったわ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Never thought I'd get betrayed by my own\nmother...",
+  "status": "done",
   "slots": [
    "0x6710"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2067:00c99",
   "jp": "ごめんなさいね。\nでも、これが私の意思なの。\n例え娘でも、情はかけられないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry. But this is my will. Even for my\ndaughter, I can't show mercy.",
+  "status": "done",
   "slots": [
    "0x6729"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2067:00cea",
   "jp": "ま、ほぼ初対面なんだし、\n情も何もないわ。\n……覚悟してちょうだいね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, we've practically just met, so there's\nno \"mercy\" between us anyway. ...Get\nready.",
+  "status": "done",
   "slots": [
    "0x6743"
   ],
@@ -673,8 +673,8 @@
  {
   "id": "s2067:00d33",
   "jp": "私がイシュト君のカードを奪った時\nアナタ、止められたんじゃないの？",
-  "en": "",
-  "status": "todo",
+  "en": "When I stole Ishut-kun's card, couldn't you\nhave stopped me?",
+  "status": "done",
   "slots": [
    "0x6835"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2067:00d79",
   "jp": "まさか、光のカードを使えるほどに\n強くなってるとは思わなかった。",
-  "en": "",
-  "status": "todo",
+  "en": "I never thought you'd gotten strong enough\nto use the light card.",
+  "status": "done",
   "slots": [
    "0x684f"
   ],
@@ -695,8 +695,8 @@
  {
   "id": "s2067:00dbd",
   "jp": "へぇ……優しいのね。相変わらず。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh... You're kind. As always.",
+  "status": "done",
   "slots": [
    "0x6868"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "s2067:00de2",
   "jp": "馬鹿野郎。\nただの弱みだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Idiot. It's just a weakness.",
+  "status": "done",
   "slots": [
    "0x6882"
   ],
@@ -717,8 +717,8 @@
  {
   "id": "s2067:00e02",
   "jp": "陛下……まさか、もう一度戦う事に\nなるとは思いませんでした……。",
-  "en": "",
-  "status": "todo",
+  "en": "Your Majesty... I never thought we'd end up\nfighting again...",
+  "status": "done",
   "slots": [
    "0x62aa"
   ],
@@ -728,8 +728,8 @@
  {
   "id": "s2067:00e46",
   "jp": "えぇ、今度は負けませんよ。\n私にも、仲間ができたのですから。\n共に歩む仲間が。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, and this time I won't lose. For I too\nhave allies now. Allies to walk with.",
+  "status": "done",
   "slots": [
    "0x62c3"
   ],
@@ -739,8 +739,8 @@
  {
   "id": "s2067:00e97",
   "jp": "我等の意思はシャンティエにあり。\nあなたから、最初に教わった言葉\nです。",
-  "en": "",
-  "status": "todo",
+  "en": "\"Our will lies in Chantier.\" Those were the\nfirst words you taught me.",
+  "status": "done",
   "slots": [
    "0x62dd"
   ],
@@ -750,8 +750,8 @@
  {
   "id": "s2067:00ee2",
   "jp": "フフ、懐かしいわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hehe, that takes me back.",
+  "status": "done",
   "slots": [
    "0x62f6"
   ],
@@ -761,8 +761,8 @@
  {
   "id": "s2067:00ef9",
   "jp": "全力で、いくぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm coming at you with all I have!",
+  "status": "done",
   "slots": [
    "0x6310"
   ],
@@ -772,8 +772,8 @@
  {
   "id": "s2067:00f0e",
   "jp": "どうしてわざわざ兄貴を\n襲うようなマネを？",
-  "en": "",
-  "status": "todo",
+  "en": "Why go out of your way to attack the Boss?",
+  "status": "done",
   "slots": [
    "0x6510"
   ],
@@ -782,8 +782,8 @@
  {
   "id": "s2067:00f38",
   "jp": "そんな事するより、\n協力し合った方が何倍も\nいいじゃないですか。",
-  "en": "",
-  "status": "todo",
+  "en": "Working together would be many times\nbetter than that, wouldn't it?",
+  "status": "done",
   "slots": [
    "0x651a"
   ],
@@ -792,8 +792,8 @@
  {
   "id": "s2067:00f77",
   "jp": "アナタ達があの人の下にいる時点で\nその可能性は消えたわ。",
-  "en": "",
-  "status": "todo",
+  "en": "The moment you placed yourselves under\nthat man, that possibility vanished.",
+  "status": "done",
   "slots": [
    "0x6533"
   ],
@@ -802,8 +802,8 @@
  {
   "id": "s2067:00faf",
   "jp": "さぁ、いきますよ。子猫さん。",
-  "en": "",
-  "status": "todo",
+  "en": "Now, here I come, little kitten.",
+  "status": "done",
   "slots": [
    "0x653d"
   ],
@@ -812,8 +812,8 @@
  {
   "id": "s2067:00fcc",
   "jp": "生身の体でそのカードを\n使いこなせるなんて……。",
-  "en": "",
-  "status": "todo",
+  "en": "To master that card with a body of flesh\nand blood...",
+  "status": "done",
   "slots": [
    "0x6611"
   ],
@@ -822,8 +822,8 @@
  {
   "id": "s2067:00ffc",
   "jp": "アナタの心には……意思には、\nどれほどの思いが宿ってるの……？",
-  "en": "",
-  "status": "todo",
+  "en": "Your heart... your will... how much feeling\nlives in it...?",
+  "status": "done",
   "slots": [
    "0x661b"
   ],
@@ -832,8 +832,8 @@
  {
   "id": "s2067:0103a",
   "jp": "私の平和への意思は、\nこの世の誰にも負けません。\nさぁ、いきますよ！",
-  "en": "",
-  "status": "todo",
+  "en": "My will for peace loses to no one in this\nworld. Now, here I come!",
+  "status": "done",
   "slots": [
    "0x6634"
   ],
@@ -842,8 +842,8 @@
  {
   "id": "s2067:0107d",
   "jp": "アナタは、平和の為なら娘をも\n殺す気なのか……。",
-  "en": "",
-  "status": "todo",
+  "en": "You would kill even your daughter for the\nsake of peace...?",
+  "status": "done",
   "slots": [
    "0x695d"
   ],
@@ -852,8 +852,8 @@
  {
   "id": "s2067:010ad",
   "jp": "……えぇ。\nそうです。\nそれが、なにか？",
-  "en": "",
-  "status": "todo",
+  "en": "...Yes. I would. What of it?",
+  "status": "done",
   "slots": [
    "0x6976"
   ],
@@ -862,8 +862,8 @@
  {
   "id": "s2067:010d4",
   "jp": "……よかろう。",
-  "en": "",
-  "status": "todo",
+  "en": "...Very well.",
+  "status": "done",
   "slots": [
    "0x6990"
   ],
@@ -872,8 +872,8 @@
  {
   "id": "s2067:010e3",
   "jp": "ならばその歪んだ意思、\n自分の槍で正してやる！",
-  "en": "",
-  "status": "todo",
+  "en": "Then I shall set that twisted will right with\nmy own spear!",
+  "status": "done",
   "slots": [
    "0x69a5"
   ],
@@ -882,8 +882,8 @@
  {
   "id": "s2067:01111",
   "jp": "この戦いが終われば、アナタの様な\n子供が戦う事もなくなるのです。\nだから、大人しくしていてね。",
-  "en": "",
-  "status": "todo",
+  "en": "When this battle is over, children like you\nwon't have to fight anymore. So be a good\ngirl, okay?",
+  "status": "done",
   "slots": [
    "0x6a96"
   ],
@@ -892,8 +892,8 @@
  {
   "id": "s2067:0116e",
   "jp": "やぁだよっ！\nロコモコ、まだお兄ちゃん達と\n一緒にいたいもん！",
-  "en": "",
-  "status": "todo",
+  "en": "No waaay! Locomoco still wants to be with\nBig Brother and everyone!",
+  "status": "done",
   "slots": [
    "0x6ab0"
   ],
@@ -902,8 +902,8 @@
  {
   "id": "s2067:011ab",
   "jp": "アナタ。\n黄泉の国の出身らしいですね。",
-  "en": "",
-  "status": "todo",
+  "en": "I hear you're from the Land of the Dead.",
+  "status": "done",
   "slots": [
    "0x6b9a"
   ],
@@ -912,8 +912,8 @@
  {
   "id": "s2067:011d1",
   "jp": "死んでいった者達は、\nどうしているのかしら？",
-  "en": "",
-  "status": "todo",
+  "en": "How are those who have died faring, I\nwonder?",
+  "status": "done",
   "slots": [
    "0x6ba4"
   ],
@@ -922,8 +922,8 @@
  {
   "id": "s2067:011fd",
   "jp": "残念っすけど、私は罪人課なんで。\n信教者の方々とは課が違うっすよ。\nごめんなさいっす。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, ma'am, but I'm in the Sinners Section.\nThe faithful are in a different section.\nSorry, ma'am.",
+  "status": "done",
   "slots": [
    "0x6bbe"
   ],
@@ -932,8 +932,8 @@
  {
   "id": "s2067:01252",
   "jp": "シャンティエは\n反皇国連合国の一つ。\nアナタは、国に逆らうのですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Chantier is one of the Anti-Imperial\nFederation's nations. Would you defy your\nnation?",
+  "status": "done",
   "slots": [
    "0x6ca8"
   ],
@@ -942,8 +942,8 @@
  {
   "id": "s2067:01295",
   "jp": "国に逆らった気など毛頭も無い！",
-  "en": "",
-  "status": "todo",
+  "en": "I have not the slightest intention of defying\nmy nation!",
+  "status": "done",
   "slots": [
    "0x6cc2"
   ],
@@ -952,8 +952,8 @@
  {
   "id": "s2067:012b4",
   "jp": "貴様の正義は歪んでいる。\n従うわけには、いかない！",
-  "en": "",
-  "status": "todo",
+  "en": "Your justice is twisted. I cannot obey it!",
+  "status": "done",
   "slots": [
    "0x6ccc"
   ],
@@ -962,8 +962,8 @@
  {
   "id": "s2067:012e6",
   "jp": "アナタは正義の賞金稼ぎを\n自負している。\n何故、戦おうとするのですか。",
-  "en": "",
-  "status": "todo",
+  "en": "You pride yourself on being a bounty hunter\nof justice. Why do you fight me?",
+  "status": "done",
   "slots": [
    "0x6ea3"
   ],
@@ -972,8 +972,8 @@
  {
   "id": "s2067:0132b",
   "jp": "私とアナタの正義は\n同じようで大きく違います。\nアナタは、私の敵です。",
-  "en": "",
-  "status": "todo",
+  "en": "Your justice and mine look alike, but they\nare very different. You are my enemy.",
+  "status": "done",
   "slots": [
    "0x6ebd"
   ],
@@ -982,8 +982,8 @@
  {
   "id": "s2067:01370",
   "jp": "ガンガガガ、ガガガング！",
-  "en": "",
-  "status": "todo",
+  "en": "Gangagaga, gagagangu!",
+  "status": "done",
   "slots": [
    "0x6da0"
   ],
@@ -992,8 +992,8 @@
  {
   "id": "s2067:01389",
   "jp": "古代遺跡の守護者。\nアナタを倒せるほどの力があれば、\n平和への道は一気に広がります。",
-  "en": "",
-  "status": "todo",
+  "en": "Guardian of the ancient ruins. With the\npower to defeat you, the road to peace\nwould open wide at once.",
+  "status": "done",
   "slots": [
    "0x6db9"
   ],
@@ -1002,8 +1002,8 @@
  {
   "id": "s2067:013dc",
   "jp": "聞かせてください。\nアナタは何故、皇国軍の様な所に\n所属していたのですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Tell me. Why did you belong to a place like\nthe Imperial army?",
+  "status": "done",
   "slots": [
    "0x6fa7"
   ],
