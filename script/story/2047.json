@@ -145,8 +145,8 @@
  {
   "id": "s2047:00271",
   "jp": "うん！",
-  "en": "",
-  "status": "todo",
+  "en": "Okay!",
+  "status": "done",
   "slots": [
    "0xa92"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2047:003cb",
   "jp": "了解！",
-  "en": "",
-  "status": "todo",
+  "en": "Got it!",
+  "status": "done",
   "slots": [
    "0x1730"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2047:003d6",
   "jp": "なに！？",
-  "en": "",
-  "status": "todo",
+  "en": "What!?",
+  "status": "done",
   "slots": [
    "0x1749"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2047:01cc7",
   "jp": "おう！",
-  "en": "",
-  "status": "todo",
+  "en": "You got it!",
+  "status": "done",
   "slots": [
    "0x2b73"
   ],

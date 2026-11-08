@@ -2,8 +2,8 @@
  {
   "id": "s2034:00028",
   "jp": "ここが“海王神殿”だよ。",
-  "en": "",
-  "status": "todo",
+  "en": "This is the \"Sea King's Temple.\"",
+  "status": "done",
   "slots": [
    "0x1579"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2034:00045",
   "jp": "名前どおり、水に囲まれてますね。",
-  "en": "",
-  "status": "todo",
+  "en": "Just like the name says, it's surrounded by\nwater.",
+  "status": "done",
   "slots": [
    "0x158f"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2034:0006a",
   "jp": "行動範囲がかなり制限されるわね。\nやっかいだわぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "That really limits where we can move. What\na pain.",
+  "status": "done",
   "slots": [
    "0x15a5"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2034:000a0",
   "jp": "う～ん……。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmmm...",
+  "status": "done",
   "slots": [
    "0x15be"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2034:000b1",
   "jp": "あれ？　どうしたの？　イシュト。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? What's wrong, Ishut?",
+  "status": "done",
   "slots": [
    "0x15e5"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2034:000d6",
   "jp": "いやぁ、\nなんで俺が指名手配されてるのかが\nどうしても気になってな。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, I just can't stop wondering why I'm\nwanted all of a sudden.",
+  "status": "done",
   "slots": [
    "0x15fe"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2034:0011d",
   "jp": "まぁ当然ですよね。\nいきなりでしたし。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, naturally. It came out of nowhere.",
+  "status": "done",
   "slots": [
    "0x1625"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2034:00147",
   "jp": "エリーシャ、何か知らないか？",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha, you know anything?",
+  "status": "done",
   "slots": [
    "0x163e"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2034:00168",
   "jp": "アンタ達って、何も知らないのね。\n呆れちゃうわ。",
-  "en": "",
-  "status": "todo",
+  "en": "You guys really don't know anything, do you?\nUnbelievable.",
+  "status": "done",
   "slots": [
    "0x1657"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2034:0019c",
   "jp": "なんだとぉ！？",
-  "en": "",
-  "status": "todo",
+  "en": "What was that!?",
+  "status": "done",
   "slots": [
    "0x167e"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2034:001af",
   "jp": "コレだけの金額を出せる国なんて、\nこの世に一国しかないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "There's only one country in the world that\ncould put up this kind of money.",
+  "status": "done",
   "slots": [
    "0x1697"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2034:001ed",
   "jp": "……どこなんだよ。",
-  "en": "",
-  "status": "todo",
+  "en": "...And which one is that?",
+  "status": "done",
   "slots": [
    "0x16cc"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2034:00204",
   "jp": "世界最大最強の軍事国。\nルキア皇国よ。",
-  "en": "",
-  "status": "todo",
+  "en": "The biggest, strongest military power in\nthe world. The Lukia Empire.",
+  "status": "done",
   "slots": [
    "0x16e2"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2034:0022e",
   "jp": "ルキア、皇国……。",
-  "en": "",
-  "status": "todo",
+  "en": "The Lukia... Empire...",
+  "status": "done",
   "slots": [
    "0x16f8"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2034:00245",
   "jp": "世界最大最強の軍事国家ですか……\nぶっとんだ話ですねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "The world's biggest, strongest military\nnation... That's a crazy story.",
+  "status": "done",
   "slots": [
    "0x170e"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2034:00281",
   "jp": "ピンガーはあまり驚いてないの？",
-  "en": "",
-  "status": "todo",
+  "en": "Pinger, you don't seem very surprised?",
+  "status": "done",
   "slots": [
    "0x1724"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2034:002a4",
   "jp": "一周して冷静になりましたよ。\nにしても、とんでもない国が\n敵になってしまいましたよ、兄貴。",
-  "en": "",
-  "status": "todo",
+  "en": "I've come all the way around to calm. Still,\nwe've made a terrible country our enemy,\nBoss.",
+  "status": "done",
   "slots": [
    "0x1756"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2034:00301",
   "jp": "……まぁ、ルルゥと会えただけ\nよしとするか。",
-  "en": "",
-  "status": "todo",
+  "en": "...Well, I got to meet Ruru, so I'll call it\neven.",
+  "status": "done",
   "slots": [
    "0x176c"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2034:00331",
   "jp": "うん！\n私もイシュトと会えて嬉しいよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah! I'm happy I met you too, Ishut!",
+  "status": "done",
   "slots": [
    "0x1790"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2034:0035b",
   "jp": "グハァ！\nこれが……愛か！",
-  "en": "",
-  "status": "todo",
+  "en": "Gwaah! So this... is love!",
+  "status": "done",
   "slots": [
    "0x17a9"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2034:00379",
   "jp": "……兄貴はほっといて。\nルルゥは、どうしてクリスタルの\n場所を知っているんですか？",
-  "en": "",
-  "status": "todo",
+  "en": "...Let's leave the Boss be. Ruru, how do you\nknow where the Crystal is?",
+  "status": "done",
   "slots": [
    "0x17c2"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2034:003ce",
   "jp": "違うよ。\nクリスタルから漏れてるウィルを\n探知してるの。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't. I'm detecting the Will leaking out of\nthe Crystal.",
+  "status": "done",
   "slots": [
    "0x17e6"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2034:00409",
   "jp": "離れた場所にあるウィルを\n探知できるんですか？\nすごいですねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "You can detect Will from far away? That's\namazing.",
+  "status": "done",
   "slots": [
    "0x17fc"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2034:0044c",
   "jp": "ウィルの探知機なんて最近じゃ\nどこにでも出回ってるけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "Will detectors are all over the place these\ndays, though.",
+  "status": "done",
   "slots": [
    "0x1812"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2034:0048a",
   "jp": "え、そうなんですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh, really?",
+  "status": "done",
   "slots": [
    "0x1828"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2034:004a3",
   "jp": "まぁ、クリスタルのウィルを探る\nほどの探知機なんて、あるのか\nどうかわからないけどね。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, I don't know if there's a detector good\nenough to track down a Crystal's Will,\nthough.",
+  "status": "done",
   "slots": [
    "0x183e"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2034:004fc",
   "jp": "よかったぁ……私の存在意義が\nなくなるところだった……。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew... I almost lost my whole reason for\nexisting...",
+  "status": "done",
   "slots": [
    "0x1854"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2034:00538",
   "jp": "俺の剣、クリスタル、ルキア皇国\nそして、ルルゥにグロリア海賊団。\n……濃いなぁ～。",
-  "en": "",
-  "status": "todo",
+  "en": "My sword, the Crystal, the Lukia Empire, and\nnow Ruru and the Gloria Pirates. ...That's a\nlot to take in.",
+  "status": "done",
   "slots": [
    "0x1886"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2034:0058d",
   "jp": "そうですねぇ。\n昨日まで末端の海賊だったはず\nなんですけどねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "It sure is. Just yesterday we were\nbottom-rung pirates.",
+  "status": "done",
   "slots": [
    "0x189c"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2034:005d0",
   "jp": "ごめんね……イシュト。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm sorry... Ishut.",
+  "status": "done",
   "slots": [
    "0x18b2"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2034:005eb",
   "jp": "あ、いや、ルルゥ、\nそういうわけじゃなくてだなぁ！\n俺は、ルルゥがいて嬉しいぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, no, Ruru, that's not what I meant! I'm\nglad you're here, Ruru!",
+  "status": "done",
   "slots": [
    "0x18e4"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2034:0063e",
   "jp": "うん、ありがとうイシュト。",
-  "en": "",
-  "status": "todo",
+  "en": "Okay. Thank you, Ishut.",
+  "status": "done",
   "slots": [
    "0x18fa"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2034:0065d",
   "jp": "……よし、走るぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "...All right, let's run!",
+  "status": "done",
   "slots": [
    "0x1913"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2034:00674",
   "jp": "ええぇ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaat!?",
+  "status": "done",
   "slots": [
    "0x1948"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2034:00683",
   "jp": "ど、どうしたのよ急に……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what's gotten into you all of a\nsudden...?",
+  "status": "done",
   "slots": [
    "0x1961"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2034:006a2",
   "jp": "溢れるせいよ……情熱が抑えられ\nないんじゃないですか？",
-  "en": "",
-  "status": "todo",
+  "en": "It's because it's overflowing... He just can't\nhold back his passion, I'd say.",
+  "status": "done",
   "slots": [
    "0x1993"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2034:006dc",
   "jp": "行くぞ！\nうおおおおおおぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "Let's go! Raaaaaaaagh!",
+  "status": "done",
   "slots": [
    "0x19ac"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2034:006fc",
   "jp": "走り出す青春も素晴らしいが、\nちょっと止まってもらおうか。",
-  "en": "",
-  "status": "todo",
+  "en": "Youth running off into the sunset is a fine\nthing, but I'm going to have to stop you\nright there.",
+  "status": "done",
   "slots": [
    "0x19d2"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2034:0073a",
   "jp": "危ない！",
-  "en": "",
-  "status": "todo",
+  "en": "Look out!",
+  "status": "done",
   "slots": [
    "0x19e8"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2034:00747",
   "jp": "グアッ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gwah!",
+  "status": "done",
   "slots": [
    "0x1a75"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2034:0075f",
   "jp": "誰！？",
-  "en": "",
-  "status": "todo",
+  "en": "Who's there!?",
+  "status": "done",
   "slots": [
    "0x1aab"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2034:0076a",
   "jp": "“黒い牙”リーダー。ブラックモア\nベルガスの兄貴分だ。よろしく。",
-  "en": "",
-  "status": "todo",
+  "en": "Leader of the \"Black Fang,\" Blackmore.\nVelgas's big brother in arms. Pleased to\nmeet you.",
+  "status": "done",
   "slots": [
    "0x1bc7"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2034:007ae",
   "jp": "黒い牙！？",
-  "en": "",
-  "status": "todo",
+  "en": "The Black Fang!?",
+  "status": "done",
   "slots": [
    "0x1be0"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2034:007bd",
   "jp": "エリーシャ、知ってるのか？",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha, you know him?",
+  "status": "done",
   "slots": [
    "0x1c15"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2034:007dc",
   "jp": "因縁の仲よ……。\nフフ、ちょうどいいわ。",
-  "en": "",
-  "status": "todo",
+  "en": "We go way back... Heh, this is perfect.",
+  "status": "done",
   "slots": [
    "0x1c2b"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2034:00808",
   "jp": "ブラックモア！\nアンタの命も今日までよ！\n覚悟しなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Blackmore! Today's the last day you live!\nGet ready!",
+  "status": "done",
   "slots": [
    "0x1c44"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2034:00843",
   "jp": "ベルガス、後は任せた。\n俺は先に遺跡観光でもしてこよう。",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas, I'll leave the rest to you. I'll go on\nahead and do some sightseeing in the ruins.",
+  "status": "done",
   "slots": [
    "0x1c5e"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2034:0087f",
   "jp": "了解！",
-  "en": "",
-  "status": "todo",
+  "en": "Got it!",
+  "status": "done",
   "slots": [
    "0x1c77"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2034:0088a",
   "jp": "ちょ、ちょっと！\n待ちなさいよ！",
-  "en": "",
-  "status": "todo",
+  "en": "H-hey, wait! Hold it right there!",
+  "status": "done",
   "slots": [
    "0x1cad"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2034:008ae",
   "jp": "あん？　なによ。\n俺今忙しいんだけど……。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? What? I'm kinda busy right now...",
+  "status": "done",
   "slots": [
    "0x1cc7"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2034:008dc",
   "jp": "観光してくるとか言ってた\nでしょうが！",
-  "en": "",
-  "status": "todo",
+  "en": "You just said you were going sightseeing!",
+  "status": "done",
   "slots": [
    "0x1ce1"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2034:00906",
   "jp": "観光するのに忙しい。",
-  "en": "",
-  "status": "todo",
+  "en": "Busy sightseeing.",
+  "status": "done",
   "slots": [
    "0x1cfb"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2034:0091f",
   "jp": "ムキー！\n絶対にアンタをボコボコにして、\n奪われたものを取り返してやるわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Grrr! I'm going to beat you black and blue\nand take back what you stole from me!",
+  "status": "done",
   "slots": [
    "0x1d15"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2034:0096c",
   "jp": "船長を“もの”扱いかよ。\n愛されてねぇなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Calling your captain a \"what,\" are we? He's\nnot very loved, is he?",
+  "status": "done",
   "slots": [
    "0x1d2f"
   ],
@@ -607,8 +607,8 @@
  {
   "id": "s2034:0099c",
   "jp": "俺なんかより、そっちの少年の方が\n今は大事なんじゃないか？",
-  "en": "",
-  "status": "todo",
+  "en": "Shouldn't you be more worried about that\nboy over there right now than about me?",
+  "status": "done",
   "slots": [
    "0x1d36"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2034:009da",
   "jp": "イシュト！　大丈夫！？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut! Are you okay!?",
+  "status": "done",
   "slots": [
    "0x1d4d"
   ],
@@ -629,8 +629,8 @@
  {
   "id": "s2034:009f5",
   "jp": "なんとかな……。\nにしてもいきなりすぎるだろ！\nクソッ！　皆、行くぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "More or less... But that was way too sudden!\nDammit! Everyone, let's go!",
+  "status": "done",
   "slots": [
    "0x1d67"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2034:00a3e",
   "jp": "ここはお前に任せるぞ。\n俺はクリスタルを取る。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm leaving this to you. I'll get the Crystal.",
+  "status": "done",
   "slots": [
    "0x1e79"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2034:00a70",
   "jp": "任せてください！",
-  "en": "",
-  "status": "todo",
+  "en": "Leave it to me!",
+  "status": "done",
   "slots": [
    "0x1e8f"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2034:00a85",
   "jp": "あ！　待ちなさい！\n……クッ！　逃げられた！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah! Wait! ...Ugh! He got away!",
+  "status": "done",
   "slots": [
    "0x1ed7"
   ],
@@ -673,8 +673,8 @@
  {
   "id": "s2034:00ab5",
   "jp": "イシュト！　このままじゃ\nクリスタルが取られちゃうよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut! At this rate, they'll take the Crystal!",
+  "status": "done",
   "slots": [
    "0x1ef2"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2034:00aef",
   "jp": "さっさと突破するぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Let's break through, fast!",
+  "status": "done",
   "slots": [
    "0x1f0b"
   ],
@@ -695,8 +695,8 @@
  {
   "id": "s2034:00b08",
   "jp": "お前はホンッットに\n俺の邪魔しかしねぇな！",
-  "en": "",
-  "status": "todo",
+  "en": "You really never do anything but get in my\nway, do ya!?",
+  "status": "done",
   "slots": [
    "0x22f3"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "s2034:00b36",
   "jp": "るせぇ！\n俺はお前に勝たなきゃ\n死んでも死にきれねぇんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Shaddup! If I don't beat you, I can't die in\npeace!",
+  "status": "done",
   "slots": [
    "0x230c"
   ],
@@ -717,8 +717,8 @@
  {
   "id": "s2034:00b73",
   "jp": "お前に用はねぇ。\n大人しくイシュトの陰に隠れてな。",
-  "en": "",
-  "status": "todo",
+  "en": "I got no business with you. Go hide behind\nIshut like a good boy.",
+  "status": "done",
   "slots": [
    "0x23f6"
   ],
@@ -727,8 +727,8 @@
  {
   "id": "s2034:00ba5",
   "jp": "兄貴に勝ちたいなら、\nまずはボクを倒す事ですね。",
-  "en": "",
-  "status": "todo",
+  "en": "If you want to beat the Boss, you'll have to\nbeat me first.",
+  "status": "done",
   "slots": [
    "0x2410"
   ],
@@ -737,8 +737,8 @@
  {
   "id": "s2034:00bd5",
   "jp": "アナタ、本当に悪い人なの？\n悪いウィルは感じられないのに……",
-  "en": "",
-  "status": "todo",
+  "en": "Are you really a bad person? I can't sense\nany bad Will in you...",
+  "status": "done",
   "slots": [
    "0x24e4"
   ],
@@ -747,8 +747,8 @@
  {
   "id": "s2034:00c11",
   "jp": "な、何だコイツ？\nわけわかんねぇ事言いやがって……",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what's with her? Talking nonsense...",
+  "status": "done",
   "slots": [
    "0x24fd"
   ],
@@ -757,8 +757,8 @@
  {
   "id": "s2034:00c43",
   "jp": "アンタ、ブラックモアがどんな奴か\n知ってて子分やってるわけ……？",
-  "en": "",
-  "status": "todo",
+  "en": "Do you know what kind of man Blackmore is,\nand you still work for him...?",
+  "status": "done",
   "slots": [
    "0x25d1"
   ],
@@ -767,8 +767,8 @@
  {
   "id": "s2034:00c83",
   "jp": "俺は強くなるんだ！\nその為なら、どんな奴の下にでも\nついてやらぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm gonna get stronger! If that's what it\ntakes, I'll follow anybody!",
+  "status": "done",
   "slots": [
    "0x25ea"
   ],
@@ -777,8 +777,8 @@
  {
   "id": "s2034:00cc4",
   "jp": "クソッ。何で……。\nなんで勝てねぇんだ……クソォ！",
-  "en": "",
-  "status": "todo",
+  "en": "Damn it. Why... Why can't I win...? Damn it!",
+  "status": "done",
   "slots": [
    "0x279d"
   ],
@@ -788,8 +788,8 @@
  {
   "id": "s2034:00cfa",
   "jp": "イシュト、大丈夫？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, are you all right?",
+  "status": "done",
   "slots": [
    "0x2f09"
   ],
@@ -799,8 +799,8 @@
  {
   "id": "s2034:00d11",
   "jp": "あぁ、もう痛みもない。",
-  "en": "",
-  "status": "todo",
+  "en": "Yeah, it doesn't even hurt anymore.",
+  "status": "done",
   "slots": [
    "0x2f22"
   ],
@@ -810,8 +810,8 @@
  {
   "id": "s2034:00d2c",
   "jp": "よかったぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Thank goodness.",
+  "status": "done",
   "slots": [
    "0x2f49"
   ],
@@ -821,8 +821,8 @@
  {
   "id": "s2034:00d3d",
   "jp": "相変わらずの回復力ですね。\nどうなってるんですかその体？\nちょっと脱いでくださいよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Your recovery's as fast as ever. What's\ngoing on with that body of yours? Take your\nclothes off for a sec.",
+  "status": "done",
   "slots": [
    "0x2f5f"
   ],
@@ -832,8 +832,8 @@
  {
   "id": "s2034:00d94",
   "jp": "嫌じゃ！　誰が脱ぐか！",
-  "en": "",
-  "status": "todo",
+  "en": "No way! Like I'd strip!",
+  "status": "done",
   "slots": [
    "0x2f86"
   ],
@@ -843,8 +843,8 @@
  {
   "id": "s2034:00daf",
   "jp": "お腹すいた。",
-  "en": "",
-  "status": "todo",
+  "en": "I'm hungry.",
+  "status": "done",
   "slots": [
    "0x2f9f"
   ],
@@ -854,8 +854,8 @@
  {
   "id": "s2034:00dc0",
   "jp": "え、でも今は食料もないわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh, but we don't have any food right now.",
+  "status": "done",
   "slots": [
    "0x2fb8"
   ],
@@ -865,8 +865,8 @@
  {
   "id": "s2034:00de1",
   "jp": "俺も持ってねぇな。\n気合入れるために一気食い\nしちまった。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't have any either. I wolfed it all down\nto psych myself up.",
+  "status": "done",
   "slots": [
    "0x2fdc"
   ],
@@ -876,8 +876,8 @@
  {
   "id": "s2034:00e1e",
   "jp": "兄貴はバカだなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "The Boss is an idiot.",
+  "status": "done",
   "slots": [
    "0x2ff2"
   ],
@@ -887,8 +887,8 @@
  {
   "id": "s2034:00e35",
   "jp": "うぐ……。\nといわけでルルゥ、すまないんだが",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh... So, Ruru, I'm sorry, but...",
+  "status": "done",
   "slots": [
    "0x3008"
   ],
@@ -898,8 +898,8 @@
  {
   "id": "s2034:00e65",
   "jp": "お腹すいた！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm hungry!",
+  "status": "done",
   "slots": [
    "0x303d"
   ],
@@ -909,8 +909,8 @@
  {
   "id": "s2034:00e76",
   "jp": "ル、ルルゥ！？　どうしたんだ。\nいきなり壁を殴るなんて……壁が\nちょっと壊れたぞ。",
-  "en": "",
-  "status": "todo",
+  "en": "R-Ruru!? What's wrong? Punching the wall\nout of nowhere... The wall's a little broken\nnow.",
+  "status": "done",
   "slots": [
    "0x3080"
   ],
@@ -920,8 +920,8 @@
  {
   "id": "s2034:00ecb",
   "jp": "「チッ、食料もねぇのかよ！\nこの甲斐性なしが！」\nってことなんじゃないですか？",
-  "en": "",
-  "status": "todo",
+  "en": "I think she means, \"Tch, you don't even have\nfood!? You useless man!\"",
+  "status": "done",
   "slots": [
    "0x30b5"
   ],
@@ -931,8 +931,8 @@
  {
   "id": "s2034:00f1c",
   "jp": "そ、そうなのか！？\nはあぁ俺はなんて不甲斐ない男\nなんだ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Is that so!? Aaah, what a pathetic man I\nam...!",
+  "status": "done",
   "slots": [
    "0x30ce"
   ],
@@ -942,8 +942,8 @@
  {
   "id": "s2034:00f5d",
   "jp": "大量のウィル残滓を含む鉱物を獲得\nこれより補給を開始します。",
-  "en": "",
-  "status": "todo",
+  "en": "Mineral containing large amounts of residual\nWill acquired. Commencing replenishment.",
+  "status": "done",
   "slots": [
    "0x30f5"
   ],
@@ -953,8 +953,8 @@
  {
   "id": "s2034:00f9d",
   "jp": "ガブ！　ゴリ……ゴリ……！",
-  "en": "",
-  "status": "todo",
+  "en": "*CHOMP!* Crunch... crunch...!",
+  "status": "done",
   "slots": [
    "0x310a"
   ],
@@ -964,8 +964,8 @@
  {
   "id": "s2034:00fbc",
   "jp": "壁を……喰ってる……。",
-  "en": "",
-  "status": "todo",
+  "en": "She's... eating the wall...",
+  "status": "done",
   "slots": [
    "0x3120"
   ],
@@ -975,8 +975,8 @@
  {
   "id": "s2034:00fd7",
   "jp": "……そ、育ち盛り、なのかな？",
-  "en": "",
-  "status": "todo",
+  "en": "...M-maybe she's just a growing girl?",
+  "status": "done",
   "slots": [
    "0x3136"
   ],
@@ -986,8 +986,8 @@
  {
   "id": "s2034:00ff8",
   "jp": "兄貴、現実から逃げちゃダメです。",
-  "en": "",
-  "status": "todo",
+  "en": "Boss, you can't run away from reality.",
+  "status": "done",
   "slots": [
    "0x314c"
   ],
@@ -997,8 +997,8 @@
  {
   "id": "s2034:0101d",
   "jp": "モグモグ……。",
-  "en": "",
-  "status": "todo",
+  "en": "*munch munch*...",
+  "status": "done",
   "slots": [
    "0x3170"
   ],
@@ -1008,8 +1008,8 @@
  {
   "id": "s2034:01030",
   "jp": "って！\nツッコまんかーーーーーー\nーーーーーーーーーーーい！！！",
-  "en": "",
-  "status": "todo",
+  "en": "Hey! Somebody react to\nthaaaaaaaaaaaaaaaaaaaaaat!!!",
+  "status": "done",
   "slots": [
    "0x3190"
   ],
@@ -1019,8 +1019,8 @@
  {
   "id": "s2034:01073",
   "jp": "フニャ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Fnyah!?",
+  "status": "done",
   "slots": [
    "0x31ab"
   ],
@@ -1030,8 +1030,8 @@
  {
   "id": "s2034:01082",
   "jp": "エ、エリーシャ。\nどうしたんだ、そんな大声出して。",
-  "en": "",
-  "status": "todo",
+  "en": "E-Elisha. What's with all the yelling?",
+  "status": "done",
   "slots": [
    "0x31e0"
   ],
@@ -1041,8 +1041,8 @@
  {
   "id": "s2034:010b8",
   "jp": "いやいやいや！　ちょっとは\nおかしいと思いなさいよ！",
-  "en": "",
-  "status": "todo",
+  "en": "No no no! You should think that's at least a\nlittle weird!",
+  "status": "done",
   "slots": [
    "0x31f9"
   ],
@@ -1052,8 +1052,8 @@
  {
   "id": "s2034:010f0",
   "jp": "いやぁ、あまりに衝撃過ぎて……。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, it was just too much of a shock...",
+  "status": "done",
   "slots": [
    "0x322b"
   ],
@@ -1063,8 +1063,8 @@
  {
   "id": "s2034:01115",
   "jp": "よし！　エネルギー回復！\n三人とも、行くよッ！\n早くしないとクリスタルが！",
-  "en": "",
-  "status": "todo",
+  "en": "Okay! Energy restored! Come on, you three!\nIf we don't hurry, the Crystal...!",
+  "status": "done",
   "slots": [
    "0x3244"
   ],
@@ -1074,8 +1074,8 @@
  {
   "id": "s2034:01162",
   "jp": "お、おう！",
-  "en": "",
-  "status": "todo",
+  "en": "R-right!",
+  "status": "done",
   "slots": [
    "0x325d"
   ],
@@ -1085,8 +1085,8 @@
  {
   "id": "s2034:01171",
   "jp": "え？　いいの？\nちょ、ちょっとぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? We're fine with this? H-hey, wait up!",
+  "status": "done",
   "slots": [
    "0x3276"
   ],
@@ -1096,8 +1096,8 @@
  {
   "id": "s2034:01198",
   "jp": "ちょッ！　こ、これはぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wha! Th-this is...!",
+  "status": "done",
   "slots": [
    "0x2012"
   ],
@@ -1106,8 +1106,8 @@
  {
   "id": "s2034:011b1",
   "jp": "金貨じゃねぇか！\nうわぁ初めて見た！　すっげぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "It's a gold coin! Whoa, first time I've seen\none! Amazing!",
+  "status": "done",
   "slots": [
    "0x205d"
   ],
@@ -1116,8 +1116,8 @@
  {
   "id": "s2034:011e1",
   "jp": "おぉ、コレは！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, what's this!",
+  "status": "done",
   "slots": [
    "0x20a9"
   ],
@@ -1126,8 +1126,8 @@
  {
   "id": "s2034:011f0",
   "jp": "金貨じゃないですか！\nいやぁ、海賊始めて\n初めてのお宝ですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "A gold coin! My, my, our first treasure since\nwe started pirating.",
+  "status": "done",
   "slots": [
    "0x20f4"
   ],
@@ -1136,8 +1136,8 @@
  {
   "id": "s2034:0122d",
   "jp": "あ、金貨だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, a gold coin.",
+  "status": "done",
   "slots": [
    "0x2140"
   ],
@@ -1146,8 +1146,8 @@
  {
   "id": "s2034:0123a",
   "jp": "うーん、遺跡の欠片だったら\n嬉しかったんだけどなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, I would've been happier with a piece\nof the ruins.",
+  "status": "done",
   "slots": [
    "0x218b"
   ],
@@ -1156,8 +1156,8 @@
  {
   "id": "s2034:0126e",
   "jp": "あら、金貨じゃない。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, a gold coin.",
+  "status": "done",
   "slots": [
    "0x21d7"
   ],
@@ -1166,8 +1166,8 @@
  {
   "id": "s2034:01283",
   "jp": "一枚だけだけど、ここにあるって\nことは、価値が高いのかしら。\nまぁ、とっておきましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "It's just one, but if it's here, maybe it's\nworth a lot. Well, let's hang on to it.",
+  "status": "done",
   "slots": [
    "0x2222"
   ],
@@ -1176,8 +1176,8 @@
  {
   "id": "s2034:01309t",
   "jp": "イシュト海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut Pirates",
+  "status": "done",
   "at": "0x130c",
   "max": 14,
   "who": "team name"
@@ -1185,8 +1185,8 @@
  {
   "id": "s2034:01382t",
   "jp": "ベルガス海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas Pirates",
+  "status": "done",
   "at": "0x1385",
   "max": 14,
   "who": "team name"

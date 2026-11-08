@@ -1322,8 +1322,8 @@
  {
   "id": "s2075:01a32",
   "jp": "キュキュキュー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyu kyu kyuuu!",
+  "status": "done",
   "slots": [
    "0x24c5"
   ],

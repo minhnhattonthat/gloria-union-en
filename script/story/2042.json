@@ -13,8 +13,8 @@
  {
   "id": "s2042:0004b",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x1dd4"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2042:00566",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x389b"
   ],

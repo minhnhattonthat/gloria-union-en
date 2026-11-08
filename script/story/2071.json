@@ -277,8 +277,8 @@
  {
   "id": "s2071:004d3",
   "jp": "……はい。",
-  "en": "",
-  "status": "todo",
+  "en": "...Okay.",
+  "status": "done",
   "slots": [
    "0x25e1"
   ],
@@ -1034,8 +1034,8 @@
  {
   "id": "s2071:0123b",
   "jp": "お前は……！",
-  "en": "",
-  "status": "todo",
+  "en": "You...!",
+  "status": "done",
   "slots": [
    "0x515b"
   ],

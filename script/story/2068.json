@@ -13,8 +13,8 @@
  {
   "id": "s2068:0004d",
   "jp": "こ、こいつぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-whoa, this is...",
+  "status": "done",
   "slots": [
    "0x38fe"
   ],
@@ -1158,8 +1158,8 @@
  {
   "id": "s2068:015ca",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x73e2"
   ],

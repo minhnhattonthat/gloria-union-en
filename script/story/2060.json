@@ -1445,8 +1445,8 @@
  {
   "id": "s2060:016fe",
   "jp": "おう！",
-  "en": "",
-  "status": "todo",
+  "en": "You got it!",
+  "status": "done",
   "slots": [
    "0x3bf4"
   ],

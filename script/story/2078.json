@@ -233,8 +233,8 @@
  {
   "id": "s2078:002eb",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x1586"
   ],
@@ -916,8 +916,8 @@
  {
   "id": "s2078:00e08",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x305f"
   ],

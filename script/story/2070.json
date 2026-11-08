@@ -134,8 +134,8 @@
  {
   "id": "s2070:00245",
   "jp": "ええぇ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaat!?",
+  "status": "done",
   "slots": [
    "0x1876"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2070:0071a",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x20f3"
   ],

@@ -321,8 +321,8 @@
  {
   "id": "s2062:0053d",
   "jp": "イシュト、どうするの？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, what will you do?",
+  "status": "done",
   "slots": [
    "0x3812"
   ],
@@ -827,8 +827,8 @@
  {
   "id": "s2062:00d98",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x7de9"
   ],
@@ -1869,8 +1869,8 @@
  {
   "id": "s2062:0205c",
   "jp": "これって……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x50ca"
   ],

@@ -2,8 +2,8 @@
  {
   "id": "s2037:00028",
   "jp": "あら？　随分と賑やかねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? It's awfully lively in here.",
+  "status": "done",
   "slots": [
    "0xa8f"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2037:00047",
   "jp": "お前は……！",
-  "en": "",
-  "status": "todo",
+  "en": "You...!",
+  "status": "done",
   "slots": [
    "0xc9d"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2037:00058",
   "jp": "あら？　アナタ達。\n脱走しちゃったの？\nフフ、いけない人達ね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh? You lot broke out? Hehe, what naughty\npeople.",
+  "status": "done",
   "slots": [
    "0xcb6"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2037:00099",
   "jp": "悪いけど、もう一度牢屋に入って\nもらうわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Sorry, but I'll need you to go back into your\ncells.",
+  "status": "done",
   "slots": [
    "0xcbd"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2037:000c9",
   "jp": "また捕まるのは嫌だよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I don't want to get caught again!",
+  "status": "done",
   "slots": [
    "0xcd6"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2037:000e4",
   "jp": "エリーシャの親父さんを\n助けなきゃならないし、\n逃げるわけにはいかないな。",
-  "en": "",
-  "status": "todo",
+  "en": "We've got to rescue Elisha's old man, so we\ncan't run away.",
+  "status": "done",
   "slots": [
    "0xcef"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2037:00131",
   "jp": "急ぐわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Let's hurry!",
+  "status": "done",
   "slots": [
    "0xd08"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2037:00140",
   "jp": "と言っても、\n脱獄の後処理は契約外なのよねぇ。\n下っ端にでもまかせるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Then again, cleaning up after a jailbreak\nisn't in my contract. I'll leave it to the\ngrunts.",
+  "status": "done",
   "slots": [
    "0xd21"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2037:0018b",
   "jp": "せいぜい、また捕まらないことね。\nバイバァイ。",
-  "en": "",
-  "status": "todo",
+  "en": "Try not to get caught again. Bye-byeee.",
+  "status": "done",
   "slots": [
    "0xd28"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2037:001bd",
   "jp": "なにこの鍵！　特殊すぎて鍵開け\nなんて出来ないわ！",
-  "en": "",
-  "status": "todo",
+  "en": "What is this lock!? It's too special to pick!",
+  "status": "done",
   "slots": [
    "0x11f9"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2037:001f3",
   "jp": "ほあああぁ！　またやり直しかよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hwaaaah! We have to start over again!?",
+  "status": "done",
   "slots": [
    "0x1213"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2037:00218",
   "jp": "ん……よし、開いたわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Mm... There, it's open!",
+  "status": "done",
   "slots": [
    "0x1b23"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2037:00233",
   "jp": "エリーシャの親父だからなぁ。\nどんな人なんだろうな。",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha's dad, huh? Wonder what kind of guy\nhe is.",
+  "status": "done",
   "slots": [
    "0x1b69"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2037:0026b",
   "jp": "エリーシャに似てカッコいい人\nなんじゃないの？",
-  "en": "",
-  "status": "todo",
+  "en": "Maybe he's cool, like Elisha?",
+  "status": "done",
   "slots": [
    "0x1b91"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2037:0029d",
   "jp": "そうゆうもんですかねぇ？",
-  "en": "",
-  "status": "todo",
+  "en": "Is that how it works?",
+  "status": "done",
   "slots": [
    "0x1bab"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2037:002ba",
   "jp": "おいおい、そんなに期待されると\n出にくいじゃねぇか。",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, hey, with expectations like that, it's\nhard to make an entrance.",
+  "status": "done",
   "slots": [
    "0x1bc0"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2037:002f2",
   "jp": "ハイハイ、愚痴ってないで、\n協力しなさいよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, yes, quit grumbling and help us.",
+  "status": "done",
   "slots": [
    "0x1bfa"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2037:00322",
   "jp": "これが、エリーシャのお父さん？",
-  "en": "",
-  "status": "todo",
+  "en": "This is Elisha's father?",
+  "status": "done",
   "slots": [
    "0x1c14"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2037:00345",
   "jp": "デケェ……。",
-  "en": "",
-  "status": "todo",
+  "en": "He's huge...",
+  "status": "done",
   "slots": [
    "0x1c3c"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2037:00356",
   "jp": "ほぉ、お前らが……そうか。\nユーフォリアの鍵。羅針盤……。\nこれで奴らに一泡吹かせられるな。",
-  "en": "",
-  "status": "todo",
+  "en": "Hoh, so you're the ones... I see. The Key of\nEuforia. The compass... Now we can give\nthose guys a nasty surprise.",
+  "status": "done",
   "slots": [
    "0x1d38"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2037:003b5",
   "jp": "ん？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm?",
+  "status": "done",
   "slots": [
    "0x1d52"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2037:003be",
   "jp": "ん？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm?",
+  "status": "done",
   "slots": [
    "0x1d88"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2037:003c7",
   "jp": "なんでもねぇよ。\n俺が、グロリア海賊団船長\nザザーランドだ。よろしくな。",
-  "en": "",
-  "status": "todo",
+  "en": "Never mind. I'm the captain of the Gloria\nPirates, Zazarland. Nice to meet ya.",
+  "status": "done",
   "slots": [
    "0x1da2"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2037:00412",
   "jp": "どうよ親父！\n見事仲間にしてみせたわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "How about that, Dad! I got them to join us,\njust like you wanted!",
+  "status": "done",
   "slots": [
    "0x1dbc"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2037:0043e",
   "jp": "そうみたいだな。\n偉いぞぉエリーシャ。\nこれで俺が働く手間が省けた。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like it. Good job, Elisha. Saves me the\ntrouble of working.",
+  "status": "done",
   "slots": [
    "0x1dd6"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2037:00485",
   "jp": "そういえば、ザザーランドは\nどうして黒い牙に捕まってたんだ？",
-  "en": "",
-  "status": "todo",
+  "en": "Come to think of it, Zazarland, how did the\nBlack Fang catch you?",
+  "status": "done",
   "slots": [
    "0x1dfe"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2037:004c5",
   "jp": "それは、奴らが仕組んだ\n巧妙な罠がだなぁ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, that was an ingenious trap they set...",
+  "status": "done",
   "slots": [
    "0x1e18"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2037:004f7",
   "jp": "宴終わりに飲んだくれてた所を\n攫われただけでしょうが。",
-  "en": "",
-  "status": "todo",
+  "en": "You just got kidnapped while you were dead\ndrunk at the end of a party.",
+  "status": "done",
   "slots": [
    "0x1e32"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2037:00531",
   "jp": "え、ダサ。",
-  "en": "",
-  "status": "todo",
+  "en": "Wow, lame.",
+  "status": "done",
   "slots": [
    "0x1e4c"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2037:00540",
   "jp": "宴の最中に襲うのは海賊の流儀に\n反するんだ！\n黒い牙はそれがわかってねぇんだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Attacking in the middle of a party goes\nagainst the pirate code! The Black Fang just\ndoesn't get it!",
+  "status": "done",
   "slots": [
    "0x1e66"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2037:00591",
   "jp": "っていうかさぁ。\nコレぐらいの檻なら、\nさっさと脱出できたんじゃないの？",
-  "en": "",
-  "status": "todo",
+  "en": "And anyway, couldn't you have broken out of\na cage like this ages ago?",
+  "status": "done",
   "slots": [
    "0x1e8e"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2037:005dc",
   "jp": "黒い牙の狙いは俺達と同じだろ？",
-  "en": "",
-  "status": "todo",
+  "en": "The Black Fang's after the same thing we\nare, right?",
+  "status": "done",
   "slots": [
    "0x1ea8"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2037:005ff",
   "jp": "だったら、黒い牙が奪った奴を\n俺が奪えばいいんじゃね？\nって考えたわけだ！　名案だろ？",
-  "en": "",
-  "status": "todo",
+  "en": "So why not let the Black Fang steal it, then\nsteal it from them? That's what I figured!\nBrilliant, huh?",
+  "status": "done",
   "slots": [
    "0x1eaf"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2037:00658",
   "jp": "めんどくさがりなだけじゃない。",
-  "en": "",
-  "status": "todo",
+  "en": "You're just lazy.",
+  "status": "done",
   "slots": [
    "0x1ec9"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2037:0067b",
   "jp": "で、でも、\nあながち間違えてないかも。",
-  "en": "",
-  "status": "todo",
+  "en": "B-but he might not be totally wrong.",
+  "status": "done",
   "slots": [
    "0x1eff"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2037:006a5",
   "jp": "だろ？\n……よし、こんな暗いところでの\n禁酒はもう嫌だ！　脱出するぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "See? ...All right, I'm done going without\nbooze in this dark hole! We're breaking out!",
+  "status": "done",
   "slots": [
    "0x1f19"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2037:006ee",
   "jp": "お、おー！",
-  "en": "",
-  "status": "todo",
+  "en": "Y-yeah!",
+  "status": "done",
   "slots": [
    "0x1f33"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2037:006fd",
   "jp": "あ、あれは、ザザーランド！？",
-  "en": "",
-  "status": "todo",
+  "en": "Th-that's Zazarland!?",
+  "status": "done",
   "slots": [
    "0x210d"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2037:0071e",
   "jp": "チ！\n厄介なのが出てきちゃったわね。\n契約外だけど、今は関係ないわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Tch! What a pain he's turned up. It's not in\nmy contract, but that doesn't matter now.",
+  "status": "done",
   "slots": [
    "0x2117"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2037:00765",
   "jp": "このまま脱獄されて依頼者が\n倒されちゃ堪らないわ！\nザザーランドを集中して狙うのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "If they break out and my client gets beaten,\nI'll be in trouble! Focus everything on\nZazarland!",
+  "status": "done",
   "slots": [
    "0x2121"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2037:02518",
   "jp": "そこを退いてもらうぜ。\nアンヌ・コーマック！",
-  "en": "",
-  "status": "todo",
+  "en": "Out of my way, Anne Cormack!",
+  "status": "done",
   "slots": [
    "0x3a4e"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2037:02548",
   "jp": "ウフフ。い・や・よ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hehehe. No. Way.",
+  "status": "done",
   "slots": [
    "0x3a67"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2037:02561",
   "jp": "いい加減にしないと、\nいくらアタシでも怒っちゃうわよ？",
-  "en": "",
-  "status": "todo",
+  "en": "If you don't knock it off, even I might get\nangry, you know?",
+  "status": "done",
   "slots": [
    "0x3b59"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2037:0259b",
   "jp": "なら、怒らせる前に\n帰らせてもらうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Then we'll go home before you get angry.",
+  "status": "done",
   "slots": [
    "0x3b73"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2037:025c5",
   "jp": "アナタだけでも連れて行かないと、\n契約違反になっちゃうわ。",
-  "en": "",
-  "status": "todo",
+  "en": "If I don't at least bring you back, I'll be in\nbreach of contract.",
+  "status": "done",
   "slots": [
    "0x3c65"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2037:02603",
   "jp": "私はもう捕まんないよ！",
-  "en": "",
-  "status": "todo",
+  "en": "I'm not getting caught again!",
+  "status": "done",
   "slots": [
    "0x3c7f"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2037:0261e",
   "jp": "親父が加わったんだから、\nアンタも終りね。",
-  "en": "",
-  "status": "todo",
+  "en": "Now that Dad's joined in, you're finished.",
+  "status": "done",
   "slots": [
    "0x3d5b"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2037:0264c",
   "jp": "彼は三日間なにも食べていないの。\nそれでも同じ口がきけるかしら？",
-  "en": "",
-  "status": "todo",
+  "en": "He hasn't eaten anything in three days. Will\nyou still be saying that?",
+  "status": "done",
   "slots": [
    "0x3d74"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2037:02690",
   "jp": "な、何よこの強さ！　反則！\n……まぁ報酬分は働いたし\n帰りましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-what is this strength!? That's cheating!\n...Well, I've done enough to earn my pay.\nTime to go home.",
+  "status": "done",
   "slots": [
    "0x3f27"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2037:026d7",
   "jp": "ふぃー。まぁ、こんなもんかね。",
-  "en": "",
-  "status": "todo",
+  "en": "Phew. Well, that about does it.",
+  "status": "done",
   "slots": [
    "0x45a8"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2037:026fa",
   "jp": "なによ、いつもより調子が出てる\nじゃない。やっぱり禁酒させるべき\nなのかしら……。",
-  "en": "",
-  "status": "todo",
+  "en": "What, you're in better shape than usual.\nMaybe I really should keep you off the\nbooze...",
+  "status": "done",
   "slots": [
    "0x45c1"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2037:0274f",
   "jp": "それだけは勘弁してくれ！",
-  "en": "",
-  "status": "todo",
+  "en": "Anything but that!",
+  "status": "done",
   "slots": [
    "0x45da"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2037:0276c",
   "jp": "こ、これが、\nグロリア海賊団船長の力……。",
-  "en": "",
-  "status": "todo",
+  "en": "S-so this is the power of the Gloria Pirates'\ncaptain...",
+  "status": "done",
   "slots": [
    "0x45f3"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2037:0279a",
   "jp": "ん？　ハハッ。\n俺の力なんざ、お前の底力には\n劣っちまうよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? Haha. My power's nothing next to what\nyou've got deep down.",
+  "status": "done",
   "slots": [
    "0x460c"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2037:027d9",
   "jp": "いやいや、俺に一振りで五人も\n吹き飛ばすほどの力は……。",
-  "en": "",
-  "status": "todo",
+  "en": "No, no, I don't have the power to send five\nguys flying with one swing...",
+  "status": "done",
   "slots": [
    "0x4625"
   ],
@@ -607,8 +607,8 @@
  {
   "id": "s2037:02815",
   "jp": "フフ、わかってねぇなぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Heh, you don't get it, do ya?",
+  "status": "done",
   "slots": [
    "0x463e"
   ],
@@ -618,8 +618,8 @@
  {
   "id": "s2037:02832",
   "jp": "？",
-  "en": "",
-  "status": "todo",
+  "en": "?",
+  "status": "done",
   "slots": [
    "0x465e"
   ],
@@ -629,8 +629,8 @@
  {
   "id": "s2037:02839",
   "jp": "クリスタルでもありゃあ、\n少しはわかっかもよ？",
-  "en": "",
-  "status": "todo",
+  "en": "If you had a Crystal, maybe you'd\nunderstand a little.",
+  "status": "done",
   "slots": [
    "0x4677"
   ],
@@ -640,8 +640,8 @@
  {
   "id": "s2037:0286b",
   "jp": "？？",
-  "en": "",
-  "status": "todo",
+  "en": "??",
+  "status": "done",
   "slots": [
    "0x46ac"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2037:02874",
   "jp": "ハイハイ。\nアホなことやってないで、\nさっさと出ますよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, yes. Quit fooling around and let's get\nout of here.",
+  "status": "done",
   "slots": [
    "0x46c5"
   ],
@@ -662,8 +662,8 @@
  {
   "id": "s2037:028af",
   "jp": "はぁ……はぁ……。\nうぅ、お腹減ったよぉ。",
-  "en": "",
-  "status": "todo",
+  "en": "*pant*... *pant*... Ugh, I'm hungry...",
+  "status": "done",
   "slots": [
    "0x46de"
   ],
@@ -673,8 +673,8 @@
  {
   "id": "s2037:028dd",
   "jp": "えぇー！　ここでか。",
-  "en": "",
-  "status": "todo",
+  "en": "Whaaat! Here!?",
+  "status": "done",
   "slots": [
    "0x4705"
   ],
@@ -684,8 +684,8 @@
  {
   "id": "s2037:028f6",
   "jp": "案外燃費悪いのね、この子。",
-  "en": "",
-  "status": "todo",
+  "en": "She burns through fuel faster than I\nthought.",
+  "status": "done",
   "slots": [
    "0x471e"
   ],
@@ -695,8 +695,8 @@
  {
   "id": "s2037:02915",
   "jp": "ほら、これでも食いな。\n遺跡から採れた鉱物だ。",
-  "en": "",
-  "status": "todo",
+  "en": "Here, eat this. It's a mineral from the ruins.",
+  "status": "done",
   "slots": [
    "0x4753"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "s2037:02947",
   "jp": "あ、ありがとう。親父さん。",
-  "en": "",
-  "status": "todo",
+  "en": "Th-thank you, Mister.",
+  "status": "done",
   "slots": [
    "0x476c"
   ],
@@ -717,8 +717,8 @@
  {
   "id": "s2037:02966",
   "jp": "ハッハ、どういたしまして。",
-  "en": "",
-  "status": "todo",
+  "en": "Hahah, you're welcome.",
+  "status": "done",
   "slots": [
    "0x4785"
   ],
@@ -728,8 +728,8 @@
  {
   "id": "s2037:02985",
   "jp": "……ん？　コイツ、なんでルルゥの\n特殊な食生活を知ってんだ……？",
-  "en": "",
-  "status": "todo",
+  "en": "...Hm? How does this guy know about Ruru's\nspecial diet...?",
+  "status": "done",
   "slots": [
    "0x47ba"
   ],
@@ -739,8 +739,8 @@
  {
   "id": "s2037:029c9",
   "jp": "コラーーーーーーーーーー！！\n貴重な鉱物を食べるとは、\n何たることだ！！",
-  "en": "",
-  "status": "todo",
+  "en": "HEEEEEEEEEEEY!! Eating precious minerals!\nWhat is the meaning of this!!",
+  "status": "done",
   "slots": [
    "0x47d9"
   ],
@@ -750,8 +750,8 @@
  {
   "id": "s2037:02a14",
   "jp": "わあぁぁ！　人が考え事してんのに\n怒鳴るんじゃねぇよ！　誰だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Waaah! Don't yell when a guy's trying to\nthink! Who are you!?",
+  "status": "done",
   "slots": [
    "0x488b"
   ],
@@ -761,8 +761,8 @@
  {
   "id": "s2037:02a56",
   "jp": "で？　\nあたし達に怒鳴ったあんたは何者？",
-  "en": "",
-  "status": "todo",
+  "en": "So? And who are you to go yelling at us?",
+  "status": "done",
   "slots": [
    "0x48a4"
   ],
@@ -772,8 +772,8 @@
  {
   "id": "s2037:02a82",
   "jp": "フン！　マナーも守らん輩に\n名乗る名はない！\n貴様等こそ何者だ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hmph! I have no name to give to riffraff\nwith no manners! Who are YOU people!?",
+  "status": "done",
   "slots": [
    "0x48d9"
   ],
@@ -783,8 +783,8 @@
  {
   "id": "s2037:02ac5",
   "jp": "人の名を聞くときは、\nまず自分からだとは思わんかね。",
-  "en": "",
-  "status": "todo",
+  "en": "When asking someone's name, don't you\nthink you should give your own first?",
+  "status": "done",
   "slots": [
    "0x48f2"
   ],
@@ -794,8 +794,8 @@
  {
   "id": "s2037:02afd",
   "jp": "ミネソタ・グレイだ。\n考古学者をしている。",
-  "en": "",
-  "status": "todo",
+  "en": "I am Minesota Gray. I am an archaeologist.",
+  "status": "done",
   "slots": [
    "0x490b"
   ],
@@ -805,8 +805,8 @@
  {
   "id": "s2037:02b2b",
   "jp": "遺跡の探索中にこんな所に\n迷い込んでしまった。\nここはどこだ。",
-  "en": "",
-  "status": "todo",
+  "en": "While exploring the ruins, I wandered into\nthis place. Where am I?",
+  "status": "done",
   "slots": [
    "0x4912"
   ],
@@ -816,8 +816,8 @@
  {
   "id": "s2037:02b6c",
   "jp": "なるほど、あんたはバカだ。",
-  "en": "",
-  "status": "todo",
+  "en": "I see. You're an idiot.",
+  "status": "done",
   "slots": [
    "0x4947"
   ],
@@ -827,8 +827,8 @@
  {
   "id": "s2037:02b8b",
   "jp": "バカじゃない考古学者だ！\n初対面の年上に暴言とは……\n成敗してくれる！",
-  "en": "",
-  "status": "todo",
+  "en": "I am not an idiot, I am an archaeologist!\nInsulting your elder on first meeting... I shall\npunish you!",
+  "status": "done",
   "slots": [
    "0x4960"
   ],
@@ -838,8 +838,8 @@
  {
   "id": "s2037:02bd4",
   "jp": "きゃあぁ！　スゴイ形相！\nなにこの化物！",
-  "en": "",
-  "status": "todo",
+  "en": "Eeeek! Look at that face! What is this\nmonster!?",
+  "status": "done",
   "slots": [
    "0x4979"
   ],
@@ -849,8 +849,8 @@
  {
   "id": "s2037:02c00",
   "jp": "怒りは力、か。\n怖いねぇまったく！",
-  "en": "",
-  "status": "todo",
+  "en": "Anger is strength, eh? Scary stuff!",
+  "status": "done",
   "slots": [
    "0x4992"
   ],
@@ -860,8 +860,8 @@
  {
   "id": "s2037:02c28",
   "jp": "なんだこれ？　とっくり？",
-  "en": "",
-  "status": "todo",
+  "en": "What's this? A sake flask?",
+  "status": "done",
   "slots": [
    "0x3361",
    "0x55ff"
@@ -871,8 +871,8 @@
  {
   "id": "s2037:02c41",
   "jp": "この中に入ってるってことは……\nザザーランドのか？",
-  "en": "",
-  "status": "todo",
+  "en": "If it's in here... is it Zazarland's?",
+  "status": "done",
   "slots": [
    "0x33ac",
    "0x564a"
@@ -882,8 +882,8 @@
  {
   "id": "s2037:02c73",
   "jp": "ん？　なんですかぁこれ？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? What's thiiis?",
+  "status": "done",
   "slots": [
    "0x33f8",
    "0x5696"
@@ -893,8 +893,8 @@
  {
   "id": "s2037:02c8c",
   "jp": "金色のとっくり？\nお酒もない牢獄に\nなんでこんなものが……。",
-  "en": "",
-  "status": "todo",
+  "en": "A golden sake flask? Why would there be\none in a prison with no booze...",
+  "status": "done",
   "slots": [
    "0x3443",
    "0x56e1"
@@ -904,8 +904,8 @@
  {
   "id": "s2037:02cc7",
   "jp": "あれ？　何か落ちてる……。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Something's lying here...",
+  "status": "done",
   "slots": [
    "0x3496",
    "0x5734"
@@ -915,8 +915,8 @@
  {
   "id": "s2037:02ce2",
   "jp": "お酒臭い……もぉ、誰の？",
-  "en": "",
-  "status": "todo",
+  "en": "It smells like booze... Geez, whose is it?",
+  "status": "done",
   "slots": [
    "0x34ec",
    "0x578a"
@@ -926,8 +926,8 @@
  {
   "id": "s2037:02cfb",
   "jp": "あれ！？　これ、親父のじゃない？",
-  "en": "",
-  "status": "todo",
+  "en": "What!? Isn't this Dad's?",
+  "status": "done",
   "slots": [
    "0x353f",
    "0x57dd"
@@ -937,8 +937,8 @@
  {
   "id": "s2037:02d1c",
   "jp": "あぁそっか、攫われた時に\n持ちっぱなしだったのね。\n……ハァ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, right, he must've had it on him when he\ngot kidnapped. ...*sigh*",
+  "status": "done",
   "slots": [
    "0x358a",
    "0x5828"
@@ -948,8 +948,8 @@
  {
   "id": "s2037:02d59",
   "jp": "おぉ！　こいつは……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh! Is this...!",
+  "status": "done",
   "slots": [
    "0x35d6",
    "0x5874"
@@ -959,8 +959,8 @@
  {
   "id": "s2037:02d70",
   "jp": "俺専用とっくりじゃあねぇか！\nこんな所にあったのか……おぉー\nおかえり、マイとっくりちゅわん！",
-  "en": "",
-  "status": "todo",
+  "en": "My very own sake flask! So this is where you\nwere... Ooh, welcome home, my wittle\nflasky-wasky!",
+  "status": "done",
   "slots": [
    "0x3621",
    "0x58bf"
@@ -970,8 +970,8 @@
  {
   "id": "s2037:02dcd",
   "jp": "あ？　なんだこりゃ？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? What's this?",
+  "status": "done",
   "slots": [
    "0xebc",
    "0x36bd",
@@ -982,8 +982,8 @@
  {
   "id": "s2037:02de2",
   "jp": "何に使う布なんだろうな……。",
-  "en": "",
-  "status": "todo",
+  "en": "Wonder what this cloth is for...",
+  "status": "done",
   "slots": [
    "0xf07",
    "0x3708",
@@ -994,8 +994,8 @@
  {
   "id": "s2037:02dff",
   "jp": "あれ？　これどこかで……。",
-  "en": "",
-  "status": "todo",
+  "en": "Huh? Haven't I seen this somewhere...",
+  "status": "done",
   "slots": [
    "0xf5a",
    "0x375b",
@@ -1006,8 +1006,8 @@
  {
   "id": "s2037:02e1a",
   "jp": "あぁ、前に兄貴に試そうとした\nやつだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, it's the one I was going to try on the\nBoss before.",
+  "status": "done",
   "slots": [
    "0xfb0",
    "0x37b1",
@@ -1018,8 +1018,8 @@
  {
   "id": "s2037:02e40",
   "jp": "なんだろうこれ？",
-  "en": "",
-  "status": "todo",
+  "en": "What's this?",
+  "status": "done",
   "slots": [
    "0x1003",
    "0x3804",
@@ -1030,8 +1030,8 @@
  {
   "id": "s2037:02e51",
   "jp": "布？　何に使う布？\nあ、包帯かな？",
-  "en": "",
-  "status": "todo",
+  "en": "A cloth? What's it for? Oh, a bandage?",
+  "status": "done",
   "slots": [
    "0x104e",
    "0x384f",
@@ -1042,8 +1042,8 @@
  {
   "id": "s2037:02e73",
   "jp": "これって……。",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x109a",
    "0x389b",
@@ -1054,8 +1054,8 @@
  {
   "id": "s2037:02e82",
   "jp": "目隠し用の布。\nここまで汚れてるってことは……\n手馴れてるわけね。チッ。",
-  "en": "",
-  "status": "todo",
+  "en": "A blindfold. If it's this filthy... they must be\nused to this. Tch.",
+  "status": "done",
   "slots": [
    "0x10e5",
    "0x38e6",
@@ -1066,8 +1066,8 @@
  {
   "id": "s2037:02ec9",
   "jp": "やなもん見つけちまったぜ……。",
-  "en": "",
-  "status": "todo",
+  "en": "I found something nasty...",
+  "status": "done",
   "slots": [
    "0x1131",
    "0x3932",
@@ -1078,8 +1078,8 @@
  {
   "id": "s2037:02ee8",
   "jp": "もう攫われるのはこりごりだぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "I've had it with getting kidnapped.",
+  "status": "done",
   "slots": [
    "0x117c",
    "0x397d",
@@ -1090,8 +1090,8 @@
  {
   "id": "s2037:02f07",
   "jp": "こいつは……",
-  "en": "",
-  "status": "todo",
+  "en": "This is...",
+  "status": "done",
   "slots": [
    "0x5cb7"
   ],
@@ -1100,8 +1100,8 @@
  {
   "id": "s2037:02f14",
   "jp": "神様はあまり信じねぇけど……\nもらっておくか。",
-  "en": "",
-  "status": "todo",
+  "en": "I don't really believe in God, but... I'll take\nit.",
+  "status": "done",
   "slots": [
    "0x5d02"
   ],
@@ -1110,8 +1110,8 @@
  {
   "id": "s2037:02f42",
   "jp": "これは……ロザリオですか。",
-  "en": "",
-  "status": "todo",
+  "en": "This is... a rosary?",
+  "status": "done",
   "slots": [
    "0x5d4e"
   ],
@@ -1120,8 +1120,8 @@
  {
   "id": "s2037:02f5d",
   "jp": "神様っているんですかねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "I wonder if God really exists.",
+  "status": "done",
   "slots": [
    "0x5d99"
   ],
@@ -1130,8 +1130,8 @@
  {
   "id": "s2037:02f78",
   "jp": "ロザリオ、神様に祈る道具だよね。",
-  "en": "",
-  "status": "todo",
+  "en": "A rosary is for praying to God, right?",
+  "status": "done",
   "slots": [
    "0x5de5"
   ],
@@ -1140,8 +1140,8 @@
  {
   "id": "s2037:02f99",
   "jp": "神様って、いるのかなぁ？\n私にはわからないや。",
-  "en": "",
-  "status": "todo",
+  "en": "Does God exist, I wonder? I don't know.",
+  "status": "done",
   "slots": [
    "0x5e30"
   ],
@@ -1150,8 +1150,8 @@
  {
   "id": "s2037:02fc7",
   "jp": "ロザリオ……ねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "A rosary, huh...",
+  "status": "done",
   "slots": [
    "0x5e7c"
   ],
@@ -1160,8 +1160,8 @@
  {
   "id": "s2037:02fda",
   "jp": "神様なんているわけないわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "There's no way God exists.",
+  "status": "done",
   "slots": [
    "0x5ec7"
   ],
@@ -1170,8 +1170,8 @@
  {
   "id": "s2037:02ff7",
   "jp": "ずいぶん古いもんだなぁこりゃ。",
-  "en": "",
-  "status": "todo",
+  "en": "This sure is an old one.",
+  "status": "done",
   "slots": [
    "0x5f13"
   ],
@@ -1180,8 +1180,8 @@
  {
   "id": "s2037:03016",
   "jp": "このアジト、元はどっかの国の城\nだったらしい。\nその時のだろうな。",
-  "en": "",
-  "status": "todo",
+  "en": "I hear this hideout used to be some\ncountry's castle. Must be from back then.",
+  "status": "done",
   "slots": [
    "0x5f5e"
   ],
@@ -1190,8 +1190,8 @@
  {
   "id": "s2037:03057",
   "jp": "時の流れは儚いねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "Time sure is fleeting.",
+  "status": "done",
   "slots": [
    "0x5f65"
   ],
@@ -1200,8 +1200,8 @@
  {
   "id": "s2037:04e64",
   "jp": "その体に、\nマナーを叩き込んでやろう！",
-  "en": "",
-  "status": "todo",
+  "en": "I shall beat some manners into you!",
+  "status": "done",
   "slots": [
    "0x604c"
   ],
@@ -1211,8 +1211,8 @@
  {
   "id": "s2037:04e8e",
   "jp": "そんな力で叩きつけられたら、\n死んじゃうだろ！",
-  "en": "",
-  "status": "todo",
+  "en": "If you hit me that hard, I'll die!",
+  "status": "done",
   "slots": [
    "0x6066"
   ],
@@ -1222,8 +1222,8 @@
  {
   "id": "s2037:04ec0",
   "jp": "猫は自由の生き物。\nマナーなんて知らないにゃん。",
-  "en": "",
-  "status": "todo",
+  "en": "Cats are creatures of freedom. We don't\nknow any manners, meow.",
+  "status": "done",
   "slots": [
    "0x6142"
   ],
@@ -1233,8 +1233,8 @@
  {
   "id": "s2037:04ef4",
   "jp": "それは自分に対する挑戦か？\nンハハハ！　受けてたとう！",
-  "en": "",
-  "status": "todo",
+  "en": "Is that a challenge to me? Nhahaha! I\naccept!",
+  "status": "done",
   "slots": [
    "0x615b"
   ],
@@ -1244,8 +1244,8 @@
  {
   "id": "s2037:04f2e",
   "jp": "私の食事を邪魔するとは……。\n許せないよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Interrupting my meal... I won't forgive you!",
+  "status": "done",
   "slots": [
    "0x6237"
   ],
@@ -1453,8 +1453,8 @@
  {
   "id": "s2037:00813t",
   "jp": "イシュト海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut Pirates",
+  "status": "done",
   "at": "0x816",
   "max": 14,
   "who": "team name"

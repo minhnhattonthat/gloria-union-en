@@ -99,14 +99,15 @@ def item_descs(_c={}):
     return _c["d"]
 
 
-def wrap(en, px, font):
-    """Greedy word wrap of each forced line to px."""
+def wrap(en, px, font, cap=999):
+    """Greedy word wrap of each forced line to px and cap characters (codes count as written: shortcut, they are
+    rare in wrapped windows)."""
     import vwf
     out = []
     for para in en.split("\n"):
         cur = ""
         for w in para.split(" "):
-            if cur and vwf.line_px(cur + " " + w, font) > px:
+            if cur and (vwf.line_px(cur + " " + w, font) > px or len(cur) + 1 + len(w) > cap):
                 out.append(cur)
                 cur = w
             else:
@@ -119,7 +120,8 @@ def shipped(entry, en):
     """The English as the build will get it: wrapped to the window when the window has more than one line."""
     b = budget(entry)
     if b and b[1] > 1 and entry["id"] not in item_descs() and "[0A]" not in en:
-        return wrap(en, b[0], b[4])
+        import boxes
+        return wrap(en, b[0], b[4], boxes.cell_cap(b[2]) if b[2].count("/") == 3 else 999)
     return en
 
 
@@ -212,6 +214,7 @@ def problems(entry, en, terms):
     if re.search(VARIABLE + r"(st|nd|rd|th)\b", en):
         out.append('ordinal suffix after a variable (write "No. %d")')
     jp_plain = TOKEN.sub("", jp)
+    en = en.replace("\n", " ")   # merged English is wrapped: a term may span a line break
     for jps, ens, avoid in terms:
         for hon, hon_en in HONORIFICS.items():
             if any(j + hon in jp_plain for j in jps) and not any(e.lower() + hon_en in en.lower() for e in ens):

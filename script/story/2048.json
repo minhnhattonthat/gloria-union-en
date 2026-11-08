@@ -1975,8 +1975,8 @@
  {
   "id": "s2048:06163",
   "jp": "うん！",
-  "en": "",
-  "status": "todo",
+  "en": "Okay!",
+  "status": "done",
   "slots": [
    "0xb3e8"
   ],

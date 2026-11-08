@@ -79,8 +79,8 @@
  {
   "id": "s2065:0017f",
   "jp": "了解！",
-  "en": "",
-  "status": "todo",
+  "en": "Got it!",
+  "status": "done",
   "slots": [
    "0x25b3"
   ],
@@ -1545,8 +1545,8 @@
  {
   "id": "s2065:035e3",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x778b"
   ],
@@ -2007,8 +2007,8 @@
  {
   "id": "s2065:03ec1",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x7d66"
   ],
@@ -2018,8 +2018,8 @@
  {
   "id": "s2065:03eca",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x7d7f"
   ],

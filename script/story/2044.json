@@ -803,8 +803,8 @@
  {
   "id": "s2044:00eae",
   "jp": "なんだろうこれ？",
-  "en": "",
-  "status": "todo",
+  "en": "What's this?",
+  "status": "done",
   "slots": [
    "0x2977",
    "0x53af",

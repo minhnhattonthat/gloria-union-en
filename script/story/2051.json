@@ -101,8 +101,8 @@
  {
   "id": "s2051:00195",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x1979"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2051:0083b",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x32ee"
   ],
@@ -738,8 +738,8 @@
  {
   "id": "s2051:00c67",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x38c3"
   ],
@@ -818,8 +818,8 @@
  {
   "id": "s2051:00dce",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x3aa7"
   ],

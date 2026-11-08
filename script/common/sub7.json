@@ -1689,8 +1689,8 @@
  {
   "id": "c7:043bc",
   "jp": "了解！",
-  "en": "",
-  "status": "todo",
+  "en": "Got it!",
+  "status": "done",
   "slots": [
    "0x143a"
   ],
@@ -2780,8 +2780,8 @@
  {
   "id": "c7:05d9a",
   "jp": "おう！",
-  "en": "",
-  "status": "todo",
+  "en": "You got it!",
+  "status": "done",
   "slots": [
    "0x1226"
   ],
@@ -2900,8 +2900,8 @@
  {
   "id": "c7:05fb1",
   "jp": "おう！",
-  "en": "",
-  "status": "todo",
+  "en": "You got it!",
+  "status": "done",
   "slots": [
    "0xc07"
   ],
@@ -3090,8 +3090,8 @@
  {
   "id": "c7:0637d",
   "jp": "おう！",
-  "en": "",
-  "status": "todo",
+  "en": "You got it!",
+  "status": "done",
   "slots": [
    "0x15d0"
   ],

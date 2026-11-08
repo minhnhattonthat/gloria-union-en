@@ -290,8 +290,8 @@
  {
   "id": "s2046:004b1",
   "jp": "なんだとぉ！？",
-  "en": "",
-  "status": "todo",
+  "en": "What was that!?",
+  "status": "done",
   "slots": [
    "0x14ce"
   ],
@@ -427,8 +427,8 @@
  {
   "id": "s2046:006f7",
   "jp": "おう！",
-  "en": "",
-  "status": "todo",
+  "en": "You got it!",
+  "status": "done",
   "slots": [
    "0x2bf0"
   ],

@@ -17,6 +17,12 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   - Ishut: brash, loud, good-hearted; べらんめぇ (ぜ/ねぇ/てめぇ): "ya", "ain't", "damn", short boasts.
   - Pinger: Ishut's henchman, polite (ですよ/ますね) but dry and snarky; calls Ishut 兄貴 = "Boss".
   - Velgas: Ishut's old rival from the same hometown, rough bounty hunter, swaggering.
+  - Ruru: sweet, simple girl ("Okay!", "Ishut!"); switches to a stilted machine voice for scans and refuelling
+    ("High-energy reading from...", "Commencing replenishment.").
+  - Elisha: sharp-tongued, bossy, "Dad" for 親父; Zazarland: big, lazy, jovial drinker, "ya".
+  - Anne Cormack: sultry, teasing (ウフフ -> "Hehehe", "dear", "naughty"). Blackmore: drawling, cynical, money.
+  - Locomoco: small child Witch, third person ("Locomoco's nice!"), tantrums. Minesota: pompous scholar,
+    formal ("I shall punish you!").
 - Groups suffixes on unit names: 〜団 (a crew/gang) -> "<Name> Crew"; 〜隊 (a squad) -> "<Name> Unit".
 - Katakana doubles of kanji unit names (コウコク兵 = 皇国兵) are the same word: translate them the same or as a
   plural.
@@ -31,7 +37,7 @@ Spellings below are official: the game's own name plates (ids 1534-1580, crests 
 | ルルゥ | Ruru | | Mk-2 form: Ruru Mk-II | Lulu |
 | ザザーランド | Zazarland | | | |
 | エリーシャ | Elisha | | | |
-| ミネソタ・グレイ | Minesota | | one n; surname reading unconfirmed | Minnesota |
+| ミネソタ・グレイ / ミネソタ | Minesota | | one n; full name Minesota Gray (b029) | Minnesota |
 | ロコモコ | Locomoco | | | |
 | ラズベリー | Raspberry | | | |
 | ガング | Gangr | | | Gang |
@@ -89,7 +95,8 @@ Item names fit 134 px of font 2 (~17 letters, EXTRA item page): the item batches
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | クリスタル | Crystal | | what Ishut hunts | |
-| 兄貴 | Boss | | Pinger (and lackeys) to Ishut | Aniki |
+| 兄貴 | Boss / big brother | | Pinger (and lackeys) to Ishut: "Boss"; Velgas's 兄貴(分) Blackmore: "big brother" | Aniki |
+| ウィル | Will | | life/magic energy that Ruru and Locomoco sense; capitalised | |
 | 海ドゼウ | Sea Loach | | | |
 | プロテイモ | Protato | | protein + potato pun | |
 | 賢者の石 | Sage's Stone | | | |

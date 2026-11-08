@@ -473,8 +473,8 @@
  {
   "id": "s2038:00829",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x208c"
   ],
@@ -962,8 +962,8 @@
  {
   "id": "s2038:02dda",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x405e"
   ],
@@ -1006,8 +1006,8 @@
  {
   "id": "s2038:00c52t",
   "jp": "イシュト海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut Pirates",
+  "status": "done",
   "at": "0xc55",
   "max": 14,
   "who": "team name"
@@ -1015,8 +1015,8 @@
  {
   "id": "s2038:00cbbt",
   "jp": "ベルガス海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas Pirates",
+  "status": "done",
   "at": "0xcbe",
   "max": 14,
   "who": "team name"
@@ -1024,8 +1024,8 @@
  {
   "id": "s2038:02ea9t",
   "jp": "イシュト海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut Pirates",
+  "status": "done",
   "at": "0x2eac",
   "max": 14,
   "who": "team name"

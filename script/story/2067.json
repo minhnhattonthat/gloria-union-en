@@ -2254,8 +2254,8 @@
  {
   "id": "s2067:02992",
   "jp": "お？",
-  "en": "",
-  "status": "todo",
+  "en": "Oh?",
+  "status": "done",
   "slots": [
    "0x5586",
    "0xaa5d"

@@ -244,8 +244,8 @@
  {
   "id": "s2049:00477",
   "jp": "おう！",
-  "en": "",
-  "status": "todo",
+  "en": "You got it!",
+  "status": "done",
   "slots": [
    "0x275b"
   ],

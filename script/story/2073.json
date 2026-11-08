@@ -1688,8 +1688,8 @@
  {
   "id": "s2073:06678",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0xade9"
   ],
@@ -1820,8 +1820,8 @@
  {
   "id": "s2073:06837",
   "jp": "ルルゥ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru!?",
+  "status": "done",
   "slots": [
    "0xafce"
   ],

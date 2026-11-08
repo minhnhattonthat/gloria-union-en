@@ -354,8 +354,8 @@
  {
   "id": "s2082:0073d",
   "jp": "うん！",
-  "en": "",
-  "status": "todo",
+  "en": "Okay!",
+  "status": "done",
   "slots": [
    "0xee4"
   ],

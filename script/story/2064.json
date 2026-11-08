@@ -1048,8 +1048,8 @@
  {
   "id": "s2064:013b1",
   "jp": "……。",
-  "en": "",
-  "status": "todo",
+  "en": "......",
+  "status": "done",
   "slots": [
    "0x6538"
   ],
@@ -3113,8 +3113,8 @@
  {
   "id": "s2064:07774t",
   "jp": "ベルガス海賊団",
-  "en": "",
-  "status": "todo",
+  "en": "Velgas Pirates",
+  "status": "done",
   "at": "0x7777",
   "max": 14,
   "who": "team name"

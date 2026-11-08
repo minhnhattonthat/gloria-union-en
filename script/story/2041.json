@@ -145,8 +145,8 @@
  {
   "id": "s2041:00297",
   "jp": "え？",
-  "en": "",
-  "status": "todo",
+  "en": "Huh?",
+  "status": "done",
   "slots": [
    "0x129a"
   ],
