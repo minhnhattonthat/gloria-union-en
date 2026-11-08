@@ -860,7 +860,7 @@
  {
   "id": "e:252d28",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n効力＝１００％",
-  "en": "Power=Own\nTEC+4-Foe GEN\nEffect=100%",
+  "en": "Power=TEC+4-Foe GEN\nEffect=100%",
   "status": "done",
   "slots": [
    "w:2bcc0c"
@@ -878,7 +878,7 @@
  {
   "id": "e:252d7c",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ\n同ターン内ずっと",
-  "en": "Power=Own\nTEC+4-Foe GEN\nFor this whole turn",
+  "en": "Power=TEC+4-Foe GEN\nFor this whole turn",
   "status": "done",
   "slots": [
    "w:2bcc18",
@@ -933,7 +933,7 @@
  {
   "id": "e:252e58",
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ\n成功率＝２５％",
-  "en": "Power=Own\nTEC+2-Foe GEN\nSuccess rate=25%",
+  "en": "Power=TEC+2-Foe GEN\nSuccess rate=25%",
   "status": "done",
   "slots": [
    "w:2bcc48"

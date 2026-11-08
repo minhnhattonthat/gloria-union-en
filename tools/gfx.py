@@ -1245,6 +1245,41 @@ def draw_small_moves(a, t):
 asset("small_moves", 2418, "ptx", 0x229f0, (0, 0, 30, 240), draw_small_moves)
 
 
+# --- EXTRA (file 2430) ------------------------------------------------------------------------------------------------
+
+fixed("ex_buttons", 0x28f00, 320, 32,   # button bar words; rects from the per-page tables 0x2f89ea..0x2f8d0a (icons,
+      # the colon at x 218 and the free x 252-319 stay)
+      [((32, 0, 27, 16), "ex_select", False), ((59, 0, 27, 16), "ex_ok", False), ((86, 0, 80, 16), "ex_to_title", False),
+       ((166, 0, 58, 16), "ex_replay", False), ((241, 0, 57, 16), "ex_play_drama", False),
+       ((32, 16, 69, 16), "ex_switch_view", False), ((101, 16, 58, 16), "ex_play_voice", False),
+       ((160, 16, 58, 16), "ex_play_bgm", False), ((225, 16, 27, 16), "ex_stop", False)], 13, file=2430, pad=0)
+EX_SUBS = [((100, 1, 82, 14), "ex_sub_scenario", (183, 0, 12, 254)),   # x 96-99: the EXTRA logo's rect reaches it ((0, 44, 79, 12), "ex_sub_character", (1, 57, 152, 254)),
+           ((88, 44, 60, 12), "ex_sub_card", (141, 2, 156, 253)), ((0, 57, 70, 13), "ex_sub_item", (2, 108, 81, 253)),
+           ((88, 57, 59, 12), "ex_sub_music", (170, 140, 4, 252)), ((0, 70, 87, 12), "ex_sub_drama", (2, 182, 169, 254))]
+
+
+def draw_ex_menu(a, t):
+    """2430 +30b10: each menu row's subtitle in its own colour (bold italic, light rim; the colours are alpha 252-254,
+    which ink_colours skips) and the locked-page message in black; EXTRA CONTENTS// stays."""
+    rim = (255, 255, 255, 190)
+    out = draw_fixed(a, [((0, 29, 186, 13), t["ex_locked"], False)], 12, pad=0, ink=((2, 2, 2, 254), rim))
+    for r, k, c in EX_SUBS:
+        out = draw_fixed(out, [(r, t[k], False)], 13, face="LiberationSans-BoldItalic.ttf", pad=0, ink=(c, rim))
+    return out
+
+
+asset("ex_menu", 2430, "ptx", 0x30b10, (0, 0, 192, 82), draw_ex_menu)
+TABS = ["tab_info", "tab_data", "tab_heal", "tab_normal", "tab_angry", "tab_happy", "tab_grief", "tab_fierce", "tab_stunned",
+        "tab_surprised", "tab_smile", "tab_dejected", "tab_glare", "tab_awake",   # left column, then the right one
+        "tab_front", "tab_back", "tab_full", "tab_glutton", "tab_hmph", "tab_troubled", "tab_serious", "tab_sad", "tab_wanted",
+        "tab_dead", "tab_pain", "tab_roar", "tab_cyborg"]
+YELLOW = (255, 215, 1, 253)
+fixed("ex_tabs", 0x2e7d0, 96, 182,   # page tab words (item, card, character pictures): yellow, no rim, centred in 34x13
+      # cells (the Japanese is centred in them: the game's rects; not found in the EBOOT)
+      [((34 * (i // 14), 13 * (i % 14), 34, 13), k, False) for i, k in enumerate(TABS)], 11, file=2430, pad=0, stroke=0,
+      center=True, ink=(YELLOW, YELLOW))
+
+
 # --- object list (asset file 1703; rects: EBOOT table 0x2c7374: 0-12 list rows, 14-26 English labels, 27-39 big
 # names; each run in list order) --------------------------------------------------------------------------------------
 

@@ -247,7 +247,7 @@ def problems(entry, en, terms):
     if re.search(VARIABLE + r"(st|nd|rd|th)\b", en):
         out.append('ordinal suffix after a variable (write "No. %d")')
     jp_plain = TOKEN.sub("", jp)
-    en = en.replace("\n", " ")   # merged English is wrapped: a term may span a line break
+    lines_en, en = en, en.replace("\n", " ")   # merged English is wrapped: a term may span a line break
     for jps, ens, avoid in terms:
         for hon, hon_en in HONORIFICS.items():
             if any(j + hon in jp_plain for j in jps) and not any(e.lower() + hon_en in en.lower() for e in ens):
@@ -257,7 +257,7 @@ def problems(entry, en, terms):
         if not any(e.lower() in en.lower() for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
-    return out + width_problems(entry, en)
+    return out + width_problems(entry, lines_en)   # with its forced breaks: one can add a line past the window
 
 
 def failing(ps):

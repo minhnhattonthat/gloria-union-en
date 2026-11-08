@@ -79,6 +79,11 @@ BUDGETS = {
     # and run to the screen edge; list rows are byte-limited (tbl/fmtbuf.tsv), item descriptions wrap by build
     '2/30/14/25': (195, 3, 'measured: extra3/sheet/a.png scenario/card/music/drama/character panels, x 282 to the '
                            'screen edge'),
+    '2/30/14/2': (195, 2, 'measured: s37/mp_sheet.png music panel shows lines 1-2 of 3 (audio drama the same, '
+                          'scenario panel ends below line 2), boxes.ROW_OF'),
+    '2/30/14/1': (185, 1, 'measured: s37/music_play.png list row ("NN " from x 62, the title meets the NOW PLAYING '
+                          'panel at ~x 270; a \\n breaks onto the next row) and the title bar over the panel (~185 px); '
+                          'titles of the 2/30/14/2 tables'),
     # session 7: stage_clear from work/states/stage_clear_fit.ppst + step waits; popups from warp.py --state-at
     '1/11/20/2': (220, 1, 'measured: sc6/z.png War record rows from x ~190 under the label art, its right edge ~410 '
                           '(= 11 cols x 20); one entry per row'),
@@ -245,7 +250,12 @@ def table_classes(seen):
 
 ROWS_FROM_TEXT = ('1/30/19/',)
 # (first slot, last slot, class seen, class meant): a table drawn on one row of a shared window
-ROW_OF = [(0x2ca000, 0x2ca14c, '2/22/14/2', '2/22/14/1')]   # skill effects: line 1 of the card select bottom
+ROW_OF = [(0x2ca000, 0x2ca14c, '2/22/14/2', '2/22/14/1'),   # skill effects: line 1 of the card select bottom
+          # EXTRA scenario (0x2f6d6c, 12-byte rows) and music + audio drama (0x2f8090, 16-byte rows) descriptions:
+          # the same window as the 3-line card/character panels, but those pages show only 2 lines
+          (0x2f6d6c, 0x2f6fff, '2/30/14/25', '2/30/14/2'), (0x2f8090, 0x2f854f, '2/30/14/25', '2/30/14/2'),
+          # ...and their titles (row +4 / +8): one list row ("%02d %s") and the one-line title bar
+          (0x2f6d6c, 0x2f6fff, '2/30/14/2', '2/30/14/1', 0xC, 4), (0x2f8090, 0x2f854f, '2/30/14/2', '2/30/14/1', 0x10, 8)]
 NAMES = (0x2ee82c, 0x2ef27c)   # unit records (full name, short name or 0, team name or 0), 12 bytes; no aliases
 HUD, TEAM = '4/20/12/10', '4/20/12/6'
 
@@ -304,8 +314,9 @@ def budget(entry, _cache={}):
     ks = [k.rsplit('/', 1)[0] + f'/{n}' if k.startswith(ROWS_FROM_TEXT) and k.rsplit('/', 1)[0] + f'/{n}' in BUDGETS
           else k for k in ks]
     slots = [int(s[2:], 16) for s in entry.get('slots') or [] if s.startswith('w:')]
-    for lo, hi, k0, k1 in ROW_OF:
-        if any(lo <= a <= hi for a in slots): ks = [k1 if k == k0 else k for k in ks]
+    for lo, hi, k0, k1, *every in ROW_OF:   # every: (stride, offset) of the slots meant, else the whole range
+        if any(lo <= a <= hi and (not every or (a - lo) % every[0] == every[1]) for a in slots):
+            ks = [k1 if k == k0 else k for k in ks]
     cand = [(BUDGETS[k], k) for k in ks if k in BUDGETS]
     if entry['id'] in _cache['g']: cand.append((GROUPS[_cache['g'][entry['id']]], _cache['g'][entry['id']]))
     best = None

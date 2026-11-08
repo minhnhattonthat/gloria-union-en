@@ -398,3 +398,46 @@ sc_bard	さすらいの吟遊詩人	The Wandering Bard
 sc_rotting_sea	腐海を照らす光	Light Over the Rotting Sea
 sc_rebellion	反皇国の旗印	Banner of Rebellion
 sc_ghost_island	ゴーストアイランド	Ghost Island
+ex_select	選択	Select
+ex_ok	決定	OK
+ex_to_title	タイトルへ戻る	Back to Title
+ex_replay	シーン回想	Scene Replay
+ex_play_drama	ドラマ再生	Play Drama
+ex_switch_view	表示切り替え	Switch View
+ex_play_voice	ボイス再生	Play Voice
+ex_play_bgm	BGM再生	Play BGM
+ex_stop	停止	Stop
+ex_sub_scenario	グロリア航海記	Gloria Chronicle
+ex_locked	閲覧に必要なアイテムがありません	You lack the item needed to view this.
+ex_sub_character	キャライラスト	Character Art
+ex_sub_card	カード事典	Card Index
+ex_sub_item	アイテム図鑑	Item Guide
+ex_sub_music	音楽モード	Music Mode
+ex_sub_drama	オーディオドラマ	Audio Drama
+tab_info	説明	Info
+tab_front	表面	Front
+tab_data	データ	Data
+tab_back	裏面	Back
+tab_heal	回復量	Heal
+tab_full	全身	Full
+tab_normal	通常	Normal
+tab_glutton	悪食	Glutton
+tab_angry	怒り	Angry
+tab_hmph	ムー!	Hmph!
+tab_happy	喜び	Happy
+tab_troubled	困る	Upset
+tab_grief	悲痛	Grief
+tab_serious	本気顔	Serious
+tab_fierce	勇猛	Fierce
+tab_sad	哀しみ	Sad
+tab_stunned	唖然	Stunned
+tab_wanted	手配書	Wanted
+tab_surprised	驚き	Shock
+tab_dead	死亡	Dead
+tab_smile	微笑	Smile
+tab_pain	苦しみ	Pain
+tab_dejected	落胆	Gloom
+tab_roar	咆哮	Roar
+tab_glare	ジト目	Glare
+tab_cyborg	改造	Cyborg
+tab_awake	目覚め	Awake
