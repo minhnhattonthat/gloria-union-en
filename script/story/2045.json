@@ -2,8 +2,8 @@
  {
   "id": "s2045:00028",
   "jp": "ここが……ボルドレーゼ島か。",
-  "en": "",
-  "status": "todo",
+  "en": "So this is... Bordolese Island.",
+  "status": "done",
   "slots": [
    "0x16f4"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2045:00049",
   "jp": "どこを見てもタル、タル、タル。\nタルって言葉の意味がわからなく\nなるぐらいにタルだらけですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Barrels, barrels, barrels everywhere you\nlook. So many barrels that the word \"barrel\"\nis starting to lose all meaning.",
+  "status": "done",
   "slots": [
    "0x170a"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2045:000aa",
   "jp": "ここのどこかに、お宝があるのね？",
-  "en": "",
-  "status": "todo",
+  "en": "So there's treasure somewhere around\nhere?",
+  "status": "done",
   "slots": [
    "0x177d"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2045:000cf",
   "jp": "ボルドレーゼ島の民は、タルに物を\n保管する習わしがあったらしい。",
-  "en": "",
-  "status": "todo",
+  "en": "Seems the people of Bordolese Island had a\ncustom of storin' things in barrels.",
+  "status": "done",
   "slots": [
    "0x1796"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2045:00113",
   "jp": "なるほど、じゃあそのタルの中に\nお宝は眠っているのね？\nって、こんなことしてていいの？",
-  "en": "",
-  "status": "todo",
+  "en": "I see, so the treasure's sleeping in one of\nthose barrels? Wait, should we be doing this\nright now?",
+  "status": "done",
   "slots": [
    "0x17af"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2045:0016c",
   "jp": "このまま行くと金が尽きる。\nクリスタル探しも重要だが、\n金も重要ってことだ。",
-  "en": "",
-  "status": "todo",
+  "en": "Keep goin' like this and we'll run outta\nmoney. Searchin' for Crystals is important,\nbut so's money.",
+  "status": "done",
   "slots": [
    "0x17c5"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2045:001bb",
   "jp": "それなら、早く見つけようぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Then let's hurry up and find it.",
+  "status": "done",
   "slots": [
    "0x17db"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2045:001dc",
   "jp": "どれに入ってるの？",
-  "en": "",
-  "status": "todo",
+  "en": "Which one is it in?",
+  "status": "done",
   "slots": [
    "0x1810"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2045:001f3",
   "jp": "それは知らん",
-  "en": "",
-  "status": "todo",
+  "en": "Beats me.",
+  "status": "done",
   "slots": [
    "0x1829"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2045:00204",
   "jp": "なんともまぁ、無責任な。",
-  "en": "",
-  "status": "todo",
+  "en": "How utterly irresponsible.",
+  "status": "done",
   "slots": [
    "0x1857"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2045:00221",
   "jp": "適当っすねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "That's pretty sloppy, sir.",
+  "status": "done",
   "slots": [
    "0x1883"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2045:00234",
   "jp": "船長ならば、ビシッと決めて\nもらいたいな。",
-  "en": "",
-  "status": "todo",
+  "en": "As captain, I'd like you to make it crisp and\nclear.",
+  "status": "done",
   "slots": [
    "0x18b6"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2045:00262",
   "jp": "おやじ、かっこ悪い。",
-  "en": "",
-  "status": "todo",
+  "en": "Dad, that's lame.",
+  "status": "done",
   "slots": [
    "0x18e9"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2045:0027b",
   "jp": "あーうっせぇな！\n噂程度に聞いたんだから、\nしょうがねぇだろ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahh, shaddap! I only heard it as a rumor, so\nwhaddya want!",
+  "status": "done",
   "slots": [
    "0x1909"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2045:002bc",
   "jp": "どうやら、手当たり次第に探すしか\nなさそうね。",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like we'll just have to search every\none we can get our hands on.",
+  "status": "done",
   "slots": [
    "0x1922"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2045:002ee",
   "jp": "うへ～。この数をかよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ugh. All of these?",
+  "status": "done",
   "slots": [
    "0x1938"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2045:00309",
   "jp": "うっさい！　つべこべ言わずに\nさっさと動く！　撃つわよ！？",
-  "en": "",
-  "status": "todo",
+  "en": "Shut up! Quit griping and get moving! Or I'll\nshoot!",
+  "status": "done",
   "slots": [
    "0x1958"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2045:00347",
   "jp": "わかったよ！　\nこのカルシウム不足！",
-  "en": "",
-  "status": "todo",
+  "en": "Alright, alright! Ya calcium-deficient grump!",
+  "status": "done",
   "slots": [
    "0x1971"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2045:0036f",
   "jp": "よぉっしゃあ！　まずは一個目！",
-  "en": "",
-  "status": "todo",
+  "en": "Alriiight! Number one!",
+  "status": "done",
   "slots": [
    "0x1978"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2045:00392",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x1b08"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2045:0039d",
   "jp": "ぎょええええええええ！！\nな、なんだこいつ！",
-  "en": "",
-  "status": "todo",
+  "en": "GYOEEEEEEEEE!! Wh-what is this thing!?",
+  "status": "done",
   "slots": [
    "0x1b28"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2045:003cd",
   "jp": "恐らく、ボルドレーゼの民だろうな",
-  "en": "",
-  "status": "todo",
+  "en": "Most likely one of the people of Bordolese.",
+  "status": "done",
   "slots": [
    "0x1b43"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2045:003f2",
   "jp": "なるほど、棺桶もタルってわけか。",
-  "en": "",
-  "status": "todo",
+  "en": "I see, so their coffins are barrels too.",
+  "status": "done",
   "slots": [
    "0x1b5c"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2045:00417",
   "jp": "何でも入れればいいってもんでも\nないでしょうに……。",
-  "en": "",
-  "status": "todo",
+  "en": "Just because you can put anything in one\ndoesn't mean you should...",
+  "status": "done",
   "slots": [
    "0x1b75"
   ],
@@ -266,8 +266,8 @@
  {
   "id": "s2045:0044f",
   "jp": "ぎょえええ！　だって、ぷふ。",
-  "en": "",
-  "status": "todo",
+  "en": "\"Gyoeeee!\" Pfft.",
+  "status": "done",
   "slots": [
    "0x1b8e"
   ],
@@ -277,8 +277,8 @@
  {
   "id": "s2045:00470",
   "jp": "笑わないでくれルルゥ、ただでさえ\n心にヒビがはいってるんだから。",
-  "en": "",
-  "status": "todo",
+  "en": "Don't laugh, Ruru. My heart's already\ncracked enough as it is.",
+  "status": "done",
   "slots": [
    "0x1bd1"
   ],
@@ -288,8 +288,8 @@
  {
   "id": "s2045:004b4",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x1bea"
   ],
@@ -299,8 +299,8 @@
  {
   "id": "s2045:004bf",
   "jp": "ケー！　じゃねぇ！　こんの野郎ぉ\nもう一度棺桶に突っ込んでやる！！",
-  "en": "",
-  "status": "todo",
+  "en": "Don't \"Keee!\" me! You bastard, I'm stuffin'\nyou back in your coffin!!",
+  "status": "done",
   "slots": [
    "0x1c03"
   ],
@@ -310,8 +310,8 @@
  {
   "id": "s2045:00505",
   "jp": "なに？　今の奇妙な叫び声は……！",
-  "en": "",
-  "status": "todo",
+  "en": "What? What was that strange scream just\nnow...!",
+  "status": "done",
   "slots": [
    "0x1cf0"
   ],
@@ -321,8 +321,8 @@
  {
   "id": "s2045:0052a",
   "jp": "お宝だと思って開けたら骸骨に\n襲われるし……。",
-  "en": "",
-  "status": "todo",
+  "en": "I open what I think is treasure and get\nattacked by a skeleton...",
+  "status": "done",
   "slots": [
    "0x1d05"
   ],
@@ -332,8 +332,8 @@
  {
   "id": "s2045:0055c",
   "jp": "いくらアタシでも……怖いものは\nあるのよぉ……グスン。",
-  "en": "",
-  "status": "todo",
+  "en": "Even I... have things that scare me... Sniff.",
+  "status": "done",
   "slots": [
    "0x1d0c"
   ],
@@ -343,8 +343,8 @@
  {
   "id": "s2045:00596",
   "jp": "あ！　お前はいつぞやの！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah! You're the one from before!",
+  "status": "done",
   "slots": [
    "0x1d25"
   ],
@@ -354,8 +354,8 @@
  {
   "id": "s2045:005b3",
   "jp": "あら、お久しぶり。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, long time no see.",
+  "status": "done",
   "slots": [
    "0x1d4c"
   ],
@@ -365,8 +365,8 @@
  {
   "id": "s2045:005ca",
   "jp": "あなたもお宝探しですか？",
-  "en": "",
-  "status": "todo",
+  "en": "Are you treasure hunting too?",
+  "status": "done",
   "slots": [
    "0x1d67"
   ],
@@ -376,8 +376,8 @@
  {
   "id": "s2045:005e7",
   "jp": "えぇ。そうよ。でも、骸骨が出て\nきたり、奇妙な叫び声が聞こえたり\nで、正直うんざりしてるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Yes, I am. But with skeletons popping out\nand strange screams echoing around,\nfrankly, I'm fed up.",
+  "status": "done",
   "slots": [
    "0x1d7d"
   ],
@@ -387,8 +387,8 @@
  {
   "id": "s2045:00646",
   "jp": "奇妙な叫び声……フ、フフフ。",
-  "en": "",
-  "status": "todo",
+  "en": "Strange screams... Hu, huhuhu.",
+  "status": "done",
   "slots": [
    "0x1da9"
   ],
@@ -398,8 +398,8 @@
  {
   "id": "s2045:00667",
   "jp": "ルルゥ。思い出し笑いはいいが、\n俺の聞こえないところで笑ってくれ",
-  "en": "",
-  "status": "todo",
+  "en": "Ruru. Laugh about it all you want, but do it\nwhere I can't hear.",
+  "status": "done",
   "slots": [
    "0x1dc2"
   ],
@@ -409,8 +409,8 @@
  {
   "id": "s2045:006ab",
   "jp": "怖いならさっさと出て行けば？\nま、あたし達はお宝もらうけど。",
-  "en": "",
-  "status": "todo",
+  "en": "If you're scared, why not just leave? We'll\nbe taking the treasure, of course.",
+  "status": "done",
   "slots": [
    "0x1dee"
   ],
@@ -420,8 +420,8 @@
  {
   "id": "s2045:006eb",
   "jp": "あ、今の。ちょっとカチーンと\nきちゃったわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, that just now. That really got on my\nnerves, dear.",
+  "status": "done",
   "slots": [
    "0x1e07"
   ],
@@ -431,8 +431,8 @@
  {
   "id": "s2045:0071d",
   "jp": "だったらなんだってのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "So what if it did?",
+  "status": "done",
   "slots": [
    "0x1e25"
   ],
@@ -442,8 +442,8 @@
  {
   "id": "s2045:0073a",
   "jp": "勝負よ！　どちらが先にお宝を\n見つけられるか！",
-  "en": "",
-  "status": "todo",
+  "en": "It's a contest! Whoever finds the treasure\nfirst!",
+  "status": "done",
   "slots": [
    "0x1e3e"
   ],
@@ -453,8 +453,8 @@
  {
   "id": "s2045:0076c",
   "jp": "上等よ！　負けた方は勝った方の\n傘下に入るでいいわね！",
-  "en": "",
-  "status": "todo",
+  "en": "You're on! The loser joins the winner's fleet,\ndeal!?",
+  "status": "done",
   "slots": [
    "0x1e5c"
   ],
@@ -464,8 +464,8 @@
  {
   "id": "s2045:007a6",
   "jp": "お、おいエリーシャそんな勝手に。",
-  "en": "",
-  "status": "todo",
+  "en": "H-hey, Elisha, don't just decide on your\nown...",
+  "status": "done",
   "slots": [
    "0x1e75"
   ],
@@ -475,8 +475,8 @@
  {
   "id": "s2045:007cb",
   "jp": "あ゛ぁん？",
-  "en": "",
-  "status": "todo",
+  "en": "Hah!?",
+  "status": "done",
   "slots": [
    "0x1ea1"
   ],
@@ -486,8 +486,8 @@
  {
   "id": "s2045:007da",
   "jp": "なんでもないです……。",
-  "en": "",
-  "status": "todo",
+  "en": "Nothing, ma'am...",
+  "status": "done",
   "slots": [
    "0x1eba"
   ],
@@ -497,8 +497,8 @@
  {
   "id": "s2045:007f5",
   "jp": "フフ、あのグロリア海賊団がアタシ\nの傘下に……面白いじゃない。\nやってやるわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hehehe, the Gloria Pirates under my flag...\nHow fun. You're on!",
+  "status": "done",
   "slots": [
    "0x1ed3"
   ],
@@ -508,8 +508,8 @@
  {
   "id": "s2045:00846",
   "jp": "後でたっぷり後悔させてあげるわ。",
-  "en": "",
-  "status": "todo",
+  "en": "I'll make you regret this, big time.",
+  "status": "done",
   "slots": [
    "0x1ef1"
   ],
@@ -519,8 +519,8 @@
  {
   "id": "s2045:0086b",
   "jp": "アーッハッハ！　どうやらあたしの\n勝ちのようね！　大人しく傘下に\nなりなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahahaha! Looks like I win! Now come quietly\nand join my fleet!",
+  "status": "done",
   "slots": [
    "0x535e"
   ],
@@ -530,8 +530,8 @@
  {
   "id": "s2045:008bc",
   "jp": "男に二言はないけど、\n女に二言はあるのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "A man never goes back on his word, but a\nwoman sure does!",
+  "status": "done",
   "slots": [
    "0x537b"
   ],
@@ -541,8 +541,8 @@
  {
   "id": "s2045:008ea",
   "jp": "あ！　逃げた！　卑怯者ー！！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah! She ran! You cheaaat!!",
+  "status": "done",
   "slots": [
    "0x5a61"
   ],
@@ -552,8 +552,8 @@
  {
   "id": "s2045:0090b",
   "jp": "……追いますか？",
-  "en": "",
-  "status": "todo",
+  "en": "...Shall we chase her?",
+  "status": "done",
   "slots": [
    "0x5a7a"
   ],
@@ -563,8 +563,8 @@
  {
   "id": "s2045:00920",
   "jp": "アホか。ほっとけ。",
-  "en": "",
-  "status": "todo",
+  "en": "Are you dumb? Let her go.",
+  "status": "done",
   "slots": [
    "0x5a90"
   ],
@@ -574,8 +574,8 @@
  {
   "id": "s2045:00937",
   "jp": "ですよね～。",
-  "en": "",
-  "status": "todo",
+  "en": "Figured as much.",
+  "status": "done",
   "slots": [
    "0x5aa6"
   ],
@@ -585,8 +585,8 @@
  {
   "id": "s2045:00948",
   "jp": "くぅ～、いつかあの傲慢な頭を\n下げさせてやるわ！",
-  "en": "",
-  "status": "todo",
+  "en": "Grrr, someday I'll make her bow that\narrogant head of hers!",
+  "status": "done",
   "slots": [
    "0x5abf"
   ],
@@ -596,8 +596,8 @@
  {
   "id": "s2045:0097c",
   "jp": "私は“海の平和を守る会”の一人。\nアナタの輝く瞳に平和を見ました。\nよってこれを差し上げます！",
-  "en": "",
-  "status": "todo",
+  "en": "I am a member of the \"Society to Protect\nthe Peace of the Seas.\" I saw peace in your\nshining eyes. Therefore, I give you this!",
+  "status": "done",
   "slots": [
    "0x340f"
   ],
@@ -606,8 +606,8 @@
  {
   "id": "s2045:009d9",
   "jp": "平和はいつでも僕らの胸に！\n海の平和を守る会をよろしく！",
-  "en": "",
-  "status": "todo",
+  "en": "Peace is always in our hearts! Please\nsupport the Society to Protect the Peace of\nthe Seas!",
+  "status": "done",
   "slots": [
    "0x3468"
   ],
@@ -616,8 +616,8 @@
  {
   "id": "s2045:00a11",
   "jp": "平和はいつでも僕らの胸に！\n海の平和を守る会をよろしく！",
-  "en": "",
-  "status": "todo",
+  "en": "Peace is always in our hearts! Please\nsupport the Society to Protect the Peace of\nthe Seas!",
+  "status": "done",
   "slots": [
    "0x3480"
   ],
@@ -626,8 +626,8 @@
  {
   "id": "s2045:00a49",
   "jp": "戦闘というのは、何も力だけが\nモノを言うわけではない。",
-  "en": "",
-  "status": "todo",
+  "en": "In battle, power is not the only thing that\ncounts.",
+  "status": "done",
   "slots": [
    "0x3514"
   ],
@@ -636,8 +636,8 @@
  {
   "id": "s2045:00a7f",
   "jp": "戦闘陣形や用兵術を駆使すれば、\n相手がルキア皇国だろうが\n問題なく撃破することができる。",
-  "en": "",
-  "status": "todo",
+  "en": "Make full use of formations and tactics, and\nyou can defeat any foe, even the Lukia\nEmpire.",
+  "status": "done",
   "slots": [
    "0x351b"
   ],
@@ -646,8 +646,8 @@
  {
   "id": "s2045:00ad6",
   "jp": "この本にはそのことが\n事細かに載っている。\n参考にしたまえ。",
-  "en": "",
-  "status": "todo",
+  "en": "This book covers that in great detail. Use it\nfor reference.",
+  "status": "done",
   "slots": [
    "0x3593"
   ],
@@ -656,8 +656,8 @@
  {
   "id": "s2045:00b11",
   "jp": "戦場を蹂躙する猛将もいいが、\n戦場を掻き回す策士というのも\nいいものだろう？",
-  "en": "",
-  "status": "todo",
+  "en": "A fierce general who tramples the\nbattlefield is fine, but a tactician who\nthrows the battlefield into chaos is fine\ntoo, wouldn't you say?",
+  "status": "done",
   "slots": [
    "0x35ab"
   ],
@@ -666,8 +666,8 @@
  {
   "id": "s2045:00b5c",
   "jp": "ん～、このコート。\nなんか嫌な感じがするなぁ。\nこう、違和感っていうの？",
-  "en": "",
-  "status": "todo",
+  "en": "Hmm, this coat. Something about it gives\nme a bad feeling. Like, an odd vibe, you\nknow?",
+  "status": "done",
   "slots": [
    "0x363f"
   ],
@@ -676,8 +676,8 @@
  {
   "id": "s2045:00ba3",
   "jp": "あ、丁度いい所に来たねアンタ。\nどうだいこのコート。\n格安で買わないかい？",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, you came at just the right time. How\nabout this coat? Want to buy it cheap?",
+  "status": "done",
   "slots": [
    "0x3646"
   ],
@@ -686,8 +686,8 @@
  {
   "id": "s2045:00bec",
   "jp": "お、気前がいいねぇ。\n毎度あり！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, how generous of you. Thank you kindly!",
+  "status": "done",
   "slots": [
    "0x364d"
   ],
@@ -696,8 +696,8 @@
  {
   "id": "s2045:00c0c",
   "jp": "あ、なんだか清々しくなった\n気分だな。\n本当になんだったんだあのコート。",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, I feel so refreshed now. What on earth\nwas that coat?",
+  "status": "done",
   "slots": [
    "0x36bc"
   ],
@@ -706,8 +706,8 @@
  {
   "id": "s2045:00c53",
   "jp": "……あれ？\nそもそも俺、あんな商品調達\nしたか……？",
-  "en": "",
-  "status": "todo",
+  "en": "...Huh? Did I even stock something like that\nin the first place...?",
+  "status": "done",
   "slots": [
    "0x36d4"
   ],
@@ -716,8 +716,8 @@
  {
   "id": "s2045:00c86",
   "jp": "あら、あなた。\n中々いい体してるわね！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh my, you there. You've got quite a nice\nbody!",
+  "status": "done",
   "slots": [
    "0x3783"
   ],
@@ -726,8 +726,8 @@
  {
   "id": "s2045:00cac",
   "jp": "あなたなら、\nきっと世界が狙えるわ！",
-  "en": "",
-  "status": "todo",
+  "en": "With a body like yours, you could surely go\nfor the world title!",
+  "status": "done",
   "slots": [
    "0x378a"
   ],
@@ -736,8 +736,8 @@
  {
   "id": "s2045:00cd0",
   "jp": "これは餞別よ！\nお互い、頑張りましょう！\n世界一のスイマーを目指すのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "This is a parting gift! Let's both do our best!\nAim to be the world's best swimmer!",
+  "status": "done",
   "slots": [
    "0x37f9"
   ],
@@ -746,8 +746,8 @@
  {
   "id": "s2045:00d17",
   "jp": "あぁ～男の人はいいわねぇ。\n筋肉がつきやすいから\nタイムも早いわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Ahh, men have it so good. They build muscle\neasily, so their times are fast too.",
+  "status": "done",
   "slots": [
    "0x381f"
   ],
@@ -756,8 +756,8 @@
  {
   "id": "s2045:00d58",
   "jp": "……は！　いけないいけない！\n弱気になった時点で私の負けよ！\n頑張れ、私！",
-  "en": "",
-  "status": "todo",
+  "en": "...Ah! No, no! The moment I lose heart, I've\nlost! Go for it, me!",
+  "status": "done",
   "slots": [
    "0x3826"
   ],
@@ -766,8 +766,8 @@
  {
   "id": "s2045:00da1",
   "jp": "私は、世界一のスイマーに\nなるんだから！",
-  "en": "",
-  "status": "todo",
+  "en": "Because I'm going to be the world's best\nswimmer!",
+  "status": "done",
   "slots": [
    "0x382d"
   ],
@@ -776,8 +776,8 @@
  {
   "id": "s2045:00dc9",
   "jp": "そうと決まったら特訓よぉ！",
-  "en": "",
-  "status": "todo",
+  "en": "With that settled, it's time for special\ntraining!",
+  "status": "done",
   "slots": [
    "0x3845"
   ],
@@ -786,8 +786,8 @@
  {
   "id": "s2045:00de4",
   "jp": "驚いたじゃろ？\nここまで多くの樽を見て。",
-  "en": "",
-  "status": "todo",
+  "en": "Surprised you, didn't it? Seeing this many\nbarrels.",
+  "status": "done",
   "slots": [
    "0x38dc"
   ],
@@ -796,8 +796,8 @@
  {
   "id": "s2045:00e0c",
   "jp": "この島は、樽の原料となる\nオーク木が大量に生えてての。\nそれはもう大量だったんじゃ。",
-  "en": "",
-  "status": "todo",
+  "en": "This island once had oak trees, the material\nfor barrels, growing all over. Truly, so very\nmany of them.",
+  "status": "done",
   "slots": [
    "0x38e3"
   ],
@@ -806,8 +806,8 @@
  {
   "id": "s2045:00e5f",
   "jp": "初めは邪魔になる木を切り\n活用していただけなのじゃが、\nそれが何時しか伝統となったのじゃ",
-  "en": "",
-  "status": "todo",
+  "en": "At first we only cut down the trees in the\nway and put them to use, but before we\nknew it, it became a tradition.",
+  "status": "done",
   "slots": [
    "0x38ea"
   ],
@@ -816,8 +816,8 @@
  {
   "id": "s2045:00eb6",
   "jp": "歴史とはわからんもんじゃのう。\nホッホッホ。",
-  "en": "",
-  "status": "todo",
+  "en": "History is a funny thing, isn't it? Ho ho ho.",
+  "status": "done",
   "slots": [
    "0x38f1"
   ],
@@ -826,8 +826,8 @@
  {
   "id": "s2045:00ee2",
   "jp": "歴史は残すものではなく残される\nものじゃ。",
-  "en": "",
-  "status": "todo",
+  "en": "History isn't something you leave behind.\nIt's something that gets left behind.",
+  "status": "done",
   "slots": [
    "0x3909"
   ],
@@ -836,8 +836,8 @@
  {
   "id": "s2045:00f0c",
   "jp": "おぬしの意外な行動が、\n歴史に残るかもしれんぞ？",
-  "en": "",
-  "status": "todo",
+  "en": "Some unexpected thing you do might go\ndown in history, you know?",
+  "status": "done",
   "slots": [
    "0x3910"
   ],
@@ -846,8 +846,8 @@
  {
   "id": "s2045:00f3c",
   "jp": "お！　樽だ！\n早速開けてみようぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh! A barrel! Let's open it up!",
+  "status": "done",
   "slots": [
    "0x1ffb",
    "0x26ac",
@@ -860,8 +860,8 @@
  {
   "id": "s2045:00f5e",
   "jp": "おぉ！　こいつはいいぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Whoa! This is a good one!",
+  "status": "done",
   "slots": [
    "0x2051",
    "0x2702",
@@ -873,8 +873,8 @@
  {
   "id": "s2045:00f77",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x41d3"
   ],
@@ -883,8 +883,8 @@
  {
   "id": "s2045:00f7e",
   "jp": "ぎゃあぁ！　ハズレだったぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Gyaaah! It was a dud!",
+  "status": "done",
   "slots": [
    "0x41e5"
   ],
@@ -893,8 +893,8 @@
  {
   "id": "s2045:00f9b",
   "jp": "お、樽って、これじゃないですか？\nよい、しょっと。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, isn't this one of the barrels? Hup.",
+  "status": "done",
   "slots": [
    "0x20b1",
    "0x2762",
@@ -907,8 +907,8 @@
  {
   "id": "s2045:00fcd",
   "jp": "お、当たったみたいですね。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, looks like I hit the jackpot.",
+  "status": "done",
   "slots": [
    "0x2107",
    "0x27b8",
@@ -920,8 +920,8 @@
  {
   "id": "s2045:00fe8",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x43a1"
   ],
@@ -930,8 +930,8 @@
  {
   "id": "s2045:00fef",
   "jp": "フギャ！\nハ、ハズレでしたぁー！",
-  "en": "",
-  "status": "todo",
+  "en": "Fugyaa! A d-duuud!",
+  "status": "done",
   "slots": [
    "0x43b3"
   ],
@@ -940,8 +940,8 @@
  {
   "id": "s2045:0100f",
   "jp": "お、タル発見だよ！\n早速開けるよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, found a barrel! I'll open it right away!",
+  "status": "done",
   "slots": [
    "0x2167",
    "0x2818",
@@ -954,8 +954,8 @@
  {
   "id": "s2045:01031",
   "jp": "スケルトンじゃないってことは、\n当たりだね？\nやったー！",
-  "en": "",
-  "status": "todo",
+  "en": "If it's not a skeleton, that means it's a\nwinner, right? Yay!",
+  "status": "done",
   "slots": [
    "0x21bd",
    "0x286e",
@@ -967,8 +967,8 @@
  {
   "id": "s2045:01068",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x456f"
   ],
@@ -977,8 +977,8 @@
  {
   "id": "s2045:0106f",
   "jp": "うひゃあぁぁぁ！\nイシュト、笑ってごめんねぇぇ！",
-  "en": "",
-  "status": "todo",
+  "en": "Hyaaaaaah! Ishut, I'm sorry I laughed at\nyouuuu!",
+  "status": "done",
   "slots": [
    "0x4581"
   ],
@@ -987,8 +987,8 @@
  {
   "id": "s2045:0109f",
   "jp": "お、あったあった。\n早速開けるわよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, there it is. I'm opening it.",
+  "status": "done",
   "slots": [
    "0x221d",
    "0x28ce",
@@ -1001,8 +1001,8 @@
  {
   "id": "s2045:010c3",
   "jp": "よし！　あったりー！",
-  "en": "",
-  "status": "todo",
+  "en": "Alright! Jackpot!",
+  "status": "done",
   "slots": [
    "0x2273",
    "0x2924",
@@ -1014,8 +1014,8 @@
  {
   "id": "s2045:010d8",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x473d"
   ],
@@ -1024,8 +1024,8 @@
  {
   "id": "s2045:010df",
   "jp": "あちゃーハズレだわ。",
-  "en": "",
-  "status": "todo",
+  "en": "Oh no, a dud.",
+  "status": "done",
   "slots": [
    "0x474f"
   ],
@@ -1034,8 +1034,8 @@
  {
   "id": "s2045:010f4",
   "jp": "お、みーっけ。\nじゃ、開けるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, found one. Well, I'm openin' it!",
+  "status": "done",
   "slots": [
    "0x22d3",
    "0x2984",
@@ -1048,8 +1048,8 @@
  {
   "id": "s2045:01114",
   "jp": "うひょー、酒代酒代っとお！",
-  "en": "",
-  "status": "todo",
+  "en": "Woohoo, booze money, booze money!",
+  "status": "done",
   "slots": [
    "0x2329",
    "0x29da",
@@ -1061,8 +1061,8 @@
  {
   "id": "s2045:0112f",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x490b"
   ],
@@ -1071,8 +1071,8 @@
  {
   "id": "s2045:01136",
   "jp": "ハズレか。まぁいい。\nさっさと倒して次行くぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "A dud, huh. Whatever. Beat it quick and on\nto the next one!",
+  "status": "done",
   "slots": [
    "0x491d"
   ],
@@ -1081,8 +1081,8 @@
  {
   "id": "s2045:01164",
   "jp": "これが樽だな？\nよし、開けるぞ。えい！",
-  "en": "",
-  "status": "todo",
+  "en": "This is a barrel, yes? Right, I'm opening it.\nHyah!",
+  "status": "done",
   "slots": [
    "0x2389",
    "0x2a3a",
@@ -1095,8 +1095,8 @@
  {
   "id": "s2045:0118a",
   "jp": "当たりか。\nこれだけあれば、\n当分は過ごせそうだな。",
-  "en": "",
-  "status": "todo",
+  "en": "A winner. With this much, we should be fine\nfor a while.",
+  "status": "done",
   "slots": [
    "0x23df",
    "0x2a90",
@@ -1108,8 +1108,8 @@
  {
   "id": "s2045:011bd",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x4ad9"
   ],
@@ -1118,8 +1118,8 @@
  {
   "id": "s2045:011c4",
   "jp": "ハズレか！　運が悪い！",
-  "en": "",
-  "status": "todo",
+  "en": "A dud! What bad luck!",
+  "status": "done",
   "slots": [
    "0x4aeb"
   ],
@@ -1128,8 +1128,8 @@
  {
   "id": "s2045:011db",
   "jp": "わーい、たるだぁー！\nあっけてっみよー！",
-  "en": "",
-  "status": "todo",
+  "en": "Yaaay, a barrel! Let's open it up!",
+  "status": "done",
   "slots": [
    "0x243f",
    "0x2af0",
@@ -1142,8 +1142,8 @@
  {
   "id": "s2045:01203",
   "jp": "ぱんぱかぱーん！\nあったりー！",
-  "en": "",
-  "status": "todo",
+  "en": "Ta-da-daaa! Jackpot!",
+  "status": "done",
   "slots": [
    "0x2495",
    "0x2b46",
@@ -1155,8 +1155,8 @@
  {
   "id": "s2045:01221",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x4ca7"
   ],
@@ -1165,8 +1165,8 @@
  {
   "id": "s2045:01228",
   "jp": "みゃああぁぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Myaaaaah!",
+  "status": "done",
   "slots": [
    "0x4cb9"
   ],
@@ -1175,8 +1175,8 @@
  {
   "id": "s2045:01237",
   "jp": "お、これ、樽じゃないっすか？\n開けてみるっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, isn't this a barrel, sir? I'll open it!",
+  "status": "done",
   "slots": [
    "0x24f5",
    "0x2ba6",
@@ -1189,8 +1189,8 @@
  {
   "id": "s2045:01265",
   "jp": "当たりみたいっすね。\nよかったっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Looks like a winner, sir. That's great!",
+  "status": "done",
   "slots": [
    "0x254b",
    "0x2bfc",
@@ -1202,8 +1202,8 @@
  {
   "id": "s2045:01289",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x4e75"
   ],
@@ -1212,8 +1212,8 @@
  {
   "id": "s2045:01290",
   "jp": "ぬおっ！　ハズレたっす！",
-  "en": "",
-  "status": "todo",
+  "en": "Nuoh! A dud, sir!",
+  "status": "done",
   "slots": [
    "0x4e87"
   ],
@@ -1222,8 +1222,8 @@
  {
   "id": "s2045:012a9",
   "jp": "む、これが樽か。\nよし。",
-  "en": "",
-  "status": "todo",
+  "en": "Hm, so this is a barrel. Right.",
+  "status": "done",
   "slots": [
    "0x25ab",
    "0x2c5c",
@@ -1236,8 +1236,8 @@
  {
   "id": "s2045:012c1",
   "jp": "これは……当たりだな。\nよかった。",
-  "en": "",
-  "status": "todo",
+  "en": "This is... a winner. Good.",
+  "status": "done",
   "slots": [
    "0x2601",
    "0x2cb2",
@@ -1249,8 +1249,8 @@
  {
   "id": "s2045:012e3",
   "jp": "ケー！",
-  "en": "",
-  "status": "todo",
+  "en": "Keee!",
+  "status": "done",
   "slots": [
    "0x5043"
   ],
@@ -1259,8 +1259,8 @@
  {
   "id": "s2045:012ea",
   "jp": "チッ、ハズレか！\n他を探すぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Tch, a dud! Let's look elsewhere!",
+  "status": "done",
   "slots": [
    "0x5055"
   ],
@@ -1269,8 +1269,8 @@
  {
   "id": "s2045:01308",
   "jp": "ないわねぇ。\nどれも空ダルばかりだわぁ。",
-  "en": "",
-  "status": "todo",
+  "en": "Nothing here... They're all empty barrels.",
+  "status": "done",
   "slots": [
    "0x51ff"
   ],
@@ -1279,8 +1279,8 @@
  {
   "id": "s2045:01330",
   "jp": "部下の子達も連れてくれば\nよかったかしら……？",
-  "en": "",
-  "status": "todo",
+  "en": "Maybe I should have brought my girls along\ntoo...?",
+  "status": "done",
   "slots": [
    "0x5206"
   ],
@@ -1289,8 +1289,8 @@
  {
   "id": "s2045:0135e",
   "jp": "アハハハ！　ざまぁみなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "Ahahaha! Serves you right!",
+  "status": "done",
   "slots": [
    "0x50ba"
   ],
@@ -1299,8 +1299,8 @@
  {
   "id": "s2045:0137b",
   "jp": "その調子じゃ、アタシの勝ちは\n確定的ね。",
-  "en": "",
-  "status": "todo",
+  "en": "At this rate, my victory's a sure thing, dear.",
+  "status": "done",
   "slots": [
    "0x50c4"
   ],
@@ -1327,8 +1327,8 @@
  {
   "id": "s2045:01519t",
   "jp": "タルの骸骨",
-  "en": "",
-  "status": "todo",
+  "en": "Barrel Bones",
+  "status": "done",
   "at": "0x151c",
   "max": 10,
   "who": "team name"
@@ -1336,8 +1336,8 @@
  {
   "id": "s2045:01567t",
   "jp": "タルの骸骨",
-  "en": "",
-  "status": "todo",
+  "en": "Barrel Bones",
+  "status": "done",
   "at": "0x156a",
   "max": 10,
   "who": "team name"

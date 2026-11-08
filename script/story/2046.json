@@ -2,8 +2,8 @@
  {
   "id": "s2046:00028",
   "jp": "ねぇ、海ゴブリンってなに？",
-  "en": "",
-  "status": "todo",
+  "en": "Hey, what's a Sea Goblin?",
+  "status": "done",
   "slots": [
    "0x11fb"
   ],
@@ -13,8 +13,8 @@
  {
   "id": "s2046:00047",
   "jp": "名前の通り、海に生息している\nゴブリン達のことよ。",
-  "en": "",
-  "status": "todo",
+  "en": "Just like the name says, they're goblins\nthat live in the sea.",
+  "status": "done",
   "slots": [
    "0x1210"
   ],
@@ -24,8 +24,8 @@
  {
   "id": "s2046:0007d",
   "jp": "海ゴブリンは光ものを集める\n習性があってね？",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblins have a habit of collecting shiny\nthings, see?",
+  "status": "done",
   "slots": [
    "0x1217"
   ],
@@ -35,8 +35,8 @@
  {
   "id": "s2046:000ad",
   "jp": "“海ゴブリンの居るところに\nお宝あり！”\nっていわれてるのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "They say, \"Where there's a Sea Goblin,\nthere's treasure!\"",
+  "status": "done",
   "slots": [
    "0x1229"
   ],
@@ -46,8 +46,8 @@
  {
   "id": "s2046:000ee",
   "jp": "へぇ～！　そうなんだぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Wow! Really!?",
+  "status": "done",
   "slots": [
    "0x123b"
   ],
@@ -57,8 +57,8 @@
  {
   "id": "s2046:0010b",
   "jp": "でも、この近くにいるとは\n限りませんよね？",
-  "en": "",
-  "status": "todo",
+  "en": "But there's no guarantee there are any\naround here, right?",
+  "status": "done",
   "slots": [
    "0x1269"
   ],
@@ -68,8 +68,8 @@
  {
   "id": "s2046:00139",
   "jp": "またロマンがないなお前は……。",
-  "en": "",
-  "status": "todo",
+  "en": "You've got no romance in you, as usual...",
+  "status": "done",
   "slots": [
    "0x127b"
   ],
@@ -79,8 +79,8 @@
  {
   "id": "s2046:0015c",
   "jp": "夢見がちな兄貴の分だけ\nボクは現実的に生きてるんですよ。",
-  "en": "",
-  "status": "todo",
+  "en": "I live realistically to make up for how much\nthe Boss daydreams.",
+  "status": "done",
   "slots": [
    "0x129b"
   ],
@@ -90,8 +90,8 @@
  {
   "id": "s2046:00198",
   "jp": "なんだとぉ！？\nファンタジーな耳くっつけた奴が\n何言ってやがる！",
-  "en": "",
-  "status": "todo",
+  "en": "What was that!? Look who's talkin', with\nthose fantasy ears stuck on your head!",
+  "status": "done",
   "slots": [
    "0x12b0"
   ],
@@ -101,8 +101,8 @@
  {
   "id": "s2046:001db",
   "jp": "あぁー！　そこは掴んじゃ\nダメですー！",
-  "en": "",
-  "status": "todo",
+  "en": "Aaah! Don't grab me there!",
+  "status": "done",
   "slots": [
    "0x12d3"
   ],
@@ -112,8 +112,8 @@
  {
   "id": "s2046:00205",
   "jp": "えぇいうるさい！\n海ゴブリンの居場所なら\n問題ないわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Oh, shut up! I know where the Sea Goblins\nare, no problem!",
+  "status": "done",
   "slots": [
    "0x12e8"
   ],
@@ -123,8 +123,8 @@
  {
   "id": "s2046:00240",
   "jp": "ん？\nどうゆうこと？",
-  "en": "",
-  "status": "todo",
+  "en": "Hm? What do you mean?",
+  "status": "done",
   "slots": [
    "0x12fd"
   ],
@@ -134,8 +134,8 @@
  {
   "id": "s2046:00258",
   "jp": "この海域の潮の流れは特殊でね。\n貨物船とかがよく沈没するのよ。",
-  "en": "",
-  "status": "todo",
+  "en": "The currents in these waters are unusual.\nCargo ships sink here all the time.",
+  "status": "done",
   "slots": [
    "0x1312"
   ],
@@ -145,8 +145,8 @@
  {
   "id": "s2046:0029a",
   "jp": "しかも並みの船はこの海域に入る\nことすらできないし。\nこんな穴場はそうそうないわ！",
-  "en": "",
-  "status": "todo",
+  "en": "And ordinary ships can't even get into these\nwaters. You won't find many hidden spots\nlike this!",
+  "status": "done",
   "slots": [
    "0x1332"
   ],
@@ -156,8 +156,8 @@
  {
   "id": "s2046:002ef",
   "jp": "あとは海ゴブリンさえ見つければ、\nお宝があること確定ってわけ。",
-  "en": "",
-  "status": "todo",
+  "en": "So all we have to do is find a Sea Goblin, and\nthere's definitely treasure.",
+  "status": "done",
   "slots": [
    "0x1344"
   ],
@@ -167,8 +167,8 @@
  {
   "id": "s2046:00331",
   "jp": "なるほどなぁ～。",
-  "en": "",
-  "status": "todo",
+  "en": "I seeee.",
+  "status": "done",
   "slots": [
    "0x1364"
   ],
@@ -178,8 +178,8 @@
  {
   "id": "s2046:00346",
   "jp": "エリーシャ、詳しいんだね。",
-  "en": "",
-  "status": "todo",
+  "en": "Elisha, you sure know a lot.",
+  "status": "done",
   "slots": [
    "0x1376"
   ],
@@ -189,8 +189,8 @@
  {
   "id": "s2046:00365",
   "jp": "と、当然よ！\nあたしは、グロリア海賊団の副船長\nなんだからね！",
-  "en": "",
-  "status": "todo",
+  "en": "O-of course! I'm the first mate of the Gloria\nPirates, after all!",
+  "status": "done",
   "slots": [
    "0x138b"
   ],
@@ -200,8 +200,8 @@
  {
   "id": "s2046:003a6",
   "jp": "おぉ～、賑やかだなぁ、お前ら。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, you lot sure are lively.",
+  "status": "done",
   "slots": [
    "0x13a0"
   ],
@@ -211,8 +211,8 @@
  {
   "id": "s2046:003c9",
   "jp": "親父、海ゴブリンはみつかった？",
-  "en": "",
-  "status": "todo",
+  "en": "Dad, did you find the Sea Goblins?",
+  "status": "done",
   "slots": [
    "0x13b5"
   ],
@@ -222,8 +222,8 @@
  {
   "id": "s2046:003ec",
   "jp": "見つかりはしたんだが……\n少し妙なことになってやがる。",
-  "en": "",
-  "status": "todo",
+  "en": "Found 'em, alright... but things have gotten\na little weird.",
+  "status": "done",
   "slots": [
    "0x13ca"
   ],
@@ -233,8 +233,8 @@
  {
   "id": "s2046:00426",
   "jp": "妙な、こと？",
-  "en": "",
-  "status": "todo",
+  "en": "Weird?",
+  "status": "done",
   "slots": [
    "0x13df"
   ],
@@ -244,8 +244,8 @@
  {
   "id": "s2046:00437",
   "jp": "ま、見てくれりゃわかる。\nあれだ……。",
-  "en": "",
-  "status": "todo",
+  "en": "Well, you'll see if you look. Over there...",
+  "status": "done",
   "slots": [
    "0x13f4"
   ],
@@ -255,8 +255,8 @@
  {
   "id": "s2046:00461",
   "jp": "キューッ！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyuuu!",
+  "status": "done",
   "slots": [
    "0x147c",
    "0x15b0"
@@ -267,8 +267,8 @@
  {
   "id": "s2046:00470",
   "jp": "キシャー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kishaaa!",
+  "status": "done",
   "slots": [
    "0x1492",
    "0x15c6"
@@ -279,8 +279,8 @@
  {
   "id": "s2046:0047f",
   "jp": "海ゴブリンが囲まれて……\n攻撃を受けています！",
-  "en": "",
-  "status": "todo",
+  "en": "The Sea Goblins are surrounded... They're\nbeing attacked!",
+  "status": "done",
   "slots": [
    "0x14b9"
   ],
@@ -301,8 +301,8 @@
  {
   "id": "s2046:004c4",
   "jp": "海ゴブリンは戦闘力がまったくない\n生き物よ！\nこのままじゃ……！",
-  "en": "",
-  "status": "todo",
+  "en": "Sea Goblins can't fight at all! At this rate...!",
+  "status": "done",
   "slots": [
    "0x14e3"
   ],
@@ -312,8 +312,8 @@
  {
   "id": "s2046:00507",
   "jp": "海ゴブリンを殺したところで\n一文も得はねぇってのに……。\nいくぞお前ら！　",
-  "en": "",
-  "status": "todo",
+  "en": "Killin' Sea Goblins won't earn ya a single\ncoin... Let's go, you lot!",
+  "status": "done",
   "slots": [
    "0x1506"
   ],
@@ -323,24 +323,24 @@
  {
   "id": "s2046:00554",
   "jp": "キューッ！",
-  "en": "",
-  "status": "todo",
+  "en": "Kyuuu!",
+  "status": "done",
   "slots": [],
   "voice": 3946
  },
  {
   "id": "s2046:00563",
   "jp": "キシャー！",
-  "en": "",
-  "status": "todo",
+  "en": "Kishaaa!",
+  "status": "done",
   "slots": [],
   "voice": 3992
  },
  {
   "id": "s2046:00572",
   "jp": "あの様子だと海ゴブリンの体力は\n残りわずかね。\nさっさと助けちゃいましょう！",
-  "en": "",
-  "status": "todo",
+  "en": "By the look of it, the Sea Goblins don't have\nmuch strength left. Let's hurry up and save\nthem!",
+  "status": "done",
   "slots": [
    "0x15df"
   ],
@@ -350,8 +350,8 @@
  {
   "id": "s2046:005c1",
   "jp": "な、なんだお前等は！",
-  "en": "",
-  "status": "todo",
+  "en": "Wh-who are you people!?",
+  "status": "done",
   "slots": [
    "0x2b50"
   ],
@@ -361,8 +361,8 @@
  {
   "id": "s2046:005da",
   "jp": "そっちこそ！\n海ゴブリンになにしてるのよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Who are YOU!? What are you doing to the\nSea Goblins!?",
+  "status": "done",
   "slots": [
    "0x2b69"
   ],
@@ -372,8 +372,8 @@
  {
   "id": "s2046:00608",
   "jp": "我々は海の生物を守る\n“海の犬”という組織だ！",
-  "en": "",
-  "status": "todo",
+  "en": "We are an organization that protects the\ncreatures of the sea, the \"Sea Dogs\"!",
+  "status": "done",
   "slots": [
    "0x2b82"
   ],
@@ -383,8 +383,8 @@
  {
   "id": "s2046:0063a",
   "jp": "海の生物を喰らう海ゴブリンを、\nこうして退治しているのだ！",
-  "en": "",
-  "status": "todo",
+  "en": "We're exterminating these Sea Goblins, who\ndevour the creatures of the sea!",
+  "status": "done",
   "slots": [
    "0x2b9b"
   ],
@@ -394,8 +394,8 @@
  {
   "id": "s2046:00678",
   "jp": "感謝したまえ、諸君！",
-  "en": "",
-  "status": "todo",
+  "en": "You may thank us, everyone!",
+  "status": "done",
   "slots": [
    "0x2bb4"
   ],
@@ -405,8 +405,8 @@
  {
   "id": "s2046:00691",
   "jp": "感謝ぁ？\nふざけんじゃないわよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Thank you? Don't make me laugh!",
+  "status": "done",
   "slots": [
    "0x2bcd"
   ],
@@ -416,8 +416,8 @@
  {
   "id": "s2046:006b5",
   "jp": "アイツら、ただじゃおかないわ！\nイシュト！　本気でいきなさい！",
-  "en": "",
-  "status": "todo",
+  "en": "I won't let them get away with this! Ishut!\nGo all out!",
+  "status": "done",
   "slots": [
    "0x2bd7"
   ],
@@ -438,8 +438,8 @@
  {
   "id": "s2046:00702",
   "jp": "く、我等は海の生態系を守っている\nのに……なんて奴らだ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ngh, we're protecting the sea's\necosystem... What awful people!",
+  "status": "done",
   "slots": [
    "0x34d9"
   ],
@@ -449,8 +449,8 @@
  {
   "id": "s2046:0073e",
   "jp": "とか言って、本当は海ゴブリンが\n集めた財宝を狙っているのでは？",
-  "en": "",
-  "status": "todo",
+  "en": "You say that, but aren't you really after the\ntreasure the Sea Goblins collected?",
+  "status": "done",
   "slots": [
    "0x34f7"
   ],
@@ -460,8 +460,8 @@
  {
   "id": "s2046:00780",
   "jp": "……そんなことはない。",
-  "en": "",
-  "status": "todo",
+  "en": "...That's not true.",
+  "status": "done",
   "slots": [
    "0x3510"
   ],
@@ -471,8 +471,8 @@
  {
   "id": "s2046:0079b",
   "jp": "いっそ清々しいぐらいに嘘だって\nわかるよ。",
-  "en": "",
-  "status": "todo",
+  "en": "It's so obviously a lie, it's almost refreshing.",
+  "status": "done",
   "slots": [
    "0x352e"
   ],
@@ -482,8 +482,8 @@
  {
   "id": "s2046:007c9",
   "jp": "イシュト、わかってるわね……？",
-  "en": "",
-  "status": "todo",
+  "en": "Ishut, you know what to do, right...?",
+  "status": "done",
   "slots": [
    "0x3547"
   ],
@@ -493,8 +493,8 @@
  {
   "id": "s2046:007ec",
   "jp": "了解……いくぜ、エリーシャ！",
-  "en": "",
-  "status": "todo",
+  "en": "Roger... Let's go, Elisha!",
+  "status": "done",
   "slots": [
    "0x356e"
   ],
@@ -504,8 +504,8 @@
  {
   "id": "s2046:00810",
   "jp": "動物は、私達人間にとっては\n欠かせないものです。",
-  "en": "",
-  "status": "todo",
+  "en": "Animals are indispensable to us humans.",
+  "status": "done",
   "slots": [
    "0x16e5",
    "0x44e9"
@@ -515,8 +515,8 @@
  {
   "id": "s2046:00840",
   "jp": "時に友達として私達を癒し、\n時に食材となって、私達の血肉と\nなってくれるのです。",
-  "en": "",
-  "status": "todo",
+  "en": "Sometimes they comfort us as friends, and\nsometimes they become food, becoming our\nflesh and blood.",
+  "status": "done",
   "slots": [
    "0x16ec",
    "0x44f0"
@@ -526,8 +526,8 @@
  {
   "id": "s2046:0088f",
   "jp": "つい最近生まれた子の\nタマゴのカラです。\n大きいでしょう？",
-  "en": "",
-  "status": "todo",
+  "en": "This is the eggshell of a little one born just\nrecently. Big, isn't it?",
+  "status": "done",
   "slots": [
    "0x175b",
    "0x455f"
@@ -537,8 +537,8 @@
  {
   "id": "s2046:008c8",
   "jp": "人間は強くて勝手な生き物です。\nならばせめて、感謝の心を持って\n動物達と接してくださいね。",
-  "en": "",
-  "status": "todo",
+  "en": "Humans are strong, selfish creatures. So at\nthe very least, please treat animals with\ngratitude in your heart.",
+  "status": "done",
   "slots": [
    "0x1762",
    "0x4566"
@@ -548,8 +548,8 @@
  {
   "id": "s2046:00921",
   "jp": "アナタ。これ以上近づかないで\nくださいますか？\n動物達が脅えています。",
-  "en": "",
-  "status": "todo",
+  "en": "You there. Would you please not come any\ncloser? The animals are frightened.",
+  "status": "done",
   "slots": [
    "0x1791",
    "0x4595"
@@ -559,8 +559,8 @@
  {
   "id": "s2046:00966",
   "jp": "まずは、動物達に感謝して、\nその険しい眉間の皺を取ってから\nまたここにきてください。",
-  "en": "",
-  "status": "todo",
+  "en": "First, give thanks to the animals and smooth\nout that harsh frown, then come here again.",
+  "status": "done",
   "slots": [
    "0x1798",
    "0x459c"
@@ -570,8 +570,8 @@
  {
   "id": "s2046:009b9",
   "jp": "命の息吹を感じましょう。",
-  "en": "",
-  "status": "todo",
+  "en": "Let us feel the breath of life.",
+  "status": "done",
   "slots": [
    "0x17b3",
    "0x45b7"
@@ -581,8 +581,8 @@
  {
   "id": "s2046:009d2",
   "jp": "おぉ、いい所に。",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, perfect timing.",
+  "status": "done",
   "slots": [
    "0x5371"
   ],
@@ -591,8 +591,8 @@
  {
   "id": "s2046:009e3",
   "jp": "これでもう一回動けるぜ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now I can move one more time!",
+  "status": "done",
   "slots": [
    "0x53bc"
   ],
@@ -601,8 +601,8 @@
  {
   "id": "s2046:009fc",
   "jp": "フフ、いいものを拾いましたね。",
-  "en": "",
-  "status": "todo",
+  "en": "Hehe, I picked up something good.",
+  "status": "done",
   "slots": [
    "0x5408"
   ],
@@ -611,8 +611,8 @@
  {
   "id": "s2046:00a1b",
   "jp": "ボクの駆動力を最大限に生かせる\nものですよ、これは。",
-  "en": "",
-  "status": "todo",
+  "en": "This is just the thing to make the most of\nmy mobility.",
+  "status": "done",
   "slots": [
    "0x5453"
   ],
@@ -621,8 +621,8 @@
  {
   "id": "s2046:00a4f",
   "jp": "あ、これ知ってる！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah, I know this!",
+  "status": "done",
   "slots": [
    "0x549f"
   ],
@@ -631,8 +631,8 @@
  {
   "id": "s2046:00a62",
   "jp": "これで無駄の無い戦闘が\nできるようになるね！",
-  "en": "",
-  "status": "todo",
+  "en": "With this, we can fight without wasting a\nmove!",
+  "status": "done",
   "slots": [
    "0x54ea"
   ],
@@ -641,8 +641,8 @@
  {
   "id": "s2046:00a8e",
   "jp": "おぉ、いいものが落ちてるじゃない",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, there's something good lying here.",
+  "status": "done",
   "slots": [
    "0x5536"
   ],
@@ -651,8 +651,8 @@
  {
   "id": "s2046:00aaf",
   "jp": "疲れてる時食べると\n美味しいのよねぇ。",
-  "en": "",
-  "status": "todo",
+  "en": "These taste so good when you're tired.",
+  "status": "done",
   "slots": [
    "0x5581"
   ],
@@ -661,8 +661,8 @@
  {
   "id": "s2046:00ad5",
   "jp": "いいモン拾ったぜ。",
-  "en": "",
-  "status": "todo",
+  "en": "Picked up somethin' good.",
+  "status": "done",
   "slots": [
    "0x55cd"
   ],
@@ -671,8 +671,8 @@
  {
   "id": "s2046:00ae8",
   "jp": "疲れた時はやっぱりこれだよなぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "When you're tired, nothin' beats this!",
+  "status": "done",
   "slots": [
    "0x5618"
   ],
@@ -681,8 +681,8 @@
  {
   "id": "s2046:00b09",
   "jp": "これは、モヴモヴの実か。",
-  "en": "",
-  "status": "todo",
+  "en": "This is a Movmov Fruit.",
+  "status": "done",
   "slots": [
    "0x5664"
   ],
@@ -691,8 +691,8 @@
  {
   "id": "s2046:00b22",
   "jp": "滋養強壮にいいらしいからな。\nもらっておくか。",
-  "en": "",
-  "status": "todo",
+  "en": "They say it's good for nourishment and\nstamina. I'll take it.",
+  "status": "done",
   "slots": [
    "0x56af"
   ],
@@ -701,8 +701,8 @@
  {
   "id": "s2046:00b50",
   "jp": "あ！　モウモウの実だぁ！",
-  "en": "",
-  "status": "todo",
+  "en": "Ah! A Mowmow Fruit!",
+  "status": "done",
   "slots": [
    "0x5702"
   ],
@@ -711,8 +711,8 @@
  {
   "id": "s2046:00b69",
   "jp": "モ、ブ……ウヴ……あ～！\n言いにくいよ！　モブモブの実！",
-  "en": "",
-  "status": "todo",
+  "en": "Mo, b... uv... aah! It's hard to say! Mobmob\nFruit!",
+  "status": "done",
   "slots": [
    "0x5758"
   ],
@@ -721,8 +721,8 @@
  {
   "id": "s2046:00ba1",
   "jp": "おぉ、いいところに！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, perfect timing!",
+  "status": "done",
   "slots": [
    "0x57ab"
   ],
@@ -731,8 +731,8 @@
  {
   "id": "s2046:00bb6",
   "jp": "これでまた頑張れるっすよ！",
-  "en": "",
-  "status": "todo",
+  "en": "Now I can keep at it, sir!",
+  "status": "done",
   "slots": [
    "0x57f6"
   ],
@@ -741,8 +741,8 @@
  {
   "id": "s2046:00bd1",
   "jp": "おぉ、これは……！",
-  "en": "",
-  "status": "todo",
+  "en": "Ooh, this is...!",
+  "status": "done",
   "slots": [
    "0x5842"
   ],
@@ -751,8 +751,8 @@
  {
   "id": "s2046:00be4",
   "jp": "モヴモヴの実じゃないか。\nこれでまた戦う事ができるぞ！",
-  "en": "",
-  "status": "todo",
+  "en": "Isn't this a Movmov Fruit? Now I can fight\nagain!",
+  "status": "done",
   "slots": [
    "0x588d"
   ],
