@@ -36,6 +36,16 @@ def font(name, size):
 
 # --- texture access -------------------------------------------------------------------------------------------
 
+def bands(b, a):
+    """stack kind: (first row, PTX header) of each texture, stacked top to bottom."""
+    out, y = [], 0
+    for o in a["off"]:
+        t = ptx.parse(b, o)
+        out.append((y, t))
+        y += t["h"]
+    return out
+
+
 def palette(b, a):
     """The palette the redraw may use (n x 4 ints)."""
     if a["kind"] == "ptx":
@@ -48,12 +58,27 @@ def palette(b, a):
 
 
 def read(b, a):
+    if a["kind"] == "stack":
+        return np.vstack([ptx.decode(bytes(b), t) for _, t in bands(b, a)])
     return ptx.decode(bytes(b), ptx.parse(b, a["off"])) if a["kind"] == "ptx" else ptx.ptg(bytes(b), a["off"])
+
+
+def fit(b, a, img):
+    """Quantize img to the palette(s) it will be written with (stack: each texture's own)."""
+    if a["kind"] != "stack":
+        return quantize(img, palette(b, a))
+    img = np.asarray(img)
+    return np.vstack([quantize(img[y:y + t["h"]], np.frombuffer(bytes(b), np.uint8, t["n"] * 4, t["po"])
+                               .reshape(-1, 4).astype(int)) for y, t in bands(b, a)])
 
 
 def write(b, a, img):
     """Write the RGBA array img (palette colours only) into bytearray b; fail if it can't be shown exactly."""
-    if a["kind"] == "ptx":
+    if a["kind"] == "stack":
+        for y, t in bands(b, a):
+            out = ptx.encode(b, t, img[y:y + t["h"]])
+            b[t["do"]:t["do"] + len(out)] = out
+    elif a["kind"] == "ptx":
         t = ptx.parse(b, a["off"])
         out = ptx.encode(b, t, img)
         b[t["do"]:t["do"] + len(out)] = out
@@ -251,6 +276,64 @@ def draw_gameover_menu(a, retry, title):
     return out
 
 
+# --- staff credits (1992) ---------------------------------------------------------------------------------------
+
+CRED_W, CRED_END, CRED_PITCH = 194, 193, 14   # ink area, right edge of every line, line pitch
+
+
+def credit_blocks(a):
+    """(top row, lines) of each credit entry: ink runs separated by blank rows; lines are 14 px apart."""
+    rows = (a[:, :CRED_W, 3] > 0).any(1)
+    out, y = [], 0
+    while y < len(rows):
+        if rows[y]:
+            y0 = y
+            while y < len(rows) and rows[y]:
+                y += 1
+            out.append((y0, max(1, round((y - y0) / CRED_PITCH))))
+        y += 1
+    return out
+
+
+def credits_tsv():
+    rows = [ln.split("\t") for ln in (GFX / "credits.tsv").read_text("utf8").splitlines()[1:] if ln.strip()]
+    return [(r[0], r[1]) for r in rows]
+
+
+def _credit_line(im, text, f, baseline):
+    """White letters with a translucent dark blue rim and a soft shadow, right edge at CRED_END."""
+    for dx, fill, stroke, sf in ((1, (0, 0, 0, 70), 1, (0, 0, 0, 70)), (0, (250, 251, 254, 250), 1, (2, 23, 80, 140))):
+        lt = layer_text(text, f, fill, stroke, sf)
+        xs = min(1.0, (CRED_END - 2) / (lt.width - 4))   # squeeze only a line wider than the scroll
+        if xs < 1:
+            lt = layer_text(text, f, fill, stroke, sf, xs)
+        top = baseline - (2 - f.getbbox(text, stroke_width=stroke)[1] + f.getmetrics()[0])   # layer_text's baseline
+        im.alpha_composite(lt, (CRED_END + 2 - lt.width + dx, top + dx))
+
+
+def draw_credits(a, _t):
+    """One continuous scroll (8 pages + a stub); each entry = italic role line over right-aligned names. Lines whose
+    English equals the Japanese (CAST, STAFF headers) keep the original pixels."""
+    rows = credits_tsv()
+    blocks = credit_blocks(a)
+    assert sum(n for _, n in blocks) == len(rows), (sum(n for _, n in blocks), len(rows))
+    out = a.copy()
+    role, name = font("LiberationSans-BoldItalic.ttf", 11), font("LiberationSans-Bold.ttf", 13)
+    k = 0
+    for y0, n in blocks:
+        lines = rows[k:k + n]
+        k += n
+        if all(jp == en for jp, en in lines):
+            continue
+        out[y0 - 1:y0 + n * CRED_PITCH + 2, :CRED_W] = (255, 255, 255, 0)
+        im = Image.fromarray(out)
+        for i, (_, en) in enumerate(lines):
+            _credit_line(im, en, role if i == 0 else name, y0 + i * CRED_PITCH + (10 if i == 0 else 11))
+        out = np.array(im)
+    out[out[..., 3] == 0] = (255, 255, 255, 0)   # fully clear pixels must match the clear palette entry
+    return out
+
+
 # --- registry ---------------------------------------------------------------------------------------------------
 
 ASSETS = {}
@@ -265,6 +348,7 @@ for _n in range(1, 8):
 asset("gameover", 1758, "ptx", 0x3310, (0, 0, 272, 54), lambda a, t: draw_gameover_title(a, t["gameover"]))
 asset("gameover_menu", 1758, "ptx", 0x16b0, (0, 0, 256, 16),
       lambda a, t: draw_gameover_menu(a, t["gameover_retry"], t["gameover_title"]))
+asset("credits", 1992, "stack", [0x1640 + 0xE060 * i for i in range(9)], (0, 0, CRED_W, 4159), draw_credits)
 
 
 def gen(names=None):
@@ -274,7 +358,7 @@ def gen(names=None):
         a = ASSETS[name]
         b = (FILES / f"{a['file']:05d}.bin").read_bytes()
         orig = read(b, a)
-        new = quantize(a["draw"](orig, t), palette(b, a))
+        new = fit(b, a, a["draw"](orig, t))
         x, y, w, h = a["rect"]
         keep = np.ones(orig.shape[:2], bool)
         keep[y:y + h, x:x + w] = False
