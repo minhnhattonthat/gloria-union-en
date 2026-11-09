@@ -100,16 +100,19 @@ def fit(b, a, img):
     if a["kind"] == "ptg" and not a["resize"] and a["section"] is None:
         base, pieces, sprites = ptx.ptg_parts(b, moved(b, a)["off"])
         pals = [np.frombuffer(bytes(b), np.uint8, t["n"] * 4, base + t["po"]).reshape(-1, 4).astype(int) for t in pieces]
+        img = np.asarray(img)
+        shown = np.zeros(img.shape[:2], bool)
+        for k, u0, v0, u1, v1, x0, y0, x1, y1 in sprites:
+            shown[y0:y1, x0:x1] = True
+        lost = (img[..., 3] > 0) & ~shown   # dropped: a few rim specks are fine, whole letters are not
+        assert lost.sum() <= 120, f"{a['name']}: {lost.sum()} pixels outside every sprite, first {np.argwhere(lost)[0][::-1]}"
         if len({p.tobytes() for p in pals}) > 1:   # pieces with their own palettes: each sprite in its piece's palette
-            img = np.asarray(img)
             out = np.zeros_like(img)
-            shown = np.zeros(img.shape[:2], bool)
             for k, u0, v0, u1, v1, x0, y0, x1, y1 in sprites:
                 out[y0:y1, x0:x1] = quantize(img[y0:y1, x0:x1], pals[k])
-                shown[y0:y1, x0:x1] = True
-            lost = (img[..., 3] > 0) & ~shown   # dropped: a few rim specks are fine, whole letters are not
-            assert lost.sum() <= 120, f"{a['name']}: {lost.sum()} pixels outside every sprite, first {np.argwhere(lost)[0][::-1]}"
             return out
+        img = img.copy()
+        img[lost] = 0
     if a["kind"] != "stack":
         return quantize(img, palette(b, a))
     img = np.asarray(img)
@@ -1672,9 +1675,110 @@ def draw_page(a, paras):
     return res
 
 
+PAGE_OFF = {2022: 0x58a60}   # the prologue page (same layout); stage pages are at +0x20
 for _f, _p in pages_tsv().items():
-    _h = struct.unpack_from("<H", (FILES / f"{_f:05d}.bin").read_bytes(), 0x20 + 0xA)[0] if FILES.exists() else 512
-    asset(f"page{_f}", _f, "ptx", 0x20, (0, 0, 380, _h), lambda a, t, p=_p: draw_page(a, p))
+    _off = PAGE_OFF.get(_f, 0x20)
+    _h = struct.unpack_from("<H", (FILES / f"{_f:05d}.bin").read_bytes(), _off + 0xA)[0] if FILES.exists() else 512
+    asset(f"page{_f}", _f, "ptx", _off, (0, 0, 380, _h), lambda a, t, p=_p: draw_page(a, p))
+
+
+# --- team arrows in the story-page files (480x192 PTGs: portrait, English team name, small JP subtitle under it) ----
+
+def arrows_tsv():
+    """{(file id, PTG number): [(x, y, w, h, English), ...]}: gfx/arrows.tsv, one row per subtitle; the rect holds the
+    subtitle (yellow components wholly inside it are the old text, so a big-name descender reaching in stays)."""
+    p = GFX / "arrows.tsv"
+    out = {}
+    for ln in (p.read_text("utf8").splitlines()[1:] if p.exists() else []):
+        r = ln.split("\t")
+        if len(r) > 7:
+            out.setdefault((int(r[0]), int(r[1])), []).append((*map(int, r[2:6]), r[7]))
+    return out
+
+
+def draw_arrow_sub(a, subs):
+    """Clear each JP subtitle (its yellow, its dark rim and drop shadow, filled from the neighbours) and draw the
+    English in the same yellow with a black rim, right-aligned at the old right edge, on the old baseline."""
+    from scipy import ndimage
+    px = a.astype(int)
+    yel = (px[..., 0] > 180) & (px[..., 1] > 150) & (px[..., 2] < 140) & (px[..., 3] > 128)
+    lab, _ = ndimage.label(yel, np.ones((3, 3), bool))
+    old = np.zeros(yel.shape, bool)
+    for x, y, w, h, _ in subs:
+        for i, sl in enumerate(ndimage.find_objects(lab), 1):
+            if sl and sl[0].start >= y and sl[0].stop <= y + h and sl[1].start >= x and sl[1].stop <= x + w:
+                old |= lab == i
+    clear = grow(old, 2)
+    clear[2:] |= clear[:-2]
+    clear[2:] |= clear[:-2]   # the drop shadow, up to 4 rows below each glyph
+    clear &= ~grow(yel & ~old, 1)   # keep the big name above
+    fill = inpaint(a, clear)
+    fill[clear & (fill[..., 3] < 160)] = 0   # half-clear smudge where the rim met open background: clear it
+    im = Image.fromarray(fill)
+    d = ImageDraw.Draw(im)
+    for x, y, w, h, text in subs:
+        f = font("LiberationSans-Bold.ttf", 13)
+        right = max(x + w - 2, round(f.getlength(text)) + 4)   # near the left edge: slide right, don't cut
+        d.text((right, y + h - 2), text, font=f, fill=(253, 255, 104, 255), anchor="rs", stroke_width=2,
+               stroke_fill=(0, 0, 0, 255))
+    out = np.array(im)
+    out[(out[..., 3] == 0) & (a[..., 3] == 0)] = a[(out[..., 3] == 0) & (a[..., 3] == 0)]   # clear stays its own clear
+    return out
+
+
+ARROW_RESIZE = {(1600, 1), (1614, 1), (1621, 0), (1627, 0), (1628, 0), (1629, 0), (1630, 0), (1632, 0), (1633, 0),
+                (1636, 0)}   # the English runs past the old sprites (fit() asserts): repack the atlas
+for (_f, _n), _s in arrows_tsv().items():
+    if FILES.exists():
+        _b = (FILES / f"{_f:05d}.bin").read_bytes()
+        _o = _b.find(b"PTG@")
+        for _ in range(_n):   # the _n-th PTG@ in the file, as ptg_list.offsets counts them
+            _o = _b.find(b"PTG@", _o + 4)
+        asset(f"arrow{_f}_{_n}", _f, "ptg", _o, (0, 0, 480, 192), lambda a, t, s=_s: draw_arrow_sub(a, s),
+              resize=(_f, _n) in ARROW_RESIZE, trim=True)
+
+
+# --- ending letters (file 1651 entries 6-33: 480x63 PTX, up to 3 lines; gfx/letters.tsv: entry, JP, English) ------
+
+def letters_tsv():
+    """{PTP entry: [English line, ...]}: lines split on " / "."""
+    p = GFX / "letters.tsv"
+    rows = [ln.split("\t") for ln in p.read_text("utf8").splitlines()[1:] if ln.strip()] if p.exists() else []
+    return {int(r[0]): [s.strip() for s in r[2].split(" / ")] for r in rows if len(r) > 2 and r[2].strip()}
+
+
+def draw_letter(a, lines):
+    """White bold lines with a soft blue glow, as the JP: 20 px pitch, the block vertically centred in the 63 rows (3
+    lines: baselines 18/38/58) and horizontally centred on x 240, lines left-aligned in it."""
+    h, w = a.shape[:2]
+    assert len(lines) <= 3, lines
+    for s in range(17, 12, -1):
+        f = font("LiberationSans-Bold.ttf", s)
+        bw = max(f.getlength(ln) for ln in lines)
+        if bw <= w - 16:
+            break
+    else:
+        raise ValueError(f"too wide: {lines}")
+    m = Image.new("L", (w, h), 0)
+    d = ImageDraw.Draw(m)
+    x0 = round((w - bw) / 2)
+    for k, ln in enumerate(lines):
+        d.text((x0, 18 + 20 * k + (3 - len(lines)) * 10), ln, font=f, fill=255, anchor="ls")
+    alpha = np.array(m).astype(float) / 255
+    ink = alpha >= 0.5
+    out = np.zeros((h, w, 4), float)
+    for n, col in ((4, (0, 143, 234, 40)), (3, (0, 143, 234, 92)), (2, (0, 143, 234, 184)), (1, (147, 207, 246, 218))):
+        out[grow(ink, n)] = col
+    out[..., :3] = out[..., :3] * (1 - alpha[..., None]) + 254 * alpha[..., None]
+    out[..., 3] = np.maximum(out[..., 3], alpha * 255)
+    return out.round().astype(np.uint8)
+
+
+if FILES.exists() and (FILES / "01651.bin").exists():
+    _b1651 = (FILES / "01651.bin").read_bytes()
+    for _e, _ls in letters_tsv().items():
+        asset(f"letter{_e}", 1651, "ptx", struct.unpack_from("<I", _b1651, 0x10 + 4 * _e)[0], (0, 0, 480, 63),
+              lambda a, t, ls=_ls: draw_letter(a, ls))
 
 
 # --- status popups (id 3 section 16: 250x40 PTGs, white italic, right-aligned over the unit) ---------------------
