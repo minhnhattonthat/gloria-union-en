@@ -46,7 +46,7 @@
  {
   "id": "s2067:000f0",
   "jp": "同盟の旗の数が半端じゃないっす。\n噂では聞いてたっすけど、ここまで\n大きな組織とは思わなかったっす。",
-  "en": "The number of allied flags is crazy, sir.\nI'd heard rumours, but I never thought\nit was this big an organisation, sir.",
+  "en": "The number of allied flags is crazy, sir.\nI'd heard rumors, but I never thought\nit was this big an organization, sir.",
   "status": "done",
   "slots": [
    "0x351a"
@@ -585,7 +585,7 @@
  {
   "id": "s2067:00b39",
   "jp": "私は、エンリエッタの過去と\n今を知り、そして共感しました。\nなので、私はアナタの敵です。",
-  "en": "I learned Enryetta's past and present, and\nI sympathise with her. So I am your enemy.",
+  "en": "I learned Enryetta's past and present, and\nI sympathize with her. So I am your enemy.",
   "status": "done",
   "slots": [
    "0x61ae"
@@ -1715,7 +1715,7 @@
  {
   "id": "s2067:02251",
   "jp": "ド、ドゼウさん……なんちゅう\n色してんすか……。",
-  "en": "M-Mr. Sea Loach...\nwhat kind of colour is that, sir...?",
+  "en": "M-Mr. Sea Loach...\nwhat kind of color is that, sir...?",
   "status": "done",
   "slots": [
    "0x45d4",

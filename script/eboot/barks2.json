@@ -13691,7 +13691,7 @@
  {
   "id": "e:24b06d",
   "jp": "攻撃こそ最大の防御なり！",
-  "en": "Offence is the best defence!",
+  "en": "Offense is the best defense!",
   "status": "done",
   "slots": [
    "w:24c27c"
@@ -13700,7 +13700,7 @@
  {
   "id": "e:24b086",
   "jp": "防御こそ、勝利を生む力なり！",
-  "en": "Defence is the power that brings victory!",
+  "en": "Defense is the power that brings victory!",
   "status": "done",
   "slots": [
    "w:24c284"
@@ -15964,7 +15964,7 @@
  {
   "id": "e:24eef3",
   "jp": "途中で□ボタンを離すと、\n使用中断になるので、注意しましょう。",
-  "en": "If you let go of the Square button partway,\nthe skill is cancelled, so be careful.",
+  "en": "If you let go of the Square button partway,\nthe skill is canceled, so be careful.",
   "status": "done",
   "slots": [
    "w:24f2f8"

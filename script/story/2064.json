@@ -387,7 +387,7 @@
  {
   "id": "s2064:00707",
   "jp": "ラズベリーよ。\n少し、頼みたいことがある。",
-  "en": "Raspberry. There is a\nsmall favour I would ask.",
+  "en": "Raspberry. There is a\nsmall favor I would ask.",
   "status": "done",
   "slots": [
    "0x4f05"
@@ -552,7 +552,7 @@
  {
   "id": "s2064:00a75",
   "jp": "この歴史的な戦いは書に残るぞ！\n光栄に思うがいい！",
-  "en": "This historic battle will be written\ndown in books! Be honoured!",
+  "en": "This historic battle will be written\ndown in books! Be honored!",
   "status": "done",
   "slots": [
    "0x4ceb"

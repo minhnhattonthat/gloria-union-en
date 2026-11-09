@@ -782,7 +782,7 @@
  {
   "id": "e:25df84",
   "jp": "黒の終止符",
-  "en": "The Black Full Stop",
+  "en": "The Black Finale",
   "status": "done",
   "slots": [
    "w:25e254"
@@ -1457,7 +1457,7 @@
  {
   "id": "e:25f1b8",
   "jp": "[0A]セーブを中断しました[0A]",
-  "en": "[0A]Save cancelled.[0A]",
+  "en": "[0A]Save canceled.[0A]",
   "status": "done",
   "slots": [
    "w:2edbe4",

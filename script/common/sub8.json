@@ -62,7 +62,7 @@
  {
   "id": "c8:131c7",
   "jp": "これ、食えるのか？\nだって、明らかに腐ってる色だろ\nこれ……。",
-  "en": "Can ya even eat this? I mean,\nit's obviously a rotten colour...",
+  "en": "Can ya even eat this? I mean,\nit's obviously a rotten color...",
   "status": "done",
   "slots": [
    "0xb3e"
@@ -382,7 +382,7 @@
  {
   "id": "c8:137c4",
   "jp": "この海ドゼウ、なんか色が変だ……\n食えるのか？",
-  "en": "This Sea Loach is a weird\ncolour... Can I eat it?",
+  "en": "This Sea Loach is a weird\ncolor... Can I eat it?",
   "status": "done",
   "slots": [
    "0x13ba"
@@ -392,7 +392,7 @@
  {
   "id": "c8:137f2",
   "jp": "うま！　なんだこの美味さ！\nこの世のどんな食べ物よりも\nうめぇ！",
-  "en": "Whoa! What is this flavour!\nIt's tastier than any food in the world!",
+  "en": "Whoa! What is this flavor!\nIt's tastier than any food in the world!",
   "status": "done",
   "slots": [
    "0x1402"
@@ -942,7 +942,7 @@
  {
   "id": "c8:142f8",
   "jp": "この美味さ……ギャグじゃない！",
-  "en": "This flavour... it's no gag!",
+  "en": "This flavor... it's no gag!",
   "status": "done",
   "slots": [
    "0x2269"
@@ -1702,7 +1702,7 @@
  {
   "id": "c8:1515f",
   "jp": "この色さえなけりゃあ、いい肴に\nなったと思うんだけどなぁ。",
-  "en": "If it weren't for this colour, it'd have\nmade a fine drinkin' snack, I reckon.",
+  "en": "If it weren't for this color, it'd have\nmade a fine drinkin' snack, I reckon.",
   "status": "done",
   "slots": [
    "0x36d4"
@@ -2022,7 +2022,7 @@
  {
   "id": "c8:157c6",
   "jp": "どう育てばこんな色になるんだぁ？\n金なんて食ったことねぇぞ。",
-  "en": "How does it grow to be this colour?\nI ain't never eaten gold before.",
+  "en": "How does it grow to be this color?\nI ain't never eaten gold before.",
   "status": "done",
   "slots": [
    "0x3f1a"
@@ -2032,7 +2032,7 @@
  {
   "id": "c8:15802",
   "jp": "くはぁーうめぇ！\nなんなんだぁオイこの美味さは！\n酒が止まらねぇぜ！",
-  "en": "Kahhh, delicious! What the hell is\nwith this flavour! I can't stop drinkin'!",
+  "en": "Kahhh, delicious! What the hell is\nwith this flavor! I can't stop drinkin'!",
   "status": "done",
   "slots": [
    "0x3f62"
@@ -2232,7 +2232,7 @@
  {
   "id": "c8:15b89",
   "jp": "……空しい。",
-  "en": "...How pointless.",
+  "en": "...Who am I kidding.",
   "status": "done",
   "slots": [
    "0x44da"
@@ -2252,7 +2252,7 @@
  {
   "id": "c8:15bc8",
   "jp": "今では大好物だけどね。\nうん、おいしい。",
-  "en": "Now they're my favourite,\nthough. Mm, yummy.",
+  "en": "Now they're my favorite,\nthough. Mm, yummy.",
   "status": "done",
   "slots": [
    "0x4566"
@@ -2282,7 +2282,7 @@
  {
   "id": "c8:15c35",
   "jp": "お！　あたしの大好物！\nいっただっきまーす！",
-  "en": "Oh! My favourite! Let's dig iiin!",
+  "en": "Oh! My favorite! Let's dig iiin!",
   "status": "done",
   "slots": [
    "0x461d"
@@ -2512,7 +2512,7 @@
  {
   "id": "c8:160a0",
   "jp": "死んでからけっこう経ってるわね。\nここまで味が落ちるなんて……。",
-  "en": "It's been dead a good while.\nTo think it could lose this much flavour...",
+  "en": "It's been dead a good while.\nTo think it could lose this much flavor...",
   "status": "done",
   "slots": [
    "0x4c57"
@@ -2742,7 +2742,7 @@
  {
   "id": "c8:1650b",
   "jp": "プロテイモはビタミンＣと\n食物繊維が非常に豊富だ。\nいくら食べてもいいな。",
-  "en": "Protatoes are extremely rich\nin vitamin C and dietary fibre.\nOne can eat as many as one likes.",
+  "en": "Protatoes are extremely rich\nin vitamin C and dietary fiber.\nOne can eat as many as one likes.",
   "status": "done",
   "slots": [
    "0x5298"
@@ -2802,7 +2802,7 @@
  {
   "id": "c8:1669a",
   "jp": "青色というのは、食欲を減退させる\n効果があるんだ……。",
-  "en": "The colour blue has the effect\nof reducing the appetite...",
+  "en": "The color blue has the effect\nof reducing the appetite...",
   "status": "done",
   "slots": [
    "0x5438"
@@ -2962,7 +2962,7 @@
  {
   "id": "c8:169ec",
   "jp": "果実の赤色が均一で表面に光沢が\nあるもの、そして、ヘタが青々\nとして張りのあるものを選ぶ。",
-  "en": "Choose one with an even red\ncolour and a glossy surface,\nand with a fresh, green, firm stem.",
+  "en": "Choose one with an even red\ncolor and a glossy surface,\nand with a fresh, green, firm stem.",
   "status": "done",
   "slots": [
    "0x579c"
@@ -3002,7 +3002,7 @@
  {
   "id": "c8:16ae3",
   "jp": "うん、美味い。\n塩味を加えることで、素材の味や\n甘味を引き立てるのだろうな。",
-  "en": "Mm, delicious. Adding saltiness must bring\nout the ingredients' flavour and sweetness.",
+  "en": "Mm, delicious. Adding saltiness must bring\nout the ingredients' flavor and sweetness.",
   "status": "done",
   "slots": [
    "0x587b"
@@ -3112,7 +3112,7 @@
  {
   "id": "c8:16d4a",
   "jp": "長いこと閉じ込めていたからな。\n味が落ちる前に食べるか。",
-  "en": "It's been shut away a long time.\nShall I eat it before the flavour goes?",
+  "en": "It's been shut away a long time.\nShall I eat it before the flavor goes?",
   "status": "done",
   "slots": [
    "0x5af6"
@@ -3212,7 +3212,7 @@
  {
   "id": "c8:16fa7",
   "jp": "しかもこの美味しさ……歴史に残る\n大発見だ！",
-  "en": "And this flavour... A great\ndiscovery for the history books!",
+  "en": "And this flavor... A great\ndiscovery for the history books!",
   "status": "done",
   "slots": [
    "0x5d63"
@@ -4212,7 +4212,7 @@
  {
   "id": "c8:18251",
   "jp": "あ！　課長の大好物じゃないっすか\nこれ！\nどんな味なんすかねぇ。",
-  "en": "Ah! Isn't this my section chief's favourite\nfood, sir!? I wonder what it tastes like.",
+  "en": "Ah! Isn't this my section chief's favorite\nfood, sir!? I wonder what it tastes like.",
   "status": "done",
   "slots": [
    "0x7713"
@@ -4222,7 +4222,7 @@
  {
   "id": "c8:18290",
   "jp": "独特の味っすね。\nさすが課長。食べてるものもクセが\nあるっす……。",
-  "en": "It's got a unique flavour, sir.\nFigures, with my section chief.\nEven what he eats is quirky...",
+  "en": "It's got a unique flavor, sir.\nFigures, with my section chief.\nEven what he eats is quirky...",
   "status": "done",
   "slots": [
    "0x7750"
@@ -5112,7 +5112,7 @@
  {
   "id": "c8:18efc",
   "jp": "そういえば、近所で栽培されていた\nコレを全て食べてしまった事が\nあってな。",
-  "en": "Come to think of it, there was a\ntime I ate every one of these they\nwere growing in the neighbourhood.",
+  "en": "Come to think of it, there was a\ntime I ate every one of these they\nwere growing in the neighborhood.",
   "status": "done",
   "slots": [
    "0x8f23"
@@ -5162,7 +5162,7 @@
  {
   "id": "c8:19008",
   "jp": "美味い！　何だこの味は！\n流石は王様、といったところか。",
-  "en": "Delicious! What is this flavour!\nA true king, I suppose.",
+  "en": "Delicious! What is this flavor!\nA true king, I suppose.",
   "status": "done",
   "slots": [
    "0x904d"
@@ -5172,7 +5172,7 @@
  {
   "id": "c8:19040",
   "jp": "これは、いいものだな。\n身の色がとてもいい。",
-  "en": "This is a fine one. The colour\nof the flesh is excellent.",
+  "en": "This is a fine one. The color\nof the flesh is excellent.",
   "status": "done",
   "slots": [
    "0x9091"
@@ -5262,7 +5262,7 @@
  {
   "id": "c8:1919c",
   "jp": "果物は贅沢物だからな。\nじっくり味わって食べなければ。",
-  "en": "Fruit is a luxury, after all.\nI must take my time and savour it.",
+  "en": "Fruit is a luxury, after all.\nI must take my time and savor it.",
   "status": "done",
   "slots": [
    "0x92c8"
@@ -5282,7 +5282,7 @@
  {
   "id": "c8:191e5",
   "jp": "塩味のプリンか……どれどれ。",
-  "en": "Salt-flavoured pudding... Let's see.",
+  "en": "Salt-flavored pudding... Let's see.",
   "status": "done",
   "slots": [
    "0x9354"
@@ -6319,7 +6319,7 @@
  {
   "id": "c8:1a4ac",
   "jp": "ありがたき幸せ！\n非常に美味でございまする！",
-  "en": "I am most honoured!\nIt is extremely delicious!",
+  "en": "I am most honored!\nIt is extremely delicious!",
   "status": "done",
   "slots": [
    "0xae53"
@@ -6639,7 +6639,7 @@
  {
   "id": "c8:1aa68",
   "jp": "おかげで今はこれが好物の一つに\nなってしまった……空しいな。",
-  "en": "Thanks to that, they've become one\nof my favourite foods... How empty.",
+  "en": "Thanks to that, they've become one of\nmy favorite foods... How sad is that.",
   "status": "done",
   "slots": [
    "0xb6c8"
@@ -6729,7 +6729,7 @@
  {
   "id": "c8:1ac09",
   "jp": "ボ、ボクの為にこんな高級食材を？\nあ、ありがたき幸せぇ！！",
-  "en": "Y-You'd give such a high-class\ningredient to me? I-I am most honoured!!",
+  "en": "Y-You'd give such a high-class\ningredient to me? I-I am most honored!!",
   "status": "done",
   "slots": [
    "0xb93c"
@@ -6789,7 +6789,7 @@
  {
   "id": "c8:1ad5c",
   "jp": "まぁ、そのおかげで、今では\n大好きな飲み物になったわけです。\n父上には感謝しています。",
-  "en": "Well, thanks to that, it's now one of my\nfavourite drinks. I'm grateful to Father.",
+  "en": "Well, thanks to that, it's now one of my\nfavorite drinks. I'm grateful to Father.",
   "status": "done",
   "slots": [
    "0xbaa3"
@@ -6939,7 +6939,7 @@
  {
   "id": "c8:1b070",
   "jp": "これは……私の大好物の\nスウィートベリーじゃないですか！",
-  "en": "Why, this is my favourite food,\na Sweet Berry!",
+  "en": "Why, this is my favorite food,\na Sweet Berry!",
   "status": "done",
   "slots": [
    "0xbebb"
@@ -7150,7 +7150,7 @@
  {
   "id": "c8:1b426",
   "jp": "綺麗な金色ですねぇ。\n食欲はそそりませんが。",
-  "en": "What a beautiful golden colour.\nNot very appetizing, though.",
+  "en": "What a beautiful golden color.\nNot very appetizing, though.",
   "status": "done",
   "slots": [
    "0xc40f"
@@ -7820,7 +7820,7 @@
  {
   "id": "c8:1c071",
   "jp": "エリーシャが作ってくれたタレが\n美味しさを引き立てるんだわさ！",
-  "en": "The sauce Elisha made for me really\nbrings out the flavour, dontcha know!",
+  "en": "The sauce Elisha made for me really\nbrings out the flavor, dontcha know!",
   "status": "done",
   "slots": [
    "0xd581"
@@ -8520,7 +8520,7 @@
  {
   "id": "c8:1cdb3",
   "jp": "ウゲ、これかよぉ。\n魔界の味なんて、口に合わねぇよ！",
-  "en": "Ugh, this thing? Demon-world\nflavour ain't to my taste!",
+  "en": "Ugh, this thing? Demon-world\nflavor ain't to my taste!",
   "status": "done",
   "slots": [
    "0xe736"
@@ -9365,7 +9365,7 @@
  {
   "id": "c8:1db19",
   "jp": "しまった！\nビンを割ってしまったぞ……。\nどう謝ったらいいだろうか……。",
-  "en": "Blast! I've broken the bottle...\nHow ever shall I apologise...",
+  "en": "Blast! I've broken the bottle...\nHow ever shall I apologize...",
   "status": "done",
   "slots": [
    "0x1049c"

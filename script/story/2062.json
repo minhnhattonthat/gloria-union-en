@@ -266,7 +266,7 @@
  {
   "id": "s2062:00455",
   "jp": "あなた方を旅のお方と見込んで、\nお願いしたいことがあるんじゃ。",
-  "en": "I take you for travellers, and there\nis something I would ask of you.",
+  "en": "I take you for travelers, and there\nis something I would ask of you.",
   "status": "done",
   "slots": [
    "0x376d"
@@ -332,7 +332,7 @@
  {
   "id": "s2062:00558",
   "jp": "んー、中心街の救援にも行きたいん\nだけどなぁ。薬草は早い内じゃない\nとダメか？",
-  "en": "Hmm, I wanna go help out the city centre\ntoo, though. Do the herbs have to be soon?",
+  "en": "Hmm, I wanna go help out the city center\ntoo, though. Do the herbs have to be soon?",
   "status": "done",
   "slots": [
    "0x3839"
@@ -574,7 +574,7 @@
  {
   "id": "s2062:00927",
   "jp": "武勲をあげなくちゃいけないん\nじゃよ。この貧しい都市で生きて\nいくにはの……。",
-  "en": "I have to earn honours in battle.\nIt's the only way to live in this poor city...",
+  "en": "I have to earn honors in battle.\nIt's the only way to live in this poor city...",
   "status": "done",
   "slots": [
    "0x7946"
@@ -585,7 +585,7 @@
  {
   "id": "s2062:00978",
   "jp": "確かに、武勲をあげれば、\nそれなりの金と食料は優先される。",
-  "en": "True, earn honours in battle and you get\nfirst claim on a fair bit of money and food.",
+  "en": "True, earn honors in battle and you get\nfirst claim on a fair bit of money and food.",
   "status": "done",
   "slots": [
    "0x795f"
@@ -860,7 +860,7 @@
  {
   "id": "s2062:00df4",
   "jp": "余所者が武勲を横取りしやがって！\nこの泥棒！！",
-  "en": "Outsiders stealin'\nour battle honours! You thieves!!",
+  "en": "Outsiders stealin'\nour battle honors! You thieves!!",
   "status": "done",
   "slots": [
    "0x7e53"
@@ -882,7 +882,7 @@
  {
   "id": "s2062:00e69",
   "jp": "武勲をあげなきゃ食料もねぇんだ！\n死んだも同じよ！",
-  "en": "No honours, no food! Might as well be dead!",
+  "en": "No honors, no food! Might as well be dead!",
   "status": "done",
   "slots": [
    "0x7e77"

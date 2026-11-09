@@ -436,7 +436,7 @@
  {
   "id": "s2057:00848",
   "jp": "ルキア皇国騎士団……！\nシャンティエの騎士の誇りに賭けて\n貴様を倒す！",
-  "en": "Lukia Imperial Knights...! On my honour\nas a knight of Chantier, I will defeat you!",
+  "en": "Lukia Imperial Knights...! On my honor\nas a knight of Chantier, I will defeat you!",
   "status": "done",
   "slots": [
    "0x639b"
@@ -956,7 +956,7 @@
  {
   "id": "s2057:012a0",
   "jp": "あ、男のアナタには必要ない\nわよね。\n変な噂立っちゃったらゴメンね。",
-  "en": "Oh, but a man like you wouldn't\nneed that, would you?\nSorry if it starts any weird rumours.",
+  "en": "Oh, but a man like you wouldn't\nneed that, would you?\nSorry if it starts any weird rumors.",
   "status": "done",
   "slots": [
    "0x3572",
@@ -1960,7 +1960,7 @@
  {
   "id": "s2057:0778f",
   "jp": "まだ残っていたとは。\nグロリア海賊団は、どんな恩を\nアナタに売ったというのか。",
-  "en": "You're still with them? What favour\ncould the Gloria Pirates have done you?",
+  "en": "You're still with them? What favor\ncould the Gloria Pirates have done you?",
   "status": "done",
   "slots": [
    "0xbf4d"
@@ -1970,7 +1970,7 @@
  {
   "id": "s2057:077dc",
   "jp": "恩？　そんな大したことじゃない。\nただの、私利私欲さ。",
-  "en": "A favour? Nothing so grand.\nMerely my own selfish interests.",
+  "en": "A favor? Nothing so grand.\nMerely my own selfish interests.",
   "status": "done",
   "slots": [
    "0xbf62"

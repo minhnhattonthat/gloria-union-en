@@ -211,7 +211,7 @@
  {
   "id": "s2053:002a1",
   "jp": "馬鹿な！？　独りでに動く鎧など\n聞いたことがないぞ！",
-  "en": "Impossible!? I have never heard\nof armour that moves on its own!",
+  "en": "Impossible!? I have never heard\nof armor that moves on its own!",
   "status": "done",
   "slots": [
    "0x1726"
@@ -512,7 +512,7 @@
  {
   "id": "s2053:00752",
   "jp": "私の名前はガングです。\n先ほどは申し訳ありませんでした。\nって言ってるよ。",
-  "en": "It says, \"My name is Gangr.\nI apologise for earlier.\"",
+  "en": "It says, \"My name is Gangr.\nI apologize for earlier.\"",
   "status": "done",
   "slots": [
    "0x366b"

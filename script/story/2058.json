@@ -266,7 +266,7 @@
  {
   "id": "s2058:00480",
   "jp": "なんで恩もない奴を通さなきゃ\nいけないんだわさ！",
-  "en": "Why should I let through people who\nhaven't done me any favours, dontcha know!",
+  "en": "Why should I let through people who\nhaven't done me any favors, dontcha know!",
   "status": "done",
   "slots": [
    "0x296d"
@@ -288,7 +288,7 @@
  {
   "id": "s2058:004ea",
   "jp": "恩って、言われてもなぁ。",
-  "en": "\"Favours,\" she says...",
+  "en": "\"Favors,\" she says...",
   "status": "done",
   "slots": [
    "0x299c"
@@ -299,7 +299,7 @@
  {
   "id": "s2058:00507",
   "jp": "恩がなければ通れないというのも\n微妙な理由ですね……。",
-  "en": "Not letting us pass because we\nhaven't done her a favour is a\npretty questionable reason...",
+  "en": "Not letting us pass because we\nhaven't done her a favor is a\npretty questionable reason...",
   "status": "done",
   "slots": [
    "0x29cc"
@@ -1410,7 +1410,7 @@
  {
   "id": "s2058:018e2",
   "jp": "おぉ、\nこれはママのお気に入りの一つ、\nダークマターだよ！　やったね！",
-  "en": "Ooh, this is one of Mama's\nfavourites, Dark Matter! Yay!",
+  "en": "Ooh, this is one of Mama's\nfavorites, Dark Matter! Yay!",
   "status": "done",
   "slots": [
    "0x636b"
@@ -1632,7 +1632,7 @@
  {
   "id": "s2058:01d20",
   "jp": "お？　なんか、ここの土だけ色が\n違いません？\n掘ってみましょうか……。",
-  "en": "Oh? Isn't the dirt a different colour\njust here? Let's try digging...",
+  "en": "Oh? Isn't the dirt a different color\njust here? Let's try digging...",
   "status": "done",
   "slots": [
    "0x3207",

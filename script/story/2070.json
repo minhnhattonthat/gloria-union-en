@@ -1077,7 +1077,7 @@
  {
   "id": "s2070:03a23",
   "jp": "ハッハッハ！\nそうかい！　そいつぁ天使冥利に\n尽きるってなもんだ！",
-  "en": "Hahaha! That so! Then that's\nan angel's greatest honour!",
+  "en": "Hahaha! That so! Then that's\nan angel's greatest honor!",
   "status": "done",
   "slots": [
    "0x6042"
@@ -1300,7 +1300,7 @@
  {
   "id": "s2070:03edc",
   "jp": "これだから嫌いなのよ。\n国とか、組織って……。",
-  "en": "This is why I hate them.\nCountries, organisations...",
+  "en": "This is why I hate them.\nCountries, organizations...",
   "status": "done",
   "slots": [
    "0x665d"
@@ -1405,7 +1405,7 @@
  {
   "id": "s2070:040fe",
   "jp": "そして、気づいたわ……。\n私も、犠牲者なんだ。って。",
-  "en": "And then I realised... I'm a victim too.",
+  "en": "And then I realized... I'm a victim too.",
   "status": "done",
   "slots": [
    "0x7326"

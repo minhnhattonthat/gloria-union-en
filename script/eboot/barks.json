@@ -1019,7 +1019,7 @@
  {
   "id": "e:1ee79a",
   "jp": "防御を固めつつ反撃だ！",
-  "en": "Shore up the defence and counter!",
+  "en": "Shore up the defense and counter!",
   "status": "done",
   "slots": [
    "w:1f179c"
@@ -1154,7 +1154,7 @@
  {
   "id": "e:1ee8b7",
   "jp": "我等の守りは誰にも崩されない！",
-  "en": "No one can break our defence!",
+  "en": "No one can break our defense!",
   "status": "done",
   "slots": [
    "w:1f1834"
@@ -2117,7 +2117,7 @@
  {
   "id": "e:1ef118",
   "jp": "攻撃こそ最大の防御なり！",
-  "en": "Offence is the best defence!",
+  "en": "Offense is the best defense!",
   "status": "done",
   "slots": [
    "w:1f1bfc"
@@ -2126,7 +2126,7 @@
  {
   "id": "e:1ef131",
   "jp": "防御こそ、勝利を生む力なり！",
-  "en": "Defence is the power that brings victory!",
+  "en": "Defense is the power that brings victory!",
   "status": "done",
   "slots": [
    "w:1f1c04"
@@ -5042,7 +5042,7 @@
  {
   "id": "e:1f0c15",
   "jp": "お返ししますよ！",
-  "en": "I'll return the favour!",
+  "en": "I'll return the favor!",
   "status": "done",
   "slots": [
    "w:1f2644"
@@ -11009,7 +11009,7 @@
  {
   "id": "e:1f62b4",
   "jp": "鉄壁の守りを！",
-  "en": "An ironclad defence!",
+  "en": "An ironclad defense!",
   "status": "done",
   "slots": [
    "w:205a34"
@@ -11072,7 +11072,7 @@
  {
   "id": "e:1f631f",
   "jp": "鉄壁の守りは崩されない！",
-  "en": "Our ironclad defence won't fall!",
+  "en": "Our ironclad defense won't fall!",
   "status": "done",
   "slots": [
    "w:205a6c"
@@ -11081,7 +11081,7 @@
  {
   "id": "e:1f6338",
   "jp": "鉄壁の守りは崩されない！",
-  "en": "Our ironclad defence won't fall!",
+  "en": "Our ironclad defense won't fall!",
   "status": "done",
   "slots": [
    "w:205a74"
@@ -11090,7 +11090,7 @@
  {
   "id": "e:1f6351",
   "jp": "鉄壁の守りは崩されない！",
-  "en": "Our ironclad defence won't fall!",
+  "en": "Our ironclad defense won't fall!",
   "status": "done",
   "slots": [
    "w:205a7c"
@@ -11099,7 +11099,7 @@
  {
   "id": "e:1f636a",
   "jp": "鉄壁の守りは崩されない！",
-  "en": "Our ironclad defence won't fall!",
+  "en": "Our ironclad defense won't fall!",
   "status": "done",
   "slots": [
    "w:205a84"
@@ -19253,7 +19253,7 @@
  {
   "id": "e:1fab77",
   "jp": "姉さんお得意の搦め手よ！",
-  "en": "Sis's favourite trick!",
+  "en": "Sis's favorite trick!",
   "status": "done",
   "slots": [
    "w:20a4ac"
@@ -24590,7 +24590,7 @@
  {
   "id": "e:1fd7f7",
   "jp": "防御を固めつつ反撃だ！",
-  "en": "Shore up the defence and counter!",
+  "en": "Shore up the defense and counter!",
   "status": "done",
   "slots": [
    "w:20c2ec"
@@ -24725,7 +24725,7 @@
  {
   "id": "e:1fd916",
   "jp": "我等の守りは誰にも崩されない！",
-  "en": "No one can break our defence!",
+  "en": "No one can break our defense!",
   "status": "done",
   "slots": [
    "w:20c384"
@@ -29063,7 +29063,7 @@
  {
   "id": "e:1ffd55",
   "jp": "キャンセルサレマシタ。",
-  "en": "Cancelled.",
+  "en": "Canceled.",
   "status": "done",
   "slots": [
    "w:20d304"
@@ -29081,7 +29081,7 @@
  {
   "id": "e:1ffd7b",
   "jp": "キャンセルされた！？",
-  "en": "Cancelled!?",
+  "en": "Canceled!?",
   "status": "done",
   "slots": [
    "w:20d314"
@@ -32285,7 +32285,7 @@
  {
   "id": "e:201bd2",
   "jp": "防御でも勝つ！",
-  "en": "I'll win even on defence!",
+  "en": "I'll win even on defense!",
   "status": "done",
   "slots": [
    "w:20e85c"
@@ -32303,7 +32303,7 @@
  {
   "id": "e:201bf2",
   "jp": "防御を固めるしかないか……",
-  "en": "All I can do is shore up the defence...",
+  "en": "All I can do is shore up the defense...",
   "status": "done",
   "slots": [
    "w:20e86c"
@@ -33734,7 +33734,7 @@
  {
   "id": "e:202592",
   "jp": "その守りごと吹き飛ばす！",
-  "en": "I'll blow you away, defence and all!",
+  "en": "I'll blow you away, defense and all!",
   "status": "done",
   "slots": [
    "w:20effc"
@@ -34175,7 +34175,7 @@
  {
   "id": "e:2028ae",
   "jp": "攻撃ヲ重視シマス。",
-  "en": "Prioritising. Attack.",
+  "en": "Prioritizing. Attack.",
   "status": "done",
   "slots": [
    "w:20f184"
@@ -34742,7 +34742,7 @@
  {
   "id": "e:202b93",
   "jp": "防御など無意味！",
-  "en": "Defence is meaningless!",
+  "en": "Defense is meaningless!",
   "status": "done",
   "slots": [
    "w:20f37c"
@@ -34751,7 +34751,7 @@
  {
   "id": "e:202ba4",
   "jp": "防御など無意味！",
-  "en": "Defence is meaningless!",
+  "en": "Defense is meaningless!",
   "status": "done",
   "slots": [
    "w:20f384"
@@ -34760,7 +34760,7 @@
  {
   "id": "e:202bb5",
   "jp": "防御など無意味！",
-  "en": "Defence is meaningless!",
+  "en": "Defense is meaningless!",
   "status": "done",
   "slots": [
    "w:20f38c"

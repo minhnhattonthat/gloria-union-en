@@ -953,7 +953,7 @@
  {
   "id": "e:2c3f73",
   "jp": "水の遺跡の噂が流れる島。訪れる調査隊が後を絶たない",
-  "en": "Rumours of a water ruin draw a steady stream of survey teams here",
+  "en": "Rumors of a water ruin draw a steady stream of survey teams here",
   "status": "done",
   "slots": [
    "w:2c6834"
@@ -962,7 +962,7 @@
  {
   "id": "e:2c3fa6",
   "jp": "水の遺跡の噂が流れる島。訪れる調査隊が後を絶たない",
-  "en": "Rumours of a water ruin draw a steady stream of survey teams here",
+  "en": "Rumors of a water ruin draw a steady stream of survey teams here",
   "status": "done",
   "slots": [
    "w:2c6838"
@@ -1178,7 +1178,7 @@
  {
   "id": "e:2c4412",
   "jp": "綺麗な町と綺麗な港で有名な観光スポットがある島",
-  "en": "An island famous for its pretty town and pretty harbour",
+  "en": "An island famous for its pretty town and pretty harbor",
   "status": "done",
   "slots": [
    "w:2c6898"
@@ -1223,7 +1223,7 @@
  {
   "id": "e:2c44f3",
   "jp": "バッソフォンドを中心とする、ルキア皇国との紛争地域",
-  "en": "Contested land against the Lukia Empire, centred on Bassofondo",
+  "en": "Contested land against the Lukia Empire, centered on Bassofondo",
   "status": "done",
   "slots": [
    "w:2c68ac"
@@ -1502,7 +1502,7 @@
  {
   "id": "e:2c499c",
   "jp": "島に唯一ある港を中心とした村。",
-  "en": "A village built around the island's only harbour.",
+  "en": "A village built around the island's only harbor.",
   "status": "done",
   "slots": [
    "w:2c5c6c"
@@ -1574,7 +1574,7 @@
  {
   "id": "e:2c4a70",
   "jp": "旅に訪れた男が生贄について疑問に思っている",
-  "en": "A travelling man has doubts about the sacrifices",
+  "en": "A traveling man has doubts about the sacrifices",
   "status": "done",
   "slots": [
    "w:2c5c9c"

@@ -656,7 +656,7 @@
  {
   "id": "s2073:00d40",
   "jp": "攻撃のガルム将軍が\n守りに徹するとは……。",
-  "en": "For General Garm, the attacker,\nto devote himself to defence...",
+  "en": "For General Garm, the attacker,\nto devote himself to defense...",
   "status": "done",
   "slots": [
    "0x3edc"
@@ -736,7 +736,7 @@
  {
   "id": "s2073:00ea3",
   "jp": "ま、どんなに防御を固めても、\n最強のパメラ様には意味ないん\nだけどね。",
-  "en": "Well, however tight your defence, it means\nnothing to the mighty Pamela-sama.",
+  "en": "Well, however tight your defense, it means\nnothing to the mighty Pamela-sama.",
   "status": "done",
   "slots": [
    "0x409f"
@@ -776,7 +776,7 @@
  {
   "id": "s2073:00f99",
   "jp": "アナタの詩には、少し恋の色が\n混じっていますわね。",
-  "en": "Your song has a touch of\nthe colour of love mixed in.",
+  "en": "Your song has a touch of\nthe color of love mixed in.",
   "status": "done",
   "slots": [
    "0x4f53"
@@ -1593,7 +1593,7 @@
  {
   "id": "s2073:0650e",
   "jp": "アナタの詩は、何も色が無いようで\n誰よりも濃い色で包まれていますわ",
-  "en": "Your song seems to have no\ncolour at all, yet it is wrapped in\na deeper colour than anyone's.",
+  "en": "Your song seems to have no\ncolor at all, yet it is wrapped in\na deeper color than anyone's.",
   "status": "done",
   "slots": [
    "0xa369"
@@ -1952,7 +1952,7 @@
  {
   "id": "s2073:06a86",
   "jp": "こんなところまで客が来るとは、\n世界中を回った甲斐があったな。",
-  "en": "For a customer to come all this way...\nTravelling all over the world was worth it.",
+  "en": "For a customer to come all this way...\nTraveling all over the world was worth it.",
   "status": "done",
   "slots": [
    "0x2e5a",
@@ -2235,7 +2235,7 @@
  {
   "id": "s2073:06e9a",
   "jp": "こんなところまで客が来るとは、\n世界中を回った甲斐があったな。",
-  "en": "For a customer to come all this way...\nTravelling all over the world was worth it.",
+  "en": "For a customer to come all this way...\nTraveling all over the world was worth it.",
   "status": "done",
   "slots": [
    "0x33b2",

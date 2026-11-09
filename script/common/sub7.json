@@ -362,7 +362,7 @@
  {
   "id": "c7:02482",
   "jp": "ユニットの能力や武器相性から\n対戦の優劣がどうなるのか\n分析した評価値ってことです。",
-  "en": "It's a rating that analyses who has\nthe edge in each fight, from the units'\nabilities and weapon matchups.",
+  "en": "It's a rating that analyzes who has\nthe edge in each fight, from the units'\nabilities and weapon matchups.",
   "status": "done",
   "slots": [
    "0x33c"
@@ -2049,7 +2049,7 @@
  {
   "id": "c7:04b97",
   "jp": "『昏睡』にかかると、\n深い眠りに落ちて移動もできず、\n戦闘では無抵抗に陥ります。",
-  "en": "Under 'Sleep', you fall into\na deep sleep, can't move,\nand are left defenceless in battle.",
+  "en": "Under 'Sleep', you fall into\na deep sleep, can't move,\nand are left defenseless in battle.",
   "status": "done",
   "slots": [
    "0x19ea"

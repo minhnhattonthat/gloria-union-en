@@ -1117,7 +1117,7 @@
  {
   "id": "s2061:013b0",
   "jp": "そのような組織が……。",
-  "en": "Such an organisation exists...",
+  "en": "Such an organization exists...",
   "status": "done",
   "slots": [
    "0x691a"
@@ -1491,7 +1491,7 @@
  {
   "id": "s2061:01aae",
   "jp": "コレさえあれば戦況が有利に\nなるの……ごめんね。",
-  "en": "With this, the battle will\nturn in our favour... I'm sorry.",
+  "en": "With this, the battle will\nturn in our favor... I'm sorry.",
   "status": "done",
   "slots": [
    "0x39ac"

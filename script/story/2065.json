@@ -485,7 +485,7 @@
  {
   "id": "s2065:0097e",
   "jp": "悪役と言ったら、ゴツゴツした鎧\nでしょ？　え、違う？",
-  "en": "When it comes to villains, it's got to\nbe chunky armour, right? Huh, no?",
+  "en": "When it comes to villains, it's got to\nbe chunky armor, right? Huh, no?",
   "status": "done",
   "slots": [
    "0x1c68",
@@ -546,7 +546,7 @@
  {
   "id": "s2065:00ac3",
   "jp": "ここら近辺の食べられるものは\n全て食べつくしてしまったな……。\n何か、新しい味覚はないものか……",
-  "en": "I've eaten everything edible around here...\nIsn't there some new flavour out there...?",
+  "en": "I've eaten everything edible around here...\nIsn't there some new flavor out there...?",
   "status": "done",
   "slots": [
    "0x50ad"
@@ -896,7 +896,7 @@
  {
   "id": "s2065:0105e",
   "jp": "金色は、欲望の色なので、\nあまり好きではないのですけど……",
-  "en": "Gold is the colour of greed,\nso I'm not very fond of it, but...",
+  "en": "Gold is the color of greed,\nso I'm not very fond of it, but...",
   "status": "done",
   "slots": [
    "0x5b9e"
@@ -916,7 +916,7 @@
  {
   "id": "s2065:010b7",
   "jp": "いいよなぁこの色！\nチャンピオンって感じがするぜ！",
-  "en": "Love this colour!\nMakes me feel like a champion!",
+  "en": "Love this color!\nMakes me feel like a champion!",
   "status": "done",
   "slots": [
    "0x5c25"
@@ -2183,7 +2183,7 @@
  {
   "id": "s2065:041d5",
   "jp": "それは。アナタ達を私の組織。\nエルマーレ連合国。反皇国連合の\n一員にしたいからです。",
-  "en": "Because I want you to become part of\nmy organisation. The Elmare Federation.\nThe Anti-Imperial Federation.",
+  "en": "Because I want you to become part of\nmy organization. The Elmare Federation.\nThe Anti-Imperial Federation.",
   "status": "done",
   "slots": [
    "0x7f17"
