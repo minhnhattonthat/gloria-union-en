@@ -403,6 +403,35 @@ cols3:
   addu $s2, $s2, $t0
   jr $ra
   mult $s2, $s1
+vacc:
+  addiu $sp, $sp, -16
+  sw $ra, 0($sp)
+  sw $a0, 4($sp)
+  bal getdata
+  nop
+  sw $a0, 64($v0)
+  lw $a0, 0($s0)
+  jal vwidth
+  ori $a2, $zero, 1
+  move $t7, $v0
+  bal getdata
+  nop
+  lw $t0, 68($v0)
+  addu $t0, $t0, $t7
+  sw $t0, 68($v0)
+  lw $a0, 4($sp)
+  lw $ra, 0($sp)
+  j 0x14f37c
+  addiu $sp, $sp, 16
+vtake:
+  move $t8, $ra
+  bal getdata
+  nop
+  move $ra, $t8
+  lw $t0, 68($v0)
+  sw $zero, 68($v0)
+  jr $ra
+  move $v0, $t0
 """
 
 
@@ -464,10 +493,15 @@ def patch(e):
               by='item descriptions: place 90 cells')
     # Character Select CAUTION (0xCB644): "In this battle," + name + "can't be removed" are written to one row, each at
     # col = the bytes before it / 2 (JP: 1 cell per SJIS char), so English cells overwrote each other ("In thisIscan't
-    # be removed", tour char_caution). Col = bytes (1 cell per ASCII byte); the window centring keeps total / 2 cells.
+    # be removed", tour char_caution). Col = bytes (1 cell per ASCII byte). The window x centred cells x pitch on 480;
+    # now it centres the row's VWF width: each part's strlen goes through vacc (adds its vwidth at data +68), vtake
+    # returns and clears the sum in place of the pitch, and the mult is dropped.
     for a in (0xCB700, 0xCB73C, 0xCB77C):
         e.put(a, eboot.asm('move $a0, $v0', a), expect='42200200', by='caution: col by bytes')
-    e.put(0xCB788, eboot.asm('sra $s1, $a0, 0x11', 0xCB788), expect='038c0400', by='caution: centre by bytes / 2')
+    for a in (0xCB6F8, 0xCB734, 0xCB774):
+        e.jal(a, names['vacc'], expect='df3c050c', by='caution: row width by advances')
+    e.jal(0xCB78C, names['vtake'], expect='8e86020c', by='caution: centre by the row width')
+    e.put(0xCB794, bytes(4) + eboot.asm('move $a2, $v0', 0xCB798), expect='18002202' '12300000', by='caution: centre by the row width')
     # text width helper 0xA4A3C(win, count, font) = count x pitch; six callers pass strlen / 2 to centre or right-align
     # a string (unit name bar 0x7404, map headers 0xC1xxx...): their strlen goes through vlen (keeps the string) and
     # the helper call through vwidth (VWF advances for ASCII, the pitch per SJIS character)

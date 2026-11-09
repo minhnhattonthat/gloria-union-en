@@ -1298,8 +1298,10 @@ fixed("scen_titles", 0x80, 304, 176, [((145 * (i // 8), 22 * (i % 8), 145, 22), 
       16, file=2427, pad=0, ink=((255, 244, 203, 255), (22, 14, 8, 255)))
 asset("difficulty", 2427, "ptx", 0xd220, (19, 13, 32, 15),   # 難易度 on a black box x 18-51 rows 12-28, right of an X icon
       lambda a, t: draw_box_word(a, (19, 13, 32, 15), t["sc_difficulty"], 12))
-fixed("opt_battle", 0x60910, 384, 44, [((181, 0, 70, 21), "opt_normal", False), ((301, 0, 71, 21), "opt_hard", False),
-                                       ((2, 22, 279, 21), "opt_battle_q", False)], 18, file=4, face=REGULAR, stroke=0)
+asset("opt_battle", 4, "ptx", 0x60910, (0, 0, 384, 44),   # the question is drawn at a fixed x: centre it in its rect (JP fills it)
+      lambda a, t: draw_fixed(draw_fixed(a, [((181, 0, 70, 21), t["opt_normal"], False), ((301, 0, 71, 21), t["opt_hard"], False)],
+                                         18, face=REGULAR, stroke=0),
+                              [((2, 22, 279, 21), t["opt_battle_q"], False)], 18, face=REGULAR, stroke=0, center=True))
 asset("opt_help", 4, "ptx", 0x64ba0, (0, 0, 304, 96),   # a moon icon at x 266-282 stays
       lambda a, t: draw_fixed(draw_fixed(a, [((0, 1, 284, 11), t["opt_event_voice"], False),
                                              ((0, 14, 274, 11), t["opt_battle_voice"], False),
