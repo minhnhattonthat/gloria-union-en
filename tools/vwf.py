@@ -462,6 +462,12 @@ def patch(e):
     for a, exp in ((0xE1170, '1e00652a'), (0xE1308, '1e00452a'), (0x13AA10, '1e00042a')):
         e.put(a, struct.pack('<I', struct.unpack('<I', bytes.fromhex(exp))[0] & 0xFFFF0000 | 0x5A), expect=exp,
               by='item descriptions: place 90 cells')
+    # Character Select CAUTION (0xCB644): "In this battle," + name + "can't be removed" are written to one row, each at
+    # col = the bytes before it / 2 (JP: 1 cell per SJIS char), so English cells overwrote each other ("In thisIscan't
+    # be removed", tour char_caution). Col = bytes (1 cell per ASCII byte); the window centring keeps total / 2 cells.
+    for a in (0xCB700, 0xCB73C, 0xCB77C):
+        e.put(a, eboot.asm('move $a0, $v0', a), expect='42200200', by='caution: col by bytes')
+    e.put(0xCB788, eboot.asm('sra $s1, $a0, 0x11', 0xCB788), expect='038c0400', by='caution: centre by bytes / 2')
     # text width helper 0xA4A3C(win, count, font) = count x pitch; six callers pass strlen / 2 to centre or right-align
     # a string (unit name bar 0x7404, map headers 0xC1xxx...): their strlen goes through vlen (keeps the string) and
     # the helper call through vwidth (VWF advances for ASCII, the pitch per SJIS character)

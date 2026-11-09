@@ -1,11 +1,11 @@
 """Composite pages of many tour sheets, to read them with fewer image reads.
 
-    python -X utf8 tools/tour_comp.py ROOT OUTDIR [--match story_] [--per 4]
+    python -X utf8 tools/tour_comp.py ROOT OUTDIR [--match story_] [--per 4]     (--match: regex searched in the scene name)
 
 Takes ROOT/*/sheet*.png (scene order), writes OUTDIR/comp_NNN.png (--per sheets each, 2 columns, full size) and
 OUTDIR/comp.tsv (page, sheets) so a verdict on a page maps back to its sheets.
 """
-import argparse, glob, os, subprocess, sys
+import argparse, glob, os, re, subprocess, sys
 
 from skill import SKILL
 
@@ -16,7 +16,7 @@ def main():
     a = ap.parse_args()
     os.makedirs(a.out, exist_ok=True)
     src = [p for p in sorted(glob.glob(os.path.join(a.root, '*', 'sheet*.png')))
-           if a.match in os.path.basename(os.path.dirname(p))]
+           if re.search(a.match, os.path.basename(os.path.dirname(p)))]
     rows = []
     for i in range(0, len(src), a.per):
         out = os.path.join(a.out, f'comp_{i // a.per:03d}.png')

@@ -278,7 +278,7 @@
  {
   "id": "e:254cc8",
   "jp": "この戦いでは、",
-  "en": "In this battle,",
+  "en": "In this battle, ",
   "status": "done",
   "slots": [
    "i:cb674:cb678"
@@ -287,7 +287,7 @@
  {
   "id": "e:254cd8",
   "jp": "を出撃メンバーから",
-  "en": "can't be removed",
+  "en": " can't be removed",
   "status": "done",
   "slots": [
    "i:cb680:cb68c"

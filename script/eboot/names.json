@@ -54,12 +54,12 @@
  {
   "id": "e:28017c",
   "jp": "記録メディア",
-  "en": "",
-  "status": "data",
+  "en": "storage media",
+  "status": "done",
   "slots": [
    "i:109664:109674"
   ],
-  "notes": "debug"
+  "notes": "the %s in 'Check the %s again?' (title Continue with no suspend data)"
  },
  {
   "id": "e:28018c",
