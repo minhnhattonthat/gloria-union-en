@@ -1475,6 +1475,126 @@ for _i, _o in enumerate(plate_offsets()):
           resize=True, section=4)
 
 
+# --- stage result screen (file 1704; rect tables at EBOOT 0x2cacca x16 and 0x2cad4a x24, copied by 0xe78b0) --------
+# Textures 0 (white "X隊勝利", item/card get), 2, 7 and 8 are drawn only by dead code (0xe5ea4 has no caller): not redrawn.
+
+def glow_layer(text, face, size, stops, rims, xscale=1.0, shear=0.0, shadow=None):
+    """Text filled with a vertical gradient (stops: colours top to bottom over the ink), ringed by rims [(rgba, px)]
+    (innermost first, each grown from the last), an optional shadow (dx, dy, rgba) under all; a tight layer."""
+    f = font(face, size)
+    pad = sum(n for _, n in rims) + (max(shadow[0], shadow[1]) if shadow else 0) + 2
+    l, t, r, b = f.getbbox(text)
+    m = Image.new("L", (r - l + 2 * pad, b - t + 2 * pad), 0)
+    ImageDraw.Draw(m).text((pad - l, pad - t), text, font=f, fill=255)
+    if xscale != 1.0:
+        m = m.resize((max(1, round(m.width * xscale)), m.height), Image.LANCZOS)
+    if shear:
+        extra = int(abs(shear) * m.height) + 1
+        m = m.transform((m.width + extra, m.height), Image.AFFINE, (1, shear, -extra if shear > 0 else 0, 0, 1, 0),
+                        Image.BICUBIC)
+    alpha = np.array(m).astype(float) / 255
+    ink = alpha >= 0.5
+    rows = np.flatnonzero(ink.any(1))
+    h, w = alpha.shape
+    out = np.zeros((h, w, 4), float)
+    masks, grown = [], ink
+    for col, n in rims:
+        grown = grow(grown, n)
+        masks.append((grown, col))
+    if shadow:
+        dx, dy, col = shadow
+        sh = np.zeros_like(grown)
+        sh[dy:, dx:] = grown[:h - dy, :w - dx]
+        out[sh] = col
+    for msk, col in reversed(masks):
+        out[msk] = col
+    tt = np.clip((np.arange(h) - rows[0]) / max(1, rows[-1] - rows[0]), 0, 1)
+    k = tt * (len(stops) - 1)
+    i0 = np.minimum(k.astype(int), len(stops) - 2)
+    st = np.array(stops, float)
+    grad = st[i0] + (st[i0 + 1] - st[i0]) * (k - i0)[:, None]
+    a = alpha[..., None]
+    out[..., :3] = out[..., :3] * (1 - a) + grad[:, None, :3] * a
+    out[..., 3] = np.maximum(out[..., 3], alpha * 255)
+    lay = Image.fromarray(out.round().clip(0, 255).astype(np.uint8))
+    return lay.crop(lay.getbbox())
+
+
+def fit_glow(text, w, h, size, smin=10, xmin=0.75, **style):
+    """glow_layer at the largest size <= size that fits h, squeezed (to xmin at worst) to fit w."""
+    for s in range(size, smin - 1, -1):
+        lt = glow_layer(text, size=s, **style)
+        xs = min(1.0, w / lt.width)
+        if lt.height <= h and xs >= xmin:
+            return glow_layer(text, size=s, xscale=xs, **style) if xs < 1 else lt
+    raise ValueError(f"{text!r}: no room in {w}x{h}")
+
+
+def draw_glow(a, items, size, align="c", uniform=False, **style):
+    """Each (rect, text): the rect cleared and the English drawn in it, centred vertically (align l/c horizontally).
+    uniform: one font size for every item, the largest all of them fit."""
+    px = a.copy()
+    for (u, v, w, h), _ in items:
+        px[v:v + h, u:u + w] = 0
+    out = Image.fromarray(px)
+    if uniform:
+        def fits(s):
+            try:
+                [fit_glow(text, w - 2, h, s, smin=s, **style) for (u, v, w, h), text in items]
+                return True
+            except ValueError:
+                return False
+        size = next(s for s in range(size, 9, -1) if fits(s))
+    for (u, v, w, h), text in items:
+        lt = fit_glow(text, w - 2, h, size, **style)
+        x = u + (1 if align == "l" else (w - lt.width) // 2)
+        out.alpha_composite(lt, (x, v + (h - lt.height) // 2))
+    res = np.array(out)
+    res[res[..., 3] == 0] = 0
+    return res
+
+
+GOLD_RIMS = [((248, 244, 61, 255), 2), ((255, 184, 20, 255), 2), ((255, 185, 20, 110), 1)]
+BRUSH = dict(face="LiberationSerif-Bold.ttf", shear=0.25, rims=GOLD_RIMS)
+WIN_NAVY = [(1, 12, 99, 255), (1, 8, 72, 255), (1, 6, 46, 255), (1, 2, 17, 255)]
+asset("res_win", 1704, "ptx", 0x6fb90, (0, 0, 512, 53),   # rects B3-B5: グロリア, イシュト (48 high), 海賊団勝利!
+      lambda a, t: draw_glow(a, [((0, 0, 152, 48), t["res_gloria"]), ((152, 0, 140, 48), t["res_ishut"]),
+                                 ((292, 0, 208, 53), t["res_pirates_win"])], 60, stops=WIN_NAVY, **BRUSH))
+asset("res_items", 1704, "ptx", 0x76c30, (0, 0, 248, 48),   # rect B15
+      lambda a, t: draw_glow(a, [((0, 0, 248, 48), t["res_items"])], 56,
+                             stops=[(96, 0, 36, 255), (81, 0, 31, 255), (66, 0, 24, 255), (44, 2, 16, 255),
+                                    (11, 0, 4, 255)], **BRUSH))
+asset("res_cards", 1704, "ptx", 0x79cd0, (0, 0, 232, 48),   # rect B16
+      lambda a, t: draw_glow(a, [((0, 0, 232, 48), t["res_cards"])], 56,
+                             stops=[(3, 73, 94, 255), (4, 60, 77, 255), (2, 47, 61, 255), (2, 9, 14, 255)], **BRUSH))
+
+# MVP names: table A (0x2cacca), rect i = the unit's name cell; black, yellow then red-orange rim, left-aligned
+MVP_NAMES = ["なし", "イシュト", "ピンガー", "ルルゥ", "ザザーランド", "エリーシャ", "ミネソタ", "ロコモコ", "ラズベリー", "ガング",
+             "フィービー", "アンヌ", "カミュル", "ユグドラ", "パメラ", "イータ"]
+asset("res_mvp", 1704, "ptx", 0x65f10, (0, 0, 256, 296),
+      lambda a, t: draw_glow(a, [(tuple(r), t["res_none"] if jp == "なし" else plate_en(jp))
+                                 for r, jp in zip(table_rects(0x2cacca, 16), MVP_NAMES)], 34, align="l", uniform=True,
+                             face="LiberationSans-BoldItalic.ttf", stops=[(1, 1, 1, 255)],
+                             rims=[((246, 242, 41, 255), 2), ((243, 94, 61, 255), 2), ((243, 94, 61, 110), 1)]))
+
+
+def draw_res_card(a, text):
+    """1704 PTGs 18-56: the card name on the card-get page, salmon italic serif, black rim and shadow, from x 0."""
+    lt = fit_glow(text, a.shape[1] - 1, a.shape[0], 26, xmin=0.55, face="LiberationSerif-Bold.ttf", shear=0.25,
+                  stops=[(255, 216, 179, 255), (252, 168, 138, 255), (253, 140, 115, 255)],
+                  rims=[((0, 0, 0, 255), 1)], shadow=(2, 2, (0, 0, 0, 255)))
+    out = Image.new("RGBA", (a.shape[1], a.shape[0]), (0, 0, 0, 0))
+    out.alpha_composite(lt, (0, (a.shape[0] - lt.height) // 2))
+    return np.array(out)
+
+
+# PTGs whose developer English differs from the script's card name (same cards and sentence case as ex_card_art)
+_b1704 = (FILES / "01704.bin").read_bytes() if FILES.exists() else b""
+for _c, _en in ({**ex_card_redraws(0), **{20 + i: e for i, e in ex_card_redraws(20).items()}} if _b1704 else {}).items():
+    asset(f"res_card{_c + 1}", 1704, "ptg", struct.unpack_from("<I", _b1704, 0x10 + 4 * (18 + _c))[0], (0, 0, 512, 512),
+          lambda a, t, en=_en: draw_res_card(a, en), resize=True)
+
+
 # --- status popups (id 3 section 16: 250x40 PTGs, white italic, right-aligned over the unit) ---------------------
 
 POPUPS = ["pop_morale_damage", "pop_morale_restored", "pop_ailment_cured", "pop_drowsy", "pop_all_up", "pop_gen_up",

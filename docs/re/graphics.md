@@ -79,14 +79,14 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | ids 1636-1639 | **body**: ending/epilogue pages | yes | PTX |
 | id 1651 +1b760..+82ed0 | **body**: ending letters, 30 blue lines; `fin` English | yes | PTX |
 | id 1703 +2add0, +2c070, +2fb50 | フィールド上にオブジェクトは何もありません, object list and big names 砲台 都市 集落 架橋 城砦 門(開) 門(閉) 投石器 目標地点 柵 アイテム 船 | yes | PTX |
-| id 1704 +100, +1b200, +25c60, +46a00, +65f10, +6fb90, +76c30, +79cd0 | アイテム入手, 海賊団勝利, カード入手, ガーロット隊勝利 etc.; 確認 strings; MVP なし; name lists; skill lists; グロリア イシュト海賊団勝利! | yes | PTX |
+| id 1704 +100, +1b200, +25c60, +46a00, +65f10, +6fb90, +76c30, +79cd0 | アイテム入手, 海賊団勝利, カード入手, ガーロット隊勝利 etc.; 確認 strings; MVP なし; name lists; skill lists; グロリア イシュト海賊団勝利! | yes: **done session 40** for the live ones (+65f10 MVP names, +6fb90, +76c30, +79cd0, card-name PTGs 18-56 where the script differs); +100, +1b200, +25c60, +46a00 (textures 0, 2, 7, 8) **unused**, see §Unused | PTX |
 | id 1757 +fc0 | skill name list | yes | PTX |
 | id 1758 +16b0, +3310 | リトライするタイトル画面に戻る, ゲームオーバー | yes | PTX |
 | ids 1850-1905 | stage titles, each horizontal (+30) and vertical (+2d90): ハジマリの青 海と空と君と, 黒い牙, 大海の覇者... up to 55 pairs (count not taken) | yes | PTX |
 | ids 1945-1991 | event banners: big kanji word + English subline (増援 / Help has arrived.), 47; PTP entry 1 (+5c40, or +8940/+8b40 for the 8 italic ones) is the word. Shown by script op 0x4A (`4a 07 00 <n> ...`, handler 0x11A070, loader 0x10FEC4 opens 1945 + n), 1:1 at the screen top, 50 frames after the op. **Done 2026-11-09** (`banner<id>` in gfx/text.tsv, warp scenes `banner00`-`banner46`) | yes | PTG |
 | id 1992 +1640.. | credits, 8 pages; D3 says English | yes | PTX |
 | id 2020 +20, +1580 | ゲーム再開OK? (+20, blue), ゲーム中断OK? (+1580, red); +2ae0, +3740 already English. **Done 2026-11-09** | yes | PTX |
-| id 2021 +50 | character profile labels (kana names + `Garlot is...`, weapon types) | yes | PTX |
+| id 2021 +50 | character profile labels (kana names + `Garlot is...`, weapon types) | **unused** (session 40, Yggdra Union leftover: see §Unused) | PTX |
 | id 2022 +58a60 | **body**: prologue page | yes | PTX |
 | id 2023 +d0..+11b660 | tutorial plates: 25 titled panels with Japanese callouts | yes | PTX |
 | id 2362 +100, +9040 | card effect table (■威力=...), スキル効果と発動タイプ使用条件 | yes | PTX |
@@ -110,6 +110,18 @@ screens draw the same lines as EBOOT strings (EXTRA item Data tab: conditions `0
 (ガーロット専用 where the string says イシュト専用, ガルカーサ, 弓タイプ for 銃), 閲覧OK for 閲覧可, track names that match
 no music title. The scene titles exist in no string and Scene Replay starts the stage directly (`work/qa/s38/scen`). Not
 redrawn; if one ever shows in game, redraw it from the matching string.
+
+**Unused, session 40 (code evidence).** File id 2021 (Yggdra Union profile sheet: Garlot, Siskier, Leon... and its card
+art) is loaded only by 0x12b000 (`ori a0, 0x7e5`), which has no `jal`/`j` caller and no pointer to it, and no warp run's
+`files.txt` lists 2021 (1139 runs). File 1704 (stage result): the result screen 0xe78b0 fetches textures through
+0x9d9ac(handle, PTP index) with indices 1, 4, 5, 9-17 only; rects come from EBOOT tables 0x2cacca (16: MVP name cells of
+texture 13, in unit order なし, イシュト, ピンガー...) and 0x2cad4a (24: B0 STAGE CLEAR, B3-B5 グロリア / イシュト /
+海賊団勝利! of texture 15, B15-B16 textures 16-17...). Texture 0 (white Gothic アイテム入手, 海賊団勝利, カード入手,
+ガーロット隊勝利, ガルカーサ隊勝利, 近衛隊勝利, 私兵団勝利, four 確認 labels, このユニットは...) is drawn by 0xe5ea4
+(rects 0x2caba8, picked by stage number), which has no caller; 0xe6818 reads only its header. One path, 0xe886c (flag
+0x20000000 in +0xfc), draws texture 0 with rect B22 (130,15,33,12): B22 is "Card." of texture 10, so likely a dev slip;
+it would show a sliver of the white テ. Textures 2 (Bonus Point / MVP なし), 7 (pink names with Yggdra units), 8 (card
+list with epithets) are never fetched. Not redrawn.
 | id 2362 +bae0..+3da70 | skill names, English only | no | PTG |
 | title (id 4 +58ec0, +277170 in id 3) | GAME START... English; `Gloria Union` logo English | no | PTX |
 | ICON0, PIC1, INSDIR/ICON0 | English logo, INSTALL DATA | no | PNG |
