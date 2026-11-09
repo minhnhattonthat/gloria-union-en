@@ -49,6 +49,8 @@ BUDGETS = {
     '2/12/14/5': (145, 5, 'measured: gate3/28 skill notice on the map, screen edge at ~150'),
     '2/13/14/1': (190, 1, 'measured: gate3/29 tactics card Info bar, screen edge at +197'),
     '2/15/14/2': (195, 2, 'measured: gate3/30 card data effect lines, screen edge at ~200'),
+    '2/15/14/1': (195, 1, 'measured: tour/card_data proof, one row per JP line (ROWS_FROM_TEXT): a \\n in a 1-line entry '
+                          'drew its second half under the next row'),
     '2/15/376/1': (480, 1, 'measured: gate3/31 card data top ticker (scrolls); 45-cell cap'),
     # fit sweep 3 (work/qa/fitsweep3, one shot per class in work/qa/gate4/)
     '1/12/20/2': (185, 2, 'measured: gate4/03 map menu right column, x 242 to the count field at ~435'),
@@ -251,7 +253,7 @@ def table_classes(seen):
     return out
 
 
-ROWS_FROM_TEXT = ('1/30/19/',)
+ROWS_FROM_TEXT = ('1/30/19/', '2/15/14/')
 # (first slot, last slot, class seen, class meant): a table drawn on one row of a shared window
 ROW_OF = [(0x2ca000, 0x2ca14c, '2/22/14/2', '2/22/14/1'),   # skill effects: line 1 of the card select bottom
           # EXTRA scenario (0x2f6d6c, 12-byte rows) and music + audio drama (0x2f8090, 16-byte rows) descriptions:

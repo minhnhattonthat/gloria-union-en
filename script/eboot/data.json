@@ -338,7 +338,7 @@
  {
   "id": "e:2bc9a8",
   "jp": "自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "Works if own\nTEC >= foe GEN",
+  "en": "Works if TEC >= Foe GEN",
   "status": "done",
   "slots": [
    "w:2bca44",

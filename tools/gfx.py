@@ -948,6 +948,8 @@ fixed("counts", 0xEC350, 320, 40, [((261, 0, 52, 15), "cnt_sortie", False), ((26
 fixed("stat_words", 0xEAED0, 128, 30, [((0, 15, 23, 15), "stat_durability", False), ((23, 15, 23, 15), "stat_morale", False)],
       12, pad=0)   # table 0x2f2630 entries 11-12; the number after each is drawn at a fixed x, so 23 px is all there is
 fixed("range", 0xE0000, 320, 30, [((240, 16, 32, 14), "range", False)], 12, pad=0)   # table 0x2f2380 entry 11
+fixed("item_left", 0x112330, 96, 36, [((80, 0, 16, 9), "item_left", False)], 9, pad=0, stroke=0,
+      ink=((16, 15, 16, 255), (16, 15, 16, 255)))   # "あと 3 map" on the status/equip item bar (dark, no rim, over the white bar): "for 3 map"
 fixed("items", 0x3812e0, 272, 154, [((0, 45, 224, 22), "item_none", False), ((107, 79, 70, 12), "item_ship", False),
                                     ((0, 95, 54, 11), "item_status", False), ((73, 90, 137, 24), "item_equipped", False),
                                     ((0, 115, 64, 11), "item_details", False), ((187, 112, 70, 18), "item_close", False)], 18)

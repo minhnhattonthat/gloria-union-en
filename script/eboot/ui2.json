@@ -2340,7 +2340,7 @@
  {
   "id": "e:256040",
   "jp": "デュエル直後も移動可",
-  "en": "Can move\nafter a Duel",
+  "en": "Moves after a Duel",
   "status": "done",
   "slots": [
    "w:2c9428"
@@ -2493,7 +2493,7 @@
  {
   "id": "e:256198",
   "jp": "路地・街路地形が得意",
-  "en": "Good in Alleys,\nStreets",
+  "en": "Likes city streets",
   "status": "done",
   "slots": [
    "w:2c94b0"
@@ -3042,7 +3042,7 @@
  {
   "id": "e:2566b4",
   "jp": "■威力＝自TEC＋1－敵GEN",
-  "en": "■Power=Own\nTEC+1-Foe GEN",
+  "en": "■Power=TEC+1-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96ac"
@@ -3051,7 +3051,7 @@
  {
   "id": "e:2566cc",
   "jp": "■威力＝自TEC＋2－敵GEN",
-  "en": "■Power=Own\nTEC+2-Foe GEN",
+  "en": "■Power=TEC+2-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96b0"
@@ -3060,7 +3060,7 @@
  {
   "id": "e:2566e4",
   "jp": "■威力＝自TEC＋3－敵GEN",
-  "en": "■Power=Own\nTEC+3-Foe GEN",
+  "en": "■Power=TEC+3-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96b4"
@@ -3069,7 +3069,7 @@
  {
   "id": "e:2566fc",
   "jp": "■威力＝自TEC＋4－敵GEN",
-  "en": "■Power=Own\nTEC+4-Foe GEN",
+  "en": "■Power=TEC+4-Foe GEN",
   "status": "done",
   "slots": [
    "w:2c96b8"
@@ -3096,7 +3096,7 @@
  {
   "id": "e:25674c",
   "jp": "■威力＝敵ヘッド以外に∞",
-  "en": "■Power=Infinite,\nexcept foe's Head",
+  "en": "■Power=∞ except foe's Head",
   "status": "done",
   "slots": [
    "w:2c96c4"
@@ -3186,7 +3186,7 @@
  {
   "id": "e:256838",
   "jp": "■効力＝同デュエル中ずっと",
-  "en": "■Effect=For\nthis whole Duel",
+  "en": "■Effect=Entire Duel",
   "status": "done",
   "slots": [
    "w:2c96ec"
@@ -3195,7 +3195,7 @@
  {
   "id": "e:256854",
   "jp": "■効力＝同ターン内ずっと",
-  "en": "■Effect=For\nthis whole turn",
+  "en": "■Effect=Entire turn",
   "status": "done",
   "slots": [
    "w:2c96f0"
@@ -3240,7 +3240,7 @@
  {
   "id": "e:2568d0",
   "jp": "■一騎討ちで必勝も無効化",
-  "en": "■Also cancels\nAlways wins duels",
+  "en": "■Voids Always wins duels",
   "status": "done",
   "slots": [
    "w:2c9704"
@@ -3249,7 +3249,7 @@
  {
   "id": "e:2568ec",
   "jp": "■敵のスキルゲージを破壊",
-  "en": "■Destroys the\nfoe's Skill Gauge",
+  "en": "■Breaks foe's Skill Gauge",
   "status": "done",
   "slots": [
    "w:2c9708"
@@ -3258,7 +3258,7 @@
  {
   "id": "e:256908",
   "jp": "■自ＴＥＣ≧敵ＧＥＮで成功",
-  "en": "■Works if own\nTEC >= foe GEN",
+  "en": "■Works if TEC >= Foe GEN",
   "status": "done",
   "slots": [
    "w:2c970c"
@@ -3285,7 +3285,7 @@
  {
   "id": "e:25694c",
   "jp": "■敵、味方のスキルゲージを破壊",
-  "en": "■Destroys both sides'\nSkill Gauges",
+  "en": "■Breaks all Skill Gauges",
   "status": "done",
   "slots": [
    "w:2c9718"

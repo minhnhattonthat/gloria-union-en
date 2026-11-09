@@ -181,6 +181,7 @@ cnt_cards_left	残りカード…	Cards Left...
 cnt_cards	枚
 cnt_people	人
 range	射程	Range
+item_left	あと	for
 item_none	アイテムを持っていません。	You have no items.
 item_ship	船に装備可能	Fits on a ship
 item_status	ステータス	Status

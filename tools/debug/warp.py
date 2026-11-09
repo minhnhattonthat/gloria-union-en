@@ -29,7 +29,7 @@ def reached(g, proof):
     if kind == 'mode': return g.mode() == v
     if kind == 'fired': return g.fired
     if kind == 'byte': return g.rd(v, 1)[0] == rest[0]
-    if kind == 'story': return g.mode() in (15, 20, 39, 41) or len(set(g.loaded)) > 1   # select, field, credits, next stage
+    if kind == 'story': return g.mode() in (15, 20, 39, 41) or len(set(g.loaded)) > 1 or 1758 in g.files   # select, field, credits, next stage, game over (B stages warp in with no cards: Out of Cards)
     return struct.unpack('<h', g.rd(g.save() + 0x1A0, 2))[0] == v and rest[0] in g.files
 
 

@@ -270,7 +270,7 @@
  {
   "id": "e:252528",
   "jp": "威力＝自ＴＥＣ＋２－敵ＧＥＮ",
-  "en": "Power=Own\nTEC+2-Foe GEN",
+  "en": "Power=TEC+2-Foe GEN",
   "status": "done",
   "slots": [
    "w:2bcab0",
@@ -388,7 +388,7 @@
  {
   "id": "e:2526cc",
   "jp": "威力＝敵ヘッド以外に∞",
-  "en": "Power=Infinite,\nexcept foe's Head",
+  "en": "Power=∞ except foe's Head",
   "status": "done",
   "slots": [
    "w:2bcaf8",
@@ -515,7 +515,7 @@
  {
   "id": "e:25286c",
   "jp": "効力＝同デュエル中ずっと",
-  "en": "Effect=For\nthis whole Duel",
+  "en": "Effect=Entire Duel",
   "status": "done",
   "slots": [
    "w:2bcb40",
@@ -543,7 +543,7 @@
  {
   "id": "e:2528d0",
   "jp": "威力＝自ＴＥＣ＋３－敵ＧＥＮ",
-  "en": "Power=Own\nTEC+3-Foe GEN",
+  "en": "Power=TEC+3-Foe GEN",
   "status": "done",
   "slots": [
    "w:2bcb58",
@@ -571,7 +571,7 @@
  {
   "id": "e:252944",
   "jp": "威力＝自ＴＥＣ＋４－敵ＧＥＮ",
-  "en": "Power=Own\nTEC+4-Foe GEN",
+  "en": "Power=TEC+4-Foe GEN",
   "status": "done",
   "slots": [
    "w:2bcb64",
@@ -673,7 +673,7 @@
  {
   "id": "e:252af0",
   "jp": "敵、味方のスキルゲージを破壊",
-  "en": "Destroys both sides'\nSkill Gauges",
+  "en": "Breaks all Skill Gauges",
   "status": "done",
   "slots": [
    "w:2bcb94"
@@ -772,7 +772,7 @@
  {
   "id": "e:252c20",
   "jp": "効力＝同ターン内ずっと",
-  "en": "Effect=For\nthis whole turn",
+  "en": "Effect=Entire turn",
   "status": "done",
   "slots": [
    "w:2bcbdc",
@@ -906,7 +906,7 @@
  {
   "id": "e:252dfc",
   "jp": "敵、味方のゲージを破壊",
-  "en": "Destroys both\nsides' gauges",
+  "en": "Destroys all gauges",
   "status": "done",
   "slots": [
    "w:2bcc30"
