@@ -1615,6 +1615,68 @@ for _c, _en in ({**ex_card_redraws(0), **{20 + i: e for i, e in ex_card_redraws(
           lambda a, t, en=_en: draw_res_card(a, en), resize=True)
 
 
+# --- story pages (files 1590-1639 +0x20: tools/pages.py; gfx/pages.tsv: file, JP, English) --------------------------
+
+def pages_tsv():
+    """{file id: [English paragraph, ...]}: paragraphs split on " | ", a "\\n" forces a line break."""
+    p = GFX / "pages.tsv"
+    rows = [ln.split("\t") for ln in p.read_text("utf8").splitlines()[1:] if ln.strip()] if p.exists() else []
+    return {int(r[0]): [s.strip().replace("\\n", "\n") for s in r[2].split("|")] for r in rows if len(r) > 2 and r[2].strip()}
+
+
+def wrap(text, f, width):
+    """Greedy word wrap of text (forced "\\n" kept) to lines no wider than width with font f."""
+    out = []
+    for para in text.split("\n"):
+        line = ""
+        for w in para.split():
+            t = f"{line} {w}".strip()
+            if line and f.getlength(t) > width:
+                out.append(line)
+                line = w
+            else:
+                line = t
+        out.append(line)
+    return out
+
+
+def draw_page(a, paras):
+    """Each English paragraph where its JP paragraph was: same first baseline and line pitch (19), centred on x 190,
+    white bold with a black rim; at most the JP line count (one more only into a gap of 2+ blank lines), the font
+    shrunk from 13 to 10 px to make it fit."""
+    import pages
+    jp = pages.paragraphs(a)
+    assert len(jp) == len(paras), f"{len(paras)} English paragraphs for {len(jp)} JP ones"
+    out = a.copy()
+    out[:, :pages.USED] = 0
+    im = Image.fromarray(out)
+    d = ImageDraw.Draw(im)
+    pitch, width = 19, pages.USED - 6
+    for i, (p, text) in enumerate(zip(jp, paras)):
+        n = len(p)
+        nxt = jp[i + 1][0][0] if i + 1 < len(jp) else a.shape[0]
+        room = n + (1 if nxt - (p[0][0] + (n + 1) * pitch) >= 2 * pitch - 4 else 0)
+        for s in range(13, 9, -1):
+            f = font("LiberationSans-Bold.ttf", s)
+            ls = wrap(text, f, width)
+            if len(ls) <= room:
+                break
+        else:
+            raise ValueError(f"paragraph {i} needs {len(ls)} lines, room for {room}: {text!r}")
+        base = p[0][1] - 1   # the JP line's ink bottom sits on the baseline
+        for k, ln in enumerate(ls):
+            d.text((190, base + k * pitch), ln, font=f, fill=(255, 255, 255, 255), anchor="ms", stroke_width=2,
+                   stroke_fill=(0, 0, 0, 255))
+    res = np.array(im)
+    res[res[..., 3] == 0] = 0
+    return res
+
+
+for _f, _p in pages_tsv().items():
+    _h = struct.unpack_from("<H", (FILES / f"{_f:05d}.bin").read_bytes(), 0x20 + 0xA)[0] if FILES.exists() else 512
+    asset(f"page{_f}", _f, "ptx", 0x20, (0, 0, 380, _h), lambda a, t, p=_p: draw_page(a, p))
+
+
 # --- status popups (id 3 section 16: 250x40 PTGs, white italic, right-aligned over the unit) ---------------------
 
 POPUPS = ["pop_morale_damage", "pop_morale_restored", "pop_ailment_cured", "pop_drowsy", "pop_all_up", "pop_gen_up",
