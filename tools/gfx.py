@@ -923,7 +923,22 @@ fixed("checking", 0x168be0, 224, 40, [((18, 0, 204, 19), "checking_map", False),
       17, pad=2)   # ">>" at x 1-15 stays
 fixed("conditions", 0x161060, 176, 65, [((0, 0, 119, 27), "cond_victory", True), ((0, 27, 119, 27), "cond_defeat", True)], 20)
 fixed("suspend_slot", 0x131ad0, 192, 78, [((0, 0, 151, 23), "slot_suspend", False), ((140, 16, 41, 13), "slot_durability", False),
-                                          ((0, 55, 191, 23), "slot_gloria", False)], 20)   # the ※まだ行動できます! pill: still JP
+                                          ((0, 55, 191, 23), "slot_gloria", False)], 20)
+
+
+def draw_pill_text(a, rect, col, text, size, ink, rows=None):
+    """Lettering over a bar or pill: the rect's columns (rows y0-y1 if given, else the rect's) replaced by the clean
+    column x=col, then the English centred in the rect with ink (fill, rim)."""
+    x, y, w, h = rect
+    y0, y1 = rows or (y, y + h)
+    out = a.copy()
+    out[y0:y1, x:x + w] = a[y0:y1, col:col + 1]
+    return draw_fixed(out, [(rect, text, False)], size, ink=ink, clear=False, center=True)
+
+
+_slot = ASSETS["suspend_slot"]["draw"]   # ※まだ行動できます! (white, orange rim) half over the yellow bar: column x 9 is clean
+ASSETS["suspend_slot"]["draw"] = lambda a, t: draw_pill_text(_slot(a, t), (10, 22, 108, 13), 9, t["slot_can_act"], 12,
+                                                              ((255, 251, 237, 255), (235, 100, 7, 255)), rows=(22, 40))
 fixed("counts", 0xEC350, 320, 40, [((261, 0, 52, 15), "cnt_sortie", False), ((261, 15, 56, 15), "cnt_selectable", False),
                                    ((140, 25, 76, 15), "cnt_cards_left", False), ((221, 11, 14, 14), "cnt_cards", False),
                                    ((234, 25, 16, 15), "cnt_people", False)], 13, pad=0)   # rects: EBOOT table 0x2f2808..
@@ -942,12 +957,13 @@ fixed("reset_ask", 0x4494f0, 352, 44, [((124, 2, 71, 17), "reset_cancel", False)
       ink=WHITE_INK)
 fixed("hud_words", 0x3e2af0, 192, 31, [((102, 1, 38, 18), "hud_morale", False), ((145, 0, 34, 17), "hud_equip", False),
                                        ((145, 18, 30, 13), "hud_win_rate", False)], 14)
-asset("hud_small", 3, "ptx", 0x398650, (0, 0, 224, 247),   # the 非戦闘ユニットです pill: still JP
-      lambda a, t: draw_fixed(draw_fixed(a, [((140, 47, 25, 12), t["hud_morale"], False),
+asset("hud_small", 3, "ptx", 0x398650, (0, 0, 224, 247),   # 非戦闘ユニットです: white on the brown pill (rows 49-60)
+      lambda a, t: draw_pill_text(draw_fixed(draw_fixed(a, [((140, 47, 25, 12), t["hud_morale"], False),
                                              ((21, 150, 42, 16), t["slot_durability"], False),
                                              ((71, 124, 42, 14), t["hud_on_board"], False)], 12, pad=0),
                               [((0, 166, 174, 34), t["checking_map"], False), ((0, 213, 133, 34), t["checking_status"], False)],
-                              30, stroke=2, pad=0), section=14)
+                              30, stroke=2, pad=0), (12, 49, 120, 12), 10, t["hud_noncombat"], 11,
+                                                  ((254, 249, 239, 255), (173, 144, 120, 255))), section=14)
 
 
 TERRAIN = ["ter_bridge", "ter_road", "ter_plains", "ter_wasteland", "ter_forest", "ter_desert", "ter_swamp", "ter_sea",
@@ -1087,9 +1103,9 @@ def card_names():
     return names
 
 
-def draw_card_names(a, table, n, size, face, stroke, center):
+def draw_card_names(a, table, n, size, face, stroke, center, extra=()):
     rects, seen, items = table_rects(table, n), set(), []
-    for r, name in zip(rects, card_names()):
+    for r, name in zip(rects, card_names() + list(extra)):
         if tuple(r) not in seen:   # cards past the sheet's last name share one rect: draw it once
             seen.add(tuple(r))
             items.append((tuple(r), name, False))
@@ -1102,8 +1118,12 @@ def draw_card_names(a, table, n, size, face, stroke, center):
 # in the fixed cells as the Japanese was
 asset("cards_small", 2419, "ptx", 0x110, (0, 0, 128, 351),
       lambda a, t: draw_card_names(a, 0x2c704e, 54, 10, "LiberationSans-Bold.ttf", 1, False))
+asset("cards_small_1757", 1757, "ptx", 0xfc0, (0, 0, 128, 351),   # the same sheet, pixel for pixel (unit list)
+      lambda a, t: draw_card_names(a, 0x2c704e, 54, 10, "LiberationSans-Bold.ttf", 1, False))
 asset("cards_medium", 2419, "ptx", 0x59b0, (0, 0, 160, 485),
       lambda a, t: draw_card_names(a, 0x2c9b2a, 54, 12, "LiberationSans-Bold.ttf", 1, False))
+asset("cards_medium_id3", 3, "ptx", 0x354640, (0, 0, 160, 503),   # the same cells plus entry 55 (Giselle's skill)
+      lambda a, t: draw_card_names(a, 0x2c9b2a, 55, 12, "LiberationSans-Bold.ttf", 1, False, [t["card_diamond_dust"]]))
 asset("cards_large", 2419, "ptx", 0xf380, (0, 0, 320, 420),
       lambda a, t: draw_card_names(a, 0x2c9ce2, 39, 19, "LiberationSans-BoldItalic.ttf", 2, True))
 

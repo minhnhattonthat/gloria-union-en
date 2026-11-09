@@ -469,3 +469,6 @@ res_pirates_win	海賊団勝利！	Pirates Win!
 res_items	アイテム入手！	New Items!
 res_cards	カード入手！	New Cards!
 res_none	なし	None
+card_diamond_dust	ダイヤモンドダスト	Diamond Dust
+slot_can_act	※まだ行動できます！	Units can still act!
+hud_noncombat	非戦闘ユニットです	Non-combat unit

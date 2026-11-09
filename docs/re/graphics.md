@@ -49,7 +49,7 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | Where | Element | Japanese? | Size / kind |
 |---|---|---|---|
 | id 3 +17b580.. +1975d0.. | unit and team names, large and small (イシュト, ピンガー, 海賊, 民兵...): 100+ PTGs in two sizes, plus class names already English at +1a3c10.. | yes | PTG, runs |
-| id 3 +131ad0 | 中断データ, ※まだ行動できます!, グロリア海賊団 | yes | PTX |
+| id 3 +131ad0 | 中断データ, ※まだ行動できます!, グロリア海賊団 | **done** (session 30; the ※ line session 40, `draw_pill_text`) | PTX |
 | id 3 +1583a0 | terrain sheet: 街道 草原 荒野 森林 砂漠 毒沼 海 氷上 水辺 集落 都市 城砦 浜辺 街路 遺跡 路地; 晴れ 雨 霧 雪 雷; 架橋; 昼間 夕方 夜 (+15e1a0) | yes | PTX |
 | id 3 +3e8e70 | terrain and object glyphs, weapon kanji 剣 槍 斧 銃 杖 塊 鎌 琴 | yes | PTX |
 | id 3 +161060 | 勝利条件, 敗北条件 headers | yes | PTX |
@@ -57,10 +57,10 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | id 3 +16db60, +1712c0 | map menu: ターン終了 全体マップ ユニットリスト 地形一覧 カードリスト 中断セーブ 武器タイプ一覧 勝敗条件 オブジェクト一覧 チュートリアル (normal + hilite pages) | yes | PTX |
 | id 3 +175400 | ユニット配置, ロケーション | yes | PTX |
 | id 3 +33cb90 | 生存ユニット 能力差 ボーナス 地形効果 部隊士気 | yes | PTX |
-| id 3 +354640 | skill name list, 2 columns (メイクドール...) | yes; strings too? check | PTX |
+| id 3 +354640 | skill name list, 2 columns (メイクドール...) | **done session 40** (`cards_medium_id3`: the 2419 +59b0 cells, table 0x2c9b2a, plus entry 55 ダイヤモンドダスト; it is the card name tag on the Tactics Card field) | PTX |
 | id 3 +3812e0 | アイテムを持っていません, ステータス, アイテム詳細, を装備しました!, 船に装備可能, 詳細を閉じる | yes | PTX |
 | id 3 +38bd80, +395d90 | English mostly; 固定, 確認 chips | partly | PTX |
-| id 3 +3e2af0, +398650 | 非戦闘ユニットです, 士気, 装備, 勝率, 耐久値, 船内 | yes | PTX |
+| id 3 +3e2af0, +398650 | 非戦闘ユニットです, 士気, 装備, 勝率, 耐久値, 船内 | **done** (session 30; the brown pill session 40) | PTX |
 | id 3 +400c40, +401e20, +4040d0 | legend panels: 味方/敵ユニット; 得意 普通 苦手 移動不可 通行のみ可 戻る; 有利 互角 不利 | yes | PTG |
 | id 3 +36f4c0, +3708a0, +3924e0 | 戦闘準備OK?, ターン終了OK?, タクティクスカード選択 | yes | PTG |
 | id 3 +4a6960, +4abf60, +4b1840 | 士気ダメージ, Atk.アップ!, Luk.ダウン... (status popups; set not fully listed) | yes | PTG |
@@ -80,7 +80,7 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | id 1651 +1b760..+82ed0 | **body**: ending letters, 30 blue lines; `fin` English | yes | PTX |
 | id 1703 +2add0, +2c070, +2fb50 | フィールド上にオブジェクトは何もありません, object list and big names 砲台 都市 集落 架橋 城砦 門(開) 門(閉) 投石器 目標地点 柵 アイテム 船 | yes | PTX |
 | id 1704 +100, +1b200, +25c60, +46a00, +65f10, +6fb90, +76c30, +79cd0 | アイテム入手, 海賊団勝利, カード入手, ガーロット隊勝利 etc.; 確認 strings; MVP なし; name lists; skill lists; グロリア イシュト海賊団勝利! | yes: **done session 40** for the live ones (+65f10 MVP names, +6fb90, +76c30, +79cd0, card-name PTGs 18-56 where the script differs); +100, +1b200, +25c60, +46a00 (textures 0, 2, 7, 8) **unused**, see §Unused | PTX |
-| id 1757 +fc0 | skill name list | yes | PTX |
+| id 1757 +fc0 | skill name list | **done session 40** (`cards_small_1757`: pixel-identical to 2419 +110) | PTX |
 | id 1758 +16b0, +3310 | リトライするタイトル画面に戻る, ゲームオーバー | yes | PTX |
 | ids 1850-1905 | stage titles, each horizontal (+30) and vertical (+2d90): ハジマリの青 海と空と君と, 黒い牙, 大海の覇者... up to 55 pairs (count not taken) | yes | PTX |
 | ids 1945-1991 | event banners: big kanji word + English subline (増援 / Help has arrived.), 47; PTP entry 1 (+5c40, or +8940/+8b40 for the 8 italic ones) is the word. Shown by script op 0x4A (`4a 07 00 <n> ...`, handler 0x11A070, loader 0x10FEC4 opens 1945 + n), 1:1 at the screen top, 50 frames after the op. **Done 2026-11-09** (`banner<id>` in gfx/text.tsv, warp scenes `banner00`-`banner46`) | yes | PTG |
@@ -89,11 +89,11 @@ Volume is the main finding: most Japanese is in graphics, not in a font. Rows ma
 | id 2021 +50 | character profile labels (kana names + `Garlot is...`, weapon types) | **unused** (session 40, Yggdra Union leftover: see §Unused) | PTX |
 | id 2022 +58a60 | **body**: prologue page | yes | PTX |
 | id 2023 +d0..+11b660 | tutorial plates: 25 titled panels with Japanese callouts | yes | PTX |
-| id 2362 +100, +9040 | card effect table (■威力=...), スキル効果と発動タイプ使用条件 | yes | PTX |
+| id 2362 +100, +9040 | card effect table (■威力=...), スキル効果と発動タイプ使用条件 | +9040 done (session 32); +100 **not drawn** (session 40: `tools/probe_build.py` stripes never showed on card data or the EXTRA card Front/Back tabs; the same lines are strings in data.json, translated) | PTX |
 | id 2418 +229f0, +28770, +266d0, +2dbd0, +1cfc0, +1dd40, +1f750, +15590 | equipment/ship menus: captain name list, 改造する箇所を選択してください, このアイテムを報酬にしますか?, 並び替え, 装備選択 士気回復 船長選択 改造・修理, 修理 | yes | PTX/PTG |
-| id 2419 +59b0, +f380, +24570 | skill name lists, 使用条件 | yes | PTX |
+| id 2419 +59b0, +f380, +24570 | skill name lists, 使用条件 | **done** (sessions 32-33); the rest of 2419 is card art and English (session 40) | PTX |
 | id 2422 +20 | このアイテムを装備しますか? | yes | PTX |
-| id 2424 ~+23a60 | status list with 夜間も砲撃可, 砲撃後も移動可 | partly | PTX |
+| id 2424 ~+23a60 | status list with 夜間も砲撃可, 砲撃後も移動可 | **done** (`ship_abilities`); 2418 and 2424 have no other Japanese (session 40) | PTX |
 | id 2426 +3520, 2427 +ecc0 | 残された戦略は..., あと枚, このシナリオでよろしいですか? | yes | PTX |
 | id 2427 +80..+15070 | scenario select: difficulty, island names (ルネスト島...), 魔海都市シャンティエ, 15 place plates | yes | PTX/PTG |
 | id 2430 +52bd0..+7e3d0 | item conditions: 40 lines (・ガーロット専用, ○グリアライダーに強い...) | **unused** (session 38) | PTG |
