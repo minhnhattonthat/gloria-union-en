@@ -1,0 +1,17 @@
+# Hand-written text-coverage waivers (id<TAB>reason), merged into docs/text_unshown.tsv by tools/cover_waive.py (D18).
+e:25390c	leftover developer menu (Effect Test, Update EXI Data...): no route to it in the shipped game
+e:253920	leftover developer menu: no route to it in the shipped game
+e:253934	leftover developer menu: no route to it in the shipped game
+e:253940	leftover developer menu: no route to it in the shipped game
+e:253950	leftover developer menu: no route to it in the shipped game
+e:253960	leftover developer menu: no route to it in the shipped game
+e:253974	leftover developer menu: no route to it in the shipped game
+e:253a84	leftover developer menu prompt: no route to it in the shipped game
+e:253ae4	leftover developer menu prompt: no route to it in the shipped game
+e:253b40	leftover developer menu prompt: no route to it in the shipped game
+e:253ba0	leftover developer menu prompt: no route to it in the shipped game
+e:253c00	leftover developer menu prompt: no route to it in the shipped game
+e:253c38	leftover developer menu prompt: no route to it in the shipped game
+e:253c74	leftover developer menu prompt: no route to it in the shipped game
+e:25cf70	item name in the items table (w:2cd700) whose window class 1/30/20/1 no tour scene drew: NOT seen in game; same table as the item names drawn on the tour
+e:1ed9a0	code-built "+" sign (i:40c1c) beside a number; NOT seen in game on its own
