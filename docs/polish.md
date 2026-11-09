@@ -6,6 +6,7 @@ Minor review findings, deferred (references/translation.md §Review). Tick each 
 - [ ] c2:069d6 - Yggdra 戦利品を売って弾代に shipped "sell these spoils and use it for bullet money": "use them" (or "sell the spoils and put it toward bullets")
 - [ ] c8:15b89 / c8:1aa68 - 空しい shipped "...How pointless." (Elisha, milk to grow her chest) and "How empty." (Kamuru): "...Who am I kidding." / "How sad is that."
 - [ ] e:1edc5c - %2d戦%2d勝 (15-byte buffer) shipped as "%2d fought %2dW": "W" is an abbreviation (D4 flag); a wider buffer (tbl/fmtbuf.tsv) would allow "won". Phase 7 didn't try it (review Minor 6): move the sprintf target (sp+0x130) to a blob buffer or grow the stack frame
+- [ ] win conditions with a line-2 "(" (e:289f6c, e:28a080, e:28a0c8, e:28a6cc and 2 more): on stage_2_03_B the leader portrait's sword tip covers the "(" and the top-left of the next letter (JP's fullwidth "（" has its ink further right, `work/qa/fix1/stage_2_03_B/proof.png`). A leading space would shift the icon's ■ off JP's column (docs/re/text.md, win/lose icons); fix by moving the icon records' col with the English, or rephrase to keep ■ at col 7 after "  ".
 - [ ] b020 card quotes e:2872ec-e:287e78 - attribution left-aligned (JP right-aligns it); check in the EXTRA card panel in phase 8
 - [ ] s2033:010c8t/010e8t/0113at - team name シャルル海賊団 (JP typo for シャルム) shipped "Charles Pirates": use "Charme Pirates" (team names are dead text: op 0x74)
 - [ ] s2068:02b02 - Zazarland 罪人でもなかっただろうに shipped "And I bet they weren't even a criminal": "And I bet whoever wore 'em wasn't even a criminal."

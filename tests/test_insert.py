@@ -128,6 +128,14 @@ def test_format_buffers():
     assert lim['e:289288'] == 28 and lim['e:284cd0'] == 28
 
 
+def test_win_condition_icon_cells():
+    """Win conditions put a flag sprite in place of the cell at the (row, col) where JP has ■ (seen in game: stage
+    2-03 B), so the English ■ must sit at the same line and character index. Masked item names use ■ as a glyph."""
+    def cells(t): return [(r, c) for r, line in enumerate(t.split('\n')) for c, ch in enumerate(line) if ch == '■' and c]
+    for s in json.load(open(ROOT / 'script/eboot/ui3.json', encoding='utf8')):
+        if s.get('en') and cells(s['jp']): assert cells(s['en']) == cells(s['jp']), s['id']
+
+
 def test_item_desc_breaks():
     """Item descriptions: break cells are the index of each later line's first character, every line fits, too many
     lines fail an English build."""

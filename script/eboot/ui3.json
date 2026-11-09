@@ -6714,7 +6714,7 @@
  {
   "id": "e:289f6c",
   "jp": "■遺跡の奥まで逃げろ②\n（全ユニットを■に移動させればＯＫ！）",
-  "en": "■Flee to the depths of the ruins!!\n(Move all units onto ■ to win!)",
+  "en": "■Flee to the depths of the ruins!!\n(Reach ■ with all units to win!)",
   "status": "done",
   "slots": [
    "w:2f8f28"
@@ -6777,7 +6777,7 @@
  {
   "id": "e:28a080",
   "jp": "■黒い牙のアジトから脱出せよ②\n（全ユニットを■に移動させればＯＫ！）",
-  "en": "■Escape from the Black Fang hideout!!\n(Move all units onto ■ to win!)",
+  "en": "■Escape from the Black Fang hideout!!\n(Reach ■ with all units to win!)",
   "status": "done",
   "slots": [
    "w:2f8f68"
@@ -6786,7 +6786,7 @@
  {
   "id": "e:28a0c8",
   "jp": "■宝物庫に急げ\n（イシュトを■に移動させればＯＫ！）",
-  "en": "■Hurry to the treasure vault\n(Move Ishut onto ■ to win!)",
+  "en": "■Hurry to the treasure vault\n(Take ■ with Ishut to win!)",
   "status": "done",
   "slots": [
    "w:2f8f70"
@@ -7169,7 +7169,7 @@
  {
   "id": "e:28a6cc",
   "jp": "■囲まれる前に目的地まで移動しろ②\n（全ユニットを■に移動させればＯＫ！）",
-  "en": "■Reach the goal before you're surrounded!!\n(Move all units onto ■ to win!)",
+  "en": "■Reach the goal before you're surrounded!!\n(Reach ■ with all units to win!)",
   "status": "done",
   "slots": [
    "w:2f90e8"

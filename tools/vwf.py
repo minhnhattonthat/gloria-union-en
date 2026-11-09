@@ -449,6 +449,13 @@ def patch(e):
     # the ASCII bytes 'o' and 'r' (of "AorB") absolutely; other ASCII stayed relative to the off-screen window.
     # Every ASCII byte now takes the 'o' path (placed at the line's x), and chain lays the rest out proportionally.
     e.put(0x1440B8, bytes(4), expect='0a008614', by='vwf: win conditions place ASCII')
+    # The 'o' path stepped x by 10, so an icon after English (the flag in "(Reach ■ with all units to win!)", put at
+    # the running x) landed past the text: step by the cell's VWF advance (+1E bits 8-13) instead.
+    e.put(0x1440C0, eboot.asm('sh $s4, 0($s0)\nlhu $a2, 0x1e($s0)\nsh $a1, 2($s0)\nsrl $a0, $a2, 8\nandi $a0, $a0, 0x3f\n'
+                              'addu $s4, $s4, $a0\nori $a0, $a2, 1', 0x1440C0)
+          + bytes.fromhex('16000010') + eboot.asm('sh $a0, 0x1e($s0)', 0x1440E0),   # the original b 0x144138, same place
+          expect='000014a60a0084261e00069600a40400020005a60100c43403a41400160000101e0004a6',
+          by='vwf: win conditions step x by VWF advance')
     # item descriptions: three screens place 30 cells of row 0 by hand and start a new line at break cells from
     # per-item tables (0x2CA458: 1 break, 2 lines; 0x2F86F0: 2 breaks, EXTRA item page); insert.py writes the breaks
     # from the English lines. Place 90 cells (setSize 3x) so English up to 90 characters shows.
