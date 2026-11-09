@@ -411,7 +411,7 @@ vacc:
   nop
   sw $a0, 64($v0)
   lw $a0, 0($s0)
-  jal vwidth
+  bal vwidth
   ori $a2, $zero, 1
   move $t7, $v0
   bal getdata

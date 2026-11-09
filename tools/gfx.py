@@ -1793,11 +1793,16 @@ def cutins_tsv():
     return {int(r[0]): r[2].strip() for r in rows if len(r) > 2 and r[2].strip()}
 
 
-def draw_cutin(a, text):
-    """Under the big English skill name: a kana reading (it only repeats that name) and <title><name>, white with a
-    black rim. The game shows the title line's rows alone on a black bar (`work/qa/sk_orig/skill_cutin/proof.png`), so
-    both lines (the opaque components holding white below y 150) are cleared and the English title drawn once, white
-    bold with a black rim, centred on the old lines' centre x and in the title band (from mid-gap to the bottom)."""
+HDR_W = 200   # the fight header sprite shows the kana line's texture x 0..199 (ruler test, work/qa/s49r2/z5.png)
+
+
+def draw_cutin(a, text, skill):
+    """Under the big English skill name: a kana reading and <title><name>, white with a black rim. The game shows the
+    title line's rows alone on a black bar (`work/qa/sk_orig/skill_cutin/proof.png`), and the kana line as the fight's
+    top header (`work/qa/s48/skillhdr.png`). Both lines (the opaque components holding white below y 150) are cleared;
+    the English title is drawn centred on the old lines' centre x in the title band (mid-gap to the bottom), and the
+    script's skill name in the kana's rows, centred on the kana inside the header's x 0..199, both white bold with a
+    black rim."""
     from scipy import ndimage
     px = a.astype(int)
     white = (px[..., :3].min(2) > 200) & (px[..., 3] > 128)
@@ -1828,14 +1833,36 @@ def draw_cutin(a, text):
     y = band[0] + (band[1] - band[0] - (y1 - y0)) // 2 - y0   # ink with its rim centred in the band
     d.text((round(x - x0), y), text, font=f, fill=(255, 255, 255, 255), anchor="lm", stroke_width=2,
            stroke_fill=(0, 0, 0, 255))
+    kana = old & (np.arange(a.shape[0])[:, None] < band[0])
+    kys, kxs = np.nonzero(kana)
+    kh = band[0] - kys.min()
+    for s, sq in [(s, 1.0) for s in range(13, 9, -1)] + [(10, q / 20) for q in range(19, 11, -1)]:
+        lt = layer_text(skill, font("LiberationSans-Bold.ttf", s), (255, 255, 255, 255), 2, (0, 0, 0, 255), sq)
+        if lt.width - 4 <= HDR_W - 4 and lt.height - 4 <= kh:
+            break
+    else:
+        raise ValueError(f"skill name too wide: {skill}")
+    x = round((kxs.min() + kxs.max()) / 2 - lt.width / 2)
+    im.alpha_composite(lt, (min(max(0, x), HDR_W - lt.width), kys.min() + (kh - lt.height) // 2))
     res = np.array(im)
     was = (res[..., 3] == 0) & (a[..., 3] == 0)
     res[was] = a[was]   # clear stays its own clear (two clear entries here)
     return res
 
 
+def cutin_skills():
+    """Cut-in files in order hold the card skills in card order (54 card names, then Diamond Dust for 404), as the big
+    English art names show (`work/qa/s49_cutsheet.png`)."""
+    import json
+    items = json.loads((ROOT / "script" / "eboot" / "data.json").read_text("utf8"))
+    dd = next(e for e in items if e["id"] == "e:2bcfb6")
+    assert dd["jp"] == "ダイヤモンドダスト", "skill name moved"
+    return dict(zip(sorted(cutins_tsv()), card_names() + [dd["en"]]))
+
+
 for _f, _t in cutins_tsv().items():
-    asset(f"cutin{_f}", _f, "ptx", 0, (0, 150, 288, 80), lambda a, t, s=_t: draw_cutin(a, s))
+    asset(f"cutin{_f}", _f, "ptx", 0, (0, 150, 288, 80),
+          lambda a, t, s=_t, f=_f: draw_cutin(a, s, cutin_skills()[f]))
 
 
 # --- status popups (id 3 section 16: 250x40 PTGs, white italic, right-aligned over the unit) ---------------------
