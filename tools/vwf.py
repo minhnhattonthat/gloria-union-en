@@ -432,6 +432,33 @@ vtake:
   sw $zero, 68($v0)
   jr $ra
   move $v0, $t0
+count_init:
+  ori $t5, $zero, 10
+  jr $ra
+  ori $t1, $zero, 0
+count_ascii:
+  move $t8, $ra
+  bal getdata
+  nop
+  move $ra, $t8
+  lw $t7, 4($v0)
+  srl $t9, $a0, 8
+  addiu $t9, $t9, -0x20
+  sll $t9, $t9, 1
+  addu $t9, $t7, $t9
+  lbu $t7, 1($t9)
+  addu $t5, $t5, $t7
+cnt_1:
+  slti $t7, $t5, 20
+  bnez $t7, cnt_2
+  nop
+  addiu $t5, $t5, -20
+  addiu $t1, $t1, 1
+  b cnt_1
+  andi $t1, $t1, 0xff
+cnt_2:
+  jr $ra
+  nop
 """
 
 
@@ -511,6 +538,14 @@ def patch(e):
     # battle bark bubble (0x4C238, font 17): strlen / 2 kept as its cell count (bubble size, centring at 20 px a
     # cell); vcells returns 2 x the font 1 VWF width in 20 px cells, rounded up
     e.jal(0x4C27C, names['vcells'], expect='df3c050c', by='vwf: bark bubble cells by advances')
+    # line glyph counter 0xA350C(string, buf) writes each line's count as a byte into buf; only the defeat news line
+    # (0x1297B8, 8 bytes at sp, saved regs right after) passes one. For ASCII it moved the buffer pointer instead of
+    # counting, so English smashed the caller's frame and $ra: crash after a boss's defeat (Blaze Union 729a799, its
+    # 0x9FBBC). count_ascii adds font 1 advances to t5 (count_init: half a cell) and counts a glyph per 20 px, the
+    # cell 0xA4A3C multiplies by to centre the line. t5, t7-t9 are free there (0xA2224 is a stub).
+    e.jal(0xA352C, names['count_init'], expect='00000934', by='news line counter: init')
+    e.jal(0xA364C, names['count_ascii'], expect='1000c010', by='news line counter: ascii counts')
+    e.put(0xA3658, bytes(4), expect='0100c624', by='news line counter: buffer pointer stays')
     # setSize: 3x columns
     e.jal(0xA3C94, names['cols3'], expect='18005102', by='vwf: setSize 3x cols')
     # dialogue window (0x10BE88, story and tutorial talk): 4 rows at a 16 px pitch instead of 3 at 22, same box

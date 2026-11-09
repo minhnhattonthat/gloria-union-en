@@ -169,3 +169,37 @@ def test_asm_one_instruction_per_line():
     for _ in range(3):
         eboot.asm('jal 0x3b3d00', 0xA2764)
         assert len(eboot.asm('x:\n  bal x\n  nop', 0x3B0000)) == 8
+
+
+def test_news_line_counter_keeps_the_frame():
+    """0xA350C(string, buf) counts each line's glyphs into the defeat news line's 8-byte stack buffer (0x1297B8). The
+    original moved the buffer pointer per ASCII byte, so English wrote past it over saved regs and $ra (crash after a
+    boss's defeat). Run it in unicorn: original smashes, patched writes one count per line, the frame stays."""
+    import eboot
+    uc = pytest.importorskip('unicorn')
+    from unicorn import mips_const as M
+
+    def run(e, text):
+        m = uc.Uc(uc.UC_ARCH_MIPS, uc.UC_MODE_MIPS32 + uc.UC_MODE_LITTLE_ENDIAN)
+        m.mem_map(0, 0x800000)
+        m.mem_write(0, bytes(e.d[0xA0:0xA0 + e.ph[0][4]]))   # segment 0 at vaddr 0, pointers have base 0
+        m.mem_write(e.base, bytes(e.blob))
+        s, buf, stop = 0x600000, 0x700000, 0x7F0000
+        m.mem_write(s, text + b'\0')
+        m.mem_write(buf, b'\xAA' * 0x40)
+        for r, v in ((M.UC_MIPS_REG_A0, s), (M.UC_MIPS_REG_A1, buf), (M.UC_MIPS_REG_SP, buf), (M.UC_MIPS_REG_RA, stop)):
+            m.reg_write(r, v)
+        m.emu_start(0xA350C, stop, count=100000)
+        return m.reg_read(M.UC_MIPS_REG_V0), bytes(m.mem_read(buf, 0x40))
+
+    import faulthandler
+    faulthandler.disable()   # unicorn's mem_map raises a handled access violation on Windows; faulthandler dumps it
+    line = b'Crooked merchant Norn driven off!!'
+    _, mem = run(eboot.Eboot(ELF.read_bytes()), line)
+    assert mem[len(line)] == 0                     # the original's count lands a byte per character past the buffer
+    e = eboot.Eboot(ELF.read_bytes())
+    vwf.patch(e)
+    n, mem = run(e, line)
+    assert n == 1 and mem[0] == round(vwf.line_px(line.decode()) / 20) and mem[1:] == b'\xAA' * 0x3F
+    n, mem = run(e, b'Norn\x01driven off!!')
+    assert n == 2 and mem[2:] == b'\xAA' * 0x3E and 0 < mem[0] < mem[1]
