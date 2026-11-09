@@ -114,6 +114,11 @@ def main():
     tmp = ROOT / "work" / "release"
     tmp.mkdir(parents=True, exist_ok=True)
 
+    # a gfx/text.tsv edit regenerated for one asset only left its twin stale (title1870v kept "Full Stop", session 51)
+    r = run(*PY, ROOT / "tools" / "gfx.py", "gen")
+    d = run("git", "status", "--porcelain", "--", "gfx")
+    step("gfx/*.png match a fresh gfx.py gen", r.returncode == 0 and not d.stdout.strip(),
+         d.stdout.strip() or r.stderr[-400:])
     if not a.skip_build:
         r = run(*PY, ROOT / "build.py")
         step("build", r.returncode == 0, r.stdout.strip().splitlines()[-1] if r.stdout.strip() else r.stderr[-400:])
