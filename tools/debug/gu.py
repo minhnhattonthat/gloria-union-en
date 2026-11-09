@@ -115,8 +115,10 @@ class Game(psp.Run):
         self.wr(self.save() + off, bytes([v]))
 
     def warp(self, stage):
-        """After the next loadStage(0, ...) (the one New Game makes), load STAGE instead."""
+        """After the next loadStage(0, ...) (the one New Game makes), load STAGE instead. self.loaded: stages loaded."""
+        self.loaded = []
         def ls(g, r):
+            g.loaded.append(r['a0'] or stage)
             if r['a0'] != 0: return
             g.setreg('a0', stage)
             # scenario select lists options whose flag 0x21+i is 1 or 3; without one it reads a null entry

@@ -4,7 +4,8 @@ Kinds: boot (no input), newgame (GAME START), stage (warp to a stage number), mo
 title (title menu; KEYS picks the row), select (stage's Character Select), ready (stage's Ready screen), field (first player
 turn of a stage), fight (stage 1's first Union), enemy (end turns until an enemy-phase fight), outcome (field, then flag
 0xA = argument: docs/re/engine.md), skill (enemy, then fire a skill), cleared (title with the clear flag set), extra (EXTRA,
-everything unlocked), banner (stage 3's opening with its first event banner swapped for banner ARG: proof.png 50 frames
+everything unlocked), story (warp, then tap Circle every warp.STORY_GAP frames through the opening story until
+Character Select, the field, the credits or another stage loads: dialogue shots and text coverage), banner (stage 3's opening with its first event banner swapped for banner ARG: proof.png 50 frames
 after it shows, end.png on Tactics Card select with the team banner).
 KEYS[name] are buttons pressed once there, 'wait N' to wait.
 proof: ('file', id) the game opened that CPK id, ('mode', n) the top-level mode is n, ('stage', n, script) save+0x1A0 is n
@@ -55,6 +56,8 @@ def scenes():
     st = stages()
     for n, name, title, script in st:
         s[f'stage_{name}'] = ('stage', n, ('stage', n, script))
+    for n, name, title, script in st:   # the opening story, mashed through to Character Select, the field or the next stage
+        s[f'story_{name}'] = ('story', n, ('story',))
     # chapter cards play when a chapter's first stage loads: cards are 1582 + chapter - 1
     first = {}
     for n, name, *_ in st: first.setdefault(int(name[0]), n)

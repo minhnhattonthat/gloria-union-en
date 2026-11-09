@@ -18,6 +18,7 @@ BANNER_CALL, BANNER_STAGE = 0x11A0BC, 3   # op 0x4A handler's call to the banner
 WAITS = {'stage': 24000, 'newgame': 24000, 'mode': 9000, 'fight': 6000, 'banner': 24000}   # kinds that may need mashing to the proof; the rest are there
 # stage scripts open before the fade in
 SHOT_AFTERS = [40]   # frames from a text's first draw to its shots (log_text shots): past window fade-ins; --shot-after
+STORY_GAP, STORY_LIMIT = 200, 90000   # story kind: frames between Circle taps, frame budget
 STATE_AT = [None, None]   # --state-at TEXT F: (text to wait for, state file)
 SETTLE = {'stage': 480, 'game_over': 900, 'skill_cutin': 270}   # the defeat line types out; the skill's card and motto are up about 270 frames after it fires
 
@@ -28,6 +29,7 @@ def reached(g, proof):
     if kind == 'mode': return g.mode() == v
     if kind == 'fired': return g.fired
     if kind == 'byte': return g.rd(v, 1)[0] == rest[0]
+    if kind == 'story': return g.mode() in (15, 20, 39, 41) or len(set(g.loaded)) > 1   # select, field, credits, next stage
     return struct.unpack('<h', g.rd(g.save() + 0x1A0, 2))[0] == v and rest[0] in g.files
 
 
@@ -61,7 +63,9 @@ def log_text(g, path, shots=False):
     def hit(g, r):
         if r['t3'] and (r['a1'] & 0xFFFF or r['a2'] & 0xFFFF): return
         try:
-            raw = g.rd(r['t1'], 160).split(b'\0')[0]
+            raw = g.rd(r['t1'], 164)
+            if raw[0] == 2: raw = raw[4:]   # 02 00 <u16 voice id> tag before a message (docs/re/text.md)
+            raw = raw.split(b'\0')[0]
             key = (r['a0'], r['t0'], raw)
             if key in seen: return
             geo = struct.unpack('<8h', g.rd(r['a0'], 16))
@@ -87,7 +91,7 @@ def go(name, iso, state_out=None, text_log=False):
     if text_log: log_text(g, f'{ROOT}/{name}/text.tsv', text_log == 'shots')
     try:
         if kind == 'outcome': g.warp(3)
-        elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy', 'skill'): g.warp(arg)
+        elif kind in ('stage', 'select', 'ready', 'field', 'fight', 'enemy', 'skill', 'story'): g.warp(arg)
         elif kind == 'banner': g.warp(BANNER_STAGE)
         if kind == 'boot': g.title(); g.tap('circle', 6, 240)
         elif kind == 'title': g.title(); g.tap('circle', 6, 240)
@@ -103,6 +107,9 @@ def go(name, iso, state_out=None, text_log=False):
                     g.later.append((g.frame() + 50, lambda g: g.shot('proof.png'), ''))
             g.hook(BANNER_CALL, banner)
             g.to_ready(); g.tap('circle', 6, 60)
+        if kind == 'story':   # slow taps: each page types out in full before the next press (shots at --shot-after)
+            end = g.f + STORY_LIMIT
+            while g.f < end and not reached(g, proof): g.tap('circle', 6, STORY_GAP)
         if kind == 'select': g.to_select()
         elif kind == 'ready': g.to_ready()
         elif kind in ('field', 'outcome', 'fight', 'enemy', 'skill'): g.to_field()
