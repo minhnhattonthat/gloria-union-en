@@ -1781,6 +1781,59 @@ if FILES.exists() and (FILES / "01651.bin").exists():
               lambda a, t, ls=_ls: draw_letter(a, ls))
 
 
+# --- skill cut-ins (odd files 297-403 and 404: one 288x230 PTX at +0; gfx/cutins.tsv: file, JP title line, English) --
+
+def cutins_tsv():
+    p = GFX / "cutins.tsv"
+    rows = [ln.split("\t") for ln in p.read_text("utf8").splitlines()[1:] if ln.strip()] if p.exists() else []
+    return {int(r[0]): r[2].strip() for r in rows if len(r) > 2 and r[2].strip()}
+
+
+def draw_cutin(a, text):
+    """Under the big English skill name: a kana reading (it only repeats that name) and <title><name>, white with a
+    black rim. The game shows the title line's rows alone on a black bar (`work/qa/sk_orig/skill_cutin/proof.png`), so
+    both lines (the opaque components holding white below y 150) are cleared and the English title drawn once, white
+    bold with a black rim, centred on the old lines' centre x and in the title band (from mid-gap to the bottom)."""
+    from scipy import ndimage
+    px = a.astype(int)
+    white = (px[..., :3].min(2) > 200) & (px[..., 3] > 128)
+    white[:150] = False
+    lab, _ = ndimage.label(px[..., 3] > 24, np.ones((3, 3), bool))
+    old = np.isin(lab, np.unique(lab[white]))
+    ys, xs = np.nonzero(old)
+    top, bot = ys.min(), ys.max()
+    wys = np.nonzero(white.any(1))[0]
+    assert top >= wys.min() - 4, f"JP lines joined to the big name above (top {top}, white from {wys.min()})"
+    gaps = [y for y in range(wys.min(), wys.max()) if y not in set(wys)]
+    assert gaps, "one JP line only"
+    band = ((gaps[0] + gaps[-1]) // 2 + 1, a.shape[0])   # the title line: rows below the gap after the kana line
+    out = a.copy()
+    out[grow(old, 1)] = 0
+    im = Image.fromarray(out)
+    d = ImageDraw.Draw(im)
+    for s in range(13, 8, -1):
+        f = font("LiberationSans-Bold.ttf", s)
+        x0, y0, x1, y1 = d.textbbox((0, 0), text, font=f, anchor="lm", stroke_width=2)
+        if x1 - x0 <= a.shape[1] - 8 and y1 - y0 <= band[1] - band[0]:
+            break
+    else:
+        raise ValueError(f"too wide: {text}")
+    w = x1 - x0
+    cx = (xs.min() + xs.max()) / 2
+    x = min(max(4, cx - w / 2), a.shape[1] - 4 - w)   # near the left edge: slide right, don't cut
+    y = band[0] + (band[1] - band[0] - (y1 - y0)) // 2 - y0   # ink with its rim centred in the band
+    d.text((round(x - x0), y), text, font=f, fill=(255, 255, 255, 255), anchor="lm", stroke_width=2,
+           stroke_fill=(0, 0, 0, 255))
+    res = np.array(im)
+    was = (res[..., 3] == 0) & (a[..., 3] == 0)
+    res[was] = a[was]   # clear stays its own clear (two clear entries here)
+    return res
+
+
+for _f, _t in cutins_tsv().items():
+    asset(f"cutin{_f}", _f, "ptx", 0, (0, 150, 288, 80), lambda a, t, s=_t: draw_cutin(a, s))
+
+
 # --- status popups (id 3 section 16: 250x40 PTGs, white italic, right-aligned over the unit) ---------------------
 
 POPUPS = ["pop_morale_damage", "pop_morale_restored", "pop_ailment_cured", "pop_drowsy", "pop_all_up", "pop_gen_up",

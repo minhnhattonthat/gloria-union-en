@@ -1,9 +1,12 @@
 """Skill cut-in text textures (55 files, odd ids 297-404: one 288x230 PTX at +0; the even ids are the 256x272 cards).
 
-    python -X utf8 tools/cutins.py OUT.png FROM TO [--div 2]    # every text PTX in the range, on grey, 3 columns
+    python -X utf8 tools/cutins.py OUT.png FROM TO [--div 2] [--new]    # every text PTX in the range, on grey, 3 columns
+    (--new: the redraw gfx/cutinNNN.png where there is one)
 """
 import sys
 from pathlib import Path
+
+import numpy as np
 
 from PIL import Image, ImageDraw
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -18,7 +21,8 @@ for f in range(lo, hi + 1):
     if b[:4] != b"PTX@": continue
     t = ptx.parse(b, 0)
     if (t["w"], t["h"]) != (288, 230): continue
-    tiles.append((f, ptx.decode(b, t)))
+    new = gfx.GFX / f"cutin{f}.png"
+    tiles.append((f, np.array(Image.open(new).convert("RGBA")) if "--new" in sys.argv and new.exists() else ptx.decode(b, t)))
 cols = 3
 W, H = 288 // div + 4, 230 // div + 4
 im = Image.new("RGB", (W * cols, H * (-(-len(tiles) // cols))), (0, 0, 0))

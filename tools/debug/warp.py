@@ -110,7 +110,12 @@ def go(name, iso, state_out=None, text_log=False):
         if kind in ('enemy', 'skill'):
             for _ in range(12):
                 if not g.end_turn(lambda g: g.mode() == 34): break
-        if kind == 'skill': g.skill()
+        if kind == 'skill':   # the first fight can be one where Square never fires (an enemy card skill): try later ones
+            for _ in range(6):
+                if g.skill(): break
+                g.until(lambda g: g.mode() != 34, 6000, 'circle')
+                for _ in range(12):
+                    if not g.end_turn(lambda g: g.mode() == 34): break
         if kind == 'outcome': g.outcome(arg)
         press(g, KEYS.get(name, ()))
         ok = g.until(lambda g: reached(g, proof), WAITS[kind]) if kind in WAITS else g.until(lambda g: reached(g, proof), 300, None)
